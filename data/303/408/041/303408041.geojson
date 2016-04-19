@@ -1,0 +1,69 @@
+{
+  "id": 303408041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.066824,39.818412,-86.066824,39.818412",
+    "geom:latitude":39.818412,
+    "geom:longitude":-86.066824,
+    "iso:country":"US",
+    "sg:address":"5902 E 34th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 546 7980",
+    "sg:postcode":"46218",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.north-starelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85870663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cK9IAvaQjko5g9aX6pQZP_39.818412_-86.066824@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"707dbfc79cd05355b832778529a5d332",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85870663,
+            "region_id":85688709,
+            "venue_id":303408041
+        }
+    ],
+    "wof:id":303408041,
+    "wof:lastmodified":1448998421,
+    "wof:name":"North Star Electric",
+    "wof:parent_id":85870663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-86.066824,39.818412,-86.066824,39.818412],
+  "geometry": {"coordinates":[-86.066824,39.818412],"type":"Point"}
+}

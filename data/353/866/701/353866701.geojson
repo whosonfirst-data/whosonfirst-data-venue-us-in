@@ -1,0 +1,68 @@
+{
+  "id": 353866701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.507201,40.613147,-85.507201,40.613147",
+    "geom:latitude":40.613147,
+    "geom:longitude":-85.507201,
+    "iso:country":"US",
+    "sg:address":"301 W Chester St",
+    "sg:city":"Van Buren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 934 4332",
+    "sg:postcode":"46991",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jbi9fU4UD9HBOkiIZMGoC_40.613147_-85.507201@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c23715cdfc0ec76846d6769be23e0264",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":353866701
+        }
+    ],
+    "wof:id":353866701,
+    "wof:lastmodified":1449019476,
+    "wof:name":"Jim Mayo Garage",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.507201,40.613147,-85.507201,40.613147],
+  "geometry": {"coordinates":[-85.507201,40.613147],"type":"Point"}
+}

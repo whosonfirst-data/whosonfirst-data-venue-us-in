@@ -1,0 +1,68 @@
+{
+  "id": 303249247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.172058,41.22718,-85.172058,41.22718",
+    "geom:latitude":41.22718,
+    "geom:longitude":-85.172058,
+    "iso:country":"US",
+    "sg:address":"15512 Lima Rd",
+    "sg:city":"Huntertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 637 5500",
+    "sg:postcode":"46748",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c3LywZTxW0bjsWav9TYmk_41.227180_-85.172058@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20b154ecd2b56a248cbdea9e9c31b789",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877563,
+            "region_id":85688709,
+            "venue_id":303249247
+        }
+    ],
+    "wof:id":303249247,
+    "wof:lastmodified":1448998245,
+    "wof:name":"Import Car Svc",
+    "wof:parent_id":85877563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.172058,41.22718,-85.172058,41.22718],
+  "geometry": {"coordinates":[-85.172058,41.22718],"type":"Point"}
+}

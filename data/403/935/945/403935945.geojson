@@ -1,0 +1,68 @@
+{
+  "id": 403935945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658777,40.567441,-85.658777,40.567441",
+    "geom:latitude":40.567441,
+    "geom:longitude":-85.658777,
+    "iso:country":"US",
+    "sg:address":"125 E Bradford St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 2935",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dX8dEpzsDGt57Uc1AI19v_40.567441_-85.658777@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b74c0c22d82d57f6c5238fbe298bf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":403935945
+        }
+    ],
+    "wof:id":403935945,
+    "wof:lastmodified":1449055728,
+    "wof:name":"Haynes Auto Repair",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.658777,40.567441,-85.658777,40.567441],
+  "geometry": {"coordinates":[-85.658777,40.567441],"type":"Point"}
+}

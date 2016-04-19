@@ -1,0 +1,68 @@
+{
+  "id": 353723343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.148576,41.077973,-85.148576,41.077973",
+    "geom:latitude":41.077973,
+    "geom:longitude":-85.148576,
+    "iso:country":"US",
+    "sg:address":"604 W Berry St",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 423 1331",
+    "sg:postcode":"46802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PLF5oe0OCCcbSwhf2NwPX_41.077973_-85.148576@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a43cce56c52ab194a3672f8aa54fef31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877571,
+            "region_id":85688709,
+            "venue_id":353723343
+        }
+    ],
+    "wof:id":353723343,
+    "wof:lastmodified":1449019760,
+    "wof:name":"Allen County Cardiology",
+    "wof:parent_id":85877571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.148576,41.077973,-85.148576,41.077973],
+  "geometry": {"coordinates":[-85.148576,41.077973],"type":"Point"}
+}

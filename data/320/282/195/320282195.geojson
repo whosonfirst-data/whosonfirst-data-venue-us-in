@@ -1,0 +1,68 @@
+{
+  "id": 320282195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.008623,41.069748,-85.008623,41.069748",
+    "geom:latitude":41.069748,
+    "geom:longitude":-85.008623,
+    "iso:country":"US",
+    "sg:address":"1432 N Park Dr",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 493 6078",
+    "sg:postcode":"46774",
+    "sg:province":"IN",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x0GnBSCWt7aor53jiPqhN_41.069748_-85.008623@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b39e9c0bec455ab74ef337da33915e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":320282195
+        }
+    ],
+    "wof:id":320282195,
+    "wof:lastmodified":1449013593,
+    "wof:name":"Don Kring Machine Shop Service",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-85.008623,41.069748,-85.008623,41.069748],
+  "geometry": {"coordinates":[-85.008623,41.069748],"type":"Point"}
+}

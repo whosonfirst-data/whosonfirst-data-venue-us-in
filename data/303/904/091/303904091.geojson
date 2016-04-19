@@ -1,0 +1,69 @@
+{
+  "id": 303904091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.239548,40.263659,-85.239548,40.263659",
+    "geom:latitude":40.263659,
+    "geom:longitude":-85.239548,
+    "iso:country":"US",
+    "sg:address":"12000 E Co Rd 500 N",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 789 6711",
+    "sg:postcode":"47320",
+    "sg:province":"IN",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_245fce1XDUMtlmpOnXqmBs_40.263659_-85.239548@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6a14a6c816e8019ee3522bf4362bbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":303904091
+        }
+    ],
+    "wof:id":303904091,
+    "wof:lastmodified":1449000622,
+    "wof:name":"Bo's Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [-85.239548,40.263659,-85.239548,40.263659],
+  "geometry": {"coordinates":[-85.239548,40.263659],"type":"Point"}
+}

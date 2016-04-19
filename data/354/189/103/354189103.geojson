@@ -1,0 +1,66 @@
+{
+  "id": 354189103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.156288,39.742382,-86.156288,39.742382",
+    "geom:latitude":39.742382,
+    "geom:longitude":-86.156288,
+    "iso:country":"US",
+    "sg:address":"1810 S Talbott St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 888 9282",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85866943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26BLWA71iFQpCcee3uIp5u_39.742382_-86.156288@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e8d8121d075ae3809e83b48174b8713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85866943,
+            "region_id":85688709,
+            "venue_id":354189103
+        }
+    ],
+    "wof:id":354189103,
+    "wof:lastmodified":1449067160,
+    "wof:name":"Duvall's Appliance Svc",
+    "wof:parent_id":85866943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-86.156288,39.742382,-86.156288,39.742382],
+  "geometry": {"coordinates":[-86.156288,39.742382],"type":"Point"}
+}

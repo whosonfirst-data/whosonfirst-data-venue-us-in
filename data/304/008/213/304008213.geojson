@@ -1,0 +1,68 @@
+{
+  "id": 304008213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.955661,41.6515,-85.955661,41.6515",
+    "geom:latitude":41.6515,
+    "geom:longitude":-85.955661,
+    "iso:country":"US",
+    "sg:address":"700 Waterbury Park Dr",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 294 4444",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942259,
+        102086257,
+        85823045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zXq8C6M3l3otW7TeVKKep_41.651500_-85.955661@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be675466c0ab0c6bf79c9887405a49ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086257,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":304008213
+        }
+    ],
+    "wof:id":304008213,
+    "wof:lastmodified":1449043736,
+    "wof:name":"Nephrology Inc",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.955661,41.6515,-85.955661,41.6515],
+  "geometry": {"coordinates":[-85.955661,41.6515],"type":"Point"}
+}

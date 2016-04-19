@@ -1,0 +1,67 @@
+{
+  "id": 370540001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.119557,39.84645,-86.119557,39.84645",
+    "geom:latitude":39.84645,
+    "geom:longitude":-86.119557,
+    "iso:country":"US",
+    "sg:address":"4755 Kingsway Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 253 3791",
+    "sg:postcode":"46205",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.hamiltoncenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85870671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_703tASufkkTaQcgdnoFoPj_39.846450_-86.119557@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2233ad421118aa4f50e7020425b6dba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85870671,
+            "region_id":85688709,
+            "venue_id":370540001
+        }
+    ],
+    "wof:id":370540001,
+    "wof:lastmodified":1449030414,
+    "wof:name":"Hamilton Center Inc",
+    "wof:parent_id":85870671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-86.119557,39.84645,-86.119557,39.84645],
+  "geometry": {"coordinates":[-86.119557,39.84645],"type":"Point"}
+}

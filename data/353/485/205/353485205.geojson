@@ -1,0 +1,68 @@
+{
+  "id": 353485205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270013,39.946608,-86.270013,39.946608",
+    "geom:latitude":39.946608,
+    "geom:longitude":-86.270013,
+    "iso:country":"US",
+    "sg:address":"855 Starkey Rd",
+    "sg:city":"Zionsville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 873 2332",
+    "sg:postcode":"46077",
+    "sg:province":"IN",
+    "sg:tags":[
+        "equipment",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941757,
+        102086453,
+        85838263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ApSmVltqcDC4t8eUNVgNc_39.946608_-86.270013@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51d2cb279129d7247fbb4f64871b9ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941757,
+            "neighbourhood_id":85838263,
+            "region_id":85688709,
+            "venue_id":353485205
+        }
+    ],
+    "wof:id":353485205,
+    "wof:lastmodified":1449019834,
+    "wof:name":"Zionsville Sewage Plant",
+    "wof:parent_id":85838263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "treatment"
+    ]
+},
+  "bbox": [-86.270013,39.946608,-86.270013,39.946608],
+  "geometry": {"coordinates":[-86.270013,39.946608],"type":"Point"}
+}

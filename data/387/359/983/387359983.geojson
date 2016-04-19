@@ -1,0 +1,68 @@
+{
+  "id": 387359983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.138413,39.754918,-86.138413,39.754918",
+    "geom:latitude":39.754918,
+    "geom:longitude":-86.138413,
+    "iso:country":"US",
+    "sg:address":"1128 Pleasant St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 631 1167",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85891155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lTLqpkPvtHHlJuwl8Ffqo_39.754918_-86.138413@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c2deac47ae32f73f99fcdfbc5336003",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85891155,
+            "region_id":85688709,
+            "venue_id":387359983
+        }
+    ],
+    "wof:id":387359983,
+    "wof:lastmodified":1449056055,
+    "wof:name":"Adams Trucking Inc",
+    "wof:parent_id":85891155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-86.138413,39.754918,-86.138413,39.754918],
+  "geometry": {"coordinates":[-86.138413,39.754918],"type":"Point"}
+}

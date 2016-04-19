@@ -1,0 +1,66 @@
+{
+  "id": 304065291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.54485,39.172548,-86.54485,39.172548",
+    "geom:latitude":39.172548,
+    "geom:longitude":-86.54485,
+    "iso:country":"US",
+    "sg:address":"1209 W 10th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 323 0931",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85803503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UxJ8rqz5OI5WJydz0A2wX_39.172548_-86.544850@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abda703021dad9e43bc6a775bb5c6736",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85803503,
+            "region_id":85688709,
+            "venue_id":304065291
+        }
+    ],
+    "wof:id":304065291,
+    "wof:lastmodified":1449044155,
+    "wof:name":"Verdinas Cleaning",
+    "wof:parent_id":85803503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-86.54485,39.172548,-86.54485,39.172548],
+  "geometry": {"coordinates":[-86.54485,39.172548],"type":"Point"}
+}

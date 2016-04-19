@@ -1,0 +1,71 @@
+{
+  "id": 303650243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.274011,39.764703,-86.274011,39.764703",
+    "geom:latitude":39.764703,
+    "geom:longitude":-86.274011,
+    "iso:country":"US",
+    "sg:address":"6406 Rockville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 241 7173",
+    "sg:postcode":"46214",
+    "sg:province":"IN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85810395,
+        85828271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RfAxHggRXBTGq2MJSL97a_39.764703_-86.274011@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a1cde0e651497817c81bdc02ff3e8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85810395,
+            "region_id":85688709,
+            "venue_id":303650243
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85828271,
+            "region_id":85688709,
+            "venue_id":303650243
+        }
+    ],
+    "wof:id":303650243,
+    "wof:lastmodified":1448999612,
+    "wof:name":"Watson's Garden Gate Florist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-86.274011,39.764703,-86.274011,39.764703],
+  "geometry": {"coordinates":[-86.274011,39.764703],"type":"Point"}
+}

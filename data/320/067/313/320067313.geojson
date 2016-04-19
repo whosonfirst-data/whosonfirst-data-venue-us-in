@@ -1,0 +1,67 @@
+{
+  "id": 320067313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.503385,41.560499,-87.503385,41.560499",
+    "geom:latitude":41.560499,
+    "geom:longitude":-87.503385,
+    "iso:country":"US",
+    "sg:address":"1001 Ridge Rd",
+    "sg:city":"Munster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 836 6600",
+    "sg:postcode":"46321",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.munster.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941831,
+        102087149,
+        85891179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B3CNgSWl8tCILhdC8YU2J_41.560499_-87.503385@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"426ff0f01c260d6d96036363aadfc223",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941831,
+            "neighbourhood_id":85891179,
+            "region_id":85688709,
+            "venue_id":320067313
+        }
+    ],
+    "wof:id":320067313,
+    "wof:lastmodified":1449011484,
+    "wof:name":"Munster Police Dept",
+    "wof:parent_id":85891179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-87.503385,41.560499,-87.503385,41.560499],
+  "geometry": {"coordinates":[-87.503385,41.560499],"type":"Point"}
+}

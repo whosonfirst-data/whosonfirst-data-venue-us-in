@@ -1,0 +1,68 @@
+{
+  "id": 353599833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.461577,40.044005,-86.461577,40.044005",
+    "geom:latitude":40.044005,
+    "geom:longitude":-86.461577,
+    "iso:country":"US",
+    "sg:address":"507 Indianapolis Ave",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 9803",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qq8wJnogSz0oW0TS7e4P6_40.044005_-86.461577@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ce0abcae55b256a3e2805ff05b212ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":353599833
+        }
+    ],
+    "wof:id":353599833,
+    "wof:lastmodified":1449019442,
+    "wof:name":"Classic Auto",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.461577,40.044005,-86.461577,40.044005],
+  "geometry": {"coordinates":[-86.461577,40.044005],"type":"Point"}
+}

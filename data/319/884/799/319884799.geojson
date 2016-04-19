@@ -1,0 +1,68 @@
+{
+  "id": 319884799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.158629,41.09606,-85.158629,41.09606",
+    "geom:latitude":41.09606,
+    "geom:longitude":-85.158629,
+    "iso:country":"US",
+    "sg:address":"1104 W State Blvd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 426 1007",
+    "sg:postcode":"46808",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85819467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKWoHGgyOYP4kaWC4H3ml_41.096060_-85.158629@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7f5d22f1e443bd748c57fec386f407e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85819467,
+            "region_id":85688709,
+            "venue_id":319884799
+        }
+    ],
+    "wof:id":319884799,
+    "wof:lastmodified":1449024740,
+    "wof:name":"Northwest Family Practice",
+    "wof:parent_id":85819467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.158629,41.09606,-85.158629,41.09606],
+  "geometry": {"coordinates":[-85.158629,41.09606],"type":"Point"}
+}

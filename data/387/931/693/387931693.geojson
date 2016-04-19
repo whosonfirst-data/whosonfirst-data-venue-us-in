@@ -1,0 +1,73 @@
+{
+  "id": 387931693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.935511,41.702287,-85.935511,41.702287",
+    "geom:latitude":41.702287,
+    "geom:longitude":-85.935511,
+    "iso:country":"US",
+    "sg:address":"2901 E Bristol St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 264 3321",
+    "sg:postcode":"46514",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospice",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942259,
+        102086257,
+        85823045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ikwHW0hVfAAkMBaMjO2Ax_41.702287_-85.935511@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"808ed1225b10b53c241e678466464041",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086257,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":387931693
+        }
+    ],
+    "wof:id":387931693,
+    "wof:lastmodified":1449059573,
+    "wof:name":"Hospice of Elkhart County",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice",
+        "home"
+    ]
+},
+  "bbox": [-85.935511,41.702287,-85.935511,41.702287],
+  "geometry": {"coordinates":[-85.935511,41.702287],"type":"Point"}
+}

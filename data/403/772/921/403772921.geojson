@@ -1,0 +1,68 @@
+{
+  "id": 403772921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240102,39.82896,-86.240102,39.82896",
+    "geom:latitude":39.82896,
+    "geom:longitude":-86.240102,
+    "iso:country":"US",
+    "sg:address":"4090 Lafayette Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 295 1996",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85858453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VmwOlV8OKoyZCTvytearo_39.828960_-86.240102@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"422c0b6102d88e46d40c32cdd179cd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85858453,
+            "region_id":85688709,
+            "venue_id":403772921
+        }
+    ],
+    "wof:id":403772921,
+    "wof:lastmodified":1449055230,
+    "wof:name":"Kroner Automotive",
+    "wof:parent_id":85858453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.240102,39.82896,-86.240102,39.82896],
+  "geometry": {"coordinates":[-86.240102,39.82896],"type":"Point"}
+}

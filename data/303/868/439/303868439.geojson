@@ -1,0 +1,70 @@
+{
+  "id": 303868439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.904094,39.221832,-85.904094,39.221832",
+    "geom:latitude":39.221832,
+    "geom:longitude":-85.904094,
+    "iso:country":"US",
+    "sg:address":"2345 Central Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 376 3402",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85837517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vM4pMTS05qAI3QpRAtaXu_39.221832_-85.904094@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57448f0158db9396c881d51db74da8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85837517,
+            "region_id":85688709,
+            "venue_id":303868439
+        }
+    ],
+    "wof:id":303868439,
+    "wof:lastmodified":1448998227,
+    "wof:name":"Pet Cures Dog Grooming",
+    "wof:parent_id":85837517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-85.904094,39.221832,-85.904094,39.221832],
+  "geometry": {"coordinates":[-85.904094,39.221832],"type":"Point"}
+}

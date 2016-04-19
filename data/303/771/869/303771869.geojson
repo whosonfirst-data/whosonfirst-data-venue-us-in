@@ -1,0 +1,66 @@
+{
+  "id": 303771869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677638,40.567611,-85.677638,40.567611",
+    "geom:latitude":40.567611,
+    "geom:longitude":-85.677638,
+    "iso:country":"US",
+    "sg:address":"1015 N Forest Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 2612",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IugU7g96dBAl0f7UbWf1Z_40.567611_-85.677638@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90d86b4a61b334970c34ef181f9b88c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":303771869
+        }
+    ],
+    "wof:id":303771869,
+    "wof:lastmodified":1448999447,
+    "wof:name":"Marsh Supermarket",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-85.677638,40.567611,-85.677638,40.567611],
+  "geometry": {"coordinates":[-85.677638,40.567611],"type":"Point"}
+}

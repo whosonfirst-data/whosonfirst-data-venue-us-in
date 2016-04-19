@@ -1,0 +1,68 @@
+{
+  "id": 303557363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.567597,38.35424,-87.567597,38.35424",
+    "geom:latitude":38.35424,
+    "geom:longitude":-87.567597,
+    "iso:country":"US",
+    "sg:address":"201 S Main St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 3007",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N34NRHBTF0x9PbZv505lr_38.354240_-87.567597@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba01ecc8e0070d574de998b5a28d4027",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":303557363
+        }
+    ],
+    "wof:id":303557363,
+    "wof:lastmodified":1448999863,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-87.567597,38.35424,-87.567597,38.35424],
+  "geometry": {"coordinates":[-87.567597,38.35424],"type":"Point"}
+}

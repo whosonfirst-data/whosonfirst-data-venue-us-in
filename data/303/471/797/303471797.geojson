@@ -1,0 +1,67 @@
+{
+  "id": 303471797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.928965,39.829291,-84.928965,39.829291",
+    "geom:latitude":39.829291,
+    "geom:longitude":-84.928965,
+    "iso:country":"US",
+    "sg:address":"1820 W Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 962 4839",
+    "sg:postcode":"47374",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941877,
+        102086979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HSZrpjAyEOa0cdgJyDipc_39.829291_-84.928965@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1317afa63688696f67d27ff1b0e9a044",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086979,
+            "locality_id":85941877,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":303471797
+        }
+    ],
+    "wof:id":303471797,
+    "wof:lastmodified":1448999102,
+    "wof:name":"Ronan's Auto Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-84.928965,39.829291,-84.928965,39.829291],
+  "geometry": {"coordinates":[-84.928965,39.829291],"type":"Point"}
+}

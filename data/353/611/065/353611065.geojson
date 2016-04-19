@@ -1,0 +1,68 @@
+{
+  "id": 353611065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.155784,41.088764,-85.155784,41.088764",
+    "geom:latitude":41.088764,
+    "geom:longitude":-85.155784,
+    "iso:country":"US",
+    "sg:address":"1015 Spring St",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 426 1660",
+    "sg:postcode":"46808",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NQuak4S1vB6bE332r2E9Y_41.088764_-85.155784@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd298a110f4e130d370a99a0b3dbd2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877571,
+            "region_id":85688709,
+            "venue_id":353611065
+        }
+    ],
+    "wof:id":353611065,
+    "wof:lastmodified":1449020281,
+    "wof:name":"Bill's Auto Repair",
+    "wof:parent_id":85877571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.155784,41.088764,-85.155784,41.088764],
+  "geometry": {"coordinates":[-85.155784,41.088764],"type":"Point"}
+}

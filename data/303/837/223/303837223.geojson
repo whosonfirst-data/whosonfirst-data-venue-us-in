@@ -1,0 +1,79 @@
+{
+  "id": 303837223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.17927,39.754906,-86.17927,39.754906",
+    "geom:latitude":39.754906,
+    "geom:longitude":-86.17927,
+    "iso:country":"US",
+    "sg:address":"666 River Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 631 6385",
+    "sg:postcode":"46221",
+    "sg:province":"IN",
+    "sg:tags":[
+        "engine",
+        "automotive",
+        "testing",
+        "comb",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85805599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aBhAhlObrUFIeYH2CG9J6_39.754906_-86.179270@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17fa0f658dcbdbec71de298c69b6eec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85805599,
+            "region_id":85688709,
+            "venue_id":303837223
+        }
+    ],
+    "wof:id":303837223,
+    "wof:lastmodified":1448998500,
+    "wof:name":"Graves Electronics Service",
+    "wof:parent_id":85805599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "automotive",
+        "testing",
+        "comb",
+        "equipment"
+    ]
+},
+  "bbox": [-86.17927,39.754906,-86.17927,39.754906],
+  "geometry": {"coordinates":[-86.17927,39.754906],"type":"Point"}
+}

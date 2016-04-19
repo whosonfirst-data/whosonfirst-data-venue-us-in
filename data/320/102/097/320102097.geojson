@@ -1,0 +1,68 @@
+{
+  "id": 320102097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.056123,39.876831,-86.056123,39.876831",
+    "geom:latitude":39.876831,
+    "geom:longitude":-86.056123,
+    "iso:country":"US",
+    "sg:address":"6418 Landborough S Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 845 1305",
+    "sg:postcode":"46220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85804019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SYD3kRBofHlzwBNcVNwbJ_39.876831_-86.056123@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"502a2733dbe54c362c1704b691d97d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85804019,
+            "region_id":85688709,
+            "venue_id":320102097
+        }
+    ],
+    "wof:id":320102097,
+    "wof:lastmodified":1449014681,
+    "wof:name":"Community Eye Care",
+    "wof:parent_id":85804019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-86.056123,39.876831,-86.056123,39.876831],
+  "geometry": {"coordinates":[-86.056123,39.876831],"type":"Point"}
+}

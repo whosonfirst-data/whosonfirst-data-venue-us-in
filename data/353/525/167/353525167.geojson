@@ -1,0 +1,68 @@
+{
+  "id": 353525167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.38919,39.448289,-87.38919,39.448289",
+    "geom:latitude":39.448289,
+    "geom:longitude":-87.38919,
+    "iso:country":"US",
+    "sg:address":"1835 Hulman St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 5115",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D6ChYh2pL7RKQSNwH9iOt_39.448289_-87.389190@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84b2317fbf9a1111fc3d393559944300",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":353525167
+        }
+    ],
+    "wof:id":353525167,
+    "wof:lastmodified":1449020293,
+    "wof:name":"Wilguess Service Ctr",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-87.38919,39.448289,-87.38919,39.448289],
+  "geometry": {"coordinates":[-87.38919,39.448289],"type":"Point"}
+}

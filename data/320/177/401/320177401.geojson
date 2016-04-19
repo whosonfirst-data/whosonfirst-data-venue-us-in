@@ -1,0 +1,68 @@
+{
+  "id": 320177401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.600057,40.487894,-85.600057,40.487894",
+    "geom:latitude":40.487894,
+    "geom:longitude":-85.600057,
+    "iso:country":"US",
+    "sg:address":"701 E Main St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 9419",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5huzCp2ZeiBlDWRSHZwkX1_40.487894_-85.600057@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43f968d1fcf4e7781c837604716efd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":320177401
+        }
+    ],
+    "wof:id":320177401,
+    "wof:lastmodified":1449014965,
+    "wof:name":"Clevenger Car Clinic",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.600057,40.487894,-85.600057,40.487894],
+  "geometry": {"coordinates":[-85.600057,40.487894],"type":"Point"}
+}

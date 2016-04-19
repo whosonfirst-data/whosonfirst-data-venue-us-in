@@ -1,0 +1,68 @@
+{
+  "id": 320323321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.113465,41.075566,-85.113465,41.075566",
+    "geom:latitude":41.075566,
+    "geom:longitude":-85.113465,
+    "iso:country":"US",
+    "sg:address":"1830 Maumee Ave",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 420 7518",
+    "sg:postcode":"46803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RRpb8Rt6V90qKHE3PJSs2_41.075566_-85.113465@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bdd13d1a0b68fd0a8fc0a0f61235e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877545,
+            "region_id":85688709,
+            "venue_id":320323321
+        }
+    ],
+    "wof:id":320323321,
+    "wof:lastmodified":1449011564,
+    "wof:name":"Anderson Automotive",
+    "wof:parent_id":85877545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.113465,41.075566,-85.113465,41.075566],
+  "geometry": {"coordinates":[-85.113465,41.075566],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 303888799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.934685,40.828345,-84.934685,40.828345",
+    "geom:latitude":40.828345,
+    "geom:longitude":-84.934685,
+    "iso:country":"US",
+    "sg:address":"1115 Madison St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 724 3359",
+    "sg:postcode":"46733",
+    "sg:province":"IN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941807,
+        102087151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCIlhQvszSOcxy0VMxvtm_40.828345_-84.934685@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1bcfc5235721af983fc5a92ea6d19b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087151,
+            "locality_id":85941807,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":303888799
+        }
+    ],
+    "wof:id":303888799,
+    "wof:lastmodified":1448999646,
+    "wof:name":"Bob's Locksmith Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-84.934685,40.828345,-84.934685,40.828345],
+  "geometry": {"coordinates":[-84.934685,40.828345],"type":"Point"}
+}

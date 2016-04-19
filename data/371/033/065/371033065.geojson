@@ -1,0 +1,79 @@
+{
+  "id": 371033065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257202,39.75041,-86.257202,39.75041",
+    "geom:latitude":39.75041,
+    "geom:longitude":-86.257202,
+    "iso:country":"US",
+    "sg:address":"5656 W Morris St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 248 0499",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "refrigeration",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85805707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76y6ak45rivWZhOb59GYOp_39.750410_-86.257202@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad920d8e623d139ec1bc8a41cd83666e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85805707,
+            "region_id":85688709,
+            "venue_id":371033065
+        }
+    ],
+    "wof:id":371033065,
+    "wof:lastmodified":1449049260,
+    "wof:name":"Unicorn Refrigeration Svc",
+    "wof:parent_id":85805707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "refrigeration",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [-86.257202,39.75041,-86.257202,39.75041],
+  "geometry": {"coordinates":[-86.257202,39.75041],"type":"Point"}
+}

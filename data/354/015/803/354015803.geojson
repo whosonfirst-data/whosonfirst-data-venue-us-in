@@ -1,0 +1,68 @@
+{
+  "id": 354015803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.580638,39.146209,-86.580638,39.146209",
+    "geom:latitude":39.146209,
+    "geom:longitude":-86.580638,
+    "iso:country":"US",
+    "sg:address":"2207 S Yost Ave",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 9261",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fsyHT4LYN1djLgcJGHGfl_39.146209_-86.580638@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0914c8269d3b810edb67b37ec49f8ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":354015803
+        }
+    ],
+    "wof:id":354015803,
+    "wof:lastmodified":1449066318,
+    "wof:name":"World Wide Automotive Svc",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [-86.580638,39.146209,-86.580638,39.146209],
+  "geometry": {"coordinates":[-86.580638,39.146209],"type":"Point"}
+}

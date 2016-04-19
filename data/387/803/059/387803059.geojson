@@ -1,0 +1,68 @@
+{
+  "id": 387803059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.496805,37.964661,-87.496805,37.964661",
+    "geom:latitude":37.964661,
+    "geom:longitude":-87.496805,
+    "iso:country":"US",
+    "sg:address":"950 Kenmore Dr",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 485 5800",
+    "sg:postcode":"47714",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S41bFEYfjhbY8rQfizJ7S_37.964661_-87.496805@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ace5436e28388087a9a77c473ea32033",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877275,
+            "region_id":85688709,
+            "venue_id":387803059
+        }
+    ],
+    "wof:id":387803059,
+    "wof:lastmodified":1449059961,
+    "wof:name":"Robert Rold MD",
+    "wof:parent_id":85877275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.496805,37.964661,-87.496805,37.964661],
+  "geometry": {"coordinates":[-87.496805,37.964661],"type":"Point"}
+}

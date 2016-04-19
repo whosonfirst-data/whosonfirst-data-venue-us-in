@@ -1,0 +1,67 @@
+{
+  "id": 353538203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844743,40.277028,-85.844743,40.277028",
+    "geom:latitude":40.277028,
+    "geom:longitude":-85.844743,
+    "iso:country":"US",
+    "sg:address":"1410 Main St",
+    "sg:city":"Elwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 552 7806",
+    "sg:postcode":"46036",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942005,
+        102086407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lo23XF1HLeumhHRWXZqWR_40.277028_-85.844743@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d461bb9a0a9ae7834fba24ce92cdb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942005,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":353538203
+        }
+    ],
+    "wof:id":353538203,
+    "wof:lastmodified":1449018566,
+    "wof:name":"Main Street Auto & Truck Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.844743,40.277028,-85.844743,40.277028],
+  "geometry": {"coordinates":[-85.844743,40.277028],"type":"Point"}
+}

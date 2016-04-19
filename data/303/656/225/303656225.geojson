@@ -1,0 +1,68 @@
+{
+  "id": 303656225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.540404,37.9969,-87.540404,37.9969",
+    "geom:latitude":37.9969,
+    "geom:longitude":-87.540404,
+    "iso:country":"US",
+    "sg:address":"2017 N Fares Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 424 3345",
+    "sg:postcode":"47711",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jFl0zrm04m16kjnqZR7vI_37.996900_-87.540404@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"361f241bcee9cf6182497782a411d9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877327,
+            "region_id":85688709,
+            "venue_id":303656225
+        }
+    ],
+    "wof:id":303656225,
+    "wof:lastmodified":1448999712,
+    "wof:name":"BFI Waste Systems",
+    "wof:parent_id":85877327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-87.540404,37.9969,-87.540404,37.9969],
+  "geometry": {"coordinates":[-87.540404,37.9969],"type":"Point"}
+}

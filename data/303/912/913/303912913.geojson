@@ -1,0 +1,69 @@
+{
+  "id": 303912913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.125904,41.123148,-85.125904,41.123148",
+    "geom:latitude":41.123148,
+    "geom:longitude":-85.125904,
+    "iso:country":"US",
+    "sg:address":"5050 N Clinton St",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 484 8551",
+    "sg:postcode":"46825",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.orthone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85838221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23qvGr8hU4XcSn2T3zvTKl_41.123148_-85.125904@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c215a59f41063e9dc19a2bab8b677b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85838221,
+            "region_id":85688709,
+            "venue_id":303912913
+        }
+    ],
+    "wof:id":303912913,
+    "wof:lastmodified":1448999324,
+    "wof:name":"Orthopaedics Northeast",
+    "wof:parent_id":85838221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.125904,41.123148,-85.125904,41.123148],
+  "geometry": {"coordinates":[-85.125904,41.123148],"type":"Point"}
+}

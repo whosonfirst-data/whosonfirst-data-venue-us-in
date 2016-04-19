@@ -1,0 +1,68 @@
+{
+  "id": 387325855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.425251,41.550811,-87.425251,41.550811",
+    "geom:latitude":41.550811,
+    "geom:longitude":-87.425251,
+    "iso:country":"US",
+    "sg:address":"112 E Ridge Rd",
+    "sg:city":"Griffith",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 923 5600",
+    "sg:postcode":"46319",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941815,
+        102087149,
+        85853495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ayfC0LN7oc7cmfzeOsdJH_41.550811_-87.425251@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eff86e7627cc53f309cbaf47e4c8594e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941815,
+            "neighbourhood_id":85853495,
+            "region_id":85688709,
+            "venue_id":387325855
+        }
+    ],
+    "wof:id":387325855,
+    "wof:lastmodified":1449057605,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85853495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-87.425251,41.550811,-87.425251,41.550811],
+  "geometry": {"coordinates":[-87.425251,41.550811],"type":"Point"}
+}

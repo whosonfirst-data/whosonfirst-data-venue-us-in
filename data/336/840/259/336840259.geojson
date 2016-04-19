@@ -1,0 +1,78 @@
+{
+  "id": 336840259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.133187,41.157013,-85.133187,41.157013",
+    "geom:latitude":41.157013,
+    "geom:longitude":-85.133187,
+    "iso:country":"US",
+    "sg:address":"8112 Ravinia Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 489 6248",
+    "sg:postcode":"46825",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85846339,
+        85877563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26nSgiywjNHyZkQy3uRWad_41.157013_-85.133187@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57d75e619c2b57b33188cf5a1ac9251b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85846339,
+            "region_id":85688709,
+            "venue_id":336840259
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877563,
+            "region_id":85688709,
+            "venue_id":336840259
+        }
+    ],
+    "wof:id":336840259,
+    "wof:lastmodified":1448997791,
+    "wof:name":"Tech Of Fort Wayne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [-85.133187,41.157013,-85.133187,41.157013],
+  "geometry": {"coordinates":[-85.133187,41.157013],"type":"Point"}
+}

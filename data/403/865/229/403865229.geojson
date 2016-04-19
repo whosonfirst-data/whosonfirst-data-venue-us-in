@@ -1,0 +1,66 @@
+{
+  "id": 403865229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.45277,38.662699,-86.45277,38.662699",
+    "geom:latitude":38.662699,
+    "geom:longitude":-86.45277,
+    "iso:country":"US",
+    "sg:address":"148 N Maple St",
+    "sg:city":"Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 865 2222",
+    "sg:postcode":"47452",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.orleanspolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941633,
+        102087163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AUiOjb47g3Z4XkESHXeFe_38.662699_-86.452770@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3058f153185b60c0e35960f96e125a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087163,
+            "locality_id":85941633,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":403865229
+        }
+    ],
+    "wof:id":403865229,
+    "wof:lastmodified":1449055634,
+    "wof:name":"Orleans Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-86.45277,38.662699,-86.45277,38.662699],
+  "geometry": {"coordinates":[-86.45277,38.662699],"type":"Point"}
+}

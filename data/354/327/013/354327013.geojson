@@ -1,0 +1,68 @@
+{
+  "id": 354327013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.365547,39.618742,-86.365547,39.618742",
+    "geom:latitude":39.618742,
+    "geom:longitude":-86.365547,
+    "iso:country":"US",
+    "sg:address":"500 Indianapolis Rd",
+    "sg:city":"Mooresville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 831 0360",
+    "sg:postcode":"46158",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942327,
+        102087091,
+        85859409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nIDZdwbSxxMxaxA5UDtkV_39.618742_-86.365547@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1481d0cf290cd5f0016922774e77edf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942327,
+            "neighbourhood_id":85859409,
+            "region_id":85688709,
+            "venue_id":354327013
+        }
+    ],
+    "wof:id":354327013,
+    "wof:lastmodified":1449066057,
+    "wof:name":"Barlow Automotive Svc",
+    "wof:parent_id":85859409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.365547,39.618742,-86.365547,39.618742],
+  "geometry": {"coordinates":[-86.365547,39.618742],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 320338477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.242341,39.754719,-86.242341,39.754719",
+    "geom:latitude":39.754719,
+    "geom:longitude":-86.242341,
+    "iso:country":"US",
+    "sg:address":"1051 Laclede St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 487 5969",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85818791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41QWLkmamgSAJjhBNyPGP4_39.754719_-86.242341@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4678d46b44000acab158eed52bbd520a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85818791,
+            "region_id":85688709,
+            "venue_id":320338477
+        }
+    ],
+    "wof:id":320338477,
+    "wof:lastmodified":1449012562,
+    "wof:name":"Central Indiana Tire & Retread",
+    "wof:parent_id":85818791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [-86.242341,39.754719,-86.242341,39.754719],
+  "geometry": {"coordinates":[-86.242341,39.754719],"type":"Point"}
+}

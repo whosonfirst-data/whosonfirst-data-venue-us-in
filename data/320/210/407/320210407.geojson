@@ -1,0 +1,68 @@
+{
+  "id": 320210407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662647,40.571373,-85.662647,40.571373",
+    "geom:latitude":40.571373,
+    "geom:longitude":-85.662647,
+    "iso:country":"US",
+    "sg:address":"610 N River Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 9870",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38vg9h7axN8tMeBC3IhSsy_40.571373_-85.662647@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"144a54cf9695dae622c9d6288d4d6e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":320210407
+        }
+    ],
+    "wof:id":320210407,
+    "wof:lastmodified":1449012545,
+    "wof:name":"Medical Assoc-Grant County",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.662647,40.571373,-85.662647,40.571373],
+  "geometry": {"coordinates":[-85.662647,40.571373],"type":"Point"}
+}

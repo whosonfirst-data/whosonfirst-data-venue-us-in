@@ -1,0 +1,68 @@
+{
+  "id": 387322361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.255858,41.036795,-85.255858,41.036795",
+    "geom:latitude":41.036795,
+    "geom:longitude":-85.255858,
+    "iso:country":"US",
+    "sg:address":"5750 Coventry Ln",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 436 9337",
+    "sg:postcode":"46804",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85807473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zXyhyRAGeDnSiXsO2t2Rs_41.036795_-85.255858@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a70c89e94630662f236cc85a9d51ffae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85807473,
+            "region_id":85688709,
+            "venue_id":387322361
+        }
+    ],
+    "wof:id":387322361,
+    "wof:lastmodified":1449056074,
+    "wof:name":"Ft Wayne Physical Medicine",
+    "wof:parent_id":85807473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.255858,41.036795,-85.255858,41.036795],
+  "geometry": {"coordinates":[-85.255858,41.036795],"type":"Point"}
+}

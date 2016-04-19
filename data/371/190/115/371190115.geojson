@@ -1,0 +1,68 @@
+{
+  "id": 371190115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680372,40.093573,-85.680372,40.093573",
+    "geom:latitude":40.093573,
+    "geom:longitude":-85.680372,
+    "iso:country":"US",
+    "sg:address":"2210 Jackson St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 644 1414",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85833395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uBUtYAaSpYdvcpm4BsoCH_40.093573_-85.680372@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3423d117ee80398c4519d8968fd5b0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85833395,
+            "region_id":85688709,
+            "venue_id":371190115
+        }
+    ],
+    "wof:id":371190115,
+    "wof:lastmodified":1449050085,
+    "wof:name":"Anderson Center Outpatient",
+    "wof:parent_id":85833395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.680372,40.093573,-85.680372,40.093573],
+  "geometry": {"coordinates":[-85.680372,40.093573],"type":"Point"}
+}

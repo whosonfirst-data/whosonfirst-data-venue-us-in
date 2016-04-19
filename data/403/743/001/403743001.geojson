@@ -1,0 +1,66 @@
+{
+  "id": 403743001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.120924,39.708099,-86.120924,39.708099",
+    "geom:latitude":39.708099,
+    "geom:longitude":-86.120924,
+    "iso:country":"US",
+    "sg:address":"4009 Carson Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 788 4543",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85853129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W4lDzNy09vQ8gmZUmSnEV_39.708099_-86.120924@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25ac8d6a28b491257ad8d5697443071a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85853129,
+            "region_id":85688709,
+            "venue_id":403743001
+        }
+    ],
+    "wof:id":403743001,
+    "wof:lastmodified":1449055950,
+    "wof:name":"South Keystone Animal Clinic",
+    "wof:parent_id":85853129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-86.120924,39.708099,-86.120924,39.708099],
+  "geometry": {"coordinates":[-86.120924,39.708099],"type":"Point"}
+}

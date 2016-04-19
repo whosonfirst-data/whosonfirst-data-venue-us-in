@@ -1,0 +1,68 @@
+{
+  "id": 354360383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.056558,41.688348,-86.056558,41.688348",
+    "geom:latitude":41.688348,
+    "geom:longitude":-86.056558,
+    "iso:country":"US",
+    "sg:address":"55658 Corwin Rd",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 674 4182",
+    "sg:postcode":"46514",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942259,
+        102086257,
+        85823045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CoUzM6mBM53X1Z9Y3MOqC_41.688348_-86.056558@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6324b2ce127ad06835345219f61dd913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086257,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":354360383
+        }
+    ],
+    "wof:id":354360383,
+    "wof:lastmodified":1449067243,
+    "wof:name":"Joe Bieber Repair",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.056558,41.688348,-86.056558,41.688348],
+  "geometry": {"coordinates":[-86.056558,41.688348],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387521773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.567963,39.178346,-86.567963,39.178346",
+    "geom:latitude":39.178346,
+    "geom:longitude":-86.567963,
+    "iso:country":"US",
+    "sg:address":"1302 Enterprise Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 5800",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yJCvpNw7icYZ4xpi1dIL1_39.178346_-86.567963@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86eb14e485fdfffb1936eefcaf0f64e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":387521773
+        }
+    ],
+    "wof:id":387521773,
+    "wof:lastmodified":1449059729,
+    "wof:name":"Jerry's Diagnostic Ctr Inc",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.567963,39.178346,-86.567963,39.178346],
+  "geometry": {"coordinates":[-86.567963,39.178346],"type":"Point"}
+}

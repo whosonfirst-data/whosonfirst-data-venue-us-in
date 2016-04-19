@@ -1,0 +1,68 @@
+{
+  "id": 370963169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.045342,39.753015,-86.045342,39.753015",
+    "geom:latitude":39.753015,
+    "geom:longitude":-86.045342,
+    "iso:country":"US",
+    "sg:address":"1350 Brookville Way",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 241 4464",
+    "sg:postcode":"46239",
+    "sg:province":"IN",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85813037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51TjGQKkU8QBqPlxEqPpeH_39.753015_-86.045342@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"321506c2ce1f2537c3d0ac3b9918ea6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85813037,
+            "region_id":85688709,
+            "venue_id":370963169
+        }
+    ],
+    "wof:id":370963169,
+    "wof:lastmodified":1449029411,
+    "wof:name":"D H L Worldwide Express",
+    "wof:parent_id":85813037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [-86.045342,39.753015,-86.045342,39.753015],
+  "geometry": {"coordinates":[-86.045342,39.753015],"type":"Point"}
+}

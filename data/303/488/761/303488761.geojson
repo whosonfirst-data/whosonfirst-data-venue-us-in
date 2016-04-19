@@ -1,0 +1,67 @@
+{
+  "id": 303488761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.927827,40.458573,-86.927827,40.458573",
+    "geom:latitude":40.458573,
+    "geom:longitude":-86.927827,
+    "iso:country":"US",
+    "sg:address":"1220 Montgomery St",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 463 7877",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.petsandvetsaspartners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85813095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vUvRzLW7w3AgtzyTet6Ud_40.458573_-86.927827@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a01def981346048c4863b34412c8138",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85813095,
+            "region_id":85688709,
+            "venue_id":303488761
+        }
+    ],
+    "wof:id":303488761,
+    "wof:lastmodified":1449000504,
+    "wof:name":"Pets & Vets As Partners",
+    "wof:parent_id":85813095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-86.927827,40.458573,-86.927827,40.458573],
+  "geometry": {"coordinates":[-86.927827,40.458573],"type":"Point"}
+}

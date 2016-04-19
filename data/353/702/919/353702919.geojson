@@ -1,0 +1,70 @@
+{
+  "id": 353702919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533615,39.155811,-86.533615,39.155811",
+    "geom:latitude":39.155811,
+    "geom:longitude":-86.533615,
+    "iso:country":"US",
+    "sg:address":"923 S Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 2075",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85844535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yFwOTQgDgSTqO08OPLZEH_39.155811_-86.533615@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1659234591f495316408d2096c871846",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":353702919
+        }
+    ],
+    "wof:id":353702919,
+    "wof:lastmodified":1449019534,
+    "wof:name":"Bob Jones Radiator Repair",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-86.533615,39.155811,-86.533615,39.155811],
+  "geometry": {"coordinates":[-86.533615,39.155811],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 370317719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.28878,39.764222,-86.28878,39.764222",
+    "geom:latitude":39.764222,
+    "geom:longitude":-86.28878,
+    "iso:country":"US",
+    "sg:address":"7215 Rockville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 574 4444",
+    "sg:postcode":"46214",
+    "sg:province":"IN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85828271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twYdkOspgBdg2GNQgkjhv_39.764222_-86.288780@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b86e7a4c1faa66332e4dec9c6e3cade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85828271,
+            "region_id":85688709,
+            "venue_id":370317719
+        }
+    ],
+    "wof:id":370317719,
+    "wof:lastmodified":1449030642,
+    "wof:name":"Indy Flyer Taxi",
+    "wof:parent_id":85828271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-86.28878,39.764222,-86.28878,39.764222],
+  "geometry": {"coordinates":[-86.28878,39.764222],"type":"Point"}
+}

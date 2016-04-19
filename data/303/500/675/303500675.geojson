@@ -1,0 +1,70 @@
+{
+  "id": 303500675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.987649,39.801101,-85.987649,39.801101",
+    "geom:latitude":39.801101,
+    "geom:longitude":-85.987649,
+    "iso:country":"US",
+    "sg:address":"2311 Gable Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 894 7533",
+    "sg:postcode":"46229",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85854541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CHsbB3ADZzN7JN2DwQsEr_39.801101_-85.987649@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fccaabfbb7f4ef65f25ceae294d787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85854541,
+            "region_id":85688709,
+            "venue_id":303500675
+        }
+    ],
+    "wof:id":303500675,
+    "wof:lastmodified":1448998723,
+    "wof:name":"TLC Detail",
+    "wof:parent_id":85854541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [-85.987649,39.801101,-85.987649,39.801101],
+  "geometry": {"coordinates":[-85.987649,39.801101],"type":"Point"}
+}

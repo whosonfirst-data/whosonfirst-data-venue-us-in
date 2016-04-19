@@ -1,0 +1,68 @@
+{
+  "id": 354160651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.412712,39.421021,-87.412712,39.421021",
+    "geom:latitude":39.421021,
+    "geom:longitude":-87.412712,
+    "iso:country":"US",
+    "sg:address":"3566 S 4th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 7252",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g1ZK8r9ntZqiYroOc910U_39.421021_-87.412712@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0232895936db2ac13af7f1961ece6e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":354160651
+        }
+    ],
+    "wof:id":354160651,
+    "wof:lastmodified":1449067375,
+    "wof:name":"Internal Medicine Wabash Valle",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-87.412712,39.421021,-87.412712,39.421021],
+  "geometry": {"coordinates":[-87.412712,39.421021],"type":"Point"}
+}

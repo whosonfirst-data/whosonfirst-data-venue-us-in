@@ -1,0 +1,68 @@
+{
+  "id": 320111443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.73357,40.005293,-85.73357,40.005293",
+    "geom:latitude":40.005293,
+    "geom:longitude":-85.73357,
+    "iso:country":"US",
+    "sg:address":"350 Jh Walker Dr",
+    "sg:city":"Pendleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 778 7509",
+    "sg:postcode":"46064",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TMzAWOaWy3CKLoKfidZaL_40.005293_-85.733570@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4cb2a79131c7b19eb7d428982fbec89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":320111443
+        }
+    ],
+    "wof:id":320111443,
+    "wof:lastmodified":1449015082,
+    "wof:name":"St Johns Health Care System",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.73357,40.005293,-85.73357,40.005293],
+  "geometry": {"coordinates":[-85.73357,40.005293],"type":"Point"}
+}

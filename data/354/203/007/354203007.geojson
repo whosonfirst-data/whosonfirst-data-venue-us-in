@@ -1,0 +1,67 @@
+{
+  "id": 354203007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.193483,40.693751,-86.193483,40.693751",
+    "geom:latitude":40.693751,
+    "geom:longitude":-86.193483,
+    "iso:country":"US",
+    "sg:address":"26 E Walnut St",
+    "sg:city":"Onward",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 626 2690",
+    "sg:postcode":"46967",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941883,
+        102087039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K7DOxe2TrDezxRV9doDsG_40.693751_-86.193483@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e0618bab97348f352733e4e84b8b6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087039,
+            "locality_id":85941883,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":354203007
+        }
+    ],
+    "wof:id":354203007,
+    "wof:lastmodified":1449066669,
+    "wof:name":"Chuck's Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.193483,40.693751,-86.193483,40.693751],
+  "geometry": {"coordinates":[-86.193483,40.693751],"type":"Point"}
+}

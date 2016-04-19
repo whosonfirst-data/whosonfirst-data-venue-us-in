@@ -1,0 +1,68 @@
+{
+  "id": 320858219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.717858,40.040457,-85.717858,40.040457",
+    "geom:latitude":40.040457,
+    "geom:longitude":-85.717858,
+    "iso:country":"US",
+    "sg:address":"2610 Enterprise Dr",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 683 4400",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bvC30ZQ7syCdMmTtg5Jly_40.040457_-85.717858@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd9636e0e47e2943945b484dc98deeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":320858219
+        }
+    ],
+    "wof:id":320858219,
+    "wof:lastmodified":1449011607,
+    "wof:name":"Central Indiana Orthopedics",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.717858,40.040457,-85.717858,40.040457],
+  "geometry": {"coordinates":[-85.717858,40.040457],"type":"Point"}
+}

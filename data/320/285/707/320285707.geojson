@@ -1,0 +1,67 @@
+{
+  "id": 320285707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.67808,40.111059,-85.67808,40.111059",
+    "geom:latitude":40.111059,
+    "geom:longitude":-85.67808,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 649 0411",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.dossetts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85825401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QVxiS3svlqMKSnYG0uLB7_40.111059_-85.678080@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56dfc1dbafa7ee0d47d679c908e70b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85825401,
+            "region_id":85688709,
+            "venue_id":320285707
+        }
+    ],
+    "wof:id":320285707,
+    "wof:lastmodified":1449011369,
+    "wof:name":"Dossett's Garage",
+    "wof:parent_id":85825401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-85.67808,40.111059,-85.67808,40.111059],
+  "geometry": {"coordinates":[-85.67808,40.111059],"type":"Point"}
+}

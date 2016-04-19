@@ -1,0 +1,67 @@
+{
+  "id": 353503069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.474325,39.167127,-86.474325,39.167127",
+    "geom:latitude":39.167127,
+    "geom:longitude":-86.474325,
+    "iso:country":"US",
+    "sg:address":"4517 E Morningside Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 334 1400",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        102086351,
+        85816979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OFlJXDWhsxhH3Y1qaIVvK_39.167127_-86.474325@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c99ceae92d32ef8d1ba26f0162acdbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":-1,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":353503069
+        }
+    ],
+    "wof:id":353503069,
+    "wof:lastmodified":1449020801,
+    "wof:name":"College Mall Veterinary Hosp",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-86.474325,39.167127,-86.474325,39.167127],
+  "geometry": {"coordinates":[-86.474325,39.167127],"type":"Point"}
+}

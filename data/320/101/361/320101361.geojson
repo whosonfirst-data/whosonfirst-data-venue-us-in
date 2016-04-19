@@ -1,0 +1,68 @@
+{
+  "id": 320101361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.53349,39.174541,-86.53349,39.174541",
+    "geom:latitude":39.174541,
+    "geom:longitude":-86.53349,
+    "iso:country":"US",
+    "sg:address":"908 N Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 334 8958",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85832565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ZPsHLiXCN7iEuit3b0yr_39.174541_-86.533490@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bef9625ae30b4c2191133ef652c346d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":320101361
+        }
+    ],
+    "wof:id":320101361,
+    "wof:lastmodified":1449013226,
+    "wof:name":"Bloomington Anesthesiologists",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-86.53349,39.174541,-86.53349,39.174541],
+  "geometry": {"coordinates":[-86.53349,39.174541],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 354058329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.465356,41.5899,-87.465356,41.5899",
+    "geom:latitude":41.5899,
+    "geom:longitude":-87.465356,
+    "iso:country":"US",
+    "sg:address":"6820 Mc Cook Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 853 5901",
+    "sg:postcode":"46323",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941811,
+        102087149,
+        85821465,
+        85941817,
+        85839875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4md36nvRIAJ85E21cg8L8l_41.589900_-87.465356@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c931f4ddb9a7695da5b0623a8d151ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941811,
+            "neighbourhood_id":85821465,
+            "region_id":85688709,
+            "venue_id":354058329
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941817,
+            "neighbourhood_id":85839875,
+            "region_id":85688709,
+            "venue_id":354058329
+        }
+    ],
+    "wof:id":354058329,
+    "wof:lastmodified":1449066181,
+    "wof:name":"Hammond Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-87.465356,41.5899,-87.465356,41.5899],
+  "geometry": {"coordinates":[-87.465356,41.5899],"type":"Point"}
+}

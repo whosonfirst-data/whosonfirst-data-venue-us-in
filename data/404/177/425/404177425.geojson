@@ -1,0 +1,68 @@
+{
+  "id": 404177425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.938096,41.648862,-85.938096,41.648862",
+    "geom:latitude":41.648862,
+    "geom:longitude":-85.938096,
+    "iso:country":"US",
+    "sg:address":"3421 S Main St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 295 7178",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942259,
+        102086257,
+        85823045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gAKdW6TxOzQU4C7vFwpNw_41.648862_-85.938096@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b513009ad530e2de7fae95740ba3629",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086257,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":404177425
+        }
+    ],
+    "wof:id":404177425,
+    "wof:lastmodified":1449040324,
+    "wof:name":"Daniel Burger MD",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.938096,41.648862,-85.938096,41.648862],
+  "geometry": {"coordinates":[-85.938096,41.648862],"type":"Point"}
+}

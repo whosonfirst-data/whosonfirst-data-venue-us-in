@@ -1,0 +1,67 @@
+{
+  "id": 353853797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.353816,39.929175,-85.353816,39.929175",
+    "geom:latitude":39.929175,
+    "geom:longitude":-85.353816,
+    "iso:country":"US",
+    "sg:address":"201 S 25th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 529 8113",
+    "sg:postcode":"47362",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942343,
+        102087085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pjPk0aAm5Am6K8vqCwCXl_39.929175_-85.353816@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"498d5104922151ae0893361435e47c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087085,
+            "locality_id":85942343,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":353853797
+        }
+    ],
+    "wof:id":353853797,
+    "wof:lastmodified":1449019287,
+    "wof:name":"New Castle Transit System",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-85.353816,39.929175,-85.353816,39.929175],
+  "geometry": {"coordinates":[-85.353816,39.929175],"type":"Point"}
+}

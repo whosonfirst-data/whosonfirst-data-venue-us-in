@@ -1,0 +1,68 @@
+{
+  "id": 353719589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.132755,39.763143,-86.132755,39.763143",
+    "geom:latitude":39.763143,
+    "geom:longitude":-86.132755,
+    "iso:country":"US",
+    "sg:address":"246 Detroit St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 231 0089",
+    "sg:postcode":"46201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85870633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07CPAAeBnZ6RLwUuJB0xeZ_39.763143_-86.132755@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab94f4fc0a37ce1c8211899b00c6f856",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85870633,
+            "region_id":85688709,
+            "venue_id":353719589
+        }
+    ],
+    "wof:id":353719589,
+    "wof:lastmodified":1449018580,
+    "wof:name":"Spears Automotive",
+    "wof:parent_id":85870633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.132755,39.763143,-86.132755,39.763143],
+  "geometry": {"coordinates":[-86.132755,39.763143],"type":"Point"}
+}

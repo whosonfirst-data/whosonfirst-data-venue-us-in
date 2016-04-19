@@ -1,0 +1,68 @@
+{
+  "id": 387280443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-87.406716,39.43294,-87.406716,39.43294",
+    "geom:latitude":39.43294,
+    "geom:longitude":-87.406716,
+    "iso:country":"US",
+    "sg:address":"3004 S 7th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 5414",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TPNtXtahaGWbiFtJn5HRj_39.432940_-87.406716@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d00cea002e88f582462797933bf44f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":387280443
+        }
+    ],
+    "wof:id":387280443,
+    "wof:lastmodified":1449057976,
+    "wof:name":"Wabash Valley Animal Hospital",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-87.406716,39.43294,-87.406716,39.43294],
+  "geometry": {"coordinates":[-87.406716,39.43294],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 319934201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.140235,39.635251,-86.140235,39.635251",
+    "geom:latitude":39.635251,
+    "geom:longitude":-86.140235,
+    "iso:country":"US",
+    "sg:address":"1346 E County Line Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 859 5500",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85850567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DbsvZhjFjeL1v6jVPP8NJ_39.635251_-86.140235@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45295264cbf90858f65f98809a08ea9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85850567,
+            "region_id":85688709,
+            "venue_id":319934201
+        }
+    ],
+    "wof:id":319934201,
+    "wof:lastmodified":1449024142,
+    "wof:name":"Oncology & Hematology Assoc",
+    "wof:parent_id":85850567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-86.140235,39.635251,-86.140235,39.635251],
+  "geometry": {"coordinates":[-86.140235,39.635251],"type":"Point"}
+}

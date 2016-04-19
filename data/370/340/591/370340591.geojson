@@ -1,0 +1,68 @@
+{
+  "id": 370340591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.43395,40.193014,-85.43395,40.193014",
+    "geom:latitude":40.193014,
+    "geom:longitude":-85.43395,
+    "iso:country":"US",
+    "sg:address":"4000 W Woodway Dr",
+    "sg:city":"Muncie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 741 4650",
+    "sg:postcode":"47304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941463,
+        102087155,
+        85803117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EOMLk0QXoJM26QkmJvhfi_40.193014_-85.433950@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14e918b62bddba20e4eedbe3ad6a9a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087155,
+            "locality_id":85941463,
+            "neighbourhood_id":85803117,
+            "region_id":85688709,
+            "venue_id":370340591
+        }
+    ],
+    "wof:id":370340591,
+    "wof:lastmodified":1449031713,
+    "wof:name":"Woodway Internal Medicine",
+    "wof:parent_id":85803117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.43395,40.193014,-85.43395,40.193014],
+  "geometry": {"coordinates":[-85.43395,40.193014],"type":"Point"}
+}

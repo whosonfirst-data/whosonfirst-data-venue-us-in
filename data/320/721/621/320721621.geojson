@@ -1,0 +1,67 @@
+{
+  "id": 320721621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.385367,39.913212,-85.385367,39.913212",
+    "geom:latitude":39.913212,
+    "geom:longitude":-85.385367,
+    "iso:country":"US",
+    "sg:address":"45 Midway Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 521 2061",
+    "sg:postcode":"47362",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942343,
+        102087085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7izp1qDLwJ3czvH5VKEBl2_39.913212_-85.385367@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ef5acfd3b7db8427cea2e417ba9b0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087085,
+            "locality_id":85942343,
+            "neighbourhood_id":-1,
+            "region_id":85688709,
+            "venue_id":320721621
+        }
+    ],
+    "wof:id":320721621,
+    "wof:lastmodified":1449014958,
+    "wof:name":"Joe's Transmission & Auto Rpr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.385367,39.913212,-85.385367,39.913212],
+  "geometry": {"coordinates":[-85.385367,39.913212],"type":"Point"}
+}

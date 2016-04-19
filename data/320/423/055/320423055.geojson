@@ -1,0 +1,68 @@
+{
+  "id": 320423055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.921359,39.231548,-85.921359,39.231548",
+    "geom:latitude":39.231548,
+    "geom:longitude":-85.921359,
+    "iso:country":"US",
+    "sg:address":"3180 Washington St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 372 7396",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85837517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3brX8vD9HSHFjeVADlAqGm_39.231548_-85.921359@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02328f31aee631f963215cc318428bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85837517,
+            "region_id":85688709,
+            "venue_id":320423055
+        }
+    ],
+    "wof:id":320423055,
+    "wof:lastmodified":1449011879,
+    "wof:name":"Auto Mobile Diagnostics",
+    "wof:parent_id":85837517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.921359,39.231548,-85.921359,39.231548],
+  "geometry": {"coordinates":[-85.921359,39.231548],"type":"Point"}
+}

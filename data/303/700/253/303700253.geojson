@@ -1,0 +1,68 @@
+{
+  "id": 303700253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225203,39.778672,-86.225203,39.778672",
+    "geom:latitude":39.778672,
+    "geom:longitude":-86.225203,
+    "iso:country":"US",
+    "sg:address":"700 Olin Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 687 8888",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85835545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SwIGLxzsSg5sefDxe92RQ_39.778672_-86.225203@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"734934280a1f36b177207b033514a09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85835545,
+            "region_id":85688709,
+            "venue_id":303700253
+        }
+    ],
+    "wof:id":303700253,
+    "wof:lastmodified":1449000352,
+    "wof:name":"Master Care Auto Svc",
+    "wof:parent_id":85835545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.225203,39.778672,-86.225203,39.778672],
+  "geometry": {"coordinates":[-86.225203,39.778672],"type":"Point"}
+}

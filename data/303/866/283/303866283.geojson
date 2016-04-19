@@ -1,0 +1,68 @@
+{
+  "id": 303866283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.8574,40.400889,-86.8574,40.400889",
+    "geom:latitude":40.400889,
+    "geom:longitude":-86.8574,
+    "iso:country":"US",
+    "sg:address":"1185 Sagamore Pkwy S",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 447 2879",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zw7ZKqWBMhhtngYxG8y2a_40.400889_-86.857400@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79de0820c9ae29ec02f7be75d1ed136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":303866283
+        }
+    ],
+    "wof:id":303866283,
+    "wof:lastmodified":1448999283,
+    "wof:name":"Rent-A-Wreck",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-86.8574,40.400889,-86.8574,40.400889],
+  "geometry": {"coordinates":[-86.8574,40.400889],"type":"Point"}
+}

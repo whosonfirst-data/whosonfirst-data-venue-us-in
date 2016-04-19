@@ -1,0 +1,68 @@
+{
+  "id": 370233563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.115742,39.734218,-86.115742,39.734218",
+    "geom:latitude":39.734218,
+    "geom:longitude":-86.115742,
+    "iso:country":"US",
+    "sg:address":"2496 Churchman Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 782 0757",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85891155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OHBs905EkpaqP2GLdYlp6_39.734218_-86.115742@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"231440756757672836095f7260b3858f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85891155,
+            "region_id":85688709,
+            "venue_id":370233563
+        }
+    ],
+    "wof:id":370233563,
+    "wof:lastmodified":1449032533,
+    "wof:name":"Blue Point Garage",
+    "wof:parent_id":85891155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.115742,39.734218,-86.115742,39.734218],
+  "geometry": {"coordinates":[-86.115742,39.734218],"type":"Point"}
+}

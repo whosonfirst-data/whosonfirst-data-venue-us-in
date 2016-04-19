@@ -1,0 +1,68 @@
+{
+  "id": 303625453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.28158,41.061642,-85.28158,41.061642",
+    "geom:latitude":41.061642,
+    "geom:longitude":-85.28158,
+    "iso:country":"US",
+    "sg:address":"2616 Wildcat Cove",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 435 7899",
+    "sg:postcode":"46814",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85807473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CPEbhFyBqByhZ0dRUgMnL_41.061642_-85.281580@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b86c9fea8c8709c9ee36fa416b3fdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85807473,
+            "region_id":85688709,
+            "venue_id":303625453
+        }
+    ],
+    "wof:id":303625453,
+    "wof:lastmodified":1449000605,
+    "wof:name":"Ft Wayne Cancer Care",
+    "wof:parent_id":85807473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.28158,41.061642,-85.28158,41.061642],
+  "geometry": {"coordinates":[-85.28158,41.061642],"type":"Point"}
+}

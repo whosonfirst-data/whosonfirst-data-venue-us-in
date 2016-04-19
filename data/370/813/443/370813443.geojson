@@ -1,0 +1,68 @@
+{
+  "id": 370813443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.966101,41.701225,-85.966101,41.701225",
+    "geom:latitude":41.701225,
+    "geom:longitude":-85.966101,
+    "iso:country":"US",
+    "sg:address":"1300 Johnson St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 266 4004",
+    "sg:postcode":"46514",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942259,
+        102086257,
+        85823045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GrvEH2ZkFZ7DLkJQoJRT5_41.701225_-85.966101@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51d886c43cf7579663bae8cb0588a9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086257,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":370813443
+        }
+    ],
+    "wof:id":370813443,
+    "wof:lastmodified":1449029969,
+    "wof:name":"Joseph S Russo DO",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-85.966101,41.701225,-85.966101,41.701225],
+  "geometry": {"coordinates":[-85.966101,41.701225],"type":"Point"}
+}

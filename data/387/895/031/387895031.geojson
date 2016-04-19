@@ -1,0 +1,68 @@
+{
+  "id": 387895031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674399,40.260269,-85.674399,40.260269",
+    "geom:latitude":40.260269,
+    "geom:longitude":-85.674399,
+    "iso:country":"US",
+    "sg:address":"401 S Harrison St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 9601",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VOOVafZyCe6ACAqtxKlwE_40.260269_-85.674399@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ed7fd15c4a648264461906975748897",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":387895031
+        }
+    ],
+    "wof:id":387895031,
+    "wof:lastmodified":1449057719,
+    "wof:name":"Mc Clead's",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-85.674399,40.260269,-85.674399,40.260269],
+  "geometry": {"coordinates":[-85.674399,40.260269],"type":"Point"}
+}

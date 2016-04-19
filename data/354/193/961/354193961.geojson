@@ -1,0 +1,68 @@
+{
+  "id": 354193961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.197387,39.858761,-86.197387,39.858761",
+    "geom:latitude":39.858761,
+    "geom:longitude":-86.197387,
+    "iso:country":"US",
+    "sg:address":"5734 N Michigan Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 255 5515",
+    "sg:postcode":"46228",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85822489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0itrvgmcmsTByGTc67dFug_39.858761_-86.197387@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb290bafee94c066e36884a42be13294",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85822489,
+            "region_id":85688709,
+            "venue_id":354193961
+        }
+    ],
+    "wof:id":354193961,
+    "wof:lastmodified":1449066212,
+    "wof:name":"Haygood Automotive",
+    "wof:parent_id":85822489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-86.197387,39.858761,-86.197387,39.858761],
+  "geometry": {"coordinates":[-86.197387,39.858761],"type":"Point"}
+}

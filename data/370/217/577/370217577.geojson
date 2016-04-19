@@ -1,0 +1,67 @@
+{
+  "id": 370217577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680141,40.110936,-85.680141,40.110936",
+    "geom:latitude":40.110936,
+    "geom:longitude":-85.680141,
+    "iso:country":"US",
+    "sg:address":"44 W 5th St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 648 6600",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofanderson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85825401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dyNkulGm7faxXW8Kl5BFh_40.110936_-85.680141@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cb5d58eddc6f4bd653a6e0ed18da06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85825401,
+            "region_id":85688709,
+            "venue_id":370217577
+        }
+    ],
+    "wof:id":370217577,
+    "wof:lastmodified":1449032266,
+    "wof:name":"Anderson Fire Dept",
+    "wof:parent_id":85825401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-85.680141,40.110936,-85.680141,40.110936],
+  "geometry": {"coordinates":[-85.680141,40.110936],"type":"Point"}
+}

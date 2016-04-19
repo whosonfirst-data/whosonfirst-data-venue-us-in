@@ -1,0 +1,66 @@
+{
+  "id": 353554869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.138139,39.651529,-86.138139,39.651529",
+    "geom:latitude":39.651529,
+    "geom:longitude":-86.138139,
+    "iso:country":"US",
+    "sg:address":"7801 US Hwy 31 S",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 882 7855",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85870681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ATxSXHUCyEdGOXCzDXj2s_39.651529_-86.138139@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1cbe2c439341ab536819b6f267479f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85870681,
+            "region_id":85688709,
+            "venue_id":353554869
+        }
+    ],
+    "wof:id":353554869,
+    "wof:lastmodified":1449018787,
+    "wof:name":"Banfield The Pet Hospital",
+    "wof:parent_id":85870681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-86.138139,39.651529,-86.138139,39.651529],
+  "geometry": {"coordinates":[-86.138139,39.651529],"type":"Point"}
+}

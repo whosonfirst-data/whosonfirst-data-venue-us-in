@@ -1,0 +1,66 @@
+{
+  "id": 303878145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240125,39.853024,-86.240125,39.853024",
+    "geom:latitude":39.853024,
+    "geom:longitude":-86.240125,
+    "iso:country":"US",
+    "sg:address":"5518 Georgetown Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 293 6533",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85807693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xnLYhXrygM8lf3AJZBvAk_39.853024_-86.240125@1294102998"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df51282be91fd361e0565ebdf64229ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85807693,
+            "region_id":85688709,
+            "venue_id":303878145
+        }
+    ],
+    "wof:id":303878145,
+    "wof:lastmodified":1448999399,
+    "wof:name":"Los Compadres",
+    "wof:parent_id":85807693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-86.240125,39.853024,-86.240125,39.853024],
+  "geometry": {"coordinates":[-86.240125,39.853024],"type":"Point"}
+}
