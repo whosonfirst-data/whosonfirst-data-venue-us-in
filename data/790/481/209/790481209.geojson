@@ -1,0 +1,89 @@
+{
+  "id": 790481209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.656036,40.11307,-85.656036,40.11307",
+    "geom:latitude":40.11307,
+    "geom:longitude":-85.656036,
+    "iso:country":"US",
+    "sg:address":"1811 University Blvd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 640 0973",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "sg:website":"www.thedrivingcenter.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822089,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709,
+        420558513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HMIlmVgGQq4bROCoSFKJC_40.113070_-85.656036@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596204,
+    "wof:geomhash":"ac9d877e40984ebcc9f0ba88a3570d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85822089,
+            "region_id":85688709,
+            "venue_id":790481209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":420558513,
+            "region_id":85688709,
+            "venue_id":790481209
+        }
+    ],
+    "wof:id":790481209,
+    "wof:lastmodified":1462596204,
+    "wof:name":"Driving Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -85.656036,
+    40.11307,
+    -85.656036,
+    40.11307
+],
+  "geometry": {"coordinates":[-85.656036,40.11307],"type":"Point"}
+}

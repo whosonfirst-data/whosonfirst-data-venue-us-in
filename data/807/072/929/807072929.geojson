@@ -1,0 +1,77 @@
+{
+  "id": 807072929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.594704,39.135899,-86.594704,39.135899",
+    "geom:latitude":39.135899,
+    "geom:longitude":-86.594704,
+    "iso:country":"US",
+    "sg:address":"3205 W State Road 45",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 8903",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.samsclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eRg4V3yTdBRW1jSvrb9tI_39.135899_-86.594704@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603479,
+    "wof:geomhash":"aaaf9cd15ba7e1e5ef4c9054f78487eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807072929
+        }
+    ],
+    "wof:id":807072929,
+    "wof:lastmodified":1462603479,
+    "wof:name":"Sam's Club",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -86.594704,
+    39.135899,
+    -86.594704,
+    39.135899
+],
+  "geometry": {"coordinates":[-86.59470399999999,39.135899],"type":"Point"}
+}

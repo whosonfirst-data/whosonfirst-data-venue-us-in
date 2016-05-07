@@ -1,0 +1,88 @@
+{
+  "id": 807068677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.517303,39.146,-86.517303,39.146",
+    "geom:latitude":39.146,
+    "geom:longitude":-86.517303,
+    "iso:country":"US",
+    "sg:address":"1807 S Highland Ave",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 6600",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.bdlc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4679viSG29CEJdw1by57Ru_39.146000_-86.517303@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603435,
+    "wof:geomhash":"10516c094a5c6b88ce80ec59a15190a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":807068677
+        }
+    ],
+    "wof:id":807068677,
+    "wof:lastmodified":1462603435,
+    "wof:name":"Bloomington Developmental Learning Center",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -86.517303,
+    39.146,
+    -86.517303,
+    39.146
+],
+  "geometry": {"coordinates":[-86.517303,39.146],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807016501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.364403,41.3965,-87.364403,41.3965",
+    "geom:latitude":41.3965,
+    "geom:longitude":-87.364403,
+    "iso:country":"US",
+    "sg:address":"1201 S Main St",
+    "sg:city":"Crown Point",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 662 6165",
+    "sg:postcode":"46307",
+    "sg:province":"IN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941787,
+        102087149,
+        85854185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IRGQM58V48cnBGLLrvOd8_41.396500_-87.364403@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602998,
+    "wof:geomhash":"e9918a534d80031b6dbb17fe4a347e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941787,
+            "neighbourhood_id":85854185,
+            "region_id":85688709,
+            "venue_id":807016501
+        }
+    ],
+    "wof:id":807016501,
+    "wof:lastmodified":1462602998,
+    "wof:name":"St Anthony Medical Center",
+    "wof:parent_id":85854185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.364403,
+    41.3965,
+    -87.364403,
+    41.3965
+],
+  "geometry": {"coordinates":[-87.364403,41.3965],"type":"Point"}
+}

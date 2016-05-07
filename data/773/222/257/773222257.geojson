@@ -1,0 +1,69 @@
+{
+  "id": 773222257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.913357,39.20243,-85.913357,39.20243",
+    "geom:latitude":39.20243,
+    "geom:longitude":-85.913357,
+    "iso:country":"US",
+    "sg:address":"326 California St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 372 2522",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BiJ9Y8DZCPFvfgOpSO70v_39.202430_-85.913357@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584090,
+    "wof:geomhash":"c940baf0f2969eb5515e93dfaeb4f044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":773222257
+        }
+    ],
+    "wof:id":773222257,
+    "wof:lastmodified":1462584090,
+    "wof:name":"Art's Cleaners",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.913357,
+    39.20243,
+    -85.913357,
+    39.20243
+],
+  "geometry": {"coordinates":[-85.913357,39.20243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773000885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66716,40.235078,-85.66716,40.235078",
+    "geom:latitude":40.235078,
+    "geom:longitude":-85.66716,
+    "iso:country":"US",
+    "sg:address":"2310 S Park Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3650",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YdoYAZXBlu9ffkrjZUGwS_40.235078_-85.667160@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582131,
+    "wof:geomhash":"1c6946f45e9453ab27d01374020fa423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":773000885
+        }
+    ],
+    "wof:id":773000885,
+    "wof:lastmodified":1462582131,
+    "wof:name":"Alexandria Animal Hospital PC",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.66716,
+    40.235078,
+    -85.66716,
+    40.235078
+],
+  "geometry": {"coordinates":[-85.66716,40.235078],"type":"Point"}
+}

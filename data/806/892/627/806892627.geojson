@@ -1,0 +1,93 @@
+{
+  "id": 806892627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.402209,39.703028,-86.402209,39.703028",
+    "geom:latitude":39.703028,
+    "geom:longitude":-86.402209,
+    "iso:country":"US",
+    "sg:address":"121 W Main St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 2376",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "plans-information",
+        "physician",
+        "medical",
+        "referral",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wizHIDFaXQVFi60HS5uVE_39.703028_-86.402209@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601952,
+    "wof:geomhash":"2493a6e158df4989e49828bc032bb821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":806892627
+        }
+    ],
+    "wof:id":806892627,
+    "wof:lastmodified":1462601952,
+    "wof:name":"Sterling Healthcare Management",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plans-information",
+        "physician",
+        "medical",
+        "referral",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.402209,
+    39.703028,
+    -86.402209,
+    39.703028
+],
+  "geometry": {"coordinates":[-86.402209,39.703028],"type":"Point"}
+}

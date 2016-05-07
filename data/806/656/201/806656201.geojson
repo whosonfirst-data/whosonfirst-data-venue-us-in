@@ -1,0 +1,71 @@
+{
+  "id": 806656201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.518914,37.94618,-87.518914,37.94618",
+    "geom:latitude":37.94618,
+    "geom:longitude":-87.518914,
+    "iso:country":"US",
+    "sg:address":"2400 Kathleen Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 477 5806",
+    "sg:postcode":"47714",
+    "sg:province":"IN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ST9udnJ9AMvYktAoBUmDf_37.946180_-87.518914@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599964,
+    "wof:geomhash":"3f0b2c639d3129c1338aad2343aaa218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877295,
+            "region_id":85688709,
+            "venue_id":806656201
+        }
+    ],
+    "wof:id":806656201,
+    "wof:lastmodified":1462599964,
+    "wof:name":"Joe Wolf's Janitor Svc",
+    "wof:parent_id":85877295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -87.518914,
+    37.94618,
+    -87.518914,
+    37.94618
+],
+  "geometry": {"coordinates":[-87.518914,37.94618],"type":"Point"}
+}

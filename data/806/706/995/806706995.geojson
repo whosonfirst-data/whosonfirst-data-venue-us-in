@@ -1,0 +1,71 @@
+{
+  "id": 806706995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874586,41.248408,-85.874586,41.248408",
+    "geom:latitude":41.248408,
+    "geom:longitude":-85.874586,
+    "iso:country":"US",
+    "sg:address":"1275 W Lake St",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 267 5393",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJ1tAN9Ee6ovKomaOSm6c_41.248408_-85.874586@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600395,
+    "wof:geomhash":"869239dee5dbf481401dcfbcd3e9bc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":806706995
+        }
+    ],
+    "wof:id":806706995,
+    "wof:lastmodified":1462600395,
+    "wof:name":"Sasso Veterinary Hospital",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -85.874586,
+    41.248408,
+    -85.874586,
+    41.248408
+],
+  "geometry": {"coordinates":[-85.87458599999999,41.248408],"type":"Point"}
+}

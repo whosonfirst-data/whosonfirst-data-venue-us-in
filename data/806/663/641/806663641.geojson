@@ -1,0 +1,84 @@
+{
+  "id": 806663641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.050775,41.110885,-85.050775,41.110885",
+    "geom:latitude":41.110885,
+    "geom:longitude":-85.050775,
+    "iso:country":"US",
+    "sg:address":"7016 Blackhawk Ln",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 341 5411",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561,
+        85822129,
+        102191575,
+        404501179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zncwvk8ymglRDTEyqyjPC_41.110885_-85.050775@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600030,
+    "wof:geomhash":"ab15d78b2d1807558c33f86616420b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":806663641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85822129,
+            "region_id":85688709,
+            "venue_id":806663641
+        }
+    ],
+    "wof:id":806663641,
+    "wof:lastmodified":1462600030,
+    "wof:name":"A-1 Home Inspections",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -85.050775,
+    41.110885,
+    -85.050775,
+    41.110885
+],
+  "geometry": {"coordinates":[-85.050775,41.110885],"type":"Point"}
+}

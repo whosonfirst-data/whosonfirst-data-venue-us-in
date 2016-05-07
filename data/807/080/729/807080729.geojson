@@ -1,0 +1,87 @@
+{
+  "id": 807080729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533935,39.188249,-86.533935,39.188249",
+    "geom:latitude":39.188249,
+    "geom:longitude":-86.533935,
+    "iso:country":"US",
+    "sg:address":"2300 N Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 9618",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85809723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FohSIOod9ELQEdYtthH3z_39.188249_-86.533935@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603539,
+    "wof:geomhash":"67514ff49dd8db45338c97b0a219ee2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85809723,
+            "region_id":85688709,
+            "venue_id":807080729
+        }
+    ],
+    "wof:id":807080729,
+    "wof:lastmodified":1462603539,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85809723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.533935,
+    39.188249,
+    -86.533935,
+    39.188249
+],
+  "geometry": {"coordinates":[-86.533935,39.188249],"type":"Point"}
+}

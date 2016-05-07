@@ -1,0 +1,71 @@
+{
+  "id": 773214119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.577504,39.14629,-86.577504,39.14629",
+    "geom:latitude":39.14629,
+    "geom:longitude":-86.577504,
+    "iso:country":"US",
+    "sg:address":"2005 Liberty Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 000 1111",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a1CJRCmlvoL1i0c0S5UHR_39.146290_-86.577504@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584026,
+    "wof:geomhash":"0295f081bae897b551879c6d2352a94e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":773214119
+        }
+    ],
+    "wof:id":773214119,
+    "wof:lastmodified":1462584026,
+    "wof:name":"Aldi",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.577504,
+    39.14629,
+    -86.577504,
+    39.14629
+],
+  "geometry": {"coordinates":[-86.577504,39.14629],"type":"Point"}
+}

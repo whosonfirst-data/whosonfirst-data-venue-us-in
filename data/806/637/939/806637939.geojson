@@ -1,0 +1,76 @@
+{
+  "id": 806637939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.045598,39.789181,-86.045598,39.789181",
+    "geom:latitude":39.789181,
+    "geom:longitude":-86.045598,
+    "iso:country":"US",
+    "sg:address":"6926 E 16th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 357 8726",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.aamco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870651,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N6nCmHw6yVPDg7v9MDPFv_39.789181_-86.045598@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599799,
+    "wof:geomhash":"dadc635c42273a0ab54c2f8c392b837f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870651,
+            "region_id":85688709,
+            "venue_id":806637939
+        }
+    ],
+    "wof:id":806637939,
+    "wof:lastmodified":1462599799,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85870651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.045598,
+    39.789181,
+    -86.045598,
+    39.789181
+],
+  "geometry": {"coordinates":[-86.045598,39.789181],"type":"Point"}
+}

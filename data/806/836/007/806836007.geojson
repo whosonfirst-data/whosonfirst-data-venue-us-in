@@ -1,0 +1,74 @@
+{
+  "id": 806836007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.413805,39.456444,-87.413805,39.456444",
+    "geom:latitude":39.456444,
+    "geom:longitude":-87.413805,
+    "iso:country":"US",
+    "sg:address":"1014 S 3rd St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/harrison/119881-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 8483",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Bw8xlywgCIKs77G1qdNK_39.456444_-87.413805@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601475,
+    "wof:geomhash":"4bf87444a72e57cddcafda2954485445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":806836007
+        }
+    ],
+    "wof:id":806836007,
+    "wof:lastmodified":1462601475,
+    "wof:name":"Subway",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.413805,
+    39.456444,
+    -87.413805,
+    39.456444
+],
+  "geometry": {"coordinates":[-87.413805,39.456444],"type":"Point"}
+}

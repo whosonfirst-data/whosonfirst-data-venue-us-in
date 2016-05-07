@@ -1,0 +1,74 @@
+{
+  "id": 773739749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662871,40.047789,-85.662871,40.047789",
+    "geom:latitude":40.047789,
+    "geom:longitude":-85.662871,
+    "iso:country":"US",
+    "sg:address":"6328 Columbus Ave",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 644 8796",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.republicservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dg6aAXb44ULMxnPXK2B8q_40.047789_-85.662871@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588019,
+    "wof:geomhash":"081a9b5ccd31a5c39e486bad7f992fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":773739749
+        }
+    ],
+    "wof:id":773739749,
+    "wof:lastmodified":1462588019,
+    "wof:name":"Anderson Refuse Co",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.662871,
+    40.047789,
+    -85.662871,
+    40.047789
+],
+  "geometry": {"coordinates":[-85.662871,40.047789],"type":"Point"}
+}

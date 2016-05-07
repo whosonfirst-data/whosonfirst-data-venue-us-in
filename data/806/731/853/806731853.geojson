@@ -1,0 +1,80 @@
+{
+  "id": 806731853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.159034,39.789596,-86.159034,39.789596",
+    "geom:latitude":39.789596,
+    "geom:longitude":-86.159034,
+    "iso:country":"US",
+    "sg:address":"1744 N Illinois St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 923 1491",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "aid",
+        "supply",
+        "first"
+    ],
+    "sg:website":"http://www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891151,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XZZb6KFlzpb2QIcoSd3hN_39.790170_-86.159158@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600600,
+    "wof:geomhash":"a0fc3afa20f53dbb864574e25b26caf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891151,
+            "region_id":85688709,
+            "venue_id":806731853
+        }
+    ],
+    "wof:id":806731853,
+    "wof:lastmodified":1462600600,
+    "wof:name":"CVS/pharmacy",
+    "wof:parent_id":85891151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "supply",
+        "first"
+    ]
+},
+  "bbox": [
+    -86.159034,
+    39.789596,
+    -86.159034,
+    39.789596
+],
+  "geometry": {"coordinates":[-86.15903400000001,39.789596],"type":"Point"}
+}

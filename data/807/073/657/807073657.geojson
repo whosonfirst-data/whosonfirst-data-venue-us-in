@@ -1,0 +1,71 @@
+{
+  "id": 807073657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.562163,39.148766,-86.562163,39.148766",
+    "geom:latitude":39.148766,
+    "geom:longitude":-86.562163,
+    "iso:country":"US",
+    "sg:address":"2201 West Sudbury Ste A",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 8101",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A7d3MYWa33o50cr0ochDj_39.148766_-86.562163@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603485,
+    "wof:geomhash":"f77bae191b44441ce40b5c36be22b078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807073657
+        }
+    ],
+    "wof:id":807073657,
+    "wof:lastmodified":1462603485,
+    "wof:name":"Stat Lab LLC",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.562163,
+    39.148766,
+    -86.562163,
+    39.148766
+],
+  "geometry": {"coordinates":[-86.562163,39.148766],"type":"Point"}
+}

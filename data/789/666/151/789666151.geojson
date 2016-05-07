@@ -1,0 +1,77 @@
+{
+  "id": 789666151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.16432,39.798475,-86.16432,39.798475",
+    "geom:latitude":39.798475,
+    "geom:longitude":-86.16432,
+    "iso:country":"US",
+    "sg:address":"506 W Fall Creek Pkwy N Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 926 5714",
+    "sg:postcode":"46208",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891157,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U8IXuGxvhLowF1EQtVvbX_39.798475_-86.164320@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589601,
+    "wof:geomhash":"18b13cff3b1bb9236a3ab375e7b1b58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891157,
+            "region_id":85688709,
+            "venue_id":789666151
+        }
+    ],
+    "wof:id":789666151,
+    "wof:lastmodified":1462589601,
+    "wof:name":"Taylor Safety Svc",
+    "wof:parent_id":85891157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.16432,
+    39.798475,
+    -86.16432,
+    39.798475
+],
+  "geometry": {"coordinates":[-86.16432,39.798475],"type":"Point"}
+}

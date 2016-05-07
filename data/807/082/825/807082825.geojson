@@ -1,0 +1,73 @@
+{
+  "id": 807082825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.481637,39.17596,-86.481637,39.17596",
+    "geom:latitude":39.17596,
+    "geom:longitude":-86.481637,
+    "iso:country":"US",
+    "sg:address":"1111 N Russell Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 330 7753",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SpXn1hXe9tGiXDO3mYsI0_39.175960_-86.481637@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603557,
+    "wof:geomhash":"6d88bda87ce5e718d931ad6973eed9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":807082825
+        }
+    ],
+    "wof:id":807082825,
+    "wof:lastmodified":1462603557,
+    "wof:name":"Schools",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -86.481637,
+    39.17596,
+    -86.481637,
+    39.17596
+],
+  "geometry": {"coordinates":[-86.48163700000001,39.17596],"type":"Point"}
+}

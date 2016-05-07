@@ -1,0 +1,69 @@
+{
+  "id": 773163077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.003435,39.401001,-85.003435,39.401001",
+    "geom:latitude":39.401001,
+    "geom:longitude":-85.003435,
+    "iso:country":"US",
+    "sg:address":"11143 US Hwy 52",
+    "sg:city":"Brookville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 647 2781",
+    "sg:postcode":"47012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85850965,
+        102086385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m5sqP9F6vwaD5uhwlFL8t_39.401001_-85.003435@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583617,
+    "wof:geomhash":"46b688c403cb27544ecef22ade7fcbb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086385,
+            "neighbourhood_id":85850965,
+            "region_id":85688709,
+            "venue_id":773163077
+        }
+    ],
+    "wof:id":773163077,
+    "wof:lastmodified":1462583617,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85850965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.003435,
+    39.401001,
+    -85.003435,
+    39.401001
+],
+  "geometry": {"coordinates":[-85.003435,39.401001],"type":"Point"}
+}

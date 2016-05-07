@@ -1,0 +1,77 @@
+{
+  "id": 806745785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571286,38.355018,-87.571286,38.355018",
+    "geom:latitude":38.355018,
+    "geom:longitude":-87.571286,
+    "iso:country":"US",
+    "sg:address":"127 S Hall St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 2900",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EvjNHykTti2Fy6x1VZNLF_38.354998_-87.571357@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600728,
+    "wof:geomhash":"446c7871d9eaeee35eb66958acf5fe5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806745785
+        }
+    ],
+    "wof:id":806745785,
+    "wof:lastmodified":1462600728,
+    "wof:name":"Princeton Body Shop",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.571286,
+    38.355018,
+    -87.571286,
+    38.355018
+],
+  "geometry": {"coordinates":[-87.571286,38.355018],"type":"Point"}
+}

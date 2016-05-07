@@ -1,0 +1,77 @@
+{
+  "id": 806911411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.126515,39.838848,-86.126515,39.838848",
+    "geom:latitude":39.838848,
+    "geom:longitude":-86.126515,
+    "iso:country":"US",
+    "sg:address":"4526 Evanston Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 253 6650",
+    "sg:postcode":"46205",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking-light",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870655,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yc0qIwTpCPk3tpdMia0Gc_39.838848_-86.126515@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602108,
+    "wof:geomhash":"158dc06c451fe1fc875f47cecef1dae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870655,
+            "region_id":85688709,
+            "venue_id":806911411
+        }
+    ],
+    "wof:id":806911411,
+    "wof:lastmodified":1462602108,
+    "wof:name":"Norm's Hauling",
+    "wof:parent_id":85870655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -86.126515,
+    39.838848,
+    -86.126515,
+    39.838848
+],
+  "geometry": {"coordinates":[-86.126515,39.838848],"type":"Point"}
+}

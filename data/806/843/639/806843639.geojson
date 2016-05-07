@@ -1,0 +1,88 @@
+{
+  "id": 806843639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.135415,41.118471,-85.135415,41.118471",
+    "geom:latitude":41.118471,
+    "geom:longitude":-85.135415,
+    "iso:country":"US",
+    "sg:address":"4403 Coldwater Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/washington/47877-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 483 8435",
+    "sg:postcode":"46825",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838221,
+        102191575,
+        404501179,
+        85633793,
+        85942149,
+        102087177,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TrSdKEZ3MFLJ8g5iPxOzR_41.118360_-85.135332@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601554,
+    "wof:geomhash":"79c7351f430e05fb75b61eb80ca89389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85838221,
+            "region_id":85688709,
+            "venue_id":806843639
+        }
+    ],
+    "wof:id":806843639,
+    "wof:lastmodified":1462601554,
+    "wof:name":"IHOP",
+    "wof:parent_id":85838221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -85.135415,
+    41.118471,
+    -85.135415,
+    41.118471
+],
+  "geometry": {"coordinates":[-85.13541499999999,41.118471],"type":"Point"}
+}

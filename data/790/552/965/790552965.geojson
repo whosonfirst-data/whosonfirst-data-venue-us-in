@@ -1,0 +1,75 @@
+{
+  "id": 790552965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.556962,38.042003,-87.556962,38.042003",
+    "geom:latitude":38.042003,
+    "geom:longitude":-87.556962,
+    "iso:country":"US",
+    "sg:address":"520 Merrill Ct",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 428 0810",
+    "sg:postcode":"47711",
+    "sg:province":"IN",
+    "sg:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85824997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDfm7HzIvCmiT6YGfH3K2_38.042003_-87.556962@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596818,
+    "wof:geomhash":"14646ecc5f511f636cd4b328ef3c2b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85824997,
+            "region_id":85688709,
+            "venue_id":790552965
+        }
+    ],
+    "wof:id":790552965,
+    "wof:lastmodified":1462596818,
+    "wof:name":"Evansville Surgery Center",
+    "wof:parent_id":85824997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ]
+},
+  "bbox": [
+    -87.556962,
+    38.042003,
+    -87.556962,
+    38.042003
+],
+  "geometry": {"coordinates":[-87.556962,38.042003],"type":"Point"}
+}

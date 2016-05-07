@@ -1,0 +1,71 @@
+{
+  "id": 807074177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.602402,39.085999,-86.602402,39.085999",
+    "geom:latitude":39.085999,
+    "geom:longitude":-86.602402,
+    "iso:country":"US",
+    "sg:address":"5401 W Duvall Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 824 6645",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PxnoXgIQ0igy8iQaDG5iV_39.085999_-86.602402@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603489,
+    "wof:geomhash":"f8926b9c6f724ab21f17ee99a864b8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807074177
+        }
+    ],
+    "wof:id":807074177,
+    "wof:lastmodified":1462603489,
+    "wof:name":"Stone Creek Ranch Barn",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -86.602402,
+    39.085999,
+    -86.602402,
+    39.085999
+],
+  "geometry": {"coordinates":[-86.602402,39.085999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 789976221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.048883,41.629039,-87.048883,41.629039",
+    "geom:latitude":41.629039,
+    "geom:longitude":-87.048883,
+    "iso:country":"US",
+    "sg:address":"1190 N State Rd 49",
+    "sg:city":"Porter",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 926 2146",
+    "sg:postcode":"46304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.healthandoncology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85852597,
+        102087191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CBkuA8ZtBtKtSa1L6I1Kn_41.629039_-87.048883@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592138,
+    "wof:geomhash":"716d947b4a3e154204075424eb9be337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "neighbourhood_id":85852597,
+            "region_id":85688709,
+            "venue_id":789976221
+        }
+    ],
+    "wof:id":789976221,
+    "wof:lastmodified":1462592138,
+    "wof:name":"Health & Oncology Svc",
+    "wof:parent_id":85852597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.048883,
+    41.629039,
+    -87.048883,
+    41.629039
+],
+  "geometry": {"coordinates":[-87.048883,41.629039],"type":"Point"}
+}

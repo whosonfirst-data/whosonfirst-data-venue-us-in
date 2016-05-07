@@ -1,0 +1,78 @@
+{
+  "id": 806806841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.133579,39.752254,-86.133579,39.752254",
+    "geom:latitude":39.752254,
+    "geom:longitude":-86.133579,
+    "iso:country":"US",
+    "sg:address":"1501 Prospect St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/indianapolis/198419-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 631 2600",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891155,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFtFPMhBBPqOwbQaFw0As_39.752254_-86.133579@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601240,
+    "wof:geomhash":"461002ae74bd61eb15800d29e1da9cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891155,
+            "region_id":85688709,
+            "venue_id":806806841
+        }
+    ],
+    "wof:id":806806841,
+    "wof:lastmodified":1462601240,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85891155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.133579,
+    39.752254,
+    -86.133579,
+    39.752254
+],
+  "geometry": {"coordinates":[-86.133579,39.752254],"type":"Point"}
+}

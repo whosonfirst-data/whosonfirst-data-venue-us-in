@@ -1,0 +1,69 @@
+{
+  "id": 789892053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.483356,38.063857,-87.483356,38.063857",
+    "geom:latitude":38.063857,
+    "geom:longitude":-87.483356,
+    "iso:country":"US",
+    "sg:address":"5850 Kansas Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 435 5307",
+    "sg:postcode":"47725",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877283,
+        102087105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qndqK6a5Fmfqkhq1AdbcU_38.063857_-87.483356@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591385,
+    "wof:geomhash":"7c7d242164ec374826a7918143ae514a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "neighbourhood_id":85877283,
+            "region_id":85688709,
+            "venue_id":789892053
+        }
+    ],
+    "wof:id":789892053,
+    "wof:lastmodified":1462591385,
+    "wof:name":"Vanderburgh County Sheriff",
+    "wof:parent_id":85877283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -87.483356,
+    38.063857,
+    -87.483356,
+    38.063857
+],
+  "geometry": {"coordinates":[-87.483356,38.063857],"type":"Point"}
+}

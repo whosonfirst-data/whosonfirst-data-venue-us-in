@@ -1,0 +1,87 @@
+{
+  "id": 806841511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.068688,41.611594,-87.068688,41.611594",
+    "geom:latitude":41.611594,
+    "geom:longitude":-87.068688,
+    "iso:country":"US",
+    "sg:address":"1249 Broadway",
+    "sg:city":"Chesterton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/westchester/161574-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 926 5110",
+    "sg:postcode":"46304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823475,
+        102191575,
+        404501725,
+        85633793,
+        85942397,
+        102087191,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IpCZjEhtfW0tzqq1rnOMs_41.611542_-87.068521@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601520,
+    "wof:geomhash":"e5e2c5c93868d8f2ec3c304c59eb21f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501725,
+            "locality_id":85942397,
+            "neighbourhood_id":85823475,
+            "region_id":85688709,
+            "venue_id":806841511
+        }
+    ],
+    "wof:id":806841511,
+    "wof:lastmodified":1462601520,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85823475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -87.068688,
+    41.611594,
+    -87.068688,
+    41.611594
+],
+  "geometry": {"coordinates":[-87.06868799999999,41.611594],"type":"Point"}
+}

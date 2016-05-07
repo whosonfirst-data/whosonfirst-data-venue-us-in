@@ -1,0 +1,79 @@
+{
+  "id": 806890565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.077803,39.619356,-86.077803,39.619356",
+    "geom:latitude":39.619356,
+    "geom:longitude":-86.077803,
+    "iso:country":"US",
+    "sg:address":"1500 American Way",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 534 0322",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "college",
+        "business"
+    ],
+    "sg:website":"http://www.medtechcollege.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85841387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7expnDp1A08ZpPSDZIfWQr_39.619356_-86.077803@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601937,
+    "wof:geomhash":"e7f4e689af3f1b8aacc504f3ce945e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85841387,
+            "region_id":85688709,
+            "venue_id":806890565
+        }
+    ],
+    "wof:id":806890565,
+    "wof:lastmodified":1462601937,
+    "wof:name":"Medtech College",
+    "wof:parent_id":85841387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college",
+        "business"
+    ]
+},
+  "bbox": [
+    -86.077803,
+    39.619356,
+    -86.077803,
+    39.619356
+],
+  "geometry": {"coordinates":[-86.077803,39.619356],"type":"Point"}
+}

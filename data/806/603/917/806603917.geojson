@@ -1,0 +1,75 @@
+{
+  "id": 806603917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.358762,40.163853,-85.358762,40.163853",
+    "geom:latitude":40.163853,
+    "geom:longitude":-85.358762,
+    "iso:country":"US",
+    "sg:address":"2210 E 26th St",
+    "sg:city":"Muncie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 289 3575",
+    "sg:postcode":"47302",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941463,
+        102087155,
+        85827089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04gw7RRHIz4e8drLhSAkwI_40.163853_-85.358762@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599521,
+    "wof:geomhash":"800c2a136fadfb48f5a33a1b920c724f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087155,
+            "locality_id":85941463,
+            "neighbourhood_id":85827089,
+            "region_id":85688709,
+            "venue_id":806603917
+        }
+    ],
+    "wof:id":806603917,
+    "wof:lastmodified":1462599521,
+    "wof:name":"Abbott's Body Shop",
+    "wof:parent_id":85827089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.358762,
+    40.163853,
+    -85.358762,
+    40.163853
+],
+  "geometry": {"coordinates":[-85.358762,40.163853],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773000971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652567,40.284798,-85.652567,40.284798",
+    "geom:latitude":40.284798,
+    "geom:longitude":-85.652567,
+    "iso:country":"US",
+    "sg:address":"12527 N 100 E",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 4343",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v65FW6DUVBypHMV4o8F8G_40.284798_-85.652567@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582133,
+    "wof:geomhash":"57b042cfa03a9ef2e0fba295f6f53174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":773000971
+        }
+    ],
+    "wof:id":773000971,
+    "wof:lastmodified":1462582133,
+    "wof:name":"Veterinary Clinic",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.652567,
+    40.284798,
+    -85.652567,
+    40.284798
+],
+  "geometry": {"coordinates":[-85.652567,40.284798],"type":"Point"}
+}

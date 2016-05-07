@@ -1,0 +1,83 @@
+{
+  "id": 806914415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.170442,39.802825,-86.170442,39.802825",
+    "geom:latitude":39.802825,
+    "geom:longitude":-86.170442,
+    "iso:country":"US",
+    "sg:address":"2502 Dr Martin Luther King Jr St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 923 6292",
+    "sg:postcode":"46208",
+    "sg:province":"IN",
+    "sg:tags":[
+        "chicken",
+        "take"
+    ],
+    "sg:website":"http://www.churchschicken.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891157,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Di3gr4rh2ypY5KPtYZCga_39.802825_-86.170442@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602130,
+    "wof:geomhash":"c1b0a21016013800bd49183d63f71418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891157,
+            "region_id":85688709,
+            "venue_id":806914415
+        }
+    ],
+    "wof:id":806914415,
+    "wof:lastmodified":1462602130,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85891157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "take"
+    ]
+},
+  "bbox": [
+    -86.170442,
+    39.802825,
+    -86.170442,
+    39.802825
+],
+  "geometry": {"coordinates":[-86.17044199999999,39.802825],"type":"Point"}
+}

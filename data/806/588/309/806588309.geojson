@@ -1,0 +1,71 @@
+{
+  "id": 806588309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674498,40.26167,-85.674498,40.26167",
+    "geom:latitude":40.26167,
+    "geom:longitude":-85.674498,
+    "iso:country":"US",
+    "sg:address":"204 S Harrison St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3222",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00vstdQ535O70UMG1BaJ8Z_40.261670_-85.674498@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599385,
+    "wof:geomhash":"598029cefa1256cbc849f4e20417a363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":806588309
+        }
+    ],
+    "wof:id":806588309,
+    "wof:lastmodified":1462599385,
+    "wof:name":"Alexandria Police Dept",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.674498,
+    40.26167,
+    -85.674498,
+    40.26167
+],
+  "geometry": {"coordinates":[-85.674498,40.26167],"type":"Point"}
+}

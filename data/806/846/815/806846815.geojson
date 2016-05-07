@@ -1,0 +1,103 @@
+{
+  "id": 806846815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671529,40.159384,-85.671529,40.159384",
+    "geom:latitude":40.159384,
+    "geom:longitude":-85.671529,
+    "iso:country":"US",
+    "sg:address":"62 E 360 N",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 644 1455",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.upsscs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85837179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ab7Cskk9dgPiYrQglURZS_40.159384_-85.671529@1303262760"
+    },
+    "wof:country":"US",
+    "wof:created":1462601578,
+    "wof:geomhash":"192655fef6e9d0fbf931a192b6b9dab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85837179,
+            "region_id":85688709,
+            "venue_id":806846815
+        }
+    ],
+    "wof:id":806846815,
+    "wof:lastmodified":1462601578,
+    "wof:name":"Ups",
+    "wof:parent_id":85837179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -85.671529,
+    40.159384,
+    -85.671529,
+    40.159384
+],
+  "geometry": {"coordinates":[-85.67152900000001,40.159384],"type":"Point"}
+}

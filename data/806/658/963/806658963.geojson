@@ -1,0 +1,73 @@
+{
+  "id": 806658963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.885107,39.20448,-85.885107,39.20448",
+    "geom:latitude":39.20448,
+    "geom:longitude":-85.885107,
+    "iso:country":"US",
+    "sg:address":"604 N Marr Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 379 9123",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s3f5jCJyiWWI4u5rLrpg2_39.204480_-85.885107@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599985,
+    "wof:geomhash":"a93fba6e45b6960ba3cbc49059b624f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":806658963
+        }
+    ],
+    "wof:id":806658963,
+    "wof:lastmodified":1462599985,
+    "wof:name":"Eastside Veterinary Hospital",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -85.885107,
+    39.20448,
+    -85.885107,
+    39.20448
+],
+  "geometry": {"coordinates":[-85.885107,39.20448],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 773290185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.37159,39.833846,-86.37159,39.833846",
+    "geom:latitude":39.833846,
+    "geom:longitude":-86.37159,
+    "iso:country":"US",
+    "sg:address":"1557 E Main St",
+    "sg:city":"Brownsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 852 3323",
+    "sg:postcode":"46112",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857209,
+        102191575,
+        404500787,
+        85633793,
+        85941473,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48enDi6y44y3wBgxWlDK1D_39.833846_-86.371590@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584600,
+    "wof:geomhash":"009c73f79201df9a7e7a0a365c5b96f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500787,
+            "locality_id":85941473,
+            "neighbourhood_id":85857209,
+            "region_id":85688709,
+            "venue_id":773290185
+        }
+    ],
+    "wof:id":773290185,
+    "wof:lastmodified":1462584600,
+    "wof:name":"Brownsburg Animal Clinic",
+    "wof:parent_id":85857209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -86.37159,
+    39.833846,
+    -86.37159,
+    39.833846
+],
+  "geometry": {"coordinates":[-86.37159,39.833846],"type":"Point"}
+}

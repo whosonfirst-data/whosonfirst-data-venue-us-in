@@ -1,0 +1,76 @@
+{
+  "id": 807078873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.5345,39.181099,-86.5345,39.181099",
+    "geom:latitude":39.181099,
+    "geom:longitude":-86.5345,
+    "iso:country":"US",
+    "sg:address":"1601 N College Ave",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 6635",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fvu0jXjHjvbzgfEJQmHiQ_39.181099_-86.534500@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603524,
+    "wof:geomhash":"1a129b06718a680b1ace08a8de3be1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807078873
+        }
+    ],
+    "wof:id":807078873,
+    "wof:lastmodified":1462603524,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -86.5345,
+    39.181099,
+    -86.5345,
+    39.181099
+],
+  "geometry": {"coordinates":[-86.53449999999999,39.181099],"type":"Point"}
+}

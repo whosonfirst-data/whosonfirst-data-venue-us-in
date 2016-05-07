@@ -1,0 +1,85 @@
+{
+  "id": 807083819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533461,39.166579,-86.533461,39.166579",
+    "geom:latitude":39.166579,
+    "geom:longitude":-86.533461,
+    "iso:country":"US",
+    "sg:address":"112 E Kirkwood Ave",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 334 8460",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop",
+        "dessert",
+        "chocolatiers"
+    ],
+    "sg:website":"www.bluboychocolates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09dDVYI83N1Pw6GhVR4TCn_39.166579_-86.533461@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603564,
+    "wof:geomhash":"89e216e2ec057611c4e2f72445e11d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807083819
+        }
+    ],
+    "wof:id":807083819,
+    "wof:lastmodified":1462603564,
+    "wof:name":"BLU Boy Chocolate Cafe and Cakery",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "dessert",
+        "chocolatiers"
+    ]
+},
+  "bbox": [
+    -86.533461,
+    39.166579,
+    -86.533461,
+    39.166579
+],
+  "geometry": {"coordinates":[-86.533461,39.166579],"type":"Point"}
+}

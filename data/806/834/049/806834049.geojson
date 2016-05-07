@@ -1,0 +1,74 @@
+{
+  "id": 806834049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.589625,38.355451,-87.589625,38.355451",
+    "geom:latitude":38.355451,
+    "geom:longitude":-87.589625,
+    "iso:country":"US",
+    "sg:address":"1920 W Broadway St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/patoka/198524-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 4343",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pU2LB6sVFWAwciXPvgUS8_38.355451_-87.589625@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601457,
+    "wof:geomhash":"ddc304501a03d54aa7f8463443c89f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806834049
+        }
+    ],
+    "wof:id":806834049,
+    "wof:lastmodified":1462601457,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -87.589625,
+    38.355451,
+    -87.589625,
+    38.355451
+],
+  "geometry": {"coordinates":[-87.589625,38.355451],"type":"Point"}
+}

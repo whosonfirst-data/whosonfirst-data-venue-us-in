@@ -1,0 +1,74 @@
+{
+  "id": 806802565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491449,40.044821,-86.491449,40.044821",
+    "geom:latitude":40.044821,
+    "geom:longitude":-86.491449,
+    "iso:country":"US",
+    "sg:address":"425 N Mount Zion Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/120186-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 7761",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ORRwfBGscab2QgNSuNYB2_40.044821_-86.491449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601205,
+    "wof:geomhash":"afb00dcbae063afca1985feafacbaeff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806802565
+        }
+    ],
+    "wof:id":806802565,
+    "wof:lastmodified":1462601205,
+    "wof:name":"Subway",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.491449,
+    40.044821,
+    -86.491449,
+    40.044821
+],
+  "geometry": {"coordinates":[-86.491449,40.044821],"type":"Point"}
+}

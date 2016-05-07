@@ -1,0 +1,71 @@
+{
+  "id": 807074479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.610298,39.1563,-86.610298,39.1563",
+    "geom:latitude":39.1563,
+    "geom:longitude":-86.610298,
+    "iso:country":"US",
+    "sg:address":"972 S Kirby Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 825 5406",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QBtl253icllsG5L0yxCgF_39.156300_-86.610298@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603492,
+    "wof:geomhash":"31752b40bb74e899ec27ec9cf92a7373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807074479
+        }
+    ],
+    "wof:id":807074479,
+    "wof:lastmodified":1462603492,
+    "wof:name":"Airport Director's Office",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.610298,
+    39.1563,
+    -86.610298,
+    39.1563
+],
+  "geometry": {"coordinates":[-86.610298,39.1563],"type":"Point"}
+}

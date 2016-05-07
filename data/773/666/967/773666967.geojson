@@ -1,0 +1,77 @@
+{
+  "id": 773666967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.40684,39.418317,-87.40684,39.418317",
+    "geom:latitude":39.418317,
+    "geom:longitude":-87.40684,
+    "iso:country":"US",
+    "sg:address":"3901 S 7th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 0021",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "general",
+        "ho",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sA8hSHcNJ69hxSDKJXnbE_39.418317_-87.406840@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587446,
+    "wof:geomhash":"9293a02897cd4aa1872c54211fd80c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773666967
+        }
+    ],
+    "wof:id":773666967,
+    "wof:lastmodified":1462587446,
+    "wof:name":"Terre Haute Regional Hospital",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "ho",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -87.40684,
+    39.418317,
+    -87.40684,
+    39.418317
+],
+  "geometry": {"coordinates":[-87.40684,39.418317],"type":"Point"}
+}

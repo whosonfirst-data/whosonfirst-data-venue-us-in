@@ -1,0 +1,77 @@
+{
+  "id": 773535011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437234,39.406865,-86.437234,39.406865",
+    "geom:latitude":39.406865,
+    "geom:longitude":-86.437234,
+    "iso:country":"US",
+    "sg:address":"2076 Burton Ln",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 342 7208",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wRIn3ZSYjxAC1jorhzkrj_39.406865_-86.437234@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586446,
+    "wof:geomhash":"6e8a65fd1147db3ea90acfb3c5866fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":773535011
+        }
+    ],
+    "wof:id":773535011,
+    "wof:lastmodified":1462586446,
+    "wof:name":"American Rental",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.437234,
+    39.406865,
+    -86.437234,
+    39.406865
+],
+  "geometry": {"coordinates":[-86.437234,39.406865],"type":"Point"}
+}

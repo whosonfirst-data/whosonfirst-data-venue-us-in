@@ -1,0 +1,80 @@
+{
+  "id": 806887781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.204239,39.607928,-86.204239,39.607928",
+    "geom:latitude":39.607928,
+    "geom:longitude":-86.204239,
+    "iso:country":"US",
+    "sg:address":"5434 Wakefield Dr S",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 865 0345",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85821965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V6Cwt4N9GaE8tWZWtRp3s_39.607928_-86.204239@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601913,
+    "wof:geomhash":"20d75ef6cccd8f1f33895f5e9f574074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85821965,
+            "region_id":85688709,
+            "venue_id":806887781
+        }
+    ],
+    "wof:id":806887781,
+    "wof:lastmodified":1462601913,
+    "wof:name":"B & B Books, Inc.",
+    "wof:parent_id":85821965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.204239,
+    39.607928,
+    -86.204239,
+    39.607928
+],
+  "geometry": {"coordinates":[-86.204239,39.607928],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 806938909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.161966,39.760387,-86.161966,39.760387",
+    "geom:latitude":39.760387,
+    "geom:longitude":-86.161966,
+    "iso:country":"US",
+    "sg:address":"500 S Capitol Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 262 3506",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.papajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870637,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FlU1lCytZMoC7gElN6NkZ_39.760387_-86.161966@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602352,
+    "wof:geomhash":"40cd9c42d79a7f1f784bacde471be28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870637,
+            "region_id":85688709,
+            "venue_id":806938909
+        }
+    ],
+    "wof:id":806938909,
+    "wof:lastmodified":1462602352,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85870637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.161966,
+    39.760387,
+    -86.161966,
+    39.760387
+],
+  "geometry": {"coordinates":[-86.16196600000001,39.760387],"type":"Point"}
+}

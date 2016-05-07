@@ -1,0 +1,73 @@
+{
+  "id": 806447521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.907567,38.935438,-85.907567,38.935438",
+    "geom:latitude":38.935438,
+    "geom:longitude":-85.907567,
+    "iso:country":"US",
+    "sg:address":"1849 1st Ave",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 7043",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78agri0zbKkMIB1R2CBNz2_38.935438_-85.907567@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598228,
+    "wof:geomhash":"6a4b3a759381abced308d42a2c389133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806447521
+        }
+    ],
+    "wof:id":806447521,
+    "wof:lastmodified":1462598228,
+    "wof:name":"Triangle Electric",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.907567,
+    38.935438,
+    -85.907567,
+    38.935438
+],
+  "geometry": {"coordinates":[-85.907567,38.935438],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 806832271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.575749,39.165631,-86.575749,39.165631",
+    "geom:latitude":39.165631,
+    "geom:longitude":-86.575749,
+    "iso:country":"US",
+    "sg:address":"3285 W Jacob Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/richland/174218-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 5632",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XVxL9EvHGrH11lWTp8Rk2_39.165631_-86.575749@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601442,
+    "wof:geomhash":"48ba5927fe992a61266e3dbd026cf930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":806832271
+        }
+    ],
+    "wof:id":806832271,
+    "wof:lastmodified":1462601442,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.575749,
+    39.165631,
+    -86.575749,
+    39.165631
+],
+  "geometry": {"coordinates":[-86.575749,39.165631],"type":"Point"}
+}

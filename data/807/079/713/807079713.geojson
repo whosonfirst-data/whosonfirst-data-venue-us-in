@@ -1,0 +1,71 @@
+{
+  "id": 807079713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.576202,39.164501,-86.576202,39.164501",
+    "geom:latitude":39.164501,
+    "geom:longitude":-86.576202,
+    "iso:country":"US",
+    "sg:address":"3293 W 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 8980",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IQa5i5R3S3oyuqYUtim5a_39.164501_-86.576202@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603530,
+    "wof:geomhash":"ef4286ed3c15b6ce506cf06ba97d6a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807079713
+        }
+    ],
+    "wof:id":807079713,
+    "wof:lastmodified":1462603530,
+    "wof:name":"Noble Roman's Pizza",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.576202,
+    39.164501,
+    -86.576202,
+    39.164501
+],
+  "geometry": {"coordinates":[-86.57620199999999,39.164501],"type":"Point"}
+}

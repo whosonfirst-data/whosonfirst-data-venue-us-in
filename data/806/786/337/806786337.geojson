@@ -1,0 +1,88 @@
+{
+  "id": 806786337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.49276,37.95835,-87.49276,37.95835",
+    "geom:latitude":37.95835,
+    "geom:longitude":-87.49276,
+    "iso:country":"US",
+    "sg:address":"1305 S Green River Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 221 2430",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877313,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709,
+        85877295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DypuvcdJMVIbLZwnv8tn4_37.957855_-87.492855@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601071,
+    "wof:geomhash":"757c60e9fc00982551d93c9c0fcae252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877313,
+            "region_id":85688709,
+            "venue_id":806786337
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877295,
+            "region_id":85688709,
+            "venue_id":806786337
+        }
+    ],
+    "wof:id":806786337,
+    "wof:lastmodified":1462601071,
+    "wof:name":"Village E Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -87.49276,
+    37.95835,
+    -87.49276,
+    37.95835
+],
+  "geometry": {"coordinates":[-87.49276,37.95835],"type":"Point"}
+}

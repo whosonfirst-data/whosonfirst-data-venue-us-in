@@ -1,0 +1,78 @@
+{
+  "id": 806774401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.5681,39.177299,-86.5681,39.177299",
+    "geom:latitude":39.177299,
+    "geom:longitude":-86.5681,
+    "iso:country":"US",
+    "sg:address":"3200 Venture Blvd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 6004",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shuttle",
+        "bus",
+        "airport",
+        "line"
+    ],
+    "sg:website":"www.bloomingtonshuttle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5284Yih6tO7lwLz1QFbOu2_39.177504_-86.567963@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600971,
+    "wof:geomhash":"eda08b51c0e7912c0f3d5f94d2e2f8c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":806774401
+        }
+    ],
+    "wof:id":806774401,
+    "wof:lastmodified":1462600971,
+    "wof:name":"Bloomington Shuttle Svc",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "bus",
+        "airport",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.5681,
+    39.177299,
+    -86.5681,
+    39.177299
+],
+  "geometry": {"coordinates":[-86.5681,39.177299],"type":"Point"}
+}

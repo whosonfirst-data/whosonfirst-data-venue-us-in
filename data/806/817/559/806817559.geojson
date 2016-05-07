@@ -1,0 +1,78 @@
+{
+  "id": 806817559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.951732,41.663844,-85.951732,41.663844",
+    "geom:latitude":41.663844,
+    "geom:longitude":-85.951732,
+    "iso:country":"US",
+    "sg:address":"2400 S Main St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/concord/120068-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 293 7900",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rr74yHBITB6FNoABPHas8_41.663844_-85.951732@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601321,
+    "wof:geomhash":"501b41721a3255e6b84afed8d7391d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":806817559
+        }
+    ],
+    "wof:id":806817559,
+    "wof:lastmodified":1462601321,
+    "wof:name":"Subway",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.951732,
+    41.663844,
+    -85.951732,
+    41.663844
+],
+  "geometry": {"coordinates":[-85.95173200000001,41.663844],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789784177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.179293,41.033852,-85.179293,41.033852",
+    "geom:latitude":41.033852,
+    "geom:longitude":-85.179293,
+    "iso:country":"US",
+    "sg:address":"3013 Sand Point Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 747 4303",
+    "sg:postcode":"46809",
+    "sg:province":"IN",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877567,
+        102087177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46gTkjU0tF9Kccftpuc7Et_41.033852_-85.179293@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590522,
+    "wof:geomhash":"ebb13fe31ff8cd32f773567621d76656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "neighbourhood_id":85877567,
+            "region_id":85688709,
+            "venue_id":789784177
+        }
+    ],
+    "wof:id":789784177,
+    "wof:lastmodified":1462590522,
+    "wof:name":"G Townsend Heating & Air Cond",
+    "wof:parent_id":85877567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.179293,
+    41.033852,
+    -85.179293,
+    41.033852
+],
+  "geometry": {"coordinates":[-85.179293,41.033852],"type":"Point"}
+}

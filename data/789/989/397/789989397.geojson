@@ -1,0 +1,77 @@
+{
+  "id": 789989397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.217007,39.782076,-86.217007,39.782076",
+    "geom:latitude":39.782076,
+    "geom:longitude":-86.217007,
+    "iso:country":"US",
+    "sg:address":"1015 N Alton Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 7958",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821825,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yb0xN5HwAGwud8C9p03T7_39.782076_-86.217007@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592241,
+    "wof:geomhash":"f86826b3cec83f69efe544f912324dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85821825,
+            "region_id":85688709,
+            "venue_id":789989397
+        }
+    ],
+    "wof:id":789989397,
+    "wof:lastmodified":1462592241,
+    "wof:name":"Beck's Auto Repair",
+    "wof:parent_id":85821825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.217007,
+    39.782076,
+    -86.217007,
+    39.782076
+],
+  "geometry": {"coordinates":[-86.217007,39.782076],"type":"Point"}
+}

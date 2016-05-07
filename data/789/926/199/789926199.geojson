@@ -1,0 +1,73 @@
+{
+  "id": 789926199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.67093,40.260868,-85.67093,40.260868",
+    "geom:latitude":40.260868,
+    "geom:longitude":-85.67093,
+    "iso:country":"US",
+    "sg:address":"1004 S Park Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3311",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A1fVjFL14gYp493pjnuzM_40.260868_-85.670930@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591676,
+    "wof:geomhash":"3d04c5dd47f8c5e871cef7ef5b59cfd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":789926199
+        }
+    ],
+    "wof:id":789926199,
+    "wof:lastmodified":1462591676,
+    "wof:name":"Humphries Automotive Svc",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.67093,
+    40.260868,
+    -85.67093,
+    40.260868
+],
+  "geometry": {"coordinates":[-85.67093,40.260868],"type":"Point"}
+}

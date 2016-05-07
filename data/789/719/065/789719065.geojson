@@ -1,0 +1,73 @@
+{
+  "id": 789719065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.576053,38.201335,-87.576053,38.201335",
+    "geom:latitude":38.201335,
+    "geom:longitude":-87.576053,
+    "iso:country":"US",
+    "sg:address":"304 State Rd 68",
+    "sg:city":"Haubstadt",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 768 6162",
+    "sg:postcode":"47639",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yrZwuoCeFRtBpopoQK71L_38.201335_-87.576053@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590003,
+    "wof:geomhash":"9dfd97ef89367730f6a001e3ff35d9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":789719065
+        }
+    ],
+    "wof:id":789719065,
+    "wof:lastmodified":1462590003,
+    "wof:name":"Physicians Health Group",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.576053,
+    38.201335,
+    -87.576053,
+    38.201335
+],
+  "geometry": {"coordinates":[-87.576053,38.201335],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789623617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.430878,39.415247,-86.430878,39.415247",
+    "geom:latitude":39.415247,
+    "geom:longitude":-86.430878,
+    "iso:country":"US",
+    "sg:address":"1290 S Marion St",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 342 4621",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0slTT86aZYwHMwoTosS6vY_39.415247_-86.430878@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589247,
+    "wof:geomhash":"4558c7aa4c4134623f617855a19e0068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":789623617
+        }
+    ],
+    "wof:id":789623617,
+    "wof:lastmodified":1462589247,
+    "wof:name":"G & G Repair",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -86.430878,
+    39.415247,
+    -86.430878,
+    39.415247
+],
+  "geometry": {"coordinates":[-86.43087800000001,39.415247],"type":"Point"}
+}

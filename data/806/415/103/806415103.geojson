@@ -1,0 +1,71 @@
+{
+  "id": 806415103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.81181,40.417526,-86.81181,40.417526",
+    "geom:latitude":40.417526,
+    "geom:longitude":-86.81181,
+    "iso:country":"US",
+    "sg:address":"4901 State Rd 26 E",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 449 9201",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hGR22FAEI5VylJRI8unJY_40.417526_-86.811810@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597975,
+    "wof:geomhash":"487df20ecb5843ebc2c941441b277744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806415103
+        }
+    ],
+    "wof:id":806415103,
+    "wof:lastmodified":1462597975,
+    "wof:name":"Meijer",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.81181,
+    40.417526,
+    -86.81181,
+    40.417526
+],
+  "geometry": {"coordinates":[-86.81180999999999,40.417526],"type":"Point"}
+}

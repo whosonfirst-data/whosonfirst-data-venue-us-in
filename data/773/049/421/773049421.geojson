@@ -1,0 +1,75 @@
+{
+  "id": 773049421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.531706,39.280379,-86.531706,39.280379",
+    "geom:latitude":39.280379,
+    "geom:longitude":-86.531706,
+    "iso:country":"US",
+    "sg:address":"875 W Williams Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 876 4574",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85809723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76Q65XLAsI403Fbh1fHLiY_39.280379_-86.531706@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582754,
+    "wof:geomhash":"f23ff1abbdb26a96ff1ee562a9744d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85809723,
+            "region_id":85688709,
+            "venue_id":773049421
+        }
+    ],
+    "wof:id":773049421,
+    "wof:lastmodified":1462582754,
+    "wof:name":"Randall Hacker Trucking Inc",
+    "wof:parent_id":85809723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.531706,
+    39.280379,
+    -86.531706,
+    39.280379
+],
+  "geometry": {"coordinates":[-86.531706,39.280379],"type":"Point"}
+}

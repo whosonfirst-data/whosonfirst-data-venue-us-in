@@ -1,0 +1,77 @@
+{
+  "id": 806839979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.082774,39.70163,-86.082774,39.70163",
+    "geom:latitude":39.70163,
+    "geom:longitude":-86.082774,
+    "iso:country":"US",
+    "sg:address":"4520 S Emerson Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/homecroft/240891-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819469,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o8mdmLpZaE1oMvoqBE4Gr_39.701401_-86.082596@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601509,
+    "wof:geomhash":"5d20556537a77ec993ffc328176e2476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85819469,
+            "region_id":85688709,
+            "venue_id":806839979
+        }
+    ],
+    "wof:id":806839979,
+    "wof:lastmodified":1462601509,
+    "wof:name":"White Castle",
+    "wof:parent_id":85819469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.082774,
+    39.70163,
+    -86.082774,
+    39.70163
+],
+  "geometry": {"coordinates":[-86.082774,39.70163],"type":"Point"}
+}

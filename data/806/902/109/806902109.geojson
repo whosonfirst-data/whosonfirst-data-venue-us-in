@@ -1,0 +1,83 @@
+{
+  "id": 806902109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.1492,39.761139,-86.1492,39.761139",
+    "geom:latitude":39.761139,
+    "geom:longitude":-86.1492,
+    "iso:country":"US",
+    "sg:address":"406 Virginia Ave. Suite B",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 721 2227",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "promoter",
+        "tours-operators"
+    ],
+    "sg:website":"http://www.circlecitypedicabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870635,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yYd0utWOekGMoCAHiN5L3_39.761139_-86.149200@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602024,
+    "wof:geomhash":"b297ffb46146118939e850fde60ad3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870635,
+            "region_id":85688709,
+            "venue_id":806902109
+        }
+    ],
+    "wof:id":806902109,
+    "wof:lastmodified":1462602024,
+    "wof:name":"Circle City Pedicabs",
+    "wof:parent_id":85870635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -86.1492,
+    39.761139,
+    -86.1492,
+    39.761139
+],
+  "geometry": {"coordinates":[-86.14919999999999,39.761139],"type":"Point"}
+}

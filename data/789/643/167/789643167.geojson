@@ -1,0 +1,79 @@
+{
+  "id": 789643167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270003,39.801756,-86.270003,39.801756",
+    "geom:latitude":39.801756,
+    "geom:longitude":-86.270003,
+    "iso:country":"US",
+    "sg:address":"6231 Crawfordsville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 244 0480",
+    "sg:postcode":"46224",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818927,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XH61sE4kDz5OT635CnAya_39.801756_-86.270003@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589396,
+    "wof:geomhash":"e122ca33db0cee626781c3989b4bb63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85818927,
+            "region_id":85688709,
+            "venue_id":789643167
+        }
+    ],
+    "wof:id":789643167,
+    "wof:lastmodified":1462589396,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85818927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.270003,
+    39.801756,
+    -86.270003,
+    39.801756
+],
+  "geometry": {"coordinates":[-86.270003,39.801756],"type":"Point"}
+}

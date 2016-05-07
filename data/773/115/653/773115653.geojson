@@ -1,0 +1,77 @@
+{
+  "id": 773115653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.991011,41.65977,-85.991011,41.65977",
+    "geom:latitude":41.65977,
+    "geom:longitude":-85.991011,
+    "iso:country":"US",
+    "sg:address":"1600 W Hively Ave",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 875 0060",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61RRr1GEiED5FcN1s5cJBf_41.659770_-85.991011@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583263,
+    "wof:geomhash":"8f3667db9fe07446bf2a85cb8b50ac09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":773115653
+        }
+    ],
+    "wof:id":773115653,
+    "wof:lastmodified":1462583263,
+    "wof:name":"UPS",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -85.991011,
+    41.65977,
+    -85.991011,
+    41.65977
+],
+  "geometry": {"coordinates":[-85.991011,41.65977],"type":"Point"}
+}

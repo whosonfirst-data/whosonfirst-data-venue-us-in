@@ -1,0 +1,77 @@
+{
+  "id": 806812359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240977,39.856524,-86.240977,39.856524",
+    "geom:latitude":39.856524,
+    "geom:longitude":-86.240977,
+    "iso:country":"US",
+    "sg:address":"4802 W 57th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/pike/186430-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807693,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DZmrLIUjBCaXkezxFAnfD_39.856524_-86.240977@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601283,
+    "wof:geomhash":"e3bd8af5652c47425305eb96d6ac62ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85807693,
+            "region_id":85688709,
+            "venue_id":806812359
+        }
+    ],
+    "wof:id":806812359,
+    "wof:lastmodified":1462601283,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.240977,
+    39.856524,
+    -86.240977,
+    39.856524
+],
+  "geometry": {"coordinates":[-86.240977,39.856524],"type":"Point"}
+}

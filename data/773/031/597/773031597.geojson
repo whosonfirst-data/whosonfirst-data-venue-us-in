@@ -1,0 +1,71 @@
+{
+  "id": 773031597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.476676,39.17167,-86.476676,39.17167",
+    "geom:latitude":39.17167,
+    "geom:longitude":-86.476676,
+    "iso:country":"US",
+    "sg:address":"514 N Plymouth Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 7200",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30YotVHmLWBwsMvCRVHbXj_39.171670_-86.476676@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582577,
+    "wof:geomhash":"08a1ab2888d59eaa64739d8d1275eb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":773031597
+        }
+    ],
+    "wof:id":773031597,
+    "wof:lastmodified":1462582577,
+    "wof:name":"Wellness Group",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.476676,
+    39.17167,
+    -86.476676,
+    39.17167
+],
+  "geometry": {"coordinates":[-86.476676,39.17167],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806508825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.890531,40.41652,-86.890531,40.41652",
+    "geom:latitude":40.41652,
+    "geom:longitude":-86.890531,
+    "iso:country":"US",
+    "sg:address":"9 S 6th St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 423 5637",
+    "sg:postcode":"47901",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VRNMQ3IBOsWAzIDqIpZb1_40.416520_-86.890531@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598701,
+    "wof:geomhash":"e5d751db774216a453cee01e5aeb3b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806508825
+        }
+    ],
+    "wof:id":806508825,
+    "wof:lastmodified":1462598701,
+    "wof:name":"Kimbrell's Svc Ctr",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.890531,
+    40.41652,
+    -86.890531,
+    40.41652
+],
+  "geometry": {"coordinates":[-86.890531,40.41652],"type":"Point"}
+}

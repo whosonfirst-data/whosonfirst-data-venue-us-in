@@ -1,0 +1,88 @@
+{
+  "id": 806917603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.010359,39.856886,-86.010359,39.856886",
+    "geom:latitude":39.856886,
+    "geom:longitude":-86.010359,
+    "iso:country":"US",
+    "sg:address":"5830 N Post Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 6000",
+    "sg:postcode":"46216",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hall",
+        "inn",
+        "banquet",
+        "reception",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852657,
+        102191575,
+        404501889,
+        85633793,
+        85942567,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HLSfFu0hku8Ma0NZnSGRP_39.856886_-86.010359@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602155,
+    "wof:geomhash":"ce26ab9d03c1623f80755d18e9992f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501889,
+            "locality_id":85942567,
+            "neighbourhood_id":85852657,
+            "region_id":85688709,
+            "venue_id":806917603
+        }
+    ],
+    "wof:id":806917603,
+    "wof:lastmodified":1462602155,
+    "wof:name":"Kendall Inn The",
+    "wof:parent_id":85852657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "inn",
+        "banquet",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [
+    -86.010359,
+    39.856886,
+    -86.010359,
+    39.856886
+],
+  "geometry": {"coordinates":[-86.01035899999999,39.856886],"type":"Point"}
+}

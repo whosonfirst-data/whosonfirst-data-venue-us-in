@@ -1,0 +1,73 @@
+{
+  "id": 806668697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645522,40.505893,-85.645522,40.505893",
+    "geom:latitude":40.505893,
+    "geom:longitude":-85.645522,
+    "iso:country":"US",
+    "sg:address":"5133 S Adams St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 677 9475",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nC0zy2d3TLkFiimREX5mc_40.505893_-85.645522@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600069,
+    "wof:geomhash":"86fed979632205e033f4eadc8fe57222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":806668697
+        }
+    ],
+    "wof:id":806668697,
+    "wof:lastmodified":1462600069,
+    "wof:name":"D & R Performance Mufflers",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.645522,
+    40.505893,
+    -85.645522,
+    40.505893
+],
+  "geometry": {"coordinates":[-85.645522,40.505893],"type":"Point"}
+}

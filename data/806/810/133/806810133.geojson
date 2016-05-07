@@ -1,0 +1,78 @@
+{
+  "id": 806810133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.144998,39.661054,-86.144998,39.661054",
+    "geom:latitude":39.661054,
+    "geom:longitude":-86.144998,
+    "iso:country":"US",
+    "sg:address":"7245 Us 31 S",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/homecroft/81926-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 883 0942",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870681,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HOUhYYTxCXKKOoiXjvldU_39.661054_-86.144998@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601266,
+    "wof:geomhash":"47d8a133ed80a583b6054a52c2db4198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870681,
+            "region_id":85688709,
+            "venue_id":806810133
+        }
+    ],
+    "wof:id":806810133,
+    "wof:lastmodified":1462601266,
+    "wof:name":"Subway",
+    "wof:parent_id":85870681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.144998,
+    39.661054,
+    -86.144998,
+    39.661054
+],
+  "geometry": {"coordinates":[-86.144998,39.661054],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789888001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.013587,40.504798,-87.013587,40.504798",
+    "geom:latitude":40.504798,
+    "geom:longitude":-87.013587,
+    "iso:country":"US",
+    "sg:address":"5675 W 600 N",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 583 0351",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85813095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UPrU2LwAaLYfeZR9ZM3RK_40.504798_-87.013587@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591353,
+    "wof:geomhash":"a0f404afadb0dfe7344b6e858e8e32d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85813095,
+            "region_id":85688709,
+            "venue_id":789888001
+        }
+    ],
+    "wof:id":789888001,
+    "wof:lastmodified":1462591353,
+    "wof:name":"Animal Sciences Research Ctr",
+    "wof:parent_id":85813095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer"
+    ]
+},
+  "bbox": [
+    -87.013587,
+    40.504798,
+    -87.013587,
+    40.504798
+],
+  "geometry": {"coordinates":[-87.013587,40.504798],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806840767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.047085,39.826077,-86.047085,39.826077",
+    "geom:latitude":39.826077,
+    "geom:longitude":-86.047085,
+    "iso:country":"US",
+    "sg:address":"6901 Pendleton Pike",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lawrence/240884-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46226",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891137,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J53BuCSxvdFYq3L1TxZSl_39.826461_-86.047104@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601515,
+    "wof:geomhash":"686f924c578c6b80d84c8bd7c7108f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891137,
+            "region_id":85688709,
+            "venue_id":806840767
+        }
+    ],
+    "wof:id":806840767,
+    "wof:lastmodified":1462601515,
+    "wof:name":"White Castle",
+    "wof:parent_id":85891137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.047085,
+    39.826077,
+    -86.047085,
+    39.826077
+],
+  "geometry": {"coordinates":[-86.047085,39.826077],"type":"Point"}
+}

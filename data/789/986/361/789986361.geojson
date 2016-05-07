@@ -1,0 +1,71 @@
+{
+  "id": 789986361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.970254,39.199815,-85.970254,39.199815",
+    "geom:latitude":39.199815,
+    "geom:longitude":-85.970254,
+    "iso:country":"US",
+    "sg:address":"4170 W Jonathan Moore Pike",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 342 1748",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zCMT74H0gMQlnEV90IGIg_39.199815_-85.970254@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592220,
+    "wof:geomhash":"aea7d63e23487f88fef9018deb866305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":789986361
+        }
+    ],
+    "wof:id":789986361,
+    "wof:lastmodified":1462592220,
+    "wof:name":"Pet Stop",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.970254,
+    39.199815,
+    -85.970254,
+    39.199815
+],
+  "geometry": {"coordinates":[-85.970254,39.199815],"type":"Point"}
+}

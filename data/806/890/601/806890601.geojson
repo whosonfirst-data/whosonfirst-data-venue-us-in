@@ -1,0 +1,84 @@
+{
+  "id": 806890601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.159133,39.604451,-86.159133,39.604451",
+    "geom:latitude":39.604451,
+    "geom:longitude":-86.159133,
+    "iso:country":"US",
+    "sg:address":"895 S State Road 135",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 882 6017",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "eyeglass",
+        "sunglass"
+    ],
+    "sg:website":"http://www.luxottica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YmcfoEi5lNHCgLmvfoJKD_39.604451_-86.159133@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601937,
+    "wof:geomhash":"98e95882a94fc7aba6db85bb00c0b66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":806890601
+        }
+    ],
+    "wof:id":806890601,
+    "wof:lastmodified":1462601937,
+    "wof:name":"Luxottica",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyeglass",
+        "sunglass"
+    ]
+},
+  "bbox": [
+    -86.159133,
+    39.604451,
+    -86.159133,
+    39.604451
+],
+  "geometry": {"coordinates":[-86.159133,39.604451],"type":"Point"}
+}

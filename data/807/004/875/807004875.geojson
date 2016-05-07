@@ -1,0 +1,83 @@
+{
+  "id": 807004875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259827,39.898159,-86.259827,39.898159",
+    "geom:latitude":39.898159,
+    "geom:longitude":-86.259827,
+    "iso:country":"US",
+    "sg:address":"7955 Zionsville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 613 9000",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "sg:website":"http://www.moduslink.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wZYQlGJcIzXw5DVlDtfK_39.898159_-86.259827@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602897,
+    "wof:geomhash":"d9cd6e31b5677924f169d08fa4290c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870685,
+            "region_id":85688709,
+            "venue_id":807004875
+        }
+    ],
+    "wof:id":807004875,
+    "wof:lastmodified":1462602897,
+    "wof:name":"Moduslink Corporation",
+    "wof:parent_id":85870685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [
+    -86.259827,
+    39.898159,
+    -86.259827,
+    39.898159
+],
+  "geometry": {"coordinates":[-86.259827,39.898159],"type":"Point"}
+}

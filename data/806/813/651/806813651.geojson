@@ -1,0 +1,73 @@
+{
+  "id": 806813651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.112896,41.604663,-87.112896,41.604663",
+    "geom:latitude":41.604663,
+    "geom:longitude":-87.112896,
+    "iso:country":"US",
+    "sg:address":"243 Melton Rd",
+    "sg:city":"Chesterton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/westchester/185274-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942387,
+        102087191,
+        85812965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vmU2aHN1b594MbQGO107i_41.604663_-87.112896@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601293,
+    "wof:geomhash":"93fa1530e1683226c4f31bed6c2cae88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942387,
+            "neighbourhood_id":85812965,
+            "region_id":85688709,
+            "venue_id":806813651
+        }
+    ],
+    "wof:id":806813651,
+    "wof:lastmodified":1462601293,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.112896,
+    41.604663,
+    -87.112896,
+    41.604663
+],
+  "geometry": {"coordinates":[-87.11289600000001,41.604663],"type":"Point"}
+}

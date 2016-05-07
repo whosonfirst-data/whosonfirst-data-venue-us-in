@@ -1,0 +1,83 @@
+{
+  "id": 806930657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.141769,39.847256,-86.141769,39.847256",
+    "geom:latitude":39.847256,
+    "geom:longitude":-86.141769,
+    "iso:country":"US",
+    "sg:address":"5255 Winthrop Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 283 5574",
+    "sg:postcode":"46220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "materials-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.icdcommercial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870655,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cw5cFM9FKs6617KSow4TU_39.847256_-86.141769@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602280,
+    "wof:geomhash":"1a5615f3d71ea1f9002adecf2850943b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870655,
+            "region_id":85688709,
+            "venue_id":806930657
+        }
+    ],
+    "wof:id":806930657,
+    "wof:lastmodified":1462602280,
+    "wof:name":"Icd Commercial Flrg Solutions",
+    "wof:parent_id":85870655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.141769,
+    39.847256,
+    -86.141769,
+    39.847256
+],
+  "geometry": {"coordinates":[-86.141769,39.847256],"type":"Point"}
+}

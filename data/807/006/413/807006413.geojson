@@ -1,0 +1,85 @@
+{
+  "id": 807006413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.243768,39.884428,-86.243768,39.884428",
+    "geom:latitude":39.884428,
+    "geom:longitude":-86.243768,
+    "iso:country":"US",
+    "sg:address":"7301 Georgetown Rd # 123",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 334 1828",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "supplies-renting",
+        "wheelchairs-rental",
+        "supply"
+    ],
+    "sg:website":"http://www.uhs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519805,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k2gz2m3qI0EFbrYOhtxnq_39.884428_-86.243768@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602914,
+    "wof:geomhash":"77b245aca2943e1ba12d5460970d1627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519805,
+            "region_id":85688709,
+            "venue_id":807006413
+        }
+    ],
+    "wof:id":807006413,
+    "wof:lastmodified":1462602914,
+    "wof:name":"Universal Hospital Services, Inc.",
+    "wof:parent_id":420519805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-renting",
+        "wheelchairs-rental",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.243768,
+    39.884428,
+    -86.243768,
+    39.884428
+],
+  "geometry": {"coordinates":[-86.243768,39.884428],"type":"Point"}
+}

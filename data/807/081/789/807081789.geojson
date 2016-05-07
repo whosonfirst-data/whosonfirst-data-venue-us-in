@@ -1,0 +1,94 @@
+{
+  "id": 807081789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.523483,39.16848,-86.523483,39.16848",
+    "geom:latitude":39.16848,
+    "geom:longitude":-86.523483,
+    "iso:country":"US",
+    "sg:address":"900 E 7th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 855 6670",
+    "sg:postcode":"47405",
+    "sg:province":"IN",
+    "sg:tags":[
+        "style",
+        "family",
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uKmE3VzDFR3290cd2lDqQ_39.168480_-86.523483@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603548,
+    "wof:geomhash":"d8c19601b39693909b988d4a9f7c131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807081789
+        }
+    ],
+    "wof:id":807081789,
+    "wof:lastmodified":1462603548,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.523483,
+    39.16848,
+    -86.523483,
+    39.16848
+],
+  "geometry": {"coordinates":[-86.523483,39.16848],"type":"Point"}
+}

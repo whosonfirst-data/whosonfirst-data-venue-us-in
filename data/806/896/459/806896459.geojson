@@ -1,0 +1,85 @@
+{
+  "id": 806896459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.146242,39.76815,-86.146242,39.76815",
+    "geom:latitude":39.76815,
+    "geom:longitude":-86.146242,
+    "iso:country":"US",
+    "sg:address":"635 E Market St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 245 8123",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cremation",
+        "urn",
+        "crematory"
+    ],
+    "sg:website":"http://www.cremationcenterindiana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866947,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dBeqsp65Vb8uVEKPEXOkB_39.768150_-86.146242@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601984,
+    "wof:geomhash":"145059f49479ac4aa9eb0b17b19e00fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866947,
+            "region_id":85688709,
+            "venue_id":806896459
+        }
+    ],
+    "wof:id":806896459,
+    "wof:lastmodified":1462601984,
+    "wof:name":"Cremation Center Of Indiana",
+    "wof:parent_id":85866947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cremation",
+        "urn",
+        "crematory"
+    ]
+},
+  "bbox": [
+    -86.146242,
+    39.76815,
+    -86.146242,
+    39.76815
+],
+  "geometry": {"coordinates":[-86.146242,39.76815],"type":"Point"}
+}

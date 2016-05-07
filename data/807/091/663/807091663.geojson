@@ -1,0 +1,71 @@
+{
+  "id": 807091663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.590788,38.355224,-87.590788,38.355224",
+    "geom:latitude":38.355224,
+    "geom:longitude":-87.590788,
+    "iso:country":"US",
+    "sg:address":"329 S 5th Ave Apt 1",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 0315",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x3rnp1LYsJtXPXcxme3WF_38.355224_-87.590788@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603632,
+    "wof:geomhash":"9ad31e120b56a6c4e215fd237470f49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807091663
+        }
+    ],
+    "wof:id":807091663,
+    "wof:lastmodified":1462603632,
+    "wof:name":"Prince West Apartment",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.590788,
+    38.355224,
+    -87.590788,
+    38.355224
+],
+  "geometry": {"coordinates":[-87.590788,38.355224],"type":"Point"}
+}

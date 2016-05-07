@@ -1,0 +1,73 @@
+{
+  "id": 789778103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660877,40.557958,-85.660877,40.557958",
+    "geom:latitude":40.557958,
+    "geom:longitude":-85.660877,
+    "iso:country":"US",
+    "sg:address":"112 W 4th St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 3067",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YntNEv5CLykKWhtm56GXz_40.557958_-85.660877@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590461,
+    "wof:geomhash":"5d6009d97887ddde63df3f7ce8c70347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":789778103
+        }
+    ],
+    "wof:id":789778103,
+    "wof:lastmodified":1462590461,
+    "wof:name":"Playhouse Studio Of Dance",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -85.660877,
+    40.557958,
+    -85.660877,
+    40.557958
+],
+  "geometry": {"coordinates":[-85.660877,40.557958],"type":"Point"}
+}

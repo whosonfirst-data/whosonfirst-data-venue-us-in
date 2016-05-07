@@ -1,0 +1,71 @@
+{
+  "id": 789618445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.186015,40.991036,-85.186015,40.991036",
+    "geom:latitude":40.991036,
+    "geom:longitude":-85.186015,
+    "iso:country":"US",
+    "sg:address":"3710 Piper Dr",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 747 4441",
+    "sg:postcode":"46809",
+    "sg:province":"IN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877567,
+        102087177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jqgiN3fvuCIuXse9mdIuu_40.991036_-85.186015@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589206,
+    "wof:geomhash":"e15a53fb38ef03837d67b93a3cb10ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "neighbourhood_id":85877567,
+            "region_id":85688709,
+            "venue_id":789618445
+        }
+    ],
+    "wof:id":789618445,
+    "wof:lastmodified":1462589206,
+    "wof:name":"Shank Brothers Inc",
+    "wof:parent_id":85877567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.186015,
+    40.991036,
+    -85.186015,
+    40.991036
+],
+  "geometry": {"coordinates":[-85.186015,40.991036],"type":"Point"}
+}

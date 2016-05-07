@@ -1,0 +1,90 @@
+{
+  "id": 806940749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.044434,39.832532,-86.044434,39.832532",
+    "geom:latitude":39.832532,
+    "geom:longitude":-86.044434,
+    "iso:country":"US",
+    "sg:address":"4130 Englewood Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 897 2122",
+    "sg:postcode":"46226",
+    "sg:province":"IN",
+    "sg:tags":[
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891137,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYHZ558ZwUM49Hyxxfudb_39.832532_-86.044434@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602366,
+    "wof:geomhash":"dca9d727ed33f8d17dc3ba03c57fc4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891137,
+            "region_id":85688709,
+            "venue_id":806940749
+        }
+    ],
+    "wof:id":806940749,
+    "wof:lastmodified":1462602366,
+    "wof:name":"A & T Taxicabs",
+    "wof:parent_id":85891137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.044434,
+    39.832532,
+    -86.044434,
+    39.832532
+],
+  "geometry": {"coordinates":[-86.044434,39.832532],"type":"Point"}
+}

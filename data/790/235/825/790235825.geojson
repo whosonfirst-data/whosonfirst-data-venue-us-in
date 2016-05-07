@@ -1,0 +1,71 @@
+{
+  "id": 790235825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012747,39.42527,-85.012747,39.42527",
+    "geom:latitude":39.42527,
+    "geom:longitude":-85.012747,
+    "iso:country":"US",
+    "sg:address":"954 Main St",
+    "sg:city":"Brookville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 647 2798",
+    "sg:postcode":"47012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85850965,
+        102086385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2umq0XKaj2bOxE1XjNGcqQ_39.425270_-85.012747@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594215,
+    "wof:geomhash":"08dbe3fb158e13e31b8b1be34723e2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086385,
+            "neighbourhood_id":85850965,
+            "region_id":85688709,
+            "venue_id":790235825
+        }
+    ],
+    "wof:id":790235825,
+    "wof:lastmodified":1462594215,
+    "wof:name":"Davis Auto Sales",
+    "wof:parent_id":85850965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.012747,
+    39.42527,
+    -85.012747,
+    39.42527
+],
+  "geometry": {"coordinates":[-85.012747,39.42527],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 807067817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.531197,39.1283,-86.531197,39.1283",
+    "geom:latitude":39.1283,
+    "geom:longitude":-86.531197,
+    "iso:country":"US",
+    "sg:address":"3409 S Old State Road 37",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 331 0665",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fnrN0LmJHcHv5rtiFWmof_39.128300_-86.531197@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603429,
+    "wof:geomhash":"1bc1fdc1693cbc489bc1e98ea441d382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":807067817
+        }
+    ],
+    "wof:id":807067817,
+    "wof:lastmodified":1462603429,
+    "wof:name":"Canine Companions",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -86.531197,
+    39.1283,
+    -86.531197,
+    39.1283
+],
+  "geometry": {"coordinates":[-86.53119700000001,39.1283],"type":"Point"}
+}

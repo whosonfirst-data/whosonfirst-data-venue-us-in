@@ -1,0 +1,94 @@
+{
+  "id": 807003471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.200657,39.912043,-86.200657,39.912043",
+    "geom:latitude":39.912043,
+    "geom:longitude":-86.200657,
+    "iso:country":"US",
+    "sg:address":"2250 W 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 228 8024",
+    "sg:postcode":"46260",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospitalization",
+        "medical",
+        "surgical",
+        "adjuster",
+        "plan"
+    ],
+    "sg:website":"http://www.compressionetc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822909,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DfwkYLNr7U2jLbfHjNL4V_39.912043_-86.200657@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602886,
+    "wof:geomhash":"b8433c3fddeee8daded311d79b772f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85822909,
+            "region_id":85688709,
+            "venue_id":807003471
+        }
+    ],
+    "wof:id":807003471,
+    "wof:lastmodified":1462602886,
+    "wof:name":"Compression Etc",
+    "wof:parent_id":85822909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospitalization",
+        "medical",
+        "surgical",
+        "adjuster",
+        "plan"
+    ]
+},
+  "bbox": [
+    -86.200657,
+    39.912043,
+    -86.200657,
+    39.912043
+],
+  "geometry": {"coordinates":[-86.20065700000001,39.912043],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773091829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.98354,39.029225,-85.98354,39.029225",
+    "geom:latitude":39.029225,
+    "geom:longitude":-85.98354,
+    "iso:country":"US",
+    "sg:address":"10233 N Co Rd 300 E",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 6908",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ze30NZZxxL3E0CmXcab8A_39.029225_-85.983540@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583092,
+    "wof:geomhash":"3827650126e7ccf6994b769fdcf22aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":773091829
+        }
+    ],
+    "wof:id":773091829,
+    "wof:lastmodified":1462583092,
+    "wof:name":"Wischmeier Trucking Inc",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.98354,
+    39.029225,
+    -85.98354,
+    39.029225
+],
+  "geometry": {"coordinates":[-85.98354,39.029225],"type":"Point"}
+}

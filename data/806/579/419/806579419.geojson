@@ -1,0 +1,71 @@
+{
+  "id": 806579419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.45589,39.375268,-86.45589,39.375268",
+    "geom:latitude":39.375268,
+    "geom:longitude":-86.45589,
+    "iso:country":"US",
+    "sg:address":"4760 Jordan Rd",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 349 9187",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85810363,
+        102087091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rNBPKnWW81rdw64fvczf5_39.375268_-86.455890@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599303,
+    "wof:geomhash":"bd2b40ceff84c159111efb3e9d2a526b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "neighbourhood_id":85810363,
+            "region_id":85688709,
+            "venue_id":806579419
+        }
+    ],
+    "wof:id":806579419,
+    "wof:lastmodified":1462599303,
+    "wof:name":"Broyer Maintenance Shop",
+    "wof:parent_id":85810363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.45589,
+    39.375268,
+    -86.45589,
+    39.375268
+],
+  "geometry": {"coordinates":[-86.45589,39.375268],"type":"Point"}
+}

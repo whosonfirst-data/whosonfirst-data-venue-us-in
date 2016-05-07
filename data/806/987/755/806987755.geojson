@@ -1,0 +1,83 @@
+{
+  "id": 806987755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.265274,39.859784,-86.265274,39.859784",
+    "geom:latitude":39.859784,
+    "geom:longitude":-86.265274,
+    "iso:country":"US",
+    "sg:address":"5926 Blackley Ln",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 328 8349",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "tea-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.stantoncoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830193,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s8GTv5GMSWWO3PIKbndyM_39.859784_-86.265274@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602757,
+    "wof:geomhash":"690e452c484a7f3a7f8ea7c9307a1351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85830193,
+            "region_id":85688709,
+            "venue_id":806987755
+        }
+    ],
+    "wof:id":806987755,
+    "wof:lastmodified":1462602757,
+    "wof:name":"Stanton Coffee Co",
+    "wof:parent_id":85830193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.265274,
+    39.859784,
+    -86.265274,
+    39.859784
+],
+  "geometry": {"coordinates":[-86.26527400000001,39.859784],"type":"Point"}
+}

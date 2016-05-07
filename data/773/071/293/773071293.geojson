@@ -1,0 +1,78 @@
+{
+  "id": 773071293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.41139,39.467289,-87.41139,39.467289",
+    "geom:latitude":39.467289,
+    "geom:longitude":-87.41139,
+    "iso:country":"US",
+    "sg:address":"22 N 5th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 478 0013",
+    "sg:postcode":"47807",
+    "sg:province":"IN",
+    "sg:tags":[
+        "agency",
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0agkcK9Iy8V6tWV4956wb5_39.467289_-87.411390@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582945,
+    "wof:geomhash":"31a58ba0ddfa7eeeb39eb295bc91544e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":773071293
+        }
+    ],
+    "wof:id":773071293,
+    "wof:lastmodified":1462582945,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "yard"
+    ]
+},
+  "bbox": [
+    -87.41139,
+    39.467289,
+    -87.41139,
+    39.467289
+],
+  "geometry": {"coordinates":[-87.41139,39.467289],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 806882555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269884,39.961642,-86.269884,39.961642",
+    "geom:latitude":39.961642,
+    "geom:longitude":-86.269884,
+    "iso:country":"US",
+    "sg:address":"900 Mulberry St",
+    "sg:city":"Zionsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 873 6919",
+    "sg:postcode":"46077",
+    "sg:province":"IN",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838263,
+        102191575,
+        404501093,
+        85633793,
+        85941757,
+        102086453,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ulGFkqLM8ylFqGRUXvQiM_39.961642_-86.269884@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601874,
+    "wof:geomhash":"3603a0be3f252dd69efdcd8ec854cb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086453,
+            "localadmin_id":404501093,
+            "locality_id":85941757,
+            "neighbourhood_id":85838263,
+            "region_id":85688709,
+            "venue_id":806882555
+        }
+    ],
+    "wof:id":806882555,
+    "wof:lastmodified":1462601874,
+    "wof:name":"Assessor",
+    "wof:parent_id":85838263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -86.269884,
+    39.961642,
+    -86.269884,
+    39.961642
+],
+  "geometry": {"coordinates":[-86.269884,39.961642],"type":"Point"}
+}

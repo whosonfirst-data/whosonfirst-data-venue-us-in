@@ -1,0 +1,91 @@
+{
+  "id": 806887625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.170196,39.617508,-86.170196,39.617508",
+    "geom:latitude":39.617508,
+    "geom:longitude":-86.170196,
+    "iso:country":"US",
+    "sg:address":"302 Lake Dr",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 882 2593",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jx2TZxmH0eFje9Y5f2hZ_39.617508_-86.170196@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601912,
+    "wof:geomhash":"229de8f91597fb069bb680b8fa5b77ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":806887625
+        }
+    ],
+    "wof:id":806887625,
+    "wof:lastmodified":1462601912,
+    "wof:name":"American Money Corp",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.170196,
+    39.617508,
+    -86.170196,
+    39.617508
+],
+  "geometry": {"coordinates":[-86.170196,39.617508],"type":"Point"}
+}

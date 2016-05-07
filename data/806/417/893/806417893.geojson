@@ -1,0 +1,73 @@
+{
+  "id": 806417893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.892561,38.968591,-85.892561,38.968591",
+    "geom:latitude":38.968591,
+    "geom:longitude":-85.892561,
+    "iso:country":"US",
+    "sg:address":"927 Shields Ave",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 4460",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pM77KAFx87Cl37bL2zX0e_38.968591_-85.892561@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597993,
+    "wof:geomhash":"b4efbbbe2676d742dfffbfa34bfcaaef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806417893
+        }
+    ],
+    "wof:id":806417893,
+    "wof:lastmodified":1462597993,
+    "wof:name":"Engine Air Inc",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -85.892561,
+    38.968591,
+    -85.892561,
+    38.968591
+],
+  "geometry": {"coordinates":[-85.892561,38.968591],"type":"Point"}
+}

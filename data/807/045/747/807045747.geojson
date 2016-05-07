@@ -1,0 +1,81 @@
+{
+  "id": 807045747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.469805,41.438561,-87.469805,41.438561",
+    "geom:latitude":41.438561,
+    "geom:longitude":-87.469805,
+    "iso:country":"US",
+    "sg:address":"9885 Wicker Ave",
+    "sg:city":"Saint John",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 365 8162",
+    "sg:postcode":"46373",
+    "sg:province":"IN",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824159,
+        102191575,
+        404501873,
+        85633793,
+        85941841,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAE8hLCA5trXmqtFhI8KI_41.438561_-87.469805@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603256,
+    "wof:geomhash":"77530fc9ca79c6a45d5aedd56f94d2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941841,
+            "neighbourhood_id":85824159,
+            "region_id":85688709,
+            "venue_id":807045747
+        }
+    ],
+    "wof:id":807045747,
+    "wof:lastmodified":1462603256,
+    "wof:name":"Target Stores",
+    "wof:parent_id":85824159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -87.469805,
+    41.438561,
+    -87.469805,
+    41.438561
+],
+  "geometry": {"coordinates":[-87.46980499999999,41.438561],"type":"Point"}
+}

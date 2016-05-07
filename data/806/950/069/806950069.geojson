@@ -1,0 +1,80 @@
+{
+  "id": 806950069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.008532,39.782047,-86.008532,39.782047",
+    "geom:latitude":39.782047,
+    "geom:longitude":-86.008532,
+    "iso:country":"US",
+    "sg:address":"9049 E 10th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 327 5738",
+    "sg:postcode":"46229",
+    "sg:province":"IN",
+    "sg:tags":[
+        "justice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854541,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TTznRuuR8Rnqiiz3VuDeA_39.782047_-86.008532@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602438,
+    "wof:geomhash":"59532b9fb54b44bdf338bc886ae06592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85854541,
+            "region_id":85688709,
+            "venue_id":806950069
+        }
+    ],
+    "wof:id":806950069,
+    "wof:lastmodified":1462602438,
+    "wof:name":"Municipal Court-Traffic Div",
+    "wof:parent_id":85854541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -86.008532,
+    39.782047,
+    -86.008532,
+    39.782047
+],
+  "geometry": {"coordinates":[-86.008532,39.782047],"type":"Point"}
+}

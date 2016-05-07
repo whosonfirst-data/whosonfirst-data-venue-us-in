@@ -1,0 +1,73 @@
+{
+  "id": 789875909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.197293,39.604369,-86.197293,39.604369",
+    "geom:latitude":39.604369,
+    "geom:longitude":-86.197293,
+    "iso:country":"US",
+    "sg:address":"720 S Morgantown Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 881 5009",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85821965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64RiUWFTRbrGyamzOG1DP6_39.604369_-86.197293@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591238,
+    "wof:geomhash":"fd39141671744de668e85c3ac2f3fa1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85821965,
+            "region_id":85688709,
+            "venue_id":789875909
+        }
+    ],
+    "wof:id":789875909,
+    "wof:lastmodified":1462591238,
+    "wof:name":"Morton Plumbing",
+    "wof:parent_id":85821965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.197293,
+    39.604369,
+    -86.197293,
+    39.604369
+],
+  "geometry": {"coordinates":[-86.197293,39.604369],"type":"Point"}
+}

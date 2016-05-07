@@ -1,0 +1,67 @@
+{
+  "id": 789932483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.223356,40.185495,-86.223356,40.185495",
+    "geom:latitude":40.185495,
+    "geom:longitude":-86.223356,
+    "iso:country":"US",
+    "sg:address":"27045 Jerkwater Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 758 4161",
+    "sg:postcode":"46069",
+    "sg:province":"IN",
+    "sg:website":"www.sheridanairport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cqwr5Iq3dbWjQojwIKkAl_40.185495_-86.223356@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591729,
+    "wof:geomhash":"ebf9f50796fbcbb2c69e922283ca0828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":789932483
+        }
+    ],
+    "wof:id":789932483,
+    "wof:lastmodified":1462591729,
+    "wof:name":"Sheridan Airport",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.223356,
+    40.185495,
+    -86.223356,
+    40.185495
+],
+  "geometry": {"coordinates":[-86.223356,40.185495],"type":"Point"}
+}

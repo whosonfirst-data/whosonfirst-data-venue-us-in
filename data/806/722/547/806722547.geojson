@@ -1,0 +1,72 @@
+{
+  "id": 806722547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.582807,39.157341,-86.582807,39.157341",
+    "geom:latitude":39.157341,
+    "geom:longitude":-86.582807,
+    "iso:country":"US",
+    "sg:address":"1100 S Curry Pike",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 353 3000",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"www.bhhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Mq4lkRzPv1hqUvCqJQVw_39.157607_-86.582731@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600525,
+    "wof:geomhash":"07003cf8b44e74d55ae0203bdd17e5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":806722547
+        }
+    ],
+    "wof:id":806722547,
+    "wof:lastmodified":1462600525,
+    "wof:name":"Bloomington Hospital",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -86.582807,
+    39.157341,
+    -86.582807,
+    39.157341
+],
+  "geometry": {"coordinates":[-86.582807,39.157341],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 790187833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6527,40.114532,-85.6527,40.114532",
+    "geom:latitude":40.114532,
+    "geom:longitude":-85.6527,
+    "iso:country":"US",
+    "sg:address":"265 Scatterfield Rd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 643 3400",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822089,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709,
+        420558513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11BvGYPBZ7cxhcQwD2ClJc_40.114532_-85.652700@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593838,
+    "wof:geomhash":"88cc8092f8f5208be01defb6dd18cf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85822089,
+            "region_id":85688709,
+            "venue_id":790187833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":420558513,
+            "region_id":85688709,
+            "venue_id":790187833
+        }
+    ],
+    "wof:id":790187833,
+    "wof:lastmodified":1462593838,
+    "wof:name":"CVS Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.6527,
+    40.114532,
+    -85.6527,
+    40.114532
+],
+  "geometry": {"coordinates":[-85.6527,40.114532],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773583873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.996548,40.039316,-85.996548,40.039316",
+    "geom:latitude":40.039316,
+    "geom:longitude":-85.996548,
+    "iso:country":"US",
+    "sg:address":"2355 Pleasant St",
+    "sg:city":"Noblesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 773 3232",
+    "sg:postcode":"46060",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941337,
+        102087089,
+        85891191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NWIBeR0OCDSPidXsFaPqB_40.039316_-85.996548@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586830,
+    "wof:geomhash":"f3722cf1f05d86a76794555599ccb98c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941337,
+            "neighbourhood_id":85891191,
+            "region_id":85688709,
+            "venue_id":773583873
+        }
+    ],
+    "wof:id":773583873,
+    "wof:lastmodified":1462586830,
+    "wof:name":"VIP Animal Care",
+    "wof:parent_id":85891191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.996548,
+    40.039316,
+    -85.996548,
+    40.039316
+],
+  "geometry": {"coordinates":[-85.996548,40.039316],"type":"Point"}
+}

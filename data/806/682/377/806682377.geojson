@@ -1,0 +1,73 @@
+{
+  "id": 806682377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.705775,40.561332,-85.705775,40.561332",
+    "geom:latitude":40.561332,
+    "geom:longitude":-85.705775,
+    "iso:country":"US",
+    "sg:address":"2400 W 2nd St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 668 2000",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e2V57if0LSIhuZSBzqF22_40.561332_-85.705775@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600189,
+    "wof:geomhash":"80cc8abe480eab648192da48d35c533e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":806682377
+        }
+    ],
+    "wof:id":806682377,
+    "wof:lastmodified":1462600189,
+    "wof:name":"General Motors Corp",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.705775,
+    40.561332,
+    -85.705775,
+    40.561332
+],
+  "geometry": {"coordinates":[-85.705775,40.561332],"type":"Point"}
+}

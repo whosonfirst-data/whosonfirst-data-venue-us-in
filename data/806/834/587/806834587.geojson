@@ -1,0 +1,73 @@
+{
+  "id": 806834587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.628601,37.978222,-87.628601,37.978222",
+    "geom:latitude":37.978222,
+    "geom:longitude":-87.628601,
+    "iso:country":"US",
+    "sg:address":"115 S Rosenberger Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/poplar-grove/186317-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47712",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85843997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ozZuALw8TcJHPtSLVYp93_37.978222_-87.628601@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601461,
+    "wof:geomhash":"e5d1498699b93541730082dfa0866b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85843997,
+            "region_id":85688709,
+            "venue_id":806834587
+        }
+    ],
+    "wof:id":806834587,
+    "wof:lastmodified":1462601461,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85843997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.628601,
+    37.978222,
+    -87.628601,
+    37.978222
+],
+  "geometry": {"coordinates":[-87.628601,37.978222],"type":"Point"}
+}

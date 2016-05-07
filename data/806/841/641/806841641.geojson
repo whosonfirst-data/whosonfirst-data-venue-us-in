@@ -1,0 +1,87 @@
+{
+  "id": 806841641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.447831,41.537414,-87.447831,41.537414",
+    "geom:latitude":41.537414,
+    "geom:longitude":-87.447831,
+    "iso:country":"US",
+    "sg:address":"3339 45th St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/north/161655-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 924 4510",
+    "sg:postcode":"46322",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891125,
+        102191575,
+        404501857,
+        85633793,
+        85941815,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MynTJD4CR3LxfM3q0Tlhi_41.537477_-87.448039@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601521,
+    "wof:geomhash":"b7e452c184585e4604da079cf85b904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941815,
+            "neighbourhood_id":85891125,
+            "region_id":85688709,
+            "venue_id":806841641
+        }
+    ],
+    "wof:id":806841641,
+    "wof:lastmodified":1462601521,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85891125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -87.447831,
+    41.537414,
+    -87.447831,
+    41.537414
+],
+  "geometry": {"coordinates":[-87.44783099999999,41.537414],"type":"Point"}
+}

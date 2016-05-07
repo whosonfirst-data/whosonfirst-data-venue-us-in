@@ -1,0 +1,92 @@
+{
+  "id": 806928757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.148219,39.870366,-86.148219,39.870366",
+    "geom:latitude":39.870366,
+    "geom:longitude":-86.148219,
+    "iso:country":"US",
+    "sg:address":"628 E 63rd St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 507 5755",
+    "sg:postcode":"46220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "consultant",
+        "product",
+        "coach",
+        "software"
+    ],
+    "sg:website":"http://www.com-scape.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855019,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09cwV5mkONgKsGttXSL8HW_39.870366_-86.148219@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602262,
+    "wof:geomhash":"50ab485f602e9aea5b8d6fa8c06b62a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85855019,
+            "region_id":85688709,
+            "venue_id":806928757
+        }
+    ],
+    "wof:id":806928757,
+    "wof:lastmodified":1462602262,
+    "wof:name":"Com-Scape",
+    "wof:parent_id":85855019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "product",
+        "coach",
+        "software"
+    ]
+},
+  "bbox": [
+    -86.148219,
+    39.870366,
+    -86.148219,
+    39.870366
+],
+  "geometry": {"coordinates":[-86.148219,39.870366],"type":"Point"}
+}

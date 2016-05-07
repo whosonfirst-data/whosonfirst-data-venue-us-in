@@ -1,0 +1,71 @@
+{
+  "id": 789960243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.818681,40.330152,-86.818681,40.330152",
+    "geom:latitude":40.330152,
+    "geom:longitude":-86.818681,
+    "iso:country":"US",
+    "sg:address":"6024 S 450 E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 000 1111",
+    "sg:postcode":"47909",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGXj98EHkp1fVkb3kbuwG_40.330152_-86.818681@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591998,
+    "wof:geomhash":"26d4b835243b81e29ecf01c7e3176074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":789960243
+        }
+    ],
+    "wof:id":789960243,
+    "wof:lastmodified":1462591998,
+    "wof:name":"Oxford Fire Dept",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.818681,
+    40.330152,
+    -86.818681,
+    40.330152
+],
+  "geometry": {"coordinates":[-86.818681,40.330152],"type":"Point"}
+}

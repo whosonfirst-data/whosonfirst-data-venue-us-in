@@ -1,0 +1,71 @@
+{
+  "id": 789877445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.521227,38.056179,-87.521227,38.056179",
+    "geom:latitude":38.056179,
+    "geom:longitude":-87.521227,
+    "iso:country":"US",
+    "sg:address":"2410 Sharon Pl",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 468 8579",
+    "sg:postcode":"47725",
+    "sg:province":"IN",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85824997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fe9Qw8t0w9khVqOen60NF_38.056179_-87.521227@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591259,
+    "wof:geomhash":"be6158aeecda505d17d3ed608c94415c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85824997,
+            "region_id":85688709,
+            "venue_id":789877445
+        }
+    ],
+    "wof:id":789877445,
+    "wof:lastmodified":1462591259,
+    "wof:name":"Lasting Memories Photography",
+    "wof:parent_id":85824997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -87.521227,
+    38.056179,
+    -87.521227,
+    38.056179
+],
+  "geometry": {"coordinates":[-87.521227,38.056179],"type":"Point"}
+}

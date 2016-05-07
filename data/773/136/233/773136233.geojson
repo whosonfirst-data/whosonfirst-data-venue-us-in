@@ -1,0 +1,73 @@
+{
+  "id": 773136233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.973948,38.117899,-85.973948,38.117899",
+    "geom:latitude":38.117899,
+    "geom:longitude":-85.973948,
+    "iso:country":"US",
+    "sg:address":"5855 N Hwy 11 SE",
+    "sg:city":"Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 969 2959",
+    "sg:postcode":"47117",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aDzjRHfyU19ksU3cvqwps_38.117899_-85.973948@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583410,
+    "wof:geomhash":"8a641296fa59c307793addb137800e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":773136233
+        }
+    ],
+    "wof:id":773136233,
+    "wof:lastmodified":1462583410,
+    "wof:name":"Richard D Brown MD",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.973948,
+    38.117899,
+    -85.973948,
+    38.117899
+],
+  "geometry": {"coordinates":[-85.97394799999999,38.117899],"type":"Point"}
+}

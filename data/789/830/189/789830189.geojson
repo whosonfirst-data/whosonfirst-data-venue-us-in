@@ -1,0 +1,72 @@
+{
+  "id": 789830189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.859004,40.486433,-86.859004,40.486433",
+    "geom:latitude":40.486433,
+    "geom:longitude":-86.859004,
+    "iso:country":"US",
+    "sg:address":"4748 Swisher Rd",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 429 4800",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "sg:website":"www.atlasexcavating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85843885,
+        102087121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zky2r6d1p4P6hZXsxfokY_40.486433_-86.859004@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590872,
+    "wof:geomhash":"521c69171be99d305291e06f42dc588a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "neighbourhood_id":85843885,
+            "region_id":85688709,
+            "venue_id":789830189
+        }
+    ],
+    "wof:id":789830189,
+    "wof:lastmodified":1462590872,
+    "wof:name":"Atlas Excavating",
+    "wof:parent_id":85843885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.859004,
+    40.486433,
+    -86.859004,
+    40.486433
+],
+  "geometry": {"coordinates":[-86.859004,40.486433],"type":"Point"}
+}

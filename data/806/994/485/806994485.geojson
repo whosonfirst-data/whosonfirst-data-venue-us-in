@@ -1,0 +1,78 @@
+{
+  "id": 806994485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.971301,39.6372,-85.971301,39.6372",
+    "geom:latitude":39.6372,
+    "geom:longitude":-85.971301,
+    "iso:country":"US",
+    "sg:address":"10812 N 700 E",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 862 4345",
+    "sg:postcode":"46259",
+    "sg:province":"IN",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85841387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22PYhEr1pgrEoexpRPctmS_39.637200_-85.971301@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602809,
+    "wof:geomhash":"b088d0cac2e70af76a0ca5ec2d289e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85841387,
+            "region_id":85688709,
+            "venue_id":806994485
+        }
+    ],
+    "wof:id":806994485,
+    "wof:lastmodified":1462602809,
+    "wof:name":"Mcfarland Farm",
+    "wof:parent_id":85841387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -85.971301,
+    39.6372,
+    -85.971301,
+    39.6372
+],
+  "geometry": {"coordinates":[-85.971301,39.6372],"type":"Point"}
+}

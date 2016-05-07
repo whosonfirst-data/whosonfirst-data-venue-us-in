@@ -1,0 +1,81 @@
+{
+  "id": 806929509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.122162,39.865002,-86.122162,39.865002",
+    "geom:latitude":39.865002,
+    "geom:longitude":-86.122162,
+    "iso:country":"US",
+    "sg:address":"6101 N Keystone Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 259 7552",
+    "sg:postcode":"46220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "optical"
+    ],
+    "sg:website":"http://www.lenscrafters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813725,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SrlX2o1143JqC9rASThpE_39.865002_-86.122162@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602271,
+    "wof:geomhash":"f6bc535792972f594389093b262e56f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85813725,
+            "region_id":85688709,
+            "venue_id":806929509
+        }
+    ],
+    "wof:id":806929509,
+    "wof:lastmodified":1462602271,
+    "wof:name":"LensCrafters",
+    "wof:parent_id":85813725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical"
+    ]
+},
+  "bbox": [
+    -86.122162,
+    39.865002,
+    -86.122162,
+    39.865002
+],
+  "geometry": {"coordinates":[-86.122162,39.865002],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806829589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877154,38.958124,-85.877154,38.958124",
+    "geom:latitude":38.958124,
+    "geom:longitude":-85.877154,
+    "iso:country":"US",
+    "sg:address":"913 E Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/jackson/186542-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hN7MBseGOD2IsjaqYQ8YL_38.958124_-85.877154@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601421,
+    "wof:geomhash":"e0733cf2f4b3488cb54cab496a919e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806829589
+        }
+    ],
+    "wof:id":806829589,
+    "wof:lastmodified":1462601421,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.877154,
+    38.958124,
+    -85.877154,
+    38.958124
+],
+  "geometry": {"coordinates":[-85.877154,38.958124],"type":"Point"}
+}

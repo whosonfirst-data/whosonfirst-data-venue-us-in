@@ -1,0 +1,85 @@
+{
+  "id": 806855911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.126555,39.957026,-86.126555,39.957026",
+    "geom:latitude":39.957026,
+    "geom:longitude":-86.126555,
+    "iso:country":"US",
+    "sg:address":"1455 S Range Line Rd",
+    "sg:city":"Carmel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 844 0049",
+    "sg:postcode":"46032",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.companion-animal-hospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891087,
+        102191575,
+        404500691,
+        85633793,
+        85941329,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dL8kO9yWfHpLv5M3oSZTa_39.957026_-86.126555@1303262760"
+    },
+    "wof:country":"US",
+    "wof:created":1462601655,
+    "wof:geomhash":"71e617c429668f914837426442b4cce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500691,
+            "locality_id":85941329,
+            "neighbourhood_id":85891087,
+            "region_id":85688709,
+            "venue_id":806855911
+        }
+    ],
+    "wof:id":806855911,
+    "wof:lastmodified":1462601655,
+    "wof:name":"Companion Animal Medical Center",
+    "wof:parent_id":85891087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -86.126555,
+    39.957026,
+    -86.126555,
+    39.957026
+],
+  "geometry": {"coordinates":[-86.126555,39.957026],"type":"Point"}
+}

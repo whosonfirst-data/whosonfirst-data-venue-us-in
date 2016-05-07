@@ -1,0 +1,71 @@
+{
+  "id": 806526007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.030514,41.311527,-87.030514,41.311527",
+    "geom:latitude":41.311527,
+    "geom:longitude":-87.030514,
+    "iso:country":"US",
+    "sg:address":"307 Jefferson St",
+    "sg:city":"Kouts",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 766 3786",
+    "sg:postcode":"46347",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85812895,
+        102087191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LnQIX4Y8CvDe48qwhUmxx_41.311527_-87.030514@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598835,
+    "wof:geomhash":"38ee0fed69a74b34ae15dd4481eb4c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "neighbourhood_id":85812895,
+            "region_id":85688709,
+            "venue_id":806526007
+        }
+    ],
+    "wof:id":806526007,
+    "wof:lastmodified":1462598835,
+    "wof:name":"Ward Electric",
+    "wof:parent_id":85812895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.030514,
+    41.311527,
+    -87.030514,
+    41.311527
+],
+  "geometry": {"coordinates":[-87.030514,41.311527],"type":"Point"}
+}

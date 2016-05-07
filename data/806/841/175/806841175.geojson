@@ -1,0 +1,85 @@
+{
+  "id": 806841175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269376,39.746458,-86.269376,39.746458",
+    "geom:latitude":39.746458,
+    "geom:longitude":-86.269376,
+    "iso:country":"US",
+    "sg:address":"6243 W Washington St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/speedway/92543-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 481 1948",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805707,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05bPpTaa7ngrBe1sQEDp4c_39.746824_-86.269624@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601517,
+    "wof:geomhash":"ae6028af568f024f3f5cf35bfb4346c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85805707,
+            "region_id":85688709,
+            "venue_id":806841175
+        }
+    ],
+    "wof:id":806841175,
+    "wof:lastmodified":1462601517,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85805707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -86.269376,
+    39.746458,
+    -86.269376,
+    39.746458
+],
+  "geometry": {"coordinates":[-86.26937599999999,39.746458],"type":"Point"}
+}

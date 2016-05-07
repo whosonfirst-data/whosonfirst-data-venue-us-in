@@ -1,0 +1,73 @@
+{
+  "id": 789992989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429039,39.419306,-86.429039,39.419306",
+    "geom:latitude":39.419306,
+    "geom:longitude":-86.429039,
+    "iso:country":"US",
+    "sg:address":"170 Morton Ave",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 349 1441",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AWDC1kDONO91WbfsqECgj_39.419306_-86.429039@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592273,
+    "wof:geomhash":"48d0c93880e554370631fc59507ff22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":789992989
+        }
+    ],
+    "wof:id":789992989,
+    "wof:lastmodified":1462592273,
+    "wof:name":"Grease Pit",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.429039,
+    39.419306,
+    -86.429039,
+    39.419306
+],
+  "geometry": {"coordinates":[-86.429039,39.419306],"type":"Point"}
+}

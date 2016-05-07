@@ -1,0 +1,71 @@
+{
+  "id": 789816685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.903022,39.200448,-85.903022,39.200448",
+    "geom:latitude":39.200448,
+    "geom:longitude":-85.903022,
+    "iso:country":"US",
+    "sg:address":"1931 McKinley Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 378 5865",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14vUN5lKFENbJ79bHkxds1_39.200448_-85.903022@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590764,
+    "wof:geomhash":"facc60f94553c9c4b23eeba403558abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":789816685
+        }
+    ],
+    "wof:id":789816685,
+    "wof:lastmodified":1462590764,
+    "wof:name":"Fashion Dry Cleaners",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.903022,
+    39.200448,
+    -85.903022,
+    39.200448
+],
+  "geometry": {"coordinates":[-85.90302200000001,39.200448],"type":"Point"}
+}

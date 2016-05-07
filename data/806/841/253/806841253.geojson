@@ -1,0 +1,78 @@
+{
+  "id": 806841253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.056873,39.905244,-86.056873,39.905244",
+    "geom:latitude":39.905244,
+    "geom:longitude":-86.056873,
+    "iso:country":"US",
+    "sg:address":"6421 E 82nd St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lawrence/159148-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 842 4912",
+    "sg:postcode":"46250",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GlXX1qlXyNILYODUmHvJl_39.905259_-86.057489@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601518,
+    "wof:geomhash":"a41b816e3e674086b520b529b49a527e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85853685,
+            "region_id":85688709,
+            "venue_id":806841253
+        }
+    ],
+    "wof:id":806841253,
+    "wof:lastmodified":1462601518,
+    "wof:name":"Arby's",
+    "wof:parent_id":85853685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.056873,
+    39.905244,
+    -86.056873,
+    39.905244
+],
+  "geometry": {"coordinates":[-86.056873,39.905244],"type":"Point"}
+}

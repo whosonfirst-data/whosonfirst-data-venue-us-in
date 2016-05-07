@@ -1,0 +1,75 @@
+{
+  "id": 806707073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269902,39.742755,-86.269902,39.742755",
+    "geom:latitude":39.742755,
+    "geom:longitude":-86.269902,
+    "iso:country":"US",
+    "sg:address":"1620 S High School Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 247 7678",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805707,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lPfHCkHmuGtNvVBEjniOd_39.742755_-86.269902@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600396,
+    "wof:geomhash":"aa4f29885fa70cd1873a85179890107e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85805707,
+            "region_id":85688709,
+            "venue_id":806707073
+        }
+    ],
+    "wof:id":806707073,
+    "wof:lastmodified":1462600396,
+    "wof:name":"Indy Airport Parking",
+    "wof:parent_id":85805707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -86.269902,
+    39.742755,
+    -86.269902,
+    39.742755
+],
+  "geometry": {"coordinates":[-86.269902,39.742755],"type":"Point"}
+}

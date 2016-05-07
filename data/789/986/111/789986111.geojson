@@ -1,0 +1,71 @@
+{
+  "id": 789986111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.605078,40.48021,-85.605078,40.48021",
+    "geom:latitude":40.48021,
+    "geom:longitude":-85.605078,
+    "iso:country":"US",
+    "sg:address":"520 E South H St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 677 0566",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s3LO852zshYtImO62Y92G_40.480210_-85.605078@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592218,
+    "wof:geomhash":"4910e68f8c822086716649fdbaed820d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":789986111
+        }
+    ],
+    "wof:id":789986111,
+    "wof:lastmodified":1462592218,
+    "wof:name":"Dan's Automatic Transmission",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.605078,
+    40.48021,
+    -85.605078,
+    40.48021
+],
+  "geometry": {"coordinates":[-85.60507800000001,40.48021],"type":"Point"}
+}

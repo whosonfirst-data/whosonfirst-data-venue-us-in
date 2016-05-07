@@ -1,0 +1,72 @@
+{
+  "id": 806831833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.496316,39.164302,-86.496316,39.164302",
+    "geom:latitude":39.164302,
+    "geom:longitude":-86.496316,
+    "iso:country":"US",
+    "sg:address":"2819 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/bloomington/186260-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 7184",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sS3BtUVU9bWbNr6V3XgFL_39.164302_-86.496316@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601439,
+    "wof:geomhash":"8e693c4188e99616373399e814573b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":806831833
+        }
+    ],
+    "wof:id":806831833,
+    "wof:lastmodified":1462601439,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.496316,
+    39.164302,
+    -86.496316,
+    39.164302
+],
+  "geometry": {"coordinates":[-86.49631599999999,39.164302],"type":"Point"}
+}

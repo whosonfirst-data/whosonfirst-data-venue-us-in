@@ -1,0 +1,79 @@
+{
+  "id": 789716711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.536439,39.155108,-86.536439,39.155108",
+    "geom:latitude":39.155108,
+    "geom:longitude":-86.536439,
+    "iso:country":"US",
+    "sg:address":"1122 S Morton St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 9945",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lfyFwPbgxXs1sZmKR01wH_39.155108_-86.536439@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589987,
+    "wof:geomhash":"040ecd294f7b2b7b5b52537150331609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":789716711
+        }
+    ],
+    "wof:id":789716711,
+    "wof:lastmodified":1462589987,
+    "wof:name":"Davis Automotive",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.536439,
+    39.155108,
+    -86.536439,
+    39.155108
+],
+  "geometry": {"coordinates":[-86.536439,39.155108],"type":"Point"}
+}

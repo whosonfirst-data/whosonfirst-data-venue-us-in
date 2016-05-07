@@ -1,0 +1,73 @@
+{
+  "id": 773813773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.415,39.447312,-87.415,39.447312",
+    "geom:latitude":39.447312,
+    "geom:longitude":-87.415,
+    "iso:country":"US",
+    "sg:address":"234 Idaho St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 4555",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_773eshMcrMUwLlDyfaotyR_39.447312_-87.415000@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588582,
+    "wof:geomhash":"2858c6d090e70d04add5efad737b540a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":773813773
+        }
+    ],
+    "wof:id":773813773,
+    "wof:lastmodified":1462588582,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -87.415,
+    39.447312,
+    -87.415,
+    39.447312
+],
+  "geometry": {"coordinates":[-87.41500000000001,39.447312],"type":"Point"}
+}

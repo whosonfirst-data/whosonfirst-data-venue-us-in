@@ -1,0 +1,73 @@
+{
+  "id": 806656441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.61512,40.480289,-85.61512,40.480289",
+    "geom:latitude":40.480289,
+    "geom:longitude":-85.61512,
+    "iso:country":"US",
+    "sg:address":"408 S 1st St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 0888",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FB5IS4Rehe8oRc2ggtquZ_40.480289_-85.615120@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599966,
+    "wof:geomhash":"dd93cad651aee9d598a71fac36a6918e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":806656441
+        }
+    ],
+    "wof:id":806656441,
+    "wof:lastmodified":1462599966,
+    "wof:name":"B & H Auto Svc",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.61512,
+    40.480289,
+    -85.61512,
+    40.480289
+],
+  "geometry": {"coordinates":[-85.61512,40.480289],"type":"Point"}
+}

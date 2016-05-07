@@ -1,0 +1,92 @@
+{
+  "id": 806934511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20196,39.820129,-86.20196,39.820129",
+    "geom:latitude":39.820129,
+    "geom:longitude":-86.20196,
+    "iso:country":"US",
+    "sg:address":"3649 Cold Spring Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 327 8356",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "recreation"
+    ],
+    "sg:website":"http://www.indybarkpark.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807921,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709,
+        85870653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EIPDvV16MeKupcGc6Syrz_39.820129_-86.201960@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602309,
+    "wof:geomhash":"6eccbfd47081c6243f02b72ba5a616a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85807921,
+            "region_id":85688709,
+            "venue_id":806934511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870653,
+            "region_id":85688709,
+            "venue_id":806934511
+        }
+    ],
+    "wof:id":806934511,
+    "wof:lastmodified":1462602309,
+    "wof:name":"Major Taylor Velodrome",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -86.20196,
+    39.820129,
+    -86.20196,
+    39.820129
+],
+  "geometry": {"coordinates":[-86.20196,39.820129],"type":"Point"}
+}

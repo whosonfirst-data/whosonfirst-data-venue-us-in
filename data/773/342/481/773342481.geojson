@@ -1,0 +1,74 @@
+{
+  "id": 773342481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.415747,39.415319,-87.415747,39.415319",
+    "geom:latitude":39.415319,
+    "geom:longitude":-87.415747,
+    "iso:country":"US",
+    "sg:address":"4229 S US Hwy 41",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 242 9912",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vnh11I4lduRCqLg1yJqIn_39.415319_-87.415747@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584997,
+    "wof:geomhash":"afd7d0ad012f7839e1ad1d0eeb17a437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773342481
+        }
+    ],
+    "wof:id":773342481,
+    "wof:lastmodified":1462584997,
+    "wof:name":"PETCO",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.415747,
+    39.415319,
+    -87.415747,
+    39.415319
+],
+  "geometry": {"coordinates":[-87.415747,39.415319],"type":"Point"}
+}

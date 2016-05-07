@@ -1,0 +1,78 @@
+{
+  "id": 806840209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.159189,39.824178,-86.159189,39.824178",
+    "geom:latitude":39.824178,
+    "geom:longitude":-86.159189,
+    "iso:country":"US",
+    "sg:address":"3750 N Illinois St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/indianapolis/167352-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 925 2189",
+    "sg:postcode":"46208",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832319,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iaWqYsyMYmEi3or23S5zJ_39.823881_-86.159272@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601511,
+    "wof:geomhash":"10d9cbddefcda97c77930f85e1a7dfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85832319,
+            "region_id":85688709,
+            "venue_id":806840209
+        }
+    ],
+    "wof:id":806840209,
+    "wof:lastmodified":1462601511,
+    "wof:name":"Burger King",
+    "wof:parent_id":85832319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.159189,
+    39.824178,
+    -86.159189,
+    39.824178
+],
+  "geometry": {"coordinates":[-86.159189,39.824178],"type":"Point"}
+}

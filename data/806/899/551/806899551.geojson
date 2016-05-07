@@ -1,0 +1,83 @@
+{
+  "id": 806899551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.149422,39.784443,-86.149422,39.784443",
+    "geom:latitude":39.784443,
+    "geom:longitude":-86.149422,
+    "iso:country":"US",
+    "sg:address":"1304 Central Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 639 9550",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.stonesoupinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866949,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LZ7FxWPCNipFG2W8PyKRz_39.784443_-86.149422@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462602006,
+    "wof:geomhash":"d746fa5e8d15bf052c133c7ca29f3ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866949,
+            "region_id":85688709,
+            "venue_id":806899551
+        }
+    ],
+    "wof:id":806899551,
+    "wof:lastmodified":1462602006,
+    "wof:name":"Stone Soup Inn",
+    "wof:parent_id":85866949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -86.149422,
+    39.784443,
+    -86.149422,
+    39.784443
+],
+  "geometry": {"coordinates":[-86.149422,39.784443],"type":"Point"}
+}

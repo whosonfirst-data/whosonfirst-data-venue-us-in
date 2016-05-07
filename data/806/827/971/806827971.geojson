@@ -1,0 +1,73 @@
+{
+  "id": 806827971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.80638,38.312163,-85.80638,38.312163",
+    "geom:latitude":38.312163,
+    "geom:longitude":-85.80638,
+    "iso:country":"US",
+    "sg:address":"2557 Charlestown Rd",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/new-albany/207281-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47150",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942489,
+        102087137,
+        85846703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FfkzT4qL6EDnP7yRn1u8i_38.312163_-85.806380@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601405,
+    "wof:geomhash":"272cbce2ccc0571f8c2aa58f14f45352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087137,
+            "locality_id":85942489,
+            "neighbourhood_id":85846703,
+            "region_id":85688709,
+            "venue_id":806827971
+        }
+    ],
+    "wof:id":806827971,
+    "wof:lastmodified":1462601405,
+    "wof:name":"Sonic",
+    "wof:parent_id":85846703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.80638,
+    38.312163,
+    -85.80638,
+    38.312163
+],
+  "geometry": {"coordinates":[-85.80638,38.312163],"type":"Point"}
+}

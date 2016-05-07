@@ -1,0 +1,71 @@
+{
+  "id": 789908093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66109,40.530105,-85.66109,40.530105",
+    "geom:latitude":40.530105,
+    "geom:longitude":-85.66109,
+    "iso:country":"US",
+    "sg:address":"3205 S Washington St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 668 8908",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02MISSFxMlLU2KdBS7MgUN_40.530105_-85.661090@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591517,
+    "wof:geomhash":"76073d04005888a31f5862df5cfa993b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":789908093
+        }
+    ],
+    "wof:id":789908093,
+    "wof:lastmodified":1462591517,
+    "wof:name":"Pit",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -85.66109,
+    40.530105,
+    -85.66109,
+    40.530105
+],
+  "geometry": {"coordinates":[-85.66109,40.530105],"type":"Point"}
+}

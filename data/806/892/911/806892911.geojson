@@ -1,0 +1,83 @@
+{
+  "id": 806892911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.393384,39.713929,-86.393384,39.713929",
+    "geom:latitude":39.713929,
+    "geom:longitude":-86.393384,
+    "iso:country":"US",
+    "sg:address":"995 Andico Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 2423",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "license",
+        "registration"
+    ],
+    "sg:website":"http://www.bmv.state.in.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GmevHOHAPia86Ko6Opavr_39.713929_-86.393384@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601954,
+    "wof:geomhash":"1fe80e71b23145d1df364a36aa6ffdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":806892911
+        }
+    ],
+    "wof:id":806892911,
+    "wof:lastmodified":1462601954,
+    "wof:name":"Indiana Bureau of Motor Vehicles Commission",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "license",
+        "registration"
+    ]
+},
+  "bbox": [
+    -86.393384,
+    39.713929,
+    -86.393384,
+    39.713929
+],
+  "geometry": {"coordinates":[-86.393384,39.713929],"type":"Point"}
+}

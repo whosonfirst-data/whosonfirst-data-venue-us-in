@@ -1,0 +1,72 @@
+{
+  "id": 806835841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.599961,38.008755,-87.599961,38.008755",
+    "geom:latitude":38.008755,
+    "geom:longitude":-87.599961,
+    "iso:country":"US",
+    "sg:address":"3200 N Saint Joseph Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/german/120123-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 437 3750",
+    "sg:postcode":"47720",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877303,
+        102087105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LLRuXH2dImAiitD21z7IP_38.008755_-87.599961@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601474,
+    "wof:geomhash":"d3e511d25e4285c29af5074ea21e8b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "neighbourhood_id":85877303,
+            "region_id":85688709,
+            "venue_id":806835841
+        }
+    ],
+    "wof:id":806835841,
+    "wof:lastmodified":1462601474,
+    "wof:name":"Subway",
+    "wof:parent_id":85877303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.599961,
+    38.008755,
+    -87.599961,
+    38.008755
+],
+  "geometry": {"coordinates":[-87.59996099999999,38.008755],"type":"Point"}
+}

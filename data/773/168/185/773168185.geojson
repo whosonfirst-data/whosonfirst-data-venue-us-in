@@ -1,0 +1,86 @@
+{
+  "id": 773168185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.487179,37.969548,-87.487179,37.969548",
+    "geom:latitude":37.969548,
+    "geom:longitude":-87.487179,
+    "iso:country":"US",
+    "sg:address":"4952 Lincoln Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 477 4406",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891111,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709,
+        85877313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nLMooGRgFc6XzPkynOunl_37.969548_-87.487179@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583656,
+    "wof:geomhash":"293a50ab05694260bc3e766182fe7500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85891111,
+            "region_id":85688709,
+            "venue_id":773168185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877313,
+            "region_id":85688709,
+            "venue_id":773168185
+        }
+    ],
+    "wof:id":773168185,
+    "wof:lastmodified":1462583656,
+    "wof:name":"Lincoln Hills Dental Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.487179,
+    37.969548,
+    -87.487179,
+    37.969548
+],
+  "geometry": {"coordinates":[-87.487179,37.969548],"type":"Point"}
+}

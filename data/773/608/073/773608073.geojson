@@ -1,0 +1,73 @@
+{
+  "id": 773608073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.567768,38.348782,-87.567768,38.348782",
+    "geom:latitude":38.348782,
+    "geom:longitude":-87.567768,
+    "iso:country":"US",
+    "sg:address":"723 S Main St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 386 8434",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19GEVh68OnGllriIW6yLYP_38.348782_-87.567768@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586996,
+    "wof:geomhash":"b989665d9a16d0e3e751402c0b475bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":773608073
+        }
+    ],
+    "wof:id":773608073,
+    "wof:lastmodified":1462586996,
+    "wof:name":"D & M Electric",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.567768,
+    38.348782,
+    -87.567768,
+    38.348782
+],
+  "geometry": {"coordinates":[-87.567768,38.348782],"type":"Point"}
+}

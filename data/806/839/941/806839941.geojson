@@ -1,0 +1,76 @@
+{
+  "id": 806839941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.08328,39.710758,-86.08328,39.710758",
+    "geom:latitude":39.710758,
+    "geom:longitude":-86.08328,
+    "iso:country":"US",
+    "sg:address":"3842 S Emerson Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/homecroft/208053-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 784 1382",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851503,
+        102191575,
+        404501891,
+        85633793,
+        85942579,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XTsI9qDI42YdVBRU0aDwF_39.710226_-86.082664@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601509,
+    "wof:geomhash":"0c9c87b673252c84bc6ee789a6770720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501891,
+            "locality_id":85942579,
+            "neighbourhood_id":85851503,
+            "region_id":85688709,
+            "venue_id":806839941
+        }
+    ],
+    "wof:id":806839941,
+    "wof:lastmodified":1462601509,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.08328,
+    39.710758,
+    -86.08328,
+    39.710758
+],
+  "geometry": {"coordinates":[-86.08328,39.710758],"type":"Point"}
+}

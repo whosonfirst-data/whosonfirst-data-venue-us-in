@@ -1,0 +1,70 @@
+{
+  "id": 806935123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.230696,39.762886,-86.230696,39.762886",
+    "geom:latitude":39.762886,
+    "geom:longitude":-86.230696,
+    "iso:country":"US",
+    "sg:address":"4020 Rockville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 240 1111",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818791,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EyAyupiECuiXsy5Xb2SMK_39.762886_-86.230696@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602314,
+    "wof:geomhash":"a0972183955868da2af320a9e224629d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85818791,
+            "region_id":85688709,
+            "venue_id":806935123
+        }
+    ],
+    "wof:id":806935123,
+    "wof:lastmodified":1462602314,
+    "wof:name":"Airport Taxi",
+    "wof:parent_id":85818791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.230696,
+    39.762886,
+    -86.230696,
+    39.762886
+],
+  "geometry": {"coordinates":[-86.23069599999999,39.762886],"type":"Point"}
+}

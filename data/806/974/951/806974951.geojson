@@ -1,0 +1,83 @@
+{
+  "id": 806974951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.236802,39.753661,-86.236802,39.753661",
+    "geom:latitude":39.753661,
+    "geom:longitude":-86.236802,
+    "iso:country":"US",
+    "sg:address":"1003 S Fleming St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 481 0900",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "elementary",
+        "educational"
+    ],
+    "sg:website":"http://www.govdayachievementacademy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818791,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aORTVJsGebzV3qdcnZujm_39.753661_-86.236802@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602648,
+    "wof:geomhash":"f0d8ec6a0272b78c4a9199af25f9ce1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85818791,
+            "region_id":85688709,
+            "venue_id":806974951
+        }
+    ],
+    "wof:id":806974951,
+    "wof:lastmodified":1462602648,
+    "wof:name":"GovDay Achievement Academy",
+    "wof:parent_id":85818791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "educational"
+    ]
+},
+  "bbox": [
+    -86.236802,
+    39.753661,
+    -86.236802,
+    39.753661
+],
+  "geometry": {"coordinates":[-86.236802,39.753661],"type":"Point"}
+}

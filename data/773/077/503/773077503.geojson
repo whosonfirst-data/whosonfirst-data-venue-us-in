@@ -1,0 +1,71 @@
+{
+  "id": 773077503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.565113,38.35613,-87.565113,38.35613",
+    "geom:latitude":38.35613,
+    "geom:longitude":-87.565113,
+    "iso:country":"US",
+    "sg:address":"105 N Gibson St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 386 1290",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SeXIUjnAqqZ3IsH2zisna_38.356130_-87.565113@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582986,
+    "wof:geomhash":"189d447007a5582a4c006268cc1076a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":773077503
+        }
+    ],
+    "wof:id":773077503,
+    "wof:lastmodified":1462582986,
+    "wof:name":"John E Austin DDS",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.565113,
+    38.35613,
+    -87.565113,
+    38.35613
+],
+  "geometry": {"coordinates":[-87.565113,38.35613],"type":"Point"}
+}

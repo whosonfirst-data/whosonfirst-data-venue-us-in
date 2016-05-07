@@ -1,0 +1,74 @@
+{
+  "id": 806815001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.893976,41.671608,-86.893976,41.671608",
+    "geom:latitude":41.671608,
+    "geom:longitude":-86.893976,
+    "iso:country":"US",
+    "sg:address":"5350 Franklin St",
+    "sg:city":"Michigan City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/coolspring/79529-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 871 0282",
+    "sg:postcode":"46360",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941911,
+        102086409,
+        85891173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cgboutBSb7SVtSdJ02rSI_41.671608_-86.893976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601303,
+    "wof:geomhash":"f0ff77994629855db0cac2e41fb6781d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941911,
+            "neighbourhood_id":85891173,
+            "region_id":85688709,
+            "venue_id":806815001
+        }
+    ],
+    "wof:id":806815001,
+    "wof:lastmodified":1462601303,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85891173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.893976,
+    41.671608,
+    -86.893976,
+    41.671608
+],
+  "geometry": {"coordinates":[-86.89397599999999,41.671608],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 773785151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.972074,39.929777,-85.972074,39.929777",
+    "geom:latitude":39.929777,
+    "geom:longitude":-85.972074,
+    "iso:country":"US",
+    "sg:address":"11020 Fall Creek Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 849 1340",
+    "sg:postcode":"46256",
+    "sg:province":"IN",
+    "sg:tags":[
+        "boarding",
+        "pet",
+        "boat",
+        "dock",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519599,
+        102191575,
+        404500695,
+        85633793,
+        85941335,
+        102087089,
+        85688709,
+        420519813,
+        404502029,
+        85942569,
+        102087201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y3TW3ILWCZlXqScyofO7w_39.929777_-85.972074@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588354,
+    "wof:geomhash":"81cf20efbea0380102c702042640905e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500695,
+            "locality_id":85941335,
+            "neighbourhood_id":420519599,
+            "region_id":85688709,
+            "venue_id":773785151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519813,
+            "region_id":85688709,
+            "venue_id":773785151
+        }
+    ],
+    "wof:id":773785151,
+    "wof:lastmodified":1462588354,
+    "wof:name":"Ace Boarding Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding",
+        "pet",
+        "boat",
+        "dock",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.972074,
+    39.929777,
+    -85.972074,
+    39.929777
+],
+  "geometry": {"coordinates":[-85.97207400000001,39.929777],"type":"Point"}
+}

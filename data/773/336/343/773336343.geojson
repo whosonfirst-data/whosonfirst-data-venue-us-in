@@ -1,0 +1,71 @@
+{
+  "id": 773336343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.476105,39.164311,-86.476105,39.164311",
+    "geom:latitude":39.164311,
+    "geom:longitude":-86.476105,
+    "iso:country":"US",
+    "sg:address":"4535 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 334 2517",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqWZZi1iQtKL6zZA0BjEe_39.164311_-86.476105@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584958,
+    "wof:geomhash":"cf7bba850bb355e257ad972c7c628aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":773336343
+        }
+    ],
+    "wof:id":773336343,
+    "wof:lastmodified":1462584958,
+    "wof:name":"Grease Pit",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.476105,
+    39.164311,
+    -86.476105,
+    39.164311
+],
+  "geometry": {"coordinates":[-86.476105,39.164311],"type":"Point"}
+}

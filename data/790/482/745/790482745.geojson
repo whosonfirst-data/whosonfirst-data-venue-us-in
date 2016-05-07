@@ -1,0 +1,73 @@
+{
+  "id": 790482745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622051,40.487762,-85.622051,40.487762",
+    "geom:latitude":40.487762,
+    "geom:longitude":-85.622051,
+    "iso:country":"US",
+    "sg:address":"559 W Main St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 2447",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VFWsqqu6m6xNfRPVbXj9V_40.487762_-85.622051@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596215,
+    "wof:geomhash":"d21549b2b498e6cb83c3dbe3568739ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":790482745
+        }
+    ],
+    "wof:id":790482745,
+    "wof:lastmodified":1462596215,
+    "wof:name":"Auto Service",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.622051,
+    40.487762,
+    -85.622051,
+    40.487762
+],
+  "geometry": {"coordinates":[-85.622051,40.487762],"type":"Point"}
+}

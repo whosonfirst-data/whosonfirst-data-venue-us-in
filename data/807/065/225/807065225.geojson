@@ -1,0 +1,87 @@
+{
+  "id": 807065225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.530852,39.136587,-86.530852,39.136587",
+    "geom:latitude":39.136587,
+    "geom:longitude":-86.530852,
+    "iso:country":"US",
+    "sg:address":"2458 S Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 337 8121",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "community",
+        "gear",
+        "service/non-profit",
+        "furniture"
+    ],
+    "sg:website":"www.bloomingtonbirth.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mlA5Tuyeb0hwZcT0UFGXl_39.136587_-86.530852@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603409,
+    "wof:geomhash":"7ffba169e82de304812946ea43ddce72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":807065225
+        }
+    ],
+    "wof:id":807065225,
+    "wof:lastmodified":1462603409,
+    "wof:name":"Bloomington Area Birth Services",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community",
+        "gear",
+        "service/non-profit",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -86.530852,
+    39.136587,
+    -86.530852,
+    39.136587
+],
+  "geometry": {"coordinates":[-86.530852,39.136587],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807075043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.571527,39.15227,-86.571527,39.15227",
+    "geom:latitude":39.15227,
+    "geom:longitude":-86.571527,
+    "iso:country":"US",
+    "sg:address":"1000 S Basswood Cir",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 9123",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OlNuGk5MxVgcB0KNI227W_39.152270_-86.571527@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603495,
+    "wof:geomhash":"2ec0ce66a18ab18bf68f80b8753aba2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807075043
+        }
+    ],
+    "wof:id":807075043,
+    "wof:lastmodified":1462603495,
+    "wof:name":"Basswood Apartments",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.571527,
+    39.15227,
+    -86.571527,
+    39.15227
+],
+  "geometry": {"coordinates":[-86.571527,39.15227],"type":"Point"}
+}

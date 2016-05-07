@@ -1,0 +1,71 @@
+{
+  "id": 773232749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.688227,37.925302,-87.688227,37.925302",
+    "geom:latitude":37.925302,
+    "geom:longitude":-87.688227,
+    "iso:country":"US",
+    "sg:address":"5000 W Franklin Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 985 5128",
+    "sg:postcode":"47712",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85835921,
+        102087105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qk3KDrpr0p9TLX221ShU2_37.925302_-87.688227@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584166,
+    "wof:geomhash":"76584061ac5da87c536892e7f8243e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "neighbourhood_id":85835921,
+            "region_id":85688709,
+            "venue_id":773232749
+        }
+    ],
+    "wof:id":773232749,
+    "wof:lastmodified":1462584166,
+    "wof:name":"Kissel Electric Co Inc",
+    "wof:parent_id":85835921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.688227,
+    37.925302,
+    -87.688227,
+    37.925302
+],
+  "geometry": {"coordinates":[-87.688227,37.925302],"type":"Point"}
+}

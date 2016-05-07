@@ -1,0 +1,71 @@
+{
+  "id": 789926135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.669613,40.579723,-85.669613,40.579723",
+    "geom:latitude":40.579723,
+    "geom:longitude":-85.669613,
+    "iso:country":"US",
+    "sg:address":"803 W Gardner Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 0587",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iqUgGvEB9wucQjphpaxyo_40.579723_-85.669613@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591675,
+    "wof:geomhash":"f9388a7390bfaf9ac73f8850fbc81479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":789926135
+        }
+    ],
+    "wof:id":789926135,
+    "wof:lastmodified":1462591675,
+    "wof:name":"Alice M Butterworth DDS",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.669613,
+    40.579723,
+    -85.669613,
+    40.579723
+],
+  "geometry": {"coordinates":[-85.669613,40.579723],"type":"Point"}
+}

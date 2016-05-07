@@ -1,0 +1,73 @@
+{
+  "id": 807081443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533699,39.1884,-86.533699,39.1884",
+    "geom:latitude":39.1884,
+    "geom:longitude":-86.533699,
+    "iso:country":"US",
+    "sg:address":"2330 N Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 4414",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85809723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ZthmvvjWx92lE4Z0aZFJ_39.188400_-86.533699@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603544,
+    "wof:geomhash":"671fcea00727e2e2b58963adde2d50ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85809723,
+            "region_id":85688709,
+            "venue_id":807081443
+        }
+    ],
+    "wof:id":807081443,
+    "wof:lastmodified":1462603544,
+    "wof:name":"Hoosier Body Shop",
+    "wof:parent_id":85809723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.533699,
+    39.1884,
+    -86.533699,
+    39.1884
+],
+  "geometry": {"coordinates":[-86.533699,39.1884],"type":"Point"}
+}

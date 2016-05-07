@@ -1,0 +1,73 @@
+{
+  "id": 789851089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.856929,40.353129,-86.856929,40.353129",
+    "geom:latitude":40.353129,
+    "geom:longitude":-86.856929,
+    "iso:country":"US",
+    "sg:address":"4330 S 250 E",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 447 5976",
+    "sg:postcode":"47909",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37RDfxX0U4njouV7p2XDHM_40.353129_-86.856929@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591036,
+    "wof:geomhash":"2d3b17338c3df9b07e14b51735c91dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":789851089
+        }
+    ],
+    "wof:id":789851089,
+    "wof:lastmodified":1462591036,
+    "wof:name":"Dave Taylor Electric Svc",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.856929,
+    40.353129,
+    -86.856929,
+    40.353129
+],
+  "geometry": {"coordinates":[-86.85692899999999,40.353129],"type":"Point"}
+}

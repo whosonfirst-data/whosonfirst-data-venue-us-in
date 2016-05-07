@@ -1,0 +1,77 @@
+{
+  "id": 790020427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.529392,39.124961,-86.529392,39.124961",
+    "geom:latitude":39.124961,
+    "geom:longitude":-86.529392,
+    "iso:country":"US",
+    "sg:address":"103 Willow Ct",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 988 2223",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qn43jGVUrT8qaS4NyC9bF_39.124961_-86.529392@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592494,
+    "wof:geomhash":"719183527e699a276f7714de0fbf2bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":790020427
+        }
+    ],
+    "wof:id":790020427,
+    "wof:lastmodified":1462592494,
+    "wof:name":"Nashville Family Medicine",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.529392,
+    39.124961,
+    -86.529392,
+    39.124961
+],
+  "geometry": {"coordinates":[-86.529392,39.124961],"type":"Point"}
+}

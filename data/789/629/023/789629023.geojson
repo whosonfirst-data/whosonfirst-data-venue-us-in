@@ -1,0 +1,71 @@
+{
+  "id": 789629023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.921271,39.207704,-85.921271,39.207704",
+    "geom:latitude":39.207704,
+    "geom:longitude":-85.921271,
+    "iso:country":"US",
+    "sg:address":"915 Washington St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 314 2845",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JjORMKwPlNkPmpfJvhBim_39.207704_-85.921271@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589285,
+    "wof:geomhash":"29e0f0788cf2c3f333fe4451e7bf7c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":789629023
+        }
+    ],
+    "wof:id":789629023,
+    "wof:lastmodified":1462589285,
+    "wof:name":"U Build It",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "construction"
+    ]
+},
+  "bbox": [
+    -85.921271,
+    39.207704,
+    -85.921271,
+    39.207704
+],
+  "geometry": {"coordinates":[-85.921271,39.207704],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 806952801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.001955,39.826128,-86.001955,39.826128",
+    "geom:latitude":39.826128,
+    "geom:longitude":-86.001955,
+    "iso:country":"US",
+    "sg:address":"9443 E 38th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 890 2100",
+    "sg:postcode":"46235",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "sg:website":"http://www.iudocs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891137,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73nW7nkBaqvvpi3Mt1fSuv_39.826128_-86.001955@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602465,
+    "wof:geomhash":"846331f144dd1bc86fa2f2a7ff4c74e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891137,
+            "region_id":85688709,
+            "venue_id":806952801
+        }
+    ],
+    "wof:id":806952801,
+    "wof:lastmodified":1462602465,
+    "wof:name":"I U Medical Group",
+    "wof:parent_id":85891137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -86.001955,
+    39.826128,
+    -86.001955,
+    39.826128
+],
+  "geometry": {"coordinates":[-86.001955,39.826128],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790405287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.500756,38.020498,-87.500756,38.020498",
+    "geom:latitude":38.020498,
+    "geom:longitude":-87.500756,
+    "iso:country":"US",
+    "sg:address":"3800 Bergdolt Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 476 2502",
+    "sg:postcode":"47711",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877283,
+        102087105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5acLtiAGACzKGOR4rkOQa8_38.020498_-87.500756@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595575,
+    "wof:geomhash":"9000566a5851bc6d59e6660cadf7e5ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "neighbourhood_id":85877283,
+            "region_id":85688709,
+            "venue_id":790405287
+        }
+    ],
+    "wof:id":790405287,
+    "wof:lastmodified":1462595575,
+    "wof:name":"KOZY-Kennel",
+    "wof:parent_id":85877283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -87.500756,
+    38.020498,
+    -87.500756,
+    38.020498
+],
+  "geometry": {"coordinates":[-87.500756,38.020498],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806648809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.544821,38.48914,-87.544821,38.48914",
+    "geom:latitude":38.48914,
+    "geom:longitude":-87.544821,
+    "iso:country":"US",
+    "sg:address":"201 W 2nd St",
+    "sg:city":"Hazleton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 784 2275",
+    "sg:postcode":"47640",
+    "sg:province":"IN",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11iomJZUBljJPNjY6N3LS9_38.489140_-87.544821@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599894,
+    "wof:geomhash":"3c2c85f0ccf15528803b56b5a423cf38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806648809
+        }
+    ],
+    "wof:id":806648809,
+    "wof:lastmodified":1462599894,
+    "wof:name":"Gibson County Sold Waste",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -87.544821,
+    38.48914,
+    -87.544821,
+    38.48914
+],
+  "geometry": {"coordinates":[-87.544821,38.48914],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773477025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839811,38.958424,-85.839811,38.958424",
+    "geom:latitude":38.958424,
+    "geom:longitude":-85.839811,
+    "iso:country":"US",
+    "sg:address":"2630 E Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 2852",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04tiErko41v4TebnDCWWvi_38.958424_-85.839811@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586045,
+    "wof:geomhash":"dbc33d01ccf491cdc9019ca005f5dbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":773477025
+        }
+    ],
+    "wof:id":773477025,
+    "wof:lastmodified":1462586045,
+    "wof:name":"Eagle Truck Wash",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -85.839811,
+    38.958424,
+    -85.839811,
+    38.958424
+],
+  "geometry": {"coordinates":[-85.839811,38.958424],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 806802857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.99167,40.04573,-85.99167,40.04573",
+    "geom:latitude":40.04573,
+    "geom:longitude":-85.99167,
+    "iso:country":"US",
+    "sg:address":"17801 Foundation Dr",
+    "sg:city":"Noblesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/noblesville/88606-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 776 4630",
+    "sg:postcode":"46060",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941337,
+        102087089,
+        85891191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VqmdNLBP0iAOqCnLexHCN_40.045730_-85.991670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601208,
+    "wof:geomhash":"961d5b34a2c5804ddcdf0b58b8a6dbcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941337,
+            "neighbourhood_id":85891191,
+            "region_id":85688709,
+            "venue_id":806802857
+        }
+    ],
+    "wof:id":806802857,
+    "wof:lastmodified":1462601208,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85891191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.99167,
+    40.04573,
+    -85.99167,
+    40.04573
+],
+  "geometry": {"coordinates":[-85.99167,40.04573],"type":"Point"}
+}

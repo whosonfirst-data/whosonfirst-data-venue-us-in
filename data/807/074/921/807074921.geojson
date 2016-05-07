@@ -1,0 +1,71 @@
+{
+  "id": 807074921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.588345,39.156572,-86.588345,39.156572",
+    "geom:latitude":39.156572,
+    "geom:longitude":-86.588345,
+    "iso:country":"US",
+    "sg:address":"1001 S Sugar Maple Cir",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 9177",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Ht7n5UxyBUdyNTslOnwz_39.156572_-86.588345@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603494,
+    "wof:geomhash":"3acea8111acead8ba8f4f47309cfa56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807074921
+        }
+    ],
+    "wof:id":807074921,
+    "wof:lastmodified":1462603494,
+    "wof:name":"Orchard Glen Cooperative",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.588345,
+    39.156572,
+    -86.588345,
+    39.156572
+],
+  "geometry": {"coordinates":[-86.588345,39.156572],"type":"Point"}
+}

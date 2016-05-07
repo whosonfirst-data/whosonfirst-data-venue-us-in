@@ -1,0 +1,91 @@
+{
+  "id": 807059965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.746627,38.31564,-85.746627,38.31564",
+    "geom:latitude":38.31564,
+    "geom:longitude":-85.746627,
+    "iso:country":"US",
+    "sg:address":"1505 Fabricon Blvd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 283 4708",
+    "sg:postcode":"47130",
+    "sg:province":"IN",
+    "sg:tags":[
+        "provider",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842775,
+        102191575,
+        404501119,
+        85633793,
+        85942175,
+        102086421,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XzSDvCwCOKZ4B5IMcofR5_38.315640_-85.746627@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603370,
+    "wof:geomhash":"b12d86263f06d1e34c6aa5d569a3e519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086421,
+            "localadmin_id":404501119,
+            "locality_id":85942175,
+            "neighbourhood_id":85842775,
+            "region_id":85688709,
+            "venue_id":807059965
+        }
+    ],
+    "wof:id":807059965,
+    "wof:lastmodified":1462603370,
+    "wof:name":"Taylor Transportation Services",
+    "wof:parent_id":85842775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -85.746627,
+    38.31564,
+    -85.746627,
+    38.31564
+],
+  "geometry": {"coordinates":[-85.746627,38.31564],"type":"Point"}
+}

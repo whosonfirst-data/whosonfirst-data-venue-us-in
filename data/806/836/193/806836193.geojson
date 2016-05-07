@@ -1,0 +1,76 @@
+{
+  "id": 806836193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.385677,39.505653,-87.385677,39.505653",
+    "geom:latitude":39.505653,
+    "geom:longitude":-87.385677,
+    "iso:country":"US",
+    "sg:address":"3247 N 21st St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/harrison/124381-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 466 2700",
+    "sg:postcode":"47804",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P1hBKtabF8hKRxoSbun8u_39.505653_-87.385677@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601477,
+    "wof:geomhash":"24c020586ca875af0ec326b463daafb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814437,
+            "region_id":85688709,
+            "venue_id":806836193
+        }
+    ],
+    "wof:id":806836193,
+    "wof:lastmodified":1462601477,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85814437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.385677,
+    39.505653,
+    -87.385677,
+    39.505653
+],
+  "geometry": {"coordinates":[-87.385677,39.505653],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 806976641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.289032,39.687321,-86.289032,39.687321",
+    "geom:latitude":39.687321,
+    "geom:longitude":-86.289032,
+    "iso:country":"US",
+    "sg:address":"5101 Decatur Blvd Ste A",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 821 4000",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.lockheedmartin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519821,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FnwbHEU4EZTTBnxY5YGLF_39.687321_-86.289032@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602661,
+    "wof:geomhash":"6a66e95e12bdde6f3e2326231b9ece36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519821,
+            "region_id":85688709,
+            "venue_id":806976641
+        }
+    ],
+    "wof:id":806976641,
+    "wof:lastmodified":1462602661,
+    "wof:name":"Lockheed Martin",
+    "wof:parent_id":420519821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.289032,
+    39.687321,
+    -86.289032,
+    39.687321
+],
+  "geometry": {"coordinates":[-86.28903200000001,39.687321],"type":"Point"}
+}

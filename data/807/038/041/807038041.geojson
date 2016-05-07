@@ -1,0 +1,109 @@
+{
+  "id": 807038041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.479845,41.58457,-87.479845,41.58457",
+    "geom:latitude":41.58457,
+    "geom:longitude":-87.479845,
+    "iso:country":"US",
+    "sg:address":"7112 Olcott Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 844 6855",
+    "sg:postcode":"46323",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "line",
+        "public",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839875,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149,
+        85688709,
+        85858873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l6xR4SqIkDbpE0E96qoRj_41.584570_-87.479845@1303262770"
+    },
+    "wof:country":"US",
+    "wof:created":1462603187,
+    "wof:geomhash":"b188f654043e7a9a26ed370dbf0fe16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85839875,
+            "region_id":85688709,
+            "venue_id":807038041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85858873,
+            "region_id":85688709,
+            "venue_id":807038041
+        }
+    ],
+    "wof:id":807038041,
+    "wof:lastmodified":1462603187,
+    "wof:name":"Tish Transportation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "public",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.479845,
+    41.58457,
+    -87.479845,
+    41.58457
+],
+  "geometry": {"coordinates":[-87.479845,41.58457],"type":"Point"}
+}

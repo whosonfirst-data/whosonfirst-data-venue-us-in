@@ -1,0 +1,85 @@
+{
+  "id": 807046115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.49301,41.514868,-87.49301,41.514868",
+    "geom:latitude":41.514868,
+    "geom:longitude":-87.49301,
+    "iso:country":"US",
+    "sg:address":"123 Country Club Dr",
+    "sg:city":"Schererville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 322 3660",
+    "sg:postcode":"46375",
+    "sg:province":"IN",
+    "sg:tags":[
+        "club",
+        "course",
+        "private"
+    ],
+    "sg:website":"http://www.briarridge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824159,
+        102191575,
+        404501873,
+        85633793,
+        85941841,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l8NpsKRUxCN5IfMo8UGIQ_41.514868_-87.493010@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603258,
+    "wof:geomhash":"6aca84d715513a6ab61d3fef86c2f8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941841,
+            "neighbourhood_id":85824159,
+            "region_id":85688709,
+            "venue_id":807046115
+        }
+    ],
+    "wof:id":807046115,
+    "wof:lastmodified":1462603258,
+    "wof:name":"Briar Ridge Country Club",
+    "wof:parent_id":85824159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "course",
+        "private"
+    ]
+},
+  "bbox": [
+    -87.49301,
+    41.514868,
+    -87.49301,
+    41.514868
+],
+  "geometry": {"coordinates":[-87.49301,41.514868],"type":"Point"}
+}

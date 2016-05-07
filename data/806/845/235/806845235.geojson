@@ -1,0 +1,100 @@
+{
+  "id": 806845235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.528268,39.166717,-86.528268,39.166717",
+    "geom:latitude":39.166717,
+    "geom:longitude":-86.528268,
+    "iso:country":"US",
+    "sg:address":"113 N Dunn St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/bloomington/24810-bloomington-bagel-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 4653",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "salad",
+        "tea",
+        "bagel",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pgS16G6AgAebbfnumFAVn_39.167407_-86.528332@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601566,
+    "wof:geomhash":"7513f588306d3016bb4df702ed50e830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":806845235
+        }
+    ],
+    "wof:id":806845235,
+    "wof:lastmodified":1462601566,
+    "wof:name":"Bloomington Bagel Company",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "salad",
+        "tea",
+        "bagel",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.528268,
+    39.166717,
+    -86.528268,
+    39.166717
+],
+  "geometry": {"coordinates":[-86.528268,39.166717],"type":"Point"}
+}

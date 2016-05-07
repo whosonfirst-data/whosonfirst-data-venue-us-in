@@ -1,0 +1,71 @@
+{
+  "id": 773324173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.568901,39.177224,-86.568901,39.177224",
+    "geom:latitude":39.177224,
+    "geom:longitude":-86.568901,
+    "iso:country":"US",
+    "sg:address":"1072 Air Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 3806",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wi4edwxDg3EDz12xjdgHb_39.177224_-86.568901@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584869,
+    "wof:geomhash":"16b2271f6b9cdd91072ad15a2d239435",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":773324173
+        }
+    ],
+    "wof:id":773324173,
+    "wof:lastmodified":1462584869,
+    "wof:name":"Midnight Flyer & Co",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.568901,
+    39.177224,
+    -86.568901,
+    39.177224
+],
+  "geometry": {"coordinates":[-86.568901,39.177224],"type":"Point"}
+}

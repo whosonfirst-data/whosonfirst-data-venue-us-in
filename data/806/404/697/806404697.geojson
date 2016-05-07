@@ -1,0 +1,73 @@
+{
+  "id": 806404697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.566869,39.177606,-86.566869,39.177606",
+    "geom:latitude":39.177606,
+    "geom:longitude":-86.566869,
+    "iso:country":"US",
+    "sg:address":"3101 Venture Blvd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 335 8397",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hISuF4iqaiJS3fdCXuXZf_39.177606_-86.566869@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597872,
+    "wof:geomhash":"db1e57f34a74b3fad85e0d0e592ac8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":806404697
+        }
+    ],
+    "wof:id":806404697,
+    "wof:lastmodified":1462597872,
+    "wof:name":"Smith & Son Auto Repair",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.566869,
+    39.177606,
+    -86.566869,
+    39.177606
+],
+  "geometry": {"coordinates":[-86.566869,39.177606],"type":"Point"}
+}

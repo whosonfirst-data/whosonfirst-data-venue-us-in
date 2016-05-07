@@ -1,0 +1,71 @@
+{
+  "id": 773742083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.853648,38.31732,-85.853648,38.31732",
+    "geom:latitude":38.31732,
+    "geom:longitude":-85.853648,
+    "iso:country":"US",
+    "sg:address":"2723 Paoli Pike",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 945 0423",
+    "sg:postcode":"47150",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942489,
+        102087137,
+        85846703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HmtWQPI6xhI3I7CC3Bg7d_38.317320_-85.853648@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588037,
+    "wof:geomhash":"115f1dbaff7b51008a9e0b7cce80bafd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087137,
+            "locality_id":85942489,
+            "neighbourhood_id":85846703,
+            "region_id":85688709,
+            "venue_id":773742083
+        }
+    ],
+    "wof:id":773742083,
+    "wof:lastmodified":1462588037,
+    "wof:name":"Ridge View Animal Clinic",
+    "wof:parent_id":85846703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.853648,
+    38.31732,
+    -85.853648,
+    38.31732
+],
+  "geometry": {"coordinates":[-85.85364800000001,38.31732],"type":"Point"}
+}

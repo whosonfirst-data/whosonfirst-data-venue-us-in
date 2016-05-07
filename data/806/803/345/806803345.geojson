@@ -1,0 +1,74 @@
+{
+  "id": 806803345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.166976,40.021079,-86.166976,40.021079",
+    "geom:latitude":40.021079,
+    "geom:longitude":-86.166976,
+    "iso:country":"US",
+    "sg:address":"240 W 161st St",
+    "sg:city":"Westfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/westfield/79398-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 896 4455",
+    "sg:postcode":"46074",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UVZ8HuFoJGzQf5eZjCDRP_40.021079_-86.166976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601211,
+    "wof:geomhash":"523533960a91729f308867877210309c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":806803345
+        }
+    ],
+    "wof:id":806803345,
+    "wof:lastmodified":1462601211,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.166976,
+    40.021079,
+    -86.166976,
+    40.021079
+],
+  "geometry": {"coordinates":[-86.16697600000001,40.021079],"type":"Point"}
+}

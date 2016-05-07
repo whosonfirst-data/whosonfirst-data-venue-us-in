@@ -1,0 +1,73 @@
+{
+  "id": 806565939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646363,40.331948,-85.646363,40.331948",
+    "geom:latitude":40.331948,
+    "geom:longitude":-85.646363,
+    "iso:country":"US",
+    "sg:address":"701 S Main St",
+    "sg:city":"Summitville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 536 2235",
+    "sg:postcode":"46070",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EFOPoYKlfCr6BeF2OIQtZ_40.331948_-85.646363@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599174,
+    "wof:geomhash":"42fcffa0e9860a6683f9bfc83246d15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":806565939
+        }
+    ],
+    "wof:id":806565939,
+    "wof:lastmodified":1462599174,
+    "wof:name":"SUMMITVILLE Medical Arts",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.646363,
+    40.331948,
+    -85.646363,
+    40.331948
+],
+  "geometry": {"coordinates":[-85.64636299999999,40.331948],"type":"Point"}
+}

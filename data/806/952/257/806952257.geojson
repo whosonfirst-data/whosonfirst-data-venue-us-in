@@ -1,0 +1,84 @@
+{
+  "id": 806952257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.332411,39.798564,-86.332411,39.798564",
+    "geom:latitude":39.798564,
+    "geom:longitude":-86.332411,
+    "iso:country":"US",
+    "sg:address":"2403 Tobello Blvd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 271 0365",
+    "sg:postcode":"46234",
+    "sg:province":"IN",
+    "sg:tags":[
+        "perfume",
+        "cosmetics-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857209,
+        102191575,
+        404500787,
+        85633793,
+        85941473,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dahOeaXf5F4clCbOVzRAN_39.798564_-86.332411@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602460,
+    "wof:geomhash":"73aba6f435c2203103281435c1fc9f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500787,
+            "locality_id":85941473,
+            "neighbourhood_id":85857209,
+            "region_id":85688709,
+            "venue_id":806952257
+        }
+    ],
+    "wof:id":806952257,
+    "wof:lastmodified":1462602460,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85857209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume",
+        "cosmetics-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.332411,
+    39.798564,
+    -86.332411,
+    39.798564
+],
+  "geometry": {"coordinates":[-86.33241099999999,39.798564],"type":"Point"}
+}

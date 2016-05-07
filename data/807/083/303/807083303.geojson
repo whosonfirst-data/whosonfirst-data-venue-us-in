@@ -1,0 +1,84 @@
+{
+  "id": 807083303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533384,39.166439,-86.533384,39.166439",
+    "geom:latitude":39.166439,
+    "geom:longitude":-86.533384,
+    "iso:country":"US",
+    "sg:address":"118 E Kirkwood Ave",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 331 1500",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UnsrRx3UBGgiKqVMJpYtl_39.166439_-86.533384@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603560,
+    "wof:geomhash":"f7fa77d7b7387d78c0b7ade027a4c67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807083303
+        }
+    ],
+    "wof:id":807083303,
+    "wof:lastmodified":1462603560,
+    "wof:name":"Moonstruck Chocolate Bar",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -86.533384,
+    39.166439,
+    -86.533384,
+    39.166439
+],
+  "geometry": {"coordinates":[-86.533384,39.166439],"type":"Point"}
+}

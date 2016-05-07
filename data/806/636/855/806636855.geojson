@@ -1,0 +1,71 @@
+{
+  "id": 806636855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.47784,40.041605,-86.47784,40.041605",
+    "geom:latitude":40.041605,
+    "geom:longitude":-86.47784,
+    "iso:country":"US",
+    "sg:address":"822 W Green St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 483 9603",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2SYRqySEc0e3B3jCewJx_40.041605_-86.477840@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599790,
+    "wof:geomhash":"c23b73c11ae6242bb058adcb40d41431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806636855
+        }
+    ],
+    "wof:id":806636855,
+    "wof:lastmodified":1462599790,
+    "wof:name":"Friendly City Cab",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.47784,
+    40.041605,
+    -86.47784,
+    40.041605
+],
+  "geometry": {"coordinates":[-86.47784,40.041605],"type":"Point"}
+}

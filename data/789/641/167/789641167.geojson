@@ -1,0 +1,71 @@
+{
+  "id": 789641167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.727733,41.59125,-86.727733,41.59125",
+    "geom:latitude":41.59125,
+    "geom:longitude":-86.727733,
+    "iso:country":"US",
+    "sg:address":"809 W 18th St",
+    "sg:city":"Laporte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 362 3456",
+    "sg:postcode":"46350",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941895,
+        102086409,
+        85891163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zK1OrZ26htEie13eeaRN_41.591250_-86.727733@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589382,
+    "wof:geomhash":"53fc89e2f60849ba2924883bf2dfd35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941895,
+            "neighbourhood_id":85891163,
+            "region_id":85688709,
+            "venue_id":789641167
+        }
+    ],
+    "wof:id":789641167,
+    "wof:lastmodified":1462589382,
+    "wof:name":"LA Porte Fire Dept",
+    "wof:parent_id":85891163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.727733,
+    41.59125,
+    -86.727733,
+    41.59125
+],
+  "geometry": {"coordinates":[-86.727733,41.59125],"type":"Point"}
+}

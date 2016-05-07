@@ -1,0 +1,78 @@
+{
+  "id": 807079865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.583,39.188999,-86.583,39.188999",
+    "geom:latitude":39.188999,
+    "geom:longitude":-86.583,
+    "iso:country":"US",
+    "sg:address":"2404 N Smith Pike",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 1873",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fqaXUqpu216wufu7LjEgn_39.188999_-86.583000@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603532,
+    "wof:geomhash":"63b2c1050104df072bae249fb2506f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":807079865
+        }
+    ],
+    "wof:id":807079865,
+    "wof:lastmodified":1462603532,
+    "wof:name":"Tony Kinser Body Shop",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [
+    -86.583,
+    39.188999,
+    -86.583,
+    39.188999
+],
+  "geometry": {"coordinates":[-86.583,39.188999],"type":"Point"}
+}

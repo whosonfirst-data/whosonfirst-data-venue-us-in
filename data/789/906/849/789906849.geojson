@@ -1,0 +1,73 @@
+{
+  "id": 789906849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.452716,39.452061,-86.452716,39.452061",
+    "geom:latitude":39.452061,
+    "geom:longitude":-86.452716,
+    "iso:country":"US",
+    "sg:address":"1145 Locust Dr",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 306 7547",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85868893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZqiuShvTdLjHnCg3fcUDB_39.452061_-86.452716@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591499,
+    "wof:geomhash":"6720039ec8e65e9ab745737c07de97b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85868893,
+            "region_id":85688709,
+            "venue_id":789906849
+        }
+    ],
+    "wof:id":789906849,
+    "wof:lastmodified":1462591499,
+    "wof:name":"DCS Corporation",
+    "wof:parent_id":85868893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -86.452716,
+    39.452061,
+    -86.452716,
+    39.452061
+],
+  "geometry": {"coordinates":[-86.452716,39.452061],"type":"Point"}
+}

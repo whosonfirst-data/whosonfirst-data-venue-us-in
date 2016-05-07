@@ -1,0 +1,71 @@
+{
+  "id": 807066389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480103,39.1642,-86.480103,39.1642",
+    "geom:latitude":39.1642,
+    "geom:longitude":-86.480103,
+    "iso:country":"US",
+    "sg:address":"3929 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 7371",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kj8f4w4aMgkSWSrsj5Zoe_39.164200_-86.480103@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603418,
+    "wof:geomhash":"3173af568ff78f0cbeeb9469e490958e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":807066389
+        }
+    ],
+    "wof:id":807066389,
+    "wof:lastmodified":1462603418,
+    "wof:name":"Dr Rhett W Tharp DDS",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -86.480103,
+    39.1642,
+    -86.480103,
+    39.1642
+],
+  "geometry": {"coordinates":[-86.480103,39.1642],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789973529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.963095,41.675913,-85.963095,41.675913",
+    "geom:latitude":41.675913,
+    "geom:longitude":-85.963095,
+    "iso:country":"US",
+    "sg:address":"1218 S Main St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 296 9050",
+    "sg:postcode":"46516",
+    "sg:province":"IN",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T2BJWe7CtkkEMLd0tqxIn_41.675913_-85.963095@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592111,
+    "wof:geomhash":"2114619fb22777ecce224b03ff4dd796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":789973529
+        }
+    ],
+    "wof:id":789973529,
+    "wof:lastmodified":1462592111,
+    "wof:name":"Moore's Brake Svc Inc",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.963095,
+    41.675913,
+    -85.963095,
+    41.675913
+],
+  "geometry": {"coordinates":[-85.963095,41.675913],"type":"Point"}
+}

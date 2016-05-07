@@ -1,0 +1,77 @@
+{
+  "id": 807077447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.586998,39.1646,-86.586998,39.1646",
+    "geom:latitude":39.1646,
+    "geom:longitude":-86.586998,
+    "iso:country":"US",
+    "sg:address":"4201 W 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 4191",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.umc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01sJZ7zuW9P3CUfKjz7BYt_39.164600_-86.586998@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603513,
+    "wof:geomhash":"39d9713df2b1327e19186a1b2294da92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807077447
+        }
+    ],
+    "wof:id":807077447,
+    "wof:lastmodified":1462603513,
+    "wof:name":"St Paul United Methodist Church",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -86.586998,
+    39.1646,
+    -86.586998,
+    39.1646
+],
+  "geometry": {"coordinates":[-86.58699799999999,39.1646],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807006935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247037,39.892879,-86.247037,39.892879",
+    "geom:latitude":39.892879,
+    "geom:longitude":-86.247037,
+    "iso:country":"US",
+    "sg:address":"7735 Winton Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 872 2326",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cooky",
+        "crackers-wholesale",
+        "bakers-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.keebler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519805,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1woINsJM3GkmYEsQFq8Ifb_39.892879_-86.247037@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602918,
+    "wof:geomhash":"982161044d114b61c658f5ea8093c96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519805,
+            "region_id":85688709,
+            "venue_id":807006935
+        }
+    ],
+    "wof:id":807006935,
+    "wof:lastmodified":1462602918,
+    "wof:name":"Keebler Co",
+    "wof:parent_id":420519805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooky",
+        "crackers-wholesale",
+        "bakers-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.247037,
+    39.892879,
+    -86.247037,
+    39.892879
+],
+  "geometry": {"coordinates":[-86.24703700000001,39.892879],"type":"Point"}
+}

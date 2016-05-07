@@ -1,0 +1,88 @@
+{
+  "id": 806869333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.969964,39.96342,-85.969964,39.96342",
+    "geom:latitude":39.96342,
+    "geom:longitude":-85.969964,
+    "iso:country":"US",
+    "sg:address":"10995 Parkland Ct",
+    "sg:city":"Fishers",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 408 5938",
+    "sg:postcode":"46037",
+    "sg:province":"IN",
+    "sg:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519571,
+        102191575,
+        404500695,
+        85633793,
+        85941335,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mqKCJDKImBKXf0QjcHEHa_39.963420_-85.969964@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601766,
+    "wof:geomhash":"305c80d58b4ef9d8e902d35b6ea7ed81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500695,
+            "locality_id":85941335,
+            "neighbourhood_id":420519571,
+            "region_id":85688709,
+            "venue_id":806869333
+        }
+    ],
+    "wof:id":806869333,
+    "wof:lastmodified":1462601766,
+    "wof:name":"Steve Farmer",
+    "wof:parent_id":420519571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ]
+},
+  "bbox": [
+    -85.969964,
+    39.96342,
+    -85.969964,
+    39.96342
+],
+  "geometry": {"coordinates":[-85.969964,39.96342],"type":"Point"}
+}

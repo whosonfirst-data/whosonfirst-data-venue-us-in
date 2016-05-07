@@ -1,0 +1,76 @@
+{
+  "id": 773498111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.122622,39.776462,-86.122622,39.776462",
+    "geom:latitude":39.776462,
+    "geom:longitude":-86.122622,
+    "iso:country":"US",
+    "sg:address":"628 N Beville Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 0699",
+    "sg:postcode":"46201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.catshaven.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858937,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dnWFJ4ra8adFWNCq4kDZ6_39.776462_-86.122622@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586193,
+    "wof:geomhash":"d36e6be64b3d418e37761a97926b28f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85858937,
+            "region_id":85688709,
+            "venue_id":773498111
+        }
+    ],
+    "wof:id":773498111,
+    "wof:lastmodified":1462586193,
+    "wof:name":"Cats Haven",
+    "wof:parent_id":85858937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -86.122622,
+    39.776462,
+    -86.122622,
+    39.776462
+],
+  "geometry": {"coordinates":[-86.12262200000001,39.776462],"type":"Point"}
+}

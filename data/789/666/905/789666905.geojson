@@ -1,0 +1,71 @@
+{
+  "id": 789666905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.580003,38.247702,-87.580003,38.247702",
+    "geom:latitude":38.247702,
+    "geom:longitude":-87.580003,
+    "iso:country":"US",
+    "sg:address":"123 N Mc Creary St",
+    "sg:city":"Fort Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 753 1039",
+    "sg:postcode":"47648",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RTWmFdqJKbSCPCuac1xYW_38.247702_-87.580003@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589606,
+    "wof:geomhash":"f996d297c11f3f45765f84bd04b37d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":789666905
+        }
+    ],
+    "wof:id":789666905,
+    "wof:lastmodified":1462589606,
+    "wof:name":"Tulip Tree Health Svc",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.580003,
+    38.247702,
+    -87.580003,
+    38.247702
+],
+  "geometry": {"coordinates":[-87.580003,38.247702],"type":"Point"}
+}

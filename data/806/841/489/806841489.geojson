@@ -1,0 +1,78 @@
+{
+  "id": 806841489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.265014,39.883025,-86.265014,39.883025",
+    "geom:latitude":39.883025,
+    "geom:longitude":-86.265014,
+    "iso:country":"US",
+    "sg:address":"7217 Woodland Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/pike/155821-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 297 4868",
+    "sg:postcode":"46278",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830193,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QQm5SEchxXFLtPro7gJl3_39.883093_-86.265518@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601520,
+    "wof:geomhash":"1df9967795a3256eefec94d8bc7bded1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85830193,
+            "region_id":85688709,
+            "venue_id":806841489
+        }
+    ],
+    "wof:id":806841489,
+    "wof:lastmodified":1462601520,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85830193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.265014,
+    39.883025,
+    -86.265014,
+    39.883025
+],
+  "geometry": {"coordinates":[-86.26501399999999,39.883025],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806817675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.856235,41.592665,-85.856235,41.592665",
+    "geom:latitude":41.592665,
+    "geom:longitude":-85.856235,
+    "iso:country":"US",
+    "sg:address":"1706 Elkhart Rd",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/elkhart/186363-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46526",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850341,
+        102191575,
+        404500587,
+        85633793,
+        85942261,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MqyDWdC5szlUmm3oBhf3D_41.592665_-85.856235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601323,
+    "wof:geomhash":"de7506c096b937ffbdcb00837dc21f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500587,
+            "locality_id":85942261,
+            "neighbourhood_id":85850341,
+            "region_id":85688709,
+            "venue_id":806817675
+        }
+    ],
+    "wof:id":806817675,
+    "wof:lastmodified":1462601323,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.856235,
+    41.592665,
+    -85.856235,
+    41.592665
+],
+  "geometry": {"coordinates":[-85.856235,41.592665],"type":"Point"}
+}

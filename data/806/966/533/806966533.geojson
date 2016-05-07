@@ -1,0 +1,88 @@
+{
+  "id": 806966533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.140491,39.912597,-86.140491,39.912597",
+    "geom:latitude":39.912597,
+    "geom:longitude":-86.140491,
+    "iso:country":"US",
+    "sg:address":"1030 E 86th St Ste 34C",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 819 0390",
+    "sg:postcode":"46240",
+    "sg:province":"IN",
+    "sg:tags":[
+        "elementary",
+        "tutoring"
+    ],
+    "sg:website":"www.abcsofphonics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837053,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jh0DwtD5TRIaLYigZ1Z70_39.912597_-86.140491@1303262766"
+    },
+    "wof:country":"US",
+    "wof:created":1462602580,
+    "wof:geomhash":"b226b345c2670919ae3a3b9bd84dc27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85837053,
+            "region_id":85688709,
+            "venue_id":806966533
+        }
+    ],
+    "wof:id":806966533,
+    "wof:lastmodified":1462602580,
+    "wof:name":"Abc's of Phonics",
+    "wof:parent_id":85837053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -86.140491,
+    39.912597,
+    -86.140491,
+    39.912597
+],
+  "geometry": {"coordinates":[-86.140491,39.912597],"type":"Point"}
+}

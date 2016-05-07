@@ -1,0 +1,76 @@
+{
+  "id": 789908195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671183,40.101298,-85.671183,40.101298",
+    "geom:latitude":40.101298,
+    "geom:longitude":-85.671183,
+    "iso:country":"US",
+    "sg:address":"1547 Ohio Ave",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 641 7499",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.mcchc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827053,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mEORL2qX1hQWc0xxN1KBB_40.101298_-85.671183@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591518,
+    "wof:geomhash":"d83d8a2f6d6cccb60338b7989882331a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85827053,
+            "region_id":85688709,
+            "venue_id":789908195
+        }
+    ],
+    "wof:id":789908195,
+    "wof:lastmodified":1462591518,
+    "wof:name":"Madison County Community Hlth",
+    "wof:parent_id":85827053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.671183,
+    40.101298,
+    -85.671183,
+    40.101298
+],
+  "geometry": {"coordinates":[-85.671183,40.101298],"type":"Point"}
+}

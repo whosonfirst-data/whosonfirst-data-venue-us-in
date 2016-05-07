@@ -1,0 +1,73 @@
+{
+  "id": 806541177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.579388,38.356742,-87.579388,38.356742",
+    "geom:latitude":38.356742,
+    "geom:longitude":-87.579388,
+    "iso:country":"US",
+    "sg:address":"1020 Vine St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 5238",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Ev6svlG160BztbEXUZBP_38.356742_-87.579388@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598966,
+    "wof:geomhash":"366fc934b3c23c113a96976d8e1fe265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806541177
+        }
+    ],
+    "wof:id":806541177,
+    "wof:lastmodified":1462598966,
+    "wof:name":"Waters Of Princeton",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -87.579388,
+    38.356742,
+    -87.579388,
+    38.356742
+],
+  "geometry": {"coordinates":[-87.57938799999999,38.356742],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789618515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.885744,40.417659,-86.885744,40.417659",
+    "geom:latitude":40.417659,
+    "geom:longitude":-86.885744,
+    "iso:country":"US",
+    "sg:address":"5 N 10th St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 742 2415",
+    "sg:postcode":"47901",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oNCRKdYEuYUg47KGdYScl_40.417659_-86.885744@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589206,
+    "wof:geomhash":"64ee832333cf8ab8a2a4281ebf20e0c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":789618515
+        }
+    ],
+    "wof:id":789618515,
+    "wof:lastmodified":1462589206,
+    "wof:name":"Nicholas Misecko DDS",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.885744,
+    40.417659,
+    -86.885744,
+    40.417659
+],
+  "geometry": {"coordinates":[-86.885744,40.417659],"type":"Point"}
+}

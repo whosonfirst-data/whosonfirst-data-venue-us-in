@@ -1,0 +1,77 @@
+{
+  "id": 806805211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.079189,39.615167,-86.079189,39.615167",
+    "geom:latitude":39.615167,
+    "geom:longitude":-86.079189,
+    "iso:country":"US",
+    "sg:address":"1197 Southpark Dr",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/new-whiteland/186373-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850567,
+        102191575,
+        404500933,
+        85633793,
+        85942283,
+        102086239,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eVbODWYB0ct4ZEkbAlp7M_39.615167_-86.079189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601229,
+    "wof:geomhash":"7ccb6731f4a8268d8a4acee602647e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086239,
+            "localadmin_id":404500933,
+            "locality_id":85942283,
+            "neighbourhood_id":85850567,
+            "region_id":85688709,
+            "venue_id":806805211
+        }
+    ],
+    "wof:id":806805211,
+    "wof:lastmodified":1462601229,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.079189,
+    39.615167,
+    -86.079189,
+    39.615167
+],
+  "geometry": {"coordinates":[-86.079189,39.615167],"type":"Point"}
+}

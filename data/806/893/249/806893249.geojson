@@ -1,0 +1,86 @@
+{
+  "id": 806893249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.375778,39.71078,-86.375778,39.71078",
+    "geom:latitude":39.71078,
+    "geom:longitude":-86.375778,
+    "iso:country":"US",
+    "sg:address":"1930 E Main St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 7961",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.kroger.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807409,
+        102191575,
+        404500783,
+        85633793,
+        85941489,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WKkNL4vjx285wCMyP980y_39.710780_-86.375778@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601956,
+    "wof:geomhash":"45c5812281452b4dca132539fe2e2b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500783,
+            "locality_id":85941489,
+            "neighbourhood_id":85807409,
+            "region_id":85688709,
+            "venue_id":806893249
+        }
+    ],
+    "wof:id":806893249,
+    "wof:lastmodified":1462601956,
+    "wof:name":"Kroger",
+    "wof:parent_id":85807409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -86.375778,
+    39.71078,
+    -86.375778,
+    39.71078
+],
+  "geometry": {"coordinates":[-86.375778,39.71078],"type":"Point"}
+}

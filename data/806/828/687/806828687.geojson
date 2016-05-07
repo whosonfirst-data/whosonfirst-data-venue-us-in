@@ -1,0 +1,71 @@
+{
+  "id": 806828687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.918211,39.201498,-85.918211,39.201498",
+    "geom:latitude":39.201498,
+    "geom:longitude":-85.918211,
+    "iso:country":"US",
+    "sg:address":"611 3rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/columbus/186291-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11vRY8V04jREiDPKZH4lL9_39.201498_-85.918211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601415,
+    "wof:geomhash":"76814756811ab43cd8abbb36a0d77ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":806828687
+        }
+    ],
+    "wof:id":806828687,
+    "wof:lastmodified":1462601415,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.918211,
+    39.201498,
+    -85.918211,
+    39.201498
+],
+  "geometry": {"coordinates":[-85.918211,39.201498],"type":"Point"}
+}

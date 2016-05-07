@@ -1,0 +1,69 @@
+{
+  "id": 773365091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.743396,41.105282,-85.743396,41.105282",
+    "geom:latitude":41.105282,
+    "geom:longitude":-85.743396,
+    "iso:country":"US",
+    "sg:address":"103 E Center St",
+    "sg:city":"Sidney",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 839 0174",
+    "sg:postcode":"46562",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K5AxwCw0h5pMZI94EDqxM_41.105282_-85.743396@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585147,
+    "wof:geomhash":"b64f51b0d19c2cc0fdb132422f62db1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":773365091
+        }
+    ],
+    "wof:id":773365091,
+    "wof:lastmodified":1462585147,
+    "wof:name":"Sidney Volunteer Fire Dept",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.743396,
+    41.105282,
+    -85.743396,
+    41.105282
+],
+  "geometry": {"coordinates":[-85.743396,41.105282],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806643523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.740868,39.51252,-84.740868,39.51252",
+    "geom:latitude":39.51252,
+    "geom:longitude":-84.740868,
+    "iso:country":"US",
+    "sg:address":"110 N Poplar St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 867 1100",
+    "sg:postcode":"45056",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712669,
+        102084743,
+        85812113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dr0QCxOmVFEZbGzZ4FUS5_39.512520_-84.740868@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599847,
+    "wof:geomhash":"ca65ff43374c903724774c804f169783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084743,
+            "locality_id":101712669,
+            "neighbourhood_id":85812113,
+            "region_id":85688485,
+            "venue_id":806643523
+        }
+    ],
+    "wof:id":806643523,
+    "wof:lastmodified":1462599847,
+    "wof:name":"Urology Group",
+    "wof:parent_id":85812113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.740868,
+    39.51252,
+    -84.740868,
+    39.51252
+],
+  "geometry": {"coordinates":[-84.74086800000001,39.51252],"type":"Point"}
+}

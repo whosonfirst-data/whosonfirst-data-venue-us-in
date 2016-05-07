@@ -1,0 +1,73 @@
+{
+  "id": 790618909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.891268,38.956799,-85.891268,38.956799",
+    "geom:latitude":38.956799,
+    "geom:longitude":-85.891268,
+    "iso:country":"US",
+    "sg:address":"416 W Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 3398",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63iFMyAWiXW6HISuEh7Xwj_38.956799_-85.891268@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597404,
+    "wof:geomhash":"270648b5860eb1be7ca07b232dd7e72c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":790618909
+        }
+    ],
+    "wof:id":790618909,
+    "wof:lastmodified":1462597404,
+    "wof:name":"Denny's Auto Repair",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.891268,
+    38.956799,
+    -85.891268,
+    38.956799
+],
+  "geometry": {"coordinates":[-85.891268,38.956799],"type":"Point"}
+}

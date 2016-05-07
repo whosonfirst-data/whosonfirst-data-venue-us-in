@@ -1,0 +1,71 @@
+{
+  "id": 773323111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.895976,39.208519,-85.895976,39.208519",
+    "geom:latitude":39.208519,
+    "geom:longitude":-85.895976,
+    "iso:country":"US",
+    "sg:address":"2421 10th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 379 4151",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AMtMfTUCot2tvsEyAlQtS_39.208519_-85.895976@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584863,
+    "wof:geomhash":"a35a121d6d14e717d308e437f438e805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":773323111
+        }
+    ],
+    "wof:id":773323111,
+    "wof:lastmodified":1462584863,
+    "wof:name":"Rust-Unger Monuments",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -85.895976,
+    39.208519,
+    -85.895976,
+    39.208519
+],
+  "geometry": {"coordinates":[-85.895976,39.208519],"type":"Point"}
+}

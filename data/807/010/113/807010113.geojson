@@ -1,0 +1,87 @@
+{
+  "id": 807010113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.264162,39.902175,-86.264162,39.902175",
+    "geom:latitude":39.902175,
+    "geom:longitude":-86.264162,
+    "iso:country":"US",
+    "sg:address":"5845 W 82nd St Ste 108",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 876 9212",
+    "sg:postcode":"46278",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "sg:website":"http://www.dws-salt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fG4Iw4x4PA6ojvFdlDjRz_39.902175_-86.264162@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602944,
+    "wof:geomhash":"a6567fbb84e7fc7178cf4af830af94dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870685,
+            "region_id":85688709,
+            "venue_id":807010113
+        }
+    ],
+    "wof:id":807010113,
+    "wof:lastmodified":1462602944,
+    "wof:name":"Davis' Wholesale Supply Inc",
+    "wof:parent_id":85870685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.264162,
+    39.902175,
+    -86.264162,
+    39.902175
+],
+  "geometry": {"coordinates":[-86.264162,39.902175],"type":"Point"}
+}

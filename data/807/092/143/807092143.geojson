@@ -1,0 +1,73 @@
+{
+  "id": 807092143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.58887,38.360229,-87.58887,38.360229",
+    "geom:latitude":38.360229,
+    "geom:longitude":-87.58887,
+    "iso:country":"US",
+    "sg:address":"1808 Sherman Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 9392",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_136MKBOtCk0pI9kOAlHAi6_38.360229_-87.588870@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603636,
+    "wof:geomhash":"47266e0563bdd5e8d363097b0ef1b990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807092143
+        }
+    ],
+    "wof:id":807092143,
+    "wof:lastmodified":1462603636,
+    "wof:name":"Gregory Johnson Md",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.58887,
+    38.360229,
+    -87.58887,
+    38.360229
+],
+  "geometry": {"coordinates":[-87.58887,38.360229],"type":"Point"}
+}

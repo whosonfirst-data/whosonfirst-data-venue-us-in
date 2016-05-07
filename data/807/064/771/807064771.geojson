@@ -1,0 +1,71 @@
+{
+  "id": 807064771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.532895,39.147694,-86.532895,39.147694",
+    "geom:latitude":39.147694,
+    "geom:longitude":-86.532895,
+    "iso:country":"US",
+    "sg:address":"1800 S Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 7855",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:website":"www.meineke.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FwkEp3sNnAsJGgkXSa3Ca_39.147694_-86.532895@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603406,
+    "wof:geomhash":"af09117fb2b19f5e6b8e50747a071b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":807064771
+        }
+    ],
+    "wof:id":807064771,
+    "wof:lastmodified":1462603406,
+    "wof:name":"Meineke",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.532895,
+    39.147694,
+    -86.532895,
+    39.147694
+],
+  "geometry": {"coordinates":[-86.532895,39.147694],"type":"Point"}
+}

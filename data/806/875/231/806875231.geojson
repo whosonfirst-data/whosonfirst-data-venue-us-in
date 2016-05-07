@@ -1,0 +1,85 @@
+{
+  "id": 806875231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.45025,40.104576,-86.45025,40.104576",
+    "geom:latitude":40.104576,
+    "geom:longitude":-86.45025,
+    "iso:country":"US",
+    "sg:address":"1120 E 450 N",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 0238",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "corn",
+        "bean",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85807195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50qhTu0B1CGdKZ3WuezCiR_40.104576_-86.450250@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601814,
+    "wof:geomhash":"19cae1844f7f56bb8c6169a81e389fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85807195,
+            "region_id":85688709,
+            "venue_id":806875231
+        }
+    ],
+    "wof:id":806875231,
+    "wof:lastmodified":1462601814,
+    "wof:name":"Lloyd Craqun",
+    "wof:parent_id":85807195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "bean",
+        "product"
+    ]
+},
+  "bbox": [
+    -86.45025,
+    40.104576,
+    -86.45025,
+    40.104576
+],
+  "geometry": {"coordinates":[-86.45025,40.104576],"type":"Point"}
+}

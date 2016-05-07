@@ -1,0 +1,69 @@
+{
+  "id": 807077533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.571297,39.2062,-86.571297,39.2062",
+    "geom:latitude":39.2062,
+    "geom:longitude":-86.571297,
+    "iso:country":"US",
+    "sg:address":"4515 W Arlington Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 6955",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o9zk3gI4l6ck76gK1kLtL_39.206200_-86.571297@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603514,
+    "wof:geomhash":"ade27ab2cdf8162b26ccf86ff22a2f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":807077533
+        }
+    ],
+    "wof:id":807077533,
+    "wof:lastmodified":1462603514,
+    "wof:name":"Arlington Heights Veterinary Hospital",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.571297,
+    39.2062,
+    -86.571297,
+    39.2062
+],
+  "geometry": {"coordinates":[-86.571297,39.2062],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790209125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437114,39.411598,-86.437114,39.411598",
+    "geom:latitude":39.411598,
+    "geom:longitude":-86.437114,
+    "iso:country":"US",
+    "sg:address":"1609 Burton Ln",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 342 2270",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HiHUpJ504Y4yLnbSFhGFF_39.411598_-86.437114@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594022,
+    "wof:geomhash":"546b475347ce174bed5484d90332a55d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":790209125
+        }
+    ],
+    "wof:id":790209125,
+    "wof:lastmodified":1462594022,
+    "wof:name":"Mark D Lemons DDS",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.437114,
+    39.411598,
+    -86.437114,
+    39.411598
+],
+  "geometry": {"coordinates":[-86.43711399999999,39.411598],"type":"Point"}
+}

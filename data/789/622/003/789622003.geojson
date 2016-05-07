@@ -1,0 +1,76 @@
+{
+  "id": 789622003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.134967,41.113418,-85.134967,41.113418",
+    "geom:latitude":41.113418,
+    "geom:longitude":-85.134967,
+    "iso:country":"US",
+    "sg:address":"4320 Coldwater Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 471 5598",
+    "sg:postcode":"46805",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838221,
+        102191575,
+        404501179,
+        85633793,
+        85942149,
+        102087177,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kKLf2wLYEOxeCzDn0s7fs_41.113418_-85.134967@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589232,
+    "wof:geomhash":"716dd0fd89c9677e5223ef58b0cfcfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85838221,
+            "region_id":85688709,
+            "venue_id":789622003
+        }
+    ],
+    "wof:id":789622003,
+    "wof:lastmodified":1462589232,
+    "wof:name":"Borders Books & Music",
+    "wof:parent_id":85838221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.134967,
+    41.113418,
+    -85.134967,
+    41.113418
+],
+  "geometry": {"coordinates":[-85.134967,41.113418],"type":"Point"}
+}

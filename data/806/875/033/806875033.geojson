@@ -1,0 +1,85 @@
+{
+  "id": 806875033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.464315,40.034164,-86.464315,40.034164",
+    "geom:latitude":40.034164,
+    "geom:longitude":-86.464315,
+    "iso:country":"US",
+    "sg:address":"234 E Thompson St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 769 6568",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "chimneys-prefabricated",
+        "chimney",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z4NhU6Zxkg8ptYPGDXr7J_40.034164_-86.464315@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601812,
+    "wof:geomhash":"3f466cf00de2507b228551308ea6db44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806875033
+        }
+    ],
+    "wof:id":806875033,
+    "wof:lastmodified":1462601812,
+    "wof:name":"Chimney Sweeps of America",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chimneys-prefabricated",
+        "chimney",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.464315,
+    40.034164,
+    -86.464315,
+    40.034164
+],
+  "geometry": {"coordinates":[-86.464315,40.034164],"type":"Point"}
+}

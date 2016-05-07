@@ -1,0 +1,80 @@
+{
+  "id": 806823509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.153717,41.096201,-85.153717,41.096201",
+    "geom:latitude":41.096201,
+    "geom:longitude":-85.153717,
+    "iso:country":"US",
+    "sg:address":"2304 Sherman Blvd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/indian-village/124279-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 471 9604",
+    "sg:postcode":"46808",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819467,
+        102191575,
+        404501179,
+        85633793,
+        85942149,
+        102087177,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SqbIGEH8KIkmKLoe4FjDQ_41.096201_-85.153717@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601371,
+    "wof:geomhash":"a8c0a99c5422d09f2caed0b27ebd2aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85819467,
+            "region_id":85688709,
+            "venue_id":806823509
+        }
+    ],
+    "wof:id":806823509,
+    "wof:lastmodified":1462601371,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85819467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.153717,
+    41.096201,
+    -85.153717,
+    41.096201
+],
+  "geometry": {"coordinates":[-85.153717,41.096201],"type":"Point"}
+}

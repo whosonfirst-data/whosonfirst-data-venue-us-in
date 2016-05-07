@@ -1,0 +1,70 @@
+{
+  "id": 806845103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.494285,39.164237,-86.494285,39.164237",
+    "geom:latitude":39.164237,
+    "geom:longitude":-86.494285,
+    "iso:country":"US",
+    "sg:address":"3001 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/broadview/207985-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 1679",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Fh9n7YvNJRbG3FDtsbXY_39.164286_-86.493875@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601565,
+    "wof:geomhash":"2aad20a41af0d94e13634be673520ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":806845103
+        }
+    ],
+    "wof:id":806845103,
+    "wof:lastmodified":1462601565,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.494285,
+    39.164237,
+    -86.494285,
+    39.164237
+],
+  "geometry": {"coordinates":[-86.494285,39.164237],"type":"Point"}
+}

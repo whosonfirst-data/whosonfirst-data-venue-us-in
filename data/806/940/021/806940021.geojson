@@ -1,0 +1,84 @@
+{
+  "id": 806940021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.010277,39.8479,-86.010277,39.8479",
+    "geom:latitude":39.8479,
+    "geom:longitude":-86.010277,
+    "iso:country":"US",
+    "sg:address":"5135 N Post Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 898 7662",
+    "sg:postcode":"46226",
+    "sg:province":"IN",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852657,
+        102191575,
+        404501889,
+        85633793,
+        85942567,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T8BSU7xda8nWmJomXseMT_39.847900_-86.010277@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602361,
+    "wof:geomhash":"c25fa2551dc5856672dc958d77dab196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501889,
+            "locality_id":85942567,
+            "neighbourhood_id":85852657,
+            "region_id":85688709,
+            "venue_id":806940021
+        }
+    ],
+    "wof:id":806940021,
+    "wof:lastmodified":1462602361,
+    "wof:name":"Post Acres Mobile",
+    "wof:parent_id":85852657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ]
+},
+  "bbox": [
+    -86.010277,
+    39.8479,
+    -86.010277,
+    39.8479
+],
+  "geometry": {"coordinates":[-86.010277,39.8479],"type":"Point"}
+}

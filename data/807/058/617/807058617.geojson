@@ -1,0 +1,88 @@
+{
+  "id": 807058617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.737312,38.276669,-85.737312,38.276669",
+    "geom:latitude":38.276669,
+    "geom:longitude":-85.737312,
+    "iso:country":"US",
+    "sg:address":"501 E Court Ave 416 Fl 4",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 285 6413",
+    "sg:postcode":"47130",
+    "sg:province":"IN",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842775,
+        102191575,
+        404501119,
+        85633793,
+        85942175,
+        102086421,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I2Qg6qq62OIjRdK2upP97_38.276669_-85.737312@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"75ac16494af1e92b3458dbc4721fd737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086421,
+            "localadmin_id":404501119,
+            "locality_id":85942175,
+            "neighbourhood_id":85842775,
+            "region_id":85688709,
+            "venue_id":807058617
+        }
+    ],
+    "wof:id":807058617,
+    "wof:lastmodified":1462603360,
+    "wof:name":"Jeffersonville Planning",
+    "wof:parent_id":85842775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -85.737312,
+    38.276669,
+    -85.737312,
+    38.276669
+],
+  "geometry": {"coordinates":[-85.737312,38.276669],"type":"Point"}
+}

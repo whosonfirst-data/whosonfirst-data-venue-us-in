@@ -1,0 +1,86 @@
+{
+  "id": 806936281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270222,39.820541,-86.270222,39.820541",
+    "geom:latitude":39.820541,
+    "geom:longitude":-86.270222,
+    "iso:country":"US",
+    "sg:address":"3650 N High School Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 290 1204",
+    "sg:postcode":"46224",
+    "sg:province":"IN",
+    "sg:tags":[
+        "merchandising"
+    ],
+    "sg:website":"http://www.familydollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870677,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fZqd5FVXvCgRwXvUf5il6_39.820541_-86.270222@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602327,
+    "wof:geomhash":"4d8eb25037954995cb529189122cfa7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870677,
+            "region_id":85688709,
+            "venue_id":806936281
+        }
+    ],
+    "wof:id":806936281,
+    "wof:lastmodified":1462602327,
+    "wof:name":"Family Dollar",
+    "wof:parent_id":85870677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandising"
+    ]
+},
+  "bbox": [
+    -86.270222,
+    39.820541,
+    -86.270222,
+    39.820541
+],
+  "geometry": {"coordinates":[-86.270222,39.820541],"type":"Point"}
+}

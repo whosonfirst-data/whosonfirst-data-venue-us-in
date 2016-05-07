@@ -1,0 +1,73 @@
+{
+  "id": 773728071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.86362,40.429891,-86.86362,40.429891",
+    "geom:latitude":40.429891,
+    "geom:longitude":-86.86362,
+    "iso:country":"US",
+    "sg:address":"1223 N 28th St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 449 7081",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OXRJ3L7kfJfipLeD87C4O_40.429891_-86.863620@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587935,
+    "wof:geomhash":"431f91b68bcffea5ad1accaf333f799b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":773728071
+        }
+    ],
+    "wof:id":773728071,
+    "wof:lastmodified":1462587935,
+    "wof:name":"Action Electric LLC",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.86362,
+    40.429891,
+    -86.86362,
+    40.429891
+],
+  "geometry": {"coordinates":[-86.86362,40.429891],"type":"Point"}
+}

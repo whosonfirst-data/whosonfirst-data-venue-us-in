@@ -1,0 +1,71 @@
+{
+  "id": 790552465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.377685,39.471089,-87.377685,39.471089",
+    "geom:latitude":39.471089,
+    "geom:longitude":-87.377685,
+    "iso:country":"US",
+    "sg:address":"2650 Wabash Ave",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 4519",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u8V8RuA9TANpdWOfGdmK5_39.471089_-87.377685@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596814,
+    "wof:geomhash":"9fc07a26f88337509bb845152c1a83be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":790552465
+        }
+    ],
+    "wof:id":790552465,
+    "wof:lastmodified":1462596814,
+    "wof:name":"Kroger",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.377685,
+    39.471089,
+    -87.377685,
+    39.471089
+],
+  "geometry": {"coordinates":[-87.377685,39.471089],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 806844581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866893,38.958125,-85.866893,38.958125",
+    "geom:latitude":38.958125,
+    "geom:longitude":-85.866893,
+    "iso:country":"US",
+    "sg:address":"1509 E Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/jackson/208117-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 3318",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49hcM43BUpsb5hY15Vfajd_38.958179_-85.866875@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601561,
+    "wof:geomhash":"f5d268a60d9ebff5b3c02094951e0d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806844581
+        }
+    ],
+    "wof:id":806844581,
+    "wof:lastmodified":1462601561,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.866893,
+    38.958125,
+    -85.866893,
+    38.958125
+],
+  "geometry": {"coordinates":[-85.866893,38.958125],"type":"Point"}
+}

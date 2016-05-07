@@ -1,0 +1,71 @@
+{
+  "id": 806681549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.569051,39.17727,-86.569051,39.17727",
+    "geom:latitude":39.17727,
+    "geom:longitude":-86.569051,
+    "iso:country":"US",
+    "sg:address":"1079 Air Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 8821",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SSLyBYZSRA2wkFUAdIkyE_39.177270_-86.569051@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600183,
+    "wof:geomhash":"6418fdb4fb53dac95dae7311d451b380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":806681549
+        }
+    ],
+    "wof:id":806681549,
+    "wof:lastmodified":1462600183,
+    "wof:name":"Fleetwood's Towing",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.569051,
+    39.17727,
+    -86.569051,
+    39.17727
+],
+  "geometry": {"coordinates":[-86.569051,39.17727],"type":"Point"}
+}

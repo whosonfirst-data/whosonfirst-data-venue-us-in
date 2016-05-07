@@ -1,0 +1,69 @@
+{
+  "id": 790366277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.484827,39.265296,-86.484827,39.265296",
+    "geom:latitude":39.265296,
+    "geom:longitude":-86.484827,
+    "iso:country":"US",
+    "sg:address":"3865 E Dora Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 961 0077",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wh8lq7xFVV4tINhTsXAJf_39.265296_-86.484827@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595276,
+    "wof:geomhash":"c4c0aac5494d9d2232a25ddbaed30eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":790366277
+        }
+    ],
+    "wof:id":790366277,
+    "wof:lastmodified":1462595276,
+    "wof:name":"Seahorse Veterinary Svc",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.484827,
+    39.265296,
+    -86.484827,
+    39.265296
+],
+  "geometry": {"coordinates":[-86.484827,39.265296],"type":"Point"}
+}

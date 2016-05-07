@@ -1,0 +1,80 @@
+{
+  "id": 806841341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.045505,39.889525,-86.045505,39.889525",
+    "geom:latitude":39.889525,
+    "geom:longitude":-86.045505,
+    "iso:country":"US",
+    "sg:address":"7423 N Shadeland Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lawrence/174131-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 849 8301",
+    "sg:postcode":"46250",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818815,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gte44FKzLEMLrCDSbH6XK_39.889114_-86.046027@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601519,
+    "wof:geomhash":"231f761fb8bd32b6c50d6f17caf3f45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85818815,
+            "region_id":85688709,
+            "venue_id":806841341
+        }
+    ],
+    "wof:id":806841341,
+    "wof:lastmodified":1462601519,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85818815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.045505,
+    39.889525,
+    -86.045505,
+    39.889525
+],
+  "geometry": {"coordinates":[-86.04550500000001,39.889525],"type":"Point"}
+}

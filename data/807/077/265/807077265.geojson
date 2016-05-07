@@ -1,0 +1,88 @@
+{
+  "id": 807077265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.538934,39.179004,-86.538934,39.179004",
+    "geom:latitude":39.179004,
+    "geom:longitude":-86.538934,
+    "iso:country":"US",
+    "sg:address":"525 W 17th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 2882",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.theprepschool.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803503,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bAKIG1iNDw3AJy9zsDyuf_39.179004_-86.538934@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603512,
+    "wof:geomhash":"5b87b6491d4f8f8b230383994c37ea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85803503,
+            "region_id":85688709,
+            "venue_id":807077265
+        }
+    ],
+    "wof:id":807077265,
+    "wof:lastmodified":1462603512,
+    "wof:name":"The Prep School",
+    "wof:parent_id":85803503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -86.538934,
+    39.179004,
+    -86.538934,
+    39.179004
+],
+  "geometry": {"coordinates":[-86.538934,39.179004],"type":"Point"}
+}

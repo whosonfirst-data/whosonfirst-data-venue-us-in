@@ -1,0 +1,85 @@
+{
+  "id": 806843551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.058884,41.101379,-85.058884,41.101379",
+    "geom:latitude":41.101379,
+    "geom:longitude":-85.058884,
+    "iso:country":"US",
+    "sg:address":"6422 E State Blvd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/st-joseph/209038-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 493 2795",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtllks3AP4nv2MiNTxbvi_41.101140_-85.059111@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601553,
+    "wof:geomhash":"90892ba5109ef0de9dcb934fa35cf64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":806843551
+        }
+    ],
+    "wof:id":806843551,
+    "wof:lastmodified":1462601553,
+    "wof:name":"TCBY",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.058884,
+    41.101379,
+    -85.058884,
+    41.101379
+],
+  "geometry": {"coordinates":[-85.05888400000001,41.101379],"type":"Point"}
+}

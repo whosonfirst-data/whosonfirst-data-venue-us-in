@@ -1,0 +1,71 @@
+{
+  "id": 806601229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.075276,41.564584,-87.075276,41.564584",
+    "geom:latitude":41.564584,
+    "geom:longitude":-87.075276,
+    "iso:country":"US",
+    "sg:address":"47 W 900 N",
+    "sg:city":"Chesterton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 926 5215",
+    "sg:postcode":"46304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942375,
+        102087191,
+        85856849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JTeT3F6CiUmLaEvPY71bt_41.564584_-87.075276@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599501,
+    "wof:geomhash":"0fd3d7569a0f3e97b43ee683a1a78e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942375,
+            "neighbourhood_id":85856849,
+            "region_id":85688709,
+            "venue_id":806601229
+        }
+    ],
+    "wof:id":806601229,
+    "wof:lastmodified":1462599501,
+    "wof:name":"Liberty Twp Fire Dept",
+    "wof:parent_id":85856849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.075276,
+    41.564584,
+    -87.075276,
+    41.564584
+],
+  "geometry": {"coordinates":[-87.075276,41.564584],"type":"Point"}
+}

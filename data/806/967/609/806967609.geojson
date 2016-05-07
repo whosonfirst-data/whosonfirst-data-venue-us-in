@@ -1,0 +1,87 @@
+{
+  "id": 806967609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.138443,39.912579,-86.138443,39.912579",
+    "geom:latitude":39.912579,
+    "geom:longitude":-86.138443,
+    "iso:country":"US",
+    "sg:address":"1300 E 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 848 3466",
+    "sg:postcode":"46240",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ],
+    "sg:website":"http://www.greatclips.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837053,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72GML7ratXiD3p5GUD22s4_39.912579_-86.138443@1303262766"
+    },
+    "wof:country":"US",
+    "wof:created":1462602588,
+    "wof:geomhash":"de63a30a2cb0ff56c517f2f383e20faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85837053,
+            "region_id":85688709,
+            "venue_id":806967609
+        }
+    ],
+    "wof:id":806967609,
+    "wof:lastmodified":1462602588,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85837053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.138443,
+    39.912579,
+    -86.138443,
+    39.912579
+],
+  "geometry": {"coordinates":[-86.138443,39.912579],"type":"Point"}
+}

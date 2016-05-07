@@ -1,0 +1,78 @@
+{
+  "id": 806817581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.937476,41.648353,-85.937476,41.648353",
+    "geom:latitude":41.648353,
+    "geom:longitude":-85.937476,
+    "iso:country":"US",
+    "sg:address":"3441 S Main St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/concord/159623-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 294 6645",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QDjJicnUMH4lqrzyOi1vs_41.648353_-85.937476@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601322,
+    "wof:geomhash":"f420ccc1421640a5c779f36f7669f022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":806817581
+        }
+    ],
+    "wof:id":806817581,
+    "wof:lastmodified":1462601322,
+    "wof:name":"Arby's",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.937476,
+    41.648353,
+    -85.937476,
+    41.648353
+],
+  "geometry": {"coordinates":[-85.937476,41.648353],"type":"Point"}
+}

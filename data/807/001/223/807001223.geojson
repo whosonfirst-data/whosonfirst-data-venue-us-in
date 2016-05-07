@@ -1,0 +1,91 @@
+{
+  "id": 807001223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.157997,39.921938,-86.157997,39.921938",
+    "geom:latitude":39.921938,
+    "geom:longitude":-86.157997,
+    "iso:country":"US",
+    "sg:address":"9292 N Meridian St # 210",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 843 2204",
+    "sg:postcode":"46260",
+    "sg:province":"IN",
+    "sg:tags":[
+        "development",
+        "laboratories-research",
+        "laboratory",
+        "analytical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811743,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41hJPfa8UgowjUnDBkruDO_39.921938_-86.157997@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602870,
+    "wof:geomhash":"bdfc932ad2ccfd889f2eecba4f03e7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85811743,
+            "region_id":85688709,
+            "venue_id":807001223
+        }
+    ],
+    "wof:id":807001223,
+    "wof:lastmodified":1462602870,
+    "wof:name":"Dermatopathology",
+    "wof:parent_id":85811743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research",
+        "laboratory",
+        "analytical"
+    ]
+},
+  "bbox": [
+    -86.157997,
+    39.921938,
+    -86.157997,
+    39.921938
+],
+  "geometry": {"coordinates":[-86.15799699999999,39.921938],"type":"Point"}
+}

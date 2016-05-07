@@ -1,0 +1,73 @@
+{
+  "id": 790200291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.600562,40.486077,-85.600562,40.486077",
+    "geom:latitude":40.486077,
+    "geom:longitude":-85.600562,
+    "iso:country":"US",
+    "sg:address":"703 E South B St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 6385",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NsnBidSToN7dlp2F8VQj7_40.486077_-85.600562@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593960,
+    "wof:geomhash":"06cb6f7d4e46f63dbf14064157b7caae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":790200291
+        }
+    ],
+    "wof:id":790200291,
+    "wof:lastmodified":1462593960,
+    "wof:name":"S Ertle Lock & Security",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -85.600562,
+    40.486077,
+    -85.600562,
+    40.486077
+],
+  "geometry": {"coordinates":[-85.600562,40.486077],"type":"Point"}
+}

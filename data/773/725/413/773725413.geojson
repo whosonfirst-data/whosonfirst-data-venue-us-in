@@ -1,0 +1,71 @@
+{
+  "id": 773725413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.746692,41.413651,-85.746692,41.413651",
+    "geom:latitude":41.413651,
+    "geom:longitude":-85.746692,
+    "iso:country":"US",
+    "sg:address":"808 S Huntington St",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 457 8585",
+    "sg:postcode":"46567",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hU8oPi91gPR5m0swHsEGP_41.413651_-85.746692@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587913,
+    "wof:geomhash":"011e8573410005ec87a9f090efa2d97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":773725413
+        }
+    ],
+    "wof:id":773725413,
+    "wof:lastmodified":1462587913,
+    "wof:name":"Northern Lakes Family Medicine",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.746692,
+    41.413651,
+    -85.746692,
+    41.413651
+],
+  "geometry": {"coordinates":[-85.746692,41.413651],"type":"Point"}
+}

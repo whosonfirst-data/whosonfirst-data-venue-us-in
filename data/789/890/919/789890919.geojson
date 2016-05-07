@@ -1,0 +1,71 @@
+{
+  "id": 789890919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.49073,39.212769,-86.49073,39.212769",
+    "geom:latitude":39.212769,
+    "geom:longitude":-86.49073,
+    "iso:country":"US",
+    "sg:address":"3678 Greylock Ln",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 1805",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "tennis",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PiP2xH7eO2iyH9ODFJmLx_39.212769_-86.490730@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591377,
+    "wof:geomhash":"9a3fd744e2a460b38778ebe20642e80a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":789890919
+        }
+    ],
+    "wof:id":789890919,
+    "wof:lastmodified":1462591377,
+    "wof:name":"Russell Road Racket Club",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -86.49073,
+    39.212769,
+    -86.49073,
+    39.212769
+],
+  "geometry": {"coordinates":[-86.49073,39.212769],"type":"Point"}
+}

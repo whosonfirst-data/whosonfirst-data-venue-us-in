@@ -1,0 +1,78 @@
+{
+  "id": 806803959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.514125,39.760164,-86.514125,39.760164",
+    "geom:latitude":39.760164,
+    "geom:longitude":-86.514125,
+    "iso:country":"US",
+    "sg:address":"549 E Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/danville/155794-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 745 5716",
+    "sg:postcode":"46122",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DR6nRi76OQFhot06aKw4E_39.760164_-86.514125@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601220,
+    "wof:geomhash":"5f5e6fdf422abc5a772ff44fd03bf436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":806803959
+        }
+    ],
+    "wof:id":806803959,
+    "wof:lastmodified":1462601220,
+    "wof:name":"Hardee's",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.514125,
+    39.760164,
+    -86.514125,
+    39.760164
+],
+  "geometry": {"coordinates":[-86.51412500000001,39.760164],"type":"Point"}
+}

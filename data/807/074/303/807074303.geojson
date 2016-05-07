@@ -1,0 +1,75 @@
+{
+  "id": 807074303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4933,39.171522,-86.4933,39.171522",
+    "geom:latitude":39.171522,
+    "geom:longitude":-86.4933,
+    "iso:country":"US",
+    "sg:address":"3585 W State Road 45",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 337 0002",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V1LJEZnUjZpvshPMwa44d_39.171522_-86.493300@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603490,
+    "wof:geomhash":"97047bed2831cb97c39eb3e8c21a8810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":807074303
+        }
+    ],
+    "wof:id":807074303,
+    "wof:lastmodified":1462603490,
+    "wof:name":"Walmart",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.4933,
+    39.171522,
+    -86.4933,
+    39.171522
+],
+  "geometry": {"coordinates":[-86.4933,39.171522],"type":"Point"}
+}

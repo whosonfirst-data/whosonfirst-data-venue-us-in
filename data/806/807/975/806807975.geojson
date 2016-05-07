@@ -1,0 +1,78 @@
+{
+  "id": 806807975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.025664,39.772334,-86.025664,39.772334",
+    "geom:latitude":39.772334,
+    "geom:longitude":-86.025664,
+    "iso:country":"US",
+    "sg:address":"25 S Franklin Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/warren/159145-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 897 7470",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827165,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ACtCPzVG4GiyJW7qukxod_39.772334_-86.025664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601249,
+    "wof:geomhash":"4fa0d960f9ebf04e9ebe43309e205710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85827165,
+            "region_id":85688709,
+            "venue_id":806807975
+        }
+    ],
+    "wof:id":806807975,
+    "wof:lastmodified":1462601249,
+    "wof:name":"Arby's",
+    "wof:parent_id":85827165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.025664,
+    39.772334,
+    -86.025664,
+    39.772334
+],
+  "geometry": {"coordinates":[-86.02566400000001,39.772334],"type":"Point"}
+}

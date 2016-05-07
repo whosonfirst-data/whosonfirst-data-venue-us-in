@@ -1,0 +1,73 @@
+{
+  "id": 807072303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.6138,39.122898,-86.6138,39.122898",
+    "geom:latitude":39.122898,
+    "geom:longitude":-86.6138,
+    "iso:country":"US",
+    "sg:address":"4900 W State Road 45",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 825 2122",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jkkgkUpmtpHNn4PM9tQkH_39.122898_-86.613800@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603463,
+    "wof:geomhash":"8333f09f1fcfb04c825201de5da3baec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807072303
+        }
+    ],
+    "wof:id":807072303,
+    "wof:lastmodified":1462603463,
+    "wof:name":"Davis Paint and Body Shop",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.6138,
+    39.122898,
+    -86.6138,
+    39.122898
+],
+  "geometry": {"coordinates":[-86.6138,39.122898],"type":"Point"}
+}

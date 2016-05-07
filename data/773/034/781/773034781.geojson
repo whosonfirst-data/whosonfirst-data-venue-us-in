@@ -1,0 +1,71 @@
+{
+  "id": 773034781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.456378,39.214344,-86.456378,39.214344",
+    "geom:latitude":39.214344,
+    "geom:longitude":-86.456378,
+    "iso:country":"US",
+    "sg:address":"6015 E State Rd 45",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 334 9034",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tr5Y0sKv1RM49iKUUkzGn_39.214344_-86.456378@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582619,
+    "wof:geomhash":"b40e55fd1085f36b70c4039f76056bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":773034781
+        }
+    ],
+    "wof:id":773034781,
+    "wof:lastmodified":1462582619,
+    "wof:name":"Pritchard's Service Ctr",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.456378,
+    39.214344,
+    -86.456378,
+    39.214344
+],
+  "geometry": {"coordinates":[-86.456378,39.214344],"type":"Point"}
+}

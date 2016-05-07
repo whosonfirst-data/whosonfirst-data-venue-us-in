@@ -1,0 +1,73 @@
+{
+  "id": 789786935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.065874,41.112948,-85.065874,41.112948",
+    "geom:latitude":41.112948,
+    "geom:longitude":-85.065874,
+    "iso:country":"US",
+    "sg:address":"6130 Trier Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 485 4477",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55okxkoRR2vdf27dKcHFDv_41.112948_-85.065874@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590541,
+    "wof:geomhash":"2f86364dd01e30cb9f364a7eebfdbf96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":789786935
+        }
+    ],
+    "wof:id":789786935,
+    "wof:lastmodified":1462590541,
+    "wof:name":"First Care Family Physicians",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.065874,
+    41.112948,
+    -85.065874,
+    41.112948
+],
+  "geometry": {"coordinates":[-85.06587399999999,41.112948],"type":"Point"}
+}

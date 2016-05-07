@@ -1,0 +1,71 @@
+{
+  "id": 789780531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.022715,38.141363,-86.022715,38.141363",
+    "geom:latitude":38.141363,
+    "geom:longitude":-86.022715,
+    "iso:country":"US",
+    "sg:address":"5990 Needmore Ln SE",
+    "sg:city":"Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 968 3600",
+    "sg:postcode":"47117",
+    "sg:province":"IN",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z92Bd1eNVVhrk1Ur8tl5L_38.141363_-86.022715@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590483,
+    "wof:geomhash":"df21ec9c2da40ff4f2eee9fc7fbe8615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":789780531
+        }
+    ],
+    "wof:id":789780531,
+    "wof:lastmodified":1462590483,
+    "wof:name":"Dave's Painting",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.022715,
+    38.141363,
+    -86.022715,
+    38.141363
+],
+  "geometry": {"coordinates":[-86.02271500000001,38.141363],"type":"Point"}
+}

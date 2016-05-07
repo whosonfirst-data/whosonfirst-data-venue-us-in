@@ -1,0 +1,76 @@
+{
+  "id": 807027699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.508552,41.638475,-87.508552,41.638475",
+    "geom:latitude":41.638475,
+    "geom:longitude":-87.508552,
+    "iso:country":"US",
+    "sg:address":"4141 Calumet Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 937 9125",
+    "sg:postcode":"46320",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891107,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bOq4rxoXDi6rTkQRWx4L5_41.638475_-87.508552@1303262770"
+    },
+    "wof:country":"US",
+    "wof:created":1462603104,
+    "wof:geomhash":"95629c6ca07872088f6bad79531ee355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85891107,
+            "region_id":85688709,
+            "venue_id":807027699
+        }
+    ],
+    "wof:id":807027699,
+    "wof:lastmodified":1462603104,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85891107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -87.508552,
+    41.638475,
+    -87.508552,
+    41.638475
+],
+  "geometry": {"coordinates":[-87.50855199999999,41.638475],"type":"Point"}
+}

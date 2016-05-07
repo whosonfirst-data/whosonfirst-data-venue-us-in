@@ -1,0 +1,87 @@
+{
+  "id": 806846073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.487947,37.976939,-87.487947,37.976939",
+    "geom:latitude":37.976939,
+    "geom:longitude":-87.487947,
+    "iso:country":"US",
+    "sg:address":"5200 E Division St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/knight/161684-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 477 0034",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891111,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yHxTwnvZsdUJZALEHdP4r_37.977010_-87.487703@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601572,
+    "wof:geomhash":"6fd5b45afa8d190588266d8250f0b77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85891111,
+            "region_id":85688709,
+            "venue_id":806846073
+        }
+    ],
+    "wof:id":806846073,
+    "wof:lastmodified":1462601572,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85891111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -87.487947,
+    37.976939,
+    -87.487947,
+    37.976939
+],
+  "geometry": {"coordinates":[-87.48794700000001,37.976939],"type":"Point"}
+}

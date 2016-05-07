@@ -1,0 +1,83 @@
+{
+  "id": 806840067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.156202,39.76801,-86.156202,39.76801",
+    "geom:latitude":39.76801,
+    "geom:longitude":-86.156202,
+    "iso:country":"US",
+    "sg:address":"50 N Pennsylvania St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/indianapolis/253289-dicks-bodacious-bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 916 9600",
+    "sg:postcode":"46204",
+    "sg:province":"IN",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870631,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02HWuaa1JaWhM2w7ORMllK_39.768477_-86.156225@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601510,
+    "wof:geomhash":"0deed35a3b0fa5fbe701163cece5202e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870631,
+            "region_id":85688709,
+            "venue_id":806840067
+        }
+    ],
+    "wof:id":806840067,
+    "wof:lastmodified":1462601510,
+    "wof:name":"Dick's Bodacious Bar-b-q",
+    "wof:parent_id":85870631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.156202,
+    39.76801,
+    -86.156202,
+    39.76801
+],
+  "geometry": {"coordinates":[-86.15620199999999,39.76801],"type":"Point"}
+}

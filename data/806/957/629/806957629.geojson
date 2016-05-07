@@ -1,0 +1,88 @@
+{
+  "id": 806957629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.979566,39.696707,-85.979566,39.696707",
+    "geom:latitude":39.696707,
+    "geom:longitude":-85.979566,
+    "iso:country":"US",
+    "sg:address":"10515 E Thompson Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 862 8209",
+    "sg:postcode":"46239",
+    "sg:province":"IN",
+    "sg:tags":[
+        "town",
+        "planner",
+        "village",
+        "township",
+        "government-city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854439,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hGm9TJWbsV4X8TQIjsRSL_39.696707_-85.979566@1303262766"
+    },
+    "wof:country":"US",
+    "wof:created":1462602507,
+    "wof:geomhash":"350861121fc451d7e91b8c0c84a4defa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85854439,
+            "region_id":85688709,
+            "venue_id":806957629
+        }
+    ],
+    "wof:id":806957629,
+    "wof:lastmodified":1462602507,
+    "wof:name":"Marion County Fire Hse Stn 55",
+    "wof:parent_id":85854439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "planner",
+        "village",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [
+    -85.979566,
+    39.696707,
+    -85.979566,
+    39.696707
+],
+  "geometry": {"coordinates":[-85.97956600000001,39.696707],"type":"Point"}
+}

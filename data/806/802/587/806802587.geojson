@@ -1,0 +1,73 @@
+{
+  "id": 806802587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.487673,40.050734,-86.487673,40.050734",
+    "geom:latitude":40.050734,
+    "geom:longitude":-86.487673,
+    "iso:country":"US",
+    "sg:address":"120 S Sam Ralston Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/240907-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CgJjCeH9C0IQ4hdUpTbsC_40.050734_-86.487673@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601205,
+    "wof:geomhash":"7a25e9bf0e799b78932ec6c62a08834b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806802587
+        }
+    ],
+    "wof:id":806802587,
+    "wof:lastmodified":1462601205,
+    "wof:name":"White Castle",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.487673,
+    40.050734,
+    -86.487673,
+    40.050734
+],
+  "geometry": {"coordinates":[-86.487673,40.050734],"type":"Point"}
+}

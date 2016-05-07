@@ -1,0 +1,83 @@
+{
+  "id": 806725955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.161926,39.9361,-86.161926,39.9361",
+    "geom:latitude":39.9361,
+    "geom:longitude":-86.161926,
+    "iso:country":"US",
+    "sg:address":"200 W 103rd St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 278 5000",
+    "sg:postcode":"46290",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "pulmonary",
+        "disease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519597,
+        102191575,
+        404500691,
+        85633793,
+        85941329,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gb0cBW0rtVR76oc3k4BOf_39.935729_-86.161889@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600552,
+    "wof:geomhash":"3b43ec8e493a0d290a6a7910171e66b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500691,
+            "locality_id":85941329,
+            "neighbourhood_id":420519597,
+            "region_id":85688709,
+            "venue_id":806725955
+        }
+    ],
+    "wof:id":806725955,
+    "wof:lastmodified":1462600552,
+    "wof:name":"Indiana University Hematology",
+    "wof:parent_id":420519597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "pulmonary",
+        "disease"
+    ]
+},
+  "bbox": [
+    -86.161926,
+    39.9361,
+    -86.161926,
+    39.9361
+],
+  "geometry": {"coordinates":[-86.16192599999999,39.9361],"type":"Point"}
+}

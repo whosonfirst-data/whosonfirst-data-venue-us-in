@@ -1,0 +1,71 @@
+{
+  "id": 790569339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.406843,39.437667,-87.406843,39.437667",
+    "geom:latitude":39.437667,
+    "geom:longitude":-87.406843,
+    "iso:country":"US",
+    "sg:address":"2701 S 7th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 1111",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yvOkUn7AFMv7nXXSPKbdm_39.437667_-87.406843@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596956,
+    "wof:geomhash":"5b952dfcac15f9748bfcde8b520d41e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":790569339
+        }
+    ],
+    "wof:id":790569339,
+    "wof:lastmodified":1462596956,
+    "wof:name":"Petcare Animal Hospital",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.406843,
+    39.437667,
+    -87.406843,
+    39.437667
+],
+  "geometry": {"coordinates":[-87.40684299999999,39.437667],"type":"Point"}
+}

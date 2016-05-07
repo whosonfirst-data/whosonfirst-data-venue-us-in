@@ -1,0 +1,75 @@
+{
+  "id": 789663985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.370895,39.712591,-86.370895,39.712591",
+    "geom:latitude":39.712591,
+    "geom:longitude":-86.370895,
+    "iso:country":"US",
+    "sg:address":"2324 E Main St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 8154",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807409,
+        102191575,
+        404500783,
+        85633793,
+        85941489,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pM0e1Y5SdePNQlAVPtTkP_39.712591_-86.370895@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589585,
+    "wof:geomhash":"a34bf6132570b25c32b74f0b641f91fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500783,
+            "locality_id":85941489,
+            "neighbourhood_id":85807409,
+            "region_id":85688709,
+            "venue_id":789663985
+        }
+    ],
+    "wof:id":789663985,
+    "wof:lastmodified":1462589585,
+    "wof:name":"Animal Clinic Of Plainfield",
+    "wof:parent_id":85807409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.370895,
+    39.712591,
+    -86.370895,
+    39.712591
+],
+  "geometry": {"coordinates":[-86.370895,39.712591],"type":"Point"}
+}

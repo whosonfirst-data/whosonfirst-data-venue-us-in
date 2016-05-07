@@ -1,0 +1,71 @@
+{
+  "id": 789714487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.784897,38.373979,-85.784897,38.373979",
+    "geom:latitude":38.373979,
+    "geom:longitude":-85.784897,
+    "iso:country":"US",
+    "sg:address":"1014 Chapel Creek Trl",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 948 0095",
+    "sg:postcode":"47150",
+    "sg:province":"IN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942489,
+        102087137,
+        85846703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d1ZSnxOAQ1ykZtvLJteND_38.373979_-85.784897@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589970,
+    "wof:geomhash":"79bc1985d80c700a36fb3f36081832aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087137,
+            "locality_id":85942489,
+            "neighbourhood_id":85846703,
+            "region_id":85688709,
+            "venue_id":789714487
+        }
+    ],
+    "wof:id":789714487,
+    "wof:lastmodified":1462589970,
+    "wof:name":"Underwriters Laboratories",
+    "wof:parent_id":85846703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.784897,
+    38.373979,
+    -85.784897,
+    38.373979
+],
+  "geometry": {"coordinates":[-85.784897,38.373979],"type":"Point"}
+}

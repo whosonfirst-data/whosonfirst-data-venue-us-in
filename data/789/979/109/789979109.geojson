@@ -1,0 +1,71 @@
+{
+  "id": 789979109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.131923,39.673439,-85.131923,39.673439",
+    "geom:latitude":39.673439,
+    "geom:longitude":-85.131923,
+    "iso:country":"US",
+    "sg:address":"3036 Virginia Ave",
+    "sg:city":"Connersville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 825 7508",
+    "sg:postcode":"47331",
+    "sg:province":"IN",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826399,
+        102086457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOCqELY702BIsIjZC4QFE_39.673439_-85.131923@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592159,
+    "wof:geomhash":"83ffa3ae5a8e7685c3b1250848c5cda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086457,
+            "neighbourhood_id":85826399,
+            "region_id":85688709,
+            "venue_id":789979109
+        }
+    ],
+    "wof:id":789979109,
+    "wof:lastmodified":1462592159,
+    "wof:name":"American Rental",
+    "wof:parent_id":85826399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -85.131923,
+    39.673439,
+    -85.131923,
+    39.673439
+],
+  "geometry": {"coordinates":[-85.131923,39.673439],"type":"Point"}
+}

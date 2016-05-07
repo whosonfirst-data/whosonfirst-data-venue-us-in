@@ -1,0 +1,85 @@
+{
+  "id": 807082867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.526604,39.171799,-86.526604,39.171799",
+    "geom:latitude":39.171799,
+    "geom:longitude":-86.526604,
+    "iso:country":"US",
+    "sg:address":"601 E 10th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 9003",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SYejMYu8O5FSHxWvnTGFZ_39.171799_-86.526604@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603557,
+    "wof:geomhash":"7bddf320fce5a0bc8b532b01b214d161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807082867
+        }
+    ],
+    "wof:id":807082867,
+    "wof:lastmodified":1462603557,
+    "wof:name":"Pritchard's Wrecker Service",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -86.526604,
+    39.171799,
+    -86.526604,
+    39.171799
+],
+  "geometry": {"coordinates":[-86.52660400000001,39.171799],"type":"Point"}
+}

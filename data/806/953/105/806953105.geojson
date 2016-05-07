@@ -1,0 +1,87 @@
+{
+  "id": 806953105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.991257,39.855686,-85.991257,39.855686",
+    "geom:latitude":39.855686,
+    "geom:longitude":-85.991257,
+    "iso:country":"US",
+    "sg:address":"10042 E 56th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 823 7621",
+    "sg:postcode":"46236",
+    "sg:province":"IN",
+    "sg:tags":[
+        "course",
+        "courses-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852657,
+        102191575,
+        404501889,
+        85633793,
+        85942567,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d7bcpBxi6QDCaQi6hIOIu_39.855686_-85.991257@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602470,
+    "wof:geomhash":"2ed34133cf36241fe9edd94816fbfc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501889,
+            "locality_id":85942567,
+            "neighbourhood_id":85852657,
+            "region_id":85688709,
+            "venue_id":806953105
+        }
+    ],
+    "wof:id":806953105,
+    "wof:lastmodified":1462602470,
+    "wof:name":"Winding Ridge Golf Club",
+    "wof:parent_id":85852657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "courses-private"
+    ]
+},
+  "bbox": [
+    -85.991257,
+    39.855686,
+    -85.991257,
+    39.855686
+],
+  "geometry": {"coordinates":[-85.991257,39.855686],"type":"Point"}
+}

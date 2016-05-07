@@ -1,0 +1,73 @@
+{
+  "id": 773385253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.414304,39.454469,-87.414304,39.454469",
+    "geom:latitude":39.454469,
+    "geom:longitude":-87.414304,
+    "iso:country":"US",
+    "sg:address":"255 Cruft St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 478 3790",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UP1kOcIekL0ImQVkS2vId_39.454469_-87.414304@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585291,
+    "wof:geomhash":"766e09c93ec0bb838127af4210f44103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":773385253
+        }
+    ],
+    "wof:id":773385253,
+    "wof:lastmodified":1462585291,
+    "wof:name":"Stephens Enterprises",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.414304,
+    39.454469,
+    -87.414304,
+    39.454469
+],
+  "geometry": {"coordinates":[-87.414304,39.454469],"type":"Point"}
+}

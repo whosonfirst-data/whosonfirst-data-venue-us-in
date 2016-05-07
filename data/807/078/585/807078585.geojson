@@ -1,0 +1,72 @@
+{
+  "id": 807078585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.604301,39.220299,-86.604301,39.220299",
+    "geom:latitude":39.220299,
+    "geom:longitude":-86.604301,
+    "iso:country":"US",
+    "sg:address":"5685 W State Road 46",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 876 8650",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.rickscollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45inLEKGwsBtF9oQ2GP7gw_39.220299_-86.604301@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603522,
+    "wof:geomhash":"61f8d7a46cc02642f0822e30f618f6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":807078585
+        }
+    ],
+    "wof:id":807078585,
+    "wof:lastmodified":1462603522,
+    "wof:name":"Rick's Collision Center",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.604301,
+    39.220299,
+    -86.604301,
+    39.220299
+],
+  "geometry": {"coordinates":[-86.60430100000001,39.220299],"type":"Point"}
+}

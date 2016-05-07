@@ -1,0 +1,85 @@
+{
+  "id": 806903087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.06362,39.753021,-86.06362,39.753021",
+    "geom:latitude":39.753021,
+    "geom:longitude":-86.06362,
+    "iso:country":"US",
+    "sg:address":"1637 Prospect St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 636 3466",
+    "sg:postcode":"46203",
+    "sg:province":"IN",
+    "sg:tags":[
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827099,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49mBxAEMAD6TJXBI5JSm6I_39.753021_-86.063620@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602032,
+    "wof:geomhash":"1f83138e2e5f4dcb2e3dc2a75a5df1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85827099,
+            "region_id":85688709,
+            "venue_id":806903087
+        }
+    ],
+    "wof:id":806903087,
+    "wof:lastmodified":1462602032,
+    "wof:name":"Fletcher Place Community Center",
+    "wof:parent_id":85827099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -86.06362,
+    39.753021,
+    -86.06362,
+    39.753021
+],
+  "geometry": {"coordinates":[-86.06362,39.753021],"type":"Point"}
+}

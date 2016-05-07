@@ -1,0 +1,70 @@
+{
+  "id": 806731075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.496002,39.164299,-86.496002,39.164299",
+    "geom:latitude":39.164299,
+    "geom:longitude":-86.496002,
+    "iso:country":"US",
+    "sg:address":"2813 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 331 0669",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.barnesandnoble.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uUYnOfJl6Z76aTO5sZwlT_39.164291_-86.496558@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600595,
+    "wof:geomhash":"b30aa592cfd1dc93cc6f4abe018df15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":806731075
+        }
+    ],
+    "wof:id":806731075,
+    "wof:lastmodified":1462600595,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -86.496002,
+    39.164299,
+    -86.496002,
+    39.164299
+],
+  "geometry": {"coordinates":[-86.496002,39.164299],"type":"Point"}
+}

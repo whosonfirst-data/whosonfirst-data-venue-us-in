@@ -1,0 +1,75 @@
+{
+  "id": 807069847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.498917,39.164169,-86.498917,39.164169",
+    "geom:latitude":39.164169,
+    "geom:longitude":-86.498917,
+    "iso:country":"US",
+    "sg:address":"2650 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 1702",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hC03LYQiPeRBMgXieXuDg_39.164169_-86.498917@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603444,
+    "wof:geomhash":"b1b0b5eb759f19c89b40634f1484918a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":807069847
+        }
+    ],
+    "wof:id":807069847,
+    "wof:lastmodified":1462603444,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -86.498917,
+    39.164169,
+    -86.498917,
+    39.164169
+],
+  "geometry": {"coordinates":[-86.49891700000001,39.164169],"type":"Point"}
+}

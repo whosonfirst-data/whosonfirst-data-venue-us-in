@@ -1,0 +1,73 @@
+{
+  "id": 773000045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58828,40.219004,-85.58828,40.219004",
+    "geom:latitude":40.219004,
+    "geom:longitude":-85.58828,
+    "iso:country":"US",
+    "sg:address":"4915 Co Rd 800 N",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3809",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JM2AfVKha0eQMFqTbaIuH_40.219004_-85.588280@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582108,
+    "wof:geomhash":"d70496498d90c251e5dd83f3223a509f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":773000045
+        }
+    ],
+    "wof:id":773000045,
+    "wof:lastmodified":1462582108,
+    "wof:name":"Indiana Well Supply Inc",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.58828,
+    40.219004,
+    -85.58828,
+    40.219004
+],
+  "geometry": {"coordinates":[-85.58828,40.219004],"type":"Point"}
+}

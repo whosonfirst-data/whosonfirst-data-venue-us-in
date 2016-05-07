@@ -1,0 +1,75 @@
+{
+  "id": 789723589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633015,40.480446,-85.633015,40.480446",
+    "geom:latitude":40.480446,
+    "geom:longitude":-85.633015,
+    "iso:country":"US",
+    "sg:address":"511 W 6th St",
+    "sg:city":"Jonesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 6708",
+    "sg:postcode":"46938",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eWdu0kKzSPE0QVwySrIPj_40.480446_-85.633015@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590055,
+    "wof:geomhash":"9b346c26cd67acd3a73b6c89d1adc8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":789723589
+        }
+    ],
+    "wof:id":789723589,
+    "wof:lastmodified":1462590055,
+    "wof:name":"Fred Miller Body Shop",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.633015,
+    40.480446,
+    -85.633015,
+    40.480446
+],
+  "geometry": {"coordinates":[-85.633015,40.480446],"type":"Point"}
+}

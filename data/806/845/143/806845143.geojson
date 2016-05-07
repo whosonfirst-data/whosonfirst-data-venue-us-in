@@ -1,0 +1,78 @@
+{
+  "id": 806845143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533423,39.167833,-86.533423,39.167833",
+    "geom:latitude":39.167833,
+    "geom:longitude":-86.533423,
+    "iso:country":"US",
+    "sg:address":"222 N Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/bloomington/248272-rockits-famous-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 7625",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YKqM90GjSvL3jkUtBs5Ch_39.168325_-86.533513@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601565,
+    "wof:geomhash":"87890043128ed93f9365bd17296f98ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":806845143
+        }
+    ],
+    "wof:id":806845143,
+    "wof:lastmodified":1462601565,
+    "wof:name":"Rockit's Famous Pizza",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.533423,
+    39.167833,
+    -86.533423,
+    39.167833
+],
+  "geometry": {"coordinates":[-86.533423,39.167833],"type":"Point"}
+}

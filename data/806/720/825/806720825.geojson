@@ -1,0 +1,73 @@
+{
+  "id": 806720825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.382261,40.157396,-85.382261,40.157396",
+    "geom:latitude":40.157396,
+    "geom:longitude":-85.382261,
+    "iso:country":"US",
+    "sg:address":"3720 S Madison St",
+    "sg:city":"Muncie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 288 1971",
+    "sg:postcode":"47302",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941463,
+        102087155,
+        85827089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZXn3glncxPPmZP3qJseo_40.157396_-85.382261@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600508,
+    "wof:geomhash":"b07dd22d42548ff40c0b7c078fc26cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087155,
+            "locality_id":85941463,
+            "neighbourhood_id":85827089,
+            "region_id":85688709,
+            "venue_id":806720825
+        }
+    ],
+    "wof:id":806720825,
+    "wof:lastmodified":1462600508,
+    "wof:name":"Muncie Transit Supply",
+    "wof:parent_id":85827089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.382261,
+    40.157396,
+    -85.382261,
+    40.157396
+],
+  "geometry": {"coordinates":[-85.382261,40.157396],"type":"Point"}
+}

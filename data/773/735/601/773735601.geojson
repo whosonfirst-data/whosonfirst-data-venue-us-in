@@ -1,0 +1,73 @@
+{
+  "id": 773735601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729918,39.998819,-85.729918,39.998819",
+    "geom:latitude":39.998819,
+    "geom:longitude":-85.729918,
+    "iso:country":"US",
+    "sg:address":"7335 S 300 W",
+    "sg:city":"Pendleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 778 3194",
+    "sg:postcode":"46064",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f3KxjkSSQcLHfH32IW53L_39.998819_-85.729918@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587991,
+    "wof:geomhash":"5665d50784955cfc7a228465f9c0ac96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":773735601
+        }
+    ],
+    "wof:id":773735601,
+    "wof:lastmodified":1462587991,
+    "wof:name":"Steve's Auto Care",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.729918,
+    39.998819,
+    -85.729918,
+    39.998819
+],
+  "geometry": {"coordinates":[-85.729918,39.998819],"type":"Point"}
+}

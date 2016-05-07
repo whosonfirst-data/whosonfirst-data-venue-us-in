@@ -1,0 +1,84 @@
+{
+  "id": 806745031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.53117,39.121311,-86.53117,39.121311",
+    "geom:latitude":39.121311,
+    "geom:longitude":-86.53117,
+    "iso:country":"US",
+    "sg:address":"4019 S Old State Road 37",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 824 4000",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cq1lhvZDdw5iXdfdUzsKy_39.121411_-86.531343@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600723,
+    "wof:geomhash":"95e6d25a8fe1c3751790fdc186321fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":806745031
+        }
+    ],
+    "wof:id":806745031,
+    "wof:lastmodified":1462600723,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.53117,
+    39.121311,
+    -86.53117,
+    39.121311
+],
+  "geometry": {"coordinates":[-86.53117,39.121311],"type":"Point"}
+}

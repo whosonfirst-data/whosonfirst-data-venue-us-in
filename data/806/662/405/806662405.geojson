@@ -1,0 +1,73 @@
+{
+  "id": 806662405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.112592,38.267687,-86.112592,38.267687",
+    "geom:latitude":38.267687,
+    "geom:longitude":-86.112592,
+    "iso:country":"US",
+    "sg:address":"4590 Hwy 135 NE",
+    "sg:city":"Corydon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 738 4816",
+    "sg:postcode":"47112",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51apZOM8oXnsNoNSPAUpdW_38.267687_-86.112592@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600021,
+    "wof:geomhash":"c7b1dc7888cc0831312b8cbffe8ca552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":806662405
+        }
+    ],
+    "wof:id":806662405,
+    "wof:lastmodified":1462600021,
+    "wof:name":"Rick's Service Ctr",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.112592,
+    38.267687,
+    -86.112592,
+    38.267687
+],
+  "geometry": {"coordinates":[-86.11259200000001,38.267687],"type":"Point"}
+}

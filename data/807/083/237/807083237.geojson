@@ -1,0 +1,85 @@
+{
+  "id": 807083237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.52784,39.166533,-86.52784,39.166533",
+    "geom:latitude":39.166533,
+    "geom:longitude":-86.52784,
+    "iso:country":"US",
+    "sg:address":"530 E Kirkwood Ave Unit 105",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 355 3500",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "greek",
+        "sandwich",
+        "mediterranean"
+    ],
+    "sg:website":"www.pitapitusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DS8rVY1RHvay9ZupY6wPg_39.166533_-86.527840@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603560,
+    "wof:geomhash":"e7a367461f34bbcaa6946cb40644c498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807083237
+        }
+    ],
+    "wof:id":807083237,
+    "wof:lastmodified":1462603560,
+    "wof:name":"Pita Pit",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greek",
+        "sandwich",
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -86.52784,
+    39.166533,
+    -86.52784,
+    39.166533
+],
+  "geometry": {"coordinates":[-86.52784,39.166533],"type":"Point"}
+}

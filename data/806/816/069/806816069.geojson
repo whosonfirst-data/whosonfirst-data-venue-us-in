@@ -1,0 +1,78 @@
+{
+  "id": 806816069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.403452,41.573465,-87.403452,41.573465",
+    "geom:latitude":41.573465,
+    "geom:longitude":-87.403452,
+    "iso:country":"US",
+    "sg:address":"2501 Burr St",
+    "sg:city":"Gary",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/calumet/120082-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 291 844 4161",
+    "sg:postcode":"46406",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806281,
+        102191575,
+        404501857,
+        85633793,
+        85941813,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y1kjiAplFlhmKggXhotzV_41.573465_-87.403452@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601311,
+    "wof:geomhash":"916ad1847585a22573e58057b8eab4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
+            "neighbourhood_id":85806281,
+            "region_id":85688709,
+            "venue_id":806816069
+        }
+    ],
+    "wof:id":806816069,
+    "wof:lastmodified":1462601311,
+    "wof:name":"Subway",
+    "wof:parent_id":85806281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.403452,
+    41.573465,
+    -87.403452,
+    41.573465
+],
+  "geometry": {"coordinates":[-87.403452,41.573465],"type":"Point"}
+}

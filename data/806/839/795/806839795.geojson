@@ -1,0 +1,80 @@
+{
+  "id": 806839795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.108714,39.768434,-86.108714,39.768434",
+    "geom:latitude":39.768434,
+    "geom:longitude":-86.108714,
+    "iso:country":"US",
+    "sg:address":"3323 E Washington St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/indianapolis/174109-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 9152",
+    "sg:postcode":"46201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870659,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lhJYqe18uXKsiEtOqtGwD_39.768796_-86.108593@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601508,
+    "wof:geomhash":"6b5ed824095b3b7d61faae55415b46ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870659,
+            "region_id":85688709,
+            "venue_id":806839795
+        }
+    ],
+    "wof:id":806839795,
+    "wof:lastmodified":1462601508,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85870659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.108714,
+    39.768434,
+    -86.108714,
+    39.768434
+],
+  "geometry": {"coordinates":[-86.10871400000001,39.768434],"type":"Point"}
+}

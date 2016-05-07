@@ -1,0 +1,98 @@
+{
+  "id": 806881189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.160213,40.021302,-86.160213,40.021302",
+    "geom:latitude":40.021302,
+    "geom:longitude":-86.160213,
+    "iso:country":"US",
+    "sg:address":"150 W 161st St",
+    "sg:city":"Westfield",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 867 6314",
+    "sg:postcode":"46074",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sandwich",
+        "drugstore"
+    ],
+    "sg:website":"www.kroger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519493,
+        102191575,
+        404500867,
+        85633793,
+        85941341,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_687TXJtRq9UqMv04RkXOXk_40.021302_-86.160213@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601865,
+    "wof:geomhash":"a86e41dc883fba0748fe3895f3e86c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500867,
+            "locality_id":85941341,
+            "neighbourhood_id":420519493,
+            "region_id":85688709,
+            "venue_id":806881189
+        }
+    ],
+    "wof:id":806881189,
+    "wof:lastmodified":1462601865,
+    "wof:name":"Kroger",
+    "wof:parent_id":420519493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -86.160213,
+    40.021302,
+    -86.160213,
+    40.021302
+],
+  "geometry": {"coordinates":[-86.160213,40.021302],"type":"Point"}
+}

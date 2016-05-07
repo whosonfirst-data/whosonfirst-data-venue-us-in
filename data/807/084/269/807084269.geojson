@@ -1,0 +1,86 @@
+{
+  "id": 807084269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.502899,39.171398,-86.502899,39.171398",
+    "geom:latitude":39.171398,
+    "geom:longitude":-86.502899,
+    "iso:country":"US",
+    "sg:address":"2620 E 10th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 7226",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "equipment",
+        "lighting",
+        "fixture",
+        "store"
+    ],
+    "sg:website":"www.scandinavian-imports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15iaTW8cMj5wKGtwwNzPcA_39.171398_-86.502899@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603568,
+    "wof:geomhash":"bc782dff2fca38ca38b5629a8ec9f2d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":807084269
+        }
+    ],
+    "wof:id":807084269,
+    "wof:lastmodified":1462603568,
+    "wof:name":"Scandinavian Imports",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting",
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    -86.502899,
+    39.171398,
+    -86.502899,
+    39.171398
+],
+  "geometry": {"coordinates":[-86.502899,39.171398],"type":"Point"}
+}

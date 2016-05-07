@@ -1,0 +1,73 @@
+{
+  "id": 806679627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.410673,39.487712,-87.410673,39.487712",
+    "geom:latitude":39.487712,
+    "geom:longitude":-87.410673,
+    "iso:country":"US",
+    "sg:address":"1801 N 6th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 242 1000",
+    "sg:postcode":"47804",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NCvjCJwR6poreJgjPFyaz_39.487712_-87.410673@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600168,
+    "wof:geomhash":"3c135c3f790579d6d3e1db6bdc7d5946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":806679627
+        }
+    ],
+    "wof:id":806679627,
+    "wof:lastmodified":1462600168,
+    "wof:name":"A P & S Ctr For Better Sleep",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.410673,
+    39.487712,
+    -87.410673,
+    39.487712
+],
+  "geometry": {"coordinates":[-87.410673,39.487712],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 806805073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.158373,39.610259,-86.158373,39.610259",
+    "geom:latitude":39.610259,
+    "geom:longitude":-86.158373,
+    "iso:country":"US",
+    "sg:address":"255b S State Road 135",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/white-river/90057-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 865 7366",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23QROW78OpwJXtnhN6bLc1_39.610259_-86.158373@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601228,
+    "wof:geomhash":"875b3c46626e475af126bec09eb647db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":806805073
+        }
+    ],
+    "wof:id":806805073,
+    "wof:lastmodified":1462601228,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.158373,
+    39.610259,
+    -86.158373,
+    39.610259
+],
+  "geometry": {"coordinates":[-86.158373,39.610259],"type":"Point"}
+}

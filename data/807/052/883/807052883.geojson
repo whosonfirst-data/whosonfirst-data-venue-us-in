@@ -1,0 +1,89 @@
+{
+  "id": 807052883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.97718,41.735329,-85.97718,41.735329",
+    "geom:latitude":41.735329,
+    "geom:longitude":-85.97718,
+    "iso:country":"US",
+    "sg:address":"3267 Northview Dr",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 264 6505",
+    "sg:postcode":"46514",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i22bTlzRgTZLi4zfn7Pks_41.735329_-85.977180@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603309,
+    "wof:geomhash":"0b1043074886eab85b6ce2017049541e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":807052883
+        }
+    ],
+    "wof:id":807052883,
+    "wof:lastmodified":1462603309,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -85.97718,
+    41.735329,
+    -85.97718,
+    41.735329
+],
+  "geometry": {"coordinates":[-85.97718,41.735329],"type":"Point"}
+}

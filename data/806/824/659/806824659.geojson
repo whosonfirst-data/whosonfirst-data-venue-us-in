@@ -1,0 +1,72 @@
+{
+  "id": 806824659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01405,41.13146,-85.01405,41.13146",
+    "geom:latitude":41.13146,
+    "geom:longitude":-85.01405,
+    "iso:country":"US",
+    "sg:address":"5135 Meijer Dr",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/st-joseph/42090-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 492 2035",
+    "sg:postcode":"46835",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gavDDFWOJrNvspvuqfc9g_41.131460_-85.014050@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601381,
+    "wof:geomhash":"af71c66cf5d7a4ccca901a67d1a1a0ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":806824659
+        }
+    ],
+    "wof:id":806824659,
+    "wof:lastmodified":1462601381,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.01405,
+    41.13146,
+    -85.01405,
+    41.13146
+],
+  "geometry": {"coordinates":[-85.01405,41.13146],"type":"Point"}
+}

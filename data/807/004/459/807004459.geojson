@@ -1,0 +1,87 @@
+{
+  "id": 807004459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.230961,39.911651,-86.230961,39.911651",
+    "geom:latitude":39.911651,
+    "geom:longitude":-86.230961,
+    "iso:country":"US",
+    "sg:address":"4030 W 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 532 0006",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ],
+    "sg:website":"http://ad.doubleclick.net/clk;226007916;49913701;g?http://www.vcahospitals.com/main/offer?utm_source=iyp&utm_medium=iyp&utm_campaign=yellowpages",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891097,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LUoRh9LwN1ZKN0XHdV4wG_39.911651_-86.230961@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602894,
+    "wof:geomhash":"c0018aebc93f23054b80a81e54831f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891097,
+            "region_id":85688709,
+            "venue_id":807004459
+        }
+    ],
+    "wof:id":807004459,
+    "wof:lastmodified":1462602894,
+    "wof:name":"VCA West 86th St. Animal Hospital",
+    "wof:parent_id":85891097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.230961,
+    39.911651,
+    -86.230961,
+    39.911651
+],
+  "geometry": {"coordinates":[-86.23096099999999,39.911651],"type":"Point"}
+}

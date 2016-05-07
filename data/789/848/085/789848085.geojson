@@ -1,0 +1,82 @@
+{
+  "id": 789848085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.295796,39.403302,-87.295796,39.403302",
+    "geom:latitude":39.403302,
+    "geom:longitude":-87.295796,
+    "iso:country":"US",
+    "sg:address":"5200 S Frye St",
+    "sg:city":"Riley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 894 0103",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "contractor",
+        "sewer",
+        "system",
+        "sewerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e7fA9rtm9O9qgrO0yMKyd_39.403302_-87.295796@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591014,
+    "wof:geomhash":"532e0088d2b922925e00c63e660b228a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":789848085
+        }
+    ],
+    "wof:id":789848085,
+    "wof:lastmodified":1462591014,
+    "wof:name":"Riley Sewer Disposal",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "sewer",
+        "system",
+        "sewerage"
+    ]
+},
+  "bbox": [
+    -87.295796,
+    39.403302,
+    -87.295796,
+    39.403302
+],
+  "geometry": {"coordinates":[-87.295796,39.403302],"type":"Point"}
+}

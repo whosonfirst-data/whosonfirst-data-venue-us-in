@@ -1,0 +1,71 @@
+{
+  "id": 773601375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.896704,41.585461,-86.896704,41.585461",
+    "geom:latitude":41.585461,
+    "geom:longitude":-86.896704,
+    "iso:country":"US",
+    "sg:address":"1645 S US Hwy 421",
+    "sg:city":"Westville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 785 7300",
+    "sg:postcode":"46391",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941911,
+        102086409,
+        85891173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10gjWRdiJzZJdMVEBqIpdu_41.585461_-86.896704@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586951,
+    "wof:geomhash":"b1bbe1b4847b1ae8eb7e2cd5b89e84bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941911,
+            "neighbourhood_id":85891173,
+            "region_id":85688709,
+            "venue_id":773601375
+        }
+    ],
+    "wof:id":773601375,
+    "wof:lastmodified":1462586951,
+    "wof:name":"North Central Veterinarian",
+    "wof:parent_id":85891173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.896704,
+    41.585461,
+    -86.896704,
+    41.585461
+],
+  "geometry": {"coordinates":[-86.896704,41.585461],"type":"Point"}
+}

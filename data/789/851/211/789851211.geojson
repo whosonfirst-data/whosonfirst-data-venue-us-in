@@ -1,0 +1,71 @@
+{
+  "id": 789851211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.876508,38.958189,-85.876508,38.958189",
+    "geom:latitude":38.958189,
+    "geom:longitude":-85.876508,
+    "iso:country":"US",
+    "sg:address":"905 E Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 5060",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OCboDjNu0OAaNseMgf6qu_38.958189_-85.876508@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591036,
+    "wof:geomhash":"9b9b4c052f56c75100e9e682313557f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":789851211
+        }
+    ],
+    "wof:id":789851211,
+    "wof:lastmodified":1462591036,
+    "wof:name":"South Central Realty",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.876508,
+    38.958189,
+    -85.876508,
+    38.958189
+],
+  "geometry": {"coordinates":[-85.876508,38.958189],"type":"Point"}
+}

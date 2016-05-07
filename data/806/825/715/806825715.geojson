@@ -1,0 +1,73 @@
+{
+  "id": 806825715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.548207,40.553984,-85.548207,40.553984",
+    "geom:latitude":40.553984,
+    "geom:longitude":-85.548207,
+    "iso:country":"US",
+    "sg:address":"253 Tippy Ditch Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/monroe/186473-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hvO1ZFhBfZFQztip1GxYV_40.553984_-85.548207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601389,
+    "wof:geomhash":"67b271990bcb2864feb6f57f5d100ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":806825715
+        }
+    ],
+    "wof:id":806825715,
+    "wof:lastmodified":1462601389,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.548207,
+    40.553984,
+    -85.548207,
+    40.553984
+],
+  "geometry": {"coordinates":[-85.548207,40.553984],"type":"Point"}
+}

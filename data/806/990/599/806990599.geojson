@@ -1,0 +1,91 @@
+{
+  "id": 806990599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.995144,39.899136,-85.995144,39.899136",
+    "geom:latitude":39.899136,
+    "geom:longitude":-85.995144,
+    "iso:country":"US",
+    "sg:address":"9833 Fall Creek Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 849 3011",
+    "sg:postcode":"46256",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818857,
+        102191575,
+        404501889,
+        85633793,
+        85942567,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31uDrV640XZ1NvtmT1l177_39.899136_-85.995144@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602779,
+    "wof:geomhash":"177847e93235119dbb8721a97590f5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501889,
+            "locality_id":85942567,
+            "neighbourhood_id":85818857,
+            "region_id":85688709,
+            "venue_id":806990599
+        }
+    ],
+    "wof:id":806990599,
+    "wof:lastmodified":1462602779,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85818857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.995144,
+    39.899136,
+    -85.995144,
+    39.899136
+],
+  "geometry": {"coordinates":[-85.995144,39.899136],"type":"Point"}
+}

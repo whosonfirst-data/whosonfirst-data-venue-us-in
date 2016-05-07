@@ -1,0 +1,71 @@
+{
+  "id": 789799871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.855292,41.234104,-85.855292,41.234104",
+    "geom:latitude":41.234104,
+    "geom:longitude":-85.855292,
+    "iso:country":"US",
+    "sg:address":"209 E Smith St",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 453 4421",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZrZeuS8Im0JxHpmQRf2Wo_41.234104_-85.855292@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590640,
+    "wof:geomhash":"db69da5639f814e327ea06629764ece6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":789799871
+        }
+    ],
+    "wof:id":789799871,
+    "wof:lastmodified":1462590640,
+    "wof:name":"Leesburg Grain Elevator Co",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -85.855292,
+    41.234104,
+    -85.855292,
+    41.234104
+],
+  "geometry": {"coordinates":[-85.85529200000001,41.234104],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 790372325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.492688,37.962389,-87.492688,37.962389",
+    "geom:latitude":37.962389,
+    "geom:longitude":-87.492688,
+    "iso:country":"US",
+    "sg:address":"800 S Green River Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 476 3426",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877295,
+        85877313,
+        102191575,
+        404502161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SyE4CvMzA0ugl7Run05uX_37.962389_-87.492688@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595325,
+    "wof:geomhash":"cf8fc2e62c1a65ba5186b733ec45595c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877295,
+            "region_id":85688709,
+            "venue_id":790372325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877313,
+            "region_id":85688709,
+            "venue_id":790372325
+        }
+    ],
+    "wof:id":790372325,
+    "wof:lastmodified":1462595325,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.492688,
+    37.962389,
+    -87.492688,
+    37.962389
+],
+  "geometry": {"coordinates":[-87.492688,37.962389],"type":"Point"}
+}

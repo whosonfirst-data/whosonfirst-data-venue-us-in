@@ -1,0 +1,76 @@
+{
+  "id": 806838141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.866638,40.367296,-86.866638,40.367296",
+    "geom:latitude":40.367296,
+    "geom:longitude":-86.866638,
+    "iso:country":"US",
+    "sg:address":"2010 E 350 S",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/wea/174248-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 474 7935",
+    "sg:postcode":"47909",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bI6LKjh2ZE0magqLFkmoP_40.367296_-86.866638@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601495,
+    "wof:geomhash":"040233f866dac99e4ed70381d32df3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":806838141
+        }
+    ],
+    "wof:id":806838141,
+    "wof:lastmodified":1462601495,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.866638,
+    40.367296,
+    -86.866638,
+    40.367296
+],
+  "geometry": {"coordinates":[-86.86663799999999,40.367296],"type":"Point"}
+}

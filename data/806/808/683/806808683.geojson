@@ -1,0 +1,78 @@
+{
+  "id": 806808683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.237442,39.714178,-86.237442,39.714178",
+    "geom:latitude":39.714178,
+    "geom:longitude":-86.237442,
+    "iso:country":"US",
+    "sg:address":"3487 Kentucky Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/west-newton/159663-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 240 3214",
+    "sg:postcode":"46221",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865505,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zxJrvW5033cLYQgZ5L23e_39.714178_-86.237442@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601254,
+    "wof:geomhash":"cafc161b9b3361d4d389fb45442cda93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85865505,
+            "region_id":85688709,
+            "venue_id":806808683
+        }
+    ],
+    "wof:id":806808683,
+    "wof:lastmodified":1462601254,
+    "wof:name":"Arby's",
+    "wof:parent_id":85865505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.237442,
+    39.714178,
+    -86.237442,
+    39.714178
+],
+  "geometry": {"coordinates":[-86.237442,39.714178],"type":"Point"}
+}

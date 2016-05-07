@@ -1,0 +1,88 @@
+{
+  "id": 806934059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.215778,39.76744,-86.215778,39.76744",
+    "geom:latitude":39.76744,
+    "geom:longitude":-86.215778,
+    "iso:country":"US",
+    "sg:address":"210 N Tibbs Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 951 0592",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835545,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oUKU4kqIoAEZew2HTGIJt_39.767440_-86.215778@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602305,
+    "wof:geomhash":"bb5b5726d9632cddf287628711c94a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85835545,
+            "region_id":85688709,
+            "venue_id":806934059
+        }
+    ],
+    "wof:id":806934059,
+    "wof:lastmodified":1462602305,
+    "wof:name":"Township Of Wayne",
+    "wof:parent_id":85835545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -86.215778,
+    39.76744,
+    -86.215778,
+    39.76744
+],
+  "geometry": {"coordinates":[-86.215778,39.76744],"type":"Point"}
+}

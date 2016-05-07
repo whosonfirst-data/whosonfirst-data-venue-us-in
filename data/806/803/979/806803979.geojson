@@ -1,0 +1,78 @@
+{
+  "id": 806803979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.510062,39.759076,-86.510062,39.759076",
+    "geom:latitude":39.759076,
+    "geom:longitude":-86.510062,
+    "iso:country":"US",
+    "sg:address":"691 E Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/danville/167292-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 718 1644",
+    "sg:postcode":"46122",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45JXd77r2VLcYb7IaYsXb4_39.759076_-86.510062@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601220,
+    "wof:geomhash":"47503d2927da81ab5ae69d6bae5b6ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":806803979
+        }
+    ],
+    "wof:id":806803979,
+    "wof:lastmodified":1462601220,
+    "wof:name":"Burger King",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.510062,
+    39.759076,
+    -86.510062,
+    39.759076
+],
+  "geometry": {"coordinates":[-86.510062,39.759076],"type":"Point"}
+}

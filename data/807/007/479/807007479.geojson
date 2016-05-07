@@ -1,0 +1,84 @@
+{
+  "id": 807007479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.223942,39.914161,-86.223942,39.914161",
+    "geom:latitude":39.914161,
+    "geom:longitude":-86.223942,
+    "iso:country":"US",
+    "sg:address":"8804 Michigan Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 228 0929",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "machines-household",
+        "sewing",
+        "machines-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857069,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Jgzgq6mwVN1e8zzx7HjK_39.914161_-86.223942@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602923,
+    "wof:geomhash":"7918035b180f09b9fca709b3317027cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85857069,
+            "region_id":85688709,
+            "venue_id":807007479
+        }
+    ],
+    "wof:id":807007479,
+    "wof:lastmodified":1462602923,
+    "wof:name":"Gerry's Sew N Vac",
+    "wof:parent_id":85857069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-household",
+        "sewing",
+        "machines-service"
+    ]
+},
+  "bbox": [
+    -86.223942,
+    39.914161,
+    -86.223942,
+    39.914161
+],
+  "geometry": {"coordinates":[-86.22394199999999,39.914161],"type":"Point"}
+}

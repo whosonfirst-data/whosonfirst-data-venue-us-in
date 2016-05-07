@@ -1,0 +1,85 @@
+{
+  "id": 806883301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.396571,39.842909,-86.396571,39.842909",
+    "geom:latitude":39.842909,
+    "geom:longitude":-86.396571,
+    "iso:country":"US",
+    "sg:address":"22 E Main St",
+    "sg:city":"Brownsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 852 2306",
+    "sg:postcode":"46112",
+    "sg:province":"IN",
+    "sg:tags":[
+        "diamond",
+        "designer",
+        "jeweler"
+    ],
+    "sg:website":"http://www.nelsonjewelers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ea3olLdP221Y5gMbB2D50_39.842909_-86.396571@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601880,
+    "wof:geomhash":"2c544068c3771cf3cdd11e3293c2b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":806883301
+        }
+    ],
+    "wof:id":806883301,
+    "wof:lastmodified":1462601880,
+    "wof:name":"Nelson's Jewelers",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond",
+        "designer",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -86.396571,
+    39.842909,
+    -86.396571,
+    39.842909
+],
+  "geometry": {"coordinates":[-86.39657099999999,39.842909],"type":"Point"}
+}

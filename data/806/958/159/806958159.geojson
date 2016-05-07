@@ -1,0 +1,87 @@
+{
+  "id": 806958159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.092837,39.926868,-86.092837,39.926868",
+    "geom:latitude":39.926868,
+    "geom:longitude":-86.092837,
+    "iso:country":"US",
+    "sg:address":"4610B E 96th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 705 7000",
+    "sg:postcode":"46240",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automotive",
+        "car",
+        "tune",
+        "new"
+    ],
+    "sg:website":"http://www.tomwood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891093,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tRxkwKLkSIg0iMRtZlp05_39.926868_-86.092837@1303262766"
+    },
+    "wof:country":"US",
+    "wof:created":1462602511,
+    "wof:geomhash":"6b1b299adbe6ad375612ef99a7c3b846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891093,
+            "region_id":85688709,
+            "venue_id":806958159
+        }
+    ],
+    "wof:id":806958159,
+    "wof:lastmodified":1462602511,
+    "wof:name":"Tom Wood Volkswagen",
+    "wof:parent_id":85891093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "car",
+        "tune",
+        "new"
+    ]
+},
+  "bbox": [
+    -86.092837,
+    39.926868,
+    -86.092837,
+    39.926868
+],
+  "geometry": {"coordinates":[-86.092837,39.926868],"type":"Point"}
+}

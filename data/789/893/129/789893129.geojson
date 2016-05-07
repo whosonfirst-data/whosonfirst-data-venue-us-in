@@ -1,0 +1,73 @@
+{
+  "id": 789893129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.905688,38.951788,-85.905688,38.951788",
+    "geom:latitude":38.951788,
+    "geom:longitude":-85.905688,
+    "iso:country":"US",
+    "sg:address":"1339 W Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 1339",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NBRQewSe9q6r2K1DYmo3c_38.951788_-85.905688@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591393,
+    "wof:geomhash":"9a0c4a043cb0f5873f6c6f9a82d23bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":789893129
+        }
+    ],
+    "wof:id":789893129,
+    "wof:lastmodified":1462591393,
+    "wof:name":"Storage Express",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.905688,
+    38.951788,
+    -85.905688,
+    38.951788
+],
+  "geometry": {"coordinates":[-85.905688,38.951788],"type":"Point"}
+}

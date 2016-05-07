@@ -1,0 +1,86 @@
+{
+  "id": 806913093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.148598,39.82953,-86.148598,39.82953",
+    "geom:latitude":39.82953,
+    "geom:longitude":-86.148598,
+    "iso:country":"US",
+    "sg:address":"4051 Ruckle St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 632 1280",
+    "sg:postcode":"46205",
+    "sg:province":"IN",
+    "sg:tags":[
+        "espresso",
+        "manufacturer",
+        "tea-wholesale",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832319,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oz0HnAwsIv30lz5eIDOnD_39.829530_-86.148598@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602120,
+    "wof:geomhash":"bd0024e7862d573cf7c6eafe5d6af3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85832319,
+            "region_id":85688709,
+            "venue_id":806913093
+        }
+    ],
+    "wof:id":806913093,
+    "wof:lastmodified":1462602120,
+    "wof:name":"The Tea Cozy",
+    "wof:parent_id":85832319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "manufacturer",
+        "tea-wholesale",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -86.148598,
+    39.82953,
+    -86.148598,
+    39.82953
+],
+  "geometry": {"coordinates":[-86.14859800000001,39.82953],"type":"Point"}
+}

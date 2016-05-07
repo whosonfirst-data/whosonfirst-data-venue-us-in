@@ -1,0 +1,73 @@
+{
+  "id": 790306169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673615,40.575508,-85.673615,40.575508",
+    "geom:latitude":40.575508,
+    "geom:longitude":-85.673615,
+    "iso:country":"US",
+    "sg:address":"1395 N Baldwin Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 3916",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UUFe00ofBVs45rAmZTA1R_40.575508_-85.673615@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594812,
+    "wof:geomhash":"10832376957a7a1ebab60545b9de034a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":790306169
+        }
+    ],
+    "wof:id":790306169,
+    "wof:lastmodified":1462594812,
+    "wof:name":"Marion Surgeons Inc",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.673615,
+    40.575508,
+    -85.673615,
+    40.575508
+],
+  "geometry": {"coordinates":[-85.673615,40.575508],"type":"Point"}
+}

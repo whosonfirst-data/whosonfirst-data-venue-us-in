@@ -1,0 +1,73 @@
+{
+  "id": 790275993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.550043,38.057737,-87.550043,38.057737",
+    "geom:latitude":38.057737,
+    "geom:longitude":-87.550043,
+    "iso:country":"US",
+    "sg:address":"1033 E Mount Pleasant Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 867 2492",
+    "sg:postcode":"47725",
+    "sg:province":"IN",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85824997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sZIhUoZaKdz7I9if74RFh_38.057737_-87.550043@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594566,
+    "wof:geomhash":"b389382d9e13c779e096023c85776010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85824997,
+            "region_id":85688709,
+            "venue_id":790275993
+        }
+    ],
+    "wof:id":790275993,
+    "wof:lastmodified":1462594566,
+    "wof:name":"Advanced Diagnostic Imaging",
+    "wof:parent_id":85824997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -87.550043,
+    38.057737,
+    -87.550043,
+    38.057737
+],
+  "geometry": {"coordinates":[-87.550043,38.057737],"type":"Point"}
+}

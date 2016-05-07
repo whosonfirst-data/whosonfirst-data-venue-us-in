@@ -1,0 +1,89 @@
+{
+  "id": 806921813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.113722,39.825331,-86.113722,39.825331",
+    "geom:latitude":39.825331,
+    "geom:longitude":-86.113722,
+    "iso:country":"US",
+    "sg:address":"2951 E 38th St Ste 101",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 221 2464",
+    "sg:postcode":"46218",
+    "sg:province":"IN",
+    "sg:tags":[
+        "parish",
+        "government-county",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519765,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07CGpUdfB9dtt0C8GZ8dgF_39.825331_-86.113722@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602204,
+    "wof:geomhash":"f793f081fc389a5ffb2a0e0c6323b2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519765,
+            "region_id":85688709,
+            "venue_id":806921813
+        }
+    ],
+    "wof:id":806921813,
+    "wof:lastmodified":1462602204,
+    "wof:name":"Health And Hospital Corp Of Marion County Marion",
+    "wof:parent_id":420519765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -86.113722,
+    39.825331,
+    -86.113722,
+    39.825331
+],
+  "geometry": {"coordinates":[-86.113722,39.825331],"type":"Point"}
+}

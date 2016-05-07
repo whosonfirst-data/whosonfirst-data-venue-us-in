@@ -1,0 +1,71 @@
+{
+  "id": 773360273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.608728,37.983053,-87.608728,37.983053",
+    "geom:latitude":37.983053,
+    "geom:longitude":-87.608728,
+    "iso:country":"US",
+    "sg:address":"2918 Mount Vernon Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 423 2000",
+    "sg:postcode":"47712",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OfRGPsl1rklKPn93CnAnY_37.983053_-87.608728@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585116,
+    "wof:geomhash":"9e160e6c0303ee7cd98b0fcbb134682e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877285,
+            "region_id":85688709,
+            "venue_id":773360273
+        }
+    ],
+    "wof:id":773360273,
+    "wof:lastmodified":1462585116,
+    "wof:name":"Animal Medical Svc",
+    "wof:parent_id":85877285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.608728,
+    37.983053,
+    -87.608728,
+    37.983053
+],
+  "geometry": {"coordinates":[-87.608728,37.983053],"type":"Point"}
+}

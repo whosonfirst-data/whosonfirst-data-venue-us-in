@@ -1,0 +1,73 @@
+{
+  "id": 773049001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.452354,39.466308,-87.452354,39.466308",
+    "geom:latitude":39.466308,
+    "geom:longitude":-87.452354,
+    "iso:country":"US",
+    "sg:address":"110 N 8th St",
+    "sg:city":"West Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 533 5805",
+    "sg:postcode":"47885",
+    "sg:province":"IN",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KgnSzrPBkdIQa8OgKnN8a_39.466308_-87.452354@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582750,
+    "wof:geomhash":"933021471c6976f6379c9dc082a0cb77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":773049001
+        }
+    ],
+    "wof:id":773049001,
+    "wof:lastmodified":1462582750,
+    "wof:name":"Providence Pantry",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -87.452354,
+    39.466308,
+    -87.452354,
+    39.466308
+],
+  "geometry": {"coordinates":[-87.452354,39.466308],"type":"Point"}
+}

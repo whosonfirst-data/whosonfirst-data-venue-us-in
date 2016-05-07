@@ -1,0 +1,78 @@
+{
+  "id": 806841313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.059714,39.904792,-86.059714,39.904792",
+    "geom:latitude":39.904792,
+    "geom:longitude":-86.059714,
+    "iso:country":"US",
+    "sg:address":"6303 E 82nd St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lawrence/167360-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 849 6799",
+    "sg:postcode":"46250",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gXbQIo1K3Gv856HQ8E7FX_39.905249_-86.059028@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601519,
+    "wof:geomhash":"ce86bf51fa31fe5b7b1abaa010940f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85853685,
+            "region_id":85688709,
+            "venue_id":806841313
+        }
+    ],
+    "wof:id":806841313,
+    "wof:lastmodified":1462601519,
+    "wof:name":"Burger King",
+    "wof:parent_id":85853685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.059714,
+    39.904792,
+    -86.059714,
+    39.904792
+],
+  "geometry": {"coordinates":[-86.059714,39.904792],"type":"Point"}
+}

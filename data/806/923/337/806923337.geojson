@@ -1,0 +1,85 @@
+{
+  "id": 806923337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.064278,39.784406,-86.064278,39.784406",
+    "geom:latitude":39.784406,
+    "geom:longitude":-86.064278,
+    "iso:country":"US",
+    "sg:address":"1215 N Arlington Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 321 7290",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"https://www.chase.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827099,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cLZszAX8AXYQ1kBsrV3rr_39.784406_-86.064278@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602219,
+    "wof:geomhash":"5106cd283304b75e34e656628b5462f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85827099,
+            "region_id":85688709,
+            "venue_id":806923337
+        }
+    ],
+    "wof:id":806923337,
+    "wof:lastmodified":1462602219,
+    "wof:name":"Chase",
+    "wof:parent_id":85827099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -86.064278,
+    39.784406,
+    -86.064278,
+    39.784406
+],
+  "geometry": {"coordinates":[-86.064278,39.784406],"type":"Point"}
+}

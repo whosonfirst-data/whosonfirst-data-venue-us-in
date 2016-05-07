@@ -1,0 +1,77 @@
+{
+  "id": 773183993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678244,40.104205,-85.678244,40.104205",
+    "geom:latitude":40.104205,
+    "geom:longitude":-85.678244,
+    "iso:country":"US",
+    "sg:address":"1109 Main St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 646 5747",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825401,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zMTapKtahTRSGLlNBe2ew_40.104205_-85.678244@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583790,
+    "wof:geomhash":"698da44dabcd8b5379beb7bb295f0782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85825401,
+            "region_id":85688709,
+            "venue_id":773183993
+        }
+    ],
+    "wof:id":773183993,
+    "wof:lastmodified":1462583790,
+    "wof:name":"Anderson Transit System",
+    "wof:parent_id":85825401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -85.678244,
+    40.104205,
+    -85.678244,
+    40.104205
+],
+  "geometry": {"coordinates":[-85.67824400000001,40.104205],"type":"Point"}
+}

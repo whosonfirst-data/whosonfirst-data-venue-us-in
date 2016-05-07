@@ -1,0 +1,71 @@
+{
+  "id": 806388899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.845725,40.367342,-86.845725,40.367342",
+    "geom:latitude":40.367342,
+    "geom:longitude":-86.845725,
+    "iso:country":"US",
+    "sg:address":"3530 E 350 S",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 474 4325",
+    "sg:postcode":"47909",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A0groPr7f0fq6HSODXNNl_40.367342_-86.845725@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597745,
+    "wof:geomhash":"fff03fad24316c16b81f71a9f980276d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":806388899
+        }
+    ],
+    "wof:id":806388899,
+    "wof:lastmodified":1462597745,
+    "wof:name":"Transport Service",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.845725,
+    40.367342,
+    -86.845725,
+    40.367342
+],
+  "geometry": {"coordinates":[-86.845725,40.367342],"type":"Point"}
+}

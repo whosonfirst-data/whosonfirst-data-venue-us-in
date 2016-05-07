@@ -1,0 +1,72 @@
+{
+  "id": 806823839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.062776,41.120397,-85.062776,41.120397",
+    "geom:latitude":41.120397,
+    "geom:longitude":-85.062776,
+    "iso:country":"US",
+    "sg:address":"6211 Stellhorn Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/st-joseph/208023-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 485 1117",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SdfqKCPcTRAYL8S8RDeQa_41.120397_-85.062776@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601373,
+    "wof:geomhash":"40da3940774bcf645736588442349ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":806823839
+        }
+    ],
+    "wof:id":806823839,
+    "wof:lastmodified":1462601373,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.062776,
+    41.120397,
+    -85.062776,
+    41.120397
+],
+  "geometry": {"coordinates":[-85.062776,41.120397],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773211083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.815079,41.237259,-85.815079,41.237259",
+    "geom:latitude":41.237259,
+    "geom:longitude":-85.815079,
+    "iso:country":"US",
+    "sg:address":"2938 Frontage Rd",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 269 5552",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zVtbf20At0O469BhGzNXE_41.237259_-85.815079@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584004,
+    "wof:geomhash":"4ab49e9d2219f9edd8c8d79d77060ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":773211083
+        }
+    ],
+    "wof:id":773211083,
+    "wof:lastmodified":1462584004,
+    "wof:name":"Fort Wayne Dermatology",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.815079,
+    41.237259,
+    -85.815079,
+    41.237259
+],
+  "geometry": {"coordinates":[-85.815079,41.237259],"type":"Point"}
+}

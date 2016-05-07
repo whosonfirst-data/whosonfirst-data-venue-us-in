@@ -1,0 +1,80 @@
+{
+  "id": 806805799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.365465,39.714632,-86.365465,39.714632",
+    "geom:latitude":39.714632,
+    "geom:longitude":-86.365465,
+    "iso:country":"US",
+    "sg:address":"2662 E Main St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/guilford/174107-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 7381",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807409,
+        102191575,
+        404500783,
+        85633793,
+        85941489,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7mg83JZfuldvdr8D4JaE_39.714632_-86.365465@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601233,
+    "wof:geomhash":"bb301767c755efb21b155eb708152a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500783,
+            "locality_id":85941489,
+            "neighbourhood_id":85807409,
+            "region_id":85688709,
+            "venue_id":806805799
+        }
+    ],
+    "wof:id":806805799,
+    "wof:lastmodified":1462601233,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85807409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.365465,
+    39.714632,
+    -86.365465,
+    39.714632
+],
+  "geometry": {"coordinates":[-86.365465,39.714632],"type":"Point"}
+}

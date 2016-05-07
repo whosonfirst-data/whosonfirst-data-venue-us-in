@@ -1,0 +1,73 @@
+{
+  "id": 789627091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.681039,40.266666,-85.681039,40.266666",
+    "geom:latitude":40.266666,
+    "geom:longitude":-85.681039,
+    "iso:country":"US",
+    "sg:address":"416 N Central Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3340",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HQBCGFaTJsUanOaIuddCo_40.266666_-85.681039@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589271,
+    "wof:geomhash":"b82421a6606ae16cd549e91479009134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":789627091
+        }
+    ],
+    "wof:id":789627091,
+    "wof:lastmodified":1462589271,
+    "wof:name":"Ingram Electric",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.681039,
+    40.266666,
+    -85.681039,
+    40.266666
+],
+  "geometry": {"coordinates":[-85.681039,40.266666],"type":"Point"}
+}

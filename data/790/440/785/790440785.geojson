@@ -1,0 +1,71 @@
+{
+  "id": 790440785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.425201,40.225323,-85.425201,40.225323",
+    "geom:latitude":40.225323,
+    "geom:longitude":-85.425201,
+    "iso:country":"US",
+    "sg:address":"4005 N Everett Rd",
+    "sg:city":"Muncie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 287 0891",
+    "sg:postcode":"47304",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941463,
+        102087155,
+        85803117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VI1PYgDZpQPHba6HYLs8D_40.225323_-85.425201@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595845,
+    "wof:geomhash":"4208a1b5d8c91b5a81c0a607a0398f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087155,
+            "locality_id":85941463,
+            "neighbourhood_id":85803117,
+            "region_id":85688709,
+            "venue_id":790440785
+        }
+    ],
+    "wof:id":790440785,
+    "wof:lastmodified":1462595845,
+    "wof:name":"R & L Carriers",
+    "wof:parent_id":85803117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.425201,
+    40.225323,
+    -85.425201,
+    40.225323
+],
+  "geometry": {"coordinates":[-85.425201,40.225323],"type":"Point"}
+}

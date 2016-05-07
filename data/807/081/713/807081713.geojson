@@ -1,0 +1,69 @@
+{
+  "id": 807081713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.599197,39.2173,-86.599197,39.2173",
+    "geom:latitude":39.2173,
+    "geom:longitude":-86.599197,
+    "iso:country":"US",
+    "sg:address":"5495 W State Road 46",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 876 3766",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xq94r0nfVLAXg3Ft09Cnk_39.217300_-86.599197@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603547,
+    "wof:geomhash":"c0c048ff099eae7bdb97024bbe30a9a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":807081713
+        }
+    ],
+    "wof:id":807081713,
+    "wof:lastmodified":1462603547,
+    "wof:name":"Craig David M DVM",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.599197,
+    39.2173,
+    -86.599197,
+    39.2173
+],
+  "geometry": {"coordinates":[-86.599197,39.2173],"type":"Point"}
+}

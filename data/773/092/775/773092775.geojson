@@ -1,0 +1,73 @@
+{
+  "id": 773092775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.866801,40.394232,-86.866801,40.394232",
+    "geom:latitude":40.394232,
+    "geom:longitude":-86.866801,
+    "iso:country":"US",
+    "sg:address":"2314 Apache Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 471 9811",
+    "sg:postcode":"47909",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EFuHdhLWrz2y1X9kpM8pN_40.394232_-86.866801@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583099,
+    "wof:geomhash":"b38d3ee05abe25027395f29890911132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":773092775
+        }
+    ],
+    "wof:id":773092775,
+    "wof:lastmodified":1462583099,
+    "wof:name":"Ron's Hauling",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.866801,
+    40.394232,
+    -86.866801,
+    40.394232
+],
+  "geometry": {"coordinates":[-86.866801,40.394232],"type":"Point"}
+}

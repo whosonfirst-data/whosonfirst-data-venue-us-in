@@ -1,0 +1,87 @@
+{
+  "id": 806937659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.149612,39.752174,-86.149612,39.752174",
+    "geom:latitude":39.752174,
+    "geom:longitude":-86.149612,
+    "iso:country":"US",
+    "sg:address":"1104 S East St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 1038",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "oils-fuel",
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519781,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PTZrlCipvG42251viRLBc_39.752174_-86.149612@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602337,
+    "wof:geomhash":"28b96bdb738dde989e1037c3f0dd8288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519781,
+            "region_id":85688709,
+            "venue_id":806937659
+        }
+    ],
+    "wof:id":806937659,
+    "wof:lastmodified":1462602337,
+    "wof:name":"Crystal Flash Petroleum",
+    "wof:parent_id":420519781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel",
+        "refiner"
+    ]
+},
+  "bbox": [
+    -86.149612,
+    39.752174,
+    -86.149612,
+    39.752174
+],
+  "geometry": {"coordinates":[-86.149612,39.752174],"type":"Point"}
+}

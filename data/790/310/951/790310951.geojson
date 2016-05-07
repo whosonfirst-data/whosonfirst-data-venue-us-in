@@ -1,0 +1,71 @@
+{
+  "id": 790310951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.570837,39.137609,-86.570837,39.137609",
+    "geom:latitude":39.137609,
+    "geom:longitude":-86.570837,
+    "iso:country":"US",
+    "sg:address":"2800 Rex Grossman Blvd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 8969",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t4ZaxwpM4SesMj19l5JrS_39.137609_-86.570837@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594853,
+    "wof:geomhash":"a6a6cb662fe07c02d9416ad6aa67e64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":790310951
+        }
+    ],
+    "wof:id":790310951,
+    "wof:lastmodified":1462594853,
+    "wof:name":"Southern Indiana Surgery Ctr",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.570837,
+    39.137609,
+    -86.570837,
+    39.137609
+],
+  "geometry": {"coordinates":[-86.570837,39.137609],"type":"Point"}
+}

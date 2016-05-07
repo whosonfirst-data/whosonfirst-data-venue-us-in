@@ -1,0 +1,89 @@
+{
+  "id": 806828113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839936,38.30526,-85.839936,38.30526",
+    "geom:latitude":38.30526,
+    "geom:longitude":-85.839936,
+    "iso:country":"US",
+    "sg:address":"2250 State St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/new-albany/133187-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 949 4784",
+    "sg:postcode":"47150",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942489,
+        102087137,
+        85846703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BOHaaQ2JXfY080pX4a5ND_38.305260_-85.839936@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601406,
+    "wof:geomhash":"0f14d54704ebffdd9b0b7d2a510c33c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087137,
+            "locality_id":85942489,
+            "neighbourhood_id":85846703,
+            "region_id":85688709,
+            "venue_id":806828113
+        }
+    ],
+    "wof:id":806828113,
+    "wof:lastmodified":1462601406,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85846703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -85.839936,
+    38.30526,
+    -85.839936,
+    38.30526
+],
+  "geometry": {"coordinates":[-85.83993599999999,38.30526],"type":"Point"}
+}

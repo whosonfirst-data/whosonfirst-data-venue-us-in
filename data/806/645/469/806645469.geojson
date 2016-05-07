@@ -1,0 +1,79 @@
+{
+  "id": 806645469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269756,39.72606,-86.269756,39.72606",
+    "geom:latitude":39.72606,
+    "geom:longitude":-86.269756,
+    "iso:country":"US",
+    "sg:address":"2753 Cargo Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 381 9465",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534155,
+        85805707,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YV5K0tIVTBSMs6yp5knId_39.726060_-86.269756@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599863,
+    "wof:geomhash":"dc49af973f12b28279ca6b04a48ca9e7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534155,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85805707,
+            "region_id":85688709,
+            "venue_id":806645469
+        }
+    ],
+    "wof:id":806645469,
+    "wof:lastmodified":1462599863,
+    "wof:name":"Guidant Corp",
+    "wof:parent_id":102534155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.269756,
+    39.72606,
+    -86.269756,
+    39.72606
+],
+  "geometry": {"coordinates":[-86.269756,39.72606],"type":"Point"}
+}

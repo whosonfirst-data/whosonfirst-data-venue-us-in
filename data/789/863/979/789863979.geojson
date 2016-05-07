@@ -1,0 +1,73 @@
+{
+  "id": 789863979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.648837,40.558792,-85.648837,40.558792",
+    "geom:latitude":40.558792,
+    "geom:longitude":-85.648837,
+    "iso:country":"US",
+    "sg:address":"700 E 3rd St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 651 0782",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NEFuGuIbwZh42Hsz8CeeA_40.558792_-85.648837@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591139,
+    "wof:geomhash":"dad1754020abebc72dc0b54730898220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":789863979
+        }
+    ],
+    "wof:id":789863979,
+    "wof:lastmodified":1462591139,
+    "wof:name":"Auto Pros",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.648837,
+    40.558792,
+    -85.648837,
+    40.558792
+],
+  "geometry": {"coordinates":[-85.648837,40.558792],"type":"Point"}
+}

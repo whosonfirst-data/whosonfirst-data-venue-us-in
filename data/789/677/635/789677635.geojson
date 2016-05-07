@@ -1,0 +1,71 @@
+{
+  "id": 789677635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.961952,40.457247,-86.961952,40.457247",
+    "geom:latitude":40.457247,
+    "geom:longitude":-86.961952,
+    "iso:country":"US",
+    "sg:address":"2810 Klondike Rd",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 000 1111",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85813095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qisZzydZQP3Cd5PAe9y6H_40.457247_-86.961952@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589682,
+    "wof:geomhash":"6f81d16d587e2974ee410decbd4c9023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85813095,
+            "region_id":85688709,
+            "venue_id":789677635
+        }
+    ],
+    "wof:id":789677635,
+    "wof:lastmodified":1462589682,
+    "wof:name":"Otterbein Fire Dept",
+    "wof:parent_id":85813095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.961952,
+    40.457247,
+    -86.961952,
+    40.457247
+],
+  "geometry": {"coordinates":[-86.961952,40.457247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789777811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.795289,41.546376,-85.795289,41.546376",
+    "geom:latitude":41.546376,
+    "geom:longitude":-85.795289,
+    "iso:country":"US",
+    "sg:address":"17160 Hackberry Dr",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 642 4954",
+    "sg:postcode":"46526",
+    "sg:province":"IN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850341,
+        102191575,
+        404500587,
+        85633793,
+        85942261,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xXzU8AuTJT4uyngydGjHW_41.546376_-85.795289@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590459,
+    "wof:geomhash":"94989afba2b002372ed937022e27274d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500587,
+            "locality_id":85942261,
+            "neighbourhood_id":85850341,
+            "region_id":85688709,
+            "venue_id":789777811
+        }
+    ],
+    "wof:id":789777811,
+    "wof:lastmodified":1462590459,
+    "wof:name":"Medtec Ambulance Corp",
+    "wof:parent_id":85850341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.795289,
+    41.546376,
+    -85.795289,
+    41.546376
+],
+  "geometry": {"coordinates":[-85.795289,41.546376],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807081101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.551753,39.195249,-86.551753,39.195249",
+    "geom:latitude":39.195249,
+    "geom:longitude":-86.551753,
+    "iso:country":"US",
+    "sg:address":"3070 N Prow Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 330 7730",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85809723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_083leacl07LXeb1DwBtE57_39.195249_-86.551753@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603542,
+    "wof:geomhash":"1cc5bdb08cf7f1f0171d44863230616d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85809723,
+            "region_id":85688709,
+            "venue_id":807081101
+        }
+    ],
+    "wof:id":807081101,
+    "wof:lastmodified":1462603542,
+    "wof:name":"Schools",
+    "wof:parent_id":85809723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -86.551753,
+    39.195249,
+    -86.551753,
+    39.195249
+],
+  "geometry": {"coordinates":[-86.55175300000001,39.195249],"type":"Point"}
+}

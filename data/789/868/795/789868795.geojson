@@ -1,0 +1,73 @@
+{
+  "id": 789868795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.180777,39.615351,-86.180777,39.615351",
+    "geom:latitude":39.615351,
+    "geom:longitude":-86.180777,
+    "iso:country":"US",
+    "sg:address":"297 Hillendale Dr",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 882 8018",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59uJaGLb9852GQOulm3IEz_39.615351_-86.180777@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591173,
+    "wof:geomhash":"e34d231a58f7976bc3805ee9e0b0167a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":789868795
+        }
+    ],
+    "wof:id":789868795,
+    "wof:lastmodified":1462591173,
+    "wof:name":"Blackburn Canine Training",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -86.180777,
+    39.615351,
+    -86.180777,
+    39.615351
+],
+  "geometry": {"coordinates":[-86.18077700000001,39.615351],"type":"Point"}
+}

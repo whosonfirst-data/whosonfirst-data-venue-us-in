@@ -1,0 +1,86 @@
+{
+  "id": 806851303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.127098,40.000198,-86.127098,40.000198",
+    "geom:latitude":40.000198,
+    "geom:longitude":-86.127098,
+    "iso:country":"US",
+    "sg:address":"14610 N Meridian St",
+    "sg:city":"Carmel",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 846 1150",
+    "sg:postcode":"46032",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.bestbuy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891085,
+        102191575,
+        404500867,
+        85633793,
+        85941341,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U2TZUaOEwUxi8fN0sRvOS_40.000198_-86.127098@1303262760"
+    },
+    "wof:country":"US",
+    "wof:created":1462601620,
+    "wof:geomhash":"8f466cc30db3c9d13dc8ad6d139ae681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500867,
+            "locality_id":85941341,
+            "neighbourhood_id":85891085,
+            "region_id":85688709,
+            "venue_id":806851303
+        }
+    ],
+    "wof:id":806851303,
+    "wof:lastmodified":1462601620,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85891085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -86.127098,
+    40.000198,
+    -86.127098,
+    40.000198
+],
+  "geometry": {"coordinates":[-86.127098,40.000198],"type":"Point"}
+}

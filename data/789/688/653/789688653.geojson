@@ -1,0 +1,73 @@
+{
+  "id": 789688653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.40857,39.426988,-87.40857,39.426988",
+    "geom:latitude":39.426988,
+    "geom:longitude":-87.40857,
+    "iso:country":"US",
+    "sg:address":"630 E Davis Dr",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 6261",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eGaTmyZrjtY3e7nxbT8Yt_39.426988_-87.408570@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589767,
+    "wof:geomhash":"8b271c5e8a7d11c83c8c6ebfe05c94dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":789688653
+        }
+    ],
+    "wof:id":789688653,
+    "wof:lastmodified":1462589767,
+    "wof:name":"Health Quest",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -87.40857,
+    39.426988,
+    -87.40857,
+    39.426988
+],
+  "geometry": {"coordinates":[-87.40857,39.426988],"type":"Point"}
+}

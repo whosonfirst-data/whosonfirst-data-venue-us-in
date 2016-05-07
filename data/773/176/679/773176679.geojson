@@ -1,0 +1,73 @@
+{
+  "id": 773176679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.665004,40.061934,-85.665004,40.061934",
+    "geom:latitude":40.061934,
+    "geom:longitude":-85.665004,
+    "iso:country":"US",
+    "sg:address":"1010 E 53rd St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 641 1110",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BulAsLS517f36aLmScpdY_40.061934_-85.665004@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583712,
+    "wof:geomhash":"a51ce513327ba93eddf4dfbd8a450d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":773176679
+        }
+    ],
+    "wof:id":773176679,
+    "wof:lastmodified":1462583712,
+    "wof:name":"Checkered Flag",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.665004,
+    40.061934,
+    -85.665004,
+    40.061934
+],
+  "geometry": {"coordinates":[-85.665004,40.061934],"type":"Point"}
+}

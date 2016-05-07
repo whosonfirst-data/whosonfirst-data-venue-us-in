@@ -1,0 +1,72 @@
+{
+  "id": 806834027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.606128,38.355625,-87.606128,38.355625",
+    "geom:latitude":38.355625,
+    "geom:longitude":-87.606128,
+    "iso:country":"US",
+    "sg:address":"2720 W Broadway St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/patoka/208109-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 386 0004",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EHxwvlxdVM1avlPzRl7xo_38.355625_-87.606128@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601457,
+    "wof:geomhash":"c3c245bf749039ceb6c1d9e02c69d687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806834027
+        }
+    ],
+    "wof:id":806834027,
+    "wof:lastmodified":1462601457,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.606128,
+    38.355625,
+    -87.606128,
+    38.355625
+],
+  "geometry": {"coordinates":[-87.606128,38.355625],"type":"Point"}
+}

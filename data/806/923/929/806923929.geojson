@@ -1,0 +1,82 @@
+{
+  "id": 806923929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.066688,39.787572,-86.066688,39.787572",
+    "geom:latitude":39.787572,
+    "geom:longitude":-86.066688,
+    "iso:country":"US",
+    "sg:address":"1425 Priscilla Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 357 2055",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827099,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b9ZO6ELYF1Ss8UQUOQil2_39.787572_-86.066688@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602224,
+    "wof:geomhash":"eb0cdd3847026b7759f4ec8f505516aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85827099,
+            "region_id":85688709,
+            "venue_id":806923929
+        }
+    ],
+    "wof:id":806923929,
+    "wof:lastmodified":1462602224,
+    "wof:name":"Professional Health Svc Inc",
+    "wof:parent_id":85827099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.066688,
+    39.787572,
+    -86.066688,
+    39.787572
+],
+  "geometry": {"coordinates":[-86.066688,39.787572],"type":"Point"}
+}

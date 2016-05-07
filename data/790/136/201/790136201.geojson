@@ -1,0 +1,71 @@
+{
+  "id": 790136201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.446279,39.465921,-87.446279,39.465921",
+    "geom:latitude":39.465921,
+    "geom:longitude":-87.446279,
+    "iso:country":"US",
+    "sg:address":"30 S 3rd St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 238 2636",
+    "sg:postcode":"47807",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xyOSlWKT3ZbdiN5H9Hg2C_39.465921_-87.446279@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593401,
+    "wof:geomhash":"36449a2183331537ae0169ff9b1acef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":790136201
+        }
+    ],
+    "wof:id":790136201,
+    "wof:lastmodified":1462593401,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.446279,
+    39.465921,
+    -87.446279,
+    39.465921
+],
+  "geometry": {"coordinates":[-87.446279,39.465921],"type":"Point"}
+}

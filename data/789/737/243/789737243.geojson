@@ -1,0 +1,71 @@
+{
+  "id": 789737243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.57807,39.146101,-86.57807,39.146101",
+    "geom:latitude":39.146101,
+    "geom:longitude":-86.57807,
+    "iso:country":"US",
+    "sg:address":"2088 Liberty Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 330 0900",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08N7HkGQSMcA0GCkNcoM3c_39.146101_-86.578070@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590154,
+    "wof:geomhash":"e53228573e36963145b72cdcdf5c4e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":789737243
+        }
+    ],
+    "wof:id":789737243,
+    "wof:lastmodified":1462590154,
+    "wof:name":"Sylvan Learning Ctr",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -86.57807,
+    39.146101,
+    -86.57807,
+    39.146101
+],
+  "geometry": {"coordinates":[-86.57807,39.146101],"type":"Point"}
+}

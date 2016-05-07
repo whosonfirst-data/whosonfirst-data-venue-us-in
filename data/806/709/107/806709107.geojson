@@ -1,0 +1,75 @@
+{
+  "id": 806709107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671439,40.169098,-85.671439,40.169098",
+    "geom:latitude":40.169098,
+    "geom:longitude":-85.671439,
+    "iso:country":"US",
+    "sg:address":"4400 State Rd 9",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 649 8735",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85837179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EF7nJbuBrbepJFkUU4v5l_40.169098_-85.671439@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600411,
+    "wof:geomhash":"9b2fa616c87f56230fe11efc5b2786b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85837179,
+            "region_id":85688709,
+            "venue_id":806709107
+        }
+    ],
+    "wof:id":806709107,
+    "wof:lastmodified":1462600411,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85837179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.671439,
+    40.169098,
+    -85.671439,
+    40.169098
+],
+  "geometry": {"coordinates":[-85.67143900000001,40.169098],"type":"Point"}
+}

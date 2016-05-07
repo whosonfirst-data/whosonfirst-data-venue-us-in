@@ -1,0 +1,71 @@
+{
+  "id": 773300399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.38478,39.506779,-87.38478,39.506779",
+    "geom:latitude":39.506779,
+    "geom:longitude":-87.38478,
+    "iso:country":"US",
+    "sg:address":"2140 Fort Harrison Rd",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 466 6861",
+    "sg:postcode":"47804",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t3qiXbzhDd4GJvcZALln0_39.506779_-87.384780@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584686,
+    "wof:geomhash":"62936e203087d7e91c96ccd045d2fae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814437,
+            "region_id":85688709,
+            "venue_id":773300399
+        }
+    ],
+    "wof:id":773300399,
+    "wof:lastmodified":1462584686,
+    "wof:name":"Kroger",
+    "wof:parent_id":85814437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.38478,
+    39.506779,
+    -87.38478,
+    39.506779
+],
+  "geometry": {"coordinates":[-87.38478000000001,39.506779],"type":"Point"}
+}

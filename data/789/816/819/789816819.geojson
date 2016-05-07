@@ -1,0 +1,71 @@
+{
+  "id": 789816819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.695535,41.622659,-86.695535,41.622659",
+    "geom:latitude":41.622659,
+    "geom:longitude":-86.695535,
+    "iso:country":"US",
+    "sg:address":"105 Boyd Blvd",
+    "sg:city":"Laporte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 362 1222",
+    "sg:postcode":"46350",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941895,
+        102086409,
+        85891163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ELOfCfTkNzUa4ThPoze6e_41.622659_-86.695535@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590765,
+    "wof:geomhash":"75745146b80847a73fb86a99e8174f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941895,
+            "neighbourhood_id":85891163,
+            "region_id":85688709,
+            "venue_id":789816819
+        }
+    ],
+    "wof:id":789816819,
+    "wof:lastmodified":1462590765,
+    "wof:name":"LA Porte Fire Dept",
+    "wof:parent_id":85891163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.695535,
+    41.622659,
+    -86.695535,
+    41.622659
+],
+  "geometry": {"coordinates":[-86.69553500000001,41.622659],"type":"Point"}
+}

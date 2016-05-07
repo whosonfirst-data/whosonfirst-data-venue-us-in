@@ -1,0 +1,88 @@
+{
+  "id": 806912211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.142153,39.808691,-86.142153,39.808691",
+    "geom:latitude":39.808691,
+    "geom:longitude":-86.142153,
+    "iso:country":"US",
+    "sg:address":"2894 Sutherland Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 923 9438",
+    "sg:postcode":"46205",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519787,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01WaKKoItKks8MEZKkrDlT_39.808691_-86.142153@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602113,
+    "wof:geomhash":"e22928f020a0c4a5a1f38984651e3bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519787,
+            "region_id":85688709,
+            "venue_id":806912211
+        }
+    ],
+    "wof:id":806912211,
+    "wof:lastmodified":1462602113,
+    "wof:name":"Gaddy's Trucking",
+    "wof:parent_id":420519787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -86.142153,
+    39.808691,
+    -86.142153,
+    39.808691
+],
+  "geometry": {"coordinates":[-86.14215299999999,39.808691],"type":"Point"}
+}

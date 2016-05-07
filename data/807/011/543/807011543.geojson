@@ -1,0 +1,88 @@
+{
+  "id": 807011543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.280932,39.879089,-86.280932,39.879089",
+    "geom:latitude":39.879089,
+    "geom:longitude":-86.280932,
+    "iso:country":"US",
+    "sg:address":"6814 Bluffgrove Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 710 9566",
+    "sg:postcode":"46278",
+    "sg:province":"IN",
+    "sg:tags":[
+        "product",
+        "products-wholesale",
+        "diet",
+        "health",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830193,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JGzLVWqEpCBKSmIF9Jszw_39.879089_-86.280932@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602956,
+    "wof:geomhash":"cf716ad84d4adc19cb2307a8ce75adc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85830193,
+            "region_id":85688709,
+            "venue_id":807011543
+        }
+    ],
+    "wof:id":807011543,
+    "wof:lastmodified":1462602956,
+    "wof:name":"Whole Health Market",
+    "wof:parent_id":85830193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "products-wholesale",
+        "diet",
+        "health",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.280932,
+    39.879089,
+    -86.280932,
+    39.879089
+],
+  "geometry": {"coordinates":[-86.28093200000001,39.879089],"type":"Point"}
+}

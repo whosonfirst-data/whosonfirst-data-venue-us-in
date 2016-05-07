@@ -1,0 +1,71 @@
+{
+  "id": 790539889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617375,40.574223,-85.617375,40.574223",
+    "geom:latitude":40.574223,
+    "geom:longitude":-85.617375,
+    "iso:country":"US",
+    "sg:address":"1513 N Bethlehem Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 7143",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tZUKXGTeQAJbPBcv6NCbF_40.574223_-85.617375@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596705,
+    "wof:geomhash":"2d2f8f3e8e1fddb8733e84f51befe5c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":790539889
+        }
+    ],
+    "wof:id":790539889,
+    "wof:lastmodified":1462596705,
+    "wof:name":"Washington Twp Volunteer Fire",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.617375,
+    40.574223,
+    -85.617375,
+    40.574223
+],
+  "geometry": {"coordinates":[-85.617375,40.574223],"type":"Point"}
+}

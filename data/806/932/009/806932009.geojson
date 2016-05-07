@@ -1,0 +1,90 @@
+{
+  "id": 806932009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.235076,39.715798,-86.235076,39.715798",
+    "geom:latitude":39.715798,
+    "geom:longitude":-86.235076,
+    "iso:country":"US",
+    "sg:address":"3333 Kentucky Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 270 9999",
+    "sg:postcode":"46221",
+    "sg:province":"IN",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865505,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U87Jtluq8ag7qNz4825Hf_39.715798_-86.235076@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602291,
+    "wof:geomhash":"4c87c761ba2bf0ad78650b5b5556c408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85865505,
+            "region_id":85688709,
+            "venue_id":806932009
+        }
+    ],
+    "wof:id":806932009,
+    "wof:lastmodified":1462602291,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85865505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.235076,
+    39.715798,
+    -86.235076,
+    39.715798
+],
+  "geometry": {"coordinates":[-86.23507600000001,39.715798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790295127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.566895,39.034179,-86.566895,39.034179",
+    "geom:latitude":39.034179,
+    "geom:longitude":-86.566895,
+    "iso:country":"US",
+    "sg:address":"8799 S Ketcham Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 824 7567",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BfeMchdomsdpRQarESlL2_39.034179_-86.566895@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594731,
+    "wof:geomhash":"b3c70b302661a94fd82372264acc2af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":790295127
+        }
+    ],
+    "wof:id":790295127,
+    "wof:lastmodified":1462594731,
+    "wof:name":"Clean & Sweep",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.566895,
+    39.034179,
+    -86.566895,
+    39.034179
+],
+  "geometry": {"coordinates":[-86.566895,39.034179],"type":"Point"}
+}

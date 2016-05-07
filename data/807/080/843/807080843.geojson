@@ -1,0 +1,76 @@
+{
+  "id": 807080843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.562663,39.177709,-86.562663,39.177709",
+    "geom:latitude":39.177709,
+    "geom:longitude":-86.562663,
+    "iso:country":"US",
+    "sg:address":"2810 W Hensonburg Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 2424",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tIzULepuV3xMrIonL2P44_39.177709_-86.562663@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603540,
+    "wof:geomhash":"c4fc4aee14dda50c02e9680da44faa73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807080843
+        }
+    ],
+    "wof:id":807080843,
+    "wof:lastmodified":1462603540,
+    "wof:name":"Sturgis Garage & Wrecker Service",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -86.562663,
+    39.177709,
+    -86.562663,
+    39.177709
+],
+  "geometry": {"coordinates":[-86.562663,39.177709],"type":"Point"}
+}

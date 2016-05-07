@@ -1,0 +1,75 @@
+{
+  "id": 789804221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.407993,39.412447,-87.407993,39.412447",
+    "geom:latitude":39.412447,
+    "geom:longitude":-87.407993,
+    "iso:country":"US",
+    "sg:address":"620 E Springhill Dr",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 2623",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ubi5q7pAfE8Za1cY37qfv_39.412447_-87.407993@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590670,
+    "wof:geomhash":"6853b5b8ddd2410eabe2de93bc85cfe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":789804221
+        }
+    ],
+    "wof:id":789804221,
+    "wof:lastmodified":1462590670,
+    "wof:name":"Tobacco Barn",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.407993,
+    39.412447,
+    -87.407993,
+    39.412447
+],
+  "geometry": {"coordinates":[-87.407993,39.412447],"type":"Point"}
+}

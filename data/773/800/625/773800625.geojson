@@ -1,0 +1,73 @@
+{
+  "id": 773800625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.891132,38.956839,-85.891132,38.956839",
+    "geom:latitude":38.956839,
+    "geom:longitude":-85.891132,
+    "iso:country":"US",
+    "sg:address":"402 W Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 3575",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dh1jFc6RJode9UdNqj8Cd_38.956839_-85.891132@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588471,
+    "wof:geomhash":"27083a5a8137fe87abc1e245d4204727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":773800625
+        }
+    ],
+    "wof:id":773800625,
+    "wof:lastmodified":1462588471,
+    "wof:name":"Charles F Wolter Jr MD",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.891132,
+    38.956839,
+    -85.891132,
+    38.956839
+],
+  "geometry": {"coordinates":[-85.891132,38.956839],"type":"Point"}
+}

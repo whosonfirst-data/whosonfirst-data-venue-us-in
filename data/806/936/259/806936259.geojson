@@ -1,0 +1,85 @@
+{
+  "id": 806936259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.258049,39.794659,-86.258049,39.794659",
+    "geom:latitude":39.794659,
+    "geom:longitude":-86.258049,
+    "iso:country":"US",
+    "sg:address":"5620 Crawfordsville Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 487 2880",
+    "sg:postcode":"46224",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pizza",
+        "take",
+        "italian"
+    ],
+    "sg:website":"http://www.donatos.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870677,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJp8oDfpnwKlnuVcQRRY7_39.794659_-86.258049@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602327,
+    "wof:geomhash":"652e6cf4cc050f3ff5cc75882c112e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870677,
+            "region_id":85688709,
+            "venue_id":806936259
+        }
+    ],
+    "wof:id":806936259,
+    "wof:lastmodified":1462602327,
+    "wof:name":"Donatos Pizzeria",
+    "wof:parent_id":85870677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [
+    -86.258049,
+    39.794659,
+    -86.258049,
+    39.794659
+],
+  "geometry": {"coordinates":[-86.258049,39.794659],"type":"Point"}
+}

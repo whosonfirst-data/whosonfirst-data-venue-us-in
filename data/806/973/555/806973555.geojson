@@ -1,0 +1,107 @@
+{
+  "id": 806973555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.258276,39.708623,-86.258276,39.708623",
+    "geom:latitude":39.708623,
+    "geom:longitude":-86.258276,
+    "iso:country":"US",
+    "sg:address":"3902 Hanna Cir",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 821 2420",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.dhl-usa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853431,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LlwEDdOjUg8HDnFbtRjWJ_39.708623_-86.258276@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602638,
+    "wof:geomhash":"f0add3d9a423a50b9f0e0ff5e41173f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85853431,
+            "region_id":85688709,
+            "venue_id":806973555
+        }
+    ],
+    "wof:id":806973555,
+    "wof:lastmodified":1462602638,
+    "wof:name":"DHL",
+    "wof:parent_id":85853431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -86.258276,
+    39.708623,
+    -86.258276,
+    39.708623
+],
+  "geometry": {"coordinates":[-86.258276,39.708623],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807022693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.445099,41.645699,-87.445099,41.645699",
+    "geom:latitude":41.645699,
+    "geom:longitude":-87.445099,
+    "iso:country":"US",
+    "sg:address":"3700 Main St",
+    "sg:city":"East Chicago",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 398 3016",
+    "sg:postcode":"46312",
+    "sg:province":"IN",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826901,
+        102191575,
+        404501869,
+        85633793,
+        85941811,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fbltAMJ8weRD23Qfh1bwx_41.645699_-87.445099@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462603059,
+    "wof:geomhash":"e570f78f12c9b05bca1f667d3ddb8395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941811,
+            "neighbourhood_id":85826901,
+            "region_id":85688709,
+            "venue_id":807022693
+        }
+    ],
+    "wof:id":807022693,
+    "wof:lastmodified":1462603059,
+    "wof:name":"Kakodkar Medical Clinic",
+    "wof:parent_id":85826901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -87.445099,
+    41.645699,
+    -87.445099,
+    41.645699
+],
+  "geometry": {"coordinates":[-87.445099,41.645699],"type":"Point"}
+}

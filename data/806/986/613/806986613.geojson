@@ -1,0 +1,85 @@
+{
+  "id": 806986613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.23324,39.854891,-86.23324,39.854891",
+    "geom:latitude":39.854891,
+    "geom:longitude":-86.23324,
+    "iso:country":"US",
+    "sg:address":"5671 Guion Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 631 5316",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clean",
+        "boilers-repair",
+        "boilers-rental"
+    ],
+    "sg:website":"http://www.bakermechanical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807693,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52IMDzobfc1XuQnfiNHcSY_39.854891_-86.233240@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602749,
+    "wof:geomhash":"055526bd2df53891a45403583977c8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85807693,
+            "region_id":85688709,
+            "venue_id":806986613
+        }
+    ],
+    "wof:id":806986613,
+    "wof:lastmodified":1462602749,
+    "wof:name":"Baker Mechanical Services",
+    "wof:parent_id":85807693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clean",
+        "boilers-repair",
+        "boilers-rental"
+    ]
+},
+  "bbox": [
+    -86.23324,
+    39.854891,
+    -86.23324,
+    39.854891
+],
+  "geometry": {"coordinates":[-86.23324,39.854891],"type":"Point"}
+}

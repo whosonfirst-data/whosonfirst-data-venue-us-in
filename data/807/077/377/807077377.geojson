@@ -1,0 +1,71 @@
+{
+  "id": 807077377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.576082,39.164431,-86.576082,39.164431",
+    "geom:latitude":39.164431,
+    "geom:longitude":-86.576082,
+    "iso:country":"US",
+    "sg:address":"3295 W 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 0494",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qZQOpt9Mr2VxwAT9oejHW_39.164431_-86.576082@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603513,
+    "wof:geomhash":"151634f7eb6aad7be111b25438ff3bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807077377
+        }
+    ],
+    "wof:id":807077377,
+    "wof:lastmodified":1462603513,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -86.576082,
+    39.164431,
+    -86.576082,
+    39.164431
+],
+  "geometry": {"coordinates":[-86.576082,39.164431],"type":"Point"}
+}

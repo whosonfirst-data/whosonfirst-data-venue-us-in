@@ -1,0 +1,82 @@
+{
+  "id": 807079395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.575996,39.164501,-86.575996,39.164501",
+    "geom:latitude":39.164501,
+    "geom:longitude":-86.575996,
+    "iso:country":"US",
+    "sg:address":"100 N Gates Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 330 1200",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "equipment"
+    ],
+    "sg:website":"www.officedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qPKv5Rf6s5jpS2RGhb1PD_39.164501_-86.575996@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603528,
+    "wof:geomhash":"8d9e6ac2738c187504d37133e9246878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807079395
+        }
+    ],
+    "wof:id":807079395,
+    "wof:lastmodified":1462603528,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -86.575996,
+    39.164501,
+    -86.575996,
+    39.164501
+],
+  "geometry": {"coordinates":[-86.575996,39.164501],"type":"Point"}
+}

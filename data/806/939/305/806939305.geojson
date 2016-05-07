@@ -1,0 +1,83 @@
+{
+  "id": 806939305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.158224,39.76327,-86.158224,39.76327",
+    "geom:latitude":39.76327,
+    "geom:longitude":-86.158224,
+    "iso:country":"US",
+    "sg:address":"251 S Meridian St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 916 0100",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "ticket",
+        "sale"
+    ],
+    "sg:website":"http://www.ticketsolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870643,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5stleRiUPJCtVJneSvazX2_39.763270_-86.158224@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602355,
+    "wof:geomhash":"dd822dd2b114f3ca042167e9b1a85383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870643,
+            "region_id":85688709,
+            "venue_id":806939305
+        }
+    ],
+    "wof:id":806939305,
+    "wof:lastmodified":1462602355,
+    "wof:name":"Wholesale Ticket Service Inc",
+    "wof:parent_id":85870643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "sale"
+    ]
+},
+  "bbox": [
+    -86.158224,
+    39.76327,
+    -86.158224,
+    39.76327
+],
+  "geometry": {"coordinates":[-86.158224,39.76327],"type":"Point"}
+}

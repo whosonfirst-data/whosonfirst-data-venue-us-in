@@ -1,0 +1,71 @@
+{
+  "id": 789964465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.962005,40.467178,-86.962005,40.467178",
+    "geom:latitude":40.467178,
+    "geom:longitude":-86.962005,
+    "iso:country":"US",
+    "sg:address":"3412 Klondike Rd",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 463 6726",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85813095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Iu3e4sLmRSAOsJeWb9Mu3_40.467178_-86.962005@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592033,
+    "wof:geomhash":"2e39801f22a02ad52ad443d99747e5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85813095,
+            "region_id":85688709,
+            "venue_id":789964465
+        }
+    ],
+    "wof:id":789964465,
+    "wof:lastmodified":1462592033,
+    "wof:name":"Klondike Family Dental Ctr",
+    "wof:parent_id":85813095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.962005,
+    40.467178,
+    -86.962005,
+    40.467178
+],
+  "geometry": {"coordinates":[-86.962005,40.467178],"type":"Point"}
+}

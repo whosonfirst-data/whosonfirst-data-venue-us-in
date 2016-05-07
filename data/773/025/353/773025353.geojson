@@ -1,0 +1,73 @@
+{
+  "id": 773025353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.582552,39.150471,-86.582552,39.150471",
+    "geom:latitude":39.150471,
+    "geom:longitude":-86.582552,
+    "iso:country":"US",
+    "sg:address":"1829 S Curry Pike",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 3931",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ju3lBR3XHByyEhi1BHSXZ_39.150471_-86.582552@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582520,
+    "wof:geomhash":"54752579d99d72b13f73b5509db94ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":773025353
+        }
+    ],
+    "wof:id":773025353,
+    "wof:lastmodified":1462582520,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -86.582552,
+    39.150471,
+    -86.582552,
+    39.150471
+],
+  "geometry": {"coordinates":[-86.58255200000001,39.150471],"type":"Point"}
+}

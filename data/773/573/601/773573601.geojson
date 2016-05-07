@@ -1,0 +1,76 @@
+{
+  "id": 773573601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.432415,39.416211,-86.432415,39.416211",
+    "geom:latitude":39.416211,
+    "geom:longitude":-86.432415,
+    "iso:country":"US",
+    "sg:address":"1326 Morton Ave",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 349 9154",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ANkmRINVMTndjHOZNTPq9_39.416211_-86.432415@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586757,
+    "wof:geomhash":"f9b13a7cc473ac5e562bb5deccc571e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":773573601
+        }
+    ],
+    "wof:id":773573601,
+    "wof:lastmodified":1462586757,
+    "wof:name":"Morgan County Offices",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative"
+    ]
+},
+  "bbox": [
+    -86.432415,
+    39.416211,
+    -86.432415,
+    39.416211
+],
+  "geometry": {"coordinates":[-86.43241500000001,39.416211],"type":"Point"}
+}

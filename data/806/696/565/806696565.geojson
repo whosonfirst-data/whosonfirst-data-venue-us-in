@@ -1,0 +1,73 @@
+{
+  "id": 806696565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.851854,40.411283,-86.851854,40.411283",
+    "geom:latitude":40.411283,
+    "geom:longitude":-86.851854,
+    "iso:country":"US",
+    "sg:address":"99 Farabee Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 446 7802",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25DMKbIU5VnLCkU48wlm1R_40.411283_-86.851854@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600308,
+    "wof:geomhash":"838c769845acedbb54dcd8ab5a7d0c3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":806696565
+        }
+    ],
+    "wof:id":806696565,
+    "wof:lastmodified":1462600308,
+    "wof:name":"Scotty's Muffler Brake & Svc",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.851854,
+    40.411283,
+    -86.851854,
+    40.411283
+],
+  "geometry": {"coordinates":[-86.851854,40.411283],"type":"Point"}
+}

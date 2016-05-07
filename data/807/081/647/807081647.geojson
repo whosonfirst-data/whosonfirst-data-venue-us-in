@@ -1,0 +1,71 @@
+{
+  "id": 807081647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.567803,39.165635,-86.567803,39.165635",
+    "geom:latitude":39.165635,
+    "geom:longitude":-86.567803,
+    "iso:country":"US",
+    "sg:address":"211 S Kimble Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 0861",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H99dCxPHtl5VA56gmdXOa_39.165635_-86.567803@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603546,
+    "wof:geomhash":"4fb8bf3f26b3b7d78ad55a21560b8cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807081647
+        }
+    ],
+    "wof:id":807081647,
+    "wof:lastmodified":1462603546,
+    "wof:name":"Redbrick Apartment Office",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.567803,
+    39.165635,
+    -86.567803,
+    39.165635
+],
+  "geometry": {"coordinates":[-86.567803,39.165635],"type":"Point"}
+}

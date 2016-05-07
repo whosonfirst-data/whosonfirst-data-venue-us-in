@@ -1,0 +1,71 @@
+{
+  "id": 790000117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.904669,40.421288,-86.904669,40.421288",
+    "geom:latitude":40.421288,
+    "geom:longitude":-86.904669,
+    "iso:country":"US",
+    "sg:address":"108 S River Rd",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 743 5094",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85823837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aqEtKdxmSgdQXcEd3IZdl_40.421288_-86.904669@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592330,
+    "wof:geomhash":"87bb373ff3137de17b2ea7c967c8e471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85823837,
+            "region_id":85688709,
+            "venue_id":790000117
+        }
+    ],
+    "wof:id":790000117,
+    "wof:lastmodified":1462592330,
+    "wof:name":"River Market Apartments",
+    "wof:parent_id":85823837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.904669,
+    40.421288,
+    -86.904669,
+    40.421288
+],
+  "geometry": {"coordinates":[-86.904669,40.421288],"type":"Point"}
+}

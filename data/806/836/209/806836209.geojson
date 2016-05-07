@@ -1,0 +1,78 @@
+{
+  "id": 806836209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.387552,39.50667,-87.387552,39.50667",
+    "geom:latitude":39.50667,
+    "geom:longitude":-87.387552,
+    "iso:country":"US",
+    "sg:address":"1950 Fort Harrison Rd",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/harrison/88618-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 466 6535",
+    "sg:postcode":"47804",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e6sg6JUTD7251cSp4WN4K_39.506670_-87.387552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601477,
+    "wof:geomhash":"f4db4c8f7168d1cb642fa911ae55775c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814437,
+            "region_id":85688709,
+            "venue_id":806836209
+        }
+    ],
+    "wof:id":806836209,
+    "wof:lastmodified":1462601477,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85814437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.387552,
+    39.50667,
+    -87.387552,
+    39.50667
+],
+  "geometry": {"coordinates":[-87.387552,39.50667],"type":"Point"}
+}

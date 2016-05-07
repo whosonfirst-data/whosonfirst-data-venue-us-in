@@ -1,0 +1,75 @@
+{
+  "id": 789701725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673621,40.531564,-85.673621,40.531564",
+    "geom:latitude":40.531564,
+    "geom:longitude":-85.673621,
+    "iso:country":"US",
+    "sg:address":"3233 S Western Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 1944",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dW4XZb5tnR6zl40a0IzhE_40.531564_-85.673621@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589870,
+    "wof:geomhash":"8352c49e0df90c4dfc5576d1305badd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":789701725
+        }
+    ],
+    "wof:id":789701725,
+    "wof:lastmodified":1462589870,
+    "wof:name":"American Auto Body & Frame",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.673621,
+    40.531564,
+    -85.673621,
+    40.531564
+],
+  "geometry": {"coordinates":[-85.673621,40.531564],"type":"Point"}
+}

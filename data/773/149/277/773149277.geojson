@@ -1,0 +1,69 @@
+{
+  "id": 773149277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.631538,39.240477,-86.631538,39.240477",
+    "geom:latitude":39.240477,
+    "geom:longitude":-86.631538,
+    "iso:country":"US",
+    "sg:address":"1406 W Temperance St",
+    "sg:city":"Ellettsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 876 2272",
+    "sg:postcode":"47429",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eE9YlP4KegyD2hPplhA8X_39.240477_-86.631538@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583499,
+    "wof:geomhash":"c85521d7d9df1f311e84be487671f688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":773149277
+        }
+    ],
+    "wof:id":773149277,
+    "wof:lastmodified":1462583499,
+    "wof:name":"Ellettsville Police",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.631538,
+    39.240477,
+    -86.631538,
+    39.240477
+],
+  "geometry": {"coordinates":[-86.63153800000001,39.240477],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790542797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673552,40.525721,-85.673552,40.525721",
+    "geom:latitude":40.525721,
+    "geom:longitude":-85.673552,
+    "iso:country":"US",
+    "sg:address":"3601 S Western Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 9905",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qth8AYwMhibknEUZQIYws_40.525721_-85.673552@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596727,
+    "wof:geomhash":"ace726d18b5c91fc823949bba1ba702e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":790542797
+        }
+    ],
+    "wof:id":790542797,
+    "wof:lastmodified":1462596727,
+    "wof:name":"Appliance Center",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -85.673552,
+    40.525721,
+    -85.673552,
+    40.525721
+],
+  "geometry": {"coordinates":[-85.673552,40.525721],"type":"Point"}
+}

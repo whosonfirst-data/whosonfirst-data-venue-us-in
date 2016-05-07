@@ -1,0 +1,73 @@
+{
+  "id": 806481233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.324239,39.316166,-87.324239,39.316166",
+    "geom:latitude":39.316166,
+    "geom:longitude":-87.324239,
+    "iso:country":"US",
+    "sg:address":"12200 S Singhurst St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 894 2172",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PImrjWM2x6706sfFXIUWW_39.316166_-87.324239@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598478,
+    "wof:geomhash":"122dd2c77fe5f9acc3f0ac73213b308b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":806481233
+        }
+    ],
+    "wof:id":806481233,
+    "wof:lastmodified":1462598478,
+    "wof:name":"S & S Trucking Inc",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.324239,
+    39.316166,
+    -87.324239,
+    39.316166
+],
+  "geometry": {"coordinates":[-87.32423900000001,39.316166],"type":"Point"}
+}

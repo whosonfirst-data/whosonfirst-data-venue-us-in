@@ -1,0 +1,71 @@
+{
+  "id": 790314587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.373909,39.47174,-87.373909,39.47174",
+    "geom:latitude":39.47174,
+    "geom:longitude":-87.373909,
+    "iso:country":"US",
+    "sg:address":"2940 Wabash Ave",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 0633",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JJo1jRQwmNWJuUW2SS2js_39.471740_-87.373909@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594879,
+    "wof:geomhash":"b6acaad213d09d978feb6d084dd3963d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":790314587
+        }
+    ],
+    "wof:id":790314587,
+    "wof:lastmodified":1462594879,
+    "wof:name":"Maurizio's Pizza",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.373909,
+    39.47174,
+    -87.373909,
+    39.47174
+],
+  "geometry": {"coordinates":[-87.373909,39.47174],"type":"Point"}
+}

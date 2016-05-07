@@ -1,0 +1,73 @@
+{
+  "id": 806802691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.499615,40.046614,-86.499615,40.046614",
+    "geom:latitude":40.046614,
+    "geom:longitude":-86.499615,
+    "iso:country":"US",
+    "sg:address":"1514 W South St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/186463-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hqPJZR87mjGZcQkwGDYYZ_40.046614_-86.499615@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601206,
+    "wof:geomhash":"7acd15eb403fc1364467280ec0bdd584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806802691
+        }
+    ],
+    "wof:id":806802691,
+    "wof:lastmodified":1462601206,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.499615,
+    40.046614,
+    -86.499615,
+    40.046614
+],
+  "geometry": {"coordinates":[-86.49961500000001,40.046614],"type":"Point"}
+}

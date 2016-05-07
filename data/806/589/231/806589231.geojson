@@ -1,0 +1,75 @@
+{
+  "id": 806589231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.809375,38.88208,-85.809375,38.88208",
+    "geom:latitude":38.88208,
+    "geom:longitude":-85.809375,
+    "iso:country":"US",
+    "sg:address":"12086 E Base Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 3666",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zB6dkcJhWjS0mhuwvx0tA_38.882080_-85.809375@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599393,
+    "wof:geomhash":"d48d014d935222858abdc9824e237bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806589231
+        }
+    ],
+    "wof:id":806589231,
+    "wof:lastmodified":1462599393,
+    "wof:name":"Walker's Kennels",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.809375,
+    38.88208,
+    -85.809375,
+    38.88208
+],
+  "geometry": {"coordinates":[-85.809375,38.88208],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806446245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.860783,40.419013,-86.860783,40.419013",
+    "geom:latitude":40.419013,
+    "geom:longitude":-86.860783,
+    "iso:country":"US",
+    "sg:address":"18 N Earl Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 742 2177",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6umct0K2qXzs7sgDXoBKF1_40.419013_-86.860783@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598219,
+    "wof:geomhash":"475cbdf8d449e07e06d9e63fc22738cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806446245
+        }
+    ],
+    "wof:id":806446245,
+    "wof:lastmodified":1462598219,
+    "wof:name":"Lafayette Office Supply Inc",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -86.860783,
+    40.419013,
+    -86.860783,
+    40.419013
+],
+  "geometry": {"coordinates":[-86.860783,40.419013],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 806815727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.025925,41.469333,-87.025925,41.469333",
+    "geom:latitude":41.469333,
+    "geom:longitude":-87.025925,
+    "iso:country":"US",
+    "sg:address":"2710 Laporte Ave",
+    "sg:city":"Valparaiso",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/valparaiso/103006-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 476 0080",
+    "sg:postcode":"46383",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942401,
+        102087191,
+        85891195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ljP2N68mZZfX3UANePuia_41.469333_-87.025925@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601309,
+    "wof:geomhash":"e045b364291b5fafeae0f6ea3c3e9523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942401,
+            "neighbourhood_id":85891195,
+            "region_id":85688709,
+            "venue_id":806815727
+        }
+    ],
+    "wof:id":806815727,
+    "wof:lastmodified":1462601309,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85891195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -87.025925,
+    41.469333,
+    -87.025925,
+    41.469333
+],
+  "geometry": {"coordinates":[-87.025925,41.469333],"type":"Point"}
+}

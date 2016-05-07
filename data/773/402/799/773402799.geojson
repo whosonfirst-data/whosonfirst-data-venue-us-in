@@ -1,0 +1,75 @@
+{
+  "id": 773402799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.90063,39.193911,-85.90063,39.193911",
+    "geom:latitude":39.193911,
+    "geom:longitude":-85.90063,
+    "iso:country":"US",
+    "sg:address":"351 S Mapleton St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 376 2763",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YFUNzKVq3STXGFOEONiLI_39.193911_-85.900630@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585422,
+    "wof:geomhash":"5a3eb0205bd323b3542a7ef0c104f302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":773402799
+        }
+    ],
+    "wof:id":773402799,
+    "wof:lastmodified":1462585422,
+    "wof:name":"Columbus Collision Ctr Inc",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.90063,
+    39.193911,
+    -85.90063,
+    39.193911
+],
+  "geometry": {"coordinates":[-85.90063000000001,39.193911],"type":"Point"}
+}

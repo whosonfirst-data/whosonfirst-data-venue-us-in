@@ -1,0 +1,87 @@
+{
+  "id": 807025009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.427734,41.522818,-87.427734,41.522818",
+    "geom:latitude":41.522818,
+    "geom:longitude":-87.427734,
+    "iso:country":"US",
+    "sg:address":"115 N Broad St",
+    "sg:city":"Griffith",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 924 7503",
+    "sg:postcode":"46319",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.griffithindiana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891125,
+        102191575,
+        404501857,
+        85633793,
+        85941815,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24UE2NMhJxHMhIGPZNG1sV_41.522818_-87.427734@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462603077,
+    "wof:geomhash":"a46cf6b9d081f2ecca97c66105a6f3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941815,
+            "neighbourhood_id":85891125,
+            "region_id":85688709,
+            "venue_id":807025009
+        }
+    ],
+    "wof:id":807025009,
+    "wof:lastmodified":1462603077,
+    "wof:name":"Griffith Police Department",
+    "wof:parent_id":85891125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -87.427734,
+    41.522818,
+    -87.427734,
+    41.522818
+],
+  "geometry": {"coordinates":[-87.427734,41.522818],"type":"Point"}
+}

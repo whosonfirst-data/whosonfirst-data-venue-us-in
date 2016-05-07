@@ -1,0 +1,73 @@
+{
+  "id": 789928289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.354014,41.420256,-87.354014,41.420256",
+    "geom:latitude":41.420256,
+    "geom:longitude":-87.354014,
+    "iso:country":"US",
+    "sg:address":"800 E North St",
+    "sg:city":"Crown Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 663 3936",
+    "sg:postcode":"46307",
+    "sg:province":"IN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941787,
+        102087149,
+        85854185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04LLEp91v6Q8xrccyYvQrz_41.420256_-87.354014@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591698,
+    "wof:geomhash":"d440f5e44d3ab941e9d70ebe777d9401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087149,
+            "locality_id":85941787,
+            "neighbourhood_id":85854185,
+            "region_id":85688709,
+            "venue_id":789928289
+        }
+    ],
+    "wof:id":789928289,
+    "wof:lastmodified":1462591698,
+    "wof:name":"Storage Unlimited",
+    "wof:parent_id":85854185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.354014,
+    41.420256,
+    -87.354014,
+    41.420256
+],
+  "geometry": {"coordinates":[-87.35401400000001,41.420256],"type":"Point"}
+}

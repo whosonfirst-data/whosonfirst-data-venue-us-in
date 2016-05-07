@@ -1,0 +1,85 @@
+{
+  "id": 806944259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.148949,39.709141,-86.148949,39.709141",
+    "geom:latitude":39.709141,
+    "geom:longitude":-86.148949,
+    "iso:country":"US",
+    "sg:address":"3901 S East St Ste B",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 780 4433",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=0848&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853129,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RICVA0Kk2TqJUqfIiOaR5_39.709141_-86.148949@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602394,
+    "wof:geomhash":"900ce3c19e1045cf8e2585a66dc72ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85853129,
+            "region_id":85688709,
+            "venue_id":806944259
+        }
+    ],
+    "wof:id":806944259,
+    "wof:lastmodified":1462602394,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85853129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.148949,
+    39.709141,
+    -86.148949,
+    39.709141
+],
+  "geometry": {"coordinates":[-86.148949,39.709141],"type":"Point"}
+}

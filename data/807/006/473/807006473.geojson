@@ -1,0 +1,86 @@
+{
+  "id": 807006473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.243949,39.883538,-86.243949,39.883538",
+    "geom:latitude":39.883538,
+    "geom:longitude":-86.243949,
+    "iso:country":"US",
+    "sg:address":"7210 Georgetown Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 295 0664",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking",
+        "trucking-heavy",
+        "hauling",
+        "trucking-motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519805,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FJznqqFqZMdDeNIhtROFe_39.883538_-86.243949@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602915,
+    "wof:geomhash":"ded856655eacfb56643a618d0676a963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519805,
+            "region_id":85688709,
+            "venue_id":807006473
+        }
+    ],
+    "wof:id":807006473,
+    "wof:lastmodified":1462602915,
+    "wof:name":"Marten Transport",
+    "wof:parent_id":420519805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "trucking-heavy",
+        "hauling",
+        "trucking-motor"
+    ]
+},
+  "bbox": [
+    -86.243949,
+    39.883538,
+    -86.243949,
+    39.883538
+],
+  "geometry": {"coordinates":[-86.243949,39.883538],"type":"Point"}
+}

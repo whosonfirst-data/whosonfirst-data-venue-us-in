@@ -1,0 +1,72 @@
+{
+  "id": 806802679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.501095,40.032283,-86.501095,40.032283",
+    "geom:latitude":40.032283,
+    "geom:longitude":-86.501095,
+    "iso:country":"US",
+    "sg:address":"435 S Mount Zion Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/208080-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 2355",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4cwPU63YMalitsD8oIYw_40.032283_-86.501095@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601206,
+    "wof:geomhash":"f969932c31f4e496f96926e9abd33f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806802679
+        }
+    ],
+    "wof:id":806802679,
+    "wof:lastmodified":1462601206,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.501095,
+    40.032283,
+    -86.501095,
+    40.032283
+],
+  "geometry": {"coordinates":[-86.50109500000001,40.032283],"type":"Point"}
+}

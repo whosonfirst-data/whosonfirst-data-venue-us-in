@@ -1,0 +1,71 @@
+{
+  "id": 790422733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.890778,40.420125,-86.890778,40.420125",
+    "geom:latitude":40.420125,
+    "geom:longitude":-86.890778,
+    "iso:country":"US",
+    "sg:address":"512 Ferry St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 742 0179",
+    "sg:postcode":"47901",
+    "sg:province":"IN",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJyAPPbvgRusjliQwhCRv_40.420125_-86.890778@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595702,
+    "wof:geomhash":"7644a8c337f39c8d1c26381dd598b510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":790422733
+        }
+    ],
+    "wof:id":790422733,
+    "wof:lastmodified":1462595702,
+    "wof:name":"Klumpe Upholstery",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -86.890778,
+    40.420125,
+    -86.890778,
+    40.420125
+],
+  "geometry": {"coordinates":[-86.890778,40.420125],"type":"Point"}
+}

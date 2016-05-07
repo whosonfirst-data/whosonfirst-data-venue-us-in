@@ -1,0 +1,71 @@
+{
+  "id": 789900193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.811052,38.962808,-85.811052,38.962808",
+    "geom:latitude":38.962808,
+    "geom:longitude":-85.811052,
+    "iso:country":"US",
+    "sg:address":"5543 N Co Rd 1225 E",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 524 9014",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ex6RGpNZSxA9vnReho87v_38.962808_-85.811052@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591447,
+    "wof:geomhash":"db327def5f985138c2e4d255b32eb643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":789900193
+        }
+    ],
+    "wof:id":789900193,
+    "wof:lastmodified":1462591447,
+    "wof:name":"Conner Mike Tri Axle Trucking",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.811052,
+    38.962808,
+    -85.811052,
+    38.962808
+],
+  "geometry": {"coordinates":[-85.811052,38.962808],"type":"Point"}
+}

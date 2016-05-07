@@ -1,0 +1,78 @@
+{
+  "id": 806834283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.563856,37.985633,-87.563856,37.985633",
+    "geom:latitude":37.985633,
+    "geom:longitude":-87.563856,
+    "iso:country":"US",
+    "sg:address":"900 N Main St",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/pigeon/167306-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 421 1060",
+    "sg:postcode":"47711",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877293,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37ItxngnCj5fLAMgDimlXP_37.985633_-87.563856@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601459,
+    "wof:geomhash":"d55cefd52eca9eec2a8cf5f26eb8fea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877293,
+            "region_id":85688709,
+            "venue_id":806834283
+        }
+    ],
+    "wof:id":806834283,
+    "wof:lastmodified":1462601459,
+    "wof:name":"Burger King",
+    "wof:parent_id":85877293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.563856,
+    37.985633,
+    -87.563856,
+    37.985633
+],
+  "geometry": {"coordinates":[-87.563856,37.985633],"type":"Point"}
+}

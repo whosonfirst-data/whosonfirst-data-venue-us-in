@@ -1,0 +1,71 @@
+{
+  "id": 790584043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220609,40.133871,-86.220609,40.133871",
+    "geom:latitude":40.133871,
+    "geom:longitude":-86.220609,
+    "iso:country":"US",
+    "sg:address":"506 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 758 5212",
+    "sg:postcode":"46069",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VOz9iYYB28qh27JdX1meb_40.133871_-86.220609@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597077,
+    "wof:geomhash":"c815d0d96b8727f5833d9fb18a85b145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":790584043
+        }
+    ],
+    "wof:id":790584043,
+    "wof:lastmodified":1462597077,
+    "wof:name":"Sheridan Police Dept",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.220609,
+    40.133871,
+    -86.220609,
+    40.133871
+],
+  "geometry": {"coordinates":[-86.220609,40.133871],"type":"Point"}
+}

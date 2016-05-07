@@ -1,0 +1,73 @@
+{
+  "id": 806546807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.885167,39.210319,-85.885167,39.210319",
+    "geom:latitude":39.210319,
+    "geom:longitude":-85.885167,
+    "iso:country":"US",
+    "sg:address":"1120 N Marr Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 376 9219",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rByiIM6hX4qHSdg4tyWOT_39.210319_-85.885167@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599010,
+    "wof:geomhash":"a2b9c048b56856d9e591e1be3282fe99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":806546807
+        }
+    ],
+    "wof:id":806546807,
+    "wof:lastmodified":1462599010,
+    "wof:name":"Columbus Pediatrics",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.885167,
+    39.210319,
+    -85.885167,
+    39.210319
+],
+  "geometry": {"coordinates":[-85.885167,39.210319],"type":"Point"}
+}

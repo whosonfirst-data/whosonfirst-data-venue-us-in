@@ -1,0 +1,71 @@
+{
+  "id": 790123481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.962102,40.457561,-86.962102,40.457561",
+    "geom:latitude":40.457561,
+    "geom:longitude":-86.962102,
+    "iso:country":"US",
+    "sg:address":"2801 Klondike Rd",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 497 7090",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85813095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v4JTexUGpfaMR150T1b5L_40.457561_-86.962102@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593317,
+    "wof:geomhash":"3cff8c72322fdae23254b5b28c3261ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85813095,
+            "region_id":85688709,
+            "venue_id":790123481
+        }
+    ],
+    "wof:id":790123481,
+    "wof:lastmodified":1462593317,
+    "wof:name":"Classic Trends",
+    "wof:parent_id":85813095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.962102,
+    40.457561,
+    -86.962102,
+    40.457561
+],
+  "geometry": {"coordinates":[-86.962102,40.457561],"type":"Point"}
+}

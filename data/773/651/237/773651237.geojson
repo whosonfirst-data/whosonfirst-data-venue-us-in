@@ -1,0 +1,75 @@
+{
+  "id": 773651237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.384432,39.476937,-87.384432,39.476937",
+    "geom:latitude":39.476937,
+    "geom:longitude":-87.384432,
+    "iso:country":"US",
+    "sg:address":"811 N 22nd St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 1470",
+    "sg:postcode":"47807",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oE3KmapolA1khn5hgInKZ_39.476937_-87.384432@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587336,
+    "wof:geomhash":"850577545bebe5e3dff6b44b95375446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773651237
+        }
+    ],
+    "wof:id":773651237,
+    "wof:lastmodified":1462587336,
+    "wof:name":"John's Mower Repair",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -87.384432,
+    39.476937,
+    -87.384432,
+    39.476937
+],
+  "geometry": {"coordinates":[-87.384432,39.476937],"type":"Point"}
+}

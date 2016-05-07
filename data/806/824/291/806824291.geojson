@@ -1,0 +1,93 @@
+{
+  "id": 806824291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.136966,41.15352,-85.136966,41.15352",
+    "geom:latitude":41.15352,
+    "geom:longitude":-85.136966,
+    "iso:country":"US",
+    "sg:address":"8051 Coldwater Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/washington/47255-brick-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 969 1009",
+    "sg:postcode":"46825",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846339,
+        102191575,
+        404501179,
+        85633793,
+        85942149,
+        102087177,
+        85688709,
+        85877563,
+        404501169,
+        85942153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ywNUrUqDsbqfjgrToUjg5_41.153520_-85.136966@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601377,
+    "wof:geomhash":"d24565587751a5d3ab6daa6f21bab617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85846339,
+            "region_id":85688709,
+            "venue_id":806824291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501169,
+            "locality_id":85942153,
+            "neighbourhood_id":85877563,
+            "region_id":85688709,
+            "venue_id":806824291
+        }
+    ],
+    "wof:id":806824291,
+    "wof:lastmodified":1462601377,
+    "wof:name":"Brick House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.136966,
+    41.15352,
+    -85.136966,
+    41.15352
+],
+  "geometry": {"coordinates":[-85.136966,41.15352],"type":"Point"}
+}

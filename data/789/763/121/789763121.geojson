@@ -1,0 +1,71 @@
+{
+  "id": 789763121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.827199,41.238062,-85.827199,41.238062",
+    "geom:latitude":41.238062,
+    "geom:longitude":-85.827199,
+    "iso:country":"US",
+    "sg:address":"2223 E Center St",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 268 0022",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Et7SY0p5NuRN1NCgKefB5_41.238062_-85.827199@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590354,
+    "wof:geomhash":"2d2672b53cbb53949085fe7dbbcc7efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":789763121
+        }
+    ],
+    "wof:id":789763121,
+    "wof:lastmodified":1462590354,
+    "wof:name":"Warsaw Superwash",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.827199,
+    41.238062,
+    -85.827199,
+    41.238062
+],
+  "geometry": {"coordinates":[-85.82719899999999,41.238062],"type":"Point"}
+}

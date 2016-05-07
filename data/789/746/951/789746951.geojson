@@ -1,0 +1,77 @@
+{
+  "id": 789746951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.350723,41.601932,-87.350723,41.601932",
+    "geom:latitude":41.601932,
+    "geom:longitude":-87.350723,
+    "iso:country":"US",
+    "sg:address":"1021 W 5th Ave",
+    "sg:city":"Gary",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 880 1190",
+    "sg:postcode":"46402",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852319,
+        102191575,
+        404501857,
+        85633793,
+        85941813,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10rYHOqIZWD6BgbpxGNkro_41.601932_-87.350723@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590232,
+    "wof:geomhash":"52d2db9e344175fece868bb1414a9049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
+            "neighbourhood_id":85852319,
+            "region_id":85688709,
+            "venue_id":789746951
+        }
+    ],
+    "wof:id":789746951,
+    "wof:lastmodified":1462590232,
+    "wof:name":"Gary Community Health Ctr",
+    "wof:parent_id":85852319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.350723,
+    41.601932,
+    -87.350723,
+    41.601932
+],
+  "geometry": {"coordinates":[-87.350723,41.601932],"type":"Point"}
+}

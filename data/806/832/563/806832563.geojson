@@ -1,0 +1,87 @@
+{
+  "id": 806832563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.531163,39.186324,-86.531163,39.186324",
+    "geom:latitude":39.186324,
+    "geom:longitude":-86.531163,
+    "iso:country":"US",
+    "sg:address":"300 S State Road 446",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/bloomington/42914-chapmans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 337 9999",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "seafood",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85809723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MhRURsvkuwmXDWau78SxK_39.186324_-86.531163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601444,
+    "wof:geomhash":"8668eeea7894aacf804fd080800b48eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85809723,
+            "region_id":85688709,
+            "venue_id":806832563
+        }
+    ],
+    "wof:id":806832563,
+    "wof:lastmodified":1462601444,
+    "wof:name":"Chapman's",
+    "wof:parent_id":85809723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "seafood",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.531163,
+    39.186324,
+    -86.531163,
+    39.186324
+],
+  "geometry": {"coordinates":[-86.53116300000001,39.186324],"type":"Point"}
+}

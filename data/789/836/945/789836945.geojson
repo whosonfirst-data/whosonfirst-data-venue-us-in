@@ -1,0 +1,72 @@
+{
+  "id": 789836945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.994826,40.035729,-85.994826,40.035729",
+    "geom:latitude":40.035729,
+    "geom:longitude":-85.994826,
+    "iso:country":"US",
+    "sg:address":"17090 Mercantile Blvd",
+    "sg:city":"Noblesville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 773 7952",
+    "sg:postcode":"46060",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.barnesandnoble.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941337,
+        102087089,
+        85891191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GgFCbAJseGQmBSRCkPAKE_40.035729_-85.994826@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590920,
+    "wof:geomhash":"f0fcd02cd6c0beb11ae1513e48283174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941337,
+            "neighbourhood_id":85891191,
+            "region_id":85688709,
+            "venue_id":789836945
+        }
+    ],
+    "wof:id":789836945,
+    "wof:lastmodified":1462590920,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85891191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.994826,
+    40.035729,
+    -85.994826,
+    40.035729
+],
+  "geometry": {"coordinates":[-85.994826,40.035729],"type":"Point"}
+}

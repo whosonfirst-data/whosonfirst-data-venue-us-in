@@ -1,0 +1,71 @@
+{
+  "id": 789616489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.610191,39.125508,-86.610191,39.125508",
+    "geom:latitude":39.125508,
+    "geom:longitude":-86.610191,
+    "iso:country":"US",
+    "sg:address":"5699 W State Rd 45",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 825 6252",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P24LCmlmxjclHP2ww8mfn_39.125508_-86.610191@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589192,
+    "wof:geomhash":"76597377f8b684aa94095d2c2c665228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":789616489
+        }
+    ],
+    "wof:id":789616489,
+    "wof:lastmodified":1462589192,
+    "wof:name":"A C Warehouse",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -86.610191,
+    39.125508,
+    -86.610191,
+    39.125508
+],
+  "geometry": {"coordinates":[-86.610191,39.125508],"type":"Point"}
+}

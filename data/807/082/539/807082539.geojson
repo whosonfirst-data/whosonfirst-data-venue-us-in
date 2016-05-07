@@ -1,0 +1,78 @@
+{
+  "id": 807082539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4814,39.1665,-86.4814,39.1665",
+    "geom:latitude":39.1665,
+    "geom:longitude":-86.4814,
+    "iso:country":"US",
+    "sg:address":"115 N Smith Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 6115",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImcmpV5E1lcfjZaiAxH8n_39.166500_-86.481400@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603554,
+    "wof:geomhash":"82d1b63895bbaf0b7b84fdd9c585e3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":807082539
+        }
+    ],
+    "wof:id":807082539,
+    "wof:lastmodified":1462603554,
+    "wof:name":"Eastside Animal Hospital",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -86.4814,
+    39.1665,
+    -86.4814,
+    39.1665
+],
+  "geometry": {"coordinates":[-86.48139999999999,39.1665],"type":"Point"}
+}

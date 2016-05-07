@@ -1,0 +1,78 @@
+{
+  "id": 806830003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.405727,40.197643,-85.405727,40.197643",
+    "geom:latitude":40.197643,
+    "geom:longitude":-85.405727,
+    "iso:country":"US",
+    "sg:address":"1706 W University Ave",
+    "sg:city":"Muncie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/muncie/119998-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 289 3388",
+    "sg:postcode":"47303",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815231,
+        102191575,
+        404500501,
+        85633793,
+        85941463,
+        102087155,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKVdR1Kr4BFZFCG0ln5cv_40.197643_-85.405727@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601424,
+    "wof:geomhash":"e456ba8329c04fe0a16d106d195353e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087155,
+            "localadmin_id":404500501,
+            "locality_id":85941463,
+            "neighbourhood_id":85815231,
+            "region_id":85688709,
+            "venue_id":806830003
+        }
+    ],
+    "wof:id":806830003,
+    "wof:lastmodified":1462601424,
+    "wof:name":"Subway",
+    "wof:parent_id":85815231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.405727,
+    40.197643,
+    -85.405727,
+    40.197643
+],
+  "geometry": {"coordinates":[-85.405727,40.197643],"type":"Point"}
+}

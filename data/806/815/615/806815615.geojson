@@ -1,0 +1,76 @@
+{
+  "id": 806815615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.03769,41.46043,-87.03769,41.46043",
+    "geom:latitude":41.46043,
+    "geom:longitude":-87.03769,
+    "iso:country":"US",
+    "sg:address":"2211 Morthland Dr",
+    "sg:city":"Valparaiso",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/valparaiso/174151-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 464 2732",
+    "sg:postcode":"46383",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942401,
+        102087191,
+        85891195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03xGSrc6RYXUcJF4C4dg1d_41.460430_-87.037690@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601308,
+    "wof:geomhash":"99a367f91e628ff00e63a983beca43cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942401,
+            "neighbourhood_id":85891195,
+            "region_id":85688709,
+            "venue_id":806815615
+        }
+    ],
+    "wof:id":806815615,
+    "wof:lastmodified":1462601308,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85891195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.03769,
+    41.46043,
+    -87.03769,
+    41.46043
+],
+  "geometry": {"coordinates":[-87.03769,41.46043],"type":"Point"}
+}

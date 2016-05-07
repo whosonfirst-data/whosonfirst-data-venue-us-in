@@ -1,0 +1,73 @@
+{
+  "id": 806834123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.59177,38.355379,-87.59177,38.355379",
+    "geom:latitude":38.355379,
+    "geom:longitude":-87.59177,
+    "iso:country":"US",
+    "sg:address":"2001 W Broadway St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/patoka/186525-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10A1BGyoD6dP0NF0G0hHDJ_38.355379_-87.591770@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601458,
+    "wof:geomhash":"020132a2c228d09d264680ab9c9727ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":806834123
+        }
+    ],
+    "wof:id":806834123,
+    "wof:lastmodified":1462601458,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.59177,
+    38.355379,
+    -87.59177,
+    38.355379
+],
+  "geometry": {"coordinates":[-87.59177,38.355379],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789897185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.368779,39.930621,-85.368779,39.930621",
+    "geom:latitude":39.930621,
+    "geom:longitude":-85.368779,
+    "iso:country":"US",
+    "sg:address":"1411 Race St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 529 9000",
+    "sg:postcode":"47362",
+    "sg:province":"IN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805591,
+        102191575,
+        404500803,
+        85633793,
+        85942343,
+        102087085,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qymyKJjCzgR9hcuzjUHMq_39.930621_-85.368779@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591421,
+    "wof:geomhash":"6c33dd8f0612d1d91c10d76f7e429f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087085,
+            "localadmin_id":404500803,
+            "locality_id":85942343,
+            "neighbourhood_id":85805591,
+            "region_id":85688709,
+            "venue_id":789897185
+        }
+    ],
+    "wof:id":789897185,
+    "wof:lastmodified":1462591421,
+    "wof:name":"Mickey's Taxi Svc",
+    "wof:parent_id":85805591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.368779,
+    39.930621,
+    -85.368779,
+    39.930621
+],
+  "geometry": {"coordinates":[-85.368779,39.930621],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806662101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.900231,40.422101,-86.900231,40.422101",
+    "geom:latitude":40.422101,
+    "geom:longitude":-86.900231,
+    "iso:country":"US",
+    "sg:address":"400 Brown St",
+    "sg:city":"West Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 743 9665",
+    "sg:postcode":"47906",
+    "sg:province":"IN",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941375,
+        102087121,
+        85823837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wlzRRIp5HO8U8iRAlghaz_40.422101_-86.900231@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600019,
+    "wof:geomhash":"1eaeac3854343f0b5141baca3461fbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941375,
+            "neighbourhood_id":85823837,
+            "region_id":85688709,
+            "venue_id":806662101
+        }
+    ],
+    "wof:id":806662101,
+    "wof:lastmodified":1462600019,
+    "wof:name":"ZLB Plasma Svc",
+    "wof:parent_id":85823837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -86.900231,
+    40.422101,
+    -86.900231,
+    40.422101
+],
+  "geometry": {"coordinates":[-86.90023100000001,40.422101],"type":"Point"}
+}

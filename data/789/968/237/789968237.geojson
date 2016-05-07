@@ -1,0 +1,73 @@
+{
+  "id": 789968237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471602,40.060543,-86.471602,40.060543",
+    "geom:latitude":40.060543,
+    "geom:longitude":-86.471602,
+    "iso:country":"US",
+    "sg:address":"1608 N Lebanon St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 483 0842",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85807195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bFVPxiUzPgGFhvaB8WrUv_40.060543_-86.471602@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592068,
+    "wof:geomhash":"795e25b2ee515a197463790fed454e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85807195,
+            "region_id":85688709,
+            "venue_id":789968237
+        }
+    ],
+    "wof:id":789968237,
+    "wof:lastmodified":1462592068,
+    "wof:name":"Lebanon Pediatrics",
+    "wof:parent_id":85807195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.471602,
+    40.060543,
+    -86.471602,
+    40.060543
+],
+  "geometry": {"coordinates":[-86.471602,40.060543],"type":"Point"}
+}

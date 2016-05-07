@@ -1,0 +1,71 @@
+{
+  "id": 806685227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658385,40.132804,-85.658385,40.132804",
+    "geom:latitude":40.132804,
+    "geom:longitude":-85.658385,
+    "iso:country":"US",
+    "sg:address":"1801 Scatterfield Rd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 646 6330",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85837179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NAIlPtMZK2F4R4dwmL63S_40.132804_-85.658385@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600216,
+    "wof:geomhash":"d9c02c0ed68336d5fd40e0bf7b367c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85837179,
+            "region_id":85688709,
+            "venue_id":806685227
+        }
+    ],
+    "wof:id":806685227,
+    "wof:lastmodified":1462600216,
+    "wof:name":"Med One Urgent Care Ctr",
+    "wof:parent_id":85837179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.658385,
+    40.132804,
+    -85.658385,
+    40.132804
+],
+  "geometry": {"coordinates":[-85.658385,40.132804],"type":"Point"}
+}

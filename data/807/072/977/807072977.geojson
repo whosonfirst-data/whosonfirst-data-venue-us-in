@@ -1,0 +1,71 @@
+{
+  "id": 807072977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.545799,39.155499,-86.545799,39.155499",
+    "geom:latitude":39.155499,
+    "geom:longitude":-86.545799,
+    "iso:country":"US",
+    "sg:address":"1100 W Allen St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 2533",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WvWyFkRFmVVa9ZSVK145Q_39.155499_-86.545799@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603480,
+    "wof:geomhash":"6257ceb3f7def26a2efd896a59b1d410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807072977
+        }
+    ],
+    "wof:id":807072977,
+    "wof:lastmodified":1462603480,
+    "wof:name":"L D Construction",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.545799,
+    39.155499,
+    -86.545799,
+    39.155499
+],
+  "geometry": {"coordinates":[-86.545799,39.155499],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789592873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.66397,39.08983,-86.66397,39.08983",
+    "geom:latitude":39.08983,
+    "geom:longitude":-86.66397,
+    "iso:country":"US",
+    "sg:address":"8955 W Hinds Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 825 2863",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SFIhymnIx80y1Bb8Nv3jd_39.089830_-86.663970@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589006,
+    "wof:geomhash":"8f64a1194d3d473ec153116290421140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":789592873
+        }
+    ],
+    "wof:id":789592873,
+    "wof:lastmodified":1462589006,
+    "wof:name":"Avalanche Disposal",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.66397,
+    39.08983,
+    -86.66397,
+    39.08983
+],
+  "geometry": {"coordinates":[-86.66397000000001,39.08983],"type":"Point"}
+}

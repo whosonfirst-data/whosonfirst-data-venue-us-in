@@ -1,0 +1,81 @@
+{
+  "id": 789802823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.389827,39.84107,-86.389827,39.84107",
+    "geom:latitude":39.84107,
+    "geom:longitude":-86.389827,
+    "iso:country":"US",
+    "sg:address":"530 E Main St",
+    "sg:city":"Brownsburg",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 858 8542",
+    "sg:postcode":"46112",
+    "sg:province":"IN",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519641,
+        102191575,
+        404500775,
+        85633793,
+        85941481,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KJ1DuihOkvbysPm0hkyx1_39.841070_-86.389827@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590660,
+    "wof:geomhash":"c5dad4f12eb4b3b270a5b9b144e95f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500775,
+            "locality_id":85941481,
+            "neighbourhood_id":420519641,
+            "region_id":85688709,
+            "venue_id":789802823
+        }
+    ],
+    "wof:id":789802823,
+    "wof:lastmodified":1462590660,
+    "wof:name":"Family Video",
+    "wof:parent_id":420519641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.389827,
+    39.84107,
+    -86.389827,
+    39.84107
+],
+  "geometry": {"coordinates":[-86.389827,39.84107],"type":"Point"}
+}

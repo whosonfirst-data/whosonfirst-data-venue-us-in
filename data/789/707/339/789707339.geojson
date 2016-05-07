@@ -1,0 +1,71 @@
+{
+  "id": 789707339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.607238,40.047615,-85.607238,40.047615",
+    "geom:latitude":40.047615,
+    "geom:longitude":-85.607238,
+    "iso:country":"US",
+    "sg:address":"3097 E 400 S",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 779 4847",
+    "sg:postcode":"46017",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bookbinder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VQOMzLXD88KPwNQqPFNhy_40.047615_-85.607238@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589910,
+    "wof:geomhash":"ec5178beeab173eae3db64ed77d3a5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":789707339
+        }
+    ],
+    "wof:id":789707339,
+    "wof:lastmodified":1462589910,
+    "wof:name":"Peters Bindery",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookbinder"
+    ]
+},
+  "bbox": [
+    -85.607238,
+    40.047615,
+    -85.607238,
+    40.047615
+],
+  "geometry": {"coordinates":[-85.607238,40.047615],"type":"Point"}
+}

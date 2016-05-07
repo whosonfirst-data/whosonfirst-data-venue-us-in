@@ -1,0 +1,71 @@
+{
+  "id": 773272843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.137463,38.659432,-86.137463,38.659432",
+    "geom:latitude":38.659432,
+    "geom:longitude":-86.137463,
+    "iso:country":"US",
+    "sg:address":"2682 N Highland Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 883 4811",
+    "sg:postcode":"47167",
+    "sg:province":"IN",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942073,
+        102086237,
+        85833161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05DGdO4c5bebtVvObYVwf5_38.659432_-86.137463@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584462,
+    "wof:geomhash":"799d958fb1f7006f821fb7cc7d46b9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086237,
+            "locality_id":85942073,
+            "neighbourhood_id":85833161,
+            "region_id":85688709,
+            "venue_id":773272843
+        }
+    ],
+    "wof:id":773272843,
+    "wof:lastmodified":1462584462,
+    "wof:name":"Washington County Landfill",
+    "wof:parent_id":85833161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -86.137463,
+    38.659432,
+    -86.137463,
+    38.659432
+],
+  "geometry": {"coordinates":[-86.137463,38.659432],"type":"Point"}
+}

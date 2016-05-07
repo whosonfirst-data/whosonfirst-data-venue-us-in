@@ -1,0 +1,71 @@
+{
+  "id": 790329905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.319135,39.462641,-87.319135,39.462641",
+    "geom:latitude":39.462641,
+    "geom:longitude":-87.319135,
+    "iso:country":"US",
+    "sg:address":"6425 State Rd 42",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 0288",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mRlWVtyUY3Kl7O2WKOAjA_39.462641_-87.319135@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594991,
+    "wof:geomhash":"23059e50d84340e8d459d14d7d1aa662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":790329905
+        }
+    ],
+    "wof:id":790329905,
+    "wof:lastmodified":1462594991,
+    "wof:name":"Terre Haute Truck Ctr",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.319135,
+    39.462641,
+    -87.319135,
+    39.462641
+],
+  "geometry": {"coordinates":[-87.319135,39.462641],"type":"Point"}
+}

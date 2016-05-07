@@ -1,0 +1,78 @@
+{
+  "id": 806835961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.413847,39.442884,-87.413847,39.442884",
+    "geom:latitude":39.442884,
+    "geom:longitude":-87.413847,
+    "iso:country":"US",
+    "sg:address":"2309 S 3rd St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/harrison/99368-beef-obradys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 238 2333",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "wing",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31lElLgDP8dFQKRS9qBJRk_39.442884_-87.413847@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601475,
+    "wof:geomhash":"a9cfbc7034f76e44e0e341d29d92e8b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":806835961
+        }
+    ],
+    "wof:id":806835961,
+    "wof:lastmodified":1462601475,
+    "wof:name":"Beef O'Brady's",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "wing",
+        "pub"
+    ]
+},
+  "bbox": [
+    -87.413847,
+    39.442884,
+    -87.413847,
+    39.442884
+],
+  "geometry": {"coordinates":[-87.413847,39.442884],"type":"Point"}
+}

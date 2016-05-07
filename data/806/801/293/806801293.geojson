@@ -1,0 +1,74 @@
+{
+  "id": 806801293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.648735,40.061889,-85.648735,40.061889",
+    "geom:latitude":40.061889,
+    "geom:longitude":-85.648735,
+    "iso:country":"US",
+    "sg:address":"2001 E 53rd St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/anderson/159594-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 649 8617",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lATkVEz5NwVc54daKDslf_40.061889_-85.648735@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601194,
+    "wof:geomhash":"77cf2a61bb76a2489a79db88ea3c5253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":806801293
+        }
+    ],
+    "wof:id":806801293,
+    "wof:lastmodified":1462601194,
+    "wof:name":"Arby's",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.648735,
+    40.061889,
+    -85.648735,
+    40.061889
+],
+  "geometry": {"coordinates":[-85.648735,40.061889],"type":"Point"}
+}

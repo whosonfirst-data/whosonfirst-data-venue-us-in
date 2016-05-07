@@ -1,0 +1,71 @@
+{
+  "id": 789883645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.210995,41.031048,-85.210995,41.031048",
+    "geom:latitude":41.031048,
+    "geom:longitude":-85.210995,
+    "iso:country":"US",
+    "sg:address":"6231 Macbeth Rd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 478 0400",
+    "sg:postcode":"46809",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877567,
+        102087177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VieBA0o3ihjAeZN8aqmFr_41.031048_-85.210995@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591321,
+    "wof:geomhash":"81d3a64e78e8374d5357da4ea0ae913b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "neighbourhood_id":85877567,
+            "region_id":85688709,
+            "venue_id":789883645
+        }
+    ],
+    "wof:id":789883645,
+    "wof:lastmodified":1462591321,
+    "wof:name":"Serv-All Inc",
+    "wof:parent_id":85877567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.210995,
+    41.031048,
+    -85.210995,
+    41.031048
+],
+  "geometry": {"coordinates":[-85.210995,41.031048],"type":"Point"}
+}

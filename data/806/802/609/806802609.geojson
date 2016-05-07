@@ -1,0 +1,74 @@
+{
+  "id": 806802609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.474069,40.071944,-86.474069,40.071944",
+    "geom:latitude":40.071944,
+    "geom:longitude":-86.474069,
+    "iso:country":"US",
+    "sg:address":"2468 N Lebanon St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/120079-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 8188",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85807195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42X0zRrz5HtSD2VQdnfceo_40.071944_-86.474069@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601205,
+    "wof:geomhash":"fcb9908b1bf48f024cbc74d57180a5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85807195,
+            "region_id":85688709,
+            "venue_id":806802609
+        }
+    ],
+    "wof:id":806802609,
+    "wof:lastmodified":1462601205,
+    "wof:name":"Subway",
+    "wof:parent_id":85807195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.474069,
+    40.071944,
+    -86.474069,
+    40.071944
+],
+  "geometry": {"coordinates":[-86.474069,40.071944],"type":"Point"}
+}

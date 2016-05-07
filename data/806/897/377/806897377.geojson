@@ -1,0 +1,87 @@
+{
+  "id": 806897377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.172139,39.780853,-86.172139,39.780853",
+    "geom:latitude":39.780853,
+    "geom:longitude":-86.172139,
+    "iso:country":"US",
+    "sg:address":"825 W 10th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 231 9700",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza",
+        "take",
+        "italian"
+    ],
+    "sg:website":"http://www.donatos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866223,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42E5oEFSfkgtSkHsdElOrO_39.780853_-86.172139@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601991,
+    "wof:geomhash":"345057239d7c53970e4f75a780f35ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866223,
+            "region_id":85688709,
+            "venue_id":806897377
+        }
+    ],
+    "wof:id":806897377,
+    "wof:lastmodified":1462601991,
+    "wof:name":"Donatos Pizza",
+    "wof:parent_id":85866223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza",
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [
+    -86.172139,
+    39.780853,
+    -86.172139,
+    39.780853
+],
+  "geometry": {"coordinates":[-86.172139,39.780853],"type":"Point"}
+}

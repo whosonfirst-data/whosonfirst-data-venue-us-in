@@ -1,0 +1,76 @@
+{
+  "id": 806943815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.124209,39.714266,-86.124209,39.714266",
+    "geom:latitude":39.714266,
+    "geom:longitude":-86.124209,
+    "iso:country":"US",
+    "sg:address":"3450 Developers Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 955 3500",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"http://www.ruralmetro-pnw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853129,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SivBoXD1rVYQ8yA8fBmJ6_39.714266_-86.124209@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602391,
+    "wof:geomhash":"7fdda24f5b07ddf2bc11ff5b4d80af8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85853129,
+            "region_id":85688709,
+            "venue_id":806943815
+        }
+    ],
+    "wof:id":806943815,
+    "wof:lastmodified":1462602391,
+    "wof:name":"Rural Metro Ambulance",
+    "wof:parent_id":85853129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.124209,
+    39.714266,
+    -86.124209,
+    39.714266
+],
+  "geometry": {"coordinates":[-86.12420899999999,39.714266],"type":"Point"}
+}

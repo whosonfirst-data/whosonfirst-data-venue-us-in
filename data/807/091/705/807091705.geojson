@@ -1,0 +1,89 @@
+{
+  "id": 807091705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.603971,38.356444,-87.603971,38.356444",
+    "geom:latitude":38.356444,
+    "geom:longitude":-87.603971,
+    "iso:country":"US",
+    "sg:address":"3012 Dixon St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 4488",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "wheel",
+        "oil",
+        "tire",
+        "retread",
+        "lube",
+        "brake",
+        "recap"
+    ],
+    "sg:website":"http://www.bigotires.com/FindStore.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7byORgtVlqTGfuVmszRuIX_38.356444_-87.603971@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603633,
+    "wof:geomhash":"02e448d62dd7a23d30c3279590593552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807091705
+        }
+    ],
+    "wof:id":807091705,
+    "wof:lastmodified":1462603633,
+    "wof:name":"Big O Tires & Service Centers - Princeton",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "oil",
+        "tire",
+        "retread",
+        "lube",
+        "brake",
+        "recap"
+    ]
+},
+  "bbox": [
+    -87.603971,
+    38.356444,
+    -87.603971,
+    38.356444
+],
+  "geometry": {"coordinates":[-87.603971,38.356444],"type":"Point"}
+}

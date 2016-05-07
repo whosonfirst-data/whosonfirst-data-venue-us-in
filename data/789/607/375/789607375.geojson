@@ -1,0 +1,77 @@
+{
+  "id": 789607375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.835116,41.58361,-85.835116,41.58361",
+    "geom:latitude":41.58361,
+    "geom:longitude":-85.835116,
+    "iso:country":"US",
+    "sg:address":"112 W Jefferson St",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 533 6420",
+    "sg:postcode":"46526",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850341,
+        102191575,
+        404500587,
+        85633793,
+        85942261,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KC6n9hKtZqVMA70OITfPJ_41.583610_-85.835116@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589120,
+    "wof:geomhash":"7a0601ec8344debb1e8a9b6e4cf98428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500587,
+            "locality_id":85942261,
+            "neighbourhood_id":85850341,
+            "region_id":85688709,
+            "venue_id":789607375
+        }
+    ],
+    "wof:id":789607375,
+    "wof:lastmodified":1462589120,
+    "wof:name":"Eiler's Garage",
+    "wof:parent_id":85850341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.835116,
+    41.58361,
+    -85.835116,
+    41.58361
+],
+  "geometry": {"coordinates":[-85.835116,41.58361],"type":"Point"}
+}

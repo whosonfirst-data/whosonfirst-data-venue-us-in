@@ -1,0 +1,73 @@
+{
+  "id": 806836849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.858263,40.421692,-86.858263,40.421692",
+    "geom:latitude":40.421692,
+    "geom:longitude":-86.858263,
+    "iso:country":"US",
+    "sg:address":"510 Sagamore Pkwy N",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/fairfield/186453-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38gcMpPFKFp46lKXpKw2Bk_40.421692_-86.858263@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601482,
+    "wof:geomhash":"2dd1f34c938db4011106968352f7b01c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806836849
+        }
+    ],
+    "wof:id":806836849,
+    "wof:lastmodified":1462601482,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.858263,
+    40.421692,
+    -86.858263,
+    40.421692
+],
+  "geometry": {"coordinates":[-86.85826299999999,40.421692],"type":"Point"}
+}

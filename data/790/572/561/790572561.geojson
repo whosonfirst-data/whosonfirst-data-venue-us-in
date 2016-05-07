@@ -1,0 +1,73 @@
+{
+  "id": 790572561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677956,40.12876,-85.677956,40.12876",
+    "geom:latitude":40.12876,
+    "geom:longitude":-85.677956,
+    "iso:country":"US",
+    "sg:address":"1314 Broadway St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 643 3600",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85837179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bZ4CvQrxK2sxyFQVPuGEW_40.128760_-85.677956@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596981,
+    "wof:geomhash":"de1a4baa20640b093a465239e3812907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85837179,
+            "region_id":85688709,
+            "venue_id":790572561
+        }
+    ],
+    "wof:id":790572561,
+    "wof:lastmodified":1462596981,
+    "wof:name":"Nu Look Auto Svc",
+    "wof:parent_id":85837179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.677956,
+    40.12876,
+    -85.677956,
+    40.12876
+],
+  "geometry": {"coordinates":[-85.67795599999999,40.12876],"type":"Point"}
+}

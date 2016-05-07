@@ -1,0 +1,71 @@
+{
+  "id": 773541775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.55857,38.354174,-87.55857,38.354174",
+    "geom:latitude":38.354174,
+    "geom:longitude":-87.55857,
+    "iso:country":"US",
+    "sg:address":"806 E Water St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 2733",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bi5vNGRx0TXcPASvEVASa_38.354174_-87.558570@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586490,
+    "wof:geomhash":"cb029de172790dfa5f525314182d673e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":773541775
+        }
+    ],
+    "wof:id":773541775,
+    "wof:lastmodified":1462586490,
+    "wof:name":"Princeton Veterinary Hospital",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.55857,
+    38.354174,
+    -87.55857,
+    38.354174
+],
+  "geometry": {"coordinates":[-87.55857,38.354174],"type":"Point"}
+}

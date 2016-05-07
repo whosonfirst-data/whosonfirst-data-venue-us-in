@@ -1,0 +1,72 @@
+{
+  "id": 806819411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.813047,41.236771,-85.813047,41.236771",
+    "geom:latitude":41.236771,
+    "geom:longitude":-85.813047,
+    "iso:country":"US",
+    "sg:address":"2920 Frontage Rd",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/warsaw/167444-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 269 2676",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p86Zu602Qk2g1WRIt3Ocf_41.236771_-85.813047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601335,
+    "wof:geomhash":"8383b8ad981f4b3cc34c05b1520cd83f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":806819411
+        }
+    ],
+    "wof:id":806819411,
+    "wof:lastmodified":1462601335,
+    "wof:name":"Burger King",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.813047,
+    41.236771,
+    -85.813047,
+    41.236771
+],
+  "geometry": {"coordinates":[-85.813047,41.236771],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 806725495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.854848,40.393603,-86.854848,40.393603",
+    "geom:latitude":40.393603,
+    "geom:longitude":-86.854848,
+    "iso:country":"US",
+    "sg:address":"2323 Sagamore Pkwy S",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 449 4330",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"http://store-locator.barnesandnoble.com/store/2810",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f5StkakTop0sDjhCbRH0Y_40.393521_-86.854923@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600548,
+    "wof:geomhash":"9e2a3008fc9f3c7fdc92eafcd88f0918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":806725495
+        }
+    ],
+    "wof:id":806725495,
+    "wof:lastmodified":1462600548,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -86.854848,
+    40.393603,
+    -86.854848,
+    40.393603
+],
+  "geometry": {"coordinates":[-86.854848,40.393603],"type":"Point"}
+}

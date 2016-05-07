@@ -1,0 +1,71 @@
+{
+  "id": 773513933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.893071,40.419132,-86.893071,40.419132",
+    "geom:latitude":40.419132,
+    "geom:longitude":-86.893071,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 423 9326",
+    "sg:postcode":"47901",
+    "sg:province":"IN",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pvjy0AFh9hMjHgGC4HC1_40.419132_-86.893071@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586301,
+    "wof:geomhash":"1a648e3503db4ee09fba6599a62707d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":773513933
+        }
+    ],
+    "wof:id":773513933,
+    "wof:lastmodified":1462586301,
+    "wof:name":"Tippecanoe County Clerk",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -86.893071,
+    40.419132,
+    -86.893071,
+    40.419132
+],
+  "geometry": {"coordinates":[-86.89307100000001,40.419132],"type":"Point"}
+}

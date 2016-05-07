@@ -1,0 +1,74 @@
+{
+  "id": 806839225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471569,40.060446,-86.471569,40.060446",
+    "geom:latitude":40.060446,
+    "geom:longitude":-86.471569,
+    "iso:country":"US",
+    "sg:address":"1707 N Lebanon St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/lebanon/79405-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 6777",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85807195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q2DWVhTPjpM72PURuzR3O_40.060570_-86.471530@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601503,
+    "wof:geomhash":"b8b88e47a7a78692e43a814ea3e817b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85807195,
+            "region_id":85688709,
+            "venue_id":806839225
+        }
+    ],
+    "wof:id":806839225,
+    "wof:lastmodified":1462601503,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85807195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.471569,
+    40.060446,
+    -86.471569,
+    40.060446
+],
+  "geometry": {"coordinates":[-86.471569,40.060446],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790043545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.004884,40.079738,-86.004884,40.079738",
+    "geom:latitude":40.079738,
+    "geom:longitude":-86.004884,
+    "iso:country":"US",
+    "sg:address":"707 Edith Ave",
+    "sg:city":"Noblesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 773 5913",
+    "sg:postcode":"46060",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941337,
+        102087089,
+        85891189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNsAsk59Zll9belD7D0Lc_40.079738_-86.004884@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592669,
+    "wof:geomhash":"ca7282a81669f6e3011c884b6848387b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941337,
+            "neighbourhood_id":85891189,
+            "region_id":85688709,
+            "venue_id":790043545
+        }
+    ],
+    "wof:id":790043545,
+    "wof:lastmodified":1462592669,
+    "wof:name":"Benker Veterinary Clinic",
+    "wof:parent_id":85891189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.004884,
+    40.079738,
+    -86.004884,
+    40.079738
+],
+  "geometry": {"coordinates":[-86.004884,40.079738],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 807092105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.561861,38.34708,-87.561861,38.34708",
+    "geom:latitude":38.34708,
+    "geom:longitude":-87.561861,
+    "iso:country":"US",
+    "sg:address":"527 E Illinois St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 386 7987",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.ridgeroadchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G2Kcj1tfIXgj6oYvvmeoJ_38.347080_-87.561861@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603636,
+    "wof:geomhash":"e0676affcb9056fa73581ab746dd4c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807092105
+        }
+    ],
+    "wof:id":807092105,
+    "wof:lastmodified":1462603636,
+    "wof:name":"Princeton, Wesleyan",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.561861,
+    38.34708,
+    -87.561861,
+    38.34708
+],
+  "geometry": {"coordinates":[-87.56186099999999,38.34708],"type":"Point"}
+}

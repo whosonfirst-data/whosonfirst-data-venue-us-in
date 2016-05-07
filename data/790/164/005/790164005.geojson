@@ -1,0 +1,73 @@
+{
+  "id": 790164005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672338,40.531236,-85.672338,40.531236",
+    "geom:latitude":40.531236,
+    "geom:longitude":-85.672338,
+    "iso:country":"US",
+    "sg:address":"3215 S Poplar St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 0843",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rgd8oCad75qA9QrhRmRQZ_40.531236_-85.672338@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593635,
+    "wof:geomhash":"500b0345b9a86526a2558c791a2cc9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":790164005
+        }
+    ],
+    "wof:id":790164005,
+    "wof:lastmodified":1462593635,
+    "wof:name":"Tnt Auto Svc",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.672338,
+    40.531236,
+    -85.672338,
+    40.531236
+],
+  "geometry": {"coordinates":[-85.672338,40.531236],"type":"Point"}
+}

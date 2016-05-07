@@ -1,0 +1,71 @@
+{
+  "id": 773612513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.873916,40.410063,-86.873916,40.410063",
+    "geom:latitude":40.410063,
+    "geom:longitude":-86.873916,
+    "iso:country":"US",
+    "sg:address":"2001 Kossuth St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 447 5060",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mr8ZGwByS0ArOjbo7lfKO_40.410063_-86.873916@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587029,
+    "wof:geomhash":"d6bb5ec7b08f229f8a3a9ac9e08da802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":773612513
+        }
+    ],
+    "wof:id":773612513,
+    "wof:lastmodified":1462587029,
+    "wof:name":"Vogue Cleaners",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.873916,
+    40.410063,
+    -86.873916,
+    40.410063
+],
+  "geometry": {"coordinates":[-86.87391599999999,40.410063],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789700331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.889342,38.91846,-85.889342,38.91846",
+    "geom:latitude":38.91846,
+    "geom:longitude":-85.889342,
+    "iso:country":"US",
+    "sg:address":"2777 State Rd 11",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 522 3998",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_383iweiahWnTwelFAWWn0R_38.918460_-85.889342@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589860,
+    "wof:geomhash":"8e5291d27abc58fa6815dbafcd53b0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":789700331
+        }
+    ],
+    "wof:id":789700331,
+    "wof:lastmodified":1462589860,
+    "wof:name":"Jackson Co Regional Sewer Dist",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.889342,
+    38.91846,
+    -85.889342,
+    38.91846
+],
+  "geometry": {"coordinates":[-85.889342,38.91846],"type":"Point"}
+}

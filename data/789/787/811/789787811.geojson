@@ -1,0 +1,72 @@
+{
+  "id": 789787811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.185218,40.987467,-85.185218,40.987467",
+    "geom:latitude":40.987467,
+    "geom:longitude":-85.185218,
+    "iso:country":"US",
+    "sg:address":"4021 Air St",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 747 1565",
+    "sg:postcode":"46809",
+    "sg:province":"IN",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.mercuryaircenters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877567,
+        102087177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lm6V3BX67ZPl9gKBt61gZ_40.987467_-85.185218@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590548,
+    "wof:geomhash":"ffa6ab3da5690dd913913573b8b619d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "neighbourhood_id":85877567,
+            "region_id":85688709,
+            "venue_id":789787811
+        }
+    ],
+    "wof:id":789787811,
+    "wof:lastmodified":1462590548,
+    "wof:name":"Mercury Air Ctr",
+    "wof:parent_id":85877567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.185218,
+    40.987467,
+    -85.185218,
+    40.987467
+],
+  "geometry": {"coordinates":[-85.18521800000001,40.987467],"type":"Point"}
+}

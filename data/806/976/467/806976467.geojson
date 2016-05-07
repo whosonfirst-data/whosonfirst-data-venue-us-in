@@ -1,0 +1,89 @@
+{
+  "id": 806976467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.285881,39.750661,-86.285881,39.750661",
+    "geom:latitude":39.750661,
+    "geom:longitude":-86.285881,
+    "iso:country":"US",
+    "sg:address":"1125 Western Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 248 1300",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.johnstonesupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828271,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BdZdgZvyKOcJF7njpeLJy_39.750661_-86.285881@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602659,
+    "wof:geomhash":"ef977eee740f2a0731041494ff60ea90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85828271,
+            "region_id":85688709,
+            "venue_id":806976467
+        }
+    ],
+    "wof:id":806976467,
+    "wof:lastmodified":1462602659,
+    "wof:name":"Johnstone Supply",
+    "wof:parent_id":85828271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.285881,
+    39.750661,
+    -86.285881,
+    39.750661
+],
+  "geometry": {"coordinates":[-86.285881,39.750661],"type":"Point"}
+}

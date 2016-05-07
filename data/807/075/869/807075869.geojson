@@ -1,0 +1,72 @@
+{
+  "id": 807075869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.577889,39.164451,-86.577889,39.164451",
+    "geom:latitude":39.164451,
+    "geom:longitude":-86.577889,
+    "iso:country":"US",
+    "sg:address":"3477 W 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 4006",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FNFAX0PTsuvI2qnMH5rsc_39.164451_-86.577889@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603502,
+    "wof:geomhash":"ed0d78f720c35b631261bee9ac6ef42a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807075869
+        }
+    ],
+    "wof:id":807075869,
+    "wof:lastmodified":1462603502,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -86.577889,
+    39.164451,
+    -86.577889,
+    39.164451
+],
+  "geometry": {"coordinates":[-86.577889,39.164451],"type":"Point"}
+}

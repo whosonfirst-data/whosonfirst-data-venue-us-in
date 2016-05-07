@@ -1,0 +1,71 @@
+{
+  "id": 773051775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.562293,38.359123,-87.562293,38.359123",
+    "geom:latitude":38.359123,
+    "geom:longitude":-87.562293,
+    "iso:country":"US",
+    "sg:address":"510 E Walnut St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 3573",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hy9WthluOLIZkuZ6dE78q_38.359123_-87.562293@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582771,
+    "wof:geomhash":"4b8e08fc6f448839212b3ec93be217b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":773051775
+        }
+    ],
+    "wof:id":773051775,
+    "wof:lastmodified":1462582771,
+    "wof:name":"Lincoln Center Apts",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.562293,
+    38.359123,
+    -87.562293,
+    38.359123
+],
+  "geometry": {"coordinates":[-87.562293,38.359123],"type":"Point"}
+}

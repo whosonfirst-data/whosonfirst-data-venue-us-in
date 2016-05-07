@@ -1,0 +1,71 @@
+{
+  "id": 773548297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.592635,39.224136,-86.592635,39.224136",
+    "geom:latitude":39.224136,
+    "geom:longitude":-86.592635,
+    "iso:country":"US",
+    "sg:address":"5220 N Union Valley Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 935 7169",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ruaxxKByUbEv5G22CZKKT_39.224136_-86.592635@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586555,
+    "wof:geomhash":"2feb15856178ca6012007de81440b196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":773548297
+        }
+    ],
+    "wof:id":773548297,
+    "wof:lastmodified":1462586555,
+    "wof:name":"Ron's Trash Hauling",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.592635,
+    39.224136,
+    -86.592635,
+    39.224136
+],
+  "geometry": {"coordinates":[-86.592635,39.224136],"type":"Point"}
+}

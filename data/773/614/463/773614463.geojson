@@ -1,0 +1,71 @@
+{
+  "id": 773614463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.204024,40.130134,-86.204024,40.130134",
+    "geom:latitude":40.130134,
+    "geom:longitude":-86.204024,
+    "iso:country":"US",
+    "sg:address":"2420 W 236th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 873 5353",
+    "sg:postcode":"46069",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47tuNvMS2LJtnQDqwEtnrB_40.130134_-86.204024@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587047,
+    "wof:geomhash":"327106e252cf0adb75430ce1a78e351f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":773614463
+        }
+    ],
+    "wof:id":773614463,
+    "wof:lastmodified":1462587047,
+    "wof:name":"Janssen Veterinary Clinic",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.204024,
+    40.130134,
+    -86.204024,
+    40.130134
+],
+  "geometry": {"coordinates":[-86.204024,40.130134],"type":"Point"}
+}

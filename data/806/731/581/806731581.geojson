@@ -1,0 +1,82 @@
+{
+  "id": 806731581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.035202,39.916698,-86.035202,39.916698",
+    "geom:latitude":39.916698,
+    "geom:longitude":-86.035202,
+    "iso:country":"US",
+    "sg:address":"7510 E 88th Pl",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 913 6768",
+    "sg:postcode":"46256",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "truck",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809779,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WWaO1bSMoyMyC6uYq3O2M_39.916878_-86.035408@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600598,
+    "wof:geomhash":"f7beb26252bb9b81aee5deb47606767c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85809779,
+            "region_id":85688709,
+            "venue_id":806731581
+        }
+    ],
+    "wof:id":806731581,
+    "wof:lastmodified":1462600598,
+    "wof:name":"Enterprise Rent-A Car",
+    "wof:parent_id":85809779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "truck",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.035202,
+    39.916698,
+    -86.035202,
+    39.916698
+],
+  "geometry": {"coordinates":[-86.035202,39.916698],"type":"Point"}
+}

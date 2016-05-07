@@ -1,0 +1,73 @@
+{
+  "id": 806688447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.858294,40.426367,-86.858294,40.426367",
+    "geom:latitude":40.426367,
+    "geom:longitude":-86.858294,
+    "iso:country":"US",
+    "sg:address":"812 Sagamore Pkwy N",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 447 4038",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aKCWiyk68YKjapq7yTlwm_40.426367_-86.858294@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600241,
+    "wof:geomhash":"802c03365acfda7737bc2edb2b40ec7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806688447
+        }
+    ],
+    "wof:id":806688447,
+    "wof:lastmodified":1462600241,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.858294,
+    40.426367,
+    -86.858294,
+    40.426367
+],
+  "geometry": {"coordinates":[-86.858294,40.426367],"type":"Point"}
+}

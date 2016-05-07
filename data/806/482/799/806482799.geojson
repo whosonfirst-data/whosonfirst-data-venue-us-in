@@ -1,0 +1,71 @@
+{
+  "id": 806482799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.379438,39.459285,-87.379438,39.459285",
+    "geom:latitude":39.459285,
+    "geom:longitude":-87.379438,
+    "iso:country":"US",
+    "sg:address":"2401 Crawford St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 8005",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZSUjWSrAU77KUODFqjeTd_39.459285_-87.379438@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598489,
+    "wof:geomhash":"936d657e74b321e53457cce1537161c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":806482799
+        }
+    ],
+    "wof:id":806482799,
+    "wof:lastmodified":1462598489,
+    "wof:name":"Bratt Animal Hospital",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.379438,
+    39.459285,
+    -87.379438,
+    39.459285
+],
+  "geometry": {"coordinates":[-87.37943799999999,39.459285],"type":"Point"}
+}

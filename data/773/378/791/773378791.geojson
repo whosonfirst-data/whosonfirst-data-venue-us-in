@@ -1,0 +1,73 @@
+{
+  "id": 773378791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.368155,39.472534,-87.368155,39.472534",
+    "geom:latitude":39.472534,
+    "geom:longitude":-87.368155,
+    "iso:country":"US",
+    "sg:address":"3045 Wabash Ave",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 533 4444",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13pMbUoWgRMFS3sbXhbO5i_39.472534_-87.368155@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585242,
+    "wof:geomhash":"a7fc5dead7360aeafe1626b25fc5de89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773378791
+        }
+    ],
+    "wof:id":773378791,
+    "wof:lastmodified":1462585242,
+    "wof:name":"Wabash Self Storage",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.368155,
+    39.472534,
+    -87.368155,
+    39.472534
+],
+  "geometry": {"coordinates":[-87.368155,39.472534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789651291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.591656,38.999365,-86.591656,38.999365",
+    "geom:latitude":38.999365,
+    "geom:longitude":-86.591656,
+    "iso:country":"US",
+    "sg:address":"4598 W Popcorn Rd",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 824 8628",
+    "sg:postcode":"47462",
+    "sg:province":"IN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QCop4en5dYoMTh1ICJ2ol_38.999365_-86.591656@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589465,
+    "wof:geomhash":"c64400a41a5fa8bfbf1ffe69ce1b09d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":789651291
+        }
+    ],
+    "wof:id":789651291,
+    "wof:lastmodified":1462589465,
+    "wof:name":"Brock Hauling",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.591656,
+    38.999365,
+    -86.591656,
+    38.999365
+],
+  "geometry": {"coordinates":[-86.591656,38.999365],"type":"Point"}
+}

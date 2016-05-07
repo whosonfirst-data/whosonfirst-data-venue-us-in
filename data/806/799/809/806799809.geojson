@@ -1,0 +1,78 @@
+{
+  "id": 806799809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.999802,39.774429,-85.999802,39.774429",
+    "geom:latitude":39.774429,
+    "geom:longitude":-85.999802,
+    "iso:country":"US",
+    "sg:address":"9460 E Washington St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 897 2980",
+    "sg:postcode":"46229",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"http://www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854541,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TUhxND99COhV0L7pAmAZw_39.774512_-85.999187@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462601183,
+    "wof:geomhash":"21cfc449ec4c96bb0c952b0bfaa9d067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85854541,
+            "region_id":85688709,
+            "venue_id":806799809
+        }
+    ],
+    "wof:id":806799809,
+    "wof:lastmodified":1462601183,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85854541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.999802,
+    39.774429,
+    -85.999802,
+    39.774429
+],
+  "geometry": {"coordinates":[-85.999802,39.774429],"type":"Point"}
+}

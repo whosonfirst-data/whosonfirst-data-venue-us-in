@@ -1,0 +1,75 @@
+{
+  "id": 790458445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.900777,39.19372,-85.900777,39.19372",
+    "geom:latitude":39.19372,
+    "geom:longitude":-85.900777,
+    "iso:country":"US",
+    "sg:address":"362 S Mapleton St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 376 9716",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sFvHWpqAHGY8remOKl1gp_39.193720_-85.900777@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595999,
+    "wof:geomhash":"f77b676b5ed20efaa303989236129fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":790458445
+        }
+    ],
+    "wof:id":790458445,
+    "wof:lastmodified":1462595999,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.900777,
+    39.19372,
+    -85.900777,
+    39.19372
+],
+  "geometry": {"coordinates":[-85.90077700000001,39.19372],"type":"Point"}
+}

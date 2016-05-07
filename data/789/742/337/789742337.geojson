@@ -1,0 +1,69 @@
+{
+  "id": 789742337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74334,41.105331,-85.74334,41.105331",
+    "geom:latitude":41.105331,
+    "geom:longitude":-85.74334,
+    "iso:country":"US",
+    "sg:address":"105 S Main St",
+    "sg:city":"Sidney",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 839 2755",
+    "sg:postcode":"46562",
+    "sg:province":"IN",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cg2YgJ5oTJEqCP6rQ636P_41.105331_-85.743340@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590194,
+    "wof:geomhash":"3d73a3a74de3f7177927572a284d0042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":789742337
+        }
+    ],
+    "wof:id":789742337,
+    "wof:lastmodified":1462590194,
+    "wof:name":"Slater's Fruit Market",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.74334,
+    41.105331,
+    -85.74334,
+    41.105331
+],
+  "geometry": {"coordinates":[-85.74334,41.105331],"type":"Point"}
+}

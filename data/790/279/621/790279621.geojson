@@ -1,0 +1,73 @@
+{
+  "id": 790279621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491259,40.036724,-86.491259,40.036724",
+    "geom:latitude":40.036724,
+    "geom:longitude":-86.491259,
+    "iso:country":"US",
+    "sg:address":"450 N Enterprise Blvd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 6525",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "transmission",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K4IGXNlTj4UD9xDf2XgdL_40.036724_-86.491259@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594606,
+    "wof:geomhash":"104fc11ad880112de2d5c81c141a77b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":790279621
+        }
+    ],
+    "wof:id":790279621,
+    "wof:lastmodified":1462594606,
+    "wof:name":"Power Train At Lebanon",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -86.491259,
+    40.036724,
+    -86.491259,
+    40.036724
+],
+  "geometry": {"coordinates":[-86.491259,40.036724],"type":"Point"}
+}

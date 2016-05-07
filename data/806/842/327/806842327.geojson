@@ -1,0 +1,85 @@
+{
+  "id": 806842327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.972652,41.686282,-85.972652,41.686282",
+    "geom:latitude":41.686282,
+    "geom:longitude":-85.972652,
+    "iso:country":"US",
+    "sg:address":"113 E Lexington Ave",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/concord/284430-daily-grind/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 293 4864",
+    "sg:postcode":"46516",
+    "sg:province":"IN",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72eaHLbRn5RjlCHveFFjnw_41.686270_-85.972828@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601530,
+    "wof:geomhash":"799f1e6055f34562f0661486e6946f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":806842327
+        }
+    ],
+    "wof:id":806842327,
+    "wof:lastmodified":1462601530,
+    "wof:name":"Daily Grind",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.972652,
+    41.686282,
+    -85.972652,
+    41.686282
+],
+  "geometry": {"coordinates":[-85.972652,41.686282],"type":"Point"}
+}

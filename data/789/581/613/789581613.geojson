@@ -1,0 +1,73 @@
+{
+  "id": 789581613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.162392,38.30377,-86.162392,38.30377",
+    "geom:latitude":38.30377,
+    "geom:longitude":-86.162392,
+    "iso:country":"US",
+    "sg:address":"2309 Lost Creek Rd NW",
+    "sg:city":"Ramsey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 347 0121",
+    "sg:postcode":"47166",
+    "sg:province":"IN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ga188L8rpvdMDMEoCw6jx_38.303770_-86.162392@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588915,
+    "wof:geomhash":"9a90f3421dfa7a52b60cd617bb83a794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":789581613
+        }
+    ],
+    "wof:id":789581613,
+    "wof:lastmodified":1462588915,
+    "wof:name":"Burks Electric",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.162392,
+    38.30377,
+    -86.162392,
+    38.30377
+],
+  "geometry": {"coordinates":[-86.162392,38.30377],"type":"Point"}
+}

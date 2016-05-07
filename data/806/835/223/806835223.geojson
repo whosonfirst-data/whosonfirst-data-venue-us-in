@@ -1,0 +1,87 @@
+{
+  "id": 806835223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.492591,37.96327,-87.492591,37.96327",
+    "geom:latitude":37.96327,
+    "geom:longitude":-87.492591,
+    "iso:country":"US",
+    "sg:address":"990 S Green River Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/knight/229272-hacienda-mexican-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 474 1635",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877313,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709,
+        85891111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a2xnwr7BzxAiIvr0cKgKe_37.963270_-87.492591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601469,
+    "wof:geomhash":"3bafd1cbc8d8b45beccf68f643a8ced6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877313,
+            "region_id":85688709,
+            "venue_id":806835223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85891111,
+            "region_id":85688709,
+            "venue_id":806835223
+        }
+    ],
+    "wof:id":806835223,
+    "wof:lastmodified":1462601469,
+    "wof:name":"Hacienda Mexican Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.492591,
+    37.96327,
+    -87.492591,
+    37.96327
+],
+  "geometry": {"coordinates":[-87.492591,37.96327],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 806710817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.583034,39.193658,-86.583034,39.193658",
+    "geom:latitude":39.193658,
+    "geom:longitude":-86.583034,
+    "iso:country":"US",
+    "sg:address":"3140 N Smith Pike",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 1429",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ricJF4YBHnMUOUwzHRu5O_39.193658_-86.583034@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600424,
+    "wof:geomhash":"22f0abc755ea4ccd94831a7d7ea9879e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":806710817
+        }
+    ],
+    "wof:id":806710817,
+    "wof:lastmodified":1462600424,
+    "wof:name":"Towne & Country Vet Clinic",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.583034,
+    39.193658,
+    -86.583034,
+    39.193658
+],
+  "geometry": {"coordinates":[-86.583034,39.193658],"type":"Point"}
+}

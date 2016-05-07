@@ -1,0 +1,74 @@
+{
+  "id": 806829455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866736,38.958126,-85.866736,38.958126",
+    "geom:latitude":38.958126,
+    "geom:longitude":-85.866736,
+    "iso:country":"US",
+    "sg:address":"1515 E Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/jackson/119971-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 8106",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vY8I5WeVt1zJe6ZGktL2E_38.958126_-85.866736@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601420,
+    "wof:geomhash":"5e255ff125064e0583757aad4ae082fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":806829455
+        }
+    ],
+    "wof:id":806829455,
+    "wof:lastmodified":1462601420,
+    "wof:name":"Subway",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.866736,
+    38.958126,
+    -85.866736,
+    38.958126
+],
+  "geometry": {"coordinates":[-85.866736,38.958126],"type":"Point"}
+}

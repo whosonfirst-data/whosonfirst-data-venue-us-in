@@ -1,0 +1,90 @@
+{
+  "id": 807069545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.529651,39.167533,-86.529651,39.167533",
+    "geom:latitude":39.167533,
+    "geom:longitude":-86.529651,
+    "iso:country":"US",
+    "sg:address":"408 E 6th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 8710",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "magazine",
+        "bookstore",
+        "venue"
+    ],
+    "sg:website":"www.boxcarbooks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lPWoWuIOHtWwyNSt4MDF1_39.167533_-86.529651@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603442,
+    "wof:geomhash":"4c4ad8c31c87952634c01f80ef7508b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807069545
+        }
+    ],
+    "wof:id":807069545,
+    "wof:lastmodified":1462603442,
+    "wof:name":"Boxcar Books & Community Center Inc",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine",
+        "bookstore",
+        "venue"
+    ]
+},
+  "bbox": [
+    -86.529651,
+    39.167533,
+    -86.529651,
+    39.167533
+],
+  "geometry": {"coordinates":[-86.529651,39.167533],"type":"Point"}
+}

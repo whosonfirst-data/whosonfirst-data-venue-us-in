@@ -1,0 +1,73 @@
+{
+  "id": 790422089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.595202,39.219361,-86.595202,39.219361",
+    "geom:latitude":39.219361,
+    "geom:longitude":-86.595202,
+    "iso:country":"US",
+    "sg:address":"4101 W Portage Trl",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 935 5310",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rh9tRqWAh6Wt8QuDhZKkE_39.219361_-86.595202@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595692,
+    "wof:geomhash":"ae34e7557e75b2e35647911e1d76dc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":790422089
+        }
+    ],
+    "wof:id":790422089,
+    "wof:lastmodified":1462595692,
+    "wof:name":"Rowe Trucking",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.595202,
+    39.219361,
+    -86.595202,
+    39.219361
+],
+  "geometry": {"coordinates":[-86.595202,39.219361],"type":"Point"}
+}

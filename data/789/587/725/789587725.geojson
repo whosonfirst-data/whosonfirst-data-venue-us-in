@@ -1,0 +1,71 @@
+{
+  "id": 789587725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.848146,40.433493,-86.848146,40.433493",
+    "geom:latitude":40.433493,
+    "geom:longitude":-86.848146,
+    "iso:country":"US",
+    "sg:address":"1651 N Chauncey Ct",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 447 6452",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WTRdep187cGgccg3ZkMQe_40.433493_-86.848146@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588968,
+    "wof:geomhash":"8fbb8c51d070bf141f25caa5183cf580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":789587725
+        }
+    ],
+    "wof:id":789587725,
+    "wof:lastmodified":1462588968,
+    "wof:name":"Chauncey Village Apartments",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.848146,
+    40.433493,
+    -86.848146,
+    40.433493
+],
+  "geometry": {"coordinates":[-86.848146,40.433493],"type":"Point"}
+}

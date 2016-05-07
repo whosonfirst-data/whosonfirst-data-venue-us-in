@@ -1,0 +1,88 @@
+{
+  "id": 790469809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.045109,41.115096,-85.045109,41.115096",
+    "geom:latitude":41.115096,
+    "geom:longitude":-85.045109,
+    "iso:country":"US",
+    "sg:address":"7511 Linde Ln",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 486 7108",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561,
+        85822129,
+        102191575,
+        404501179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YGCwk9XDJyG3rBm1ztZkV_41.115096_-85.045109@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596096,
+    "wof:geomhash":"bcb2baf0ff9b84bc15a71d57c9212be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":790469809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087177,
+            "localadmin_id":404501179,
+            "locality_id":85942149,
+            "neighbourhood_id":85822129,
+            "region_id":85688709,
+            "venue_id":790469809
+        }
+    ],
+    "wof:id":790469809,
+    "wof:lastmodified":1462596096,
+    "wof:name":"Tom's Lawn Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -85.045109,
+    41.115096,
+    -85.045109,
+    41.115096
+],
+  "geometry": {"coordinates":[-85.045109,41.115096],"type":"Point"}
+}

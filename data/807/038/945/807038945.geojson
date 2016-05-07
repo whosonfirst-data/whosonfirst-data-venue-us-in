@@ -1,0 +1,114 @@
+{
+  "id": 807038945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.480951,41.58422,-87.480951,41.58422",
+    "geom:latitude":41.58422,
+    "geom:longitude":-87.480951,
+    "iso:country":"US",
+    "sg:address":"7131 Indianapolis Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 845 0848",
+    "sg:postcode":"46324",
+    "sg:province":"IN",
+    "sg:tags":[
+        "control",
+        "information",
+        "family",
+        "parenting-centers",
+        "planning",
+        "birth",
+        "counseling"
+    ],
+    "sg:website":"http://r.ppfa.org/hc?f=2922&a=90500",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839875,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149,
+        85688709,
+        85858873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0D1uqP3GIIiDgz5nZkEy_41.584220_-87.480951@1303262770"
+    },
+    "wof:country":"US",
+    "wof:created":1462603194,
+    "wof:geomhash":"d800eb38ce4664907a5a918a5877ef59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85839875,
+            "region_id":85688709,
+            "venue_id":807038945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85858873,
+            "region_id":85688709,
+            "venue_id":807038945
+        }
+    ],
+    "wof:id":807038945,
+    "wof:lastmodified":1462603194,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "information",
+        "family",
+        "parenting-centers",
+        "planning",
+        "birth",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -87.480951,
+    41.58422,
+    -87.480951,
+    41.58422
+],
+  "geometry": {"coordinates":[-87.480951,41.58422],"type":"Point"}
+}

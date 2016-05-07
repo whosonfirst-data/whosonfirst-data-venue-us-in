@@ -1,0 +1,79 @@
+{
+  "id": 806878751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220692,40.13525,-86.220692,40.13525",
+    "geom:latitude":40.13525,
+    "geom:longitude":-86.220692,
+    "iso:country":"US",
+    "sg:address":"107 W 4th St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 758 4159",
+    "sg:postcode":"46069",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L5MlHISf6FobVqY3ih9xP_40.135250_-86.220692@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601845,
+    "wof:geomhash":"8897121906365911447acea54afd84ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":806878751
+        }
+    ],
+    "wof:id":806878751,
+    "wof:lastmodified":1462601845,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -86.220692,
+    40.13525,
+    -86.220692,
+    40.13525
+],
+  "geometry": {"coordinates":[-86.220692,40.13525],"type":"Point"}
+}

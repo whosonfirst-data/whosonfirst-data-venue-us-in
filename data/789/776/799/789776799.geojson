@@ -1,0 +1,71 @@
+{
+  "id": 789776799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.058954,38.88014,-86.058954,38.88014",
+    "geom:latitude":38.88014,
+    "geom:longitude":-86.058954,
+    "iso:country":"US",
+    "sg:address":"1328 W Commerce St",
+    "sg:city":"Brownstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 358 2947",
+    "sg:postcode":"47220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942185,
+        102087199,
+        85818369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BFo4XKm17c63VlilFiISK_38.880140_-86.058954@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590453,
+    "wof:geomhash":"ab0a08586a1f5d7497824c539c3bf107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942185,
+            "neighbourhood_id":85818369,
+            "region_id":85688709,
+            "venue_id":789776799
+        }
+    ],
+    "wof:id":789776799,
+    "wof:lastmodified":1462590453,
+    "wof:name":"Brownstown Animal Hospital",
+    "wof:parent_id":85818369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.058954,
+    38.88014,
+    -86.058954,
+    38.88014
+],
+  "geometry": {"coordinates":[-86.058954,38.88014],"type":"Point"}
+}

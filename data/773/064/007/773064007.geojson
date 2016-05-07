@@ -1,0 +1,84 @@
+{
+  "id": 773064007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.487299,37.957832,-87.487299,37.957832",
+    "geom:latitude":37.957832,
+    "geom:longitude":-87.487299,
+    "iso:country":"US",
+    "sg:address":"5301 Stonehedge Dr",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 477 0488",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877313,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709,
+        85877295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gyHlO1jl36ui7Vd3M7El9_37.957832_-87.487299@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462582886,
+    "wof:geomhash":"ac0870315de10adb03de48872b724586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877313,
+            "region_id":85688709,
+            "venue_id":773064007
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877295,
+            "region_id":85688709,
+            "venue_id":773064007
+        }
+    ],
+    "wof:id":773064007,
+    "wof:lastmodified":1462582886,
+    "wof:name":"Stonehedge Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.487299,
+    37.957832,
+    -87.487299,
+    37.957832
+],
+  "geometry": {"coordinates":[-87.48729899999999,37.957832],"type":"Point"}
+}

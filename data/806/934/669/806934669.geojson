@@ -1,0 +1,82 @@
+{
+  "id": 806934669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.198705,39.766061,-86.198705,39.766061",
+    "geom:latitude":39.766061,
+    "geom:longitude":-86.198705,
+    "iso:country":"US",
+    "sg:address":"2215 W Washington St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 693 5555",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "high",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835545,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dgzFTqxaKoPYixDAs5kEb_39.766061_-86.198705@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602310,
+    "wof:geomhash":"6d8ea59ce0aab716e9abbc40e77e9c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85835545,
+            "region_id":85688709,
+            "venue_id":806934669
+        }
+    ],
+    "wof:id":806934669,
+    "wof:lastmodified":1462602310,
+    "wof:name":"George Washington High School",
+    "wof:parent_id":85835545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "educational"
+    ]
+},
+  "bbox": [
+    -86.198705,
+    39.766061,
+    -86.198705,
+    39.766061
+],
+  "geometry": {"coordinates":[-86.198705,39.766061],"type":"Point"}
+}

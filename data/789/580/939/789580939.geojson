@@ -1,0 +1,71 @@
+{
+  "id": 789580939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.415408,39.422559,-86.415408,39.422559",
+    "geom:latitude":39.422559,
+    "geom:longitude":-86.415408,
+    "iso:country":"US",
+    "sg:address":"460 S Home Ave",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 342 5790",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85868893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IbPadMgxUYzNu0X241dYe_39.422559_-86.415408@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462588910,
+    "wof:geomhash":"48e63482f0ac579acd59f1e109cc12ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85868893,
+            "region_id":85688709,
+            "venue_id":789580939
+        }
+    ],
+    "wof:id":789580939,
+    "wof:lastmodified":1462588910,
+    "wof:name":"Jim Construction",
+    "wof:parent_id":85868893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.415408,
+    39.422559,
+    -86.415408,
+    39.422559
+],
+  "geometry": {"coordinates":[-86.415408,39.422559],"type":"Point"}
+}

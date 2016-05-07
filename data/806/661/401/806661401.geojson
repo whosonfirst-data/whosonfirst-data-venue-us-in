@@ -1,0 +1,71 @@
+{
+  "id": 806661401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.455841,40.037566,-86.455841,40.037566",
+    "geom:latitude":40.037566,
+    "geom:longitude":-86.455841,
+    "iso:country":"US",
+    "sg:address":"1205 Indianapolis Ave",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 482 4125",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LoJeOF5ZzgCuTEQm8ne9s_40.037566_-86.455841@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600014,
+    "wof:geomhash":"feaa79d706ca66920f3d58f72b98e1ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":806661401
+        }
+    ],
+    "wof:id":806661401,
+    "wof:lastmodified":1462600014,
+    "wof:name":"Lebanon Veterinary Clinic Inc",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.455841,
+    40.037566,
+    -86.455841,
+    40.037566
+],
+  "geometry": {"coordinates":[-86.45584100000001,40.037566],"type":"Point"}
+}

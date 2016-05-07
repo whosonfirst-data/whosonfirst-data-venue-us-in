@@ -1,0 +1,73 @@
+{
+  "id": 790492047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.918388,39.201414,-85.918388,39.201414",
+    "geom:latitude":39.201414,
+    "geom:longitude":-85.918388,
+    "iso:country":"US",
+    "sg:address":"507 3rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 379 1611",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KfzoPcvk6V1n6zmBFWO3h_39.201414_-85.918388@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462596305,
+    "wof:geomhash":"8ca7c87251b407d14424451143582034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":790492047
+        }
+    ],
+    "wof:id":790492047,
+    "wof:lastmodified":1462596305,
+    "wof:name":"Bartholomew County Corrections",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -85.918388,
+    39.201414,
+    -85.918388,
+    39.201414
+],
+  "geometry": {"coordinates":[-85.91838799999999,39.201414],"type":"Point"}
+}

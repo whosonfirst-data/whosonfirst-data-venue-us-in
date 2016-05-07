@@ -1,0 +1,75 @@
+{
+  "id": 773297383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.687404,40.109101,-85.687404,40.109101",
+    "geom:latitude":40.109101,
+    "geom:longitude":-85.687404,
+    "iso:country":"US",
+    "sg:address":"625 John St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 641 9482",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "handicapped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825401,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WSVZMuJzlR1HlvE5puEWM_40.109101_-85.687404@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584659,
+    "wof:geomhash":"d3c0561c5f89eb06958eb0003e532d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85825401,
+            "region_id":85688709,
+            "venue_id":773297383
+        }
+    ],
+    "wof:id":773297383,
+    "wof:lastmodified":1462584659,
+    "wof:name":"TRAM",
+    "wof:parent_id":85825401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped"
+    ]
+},
+  "bbox": [
+    -85.687404,
+    40.109101,
+    -85.687404,
+    40.109101
+],
+  "geometry": {"coordinates":[-85.687404,40.109101],"type":"Point"}
+}

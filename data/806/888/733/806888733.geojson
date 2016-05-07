@@ -1,0 +1,72 @@
+{
+  "id": 806888733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.166436,39.594402,-86.166436,39.594402",
+    "geom:latitude":39.594402,
+    "geom:longitude":-86.166436,
+    "iso:country":"US",
+    "sg:address":"1472 Willshire Dr",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 884 3981",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.nscorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05hF4N48xm76OpY3Gk4fXw_39.594402_-86.166436@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601920,
+    "wof:geomhash":"8cd6573261d375809f80b09af111a202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":806888733
+        }
+    ],
+    "wof:id":806888733,
+    "wof:lastmodified":1462601920,
+    "wof:name":"Norfolk Southern Corp.",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -86.166436,
+    39.594402,
+    -86.166436,
+    39.594402
+],
+  "geometry": {"coordinates":[-86.166436,39.594402],"type":"Point"}
+}

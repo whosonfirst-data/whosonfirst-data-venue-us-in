@@ -1,0 +1,75 @@
+{
+  "id": 789656367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.492143,38.020243,-87.492143,38.020243",
+    "geom:latitude":38.020243,
+    "geom:longitude":-87.492143,
+    "iso:country":"US",
+    "sg:address":"4307 N Green River Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 479 0867",
+    "sg:postcode":"47715",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877323,
+        102191575,
+        404502161,
+        85633793,
+        85942147,
+        102087105,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5knA6O0D57yyZYFoKTmJ5v_38.020243_-87.492143@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589503,
+    "wof:geomhash":"1bf2f360b893f9201faf13b41907c2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087105,
+            "localadmin_id":404502161,
+            "locality_id":85942147,
+            "neighbourhood_id":85877323,
+            "region_id":85688709,
+            "venue_id":789656367
+        }
+    ],
+    "wof:id":789656367,
+    "wof:lastmodified":1462589503,
+    "wof:name":"Greenbrier Animal Hospital",
+    "wof:parent_id":85877323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.492143,
+    38.020243,
+    -87.492143,
+    38.020243
+],
+  "geometry": {"coordinates":[-87.492143,38.020243],"type":"Point"}
+}

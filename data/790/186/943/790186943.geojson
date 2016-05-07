@@ -1,0 +1,71 @@
+{
+  "id": 790186943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883304,38.959139,-85.883304,38.959139",
+    "geom:latitude":38.959139,
+    "geom:longitude":-85.883304,
+    "iso:country":"US",
+    "sg:address":"400 Circle St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 3308",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13SS1yvZv6XqpV1jDHxHx1_38.959139_-85.883304@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462593831,
+    "wof:geomhash":"e6afb7faf73ad14608d4070c1d228b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":790186943
+        }
+    ],
+    "wof:id":790186943,
+    "wof:lastmodified":1462593831,
+    "wof:name":"Interstate Fuel Injection Svc",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.883304,
+    38.959139,
+    -85.883304,
+    38.959139
+],
+  "geometry": {"coordinates":[-85.883304,38.959139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773523955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.004012,39.401236,-85.004012,39.401236",
+    "geom:latitude":39.401236,
+    "geom:longitude":-85.004012,
+    "iso:country":"US",
+    "sg:address":"11127 US Hwy 52",
+    "sg:city":"Brookville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 647 1428",
+    "sg:postcode":"47012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85850965,
+        102086385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01N7gNKLWXlJCxJHefDeY8_39.401236_-85.004012@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586371,
+    "wof:geomhash":"4a6be7e584fdd03fc70e0eafa1b6702a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086385,
+            "neighbourhood_id":85850965,
+            "region_id":85688709,
+            "venue_id":773523955
+        }
+    ],
+    "wof:id":773523955,
+    "wof:lastmodified":1462586371,
+    "wof:name":"Brookville Laser Wash",
+    "wof:parent_id":85850965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.004012,
+    39.401236,
+    -85.004012,
+    39.401236
+],
+  "geometry": {"coordinates":[-85.004012,39.401236],"type":"Point"}
+}

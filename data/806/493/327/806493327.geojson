@@ -1,0 +1,71 @@
+{
+  "id": 806493327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.406786,39.432808,-87.406786,39.432808",
+    "geom:latitude":39.432808,
+    "geom:longitude":-87.406786,
+    "iso:country":"US",
+    "sg:address":"3001 S 7th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 2363",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uyp3sT4HR6ONMpJu6XLYz_39.432808_-87.406786@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598565,
+    "wof:geomhash":"39db63f719f8bced34c37c27fd72114e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":806493327
+        }
+    ],
+    "wof:id":806493327,
+    "wof:lastmodified":1462598565,
+    "wof:name":"New Concept Book Store",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.406786,
+    39.432808,
+    -87.406786,
+    39.432808
+],
+  "geometry": {"coordinates":[-87.406786,39.432808],"type":"Point"}
+}

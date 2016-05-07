@@ -1,0 +1,77 @@
+{
+  "id": 789734273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240732,39.834568,-86.240732,39.834568",
+    "geom:latitude":39.834568,
+    "geom:longitude":-86.240732,
+    "iso:country":"US",
+    "sg:address":"4880 Century Plaza Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 387 3355",
+    "sg:postcode":"46254",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858453,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TgrKBOc2doOuV82TmKFpX_39.834568_-86.240732@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590133,
+    "wof:geomhash":"0fc95a00937a27cd0554087add6e0402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85858453,
+            "region_id":85688709,
+            "venue_id":789734273
+        }
+    ],
+    "wof:id":789734273,
+    "wof:lastmodified":1462590133,
+    "wof:name":"American Health Network",
+    "wof:parent_id":85858453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.240732,
+    39.834568,
+    -86.240732,
+    39.834568
+],
+  "geometry": {"coordinates":[-86.24073199999999,39.834568],"type":"Point"}
+}

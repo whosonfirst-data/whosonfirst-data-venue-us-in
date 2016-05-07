@@ -1,0 +1,85 @@
+{
+  "id": 807043273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.268833,41.521074,-87.268833,41.521074",
+    "geom:latitude":41.521074,
+    "geom:longitude":-87.268833,
+    "iso:country":"US",
+    "sg:address":"1310 S Wisconsin St",
+    "sg:city":"Hobart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 947 9289",
+    "sg:postcode":"46342",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dialysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891129,
+        102191575,
+        404501867,
+        85633793,
+        85941823,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aoCUjvHInTS2CP23iBduA_41.521074_-87.268833@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603238,
+    "wof:geomhash":"d062da5aa65340c7f7ea4570e75a433d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941823,
+            "neighbourhood_id":85891129,
+            "region_id":85688709,
+            "venue_id":807043273
+        }
+    ],
+    "wof:id":807043273,
+    "wof:lastmodified":1462603238,
+    "wof:name":"Fresenius Medical Care",
+    "wof:parent_id":85891129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -87.268833,
+    41.521074,
+    -87.268833,
+    41.521074
+],
+  "geometry": {"coordinates":[-87.268833,41.521074],"type":"Point"}
+}

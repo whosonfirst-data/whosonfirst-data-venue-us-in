@@ -1,0 +1,89 @@
+{
+  "id": 806975479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250309,39.733375,-86.250309,39.733375",
+    "geom:latitude":39.733375,
+    "geom:longitude":-86.250309,
+    "iso:country":"US",
+    "sg:address":"2346 S Lynhurst Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 247 1100",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "rental",
+        "commercial",
+        "desk",
+        "park",
+        "space"
+    ],
+    "sg:website":"http://www.airport-offices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519801,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2igly0mjoe9sDhen7cRXNb_39.733375_-86.250309@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602652,
+    "wof:geomhash":"6f3366094a8679f9112479bd4c1e58b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519801,
+            "region_id":85688709,
+            "venue_id":806975479
+        }
+    ],
+    "wof:id":806975479,
+    "wof:lastmodified":1462602652,
+    "wof:name":"Airport Office Centre",
+    "wof:parent_id":420519801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "commercial",
+        "desk",
+        "park",
+        "space"
+    ]
+},
+  "bbox": [
+    -86.250309,
+    39.733375,
+    -86.250309,
+    39.733375
+],
+  "geometry": {"coordinates":[-86.250309,39.733375],"type":"Point"}
+}

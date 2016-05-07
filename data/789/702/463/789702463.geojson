@@ -1,0 +1,73 @@
+{
+  "id": 789702463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.72296,41.61286,-86.72296,41.61286",
+    "geom:latitude":41.61286,
+    "geom:longitude":-86.72296,
+    "iso:country":"US",
+    "sg:address":"402 Michigan Ave",
+    "sg:city":"La Porte",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 326 5072",
+    "sg:postcode":"46350",
+    "sg:province":"IN",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941895,
+        102086409,
+        85891163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cYmk8OeWue1O0T6CjZg7Q_41.612860_-86.722960@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589874,
+    "wof:geomhash":"b01fe1d1e7655312acb4c919c5239ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941895,
+            "neighbourhood_id":85891163,
+            "region_id":85688709,
+            "venue_id":789702463
+        }
+    ],
+    "wof:id":789702463,
+    "wof:lastmodified":1462589874,
+    "wof:name":"Norfolk Southern Corporation",
+    "wof:parent_id":85891163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.72296,
+    41.61286,
+    -86.72296,
+    41.61286
+],
+  "geometry": {"coordinates":[-86.72296,41.61286],"type":"Point"}
+}

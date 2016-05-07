@@ -1,0 +1,91 @@
+{
+  "id": 806909713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.157623,39.778599,-86.157623,39.778599",
+    "geom:latitude":39.778599,
+    "geom:longitude":-86.157623,
+    "iso:country":"US",
+    "sg:address":"850 N Meridian St Ste 2C",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 972 8888",
+    "sg:postcode":"46204",
+    "sg:province":"IN",
+    "sg:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866951,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14dcguuLXZkQPECaVow15L_39.778599_-86.157623@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602089,
+    "wof:geomhash":"893d50fd2ef0c5a349227d69aa10a850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866951,
+            "region_id":85688709,
+            "venue_id":806909713
+        }
+    ],
+    "wof:id":806909713,
+    "wof:lastmodified":1462602089,
+    "wof:name":"Indiana Bail Bonds",
+    "wof:parent_id":85866951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ]
+},
+  "bbox": [
+    -86.157623,
+    39.778599,
+    -86.157623,
+    39.778599
+],
+  "geometry": {"coordinates":[-86.157623,39.778599],"type":"Point"}
+}

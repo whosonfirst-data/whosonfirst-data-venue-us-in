@@ -1,0 +1,75 @@
+{
+  "id": 807078227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.533501,39.166698,-86.533501,39.166698",
+    "geom:latitude":39.166698,
+    "geom:longitude":-86.533501,
+    "iso:country":"US",
+    "sg:address":"100 N Walnut St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 339 1522",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832565,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78nn2HrifLuES7FmJntpy2_39.166698_-86.533501@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603519,
+    "wof:geomhash":"09e8e8bb1dd611a3a8cc927f04f60e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85832565,
+            "region_id":85688709,
+            "venue_id":807078227
+        }
+    ],
+    "wof:id":807078227,
+    "wof:lastmodified":1462603519,
+    "wof:name":"Book Corner",
+    "wof:parent_id":85832565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -86.533501,
+    39.166698,
+    -86.533501,
+    39.166698
+],
+  "geometry": {"coordinates":[-86.533501,39.166698],"type":"Point"}
+}

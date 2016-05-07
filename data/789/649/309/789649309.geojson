@@ -1,0 +1,71 @@
+{
+  "id": 789649309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647448,40.579224,-85.647448,40.579224",
+    "geom:latitude":40.579224,
+    "geom:longitude":-85.647448,
+    "iso:country":"US",
+    "sg:address":"1100 E Bond Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 9818",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ktuyOLQU2P9Dz2uHpigTK_40.579224_-85.647448@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589450,
+    "wof:geomhash":"93a407ca836b2428cc7b0c6b5b092fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":789649309
+        }
+    ],
+    "wof:id":789649309,
+    "wof:lastmodified":1462589450,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -85.647448,
+    40.579224,
+    -85.647448,
+    40.579224
+],
+  "geometry": {"coordinates":[-85.647448,40.579224],"type":"Point"}
+}

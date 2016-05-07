@@ -1,0 +1,88 @@
+{
+  "id": 807011453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.266892,39.884847,-86.266892,39.884847",
+    "geom:latitude":39.884847,
+    "geom:longitude":-86.266892,
+    "iso:country":"US",
+    "sg:address":"7302 Woodland Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 323 5590",
+    "sg:postcode":"46278",
+    "sg:province":"IN",
+    "sg:tags":[
+        "college",
+        "business"
+    ],
+    "sg:website":"http://oyp.kaplancollege.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830193,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pm0exAGuTTXBqQbyLwyKk_39.884847_-86.266892@1303262769"
+    },
+    "wof:country":"US",
+    "wof:created":1462602955,
+    "wof:geomhash":"2555865bb86429115c0971a61e32aa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85830193,
+            "region_id":85688709,
+            "venue_id":807011453
+        }
+    ],
+    "wof:id":807011453,
+    "wof:lastmodified":1462602955,
+    "wof:name":"Kaplan College",
+    "wof:parent_id":85830193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college",
+        "business"
+    ]
+},
+  "bbox": [
+    -86.266892,
+    39.884847,
+    -86.266892,
+    39.884847
+],
+  "geometry": {"coordinates":[-86.266892,39.884847],"type":"Point"}
+}

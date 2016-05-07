@@ -1,0 +1,88 @@
+{
+  "id": 806936201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250678,39.78505,-86.250678,39.78505",
+    "geom:latitude":39.78505,
+    "geom:longitude":-86.250678,
+    "iso:country":"US",
+    "sg:address":"1398 N Lynhurst Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 248 0346",
+    "sg:postcode":"46224",
+    "sg:province":"IN",
+    "sg:tags":[
+        "satellite",
+        "cable",
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831765,
+        102191575,
+        404501901,
+        85633793,
+        85942555,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62M7HArELhnAWM34kbKvMB_39.785050_-86.250678@1303262765"
+    },
+    "wof:country":"US",
+    "wof:created":1462602326,
+    "wof:geomhash":"e4549e22b17f79a634157abf90d5703f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501901,
+            "locality_id":85942555,
+            "neighbourhood_id":85831765,
+            "region_id":85688709,
+            "venue_id":806936201
+        }
+    ],
+    "wof:id":806936201,
+    "wof:lastmodified":1462602326,
+    "wof:name":"Comcast",
+    "wof:parent_id":85831765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "cable",
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -86.250678,
+    39.78505,
+    -86.250678,
+    39.78505
+],
+  "geometry": {"coordinates":[-86.25067799999999,39.78505],"type":"Point"}
+}

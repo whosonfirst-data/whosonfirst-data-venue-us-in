@@ -1,0 +1,73 @@
+{
+  "id": 807056077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.126318,38.21228,-86.126318,38.21228",
+    "geom:latitude":38.21228,
+    "geom:longitude":-86.126318,
+    "iso:country":"US",
+    "sg:address":"405 N Capitol Ave",
+    "sg:city":"Corydon",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 738 1681",
+    "sg:postcode":"47112",
+    "sg:province":"IN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71FV5NVeNViyAtNQ5lwRxg_38.212280_-86.126318@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603334,
+    "wof:geomhash":"0bbed7f214e7cadcdb13d0d79edecbb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":807056077
+        }
+    ],
+    "wof:id":807056077,
+    "wof:lastmodified":1462603334,
+    "wof:name":"Southern Indiana Transit System",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.126318,
+    38.21228,
+    -86.126318,
+    38.21228
+],
+  "geometry": {"coordinates":[-86.126318,38.21228],"type":"Point"}
+}

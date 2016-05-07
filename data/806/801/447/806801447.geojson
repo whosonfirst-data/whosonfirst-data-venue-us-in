@@ -1,0 +1,80 @@
+{
+  "id": 806801447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652761,40.098442,-85.652761,40.098442",
+    "geom:latitude":40.098442,
+    "geom:longitude":-85.652761,
+    "iso:country":"US",
+    "sg:address":"1805 S Scatterfield Rd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/anderson/174083-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 649 1777",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827053,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fK37Hdgn1NnDKEK2Dj5tY_40.098442_-85.652761@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601196,
+    "wof:geomhash":"e1440053ef392e93ee0794cbd6a89b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85827053,
+            "region_id":85688709,
+            "venue_id":806801447
+        }
+    ],
+    "wof:id":806801447,
+    "wof:lastmodified":1462601196,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85827053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.652761,
+    40.098442,
+    -85.652761,
+    40.098442
+],
+  "geometry": {"coordinates":[-85.652761,40.098442],"type":"Point"}
+}

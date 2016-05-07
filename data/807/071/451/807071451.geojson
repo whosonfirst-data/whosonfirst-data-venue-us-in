@@ -1,0 +1,75 @@
+{
+  "id": 807071451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.545562,39.155661,-86.545562,39.155661",
+    "geom:latitude":39.155661,
+    "geom:longitude":-86.545562,
+    "iso:country":"US",
+    "sg:address":"1101 W Allen St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 1234",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1APVBkDD4ERaHdKZ1kYMcg_39.155661_-86.545562@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603457,
+    "wof:geomhash":"1ea79291adc588012951c885aba3bc00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807071451
+        }
+    ],
+    "wof:id":807071451,
+    "wof:lastmodified":1462603457,
+    "wof:name":"Best Beers Inc",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -86.545562,
+    39.155661,
+    -86.545562,
+    39.155661
+],
+  "geometry": {"coordinates":[-86.545562,39.155661],"type":"Point"}
+}

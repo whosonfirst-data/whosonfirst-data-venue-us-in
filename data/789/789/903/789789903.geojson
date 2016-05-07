@@ -1,0 +1,73 @@
+{
+  "id": 789789903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.419146,39.411001,-86.419146,39.411001",
+    "geom:latitude":39.411001,
+    "geom:longitude":-86.419146,
+    "iso:country":"US",
+    "sg:address":"35 Industrial Dr",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 352 0996",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bfff2AYslO5C1XzVOVHcs_39.411001_-86.419146@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590565,
+    "wof:geomhash":"37a76ca3b537845cd898670fa4c58053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":789789903
+        }
+    ],
+    "wof:id":789789903,
+    "wof:lastmodified":1462590565,
+    "wof:name":"Meridian Capital Corp",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -86.419146,
+    39.411001,
+    -86.419146,
+    39.411001
+],
+  "geometry": {"coordinates":[-86.419146,39.411001],"type":"Point"}
+}

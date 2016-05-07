@@ -1,0 +1,73 @@
+{
+  "id": 789965479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571152,38.356341,-87.571152,38.356341",
+    "geom:latitude":38.356341,
+    "geom:longitude":-87.571152,
+    "iso:country":"US",
+    "sg:address":"310 W State St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 3283",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b95nplVHyRg7GIVveoeLy_38.356341_-87.571152@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592042,
+    "wof:geomhash":"d4ec43446f8ec613587472603238ebbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":789965479
+        }
+    ],
+    "wof:id":789965479,
+    "wof:lastmodified":1462592042,
+    "wof:name":"Princeton City Treasurer",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -87.571152,
+    38.356341,
+    -87.571152,
+    38.356341
+],
+  "geometry": {"coordinates":[-87.571152,38.356341],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789620539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.26081,39.495492,-87.26081,39.495492",
+    "geom:latitude":39.495492,
+    "geom:longitude":-87.26081,
+    "iso:country":"US",
+    "sg:address":"10201 E US Hwy 40",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 877 2333",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CO3I82DRefg0SwvOy17Qk_39.495492_-87.260810@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589222,
+    "wof:geomhash":"772e53d523eef8812ce7c90c314f6ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":789620539
+        }
+    ],
+    "wof:id":789620539,
+    "wof:lastmodified":1462589222,
+    "wof:name":"Latta Apartments",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.26081,
+    39.495492,
+    -87.26081,
+    39.495492
+],
+  "geometry": {"coordinates":[-87.26081000000001,39.495492],"type":"Point"}
+}

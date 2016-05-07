@@ -1,0 +1,71 @@
+{
+  "id": 806625085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.837314,41.381276,-85.837314,41.381276",
+    "geom:latitude":41.381276,
+    "geom:longitude":-85.837314,
+    "iso:country":"US",
+    "sg:address":"260 E Mock Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 658 4774",
+    "sg:postcode":"46542",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02IVfaXBcShVLQX5L2MKhV_41.381276_-85.837314@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599693,
+    "wof:geomhash":"2023fb85034aeac854e0dcf2eb020cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":806625085
+        }
+    ],
+    "wof:id":806625085,
+    "wof:lastmodified":1462599693,
+    "wof:name":"Max Duncan Motor Svc",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.837314,
+    41.381276,
+    -85.837314,
+    41.381276
+],
+  "geometry": {"coordinates":[-85.83731400000001,41.381276],"type":"Point"}
+}

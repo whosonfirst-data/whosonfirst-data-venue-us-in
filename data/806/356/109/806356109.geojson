@@ -1,0 +1,73 @@
+{
+  "id": 806356109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.404632,39.432849,-87.404632,39.432849",
+    "geom:latitude":39.432849,
+    "geom:longitude":-87.404632,
+    "iso:country":"US",
+    "sg:address":"3037 S 9th St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 9434",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YCQDPOHsBVtviOoleNmDj_39.432849_-87.404632@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597480,
+    "wof:geomhash":"d03804e451e5dcfdc52d9ceefcd646bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":806356109
+        }
+    ],
+    "wof:id":806356109,
+    "wof:lastmodified":1462597480,
+    "wof:name":"Ken's Garage & Body Shop",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.404632,
+    39.432849,
+    -87.404632,
+    39.432849
+],
+  "geometry": {"coordinates":[-87.40463200000001,39.432849],"type":"Point"}
+}

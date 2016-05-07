@@ -1,0 +1,78 @@
+{
+  "id": 806804473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.848754,39.64466,-86.848754,39.64466",
+    "geom:latitude":39.64466,
+    "geom:longitude":-86.848754,
+    "iso:country":"US",
+    "sg:address":"833 Indianapolis Rd",
+    "sg:city":"Greencastle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/greencastle/77317-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 653 8400",
+    "sg:postcode":"46135",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820439,
+        102191575,
+        404501685,
+        85633793,
+        85942037,
+        102087217,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hzoKR0hvBUlnbyrr44rq1_39.644660_-86.848754@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601224,
+    "wof:geomhash":"ae81aadae4f4d6927cc516cb8a29c444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087217,
+            "localadmin_id":404501685,
+            "locality_id":85942037,
+            "neighbourhood_id":85820439,
+            "region_id":85688709,
+            "venue_id":806804473
+        }
+    ],
+    "wof:id":806804473,
+    "wof:lastmodified":1462601224,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85820439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.848754,
+    39.64466,
+    -86.848754,
+    39.64466
+],
+  "geometry": {"coordinates":[-86.848754,39.64466],"type":"Point"}
+}

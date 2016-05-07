@@ -1,0 +1,71 @@
+{
+  "id": 789735875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74756,41.417251,-85.74756,41.417251",
+    "geom:latitude":41.417251,
+    "geom:longitude":-85.74756,
+    "iso:country":"US",
+    "sg:address":"501 S Huntington St",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 457 2707",
+    "sg:postcode":"46567",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JDyJWfTXvE4XEuedXknni_41.417251_-85.747560@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590144,
+    "wof:geomhash":"8669a704e29ebb6ca82e0d621cda344a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":789735875
+        }
+    ],
+    "wof:id":789735875,
+    "wof:lastmodified":1462590144,
+    "wof:name":"G & L Quick Lube",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.74756,
+    41.417251,
+    -85.74756,
+    41.417251
+],
+  "geometry": {"coordinates":[-85.74755999999999,41.417251],"type":"Point"}
+}

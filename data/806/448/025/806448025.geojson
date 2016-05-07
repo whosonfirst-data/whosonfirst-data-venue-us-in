@@ -1,0 +1,77 @@
+{
+  "id": 806448025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.154356,39.735875,-86.154356,39.735875",
+    "geom:latitude":39.735875,
+    "geom:longitude":-86.154356,
+    "iso:country":"US",
+    "sg:address":"2304 Madison Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 786 0888",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870639,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15f14Y1HyPHKB4Te6aApbW_39.735875_-86.154356@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598231,
+    "wof:geomhash":"b3dc2a8908e3de006c53058ee8ad672c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870639,
+            "region_id":85688709,
+            "venue_id":806448025
+        }
+    ],
+    "wof:id":806448025,
+    "wof:lastmodified":1462598231,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85870639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.154356,
+    39.735875,
+    -86.154356,
+    39.735875
+],
+  "geometry": {"coordinates":[-86.15435600000001,39.735875],"type":"Point"}
+}

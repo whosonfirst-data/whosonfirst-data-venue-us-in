@@ -1,0 +1,77 @@
+{
+  "id": 807066989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.525879,39.153427,-86.525879,39.153427",
+    "geom:latitude":39.153427,
+    "geom:longitude":-86.525879,
+    "iso:country":"US",
+    "sg:address":"709 E Grimes Ln",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 333 1789",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844535,
+        102191575,
+        404501309,
+        85633793,
+        85942653,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76ERovrJ1bwY0tXIzsQCMy_39.153427_-86.525879@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603423,
+    "wof:geomhash":"a7cd11442455b48e2de04da5571d52a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501309,
+            "locality_id":85942653,
+            "neighbourhood_id":85844535,
+            "region_id":85688709,
+            "venue_id":807066989
+        }
+    ],
+    "wof:id":807066989,
+    "wof:lastmodified":1462603423,
+    "wof:name":"Bloomington Pet Sitters",
+    "wof:parent_id":85844535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -86.525879,
+    39.153427,
+    -86.525879,
+    39.153427
+],
+  "geometry": {"coordinates":[-86.525879,39.153427],"type":"Point"}
+}

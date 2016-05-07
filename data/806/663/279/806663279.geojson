@@ -1,0 +1,79 @@
+{
+  "id": 806663279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.000272,40.043743,-86.000272,40.043743",
+    "geom:latitude":40.043743,
+    "geom:longitude":-86.000272,
+    "iso:country":"US",
+    "sg:address":"1909 Cherry St",
+    "sg:city":"Noblesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 773 3738",
+    "sg:postcode":"46060",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856019,
+        102191575,
+        404500697,
+        85633793,
+        85941337,
+        102087089,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6chisJnNvnQNa4iaUffYKV_40.043743_-86.000272@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600028,
+    "wof:geomhash":"3ceed7872fc403d9b0fa78154429fccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087089,
+            "localadmin_id":404500697,
+            "locality_id":85941337,
+            "neighbourhood_id":85856019,
+            "region_id":85688709,
+            "venue_id":806663279
+        }
+    ],
+    "wof:id":806663279,
+    "wof:lastmodified":1462600028,
+    "wof:name":"Pet Wash",
+    "wof:parent_id":85856019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.000272,
+    40.043743,
+    -86.000272,
+    40.043743
+],
+  "geometry": {"coordinates":[-86.000272,40.043743],"type":"Point"}
+}

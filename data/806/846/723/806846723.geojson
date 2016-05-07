@@ -1,0 +1,91 @@
+{
+  "id": 806846723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.719662,40.101574,-85.719662,40.101574",
+    "geom:latitude":40.101574,
+    "geom:longitude":-85.719662,
+    "iso:country":"US",
+    "sg:address":"2826 Nichol Ave",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 644 4426",
+    "sg:postcode":"46011",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop",
+        "style",
+        "family",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519741,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QYvaJfNkXxI6sZXOvf9fl_40.101574_-85.719662@1303262760"
+    },
+    "wof:country":"US",
+    "wof:created":1462601577,
+    "wof:geomhash":"16ddd81af43415320ebe7354decb4845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":420519741,
+            "region_id":85688709,
+            "venue_id":806846723
+        }
+    ],
+    "wof:id":806846723,
+    "wof:lastmodified":1462601577,
+    "wof:name":"Nick's Donuts & Pizza",
+    "wof:parent_id":420519741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "style",
+        "family",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.719662,
+    40.101574,
+    -85.719662,
+    40.101574
+],
+  "geometry": {"coordinates":[-85.719662,40.101574],"type":"Point"}
+}

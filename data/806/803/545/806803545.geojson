@@ -1,0 +1,78 @@
+{
+  "id": 806803545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.101685,39.721976,-86.101685,39.721976",
+    "geom:latitude":39.721976,
+    "geom:longitude":-86.101685,
+    "iso:country":"US",
+    "sg:address":"42 N 17th Ave",
+    "sg:city":"Beech Grove",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/homecroft/120179-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 788 0760",
+    "sg:postcode":"46107",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851503,
+        102191575,
+        404501891,
+        85633793,
+        85942579,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43qhExy7rQRdU0rIZF85lA_39.721976_-86.101685@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601217,
+    "wof:geomhash":"6255db0ec683dd8307098cb1691248fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501891,
+            "locality_id":85942579,
+            "neighbourhood_id":85851503,
+            "region_id":85688709,
+            "venue_id":806803545
+        }
+    ],
+    "wof:id":806803545,
+    "wof:lastmodified":1462601217,
+    "wof:name":"Subway",
+    "wof:parent_id":85851503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.101685,
+    39.721976,
+    -86.101685,
+    39.721976
+],
+  "geometry": {"coordinates":[-86.101685,39.721976],"type":"Point"}
+}

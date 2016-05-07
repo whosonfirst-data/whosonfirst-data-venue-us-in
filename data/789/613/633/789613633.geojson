@@ -1,0 +1,73 @@
+{
+  "id": 789613633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.390389,39.468892,-87.390389,39.468892",
+    "geom:latitude":39.468892,
+    "geom:longitude":-87.390389,
+    "iso:country":"US",
+    "sg:address":"1725 Wabash Ave",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 238 2127",
+    "sg:postcode":"47807",
+    "sg:province":"IN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WYfsqeJJpiuWPhzWzIUgA_39.468892_-87.390389@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589163,
+    "wof:geomhash":"142857e7d2e1eeefb22ce3a9b1fddcef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":789613633
+        }
+    ],
+    "wof:id":789613633,
+    "wof:lastmodified":1462589163,
+    "wof:name":"Bohnert Properties",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.390389,
+    39.468892,
+    -87.390389,
+    39.468892
+],
+  "geometry": {"coordinates":[-87.390389,39.468892],"type":"Point"}
+}

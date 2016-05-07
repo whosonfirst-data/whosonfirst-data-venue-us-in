@@ -1,0 +1,78 @@
+{
+  "id": 806811481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.135393,39.913561,-86.135393,39.913561",
+    "geom:latitude":39.913561,
+    "geom:longitude":-86.135393,
+    "iso:country":"US",
+    "sg:address":"1426 E 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/meridian-hills/155809-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 843 0433",
+    "sg:postcode":"46240",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848299,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GixwJ9VvnBR4TQdjJwo0m_39.913561_-86.135393@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601275,
+    "wof:geomhash":"b8b08eda7996c5d6e71518f2eeac809b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85848299,
+            "region_id":85688709,
+            "venue_id":806811481
+        }
+    ],
+    "wof:id":806811481,
+    "wof:lastmodified":1462601275,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85848299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.135393,
+    39.913561,
+    -86.135393,
+    39.913561
+],
+  "geometry": {"coordinates":[-86.13539299999999,39.913561],"type":"Point"}
+}

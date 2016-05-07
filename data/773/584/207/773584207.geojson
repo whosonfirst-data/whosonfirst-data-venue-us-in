@@ -1,0 +1,73 @@
+{
+  "id": 773584207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.742565,40.003335,-85.742565,40.003335",
+    "geom:latitude":40.003335,
+    "geom:longitude":-85.742565,
+    "iso:country":"US",
+    "sg:address":"129 N John St",
+    "sg:city":"Pendleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 778 7283",
+    "sg:postcode":"46064",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G4039OsumYKL39GNqt9Zl_40.003335_-85.742565@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462586832,
+    "wof:geomhash":"4d2eb38a983d2034bced56402d2457e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":773584207
+        }
+    ],
+    "wof:id":773584207,
+    "wof:lastmodified":1462586832,
+    "wof:name":"S & S Automotive",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.742565,
+    40.003335,
+    -85.742565,
+    40.003335
+],
+  "geometry": {"coordinates":[-85.742565,40.003335],"type":"Point"}
+}

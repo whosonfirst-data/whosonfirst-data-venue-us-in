@@ -1,0 +1,80 @@
+{
+  "id": 806738397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.09395,39.781437,-86.09395,39.781437",
+    "geom:latitude":39.781437,
+    "geom:longitude":-86.09395,
+    "iso:country":"US",
+    "sg:address":"4401 E 10th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 353 2178",
+    "sg:postcode":"46201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "aid",
+        "supply",
+        "first"
+    ],
+    "sg:website":"http://www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870663,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1llc0nvqdqFkIBUIcFnlkz_39.781379_-86.094181@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600666,
+    "wof:geomhash":"471a6d4417f8b0f7922eeba9c47664e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870663,
+            "region_id":85688709,
+            "venue_id":806738397
+        }
+    ],
+    "wof:id":806738397,
+    "wof:lastmodified":1462600666,
+    "wof:name":"CVS/pharmacy",
+    "wof:parent_id":85870663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "supply",
+        "first"
+    ]
+},
+  "bbox": [
+    -86.09395,
+    39.781437,
+    -86.09395,
+    39.781437
+],
+  "geometry": {"coordinates":[-86.09395000000001,39.781437],"type":"Point"}
+}

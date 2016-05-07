@@ -1,0 +1,70 @@
+{
+  "id": 807083831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.50309,39.171527,-86.50309,39.171527",
+    "geom:latitude":39.171527,
+    "geom:longitude":-86.50309,
+    "iso:country":"US",
+    "sg:address":"2604 East 10th Street",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 8696",
+    "sg:postcode":"47408",
+    "sg:province":"IN",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"btownpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85816979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_684aTgtmEuT8YYjkSejxoh_39.171527_-86.503090@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603564,
+    "wof:geomhash":"f6531fb6376a6ef6b877debc3e51b529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85816979,
+            "region_id":85688709,
+            "venue_id":807083831
+        }
+    ],
+    "wof:id":807083831,
+    "wof:lastmodified":1462603564,
+    "wof:name":"BTown Pizza",
+    "wof:parent_id":85816979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.50309,
+    39.171527,
+    -86.50309,
+    39.171527
+],
+  "geometry": {"coordinates":[-86.50309,39.171527],"type":"Point"}
+}

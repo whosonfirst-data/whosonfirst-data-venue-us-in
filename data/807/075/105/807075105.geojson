@@ -1,0 +1,74 @@
+{
+  "id": 807075105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.576896,39.149549,-86.576896,39.149549",
+    "geom:latitude":39.149549,
+    "geom:longitude":-86.576896,
+    "iso:country":"US",
+    "sg:address":"1416 S Liberty Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 336 4444",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.americanrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A3IITsCHHAgxhzqXsc7jK_39.149549_-86.576896@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603496,
+    "wof:geomhash":"0bb0a06f543fa9abb53766b4f8955043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807075105
+        }
+    ],
+    "wof:id":807075105,
+    "wof:lastmodified":1462603496,
+    "wof:name":"American Rental",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -86.576896,
+    39.149549,
+    -86.576896,
+    39.149549
+],
+  "geometry": {"coordinates":[-86.576896,39.149549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806819287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.805218,41.232535,-85.805218,41.232535",
+    "geom:latitude":41.232535,
+    "geom:longitude":-85.805218,
+    "iso:country":"US",
+    "sg:address":"3611 Commerce Dr",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/warsaw/186583-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BreHoeNLB8OfhMIoGJw2y_41.232535_-85.805218@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601334,
+    "wof:geomhash":"bf476b64ac8ae478bfa7f787d6cd65c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":806819287
+        }
+    ],
+    "wof:id":806819287,
+    "wof:lastmodified":1462601334,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.805218,
+    41.232535,
+    -85.805218,
+    41.232535
+],
+  "geometry": {"coordinates":[-85.805218,41.232535],"type":"Point"}
+}

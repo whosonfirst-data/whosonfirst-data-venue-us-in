@@ -1,0 +1,89 @@
+{
+  "id": 806899035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.164683,39.791569,-86.164683,39.791569",
+    "geom:latitude":39.791569,
+    "geom:longitude":-86.164683,
+    "iso:country":"US",
+    "sg:address":"1801 Senate Blvd # 745",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 926 3739",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dermatology",
+        "physician",
+        "surgeon",
+        "electrolysis",
+        "surgeons"
+    ],
+    "sg:website":"http://www.dermatologyinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891151,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yzEpH4PzJP3ON2Tt6hc0b_39.791569_-86.164683@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462602002,
+    "wof:geomhash":"fb13fcdd2ccdd7bc29c7077c1d15ac65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891151,
+            "region_id":85688709,
+            "venue_id":806899035
+        }
+    ],
+    "wof:id":806899035,
+    "wof:lastmodified":1462602002,
+    "wof:name":"Dermatologists",
+    "wof:parent_id":85891151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatology",
+        "physician",
+        "surgeon",
+        "electrolysis",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -86.164683,
+    39.791569,
+    -86.164683,
+    39.791569
+],
+  "geometry": {"coordinates":[-86.164683,39.791569],"type":"Point"}
+}

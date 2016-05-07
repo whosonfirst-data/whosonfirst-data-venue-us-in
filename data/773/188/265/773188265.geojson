@@ -1,0 +1,71 @@
+{
+  "id": 773188265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.593346,40.487547,-85.593346,40.487547",
+    "geom:latitude":40.487547,
+    "geom:longitude":-85.593346,
+    "iso:country":"US",
+    "sg:address":"1024 E Main St",
+    "sg:city":"Gas City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 674 3237",
+    "sg:postcode":"46933",
+    "sg:province":"IN",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m8cjr65TDxY9xotIXVPot_40.487547_-85.593346@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583833,
+    "wof:geomhash":"cdec975574064b6bfb219c849a062a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":773188265
+        }
+    ],
+    "wof:id":773188265,
+    "wof:lastmodified":1462583833,
+    "wof:name":"Bent Tree Greenhouse",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -85.593346,
+    40.487547,
+    -85.593346,
+    40.487547
+],
+  "geometry": {"coordinates":[-85.593346,40.487547],"type":"Point"}
+}

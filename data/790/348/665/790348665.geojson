@@ -1,0 +1,71 @@
+{
+  "id": 790348665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.469171,40.042619,-86.469171,40.042619",
+    "geom:latitude":40.042619,
+    "geom:longitude":-86.469171,
+    "iso:country":"US",
+    "sg:address":"609 S Lebanon St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 483 9081",
+    "sg:postcode":"46052",
+    "sg:province":"IN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941741,
+        102086453,
+        85817903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k7POvXyIZj343fNlz6KzJ_40.042619_-86.469171@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595126,
+    "wof:geomhash":"55dea393dbdeae147be0b854ffd57f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086453,
+            "locality_id":85941741,
+            "neighbourhood_id":85817903,
+            "region_id":85688709,
+            "venue_id":790348665
+        }
+    ],
+    "wof:id":790348665,
+    "wof:lastmodified":1462595126,
+    "wof:name":"Mike's Road Svc",
+    "wof:parent_id":85817903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.469171,
+    40.042619,
+    -86.469171,
+    40.042619
+],
+  "geometry": {"coordinates":[-86.469171,40.042619],"type":"Point"}
+}

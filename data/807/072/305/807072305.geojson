@@ -1,0 +1,87 @@
+{
+  "id": 807072305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.53522,39.161402,-86.53522,39.161402",
+    "geom:latitude":39.161402,
+    "geom:longitude":-86.53522,
+    "iso:country":"US",
+    "sg:address":"222 W. Second St.",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 350 3451",
+    "sg:postcode":"47403",
+    "sg:province":"IN",
+    "sg:tags":[
+        "decor",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803503,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uK2BvXiuyfnIGtnexZm1i_39.161402_-86.535220@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603470,
+    "wof:geomhash":"9cafbc2db8ad6c59cf25d16269c990e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85803503,
+            "region_id":85688709,
+            "venue_id":807072305
+        }
+    ],
+    "wof:id":807072305,
+    "wof:lastmodified":1462603470,
+    "wof:name":"The Warehouse",
+    "wof:parent_id":85803503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decor",
+        "store"
+    ]
+},
+  "bbox": [
+    -86.53522,
+    39.161402,
+    -86.53522,
+    39.161402
+],
+  "geometry": {"coordinates":[-86.53522,39.161402],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 807077675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.544149,39.179065,-86.544149,39.179065",
+    "geom:latitude":39.179065,
+    "geom:longitude":-86.544149,
+    "iso:country":"US",
+    "sg:address":"930 W 17th St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 7288",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "skating",
+        "place",
+        "rinks-ice",
+        "arcade"
+    ],
+    "sg:website":"westernskateland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803503,
+        102191575,
+        404501311,
+        85633793,
+        85941713,
+        102086351,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mbFnIubxSNd22HnQ8agbP_39.179065_-86.544149@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603515,
+    "wof:geomhash":"65090fbf3b01e82b329d868df28e6ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086351,
+            "localadmin_id":404501311,
+            "locality_id":85941713,
+            "neighbourhood_id":85803503,
+            "region_id":85688709,
+            "venue_id":807077675
+        }
+    ],
+    "wof:id":807077675,
+    "wof:lastmodified":1462603515,
+    "wof:name":"Western Skateland",
+    "wof:parent_id":85803503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "place",
+        "rinks-ice",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -86.544149,
+    39.179065,
+    -86.544149,
+    39.179065
+],
+  "geometry": {"coordinates":[-86.544149,39.179065],"type":"Point"}
+}

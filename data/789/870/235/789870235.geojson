@@ -1,0 +1,73 @@
+{
+  "id": 789870235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.812653,40.412881,-86.812653,40.412881",
+    "geom:latitude":40.412881,
+    "geom:longitude":-86.812653,
+    "iso:country":"US",
+    "sg:address":"4908 Tazer Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 446 8013",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31PPi0BfAgogZqiXyEK9dW_40.412881_-86.812653@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591190,
+    "wof:geomhash":"68c1c768f23c4ed243cb0eabbc6dc448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":789870235
+        }
+    ],
+    "wof:id":789870235,
+    "wof:lastmodified":1462591190,
+    "wof:name":"Eastside Magic Spray Carwash",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.812653,
+    40.412881,
+    -86.812653,
+    40.412881
+],
+  "geometry": {"coordinates":[-86.812653,40.412881],"type":"Point"}
+}

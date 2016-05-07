@@ -1,0 +1,80 @@
+{
+  "id": 789608113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.215759,39.789296,-86.215759,39.789296",
+    "geom:latitude":39.789296,
+    "geom:longitude":-86.215759,
+    "iso:country":"US",
+    "sg:address":"1637 N Tibbs Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 972 0190",
+    "sg:postcode":"46222",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821825,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VP77HvzHW1pNk6goy2RKi_39.789296_-86.215759@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589126,
+    "wof:geomhash":"74d8675a8d563f8157c539bb21b48166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85821825,
+            "region_id":85688709,
+            "venue_id":789608113
+        }
+    ],
+    "wof:id":789608113,
+    "wof:lastmodified":1462589126,
+    "wof:name":"Freeman's Hair Co",
+    "wof:parent_id":85821825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.215759,
+    39.789296,
+    -86.215759,
+    39.789296
+],
+  "geometry": {"coordinates":[-86.21575900000001,39.789296],"type":"Point"}
+}

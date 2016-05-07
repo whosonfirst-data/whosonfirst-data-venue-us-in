@@ -1,0 +1,73 @@
+{
+  "id": 806805085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.158303,39.613822,-86.158303,39.613822",
+    "geom:latitude":39.613822,
+    "geom:longitude":-86.158303,
+    "iso:country":"US",
+    "sg:address":"81 N State Road 135",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/white-river/240904-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46142",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942283,
+        102086239,
+        85826767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ShP6UbKDYoQAPRUF7mXJ_39.613822_-86.158303@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601228,
+    "wof:geomhash":"2db8af6135b8c227f8ef3054f336f9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086239,
+            "locality_id":85942283,
+            "neighbourhood_id":85826767,
+            "region_id":85688709,
+            "venue_id":806805085
+        }
+    ],
+    "wof:id":806805085,
+    "wof:lastmodified":1462601228,
+    "wof:name":"White Castle",
+    "wof:parent_id":85826767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.158303,
+    39.613822,
+    -86.158303,
+    39.613822
+],
+  "geometry": {"coordinates":[-86.158303,39.613822],"type":"Point"}
+}

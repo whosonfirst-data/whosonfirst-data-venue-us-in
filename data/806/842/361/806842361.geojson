@@ -1,0 +1,77 @@
+{
+  "id": 806842361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.937854,41.648636,-85.937854,41.648636",
+    "geom:latitude":41.648636,
+    "geom:longitude":-85.937854,
+    "iso:country":"US",
+    "sg:address":"3429 S Main St",
+    "sg:city":"Elkhart",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/concord/186313-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46517",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823045,
+        102191575,
+        404500585,
+        85633793,
+        85942259,
+        102086257,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KdVshJ6QidIErjpF2mg2q_41.649061_-85.938396@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601530,
+    "wof:geomhash":"c2670c1a0b4dd6f48e80c29ff5b1a4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086257,
+            "localadmin_id":404500585,
+            "locality_id":85942259,
+            "neighbourhood_id":85823045,
+            "region_id":85688709,
+            "venue_id":806842361
+        }
+    ],
+    "wof:id":806842361,
+    "wof:lastmodified":1462601530,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85823045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.937854,
+    41.648636,
+    -85.937854,
+    41.648636
+],
+  "geometry": {"coordinates":[-85.937854,41.648636],"type":"Point"}
+}

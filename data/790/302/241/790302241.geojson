@@ -1,0 +1,75 @@
+{
+  "id": 790302241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674639,40.103089,-85.674639,40.103089",
+    "geom:latitude":40.103089,
+    "geom:longitude":-85.674639,
+    "iso:country":"US",
+    "sg:address":"333 E 13th St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 643 3131",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825401,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27l3NCJt5W810aZEj3m8L5_40.103089_-85.674639@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594784,
+    "wof:geomhash":"a9838dc51b45cb36c4170727f7f31dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85825401,
+            "region_id":85688709,
+            "venue_id":790302241
+        }
+    ],
+    "wof:id":790302241,
+    "wof:lastmodified":1462594784,
+    "wof:name":"Anderson Taxi",
+    "wof:parent_id":85825401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.674639,
+    40.103089,
+    -85.674639,
+    40.103089
+],
+  "geometry": {"coordinates":[-85.674639,40.103089],"type":"Point"}
+}

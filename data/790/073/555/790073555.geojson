@@ -1,0 +1,71 @@
+{
+  "id": 790073555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.60968,37.983106,-87.60968,37.983106",
+    "geom:latitude":37.983106,
+    "geom:longitude":-87.60968,
+    "iso:country":"US",
+    "sg:address":"518 N Barker Ave",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 424 6427",
+    "sg:postcode":"47712",
+    "sg:province":"IN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942147,
+        102087105,
+        85877285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29DHW7LVwRjfZT1fr2pnp6_37.983106_-87.609680@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592921,
+    "wof:geomhash":"e28ddfd832d4d1aba0c23bafafcdb1fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "locality_id":85942147,
+            "neighbourhood_id":85877285,
+            "region_id":85688709,
+            "venue_id":790073555
+        }
+    ],
+    "wof:id":790073555,
+    "wof:lastmodified":1462592921,
+    "wof:name":"Don's Cleaners",
+    "wof:parent_id":85877285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -87.60968,
+    37.983106,
+    -87.60968,
+    37.983106
+],
+  "geometry": {"coordinates":[-87.60968,37.983106],"type":"Point"}
+}

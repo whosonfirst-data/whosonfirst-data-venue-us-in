@@ -1,0 +1,67 @@
+{
+  "id": 806610761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.875915,40.417362,-86.875915,40.417362",
+    "geom:latitude":40.417362,
+    "geom:longitude":-86.875915,
+    "iso:country":"US",
+    "sg:address":"1801 South St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 448 1700",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548u1t7e2LEPJCm8FjM3EX_40.417362_-86.875915@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599571,
+    "wof:geomhash":"0fd06a16c3ca3cad2311c63f8e93e321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806610761
+        }
+    ],
+    "wof:id":806610761,
+    "wof:lastmodified":1462599571,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.875915,
+    40.417362,
+    -86.875915,
+    40.417362
+],
+  "geometry": {"coordinates":[-86.87591500000001,40.417362],"type":"Point"}
+}

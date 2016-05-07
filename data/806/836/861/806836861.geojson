@@ -1,0 +1,74 @@
+{
+  "id": 806836861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.869883,40.432116,-86.869883,40.432116",
+    "geom:latitude":40.432116,
+    "geom:longitude":-86.869883,
+    "iso:country":"US",
+    "sg:address":"2404 Greenbush St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/fairfield/83669-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 449 4720",
+    "sg:postcode":"47904",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51O9usjYnukf2qbyTwOXgi_40.432116_-86.869883@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601482,
+    "wof:geomhash":"ad2a13e68f0bde479a830bc8047389e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806836861
+        }
+    ],
+    "wof:id":806836861,
+    "wof:lastmodified":1462601482,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.869883,
+    40.432116,
+    -86.869883,
+    40.432116
+],
+  "geometry": {"coordinates":[-86.869883,40.432116],"type":"Point"}
+}

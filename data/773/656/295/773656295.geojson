@@ -1,0 +1,71 @@
+{
+  "id": 773656295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.414416,39.412607,-87.414416,39.412607",
+    "geom:latitude":39.412607,
+    "geom:longitude":-87.414416,
+    "iso:country":"US",
+    "sg:address":"4429 S US Hwy 41",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 235 8354",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PDLqWPugozT62cygxgR42_39.412607_-87.414416@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587368,
+    "wof:geomhash":"8226e8be2998de1024cf98ec8e105d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773656295
+        }
+    ],
+    "wof:id":773656295,
+    "wof:lastmodified":1462587368,
+    "wof:name":"Wonder Bread",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -87.414416,
+    39.412607,
+    -87.414416,
+    39.412607
+],
+  "geometry": {"coordinates":[-87.414416,39.412607],"type":"Point"}
+}

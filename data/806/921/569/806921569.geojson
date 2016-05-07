@@ -1,0 +1,93 @@
+{
+  "id": 806921569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.115404,39.794592,-86.115404,39.794592",
+    "geom:latitude":39.794592,
+    "geom:longitude":-86.115404,
+    "iso:country":"US",
+    "sg:address":"2929 Massachusetts Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 638 8001",
+    "sg:postcode":"46218",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807573,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B5QnQar3vkswwMy5gdjBp_39.794592_-86.115404@1303262764"
+    },
+    "wof:country":"US",
+    "wof:created":1462602202,
+    "wof:geomhash":"d1edb3a22d6c8e4191ff298bb87918d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85807573,
+            "region_id":85688709,
+            "venue_id":806921569
+        }
+    ],
+    "wof:id":806921569,
+    "wof:lastmodified":1462602202,
+    "wof:name":"Bruce's Auto Salvage",
+    "wof:parent_id":85807573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.115404,
+    39.794592,
+    -86.115404,
+    39.794592
+],
+  "geometry": {"coordinates":[-86.115404,39.794592],"type":"Point"}
+}

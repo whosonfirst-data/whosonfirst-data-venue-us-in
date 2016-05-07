@@ -1,0 +1,82 @@
+{
+  "id": 807050315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.300745,41.470946,-87.300745,41.470946",
+    "geom:latitude":41.470946,
+    "geom:longitude":-87.300745,
+    "iso:country":"US",
+    "sg:address":"2885 E 81st Ave",
+    "sg:city":"Merrillville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 947 2066",
+    "sg:postcode":"46410",
+    "sg:province":"IN",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891165,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MV8eZXdAmuEs7oa3H3l7z_41.470946_-87.300745@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603290,
+    "wof:geomhash":"d3f2ae6b69122665f6c1d6b7fdd025fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "neighbourhood_id":85891165,
+            "region_id":85688709,
+            "venue_id":807050315
+        }
+    ],
+    "wof:id":807050315,
+    "wof:lastmodified":1462603290,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85891165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -87.300745,
+    41.470946,
+    -87.300745,
+    41.470946
+],
+  "geometry": {"coordinates":[-87.30074500000001,41.470946],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789747465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660179,40.53205,-85.660179,40.53205",
+    "geom:latitude":40.53205,
+    "geom:longitude":-85.660179,
+    "iso:country":"US",
+    "sg:address":"3124 S Washington St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 662 2385",
+    "sg:postcode":"46953",
+    "sg:province":"IN",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85826075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oFB1O4hvczj3jvTEAh00W_40.532050_-85.660179@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590235,
+    "wof:geomhash":"908463f58c493173296c45224b9c4317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85826075,
+            "region_id":85688709,
+            "venue_id":789747465
+        }
+    ],
+    "wof:id":789747465,
+    "wof:lastmodified":1462590235,
+    "wof:name":"Big Al's Cycle Repair",
+    "wof:parent_id":85826075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -85.660179,
+    40.53205,
+    -85.660179,
+    40.53205
+],
+  "geometry": {"coordinates":[-85.660179,40.53205],"type":"Point"}
+}

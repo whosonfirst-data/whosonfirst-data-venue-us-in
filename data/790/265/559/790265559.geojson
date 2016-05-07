@@ -1,0 +1,71 @@
+{
+  "id": 790265559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.427947,39.410183,-86.427947,39.410183",
+    "geom:latitude":39.410183,
+    "geom:longitude":-86.427947,
+    "iso:country":"US",
+    "sg:address":"19 Magnolia St",
+    "sg:city":"Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 349 7288",
+    "sg:postcode":"46151",
+    "sg:province":"IN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942465,
+        102087091,
+        85833227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WMQMAe2NqUhPAy6IQ8D6l_39.410183_-86.427947@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594464,
+    "wof:geomhash":"736d8ea06b115dba053b370f44edd3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087091,
+            "locality_id":85942465,
+            "neighbourhood_id":85833227,
+            "region_id":85688709,
+            "venue_id":790265559
+        }
+    ],
+    "wof:id":790265559,
+    "wof:lastmodified":1462594464,
+    "wof:name":"Commercial Maintenance Service",
+    "wof:parent_id":85833227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.427947,
+    39.410183,
+    -86.427947,
+    39.410183
+],
+  "geometry": {"coordinates":[-86.427947,39.410183],"type":"Point"}
+}

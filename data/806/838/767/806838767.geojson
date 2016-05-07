@@ -1,0 +1,83 @@
+{
+  "id": 806838767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.669894,40.275306,-85.669894,40.275306",
+    "geom:latitude":40.275306,
+    "geom:longitude":-85.669894,
+    "iso:country":"US",
+    "sg:address":"1312 N Park Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/monroe/161577-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 3243",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5atzWfEdMscaLxqXyyRdT7_40.275588_-85.670678@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601500,
+    "wof:geomhash":"10e3114b87d49e0a74ae071976fc3562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":806838767
+        }
+    ],
+    "wof:id":806838767,
+    "wof:lastmodified":1462601500,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.669894,
+    40.275306,
+    -85.669894,
+    40.275306
+],
+  "geometry": {"coordinates":[-85.669894,40.275306],"type":"Point"}
+}

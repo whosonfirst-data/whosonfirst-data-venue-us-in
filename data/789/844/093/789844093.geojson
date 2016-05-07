@@ -1,0 +1,71 @@
+{
+  "id": 789844093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888181,39.19554,-85.888181,39.19554",
+    "geom:latitude":39.19554,
+    "geom:longitude":-85.888181,
+    "iso:country":"US",
+    "sg:address":"221 Coovert St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 376 8170",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941361,
+        102087181,
+        85816163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04aoFBXxkstuDVR3E5MSrz_39.195540_-85.888181@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590985,
+    "wof:geomhash":"0ad0664b0608ef787e91e9e66a59da4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "locality_id":85941361,
+            "neighbourhood_id":85816163,
+            "region_id":85688709,
+            "venue_id":789844093
+        }
+    ],
+    "wof:id":789844093,
+    "wof:lastmodified":1462590985,
+    "wof:name":"Steve Armstrong Appliance Svc",
+    "wof:parent_id":85816163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -85.888181,
+    39.19554,
+    -85.888181,
+    39.19554
+],
+  "geometry": {"coordinates":[-85.888181,39.19554],"type":"Point"}
+}

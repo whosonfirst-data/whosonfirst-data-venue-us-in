@@ -1,0 +1,71 @@
+{
+  "id": 789929963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.67092,40.27574,-85.67092,40.27574",
+    "geom:latitude":40.27574,
+    "geom:longitude":-85.67092,
+    "iso:country":"US",
+    "sg:address":"1101 N Park Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 724 1103",
+    "sg:postcode":"46001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942057,
+        102086407,
+        85821587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TRcQPOgBmrnXXsh8ahFUO_40.275740_-85.670920@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591710,
+    "wof:geomhash":"6aa54dd4378b69aac55e5a7b1a9fd8dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942057,
+            "neighbourhood_id":85821587,
+            "region_id":85688709,
+            "venue_id":789929963
+        }
+    ],
+    "wof:id":789929963,
+    "wof:lastmodified":1462591710,
+    "wof:name":"Park View Cemetery",
+    "wof:parent_id":85821587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -85.67092,
+    40.27574,
+    -85.67092,
+    40.27574
+],
+  "geometry": {"coordinates":[-85.67092,40.27574],"type":"Point"}
+}

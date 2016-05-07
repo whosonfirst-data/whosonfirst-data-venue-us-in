@@ -1,0 +1,71 @@
+{
+  "id": 773144173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.035054,38.872145,-86.035054,38.872145",
+    "geom:latitude":38.872145,
+    "geom:longitude":-86.035054,
+    "iso:country":"US",
+    "sg:address":"150 State Rd 250",
+    "sg:city":"Brownstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 358 2141",
+    "sg:postcode":"47220",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942185,
+        102087199,
+        85818369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RKhOUMiKslF0LgqUPvYRS_38.872145_-86.035054@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462583463,
+    "wof:geomhash":"6bd7ab9151c3c7357b507484ae7a7fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942185,
+            "neighbourhood_id":85818369,
+            "region_id":85688709,
+            "venue_id":773144173
+        }
+    ],
+    "wof:id":773144173,
+    "wof:lastmodified":1462583463,
+    "wof:name":"Jackson County Sheriff",
+    "wof:parent_id":85818369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -86.035054,
+    38.872145,
+    -86.035054,
+    38.872145
+],
+  "geometry": {"coordinates":[-86.035054,38.872145],"type":"Point"}
+}

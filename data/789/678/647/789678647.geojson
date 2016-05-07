@@ -1,0 +1,86 @@
+{
+  "id": 789678647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652637,40.106994,-85.652637,40.106994",
+    "geom:latitude":40.106994,
+    "geom:longitude":-85.652637,
+    "iso:country":"US",
+    "sg:address":"806 Scatterfield Rd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 643 8152",
+    "sg:postcode":"46012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822089,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709,
+        420558513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dIdOl1UZQ3V3gYa7nAvgE_40.106994_-85.652637@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589690,
+    "wof:geomhash":"e210d9da211e1d23f85408a0d6592b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85822089,
+            "region_id":85688709,
+            "venue_id":789678647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":420558513,
+            "region_id":85688709,
+            "venue_id":789678647
+        }
+    ],
+    "wof:id":789678647,
+    "wof:lastmodified":1462589690,
+    "wof:name":"Harvest Supermarkets Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.652637,
+    40.106994,
+    -85.652637,
+    40.106994
+],
+  "geometry": {"coordinates":[-85.652637,40.106994],"type":"Point"}
+}

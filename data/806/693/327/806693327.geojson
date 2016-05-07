@@ -1,0 +1,71 @@
+{
+  "id": 806693327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.853394,40.406886,-86.853394,40.406886",
+    "geom:latitude":40.406886,
+    "geom:longitude":-86.853394,
+    "iso:country":"US",
+    "sg:address":"724 Navco Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 742 5865",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85817137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F0DehS51ttjFwYVAixw3K_40.406886_-86.853394@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462600283,
+    "wof:geomhash":"fbbe1f9a2d147e16ae2eaf9841af875b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85817137,
+            "region_id":85688709,
+            "venue_id":806693327
+        }
+    ],
+    "wof:id":806693327,
+    "wof:lastmodified":1462600283,
+    "wof:name":"Lafayette Transmission",
+    "wof:parent_id":85817137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.853394,
+    40.406886,
+    -86.853394,
+    40.406886
+],
+  "geometry": {"coordinates":[-86.85339399999999,40.406886],"type":"Point"}
+}

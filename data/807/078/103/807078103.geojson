@@ -1,0 +1,81 @@
+{
+  "id": 807078103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.574626,39.163941,-86.574626,39.163941",
+    "geom:latitude":39.163941,
+    "geom:longitude":-86.574626,
+    "iso:country":"US",
+    "sg:address":"3151 W 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 331 2345",
+    "sg:postcode":"47404",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dessert",
+        "buffet",
+        "pizza"
+    ],
+    "sg:website":"www.monroecountypizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941713,
+        102086351,
+        85830319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VR9B4CNMDjcQEr8oLFEQd_39.163941_-86.574626@1303262772"
+    },
+    "wof:country":"US",
+    "wof:created":1462603518,
+    "wof:geomhash":"3a275e46da17467f52bd4cb5d58842c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "locality_id":85941713,
+            "neighbourhood_id":85830319,
+            "region_id":85688709,
+            "venue_id":807078103
+        }
+    ],
+    "wof:id":807078103,
+    "wof:lastmodified":1462603518,
+    "wof:name":"Monroe County Pizza",
+    "wof:parent_id":85830319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "buffet",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.574626,
+    39.163941,
+    -86.574626,
+    39.163941
+],
+  "geometry": {"coordinates":[-86.57462599999999,39.163941],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 789639321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.494281,39.155269,-86.494281,39.155269",
+    "geom:latitude":39.155269,
+    "geom:longitude":-86.494281,
+    "iso:country":"US",
+    "sg:address":"2944 E Covenanter Dr",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 323 1723",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6anTBeEJEQe40UsP7bZhN4_39.155269_-86.494281@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589369,
+    "wof:geomhash":"b851fb90da672d65cd654e1a87f8a7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":789639321
+        }
+    ],
+    "wof:id":789639321,
+    "wof:lastmodified":1462589369,
+    "wof:name":"Cookies By Design",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.494281,
+    39.155269,
+    -86.494281,
+    39.155269
+],
+  "geometry": {"coordinates":[-86.494281,39.155269],"type":"Point"}
+}

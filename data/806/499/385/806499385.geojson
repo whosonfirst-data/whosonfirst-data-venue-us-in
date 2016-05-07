@@ -1,0 +1,73 @@
+{
+  "id": 806499385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.183079,40.994741,-85.183079,40.994741",
+    "geom:latitude":40.994741,
+    "geom:longitude":-85.183079,
+    "iso:country":"US",
+    "sg:address":"9801 Airport Dr",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 478 9725",
+    "sg:postcode":"46809",
+    "sg:province":"IN",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877567,
+        102087177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ExNBbc0940z1ycbvm7iPb_40.994741_-85.183079@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462598618,
+    "wof:geomhash":"f48e296dbf615f6241be2e6efdb176aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "neighbourhood_id":85877567,
+            "region_id":85688709,
+            "venue_id":806499385
+        }
+    ],
+    "wof:id":806499385,
+    "wof:lastmodified":1462598618,
+    "wof:name":"Peyton's Northern",
+    "wof:parent_id":85877567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.183079,
+    40.994741,
+    -85.183079,
+    40.994741
+],
+  "geometry": {"coordinates":[-85.18307900000001,40.994741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789885205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.595288,38.015987,-87.595288,38.015987",
+    "geom:latitude":38.015987,
+    "geom:longitude":-87.595288,
+    "iso:country":"US",
+    "sg:address":"2160 Lexington Rd",
+    "sg:city":"Evansville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 421 3574",
+    "sg:postcode":"47720",
+    "sg:province":"IN",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85877303,
+        102087105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00sSDEIId7CFd9ntrkAIAs_38.015987_-87.595288@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591332,
+    "wof:geomhash":"d871c183ccdb1bc5eff91e51eaefb904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087105,
+            "neighbourhood_id":85877303,
+            "region_id":85688709,
+            "venue_id":789885205
+        }
+    ],
+    "wof:id":789885205,
+    "wof:lastmodified":1462591332,
+    "wof:name":"David L Russell Svc",
+    "wof:parent_id":85877303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -87.595288,
+    38.015987,
+    -87.595288,
+    38.015987
+],
+  "geometry": {"coordinates":[-87.595288,38.015987],"type":"Point"}
+}

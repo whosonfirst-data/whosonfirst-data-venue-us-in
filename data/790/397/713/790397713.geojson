@@ -1,0 +1,73 @@
+{
+  "id": 790397713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.675958,40.567273,-85.675958,40.567273",
+    "geom:latitude":40.567273,
+    "geom:longitude":-85.675958,
+    "iso:country":"US",
+    "sg:address":"811 N Baldwin Ave",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 664 3300",
+    "sg:postcode":"46952",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941707,
+        102087025,
+        85828297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26eEVAuZSXzP9PR5ku0vql_40.567273_-85.675958@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595519,
+    "wof:geomhash":"a16b6ae7d6d9381486db450dd50e2995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087025,
+            "locality_id":85941707,
+            "neighbourhood_id":85828297,
+            "region_id":85688709,
+            "venue_id":790397713
+        }
+    ],
+    "wof:id":790397713,
+    "wof:lastmodified":1462595519,
+    "wof:name":"Hoss's Automotive & Tire",
+    "wof:parent_id":85828297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.675958,
+    40.567273,
+    -85.675958,
+    40.567273
+],
+  "geometry": {"coordinates":[-85.67595799999999,40.567273],"type":"Point"}
+}

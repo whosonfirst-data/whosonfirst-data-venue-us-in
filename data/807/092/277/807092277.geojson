@@ -1,0 +1,80 @@
+{
+  "id": 807092277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.565037,38.356319,-87.565037,38.356319",
+    "geom:latitude":38.356319,
+    "geom:longitude":-87.565037,
+    "iso:country":"US",
+    "sg:address":"217 N Gibson St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 2136",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52KQBjH3kj9i3AYOgnS5a8_38.356319_-87.565037@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603638,
+    "wof:geomhash":"46f1c03a2fd484e568ec621053a3c794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807092277
+        }
+    ],
+    "wof:id":807092277,
+    "wof:lastmodified":1462603638,
+    "wof:name":"Christian Church",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -87.565037,
+    38.356319,
+    -87.565037,
+    38.356319
+],
+  "geometry": {"coordinates":[-87.565037,38.356319],"type":"Point"}
+}

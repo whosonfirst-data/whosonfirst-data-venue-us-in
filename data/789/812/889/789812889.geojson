@@ -1,0 +1,71 @@
+{
+  "id": 789812889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.817326,41.237616,-85.817326,41.237616",
+    "geom:latitude":41.237616,
+    "geom:longitude":-85.817326,
+    "iso:country":"US",
+    "sg:address":"2808 Frontage Rd",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 269 6562",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41IeXfCzPVbhSJOoq9mhep_41.237616_-85.817326@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590737,
+    "wof:geomhash":"0f6e5d69edd643087b93152b3f0cbe9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":789812889
+        }
+    ],
+    "wof:id":789812889,
+    "wof:lastmodified":1462590737,
+    "wof:name":"IPFW",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -85.817326,
+    41.237616,
+    -85.817326,
+    41.237616
+],
+  "geometry": {"coordinates":[-85.81732599999999,41.237616],"type":"Point"}
+}

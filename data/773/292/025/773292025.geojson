@@ -1,0 +1,71 @@
+{
+  "id": 773292025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888325,38.957406,-85.888325,38.957406",
+    "geom:latitude":38.957406,
+    "geom:longitude":-85.888325,
+    "iso:country":"US",
+    "sg:address":"201 W Tipton St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 523 4545",
+    "sg:postcode":"47274",
+    "sg:province":"IN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942191,
+        102087199,
+        85851577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U68pRbCgoHkMs486aAC9r_38.957406_-85.888325@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584615,
+    "wof:geomhash":"c19d0b54fcf885472c1661bc074a7415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087199,
+            "locality_id":85942191,
+            "neighbourhood_id":85851577,
+            "region_id":85688709,
+            "venue_id":773292025
+        }
+    ],
+    "wof:id":773292025,
+    "wof:lastmodified":1462584615,
+    "wof:name":"Seymour Family Dentistry",
+    "wof:parent_id":85851577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.888325,
+    38.957406,
+    -85.888325,
+    38.957406
+],
+  "geometry": {"coordinates":[-85.88832499999999,38.957406],"type":"Point"}
+}

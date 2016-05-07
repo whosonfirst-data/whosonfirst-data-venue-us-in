@@ -1,0 +1,71 @@
+{
+  "id": 789649365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480348,39.147431,-86.480348,39.147431",
+    "geom:latitude":39.147431,
+    "geom:longitude":-86.480348,
+    "iso:country":"US",
+    "sg:address":"1405 S Smith Rd",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 6299",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ins4wpHYcAc2qybvXO410_39.147431_-86.480348@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589450,
+    "wof:geomhash":"24f3770ebb264bbdfbe1cf3113b713d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":789649365
+        }
+    ],
+    "wof:id":789649365,
+    "wof:lastmodified":1462589450,
+    "wof:name":"Ted's Auto Sales",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.480348,
+    39.147431,
+    -86.480348,
+    39.147431
+],
+  "geometry": {"coordinates":[-86.48034800000001,39.147431],"type":"Point"}
+}

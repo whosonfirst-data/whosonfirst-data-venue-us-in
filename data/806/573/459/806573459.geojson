@@ -1,0 +1,73 @@
+{
+  "id": 806573459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.692049,40.063091,-85.692049,40.063091",
+    "geom:latitude":40.063091,
+    "geom:longitude":-85.692049,
+    "iso:country":"US",
+    "sg:address":"5008 Madison Ave",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 644 7701",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ExafkvTZCh1TStYsNFve_40.063091_-85.692049@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462599260,
+    "wof:geomhash":"0005fa9a7d6ec36f62f7fe3d91210f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":806573459
+        }
+    ],
+    "wof:id":806573459,
+    "wof:lastmodified":1462599260,
+    "wof:name":"Anderson Siding & Windows",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.692049,
+    40.063091,
+    -85.692049,
+    40.063091
+],
+  "geometry": {"coordinates":[-85.692049,40.063091],"type":"Point"}
+}

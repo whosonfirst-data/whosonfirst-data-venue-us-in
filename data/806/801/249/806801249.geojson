@@ -1,0 +1,78 @@
+{
+  "id": 806801249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.691983,40.07755,-85.691983,40.07755",
+    "geom:latitude":40.07755,
+    "geom:longitude":-85.691983,
+    "iso:country":"US",
+    "sg:address":"3737 Madison Ave",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/anderson/237617-pizza-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 649 9204",
+    "sg:postcode":"46013",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833395,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57yLW2R4w3g4TK9NH16qpf_40.077550_-85.691983@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601194,
+    "wof:geomhash":"d5485ae4852e247d51b0754a070901a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85833395,
+            "region_id":85688709,
+            "venue_id":806801249
+        }
+    ],
+    "wof:id":806801249,
+    "wof:lastmodified":1462601194,
+    "wof:name":"Pizza King",
+    "wof:parent_id":85833395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.691983,
+    40.07755,
+    -85.691983,
+    40.07755
+],
+  "geometry": {"coordinates":[-85.69198299999999,40.07755],"type":"Point"}
+}

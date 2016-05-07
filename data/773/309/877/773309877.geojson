@@ -1,0 +1,71 @@
+{
+  "id": 773309877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.376455,39.448409,-87.376455,39.448409",
+    "geom:latitude":39.448409,
+    "geom:longitude":-87.376455,
+    "iso:country":"US",
+    "sg:address":"2600 Hulman St",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 232 5797",
+    "sg:postcode":"47803",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I1KUSOYSWYlTtoPHJjWOj_39.448409_-87.376455@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462584762,
+    "wof:geomhash":"7a5d33f290738daee652d81ccfcd2682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":773309877
+        }
+    ],
+    "wof:id":773309877,
+    "wof:lastmodified":1462584762,
+    "wof:name":"Fire Dept Public Safety Ofc",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.376455,
+    39.448409,
+    -87.376455,
+    39.448409
+],
+  "geometry": {"coordinates":[-87.37645500000001,39.448409],"type":"Point"}
+}

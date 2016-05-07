@@ -1,0 +1,72 @@
+{
+  "id": 807092159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.567318,38.357185,-87.567318,38.357185",
+    "geom:latitude":38.357185,
+    "geom:longitude":-87.567318,
+    "iso:country":"US",
+    "sg:address":"112 E Emerson St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 3496",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.gibsoncountysheriff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IL6u7zWI4iQUNWyt59DX_38.357185_-87.567318@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603636,
+    "wof:geomhash":"a56a772d7125fb4def26fc7c57396f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":807092159
+        }
+    ],
+    "wof:id":807092159,
+    "wof:lastmodified":1462603636,
+    "wof:name":"Gibson County Sheriff's Department",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.567318,
+    38.357185,
+    -87.567318,
+    38.357185
+],
+  "geometry": {"coordinates":[-87.567318,38.357185],"type":"Point"}
+}

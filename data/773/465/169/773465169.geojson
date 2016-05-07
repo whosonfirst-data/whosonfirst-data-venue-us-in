@@ -1,0 +1,69 @@
+{
+  "id": 773465169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012576,39.152191,-85.012576,39.152191",
+    "geom:latitude":39.152191,
+    "geom:longitude":-85.012576,
+    "iso:country":"US",
+    "sg:address":"10477 State Rd 48",
+    "sg:city":"Aurora",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 926 3606",
+    "sg:postcode":"47001",
+    "sg:province":"IN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85857149,
+        102087067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22C1TByfwOfUtru0vnnG6u_39.152191_-85.012576@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585953,
+    "wof:geomhash":"19c7e59c3ae9562463f840725009789a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "neighbourhood_id":85857149,
+            "region_id":85688709,
+            "venue_id":773465169
+        }
+    ],
+    "wof:id":773465169,
+    "wof:lastmodified":1462585953,
+    "wof:name":"Manchester Market",
+    "wof:parent_id":85857149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.012576,
+    39.152191,
+    -85.012576,
+    39.152191
+],
+  "geometry": {"coordinates":[-85.012576,39.152191],"type":"Point"}
+}

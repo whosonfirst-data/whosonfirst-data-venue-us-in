@@ -1,0 +1,89 @@
+{
+  "id": 807058391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.720842,38.297746,-85.720842,38.297746",
+    "geom:latitude":38.297746,
+    "geom:longitude":-85.720842,
+    "iso:country":"US",
+    "sg:address":"1618 Jonquil Dr",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 697 1044",
+    "sg:postcode":"47130",
+    "sg:province":"IN",
+    "sg:tags":[
+        "chauffeur",
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842775,
+        102191575,
+        404501119,
+        85633793,
+        85942175,
+        102086421,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yp0xOG2D0ixoqiSavTyKb_38.297746_-85.720842@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603358,
+    "wof:geomhash":"78747a5f12f977191b04489f74adf0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086421,
+            "localadmin_id":404501119,
+            "locality_id":85942175,
+            "neighbourhood_id":85842775,
+            "region_id":85688709,
+            "venue_id":807058391
+        }
+    ],
+    "wof:id":807058391,
+    "wof:lastmodified":1462603358,
+    "wof:name":"Ace King Limousine",
+    "wof:parent_id":85842775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chauffeur",
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -85.720842,
+    38.297746,
+    -85.720842,
+    38.297746
+],
+  "geometry": {"coordinates":[-85.720842,38.297746],"type":"Point"}
+}

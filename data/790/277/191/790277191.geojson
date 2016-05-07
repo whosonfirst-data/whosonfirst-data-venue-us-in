@@ -1,0 +1,73 @@
+{
+  "id": 790277191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.428572,39.41219,-87.428572,39.41219",
+    "geom:latitude":39.41219,
+    "geom:longitude":-87.428572,
+    "iso:country":"US",
+    "sg:address":"801 W Springhill Dr",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 234 6900",
+    "sg:postcode":"47802",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85814303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xntf6OdmcE8PHTF8llhjk_39.412190_-87.428572@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462594581,
+    "wof:geomhash":"a8d11843ecb757b0fc17e4825f1ee196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85814303,
+            "region_id":85688709,
+            "venue_id":790277191
+        }
+    ],
+    "wof:id":790277191,
+    "wof:lastmodified":1462594581,
+    "wof:name":"Sir Thomas's Automotive Repair",
+    "wof:parent_id":85814303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.428572,
+    39.41219,
+    -87.428572,
+    39.41219
+],
+  "geometry": {"coordinates":[-87.428572,39.41219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773702101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850048,41.245924,-85.850048,41.245924",
+    "geom:latitude":41.245924,
+    "geom:longitude":-85.850048,
+    "iso:country":"US",
+    "sg:address":"1000 N Park Ave",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 574 268 0866",
+    "sg:postcode":"46580",
+    "sg:province":"IN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819801,
+        102087157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o8jLw1YeG1K7yOx98pdmG_41.245924_-85.850048@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587740,
+    "wof:geomhash":"6529391394cabd6f1f063565877b79f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087157,
+            "neighbourhood_id":85819801,
+            "region_id":85688709,
+            "venue_id":773702101
+        }
+    ],
+    "wof:id":773702101,
+    "wof:lastmodified":1462587740,
+    "wof:name":"Jeffrey P Bolduan DO",
+    "wof:parent_id":85819801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.850048,
+    41.245924,
+    -85.850048,
+    41.245924
+],
+  "geometry": {"coordinates":[-85.850048,41.245924],"type":"Point"}
+}

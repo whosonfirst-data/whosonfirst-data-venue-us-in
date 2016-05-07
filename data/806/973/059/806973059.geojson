@@ -1,0 +1,90 @@
+{
+  "id": 806973059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.241287,39.735359,-86.241287,39.735359",
+    "geom:latitude":39.735359,
+    "geom:longitude":-86.241287,
+    "iso:country":"US",
+    "sg:address":"4901 W Raymond St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 546 4081",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "welder"
+    ],
+    "sg:website":"http://www.schaefer-technologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519801,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KNESOmLXyaEgqNBfYVsbu_39.735359_-86.241287@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602634,
+    "wof:geomhash":"591a11c1a2d1ec4a8e89f62a3806d1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519801,
+            "region_id":85688709,
+            "venue_id":806973059
+        }
+    ],
+    "wof:id":806973059,
+    "wof:lastmodified":1462602634,
+    "wof:name":"Schaefer Technologies, Inc.",
+    "wof:parent_id":420519801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "welder"
+    ]
+},
+  "bbox": [
+    -86.241287,
+    39.735359,
+    -86.241287,
+    39.735359
+],
+  "geometry": {"coordinates":[-86.241287,39.735359],"type":"Point"}
+}

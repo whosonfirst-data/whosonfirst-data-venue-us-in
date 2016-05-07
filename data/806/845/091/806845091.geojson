@@ -1,0 +1,80 @@
+{
+  "id": 806845091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.49651,39.164275,-86.49651,39.164275",
+    "geom:latitude":39.164275,
+    "geom:longitude":-86.49651,
+    "iso:country":"US",
+    "sg:address":"2713 E 3rd St",
+    "sg:city":"Bloomington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/bloomington/159601-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 332 1665",
+    "sg:postcode":"47401",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85826197,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gFFPUevBzoy8P69pywpgR_39.164293_-86.496760@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601565,
+    "wof:geomhash":"91396fbedf9948a039684d2ba2e1f8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85826197,
+            "region_id":85688709,
+            "venue_id":806845091
+        }
+    ],
+    "wof:id":806845091,
+    "wof:lastmodified":1462601565,
+    "wof:name":"Arby's",
+    "wof:parent_id":85826197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.49651,
+    39.164275,
+    -86.49651,
+    39.164275
+],
+  "geometry": {"coordinates":[-86.49651,39.164275],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789797575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.15209,39.726328,-86.15209,39.726328",
+    "geom:latitude":39.726328,
+    "geom:longitude":-86.15209,
+    "iso:country":"US",
+    "sg:address":"2735 Madison Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 791 8001",
+    "sg:postcode":"46225",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870639,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5At2WMky8sBuThCs9LTB_39.726328_-86.152090@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590624,
+    "wof:geomhash":"d97986de5b6de8c2d3faffd57f88443a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870639,
+            "region_id":85688709,
+            "venue_id":789797575
+        }
+    ],
+    "wof:id":789797575,
+    "wof:lastmodified":1462590624,
+    "wof:name":"Sports & Imports Auto Svc",
+    "wof:parent_id":85870639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.15209,
+    39.726328,
+    -86.15209,
+    39.726328
+],
+  "geometry": {"coordinates":[-86.15209,39.726328],"type":"Point"}
+}

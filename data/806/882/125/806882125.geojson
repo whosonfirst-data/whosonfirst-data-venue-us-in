@@ -1,0 +1,84 @@
+{
+  "id": 806882125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261772,39.95076,-86.261772,39.95076",
+    "geom:latitude":39.95076,
+    "geom:longitude":-86.261772,
+    "iso:country":"US",
+    "sg:address":"100 S Main St",
+    "sg:city":"Zionsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 733 9356",
+    "sg:postcode":"46077",
+    "sg:province":"IN",
+    "sg:tags":[
+        "metals-precious",
+        "jewelers-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838263,
+        102191575,
+        404501093,
+        85633793,
+        85941757,
+        102086453,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OwU3XDZzguDBJqVjPOfqH_39.950760_-86.261772@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601871,
+    "wof:geomhash":"51a2f8afd707770639ea077d584621fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086453,
+            "localadmin_id":404501093,
+            "locality_id":85941757,
+            "neighbourhood_id":85838263,
+            "region_id":85688709,
+            "venue_id":806882125
+        }
+    ],
+    "wof:id":806882125,
+    "wof:lastmodified":1462601871,
+    "wof:name":"Jewelers Bench",
+    "wof:parent_id":85838263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metals-precious",
+        "jewelers-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.261772,
+    39.95076,
+    -86.261772,
+    39.95076
+],
+  "geometry": {"coordinates":[-86.26177199999999,39.95076],"type":"Point"}
+}

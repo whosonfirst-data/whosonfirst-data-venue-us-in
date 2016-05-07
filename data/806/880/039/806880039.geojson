@@ -1,0 +1,74 @@
+{
+  "id": 806880039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.139397,40.033001,-86.139397,40.033001",
+    "geom:latitude":40.033001,
+    "geom:longitude":-86.139397,
+    "iso:country":"US",
+    "sg:address":"16915 Westfield Park Rd",
+    "sg:city":"Westfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 896 9358",
+    "sg:postcode":"46074",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.harveyscollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941341,
+        102087089,
+        85891201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63kypguAbndTQOCxInrfmb_40.033001_-86.139397@1303262761"
+    },
+    "wof:country":"US",
+    "wof:created":1462601857,
+    "wof:geomhash":"be6acc9f3930eb146f5d868de58cc2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087089,
+            "locality_id":85941341,
+            "neighbourhood_id":85891201,
+            "region_id":85688709,
+            "venue_id":806880039
+        }
+    ],
+    "wof:id":806880039,
+    "wof:lastmodified":1462601857,
+    "wof:name":"Harvey's Collision Center",
+    "wof:parent_id":85891201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.139397,
+    40.033001,
+    -86.139397,
+    40.033001
+],
+  "geometry": {"coordinates":[-86.139397,40.033001],"type":"Point"}
+}

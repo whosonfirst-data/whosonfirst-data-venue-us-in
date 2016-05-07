@@ -1,0 +1,71 @@
+{
+  "id": 789667233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.75948,40.372623,-86.75948,40.372623",
+    "geom:latitude":40.372623,
+    "geom:longitude":-86.75948,
+    "iso:country":"US",
+    "sg:address":"7612 Adams Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 296 4047",
+    "sg:postcode":"47905",
+    "sg:province":"IN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941371,
+        102087121,
+        85851899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWVsFavJmva41T842jQeE_40.372623_-86.759480@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462589609,
+    "wof:geomhash":"775392313a90d6a0c8d82763cddfaf76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087121,
+            "locality_id":85941371,
+            "neighbourhood_id":85851899,
+            "region_id":85688709,
+            "venue_id":789667233
+        }
+    ],
+    "wof:id":789667233,
+    "wof:lastmodified":1462589609,
+    "wof:name":"Richard Zellers",
+    "wof:parent_id":85851899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.75948,
+    40.372623,
+    -86.75948,
+    40.372623
+],
+  "geometry": {"coordinates":[-86.75948,40.372623],"type":"Point"}
+}

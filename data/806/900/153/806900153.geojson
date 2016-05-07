@@ -1,0 +1,87 @@
+{
+  "id": 806900153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.155771,39.787648,-86.155771,39.787648",
+    "geom:latitude":39.787648,
+    "geom:longitude":-86.155771,
+    "iso:country":"US",
+    "sg:address":"1517 N Pennsylvania St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 635 9998",
+    "sg:postcode":"46202",
+    "sg:province":"IN",
+    "sg:tags":[
+        "tavern",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866945,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lj7PoSKNeF1FCm09H7Gv6_39.787648_-86.155771@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602010,
+    "wof:geomhash":"2a63c719ecae79c75438206cd8392464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866945,
+            "region_id":85688709,
+            "venue_id":806900153
+        }
+    ],
+    "wof:id":806900153,
+    "wof:lastmodified":1462602010,
+    "wof:name":"Varsity Lounge",
+    "wof:parent_id":85866945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -86.155771,
+    39.787648,
+    -86.155771,
+    39.787648
+],
+  "geometry": {"coordinates":[-86.155771,39.787648],"type":"Point"}
+}

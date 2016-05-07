@@ -1,0 +1,75 @@
+{
+  "id": 773658365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.987246,38.37295,-85.987246,38.37295",
+    "geom:latitude":38.37295,
+    "geom:longitude":-85.987246,
+    "iso:country":"US",
+    "sg:address":"9590 US Hwy 150",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 923 1170",
+    "sg:postcode":"47124",
+    "sg:province":"IN",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942489,
+        102087137,
+        85846703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72fdIRcXbGqwZHZna0wROJ_38.372950_-85.987246@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462587381,
+    "wof:geomhash":"c320ad2b4acb30888d21297f58acfb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087137,
+            "locality_id":85942489,
+            "neighbourhood_id":85846703,
+            "region_id":85688709,
+            "venue_id":773658365
+        }
+    ],
+    "wof:id":773658365,
+    "wof:lastmodified":1462587381,
+    "wof:name":"Greenville",
+    "wof:parent_id":85846703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -85.987246,
+    38.37295,
+    -85.987246,
+    38.37295
+],
+  "geometry": {"coordinates":[-85.987246,38.37295],"type":"Point"}
+}

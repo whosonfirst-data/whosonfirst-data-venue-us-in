@@ -1,0 +1,71 @@
+{
+  "id": 789942907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624674,39.958173,-85.624674,39.958173",
+    "geom:latitude":39.958173,
+    "geom:longitude":-85.624674,
+    "iso:country":"US",
+    "sg:address":"10832 S 250 E",
+    "sg:city":"Markleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 533 2727",
+    "sg:postcode":"46056",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942059,
+        102086407,
+        85824039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d2q0kHEN6U9TR6JbHh6DZ_39.958173_-85.624674@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462591813,
+    "wof:geomhash":"592320b7e457846e5c9a9394c01c03de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086407,
+            "locality_id":85942059,
+            "neighbourhood_id":85824039,
+            "region_id":85688709,
+            "venue_id":789942907
+        }
+    ],
+    "wof:id":789942907,
+    "wof:lastmodified":1462591813,
+    "wof:name":"Hollendonner Equine Vet Svc",
+    "wof:parent_id":85824039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.624674,
+    39.958173,
+    -85.624674,
+    39.958173
+],
+  "geometry": {"coordinates":[-85.624674,39.958173],"type":"Point"}
+}

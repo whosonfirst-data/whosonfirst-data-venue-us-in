@@ -1,0 +1,69 @@
+{
+  "id": 790455273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.913262,39.135469,-85.913262,39.135469",
+    "geom:latitude":39.135469,
+    "geom:longitude":-85.913262,
+    "iso:country":"US",
+    "sg:address":"811 E 450 S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 342 2756",
+    "sg:postcode":"47201",
+    "sg:province":"IN",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85821009,
+        102087181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E3Or18pgKLoipV9XMOkFc_39.135469_-85.913262@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462595961,
+    "wof:geomhash":"e72c5d054787416de2c8e273fee5a6ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087181,
+            "neighbourhood_id":85821009,
+            "region_id":85688709,
+            "venue_id":790455273
+        }
+    ],
+    "wof:id":790455273,
+    "wof:lastmodified":1462595961,
+    "wof:name":"Bartholemew County Landfill",
+    "wof:parent_id":85821009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -85.913262,
+    39.135469,
+    -85.913262,
+    39.135469
+],
+  "geometry": {"coordinates":[-85.913262,39.135469],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790004767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.623501,39.235064,-86.623501,39.235064",
+    "geom:latitude":39.235064,
+    "geom:longitude":-86.623501,
+    "iso:country":"US",
+    "sg:address":"650 W Main St",
+    "sg:city":"Ellettsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 876 5528",
+    "sg:postcode":"47429",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85819979,
+        102086351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WDjri012HlvnKrgsAhfz9_39.235064_-86.623501@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592362,
+    "wof:geomhash":"a12af08f5f910d9727280fe9814456eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086351,
+            "neighbourhood_id":85819979,
+            "region_id":85688709,
+            "venue_id":790004767
+        }
+    ],
+    "wof:id":790004767,
+    "wof:lastmodified":1462592362,
+    "wof:name":"Frank's Automotive Repair",
+    "wof:parent_id":85819979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.623501,
+    39.235064,
+    -86.623501,
+    39.235064
+],
+  "geometry": {"coordinates":[-86.623501,39.235064],"type":"Point"}
+}

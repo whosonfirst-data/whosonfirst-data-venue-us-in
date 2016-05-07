@@ -1,0 +1,78 @@
+{
+  "id": 806801557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.656237,40.093186,-85.656237,40.093186",
+    "geom:latitude":40.093186,
+    "geom:longitude":-85.656237,
+    "iso:country":"US",
+    "sg:address":"1916 Mounds Rd",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/anderson/79411-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 641 2400",
+    "sg:postcode":"46016",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827053,
+        102191575,
+        404502009,
+        85633793,
+        85942059,
+        102086407,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2niObJCs1vFrLZaxdL5lLC_40.093186_-85.656237@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601196,
+    "wof:geomhash":"924497536f0e65d50b8ef91021f8403c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086407,
+            "localadmin_id":404502009,
+            "locality_id":85942059,
+            "neighbourhood_id":85827053,
+            "region_id":85688709,
+            "venue_id":806801557
+        }
+    ],
+    "wof:id":806801557,
+    "wof:lastmodified":1462601196,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85827053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.656237,
+    40.093186,
+    -85.656237,
+    40.093186
+],
+  "geometry": {"coordinates":[-85.656237,40.093186],"type":"Point"}
+}

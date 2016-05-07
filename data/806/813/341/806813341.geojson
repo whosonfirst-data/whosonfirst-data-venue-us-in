@@ -1,0 +1,80 @@
+{
+  "id": 806813341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260491,39.911251,-86.260491,39.911251",
+    "geom:latitude":39.911251,
+    "geom:longitude":-86.260491,
+    "iso:country":"US",
+    "sg:address":"5620 W 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/pike/174135-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 824 0236",
+    "sg:postcode":"46278",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tmSDf9krBN6XBp8vnekRQ_39.911251_-86.260491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601290,
+    "wof:geomhash":"06236296e1aec769823b38cb3f9d5fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870685,
+            "region_id":85688709,
+            "venue_id":806813341
+        }
+    ],
+    "wof:id":806813341,
+    "wof:lastmodified":1462601290,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85870685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.260491,
+    39.911251,
+    -86.260491,
+    39.911251
+],
+  "geometry": {"coordinates":[-86.260491,39.911251],"type":"Point"}
+}

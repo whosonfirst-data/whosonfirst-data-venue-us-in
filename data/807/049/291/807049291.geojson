@@ -1,0 +1,86 @@
+{
+  "id": 807049291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.393908,41.614956,-87.393908,41.614956",
+    "geom:latitude":41.614956,
+    "geom:longitude":-87.393908,
+    "iso:country":"US",
+    "sg:address":"355 N Clark Rd",
+    "sg:city":"Gary",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 313 4782",
+    "sg:postcode":"46406",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841659,
+        102191575,
+        404501857,
+        85633793,
+        85941813,
+        102087149,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J7gFkJYntGTR1ckjveng1_41.614956_-87.393908@1303262771"
+    },
+    "wof:country":"US",
+    "wof:created":1462603282,
+    "wof:geomhash":"35b10e991f4951bc25b6a16e8b785cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
+            "neighbourhood_id":85841659,
+            "region_id":85688709,
+            "venue_id":807049291
+        }
+    ],
+    "wof:id":807049291,
+    "wof:lastmodified":1462603282,
+    "wof:name":"Chicagoland Iron & Fence",
+    "wof:parent_id":85841659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.393908,
+    41.614956,
+    -87.393908,
+    41.614956
+],
+  "geometry": {"coordinates":[-87.393908,41.614956],"type":"Point"}
+}

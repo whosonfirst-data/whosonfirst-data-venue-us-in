@@ -1,0 +1,86 @@
+{
+  "id": 806810101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.131728,39.681291,-86.131728,39.681291",
+    "geom:latitude":39.681291,
+    "geom:longitude":-86.131728,
+    "iso:country":"US",
+    "sg:address":"5835 Madison Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/homecroft/69636-donatos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 780 7040",
+    "sg:postcode":"46227",
+    "sg:province":"IN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817487,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6in21lQe8kvkQz8Es7vpvG_39.681291_-86.131728@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601266,
+    "wof:geomhash":"142f2a7960b4d13badc48d1a5760a321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85817487,
+            "region_id":85688709,
+            "venue_id":806810101
+        }
+    ],
+    "wof:id":806810101,
+    "wof:lastmodified":1462601266,
+    "wof:name":"Donatos Pizza",
+    "wof:parent_id":85817487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.131728,
+    39.681291,
+    -86.131728,
+    39.681291
+],
+  "geometry": {"coordinates":[-86.131728,39.681291],"type":"Point"}
+}

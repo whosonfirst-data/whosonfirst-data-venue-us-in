@@ -1,0 +1,87 @@
+{
+  "id": 806970253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.103444,39.924869,-86.103444,39.924869",
+    "geom:latitude":39.924869,
+    "geom:longitude":-86.103444,
+    "iso:country":"US",
+    "sg:address":"9465 Counselors Row Ste 200",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 215 0695",
+    "sg:postcode":"46240",
+    "sg:province":"IN",
+    "sg:tags":[
+        "consultant",
+        "educational",
+        "conservation",
+        "energy"
+    ],
+    "sg:website":"http://www.alliedconsulting.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891093,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CRG0Q4aFq9ikMPwYvOuQz_39.924869_-86.103444@1303262766"
+    },
+    "wof:country":"US",
+    "wof:created":1462602613,
+    "wof:geomhash":"4badac28fdacfb4abbf683d9bb22aafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891093,
+            "region_id":85688709,
+            "venue_id":806970253
+        }
+    ],
+    "wof:id":806970253,
+    "wof:lastmodified":1462602613,
+    "wof:name":"Allied Consulting",
+    "wof:parent_id":85891093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational",
+        "conservation",
+        "energy"
+    ]
+},
+  "bbox": [
+    -86.103444,
+    39.924869,
+    -86.103444,
+    39.924869
+],
+  "geometry": {"coordinates":[-86.103444,39.924869],"type":"Point"}
+}

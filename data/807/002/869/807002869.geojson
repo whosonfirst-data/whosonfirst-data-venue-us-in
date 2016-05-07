@@ -1,0 +1,76 @@
+{
+  "id": 807002869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.188202,39.911999,-86.188202,39.911999",
+    "geom:latitude":39.911999,
+    "geom:longitude":-86.188202,
+    "iso:country":"US",
+    "sg:address":"1621 W 86th St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 872 4326",
+    "sg:postcode":"46260",
+    "sg:province":"IN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.briarwoodanimalclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822909,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LhmH5Pc9pkhW2m4ztyCnE_39.911999_-86.188202@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602881,
+    "wof:geomhash":"4c8d55b379701adf3fd5594584d97076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85822909,
+            "region_id":85688709,
+            "venue_id":807002869
+        }
+    ],
+    "wof:id":807002869,
+    "wof:lastmodified":1462602881,
+    "wof:name":"Briarwood Animal Clinic",
+    "wof:parent_id":85822909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.188202,
+    39.911999,
+    -86.188202,
+    39.911999
+],
+  "geometry": {"coordinates":[-86.188202,39.911999],"type":"Point"}
+}

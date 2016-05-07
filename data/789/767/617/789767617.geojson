@@ -1,0 +1,71 @@
+{
+  "id": 789767617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.945753,38.151132,-85.945753,38.151132",
+    "geom:latitude":38.151132,
+    "geom:longitude":-85.945753,
+    "iso:country":"US",
+    "sg:address":"3625 N Hwy 11 SE",
+    "sg:city":"Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 969 3334",
+    "sg:postcode":"47117",
+    "sg:province":"IN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941569,
+        102087165,
+        85824097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zL3N5heGerUFb9h1ayeMK_38.151132_-85.945753@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590385,
+    "wof:geomhash":"66ec412f6562bf0f4d8a168d64b76ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087165,
+            "locality_id":85941569,
+            "neighbourhood_id":85824097,
+            "region_id":85688709,
+            "venue_id":789767617
+        }
+    ],
+    "wof:id":789767617,
+    "wof:lastmodified":1462590385,
+    "wof:name":"Shaffer Plumbing",
+    "wof:parent_id":85824097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.945753,
+    38.151132,
+    -85.945753,
+    38.151132
+],
+  "geometry": {"coordinates":[-85.945753,38.151132],"type":"Point"}
+}

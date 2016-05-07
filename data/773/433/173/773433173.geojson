@@ -1,0 +1,73 @@
+{
+  "id": 773433173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.386967,39.506795,-87.386967,39.506795",
+    "geom:latitude":39.506795,
+    "geom:longitude":-87.386967,
+    "iso:country":"US",
+    "sg:address":"2060 Lafayette Ave",
+    "sg:city":"Terre Haute",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 466 3656",
+    "sg:postcode":"47805",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941919,
+        102087183,
+        85852861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AiPpZYRyvlO5xlvDvirZJ_39.506795_-87.386967@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462585693,
+    "wof:geomhash":"d64976f8fb4a9f4a4c0a201d713231ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087183,
+            "locality_id":85941919,
+            "neighbourhood_id":85852861,
+            "region_id":85688709,
+            "venue_id":773433173
+        }
+    ],
+    "wof:id":773433173,
+    "wof:lastmodified":1462585693,
+    "wof:name":"Grease Monkey",
+    "wof:parent_id":85852861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -87.386967,
+    39.506795,
+    -87.386967,
+    39.506795
+],
+  "geometry": {"coordinates":[-87.386967,39.506795],"type":"Point"}
+}

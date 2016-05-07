@@ -1,0 +1,78 @@
+{
+  "id": 806743483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.04538,39.776424,-86.04538,39.776424",
+    "geom:latitude":39.776424,
+    "geom:longitude":-86.04538,
+    "iso:country":"US",
+    "sg:address":"355 N Shadeland Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 353 0500",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"http://www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870651,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24WZm79XtNwfIRhCneLkrX_39.776910_-86.045305@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462600706,
+    "wof:geomhash":"31c14fdf8b265e46c5b378af5c74dd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870651,
+            "region_id":85688709,
+            "venue_id":806743483
+        }
+    ],
+    "wof:id":806743483,
+    "wof:lastmodified":1462600706,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85870651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.04538,
+    39.776424,
+    -86.04538,
+    39.776424
+],
+  "geometry": {"coordinates":[-86.04537999999999,39.776424],"type":"Point"}
+}

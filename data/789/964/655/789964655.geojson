@@ -1,0 +1,71 @@
+{
+  "id": 789964655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012833,39.421534,-85.012833,39.421534",
+    "geom:latitude":39.421534,
+    "geom:longitude":-85.012833,
+    "iso:country":"US",
+    "sg:address":"634 Main St",
+    "sg:city":"Brookville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 765 647 5681",
+    "sg:postcode":"47012",
+    "sg:province":"IN",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85850965,
+        102086385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M8ZgoVuUvsvsaQyE9vCLf_39.421534_-85.012833@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462592034,
+    "wof:geomhash":"56c3e0b9b0683ce775c73230da4c5928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086385,
+            "neighbourhood_id":85850965,
+            "region_id":85688709,
+            "venue_id":789964655
+        }
+    ],
+    "wof:id":789964655,
+    "wof:lastmodified":1462592034,
+    "wof:name":"Brookville Water Works",
+    "wof:parent_id":85850965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -85.012833,
+    39.421534,
+    -85.012833,
+    39.421534
+],
+  "geometry": {"coordinates":[-85.012833,39.421534],"type":"Point"}
+}

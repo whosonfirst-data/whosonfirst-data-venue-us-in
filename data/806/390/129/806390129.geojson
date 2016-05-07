@@ -1,0 +1,77 @@
+{
+  "id": 806390129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.154757,39.843725,-86.154757,39.843725",
+    "geom:latitude":39.843725,
+    "geom:longitude":-86.154757,
+    "iso:country":"US",
+    "sg:address":"4902 N Pennsylvania St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 283 7555",
+    "sg:postcode":"46205",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870673,
+        102191575,
+        404501899,
+        85633793,
+        85942561,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gbj2GN50sKjVostwVAXWZ_39.843725_-86.154757@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462597753,
+    "wof:geomhash":"497818f35c36440d5702b2518b0fd89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404501899,
+            "locality_id":85942561,
+            "neighbourhood_id":85870673,
+            "region_id":85688709,
+            "venue_id":806390129
+        }
+    ],
+    "wof:id":806390129,
+    "wof:lastmodified":1462597753,
+    "wof:name":"Pete's Service Ctr",
+    "wof:parent_id":85870673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.154757,
+    39.843725,
+    -86.154757,
+    39.843725
+],
+  "geometry": {"coordinates":[-86.154757,39.843725],"type":"Point"}
+}

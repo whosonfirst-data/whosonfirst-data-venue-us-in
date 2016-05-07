@@ -1,0 +1,73 @@
+{
+  "id": 807088939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.367599,38.068699,-87.367599,38.068699",
+    "geom:latitude":38.068699,
+    "geom:longitude":-87.367599,
+    "iso:country":"US",
+    "sg:address":"2566 N State St",
+    "sg:city":"Chandler",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 925 7205",
+    "sg:postcode":"47610",
+    "sg:province":"IN",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942527,
+        102087169,
+        85819387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lmA7qH37PWkluqb2hxhkt_38.068699_-87.367599@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1462603608,
+    "wof:geomhash":"e919a77287bb5f587ae746d02baaf31e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087169,
+            "locality_id":85942527,
+            "neighbourhood_id":85819387,
+            "region_id":85688709,
+            "venue_id":807088939
+        }
+    ],
+    "wof:id":807088939,
+    "wof:lastmodified":1462603608,
+    "wof:name":"Bud's Body Shop",
+    "wof:parent_id":85819387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.367599,
+    38.068699,
+    -87.367599,
+    38.068699
+],
+  "geometry": {"coordinates":[-87.367599,38.068699],"type":"Point"}
+}

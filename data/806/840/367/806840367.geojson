@@ -1,0 +1,78 @@
+{
+  "id": 806840367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.064295,39.788442,-86.064295,39.788442",
+    "geom:latitude":39.788442,
+    "geom:longitude":-86.064295,
+    "iso:country":"US",
+    "sg:address":"1520 N Arlington Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/warren/79365-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 359 7300",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870651,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XatwCi5rkGdPolJKAuJOc_39.788449_-86.064402@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601512,
+    "wof:geomhash":"ce822aa8ad8cb2a17020ac6340c20702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870651,
+            "region_id":85688709,
+            "venue_id":806840367
+        }
+    ],
+    "wof:id":806840367,
+    "wof:lastmodified":1462601512,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85870651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.064295,
+    39.788442,
+    -86.064295,
+    39.788442
+],
+  "geometry": {"coordinates":[-86.064295,39.788442],"type":"Point"}
+}

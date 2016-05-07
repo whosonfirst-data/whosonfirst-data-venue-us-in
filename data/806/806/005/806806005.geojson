@@ -1,0 +1,76 @@
+{
+  "id": 806806005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367552,39.713811,-86.367552,39.713811",
+    "geom:latitude":39.713811,
+    "geom:longitude":-86.367552,
+    "iso:country":"US",
+    "sg:address":"2646 E Main St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/guilford/208106-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 839 4207",
+    "sg:postcode":"46168",
+    "sg:province":"IN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807409,
+        102191575,
+        404500783,
+        85633793,
+        85941489,
+        102086423,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V5Z5vfQujKovpU6WCF77e_39.713811_-86.367552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601234,
+    "wof:geomhash":"24aa66ad1e1d59c23c62c603d90c2d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086423,
+            "localadmin_id":404500783,
+            "locality_id":85941489,
+            "neighbourhood_id":85807409,
+            "region_id":85688709,
+            "venue_id":806806005
+        }
+    ],
+    "wof:id":806806005,
+    "wof:lastmodified":1462601234,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85807409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.367552,
+    39.713811,
+    -86.367552,
+    39.713811
+],
+  "geometry": {"coordinates":[-86.367552,39.713811],"type":"Point"}
+}

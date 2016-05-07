@@ -1,0 +1,78 @@
+{
+  "id": 806807879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.044987,39.796062,-86.044987,39.796062",
+    "geom:latitude":39.796062,
+    "geom:longitude":-86.044987,
+    "iso:country":"US",
+    "sg:address":"2079 N Shadeland Ave",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/warren/159146-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 357 6595",
+    "sg:postcode":"46219",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870651,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MBNVt7U3TmDB86wsNOoM5_39.796062_-86.044987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601248,
+    "wof:geomhash":"e4c94e492b2db8dd83a8fcb889ed49e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870651,
+            "region_id":85688709,
+            "venue_id":806807879
+        }
+    ],
+    "wof:id":806807879,
+    "wof:lastmodified":1462601248,
+    "wof:name":"Arby's",
+    "wof:parent_id":85870651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.044987,
+    39.796062,
+    -86.044987,
+    39.796062
+],
+  "geometry": {"coordinates":[-86.04498700000001,39.796062],"type":"Point"}
+}

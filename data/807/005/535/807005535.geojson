@@ -1,0 +1,91 @@
+{
+  "id": 807005535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252187,39.913455,-86.252187,39.913455",
+    "geom:latitude":39.913455,
+    "geom:longitude":-86.252187,
+    "iso:country":"US",
+    "sg:address":"8787 Americana Blvd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 876 7902",
+    "sg:postcode":"46268",
+    "sg:province":"IN",
+    "sg:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870685,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PCPoz0K3U4v9tKSGEAsYM_39.913455_-86.252187@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602902,
+    "wof:geomhash":"ee2e9fdc673daa284d15be54a9fd08dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870685,
+            "region_id":85688709,
+            "venue_id":807005535
+        }
+    ],
+    "wof:id":807005535,
+    "wof:lastmodified":1462602902,
+    "wof:name":"Utility Supply Co",
+    "wof:parent_id":85870685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.252187,
+    39.913455,
+    -86.252187,
+    39.913455
+],
+  "geometry": {"coordinates":[-86.25218700000001,39.913455],"type":"Point"}
+}

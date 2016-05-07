@@ -1,0 +1,90 @@
+{
+  "id": 806814285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.461278,41.563596,-87.461278,41.563596",
+    "geom:latitude":41.563596,
+    "geom:longitude":-87.461278,
+    "iso:country":"US",
+    "sg:address":"8227 Kennedy Ave",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/north/120289-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 219 923 8050",
+    "sg:postcode":"46322",
+    "sg:province":"IN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839875,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149,
+        85688709,
+        85891123,
+        85941821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZxImypDC9Od7tXnF76Hyh_41.563596_-87.461278@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462601298,
+    "wof:geomhash":"0159e23f7954c35558eda90b37d3e926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "neighbourhood_id":85839875,
+            "region_id":85688709,
+            "venue_id":806814285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941821,
+            "neighbourhood_id":85891123,
+            "region_id":85688709,
+            "venue_id":806814285
+        }
+    ],
+    "wof:id":806814285,
+    "wof:lastmodified":1462601298,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.461278,
+    41.563596,
+    -87.461278,
+    41.563596
+],
+  "geometry": {"coordinates":[-87.46127799999999,41.563596],"type":"Point"}
+}

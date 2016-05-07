@@ -1,0 +1,75 @@
+{
+  "id": 789798985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.57091,38.33946,-87.57091,38.33946",
+    "geom:latitude":38.33946,
+    "geom:longitude":-87.57091,
+    "iso:country":"US",
+    "sg:address":"1532 S Madison St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 385 8204",
+    "sg:postcode":"47670",
+    "sg:province":"IN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941979,
+        102086375,
+        85804327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sESBQQxHZUO05SNRLRJpK_38.339460_-87.570910@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462590634,
+    "wof:geomhash":"a245a118106598651c8e04b121b42731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086375,
+            "locality_id":85941979,
+            "neighbourhood_id":85804327,
+            "region_id":85688709,
+            "venue_id":789798985
+        }
+    ],
+    "wof:id":789798985,
+    "wof:lastmodified":1462590634,
+    "wof:name":"Keith Specht's Auto Repair",
+    "wof:parent_id":85804327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.57091,
+    38.33946,
+    -87.57091,
+    38.33946
+],
+  "geometry": {"coordinates":[-87.57091,38.33946],"type":"Point"}
+}

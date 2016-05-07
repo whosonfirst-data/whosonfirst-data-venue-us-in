@@ -1,0 +1,92 @@
+{
+  "id": 806890661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.085293,39.636348,-86.085293,39.636348",
+    "geom:latitude":39.636348,
+    "geom:longitude":-86.085293,
+    "iso:country":"US",
+    "sg:address":"997 E County Line Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 885 7194",
+    "sg:postcode":"46143",
+    "sg:province":"IN",
+    "sg:tags":[
+        "shop",
+        "system",
+        "bicycles-repair",
+        "security",
+        "rack",
+        "bicycles-renting"
+    ],
+    "sg:website":"http://www.bgindy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942569,
+        102087201,
+        85841387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dp3KWLfeYVFMO1u1vgSsh_39.636348_-86.085293@1303262762"
+    },
+    "wof:country":"US",
+    "wof:created":1462601937,
+    "wof:geomhash":"582e279af64f3fd9b3d72f750a06cbd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087201,
+            "locality_id":85942569,
+            "neighbourhood_id":85841387,
+            "region_id":85688709,
+            "venue_id":806890661
+        }
+    ],
+    "wof:id":806890661,
+    "wof:lastmodified":1462601937,
+    "wof:name":"Bicycle Garage Indy",
+    "wof:parent_id":85841387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "system",
+        "bicycles-repair",
+        "security",
+        "rack",
+        "bicycles-renting"
+    ]
+},
+  "bbox": [
+    -86.085293,
+    39.636348,
+    -86.085293,
+    39.636348
+],
+  "geometry": {"coordinates":[-86.08529299999999,39.636348],"type":"Point"}
+}

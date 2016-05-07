@@ -1,0 +1,80 @@
+{
+  "id": 806989615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.026521,39.922633,-86.026521,39.922633",
+    "geom:latitude":39.922633,
+    "geom:longitude":-86.026521,
+    "iso:country":"US",
+    "sg:address":"9263 Castlegate Dr",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 578 0390",
+    "sg:postcode":"46256",
+    "sg:province":"IN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809779,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U8cJMRcl7gdvfsRDJlnRB_39.922633_-86.026521@1303262768"
+    },
+    "wof:country":"US",
+    "wof:created":1462602772,
+    "wof:geomhash":"801e3339ba3a8150bc2ff12067fb3aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85809779,
+            "region_id":85688709,
+            "venue_id":806989615
+        }
+    ],
+    "wof:id":806989615,
+    "wof:lastmodified":1462602772,
+    "wof:name":"Elite Medical Group",
+    "wof:parent_id":85809779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.026521,
+    39.922633,
+    -86.026521,
+    39.922633
+],
+  "geometry": {"coordinates":[-86.026521,39.922633],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 806915949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.273301,39.778785,-86.273301,39.778785",
+    "geom:latitude":39.778785,
+    "geom:longitude":-86.273301,
+    "iso:country":"US",
+    "sg:address":"925 N High School Rd",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 247 5002",
+    "sg:postcode":"46214",
+    "sg:province":"IN",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.mibank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810395,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709,
+        85828271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tKo2xBMfKG1WHNSPNDuzv_39.778785_-86.273301@1303262763"
+    },
+    "wof:country":"US",
+    "wof:created":1462602142,
+    "wof:geomhash":"1d22a6e9360bc148fca80e5a555233d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85810395,
+            "region_id":85688709,
+            "venue_id":806915949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85828271,
+            "region_id":85688709,
+            "venue_id":806915949
+        }
+    ],
+    "wof:id":806915949,
+    "wof:lastmodified":1462602142,
+    "wof:name":"M & I Corporation West",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -86.273301,
+    39.778785,
+    -86.273301,
+    39.778785
+],
+  "geometry": {"coordinates":[-86.273301,39.778785],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 806843505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.061336,41.099972,-85.061336,41.099972",
+    "geom:latitude":41.099972,
+    "geom:longitude":-85.061336,
+    "iso:country":"US",
+    "sg:address":"6279 E State Blvd",
+    "sg:city":"Fort Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/in/st-joseph/155803-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 260 485 9442",
+    "sg:postcode":"46815",
+    "sg:province":"IN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942149,
+        102087177,
+        85877561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21uFOJn5IhOHvfnr31H8c3_41.100308_-85.060745@1294102998"
+    },
+    "wof:country":"US",
+    "wof:created":1462601553,
+    "wof:geomhash":"d542596e265b9485f2dc9ab5e80aa9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087177,
+            "locality_id":85942149,
+            "neighbourhood_id":85877561,
+            "region_id":85688709,
+            "venue_id":806843505
+        }
+    ],
+    "wof:id":806843505,
+    "wof:lastmodified":1462601553,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85877561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.061336,
+    41.099972,
+    -85.061336,
+    41.099972
+],
+  "geometry": {"coordinates":[-85.061336,41.099972],"type":"Point"}
+}

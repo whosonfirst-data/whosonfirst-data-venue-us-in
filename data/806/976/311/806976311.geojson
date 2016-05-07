@@ -1,0 +1,88 @@
+{
+  "id": 806976311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257269,39.743023,-86.257269,39.743023",
+    "geom:latitude":39.743023,
+    "geom:longitude":-86.257269,
+    "iso:country":"US",
+    "sg:address":"5700 W Minnesota St",
+    "sg:city":"Indianapolis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 317 241 6700",
+    "sg:postcode":"46241",
+    "sg:province":"IN",
+    "sg:tags":[
+        "buses-charter",
+        "limousine"
+    ],
+    "sg:website":"http://www.careyindiana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420519801,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19IjZ2ZQ9eJsbKLSDPIgZA_39.743023_-86.257269@1303262767"
+    },
+    "wof:country":"US",
+    "wof:created":1462602658,
+    "wof:geomhash":"fc06c78a34657d528eb8e42fe8a93359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420519801,
+            "region_id":85688709,
+            "venue_id":806976311
+        }
+    ],
+    "wof:id":806976311,
+    "wof:lastmodified":1462602658,
+    "wof:name":"Carey Limousine Indiana",
+    "wof:parent_id":420519801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -86.257269,
+    39.743023,
+    -86.257269,
+    39.743023
+],
+  "geometry": {"coordinates":[-86.25726899999999,39.743023],"type":"Point"}
+}
