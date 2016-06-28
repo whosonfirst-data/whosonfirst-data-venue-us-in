@@ -2,13 +2,14 @@
   "id": 387811875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.260565,39.887323,-86.260565,39.887323",
     "geom:latitude":39.887323,
     "geom:longitude":-86.260565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5667 W 74th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387811875,
-    "wof:lastmodified":1449057934,
+    "wof:lastmodified":1466503996,
     "wof:name":"M P Painting",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-86.260565,39.887323,-86.260565,39.887323],
+  "bbox": [
+    -86.260565,
+    39.887323,
+    -86.260565,
+    39.887323
+],
   "geometry": {"coordinates":[-86.260565,39.887323],"type":"Point"}
 }

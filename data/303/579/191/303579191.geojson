@@ -2,13 +2,14 @@
   "id": 303579191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.214925,39.895209,-86.214925,39.895209",
     "geom:latitude":39.895209,
     "geom:longitude":-86.214925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7826 Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303579191,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1466503761,
     "wof:name":"Pasion Musical",
     "wof:parent_id":85803951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.214925,39.895209,-86.214925,39.895209],
-  "geometry": {"coordinates":[-86.214925,39.895209],"type":"Point"}
+  "bbox": [
+    -86.214925,
+    39.895209,
+    -86.214925,
+    39.895209
+],
+  "geometry": {"coordinates":[-86.21492499999999,39.895209],"type":"Point"}
 }

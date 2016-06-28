@@ -2,13 +2,14 @@
   "id": 336918091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.480743,37.971243,-87.480743,37.971243",
     "geom:latitude":37.971243,
     "geom:longitude":-87.480743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Scenic Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336918091,
-    "wof:lastmodified":1448997655,
+    "wof:lastmodified":1466503294,
     "wof:name":"Miley Collection",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.480743,37.971243,-87.480743,37.971243],
+  "bbox": [
+    -87.480743,
+    37.971243,
+    -87.480743,
+    37.971243
+],
   "geometry": {"coordinates":[-87.480743,37.971243],"type":"Point"}
 }

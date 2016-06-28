@@ -2,13 +2,14 @@
   "id": 387638267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.092666,39.818215,-86.092666,39.818215",
     "geom:latitude":39.818215,
     "geom:longitude":-86.092666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 N Drexel Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387638267,
-    "wof:lastmodified":1449056325,
+    "wof:lastmodified":1466503768,
     "wof:name":"Mackida Loveal Outreach Minist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.092666,39.818215,-86.092666,39.818215],
-  "geometry": {"coordinates":[-86.092666,39.818215],"type":"Point"}
+  "bbox": [
+    -86.092666,
+    39.818215,
+    -86.092666,
+    39.818215
+],
+  "geometry": {"coordinates":[-86.09266599999999,39.818215],"type":"Point"}
 }

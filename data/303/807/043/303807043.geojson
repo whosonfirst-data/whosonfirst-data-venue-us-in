@@ -2,13 +2,14 @@
   "id": 303807043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.610515,40.062125,-85.610515,40.062125",
     "geom:latitude":40.062125,
     "geom:longitude":-85.610515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3573 State Rd 236",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303807043,
-    "wof:lastmodified":1448998740,
+    "wof:lastmodified":1466503114,
     "wof:name":"Caswell & Sons Cleaning Svc",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-85.610515,40.062125,-85.610515,40.062125],
-  "geometry": {"coordinates":[-85.610515,40.062125],"type":"Point"}
+  "bbox": [
+    -85.610515,
+    40.062125,
+    -85.610515,
+    40.062125
+],
+  "geometry": {"coordinates":[-85.61051500000001,40.062125],"type":"Point"}
 }

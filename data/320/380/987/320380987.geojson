@@ -2,13 +2,14 @@
   "id": 320380987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.627051,37.959277,-87.627051,37.959277",
     "geom:latitude":37.959277,
     "geom:longitude":-87.627051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 S Helfrich Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320380987,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466503027,
     "wof:name":"Helfrich Avenue Baptist Church",
     "wof:parent_id":85877287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.627051,37.959277,-87.627051,37.959277],
-  "geometry": {"coordinates":[-87.627051,37.959277],"type":"Point"}
+  "bbox": [
+    -87.627051,
+    37.959277,
+    -87.627051,
+    37.959277
+],
+  "geometry": {"coordinates":[-87.62705099999999,37.959277],"type":"Point"}
 }

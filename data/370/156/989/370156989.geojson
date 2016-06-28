@@ -2,13 +2,14 @@
   "id": 370156989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.937985,38.421969,-86.937985,38.421969",
     "geom:latitude":38.421969,
     "geom:longitude":-86.937985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3555 Newton St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370156989,
-    "wof:lastmodified":1449029760,
+    "wof:lastmodified":1466502891,
     "wof:name":"Pain Management Ctr-Southern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.937985,38.421969,-86.937985,38.421969],
+  "bbox": [
+    -86.937985,
+    38.421969,
+    -86.937985,
+    38.421969
+],
   "geometry": {"coordinates":[-86.937985,38.421969],"type":"Point"}
 }

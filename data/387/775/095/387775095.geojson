@@ -2,13 +2,14 @@
   "id": 387775095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.586552,41.375006,-86.586552,41.375006",
     "geom:latitude":41.375006,
     "geom:longitude":-86.586552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 W Indiana Ave",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387775095,
-    "wof:lastmodified":1449058919,
+    "wof:lastmodified":1466503940,
     "wof:name":"Lutheran Church St Matthew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.586552,41.375006,-86.586552,41.375006],
+  "bbox": [
+    -86.586552,
+    41.375006,
+    -86.586552,
+    41.375006
+],
   "geometry": {"coordinates":[-86.586552,41.375006],"type":"Point"}
 }

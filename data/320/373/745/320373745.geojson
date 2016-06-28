@@ -2,13 +2,14 @@
   "id": 320373745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.297591,40.588639,-85.297591,40.588639",
     "geom:latitude":40.588639,
     "geom:longitude":-85.297591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10520 S 400 W-90",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320373745,
-    "wof:lastmodified":1449013196,
+    "wof:lastmodified":1466503018,
     "wof:name":"Ray's Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-85.297591,40.588639,-85.297591,40.588639],
+  "bbox": [
+    -85.297591,
+    40.588639,
+    -85.297591,
+    40.588639
+],
   "geometry": {"coordinates":[-85.297591,40.588639],"type":"Point"}
 }

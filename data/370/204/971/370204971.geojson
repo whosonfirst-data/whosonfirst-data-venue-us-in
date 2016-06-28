@@ -2,13 +2,14 @@
   "id": 370204971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.402323,41.599294,-87.402323,41.599294",
     "geom:latitude":41.599294,
     "geom:longitude":-87.402323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Ralston St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370204971,
-    "wof:lastmodified":1449032581,
+    "wof:lastmodified":1466502953,
     "wof:name":"Tarrytown Missionary Baptist",
     "wof:parent_id":85827161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.402323,41.599294,-87.402323,41.599294],
+  "bbox": [
+    -87.402323,
+    41.599294,
+    -87.402323,
+    41.599294
+],
   "geometry": {"coordinates":[-87.402323,41.599294],"type":"Point"}
 }

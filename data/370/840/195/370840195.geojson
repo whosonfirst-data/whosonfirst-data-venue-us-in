@@ -2,13 +2,14 @@
   "id": 370840195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492579,37.963301,-87.492579,37.963301",
     "geom:latitude":37.963301,
     "geom:longitude":-87.492579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370840195,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1466503629,
     "wof:name":"Evansville Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.492579,37.963301,-87.492579,37.963301],
-  "geometry": {"coordinates":[-87.492579,37.963301],"type":"Point"}
+  "bbox": [
+    -87.492579,
+    37.963301,
+    -87.492579,
+    37.963301
+],
+  "geometry": {"coordinates":[-87.49257900000001,37.963301],"type":"Point"}
 }

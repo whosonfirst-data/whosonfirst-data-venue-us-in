@@ -2,13 +2,14 @@
   "id": 320781041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.794511,41.223533,-85.794511,41.223533",
     "geom:latitude":41.223533,
     "geom:longitude":-85.794511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"663 S 250 E",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320781041,
-    "wof:lastmodified":1449011962,
+    "wof:lastmodified":1466503489,
     "wof:name":"Ziebart/Speedy Auto Glass",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-85.794511,41.223533,-85.794511,41.223533],
+  "bbox": [
+    -85.794511,
+    41.223533,
+    -85.794511,
+    41.223533
+],
   "geometry": {"coordinates":[-85.794511,41.223533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303682155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.982569,40.172405,-84.982569,40.172405",
     "geom:latitude":40.172405,
     "geom:longitude":-84.982569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Meridian St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303682155,
-    "wof:lastmodified":1448998544,
+    "wof:lastmodified":1466502967,
     "wof:name":"Jay L Toney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.982569,40.172405,-84.982569,40.172405],
+  "bbox": [
+    -84.982569,
+    40.172405,
+    -84.982569,
+    40.172405
+],
   "geometry": {"coordinates":[-84.982569,40.172405],"type":"Point"}
 }

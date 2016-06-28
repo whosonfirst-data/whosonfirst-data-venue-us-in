@@ -2,13 +2,14 @@
   "id": 303784343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.382573,40.46052,-85.382573,40.46052",
     "geom:latitude":40.46052,
     "geom:longitude":-85.382573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 W McDonald St",
     "sg:city":"Hartford City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303784343,
-    "wof:lastmodified":1448999750,
+    "wof:lastmodified":1466503087,
     "wof:name":"Key Plastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.382573,40.46052,-85.382573,40.46052],
-  "geometry": {"coordinates":[-85.382573,40.46052],"type":"Point"}
+  "bbox": [
+    -85.382573,
+    40.46052,
+    -85.382573,
+    40.46052
+],
+  "geometry": {"coordinates":[-85.38257299999999,40.46052],"type":"Point"}
 }

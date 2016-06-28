@@ -2,13 +2,14 @@
   "id": 353883207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.974789,38.234058,-86.974789,38.234058",
     "geom:latitude":38.234058,
     "geom:longitude":-86.974789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9832 S 375 W",
     "sg:city":"Huntingburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353883207,
-    "wof:lastmodified":1449020218,
+    "wof:lastmodified":1466503405,
     "wof:name":"Markwood Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.974789,38.234058,-86.974789,38.234058],
+  "bbox": [
+    -86.974789,
+    38.234058,
+    -86.974789,
+    38.234058
+],
   "geometry": {"coordinates":[-86.974789,38.234058],"type":"Point"}
 }

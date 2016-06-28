@@ -2,13 +2,14 @@
   "id": 303293049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.633542,40.126949,-85.633542,40.126949",
     "geom:latitude":40.126949,
     "geom:longitude":-85.633542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 N 200 E",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303293049,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466503571,
     "wof:name":"Pats Hobby",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.633542,40.126949,-85.633542,40.126949],
-  "geometry": {"coordinates":[-85.633542,40.126949],"type":"Point"}
+  "bbox": [
+    -85.633542,
+    40.126949,
+    -85.633542,
+    40.126949
+],
+  "geometry": {"coordinates":[-85.63354200000001,40.126949],"type":"Point"}
 }

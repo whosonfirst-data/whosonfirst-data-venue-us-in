@@ -2,13 +2,14 @@
   "id": 371132785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.918929,41.647144,-85.918929,41.647144",
     "geom:latitude":41.647144,
     "geom:longitude":-85.918929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23422 Ironwood Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371132785,
-    "wof:lastmodified":1449049518,
+    "wof:lastmodified":1466503039,
     "wof:name":"Reyes Drywall",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.918929,41.647144,-85.918929,41.647144],
-  "geometry": {"coordinates":[-85.918929,41.647144],"type":"Point"}
+  "bbox": [
+    -85.918929,
+    41.647144,
+    -85.918929,
+    41.647144
+],
+  "geometry": {"coordinates":[-85.91892900000001,41.647144],"type":"Point"}
 }

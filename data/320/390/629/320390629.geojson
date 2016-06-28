@@ -2,13 +2,14 @@
   "id": 320390629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.373896,40.189366,-85.373896,40.189366",
     "geom:latitude":40.189366,
     "geom:longitude":-85.373896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Seymour St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320390629,
-    "wof:lastmodified":1449015007,
+    "wof:lastmodified":1466503041,
     "wof:name":"Label Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "label"
     ]
 },
-  "bbox": [-85.373896,40.189366,-85.373896,40.189366],
+  "bbox": [
+    -85.373896,
+    40.189366,
+    -85.373896,
+    40.189366
+],
   "geometry": {"coordinates":[-85.373896,40.189366],"type":"Point"}
 }

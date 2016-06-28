@@ -2,13 +2,14 @@
   "id": 403939553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.889687,39.208876,-85.889687,39.208876",
     "geom:latitude":39.208876,
     "geom:longitude":-85.889687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 10th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403939553,
-    "wof:lastmodified":1449055036,
+    "wof:lastmodified":1466503216,
     "wof:name":"Developmental Services",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trade"
     ]
 },
-  "bbox": [-85.889687,39.208876,-85.889687,39.208876],
+  "bbox": [
+    -85.889687,
+    39.208876,
+    -85.889687,
+    39.208876
+],
   "geometry": {"coordinates":[-85.889687,39.208876],"type":"Point"}
 }

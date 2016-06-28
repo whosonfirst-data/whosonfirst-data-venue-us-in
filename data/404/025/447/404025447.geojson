@@ -2,13 +2,14 @@
   "id": 404025447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.04485,40.902313,-85.04485,40.902313",
     "geom:latitude":40.902313,
     "geom:longitude":-85.04485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10653 N 550 W",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404025447,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1466502916,
     "wof:name":"Zion Evang Lthran Chrch Fredhe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.04485,40.902313,-85.04485,40.902313],
+  "bbox": [
+    -85.04485,
+    40.902313,
+    -85.04485,
+    40.902313
+],
   "geometry": {"coordinates":[-85.04485,40.902313],"type":"Point"}
 }

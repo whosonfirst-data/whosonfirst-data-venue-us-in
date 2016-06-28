@@ -2,13 +2,14 @@
   "id": 353624511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.771868,39.547521,-85.771868,39.547521",
     "geom:latitude":39.547521,
     "geom:longitude":-85.771868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 E Rampart St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353624511,
-    "wof:lastmodified":1449019992,
+    "wof:lastmodified":1466503104,
     "wof:name":"Runnebohm Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-85.771868,39.547521,-85.771868,39.547521],
+  "bbox": [
+    -85.771868,
+    39.547521,
+    -85.771868,
+    39.547521
+],
   "geometry": {"coordinates":[-85.771868,39.547521],"type":"Point"}
 }

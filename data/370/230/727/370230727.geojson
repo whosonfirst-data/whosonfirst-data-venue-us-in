@@ -2,13 +2,14 @@
   "id": 370230727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.971318,39.780533,-85.971318,39.780533",
     "geom:latitude":39.780533,
     "geom:longitude":-85.971318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11023 Elmtree Park Dr",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370230727,
-    "wof:lastmodified":1449031604,
+    "wof:lastmodified":1466502988,
     "wof:name":"Elmtree Park Apartments",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-85.971318,39.780533,-85.971318,39.780533],
+  "bbox": [
+    -85.971318,
+    39.780533,
+    -85.971318,
+    39.780533
+],
   "geometry": {"coordinates":[-85.971318,39.780533],"type":"Point"}
 }

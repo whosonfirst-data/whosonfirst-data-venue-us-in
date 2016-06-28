@@ -2,13 +2,14 @@
   "id": 320700585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.267023,39.899455,-86.267023,39.899455",
     "geom:latitude":39.899455,
     "geom:longitude":-86.267023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8108 Woodland Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320700585,
-    "wof:lastmodified":1449014637,
+    "wof:lastmodified":1466503414,
     "wof:name":"WLS Enterprises",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.267023,39.899455,-86.267023,39.899455],
-  "geometry": {"coordinates":[-86.267023,39.899455],"type":"Point"}
+  "bbox": [
+    -86.267023,
+    39.899455,
+    -86.267023,
+    39.899455
+],
+  "geometry": {"coordinates":[-86.26702299999999,39.899455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320688113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.852013,39.094508,-84.852013,39.094508",
     "geom:latitude":39.094508,
     "geom:longitude":-84.852013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 W Tate St",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320688113,
-    "wof:lastmodified":1449012679,
+    "wof:lastmodified":1466503399,
     "wof:name":"Back To Total Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-84.852013,39.094508,-84.852013,39.094508],
+  "bbox": [
+    -84.852013,
+    39.094508,
+    -84.852013,
+    39.094508
+],
   "geometry": {"coordinates":[-84.852013,39.094508],"type":"Point"}
 }

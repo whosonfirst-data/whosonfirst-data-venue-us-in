@@ -2,13 +2,14 @@
   "id": 320279771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.863401,40.404916,-86.863401,40.404916",
     "geom:latitude":40.404916,
     "geom:longitude":-86.863401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320279771,
-    "wof:lastmodified":1449012968,
+    "wof:lastmodified":1466502892,
     "wof:name":"Tharp Contracting",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.863401,40.404916,-86.863401,40.404916],
+  "bbox": [
+    -86.863401,
+    40.404916,
+    -86.863401,
+    40.404916
+],
   "geometry": {"coordinates":[-86.863401,40.404916],"type":"Point"}
 }

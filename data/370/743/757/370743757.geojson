@@ -2,13 +2,14 @@
   "id": 370743757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.656218,41.39479,-85.656218,41.39479",
     "geom:latitude":41.39479,
     "geom:longitude":-85.656218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9758 E 1100 N",
     "sg:city":"Cromwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370743757,
-    "wof:lastmodified":1449032447,
+    "wof:lastmodified":1466503532,
     "wof:name":"Diamond Carpet Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-85.656218,41.39479,-85.656218,41.39479],
+  "bbox": [
+    -85.656218,
+    41.39479,
+    -85.656218,
+    41.39479
+],
   "geometry": {"coordinates":[-85.656218,41.39479],"type":"Point"}
 }

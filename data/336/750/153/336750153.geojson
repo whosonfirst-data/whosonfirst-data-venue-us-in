@@ -2,13 +2,14 @@
   "id": 336750153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.031035,39.66076,-86.031035,39.66076",
     "geom:latitude":39.66076,
     "geom:longitude":-86.031035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7616 Freedom Woods Dr",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336750153,
-    "wof:lastmodified":1448997593,
+    "wof:lastmodified":1466503086,
     "wof:name":"Complete Software Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "processing"
     ]
 },
-  "bbox": [-86.031035,39.66076,-86.031035,39.66076],
+  "bbox": [
+    -86.031035,
+    39.66076,
+    -86.031035,
+    39.66076
+],
   "geometry": {"coordinates":[-86.031035,39.66076],"type":"Point"}
 }

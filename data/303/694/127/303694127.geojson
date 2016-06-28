@@ -2,13 +2,14 @@
   "id": 303694127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.013409,40.045097,-86.013409,40.045097",
     "geom:latitude":40.045097,
     "geom:longitude":-86.013409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 S 9th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303694127,
-    "wof:lastmodified":1448998801,
+    "wof:lastmodified":1466502980,
     "wof:name":"Heath Enterprises",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.013409,40.045097,-86.013409,40.045097],
+  "bbox": [
+    -86.013409,
+    40.045097,
+    -86.013409,
+    40.045097
+],
   "geometry": {"coordinates":[-86.013409,40.045097],"type":"Point"}
 }

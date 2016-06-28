@@ -2,13 +2,14 @@
   "id": 387282277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.114916,40.433083,-86.114916,40.433083",
     "geom:latitude":40.433083,
     "geom:longitude":-86.114916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Highland Springs Dr",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387282277,
-    "wof:lastmodified":1449058489,
+    "wof:lastmodified":1466503281,
     "wof:name":"Crossmann Communities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.114916,40.433083,-86.114916,40.433083],
-  "geometry": {"coordinates":[-86.114916,40.433083],"type":"Point"}
+  "bbox": [
+    -86.114916,
+    40.433083,
+    -86.114916,
+    40.433083
+],
+  "geometry": {"coordinates":[-86.11491599999999,40.433083],"type":"Point"}
 }

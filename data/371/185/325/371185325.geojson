@@ -2,13 +2,14 @@
   "id": 371185325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.039971,41.11391,-85.039971,41.11391",
     "geom:latitude":41.11391,
     "geom:longitude":-85.039971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7745 Trier Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":371185325,
-    "wof:lastmodified":1449049210,
+    "wof:lastmodified":1466503111,
     "wof:name":"Bair Welding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.039971,41.11391,-85.039971,41.11391],
-  "geometry": {"coordinates":[-85.039971,41.11391],"type":"Point"}
+  "bbox": [
+    -85.039971,
+    41.11391,
+    -85.039971,
+    41.11391
+],
+  "geometry": {"coordinates":[-85.03997099999999,41.11391],"type":"Point"}
 }

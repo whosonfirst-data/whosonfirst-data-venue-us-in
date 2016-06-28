@@ -2,13 +2,14 @@
   "id": 371177715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.880353,40.448825,-86.880353,40.448825",
     "geom:latitude":40.448825,
     "geom:longitude":-86.880353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2643 Duncan Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371177715,
-    "wof:lastmodified":1449050138,
+    "wof:lastmodified":1466503101,
     "wof:name":"Steve's Overhead Door",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [-86.880353,40.448825,-86.880353,40.448825],
+  "bbox": [
+    -86.880353,
+    40.448825,
+    -86.880353,
+    40.448825
+],
   "geometry": {"coordinates":[-86.880353,40.448825],"type":"Point"}
 }

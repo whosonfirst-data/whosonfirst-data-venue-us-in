@@ -2,13 +2,14 @@
   "id": 387274583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.247617,39.206773,-86.247617,39.206773",
     "geom:latitude":39.206773,
     "geom:longitude":-86.247617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 S Honeysuckle Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387274583,
-    "wof:lastmodified":1449056573,
+    "wof:lastmodified":1466503267,
     "wof:name":"Honesuckle Gallery & Frame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.247617,39.206773,-86.247617,39.206773],
-  "geometry": {"coordinates":[-86.247617,39.206773],"type":"Point"}
+  "bbox": [
+    -86.247617,
+    39.206773,
+    -86.247617,
+    39.206773
+],
+  "geometry": {"coordinates":[-86.24761700000001,39.206773],"type":"Point"}
 }

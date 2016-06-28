@@ -2,13 +2,14 @@
   "id": 320721965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.895736,39.821612,-84.895736,39.821612",
     "geom:latitude":39.821612,
     "geom:longitude":-84.895736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 S E St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320721965,
-    "wof:lastmodified":1449014957,
+    "wof:lastmodified":1466503432,
     "wof:name":"Kaucher's Insurance & Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.895736,39.821612,-84.895736,39.821612],
+  "bbox": [
+    -84.895736,
+    39.821612,
+    -84.895736,
+    39.821612
+],
   "geometry": {"coordinates":[-84.895736,39.821612],"type":"Point"}
 }

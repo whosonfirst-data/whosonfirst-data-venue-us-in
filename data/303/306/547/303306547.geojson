@@ -2,13 +2,14 @@
   "id": 303306547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.149579,39.755391,-86.149579,39.755391",
     "geom:latitude":39.755391,
     "geom:longitude":-86.149579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303306547,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466503577,
     "wof:name":"Joanne Blank",
     "wof:parent_id":85870637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-86.149579,39.755391,-86.149579,39.755391],
+  "bbox": [
+    -86.149579,
+    39.755391,
+    -86.149579,
+    39.755391
+],
   "geometry": {"coordinates":[-86.149579,39.755391],"type":"Point"}
 }

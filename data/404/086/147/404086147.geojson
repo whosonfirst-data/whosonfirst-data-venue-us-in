@@ -2,13 +2,14 @@
   "id": 404086147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.497137,40.172684,-85.497137,40.172684",
     "geom:latitude":40.172684,
     "geom:longitude":-85.497137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 W Smith St",
     "sg:city":"Yorktown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404086147,
-    "wof:lastmodified":1449039936,
+    "wof:lastmodified":1466503004,
     "wof:name":"C & P Discount Auto Svc",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-85.497137,40.172684,-85.497137,40.172684],
+  "bbox": [
+    -85.497137,
+    40.172684,
+    -85.497137,
+    40.172684
+],
   "geometry": {"coordinates":[-85.497137,40.172684],"type":"Point"}
 }

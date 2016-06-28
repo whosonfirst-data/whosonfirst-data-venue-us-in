@@ -2,13 +2,14 @@
   "id": 370785403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.496324,41.335251,-85.496324,41.335251",
     "geom:latitude":41.335251,
     "geom:longitude":-85.496324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S US Hwy 33",
     "sg:city":"Wolflake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370785403,
-    "wof:lastmodified":1449031895,
+    "wof:lastmodified":1466503571,
     "wof:name":"Wolf Lake Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.496324,41.335251,-85.496324,41.335251],
+  "bbox": [
+    -85.496324,
+    41.335251,
+    -85.496324,
+    41.335251
+],
   "geometry": {"coordinates":[-85.496324,41.335251],"type":"Point"}
 }

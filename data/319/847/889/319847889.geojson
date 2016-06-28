@@ -2,13 +2,14 @@
   "id": 319847889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161605,39.769999,-86.161605,39.769999",
     "geom:latitude":39.769999,
     "geom:longitude":-86.161605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Ohio St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319847889,
-    "wof:lastmodified":1449024353,
+    "wof:lastmodified":1466503559,
     "wof:name":"Merchandise Management Systems",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-86.161605,39.769999,-86.161605,39.769999],
-  "geometry": {"coordinates":[-86.161605,39.769999],"type":"Point"}
+  "bbox": [
+    -86.161605,
+    39.769999,
+    -86.161605,
+    39.769999
+],
+  "geometry": {"coordinates":[-86.16160499999999,39.769999],"type":"Point"}
 }

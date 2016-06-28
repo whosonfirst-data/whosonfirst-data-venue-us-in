@@ -2,13 +2,14 @@
   "id": 319921999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.999391,41.634909,-84.999391,41.634909",
     "geom:latitude":41.634909,
     "geom:longitude":-84.999391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Public Sq",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319921999,
-    "wof:lastmodified":1449024586,
+    "wof:lastmodified":1466503604,
     "wof:name":"Angola City Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-84.999391,41.634909,-84.999391,41.634909],
+  "bbox": [
+    -84.999391,
+    41.634909,
+    -84.999391,
+    41.634909
+],
   "geometry": {"coordinates":[-84.999391,41.634909],"type":"Point"}
 }

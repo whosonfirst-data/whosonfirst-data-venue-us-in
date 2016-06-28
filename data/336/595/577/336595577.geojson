@@ -2,13 +2,14 @@
   "id": 336595577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.037041,39.74983,-86.037041,39.74983",
     "geom:latitude":39.74983,
     "geom:longitude":-86.037041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Sadlier Circle E Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336595577,
-    "wof:lastmodified":1448997918,
+    "wof:lastmodified":1466503787,
     "wof:name":"Gridly Interiors",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.037041,39.74983,-86.037041,39.74983],
+  "bbox": [
+    -86.037041,
+    39.74983,
+    -86.037041,
+    39.74983
+],
   "geometry": {"coordinates":[-86.037041,39.74983],"type":"Point"}
 }

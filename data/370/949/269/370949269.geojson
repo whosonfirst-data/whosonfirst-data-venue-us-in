@@ -2,13 +2,14 @@
   "id": 370949269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.409458,39.101926,-87.409458,39.101926",
     "geom:latitude":39.101926,
     "geom:longitude":-87.409458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Section St",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370949269,
-    "wof:lastmodified":1449031186,
+    "wof:lastmodified":1466503766,
     "wof:name":"Four Rivers Resource Childrens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.409458,39.101926,-87.409458,39.101926],
+  "bbox": [
+    -87.409458,
+    39.101926,
+    -87.409458,
+    39.101926
+],
   "geometry": {"coordinates":[-87.409458,39.101926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387839629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336143,41.518245,-87.336143,41.518245",
     "geom:latitude":41.518245,
     "geom:longitude":-87.336143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5599 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387839629,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1466504037,
     "wof:name":"Broadway Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.336143,41.518245,-87.336143,41.518245],
-  "geometry": {"coordinates":[-87.336143,41.518245],"type":"Point"}
+  "bbox": [
+    -87.336143,
+    41.518245,
+    -87.336143,
+    41.518245
+],
+  "geometry": {"coordinates":[-87.33614300000001,41.518245],"type":"Point"}
 }

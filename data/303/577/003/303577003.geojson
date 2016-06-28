@@ -2,13 +2,14 @@
   "id": 303577003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.601541,37.991702,-87.601541,37.991702",
     "geom:latitude":37.991702,
     "geom:longitude":-87.601541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Russell Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303577003,
-    "wof:lastmodified":1449000642,
+    "wof:lastmodified":1466503822,
     "wof:name":"B & B Mechanical Trnsprtn",
     "wof:parent_id":85877303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.601541,37.991702,-87.601541,37.991702],
+  "bbox": [
+    -87.601541,
+    37.991702,
+    -87.601541,
+    37.991702
+],
   "geometry": {"coordinates":[-87.601541,37.991702],"type":"Point"}
 }

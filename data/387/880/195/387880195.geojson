@@ -2,13 +2,14 @@
   "id": 387880195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.287105,39.48992,-87.287105,39.48992",
     "geom:latitude":39.48992,
     "geom:longitude":-87.287105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8452 Wabash Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387880195,
-    "wof:lastmodified":1449059957,
+    "wof:lastmodified":1466504097,
     "wof:name":"Crafter Barrel",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.287105,39.48992,-87.287105,39.48992],
+  "bbox": [
+    -87.287105,
+    39.48992,
+    -87.287105,
+    39.48992
+],
   "geometry": {"coordinates":[-87.287105,39.48992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370529141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.136762,41.153015,-85.136762,41.153015",
     "geom:latitude":41.153015,
     "geom:longitude":-85.136762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8018 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370529141,
-    "wof:lastmodified":1449030569,
+    "wof:lastmodified":1466503305,
     "wof:name":"Gables Management Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-85.136762,41.153015,-85.136762,41.153015],
+  "bbox": [
+    -85.136762,
+    41.153015,
+    -85.136762,
+    41.153015
+],
   "geometry": {"coordinates":[-85.136762,41.153015],"type":"Point"}
 }

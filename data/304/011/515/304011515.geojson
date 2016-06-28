@@ -2,13 +2,14 @@
   "id": 304011515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.483538,37.964546,-87.483538,37.964546",
     "geom:latitude":37.964546,
     "geom:longitude":-87.483538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Royal Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":304011515,
-    "wof:lastmodified":1449044048,
+    "wof:lastmodified":1466503401,
     "wof:name":"Julian Electronics Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-87.483538,37.964546,-87.483538,37.964546],
+  "bbox": [
+    -87.483538,
+    37.964546,
+    -87.483538,
+    37.964546
+],
   "geometry": {"coordinates":[-87.483538,37.964546],"type":"Point"}
 }

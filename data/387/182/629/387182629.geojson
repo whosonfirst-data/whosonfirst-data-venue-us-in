@@ -2,13 +2,14 @@
   "id": 387182629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.145697,41.087293,-85.145697,41.087293",
     "geom:latitude":41.087293,
     "geom:longitude":-85.145697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 N Wells St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387182629,
-    "wof:lastmodified":1449058517,
+    "wof:lastmodified":1466503143,
     "wof:name":"Koehlinger-Kruse Security Syst",
     "wof:parent_id":85877537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-85.145697,41.087293,-85.145697,41.087293],
+  "bbox": [
+    -85.145697,
+    41.087293,
+    -85.145697,
+    41.087293
+],
   "geometry": {"coordinates":[-85.145697,41.087293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404026397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.342497,39.793119,-86.342497,39.793119",
     "geom:latitude":39.793119,
     "geom:longitude":-86.342497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 Nowling Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404026397,
-    "wof:lastmodified":1449039824,
+    "wof:lastmodified":1466502918,
     "wof:name":"Lake Of The Lanterns Mobile",
     "wof:parent_id":85857209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-86.342497,39.793119,-86.342497,39.793119],
-  "geometry": {"coordinates":[-86.342497,39.793119],"type":"Point"}
+  "bbox": [
+    -86.342497,
+    39.793119,
+    -86.342497,
+    39.793119
+],
+  "geometry": {"coordinates":[-86.34249699999999,39.793119],"type":"Point"}
 }

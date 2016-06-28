@@ -2,13 +2,14 @@
   "id": 370192981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.137168,39.781454,-86.137168,39.781454",
     "geom:latitude":39.781454,
     "geom:longitude":-86.137168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 E Brookside Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370192981,
-    "wof:lastmodified":1449031490,
+    "wof:lastmodified":1466502941,
     "wof:name":"Trinity Mechanical LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.137168,39.781454,-86.137168,39.781454],
+  "bbox": [
+    -86.137168,
+    39.781454,
+    -86.137168,
+    39.781454
+],
   "geometry": {"coordinates":[-86.137168,39.781454],"type":"Point"}
 }

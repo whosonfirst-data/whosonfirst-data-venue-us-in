@@ -2,13 +2,14 @@
   "id": 371090129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.076883,39.760577,-86.076883,39.760577",
     "geom:latitude":39.760577,
     "geom:longitude":-86.076883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5302 English Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371090129,
-    "wof:lastmodified":1449049871,
+    "wof:lastmodified":1466502982,
     "wof:name":"Sandlin Security Inc",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-86.076883,39.760577,-86.076883,39.760577],
+  "bbox": [
+    -86.076883,
+    39.760577,
+    -86.076883,
+    39.760577
+],
   "geometry": {"coordinates":[-86.076883,39.760577],"type":"Point"}
 }

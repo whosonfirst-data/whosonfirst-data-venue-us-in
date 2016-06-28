@@ -2,13 +2,14 @@
   "id": 387485977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.232672,39.848386,-86.232672,39.848386",
     "geom:latitude":39.848386,
     "geom:longitude":-86.232672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5245 Guion Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387485977,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1466503559,
     "wof:name":"Advantage Marketing Inc",
     "wof:parent_id":85807693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "rug"
     ]
 },
-  "bbox": [-86.232672,39.848386,-86.232672,39.848386],
-  "geometry": {"coordinates":[-86.232672,39.848386],"type":"Point"}
+  "bbox": [
+    -86.232672,
+    39.848386,
+    -86.232672,
+    39.848386
+],
+  "geometry": {"coordinates":[-86.23267199999999,39.848386],"type":"Point"}
 }

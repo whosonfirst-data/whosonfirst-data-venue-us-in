@@ -2,13 +2,14 @@
   "id": 303264733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.751262,39.548809,-85.751262,39.548809",
     "geom:latitude":39.548809,
     "geom:longitude":-85.751262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 E Cedar Thorn Dr",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303264733,
-    "wof:lastmodified":1448999706,
+    "wof:lastmodified":1466503543,
     "wof:name":"A & J Continuous Guttering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gutter"
     ]
 },
-  "bbox": [-85.751262,39.548809,-85.751262,39.548809],
+  "bbox": [
+    -85.751262,
+    39.548809,
+    -85.751262,
+    39.548809
+],
   "geometry": {"coordinates":[-85.751262,39.548809],"type":"Point"}
 }

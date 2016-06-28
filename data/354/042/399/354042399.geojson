@@ -2,13 +2,14 @@
   "id": 354042399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834417,41.236998,-85.834417,41.236998",
     "geom:latitude":41.236998,
     "geom:longitude":-85.834417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E Market St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354042399,
-    "wof:lastmodified":1449067231,
+    "wof:lastmodified":1466502931,
     "wof:name":"Warsaw Bowl Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-85.834417,41.236998,-85.834417,41.236998],
+  "bbox": [
+    -85.834417,
+    41.236998,
+    -85.834417,
+    41.236998
+],
   "geometry": {"coordinates":[-85.834417,41.236998],"type":"Point"}
 }

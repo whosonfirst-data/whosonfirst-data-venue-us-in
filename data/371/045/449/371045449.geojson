@@ -2,13 +2,14 @@
   "id": 371045449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652671,40.111293,-85.652671,40.111293",
     "geom:latitude":40.111293,
     "geom:longitude":-85.652671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371045449,
-    "wof:lastmodified":1449050010,
+    "wof:lastmodified":1466502926,
     "wof:name":"Stan Petty Insurance Co",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.652671,40.111293,-85.652671,40.111293],
+  "bbox": [
+    -85.652671,
+    40.111293,
+    -85.652671,
+    40.111293
+],
   "geometry": {"coordinates":[-85.652671,40.111293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304084025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.821565,40.796897,-85.821565,40.796897",
     "geom:latitude":40.796897,
     "geom:longitude":-85.821565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 W Market St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304084025,
-    "wof:lastmodified":1449043618,
+    "wof:lastmodified":1466503507,
     "wof:name":"Dale Insurance Svc",
     "wof:parent_id":85853393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.821565,40.796897,-85.821565,40.796897],
-  "geometry": {"coordinates":[-85.821565,40.796897],"type":"Point"}
+  "bbox": [
+    -85.821565,
+    40.796897,
+    -85.821565,
+    40.796897
+],
+  "geometry": {"coordinates":[-85.82156500000001,40.796897],"type":"Point"}
 }

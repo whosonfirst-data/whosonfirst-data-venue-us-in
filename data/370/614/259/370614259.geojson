@@ -2,13 +2,14 @@
   "id": 370614259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.771431,39.784191,-85.771431,39.784191",
     "geom:latitude":39.784191,
     "geom:longitude":-85.771431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 W South St",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370614259,
-    "wof:lastmodified":1449032574,
+    "wof:lastmodified":1466503411,
     "wof:name":"Servpro Of Hancock & Shelby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-85.771431,39.784191,-85.771431,39.784191],
-  "geometry": {"coordinates":[-85.771431,39.784191],"type":"Point"}
+  "bbox": [
+    -85.771431,
+    39.784191,
+    -85.771431,
+    39.784191
+],
+  "geometry": {"coordinates":[-85.77143100000001,39.784191],"type":"Point"}
 }

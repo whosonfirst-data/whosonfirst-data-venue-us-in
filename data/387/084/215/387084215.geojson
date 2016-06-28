@@ -2,13 +2,14 @@
   "id": 387084215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974529,41.677193,-85.974529,41.677193",
     "geom:latitude":41.677193,
     "geom:longitude":-85.974529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Dr Martin Luther King Jr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387084215,
-    "wof:lastmodified":1449056521,
+    "wof:lastmodified":1466503004,
     "wof:name":"S & S Body Shop Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-85.974529,41.677193,-85.974529,41.677193],
+  "bbox": [
+    -85.974529,
+    41.677193,
+    -85.974529,
+    41.677193
+],
   "geometry": {"coordinates":[-85.974529,41.677193],"type":"Point"}
 }

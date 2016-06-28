@@ -2,13 +2,14 @@
   "id": 353804667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144096,39.932536,-86.144096,39.932536",
     "geom:latitude":39.932536,
     "geom:longitude":-86.144096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10106 Carrollton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353804667,
-    "wof:lastmodified":1449020018,
+    "wof:lastmodified":1466503319,
     "wof:name":"Ronald G Mc Conkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.144096,39.932536,-86.144096,39.932536],
+  "bbox": [
+    -86.144096,
+    39.932536,
+    -86.144096,
+    39.932536
+],
   "geometry": {"coordinates":[-86.144096,39.932536],"type":"Point"}
 }

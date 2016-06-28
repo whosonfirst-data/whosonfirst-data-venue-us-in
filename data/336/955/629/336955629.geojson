@@ -2,13 +2,14 @@
   "id": 336955629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.999155,41.632932,-84.999155,41.632932",
     "geom:latitude":41.632932,
     "geom:longitude":-84.999155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Wayne St",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336955629,
-    "wof:lastmodified":1448997676,
+    "wof:lastmodified":1466503346,
     "wof:name":"Family Social Service Ad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-84.999155,41.632932,-84.999155,41.632932],
+  "bbox": [
+    -84.999155,
+    41.632932,
+    -84.999155,
+    41.632932
+],
   "geometry": {"coordinates":[-84.999155,41.632932],"type":"Point"}
 }

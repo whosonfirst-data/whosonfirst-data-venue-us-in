@@ -2,13 +2,14 @@
   "id": 387922957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062067,41.120262,-85.062067,41.120262",
     "geom:latitude":41.120262,
     "geom:longitude":-85.062067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5962 Stellhorn Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387922957,
-    "wof:lastmodified":1449056451,
+    "wof:lastmodified":1466504163,
     "wof:name":"Contours Express",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-85.062067,41.120262,-85.062067,41.120262],
+  "bbox": [
+    -85.062067,
+    41.120262,
+    -85.062067,
+    41.120262
+],
   "geometry": {"coordinates":[-85.062067,41.120262],"type":"Point"}
 }

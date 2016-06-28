@@ -2,13 +2,14 @@
   "id": 403875221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.718367,38.311406,-85.718367,38.311406",
     "geom:latitude":38.311406,
     "geom:longitude":-85.718367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403875221,
-    "wof:lastmodified":1449055605,
+    "wof:lastmodified":1466503128,
     "wof:name":"Green Springs Mobile Home Park",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-85.718367,38.311406,-85.718367,38.311406],
+  "bbox": [
+    -85.718367,
+    38.311406,
+    -85.718367,
+    38.311406
+],
   "geometry": {"coordinates":[-85.718367,38.311406],"type":"Point"}
 }

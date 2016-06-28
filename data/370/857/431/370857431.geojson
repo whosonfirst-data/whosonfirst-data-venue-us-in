@@ -2,13 +2,14 @@
   "id": 370857431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966545,39.305423,-85.966545,39.305423",
     "geom:latitude":39.305423,
     "geom:longitude":-85.966545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3829 W Willoughby Dr",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370857431,
-    "wof:lastmodified":1449031269,
+    "wof:lastmodified":1466503651,
     "wof:name":"C C X",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-85.966545,39.305423,-85.966545,39.305423],
+  "bbox": [
+    -85.966545,
+    39.305423,
+    -85.966545,
+    39.305423
+],
   "geometry": {"coordinates":[-85.966545,39.305423],"type":"Point"}
 }

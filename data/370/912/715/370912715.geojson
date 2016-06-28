@@ -2,13 +2,14 @@
   "id": 370912715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.903413,41.688908,-85.903413,41.688908",
     "geom:latitude":41.688908,
     "geom:longitude":-85.903413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Pine Creek Rd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370912715,
-    "wof:lastmodified":1449030754,
+    "wof:lastmodified":1466503720,
     "wof:name":"Marathon Homes Corp",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-85.903413,41.688908,-85.903413,41.688908],
+  "bbox": [
+    -85.903413,
+    41.688908,
+    -85.903413,
+    41.688908
+],
   "geometry": {"coordinates":[-85.903413,41.688908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336661431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.941408,38.396466,-86.941408,38.396466",
     "geom:latitude":38.396466,
     "geom:longitude":-86.941408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 W 13th St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336661431,
-    "wof:lastmodified":1448997901,
+    "wof:lastmodified":1466502964,
     "wof:name":"Thomas Buechler Od",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.941408,38.396466,-86.941408,38.396466],
+  "bbox": [
+    -86.941408,
+    38.396466,
+    -86.941408,
+    38.396466
+],
   "geometry": {"coordinates":[-86.941408,38.396466],"type":"Point"}
 }

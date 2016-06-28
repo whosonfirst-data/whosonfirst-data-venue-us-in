@@ -2,13 +2,14 @@
   "id": 303913553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.47542,41.597687,-87.47542,41.597687",
     "geom:latitude":41.597687,
     "geom:longitude":-87.47542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Summer St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303913553,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466503255,
     "wof:name":"Aire-Draulic Svc Inc",
     "wof:parent_id":85821465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-87.47542,41.597687,-87.47542,41.597687],
+  "bbox": [
+    -87.47542,
+    41.597687,
+    -87.47542,
+    41.597687
+],
   "geometry": {"coordinates":[-87.47542,41.597687],"type":"Point"}
 }

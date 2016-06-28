@@ -2,13 +2,14 @@
   "id": 354213631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.052332,41.117639,-85.052332,41.117639",
     "geom:latitude":41.117639,
     "geom:longitude":-85.052332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4006 Beaverbrook Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354213631,
-    "wof:lastmodified":1449065947,
+    "wof:lastmodified":1466503159,
     "wof:name":"Electronic Rainbow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-85.052332,41.117639,-85.052332,41.117639],
-  "geometry": {"coordinates":[-85.052332,41.117639],"type":"Point"}
+  "bbox": [
+    -85.052332,
+    41.117639,
+    -85.052332,
+    41.117639
+],
+  "geometry": {"coordinates":[-85.05233200000001,41.117639],"type":"Point"}
 }

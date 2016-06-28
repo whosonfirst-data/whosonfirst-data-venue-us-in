@@ -2,13 +2,14 @@
   "id": 303934055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.054063,39.890761,-86.054063,39.890761",
     "geom:latitude":39.890761,
     "geom:longitude":-86.054063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6666 E 75th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303934055,
-    "wof:lastmodified":1448998238,
+    "wof:lastmodified":1466503286,
     "wof:name":"Kim Koenig",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.054063,39.890761,-86.054063,39.890761],
+  "bbox": [
+    -86.054063,
+    39.890761,
+    -86.054063,
+    39.890761
+],
   "geometry": {"coordinates":[-86.054063,39.890761],"type":"Point"}
 }

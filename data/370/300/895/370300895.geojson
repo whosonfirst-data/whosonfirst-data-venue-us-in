@@ -2,13 +2,14 @@
   "id": 370300895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.255709,41.571578,-87.255709,41.571578",
     "geom:latitude":41.571578,
     "geom:longitude":-87.255709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Central Ave",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370300895,
-    "wof:lastmodified":1449030976,
+    "wof:lastmodified":1466503072,
     "wof:name":"A-Advantage Self Storage",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-87.255709,41.571578,-87.255709,41.571578],
+  "bbox": [
+    -87.255709,
+    41.571578,
+    -87.255709,
+    41.571578
+],
   "geometry": {"coordinates":[-87.255709,41.571578],"type":"Point"}
 }

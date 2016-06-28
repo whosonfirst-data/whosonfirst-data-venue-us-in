@@ -2,13 +2,14 @@
   "id": 404160429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138816,41.096119,-85.138816,41.096119",
     "geom:latitude":41.096119,
     "geom:longitude":-85.138816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404160429,
-    "wof:lastmodified":1449040124,
+    "wof:lastmodified":1466503101,
     "wof:name":"Auto Corp Special Finance Co",
     "wof:parent_id":85877569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.138816,41.096119,-85.138816,41.096119],
-  "geometry": {"coordinates":[-85.138816,41.096119],"type":"Point"}
+  "bbox": [
+    -85.138816,
+    41.096119,
+    -85.138816,
+    41.096119
+],
+  "geometry": {"coordinates":[-85.13881600000001,41.096119],"type":"Point"}
 }

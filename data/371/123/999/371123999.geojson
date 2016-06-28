@@ -2,13 +2,14 @@
   "id": 371123999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.938738,38.35118,-85.938738,38.35118",
     "geom:latitude":38.35118,
     "geom:longitude":-85.938738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7010 US Hwy 150",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371123999,
-    "wof:lastmodified":1449049319,
+    "wof:lastmodified":1466503026,
     "wof:name":"Hooks Inc",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.938738,38.35118,-85.938738,38.35118],
+  "bbox": [
+    -85.938738,
+    38.35118,
+    -85.938738,
+    38.35118
+],
   "geometry": {"coordinates":[-85.938738,38.35118],"type":"Point"}
 }

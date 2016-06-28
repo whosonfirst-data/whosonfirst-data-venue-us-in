@@ -2,13 +2,14 @@
   "id": 353639103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.943902,41.72585,-85.943902,41.72585",
     "geom:latitude":41.72585,
     "geom:longitude":-85.943902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52864 Jackie Ln",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353639103,
-    "wof:lastmodified":1449020777,
+    "wof:lastmodified":1466503121,
     "wof:name":"Tom Holdgrafer",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.943902,41.72585,-85.943902,41.72585],
-  "geometry": {"coordinates":[-85.943902,41.72585],"type":"Point"}
+  "bbox": [
+    -85.943902,
+    41.72585,
+    -85.943902,
+    41.72585
+],
+  "geometry": {"coordinates":[-85.94390199999999,41.72585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303774697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.087332,39.723152,-86.087332,39.723152",
     "geom:latitude":39.723152,
     "geom:longitude":-86.087332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 N 5th Ave",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303774697,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1466503072,
     "wof:name":"Lawrence's Tang Soo Do",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-86.087332,39.723152,-86.087332,39.723152],
+  "bbox": [
+    -86.087332,
+    39.723152,
+    -86.087332,
+    39.723152
+],
   "geometry": {"coordinates":[-86.087332,39.723152],"type":"Point"}
 }

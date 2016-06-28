@@ -2,13 +2,14 @@
   "id": 303604505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127127,39.624006,-86.127127,39.624006",
     "geom:latitude":39.624006,
     "geom:longitude":-86.127127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Oak Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303604505,
-    "wof:lastmodified":1449000284,
+    "wof:lastmodified":1466503786,
     "wof:name":"Millspaugh Elzina",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.127127,39.624006,-86.127127,39.624006],
+  "bbox": [
+    -86.127127,
+    39.624006,
+    -86.127127,
+    39.624006
+],
   "geometry": {"coordinates":[-86.127127,39.624006],"type":"Point"}
 }

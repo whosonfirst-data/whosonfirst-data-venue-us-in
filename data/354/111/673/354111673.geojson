@@ -2,13 +2,14 @@
   "id": 354111673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.163881,40.756907,-85.163881,40.756907",
     "geom:latitude":40.756907,
     "geom:longitude":-85.163881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Dustman Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354111673,
-    "wof:lastmodified":1449067707,
+    "wof:lastmodified":1466503012,
     "wof:name":"Robley E Evans DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-85.163881,40.756907,-85.163881,40.756907],
+  "bbox": [
+    -85.163881,
+    40.756907,
+    -85.163881,
+    40.756907
+],
   "geometry": {"coordinates":[-85.163881,40.756907],"type":"Point"}
 }

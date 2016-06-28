@@ -2,13 +2,14 @@
   "id": 320038807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855505,41.727695,-86.855505,41.727695",
     "geom:latitude":41.727695,
     "geom:longitude":-86.855505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Martin Luther King Dr",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320038807,
-    "wof:lastmodified":1449013655,
+    "wof:lastmodified":1466503670,
     "wof:name":"Head Start Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.855505,41.727695,-86.855505,41.727695],
-  "geometry": {"coordinates":[-86.855505,41.727695],"type":"Point"}
+  "bbox": [
+    -86.855505,
+    41.727695,
+    -86.855505,
+    41.727695
+],
+  "geometry": {"coordinates":[-86.85550499999999,41.727695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403828415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.27584,40.791236,-86.27584,40.791236",
     "geom:latitude":40.791236,
     "geom:longitude":-86.27584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1860 N Co Rd 525 E",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403828415,
-    "wof:lastmodified":1449055328,
+    "wof:lastmodified":1466503062,
     "wof:name":"Springcreek Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.27584,40.791236,-86.27584,40.791236],
+  "bbox": [
+    -86.27584,
+    40.791236,
+    -86.27584,
+    40.791236
+],
   "geometry": {"coordinates":[-86.27584,40.791236],"type":"Point"}
 }

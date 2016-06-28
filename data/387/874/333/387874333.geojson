@@ -2,13 +2,14 @@
   "id": 387874333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.479044,37.967075,-87.479044,37.967075",
     "geom:latitude":37.967075,
     "geom:longitude":-87.479044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Cobblestone Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387874333,
-    "wof:lastmodified":1449059677,
+    "wof:lastmodified":1466504087,
     "wof:name":"Roblee Corporation",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.479044,37.967075,-87.479044,37.967075],
+  "bbox": [
+    -87.479044,
+    37.967075,
+    -87.479044,
+    37.967075
+],
   "geometry": {"coordinates":[-87.479044,37.967075],"type":"Point"}
 }

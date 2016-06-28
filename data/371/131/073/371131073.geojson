@@ -2,13 +2,14 @@
   "id": 371131073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.012749,40.046479,-86.012749,40.046479",
     "geom:latitude":40.046479,
     "geom:longitude":-86.012749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"977 Logan St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371131073,
-    "wof:lastmodified":1449049319,
+    "wof:lastmodified":1466503034,
     "wof:name":"Logan Village Mall",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.012749,40.046479,-86.012749,40.046479],
+  "bbox": [
+    -86.012749,
+    40.046479,
+    -86.012749,
+    40.046479
+],
   "geometry": {"coordinates":[-86.012749,40.046479],"type":"Point"}
 }

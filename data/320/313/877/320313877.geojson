@@ -2,13 +2,14 @@
   "id": 320313877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144138,39.853492,-86.144138,39.853492",
     "geom:latitude":39.853492,
     "geom:longitude":-86.144138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5547 Carrollton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320313877,
-    "wof:lastmodified":1449011371,
+    "wof:lastmodified":1466502938,
     "wof:name":"Broadripple Enterprises LLC",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.144138,39.853492,-86.144138,39.853492],
+  "bbox": [
+    -86.144138,
+    39.853492,
+    -86.144138,
+    39.853492
+],
   "geometry": {"coordinates":[-86.144138,39.853492],"type":"Point"}
 }

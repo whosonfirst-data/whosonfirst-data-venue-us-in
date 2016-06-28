@@ -2,13 +2,14 @@
   "id": 320550607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.229046,39.940808,-86.229046,39.940808",
     "geom:latitude":39.940808,
     "geom:longitude":-86.229046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 W 106th St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320550607,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466503242,
     "wof:name":"Nancy Zona Halsema DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.229046,39.940808,-86.229046,39.940808],
+  "bbox": [
+    -86.229046,
+    39.940808,
+    -86.229046,
+    39.940808
+],
   "geometry": {"coordinates":[-86.229046,39.940808],"type":"Point"}
 }

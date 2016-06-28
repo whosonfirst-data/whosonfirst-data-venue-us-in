@@ -2,13 +2,14 @@
   "id": 403933265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.432462,41.054488,-85.432462,41.054488",
     "geom:latitude":41.054488,
     "geom:longitude":-85.432462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7633 S Raber Rd",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403933265,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466503206,
     "wof:name":"Kestone Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.432462,41.054488,-85.432462,41.054488],
+  "bbox": [
+    -85.432462,
+    41.054488,
+    -85.432462,
+    41.054488
+],
   "geometry": {"coordinates":[-85.432462,41.054488],"type":"Point"}
 }

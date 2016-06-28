@@ -2,13 +2,14 @@
   "id": 336905791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131192,40.497674,-86.131192,40.497674",
     "geom:latitude":40.497674,
     "geom:longitude":-86.131192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 N Main St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336905791,
-    "wof:lastmodified":1448997380,
+    "wof:lastmodified":1466503277,
     "wof:name":"Arnie Cook's Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.131192,40.497674,-86.131192,40.497674],
+  "bbox": [
+    -86.131192,
+    40.497674,
+    -86.131192,
+    40.497674
+],
   "geometry": {"coordinates":[-86.131192,40.497674],"type":"Point"}
 }

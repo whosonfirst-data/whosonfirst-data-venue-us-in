@@ -2,13 +2,14 @@
   "id": 354009079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.112734,39.277358,-87.112734,39.277358",
     "geom:latitude":39.277358,
     "geom:longitude":-87.112734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Main St",
     "sg:city":"Clay City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354009079,
-    "wof:lastmodified":1449067652,
+    "wof:lastmodified":1466502892,
     "wof:name":"J C's Clock Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-87.112734,39.277358,-87.112734,39.277358],
+  "bbox": [
+    -87.112734,
+    39.277358,
+    -87.112734,
+    39.277358
+],
   "geometry": {"coordinates":[-87.112734,39.277358],"type":"Point"}
 }

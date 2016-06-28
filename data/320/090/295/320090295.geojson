@@ -2,13 +2,14 @@
   "id": 320090295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.287572,39.688139,-86.287572,39.688139",
     "geom:latitude":39.688139,
     "geom:longitude":-86.287572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Decatur Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320090295,
-    "wof:lastmodified":1449014207,
+    "wof:lastmodified":1466503699,
     "wof:name":"Sonny Scaffolds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-86.287572,39.688139,-86.287572,39.688139],
+  "bbox": [
+    -86.287572,
+    39.688139,
+    -86.287572,
+    39.688139
+],
   "geometry": {"coordinates":[-86.287572,39.688139],"type":"Point"}
 }

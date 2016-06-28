@@ -2,13 +2,14 @@
   "id": 370948517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576202,39.130077,-86.576202,39.130077",
     "geom:latitude":39.130077,
     "geom:longitude":-86.576202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 W Festive Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370948517,
-    "wof:lastmodified":1449031781,
+    "wof:lastmodified":1466503765,
     "wof:name":"Body By Lisa Lady Fitness",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-86.576202,39.130077,-86.576202,39.130077],
-  "geometry": {"coordinates":[-86.576202,39.130077],"type":"Point"}
+  "bbox": [
+    -86.576202,
+    39.130077,
+    -86.576202,
+    39.130077
+],
+  "geometry": {"coordinates":[-86.57620199999999,39.130077],"type":"Point"}
 }

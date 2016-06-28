@@ -2,13 +2,14 @@
   "id": 303595401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.462484,40.800964,-86.462484,40.800964",
     "geom:latitude":40.800964,
     "geom:longitude":-86.462484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4656 W Co Rd 250 N",
     "sg:city":"West Middleton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303595401,
-    "wof:lastmodified":1449000328,
+    "wof:lastmodified":1466503779,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.462484,40.800964,-86.462484,40.800964],
+  "bbox": [
+    -86.462484,
+    40.800964,
+    -86.462484,
+    40.800964
+],
   "geometry": {"coordinates":[-86.462484,40.800964],"type":"Point"}
 }

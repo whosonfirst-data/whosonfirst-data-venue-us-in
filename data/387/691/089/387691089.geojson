@@ -2,13 +2,14 @@
   "id": 387691089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.414509,39.682156,-87.414509,39.682156",
     "geom:latitude":39.682156,
     "geom:longitude":-87.414509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Fulton St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387691089,
-    "wof:lastmodified":1449056423,
+    "wof:lastmodified":1466503829,
     "wof:name":"A/C Specialties Gifts/Collect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.414509,39.682156,-87.414509,39.682156],
+  "bbox": [
+    -87.414509,
+    39.682156,
+    -87.414509,
+    39.682156
+],
   "geometry": {"coordinates":[-87.414509,39.682156],"type":"Point"}
 }

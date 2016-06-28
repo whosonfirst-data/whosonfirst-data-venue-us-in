@@ -2,13 +2,14 @@
   "id": 370281413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.476511,38.567752,-86.476511,38.567752",
     "geom:latitude":38.567752,
     "geom:longitude":-86.476511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"488 W Hospital Rd",
     "sg:city":"Paoli",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370281413,
-    "wof:lastmodified":1449031948,
+    "wof:lastmodified":1466503052,
     "wof:name":"Michael K Van Emon DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.476511,38.567752,-86.476511,38.567752],
+  "bbox": [
+    -86.476511,
+    38.567752,
+    -86.476511,
+    38.567752
+],
   "geometry": {"coordinates":[-86.476511,38.567752],"type":"Point"}
 }

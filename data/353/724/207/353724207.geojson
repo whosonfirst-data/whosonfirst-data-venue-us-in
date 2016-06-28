@@ -2,13 +2,14 @@
   "id": 353724207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.797311,38.300152,-85.797311,38.300152",
     "geom:latitude":38.300152,
     "geom:longitude":-85.797311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Spring Ave",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353724207,
-    "wof:lastmodified":1449020721,
+    "wof:lastmodified":1466503215,
     "wof:name":"Teresa Huber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-85.797311,38.300152,-85.797311,38.300152],
-  "geometry": {"coordinates":[-85.797311,38.300152],"type":"Point"}
+  "bbox": [
+    -85.797311,
+    38.300152,
+    -85.797311,
+    38.300152
+],
+  "geometry": {"coordinates":[-85.79731099999999,38.300152],"type":"Point"}
 }

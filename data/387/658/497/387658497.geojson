@@ -2,13 +2,14 @@
   "id": 387658497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.365946,38.228048,-86.365946,38.228048",
     "geom:latitude":38.228048,
     "geom:longitude":-86.365946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6945 S State Rd 66",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387658497,
-    "wof:lastmodified":1449056033,
+    "wof:lastmodified":1466503796,
     "wof:name":"AMY Pizza Plus & Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.365946,38.228048,-86.365946,38.228048],
-  "geometry": {"coordinates":[-86.365946,38.228048],"type":"Point"}
+  "bbox": [
+    -86.365946,
+    38.228048,
+    -86.365946,
+    38.228048
+],
+  "geometry": {"coordinates":[-86.36594599999999,38.228048],"type":"Point"}
 }

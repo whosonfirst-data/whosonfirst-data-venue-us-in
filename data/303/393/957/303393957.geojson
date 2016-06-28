@@ -2,13 +2,14 @@
   "id": 303393957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.869949,40.416825,-86.869949,40.416825",
     "geom:latitude":40.416825,
     "geom:longitude":-86.869949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Scott St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303393957,
-    "wof:lastmodified":1448998883,
+    "wof:lastmodified":1466503656,
     "wof:name":"Columbian Park",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-86.869949,40.416825,-86.869949,40.416825],
-  "geometry": {"coordinates":[-86.869949,40.416825],"type":"Point"}
+  "bbox": [
+    -86.869949,
+    40.416825,
+    -86.869949,
+    40.416825
+],
+  "geometry": {"coordinates":[-86.86994900000001,40.416825],"type":"Point"}
 }

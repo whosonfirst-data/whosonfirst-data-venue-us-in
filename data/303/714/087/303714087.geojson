@@ -2,13 +2,14 @@
   "id": 303714087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22869,39.926266,-86.22869,39.926266",
     "geom:latitude":39.926266,
     "geom:longitude":-86.22869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 W 96th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303714087,
-    "wof:lastmodified":1448999320,
+    "wof:lastmodified":1466503002,
     "wof:name":"Grand Champion Tack & Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "harness"
     ]
 },
-  "bbox": [-86.22869,39.926266,-86.22869,39.926266],
+  "bbox": [
+    -86.22869,
+    39.926266,
+    -86.22869,
+    39.926266
+],
   "geometry": {"coordinates":[-86.22869,39.926266],"type":"Point"}
 }

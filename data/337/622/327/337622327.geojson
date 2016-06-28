@@ -2,13 +2,14 @@
   "id": 337622327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.050824,40.070734,-86.050824,40.070734",
     "geom:latitude":40.070734,
     "geom:longitude":-86.050824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Heatherwood Ct",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337622327,
-    "wof:lastmodified":1449027597,
+    "wof:lastmodified":1466502897,
     "wof:name":"Restronics Midwest Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-86.050824,40.070734,-86.050824,40.070734],
-  "geometry": {"coordinates":[-86.050824,40.070734],"type":"Point"}
+  "bbox": [
+    -86.050824,
+    40.070734,
+    -86.050824,
+    40.070734
+],
+  "geometry": {"coordinates":[-86.05082400000001,40.070734],"type":"Point"}
 }

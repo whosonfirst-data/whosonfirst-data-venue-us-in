@@ -2,13 +2,14 @@
   "id": 353566925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.832852,41.578966,-85.832852,41.578966",
     "geom:latitude":41.578966,
     "geom:longitude":-85.832852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S 5th St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353566925,
-    "wof:lastmodified":1449018302,
+    "wof:lastmodified":1466503033,
     "wof:name":"Goshen Public Library",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.832852,41.578966,-85.832852,41.578966],
+  "bbox": [
+    -85.832852,
+    41.578966,
+    -85.832852,
+    41.578966
+],
   "geometry": {"coordinates":[-85.832852,41.578966],"type":"Point"}
 }

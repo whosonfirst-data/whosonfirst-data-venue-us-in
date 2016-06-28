@@ -2,13 +2,14 @@
   "id": 319841123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.757401,38.727096,-85.757401,38.727096",
     "geom:latitude":38.727096,
     "geom:longitude":-85.757401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2397 N Slab Rd",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319841123,
-    "wof:lastmodified":1449024260,
+    "wof:lastmodified":1466503554,
     "wof:name":"Wayne Jent Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.757401,38.727096,-85.757401,38.727096],
+  "bbox": [
+    -85.757401,
+    38.727096,
+    -85.757401,
+    38.727096
+],
   "geometry": {"coordinates":[-85.757401,38.727096],"type":"Point"}
 }

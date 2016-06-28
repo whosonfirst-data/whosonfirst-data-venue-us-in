@@ -2,13 +2,14 @@
   "id": 320287981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.078605,39.651306,-86.078605,39.651306",
     "geom:latitude":39.651306,
     "geom:longitude":-86.078605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5162 E Stop 11 Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320287981,
-    "wof:lastmodified":1449011475,
+    "wof:lastmodified":1466502904,
     "wof:name":"Executive Compensation Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [-86.078605,39.651306,-86.078605,39.651306],
+  "bbox": [
+    -86.078605,
+    39.651306,
+    -86.078605,
+    39.651306
+],
   "geometry": {"coordinates":[-86.078605,39.651306],"type":"Point"}
 }

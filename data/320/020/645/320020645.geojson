@@ -2,13 +2,14 @@
   "id": 320020645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.071841,41.366766,-85.071841,41.366766",
     "geom:latitude":41.366766,
     "geom:longitude":-85.071841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W 7th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320020645,
-    "wof:lastmodified":1449012998,
+    "wof:lastmodified":1466503663,
     "wof:name":"Mor-For-Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-85.071841,41.366766,-85.071841,41.366766],
-  "geometry": {"coordinates":[-85.071841,41.366766],"type":"Point"}
+  "bbox": [
+    -85.071841,
+    41.366766,
+    -85.071841,
+    41.366766
+],
+  "geometry": {"coordinates":[-85.07184100000001,41.366766],"type":"Point"}
 }

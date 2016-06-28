@@ -2,13 +2,14 @@
   "id": 354255203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.365432,40.756353,-86.365432,40.756353",
     "geom:latitude":40.756353,
     "geom:longitude":-86.365432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 High St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354255203,
-    "wof:lastmodified":1449066685,
+    "wof:lastmodified":1466503222,
     "wof:name":"Charles A Michael Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.365432,40.756353,-86.365432,40.756353],
+  "bbox": [
+    -86.365432,
+    40.756353,
+    -86.365432,
+    40.756353
+],
   "geometry": {"coordinates":[-86.365432,40.756353],"type":"Point"}
 }

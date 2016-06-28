@@ -2,13 +2,14 @@
   "id": 387937675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.892522,39.125291,-84.892522,39.125291",
     "geom:latitude":39.125291,
     "geom:longitude":-84.892522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Bielby Rd",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387937675,
-    "wof:lastmodified":1449056821,
+    "wof:lastmodified":1466504186,
     "wof:name":"Country Hill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-84.892522,39.125291,-84.892522,39.125291],
+  "bbox": [
+    -84.892522,
+    39.125291,
+    -84.892522,
+    39.125291
+],
   "geometry": {"coordinates":[-84.892522,39.125291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319947041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.173796,41.596811,-87.173796,41.596811",
     "geom:latitude":41.596811,
     "geom:longitude":-87.173796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1978 Crisman Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319947041,
-    "wof:lastmodified":1449024648,
+    "wof:lastmodified":1466503614,
     "wof:name":"Jag Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.173796,41.596811,-87.173796,41.596811],
+  "bbox": [
+    -87.173796,
+    41.596811,
+    -87.173796,
+    41.596811
+],
   "geometry": {"coordinates":[-87.173796,41.596811],"type":"Point"}
 }

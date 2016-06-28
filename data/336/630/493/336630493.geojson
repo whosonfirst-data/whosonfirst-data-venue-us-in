@@ -2,13 +2,14 @@
   "id": 336630493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.651357,40.113025,-85.651357,40.113025",
     "geom:latitude":40.113025,
     "geom:longitude":-85.651357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 E 3rd St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336630493,
-    "wof:lastmodified":1448997310,
+    "wof:lastmodified":1466502927,
     "wof:name":"Clancy's Carwash",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.651357,40.113025,-85.651357,40.113025],
+  "bbox": [
+    -85.651357,
+    40.113025,
+    -85.651357,
+    40.113025
+],
   "geometry": {"coordinates":[-85.651357,40.113025],"type":"Point"}
 }

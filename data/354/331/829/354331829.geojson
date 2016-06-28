@@ -2,13 +2,14 @@
   "id": 354331829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.089425,39.68981,-86.089425,39.68981",
     "geom:latitude":39.68981,
     "geom:longitude":-86.089425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5419 Helena Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354331829,
-    "wof:lastmodified":1449066975,
+    "wof:lastmodified":1466503343,
     "wof:name":"Blaine Avenue Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.089425,39.68981,-86.089425,39.68981],
-  "geometry": {"coordinates":[-86.089425,39.68981],"type":"Point"}
+  "bbox": [
+    -86.089425,
+    39.68981,
+    -86.089425,
+    39.68981
+],
+  "geometry": {"coordinates":[-86.08942500000001,39.68981],"type":"Point"}
 }

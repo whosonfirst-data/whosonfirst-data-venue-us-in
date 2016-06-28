@@ -2,13 +2,14 @@
   "id": 353543965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.466536,39.166256,-86.466536,39.166256",
     "geom:latitude":39.166256,
     "geom:longitude":-86.466536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 E State Rd 46",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353543965,
-    "wof:lastmodified":1449018753,
+    "wof:lastmodified":1466503003,
     "wof:name":"Massage Line",
     "wof:parent_id":85816979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-86.466536,39.166256,-86.466536,39.166256],
+  "bbox": [
+    -86.466536,
+    39.166256,
+    -86.466536,
+    39.166256
+],
   "geometry": {"coordinates":[-86.466536,39.166256],"type":"Point"}
 }

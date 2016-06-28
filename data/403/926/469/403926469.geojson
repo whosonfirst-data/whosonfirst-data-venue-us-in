@@ -2,13 +2,14 @@
   "id": 403926469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.066211,41.621077,-87.066211,41.621077",
     "geom:latitude":41.621077,
     "geom:longitude":-87.066211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Ackerman Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403926469,
-    "wof:lastmodified":1449055091,
+    "wof:lastmodified":1466503196,
     "wof:name":"Porter County Council On Aging",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.066211,41.621077,-87.066211,41.621077],
+  "bbox": [
+    -87.066211,
+    41.621077,
+    -87.066211,
+    41.621077
+],
   "geometry": {"coordinates":[-87.066211,41.621077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387284065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.350421,40.748988,-86.350421,40.748988",
     "geom:latitude":40.748988,
     "geom:longitude":-86.350421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Woodlawn Ave",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387284065,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1466503283,
     "wof:name":"Peak Community Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.350421,40.748988,-86.350421,40.748988],
+  "bbox": [
+    -86.350421,
+    40.748988,
+    -86.350421,
+    40.748988
+],
   "geometry": {"coordinates":[-86.350421,40.748988],"type":"Point"}
 }

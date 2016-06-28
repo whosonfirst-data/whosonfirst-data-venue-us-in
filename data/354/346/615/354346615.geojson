@@ -2,13 +2,14 @@
   "id": 354346615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571505,39.73121,-86.571505,39.73121",
     "geom:latitude":39.73121,
     "geom:longitude":-86.571505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2624 W Co Rd 200 S",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354346615,
-    "wof:lastmodified":1449065920,
+    "wof:lastmodified":1466503367,
     "wof:name":"Picture Perfect Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.571505,39.73121,-86.571505,39.73121],
+  "bbox": [
+    -86.571505,
+    39.73121,
+    -86.571505,
+    39.73121
+],
   "geometry": {"coordinates":[-86.571505,39.73121],"type":"Point"}
 }

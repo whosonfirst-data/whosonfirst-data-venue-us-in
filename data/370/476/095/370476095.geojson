@@ -2,13 +2,14 @@
   "id": 370476095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064226,39.786628,-86.064226,39.786628",
     "geom:latitude":39.786628,
     "geom:longitude":-86.064226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 N Arlington Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370476095,
-    "wof:lastmodified":1449030456,
+    "wof:lastmodified":1466503250,
     "wof:name":"Community Health Network",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.064226,39.786628,-86.064226,39.786628],
-  "geometry": {"coordinates":[-86.064226,39.786628],"type":"Point"}
+  "bbox": [
+    -86.064226,
+    39.786628,
+    -86.064226,
+    39.786628
+],
+  "geometry": {"coordinates":[-86.06422600000001,39.786628],"type":"Point"}
 }

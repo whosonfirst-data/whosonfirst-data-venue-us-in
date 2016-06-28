@@ -2,13 +2,14 @@
   "id": 354168699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.822856,41.231052,-85.822856,41.231052",
     "geom:latitude":41.231052,
     "geom:longitude":-85.822856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Park Ave",
     "sg:city":"Winona Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354168699,
-    "wof:lastmodified":1449066822,
+    "wof:lastmodified":1466503089,
     "wof:name":"Leis Partners",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-85.822856,41.231052,-85.822856,41.231052],
+  "bbox": [
+    -85.822856,
+    41.231052,
+    -85.822856,
+    41.231052
+],
   "geometry": {"coordinates":[-85.822856,41.231052],"type":"Point"}
 }

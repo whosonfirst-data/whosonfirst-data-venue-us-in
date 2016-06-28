@@ -2,13 +2,14 @@
   "id": 303907073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.159799,39.76849,-86.159799,39.76849",
     "geom:latitude":39.76849,
     "geom:longitude":-86.159799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 W Market St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303907073,
-    "wof:lastmodified":1449000377,
+    "wof:lastmodified":1466503244,
     "wof:name":"ACCESS Indiana",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-86.159799,39.76849,-86.159799,39.76849],
-  "geometry": {"coordinates":[-86.159799,39.76849],"type":"Point"}
+  "bbox": [
+    -86.159799,
+    39.76849,
+    -86.159799,
+    39.76849
+],
+  "geometry": {"coordinates":[-86.15979900000001,39.76849],"type":"Point"}
 }

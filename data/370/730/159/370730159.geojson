@@ -2,13 +2,14 @@
   "id": 370730159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.055971,41.367929,-85.055971,41.367929",
     "geom:latitude":41.367929,
     "geom:longitude":-85.055971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370730159,
-    "wof:lastmodified":1449031922,
+    "wof:lastmodified":1466503518,
     "wof:name":"4-Real Community Of Faith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.055971,41.367929,-85.055971,41.367929],
+  "bbox": [
+    -85.055971,
+    41.367929,
+    -85.055971,
+    41.367929
+],
   "geometry": {"coordinates":[-85.055971,41.367929],"type":"Point"}
 }

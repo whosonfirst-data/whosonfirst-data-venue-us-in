@@ -2,13 +2,14 @@
   "id": 387426769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.676823,40.348233,-86.676823,40.348233",
     "geom:latitude":40.348233,
     "geom:longitude":-86.676823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 W Jackson St",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387426769,
-    "wof:lastmodified":1449056911,
+    "wof:lastmodified":1466503483,
     "wof:name":"Gloria Dei Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.676823,40.348233,-86.676823,40.348233],
+  "bbox": [
+    -86.676823,
+    40.348233,
+    -86.676823,
+    40.348233
+],
   "geometry": {"coordinates":[-86.676823,40.348233],"type":"Point"}
 }

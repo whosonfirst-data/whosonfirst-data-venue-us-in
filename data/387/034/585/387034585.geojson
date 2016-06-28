@@ -2,13 +2,14 @@
   "id": 387034585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.187476,41.698281,-86.187476,41.698281",
     "geom:latitude":41.698281,
     "geom:longitude":-86.187476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4117 Grape Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387034585,
-    "wof:lastmodified":1449056534,
+    "wof:lastmodified":1466502926,
     "wof:name":"One On One Fitness Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.187476,41.698281,-86.187476,41.698281],
+  "bbox": [
+    -86.187476,
+    41.698281,
+    -86.187476,
+    41.698281
+],
   "geometry": {"coordinates":[-86.187476,41.698281],"type":"Point"}
 }

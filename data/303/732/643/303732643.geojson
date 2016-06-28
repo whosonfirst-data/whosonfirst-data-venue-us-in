@@ -2,13 +2,14 @@
   "id": 303732643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.942181,39.958757,-85.942181,39.958757",
     "geom:latitude":39.958757,
     "geom:longitude":-85.942181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11681 Brooks School Rd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303732643,
-    "wof:lastmodified":1449000644,
+    "wof:lastmodified":1466503025,
     "wof:name":"Morellis Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-85.942181,39.958757,-85.942181,39.958757],
-  "geometry": {"coordinates":[-85.942181,39.958757],"type":"Point"}
+  "bbox": [
+    -85.942181,
+    39.958757,
+    -85.942181,
+    39.958757
+],
+  "geometry": {"coordinates":[-85.94218100000001,39.958757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336876151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.100426,38.592911,-86.100426,38.592911",
     "geom:latitude":38.592911,
     "geom:longitude":-86.100426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 W Becks Mill Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336876151,
-    "wof:lastmodified":1448997164,
+    "wof:lastmodified":1466503242,
     "wof:name":"WIC Program-Washington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "resource"
     ]
 },
-  "bbox": [-86.100426,38.592911,-86.100426,38.592911],
+  "bbox": [
+    -86.100426,
+    38.592911,
+    -86.100426,
+    38.592911
+],
   "geometry": {"coordinates":[-86.100426,38.592911],"type":"Point"}
 }

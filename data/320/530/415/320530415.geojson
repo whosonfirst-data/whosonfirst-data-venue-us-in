@@ -2,13 +2,14 @@
   "id": 320530415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.071475,39.915606,-86.071475,39.915606",
     "geom:latitude":39.915606,
     "geom:longitude":-86.071475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Castle Creek Parkway North Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320530415,
-    "wof:lastmodified":1449013250,
+    "wof:lastmodified":1466503212,
     "wof:name":"Contract Processing & Title",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "title"
     ]
 },
-  "bbox": [-86.071475,39.915606,-86.071475,39.915606],
-  "geometry": {"coordinates":[-86.071475,39.915606],"type":"Point"}
+  "bbox": [
+    -86.071475,
+    39.915606,
+    -86.071475,
+    39.915606
+],
+  "geometry": {"coordinates":[-86.07147500000001,39.915606],"type":"Point"}
 }

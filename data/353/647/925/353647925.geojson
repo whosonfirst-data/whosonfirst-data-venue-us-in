@@ -2,13 +2,14 @@
   "id": 353647925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.894546,41.702549,-86.894546,41.702549",
     "geom:latitude":41.702549,
     "geom:longitude":-86.894546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353647925,
-    "wof:lastmodified":1449019466,
+    "wof:lastmodified":1466503133,
     "wof:name":"A J's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.894546,41.702549,-86.894546,41.702549],
-  "geometry": {"coordinates":[-86.894546,41.702549],"type":"Point"}
+  "bbox": [
+    -86.894546,
+    41.702549,
+    -86.894546,
+    41.702549
+],
+  "geometry": {"coordinates":[-86.89454600000001,41.702549],"type":"Point"}
 }

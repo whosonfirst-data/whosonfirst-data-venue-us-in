@@ -2,13 +2,14 @@
   "id": 353865055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.362235,39.479408,-86.362235,39.479408",
     "geom:latitude":39.479408,
     "geom:longitude":-86.362235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3740 Egbert Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353865055,
-    "wof:lastmodified":1449020181,
+    "wof:lastmodified":1466503380,
     "wof:name":"Indiana Hardwood Mills Inc",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-86.362235,39.479408,-86.362235,39.479408],
+  "bbox": [
+    -86.362235,
+    39.479408,
+    -86.362235,
+    39.479408
+],
   "geometry": {"coordinates":[-86.362235,39.479408],"type":"Point"}
 }

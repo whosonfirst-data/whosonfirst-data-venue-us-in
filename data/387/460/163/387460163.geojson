@@ -2,13 +2,14 @@
   "id": 387460163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.969826,41.702592,-85.969826,41.702592",
     "geom:latitude":41.702592,
     "geom:longitude":-85.969826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Bristol St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387460163,
-    "wof:lastmodified":1449059704,
+    "wof:lastmodified":1466503527,
     "wof:name":"Ray Schuler Advertising",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-85.969826,41.702592,-85.969826,41.702592],
+  "bbox": [
+    -85.969826,
+    41.702592,
+    -85.969826,
+    41.702592
+],
   "geometry": {"coordinates":[-85.969826,41.702592],"type":"Point"}
 }

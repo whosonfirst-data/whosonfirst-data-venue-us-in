@@ -2,13 +2,14 @@
   "id": 320795413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.075194,41.07465,-85.075194,41.07465",
     "geom:latitude":41.07465,
     "geom:longitude":-85.075194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5314 Maumee Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320795413,
-    "wof:lastmodified":1449013467,
+    "wof:lastmodified":1466503505,
     "wof:name":"A & R Port A Stor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-85.075194,41.07465,-85.075194,41.07465],
+  "bbox": [
+    -85.075194,
+    41.07465,
+    -85.075194,
+    41.07465
+],
   "geometry": {"coordinates":[-85.075194,41.07465],"type":"Point"}
 }

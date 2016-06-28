@@ -2,13 +2,14 @@
   "id": 303836289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138711,41.169184,-85.138711,41.169184",
     "geom:latitude":41.169184,
     "geom:longitude":-85.138711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E Till Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303836289,
-    "wof:lastmodified":1448999736,
+    "wof:lastmodified":1466503150,
     "wof:name":"Lady Bug Exterminators Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.138711,41.169184,-85.138711,41.169184],
+  "bbox": [
+    -85.138711,
+    41.169184,
+    -85.138711,
+    41.169184
+],
   "geometry": {"coordinates":[-85.138711,41.169184],"type":"Point"}
 }

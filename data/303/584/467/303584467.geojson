@@ -2,13 +2,14 @@
   "id": 303584467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.186785,39.577694,-86.186785,39.577694",
     "geom:latitude":39.577694,
     "geom:longitude":-86.186785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2372 Forest Hills Blvd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303584467,
-    "wof:lastmodified":1448998389,
+    "wof:lastmodified":1466503769,
     "wof:name":"JDB Builders Inc",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.186785,39.577694,-86.186785,39.577694],
+  "bbox": [
+    -86.186785,
+    39.577694,
+    -86.186785,
+    39.577694
+],
   "geometry": {"coordinates":[-86.186785,39.577694],"type":"Point"}
 }

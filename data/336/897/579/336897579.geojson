@@ -2,13 +2,14 @@
   "id": 336897579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.026833,41.048435,-85.026833,41.048435",
     "geom:latitude":41.048435,
     "geom:longitude":-85.026833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8625 Seiler Rd",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336897579,
-    "wof:lastmodified":1448997860,
+    "wof:lastmodified":1466503269,
     "wof:name":"Doehrman Apartment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-85.026833,41.048435,-85.026833,41.048435],
+  "bbox": [
+    -85.026833,
+    41.048435,
+    -85.026833,
+    41.048435
+],
   "geometry": {"coordinates":[-85.026833,41.048435],"type":"Point"}
 }

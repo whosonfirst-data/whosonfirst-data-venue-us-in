@@ -2,13 +2,14 @@
   "id": 304060279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.986306,39.818122,-84.986306,39.818122",
     "geom:latitude":39.818122,
     "geom:longitude":-84.986306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Mattie Harris Rd",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304060279,
-    "wof:lastmodified":1449044112,
+    "wof:lastmodified":1466503483,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.986306,39.818122,-84.986306,39.818122],
+  "bbox": [
+    -84.986306,
+    39.818122,
+    -84.986306,
+    39.818122
+],
   "geometry": {"coordinates":[-84.986306,39.818122],"type":"Point"}
 }

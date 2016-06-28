@@ -2,13 +2,14 @@
   "id": 370633193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.313328,39.401181,-85.313328,39.401181",
     "geom:latitude":39.401181,
     "geom:longitude":-85.313328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 SW Santee Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370633193,
-    "wof:lastmodified":1449032438,
+    "wof:lastmodified":1466503429,
     "wof:name":"County Commissioners Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commissioner"
     ]
 },
-  "bbox": [-85.313328,39.401181,-85.313328,39.401181],
+  "bbox": [
+    -85.313328,
+    39.401181,
+    -85.313328,
+    39.401181
+],
   "geometry": {"coordinates":[-85.313328,39.401181],"type":"Point"}
 }

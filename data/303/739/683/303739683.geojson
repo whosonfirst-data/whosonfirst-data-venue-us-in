@@ -2,13 +2,14 @@
   "id": 303739683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.450538,41.486118,-87.450538,41.486118",
     "geom:latitude":41.486118,
     "geom:longitude":-87.450538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 W US Hwy 30",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303739683,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466503032,
     "wof:name":"Beverly Day Spa & Aesthetic",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-87.450538,41.486118,-87.450538,41.486118],
-  "geometry": {"coordinates":[-87.450538,41.486118],"type":"Point"}
+  "bbox": [
+    -87.450538,
+    41.486118,
+    -87.450538,
+    41.486118
+],
+  "geometry": {"coordinates":[-87.45053799999999,41.486118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353675825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.768742,41.001217,-85.768742,41.001217",
     "geom:latitude":41.001217,
     "geom:longitude":-85.768742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E 3rd St",
     "sg:city":"North Manchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353675825,
-    "wof:lastmodified":1449019565,
+    "wof:lastmodified":1466503163,
     "wof:name":"Local Net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-85.768742,41.001217,-85.768742,41.001217],
+  "bbox": [
+    -85.768742,
+    41.001217,
+    -85.768742,
+    41.001217
+],
   "geometry": {"coordinates":[-85.768742,41.001217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303850325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.06685,39.804371,-86.06685,39.804371",
     "geom:latitude":39.804371,
     "geom:longitude":-86.06685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 N Bolton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303850325,
-    "wof:lastmodified":1448999537,
+    "wof:lastmodified":1466503168,
     "wof:name":"American National Skyline",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-86.06685,39.804371,-86.06685,39.804371],
+  "bbox": [
+    -86.06685,
+    39.804371,
+    -86.06685,
+    39.804371
+],
   "geometry": {"coordinates":[-86.06685,39.804371],"type":"Point"}
 }

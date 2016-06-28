@@ -2,13 +2,14 @@
   "id": 303922313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.400094,39.90923,-86.400094,39.90923",
     "geom:latitude":39.90923,
     "geom:longitude":-86.400094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6590 E Co Rd 1000 N",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303922313,
-    "wof:lastmodified":1448998339,
+    "wof:lastmodified":1466503267,
     "wof:name":"Countryside Community Church",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.400094,39.90923,-86.400094,39.90923],
+  "bbox": [
+    -86.400094,
+    39.90923,
+    -86.400094,
+    39.90923
+],
   "geometry": {"coordinates":[-86.400094,39.90923],"type":"Point"}
 }

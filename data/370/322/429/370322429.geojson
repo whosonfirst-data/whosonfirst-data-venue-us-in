@@ -2,13 +2,14 @@
   "id": 370322429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.008413,39.716844,-86.008413,39.716844",
     "geom:latitude":39.716844,
     "geom:longitude":-86.008413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 S Post Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370322429,
-    "wof:lastmodified":1449029032,
+    "wof:lastmodified":1466503097,
     "wof:name":"St Francis Medical Group",
     "wof:parent_id":85854439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.008413,39.716844,-86.008413,39.716844],
+  "bbox": [
+    -86.008413,
+    39.716844,
+    -86.008413,
+    39.716844
+],
   "geometry": {"coordinates":[-86.008413,39.716844],"type":"Point"}
 }

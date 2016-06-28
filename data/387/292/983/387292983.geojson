@@ -2,13 +2,14 @@
   "id": 387292983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.151644,39.74992,-86.151644,39.74992",
     "geom:latitude":39.74992,
     "geom:longitude":-86.151644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Orange St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387292983,
-    "wof:lastmodified":1449056428,
+    "wof:lastmodified":1466503298,
     "wof:name":"Handwork Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.151644,39.74992,-86.151644,39.74992],
+  "bbox": [
+    -86.151644,
+    39.74992,
+    -86.151644,
+    39.74992
+],
   "geometry": {"coordinates":[-86.151644,39.74992],"type":"Point"}
 }

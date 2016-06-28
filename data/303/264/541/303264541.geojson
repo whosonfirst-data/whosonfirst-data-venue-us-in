@@ -2,13 +2,14 @@
   "id": 303264541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.529753,37.955304,-87.529753,37.955304",
     "geom:latitude":37.955304,
     "geom:longitude":-87.529753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 S Weinbach Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303264541,
-    "wof:lastmodified":1448999707,
+    "wof:lastmodified":1466503542,
     "wof:name":"All Dogs Are Spoiled Pet Groom",
     "wof:parent_id":85877321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-87.529753,37.955304,-87.529753,37.955304],
+  "bbox": [
+    -87.529753,
+    37.955304,
+    -87.529753,
+    37.955304
+],
   "geometry": {"coordinates":[-87.529753,37.955304],"type":"Point"}
 }

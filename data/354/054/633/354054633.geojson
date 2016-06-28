@@ -2,13 +2,14 @@
   "id": 354054633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.686011,39.305677,-85.686011,39.305677",
     "geom:latitude":39.305677,
     "geom:longitude":-85.686011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21990 E Co Rd 700 N",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354054633,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1466502945,
     "wof:name":"Columbus Millwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-85.686011,39.305677,-85.686011,39.305677],
-  "geometry": {"coordinates":[-85.686011,39.305677],"type":"Point"}
+  "bbox": [
+    -85.686011,
+    39.305677,
+    -85.686011,
+    39.305677
+],
+  "geometry": {"coordinates":[-85.68601099999999,39.305677],"type":"Point"}
 }

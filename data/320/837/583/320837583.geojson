@@ -2,13 +2,14 @@
   "id": 320837583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.335535,41.434823,-87.335535,41.434823",
     "geom:latitude":41.434823,
     "geom:longitude":-87.335535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 Broadway",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320837583,
-    "wof:lastmodified":1449011835,
+    "wof:lastmodified":1466503542,
     "wof:name":"Burns Funeral Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.335535,41.434823,-87.335535,41.434823],
-  "geometry": {"coordinates":[-87.335535,41.434823],"type":"Point"}
+  "bbox": [
+    -87.335535,
+    41.434823,
+    -87.335535,
+    41.434823
+],
+  "geometry": {"coordinates":[-87.33553499999999,41.434823],"type":"Point"}
 }

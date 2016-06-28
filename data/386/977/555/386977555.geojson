@@ -2,13 +2,14 @@
   "id": 386977555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.979887,40.171578,-84.979887,40.171578",
     "geom:latitude":40.171578,
     "geom:longitude":-84.979887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Franklin St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386977555,
-    "wof:lastmodified":1449028979,
+    "wof:lastmodified":1466502950,
     "wof:name":"Jim's Wiring & Lighting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.979887,40.171578,-84.979887,40.171578],
-  "geometry": {"coordinates":[-84.979887,40.171578],"type":"Point"}
+  "bbox": [
+    -84.979887,
+    40.171578,
+    -84.979887,
+    40.171578
+],
+  "geometry": {"coordinates":[-84.97988700000001,40.171578],"type":"Point"}
 }

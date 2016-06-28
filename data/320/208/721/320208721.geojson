@@ -2,13 +2,14 @@
   "id": 320208721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.477392,41.580083,-87.477392,41.580083",
     "geom:latitude":41.580083,
     "geom:longitude":-87.477392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7343 Knickerbocker Pkwy",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320208721,
-    "wof:lastmodified":1449011684,
+    "wof:lastmodified":1466503761,
     "wof:name":"Medlegal Research Wizard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.477392,41.580083,-87.477392,41.580083],
-  "geometry": {"coordinates":[-87.477392,41.580083],"type":"Point"}
+  "bbox": [
+    -87.477392,
+    41.580083,
+    -87.477392,
+    41.580083
+],
+  "geometry": {"coordinates":[-87.47739199999999,41.580083],"type":"Point"}
 }

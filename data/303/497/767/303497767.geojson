@@ -2,13 +2,14 @@
   "id": 303497767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.141519,39.862327,-86.141519,39.862327",
     "geom:latitude":39.862327,
     "geom:longitude":-86.141519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Kessler Blvd East Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303497767,
-    "wof:lastmodified":1449000531,
+    "wof:lastmodified":1466503719,
     "wof:name":"Dan Somers Advanced Rolfing",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "massage"
     ]
 },
-  "bbox": [-86.141519,39.862327,-86.141519,39.862327],
+  "bbox": [
+    -86.141519,
+    39.862327,
+    -86.141519,
+    39.862327
+],
   "geometry": {"coordinates":[-86.141519,39.862327],"type":"Point"}
 }

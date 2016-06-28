@@ -2,13 +2,14 @@
   "id": 387748175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.076512,39.766563,-86.076512,39.766563",
     "geom:latitude":39.766563,
     "geom:longitude":-86.076512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Downey Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387748175,
-    "wof:lastmodified":1449058961,
+    "wof:lastmodified":1466503907,
     "wof:name":"Mansur Real Estate Services",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-86.076512,39.766563,-86.076512,39.766563],
-  "geometry": {"coordinates":[-86.076512,39.766563],"type":"Point"}
+  "bbox": [
+    -86.076512,
+    39.766563,
+    -86.076512,
+    39.766563
+],
+  "geometry": {"coordinates":[-86.07651199999999,39.766563],"type":"Point"}
 }

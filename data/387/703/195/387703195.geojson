@@ -2,13 +2,14 @@
   "id": 387703195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.275647,41.177035,-87.275647,41.177035",
     "geom:latitude":41.177035,
     "geom:longitude":-87.275647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11401 N 1200 W",
     "sg:city":"Demotte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387703195,
-    "wof:lastmodified":1449057253,
+    "wof:lastmodified":1466503846,
     "wof:name":"CDC Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "conservation"
     ]
 },
-  "bbox": [-87.275647,41.177035,-87.275647,41.177035],
-  "geometry": {"coordinates":[-87.275647,41.177035],"type":"Point"}
+  "bbox": [
+    -87.275647,
+    41.177035,
+    -87.275647,
+    41.177035
+],
+  "geometry": {"coordinates":[-87.27564700000001,41.177035],"type":"Point"}
 }

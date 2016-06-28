@@ -2,13 +2,14 @@
   "id": 370245993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.68493,40.091249,-85.68493,40.091249",
     "geom:latitude":40.091249,
     "geom:longitude":-85.68493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Lincoln St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370245993,
-    "wof:lastmodified":1449032357,
+    "wof:lastmodified":1466503008,
     "wof:name":"Chapman Construction",
     "wof:parent_id":85833395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.68493,40.091249,-85.68493,40.091249],
-  "geometry": {"coordinates":[-85.68493,40.091249],"type":"Point"}
+  "bbox": [
+    -85.68493,
+    40.091249,
+    -85.68493,
+    40.091249
+],
+  "geometry": {"coordinates":[-85.68492999999999,40.091249],"type":"Point"}
 }

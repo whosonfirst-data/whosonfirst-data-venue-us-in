@@ -2,13 +2,14 @@
   "id": 353718715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.115019,39.924121,-86.115019,39.924121",
     "geom:latitude":39.924121,
     "geom:longitude":-86.115019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9595 Whitley Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353718715,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1466503208,
     "wof:name":"Christian Medical & Dental Asn",
     "wof:parent_id":85815259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.115019,39.924121,-86.115019,39.924121],
+  "bbox": [
+    -86.115019,
+    39.924121,
+    -86.115019,
+    39.924121
+],
   "geometry": {"coordinates":[-86.115019,39.924121],"type":"Point"}
 }

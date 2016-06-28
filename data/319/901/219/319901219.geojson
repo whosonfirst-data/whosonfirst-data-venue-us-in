@@ -2,13 +2,14 @@
   "id": 319901219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309371,41.341718,-86.309371,41.341718",
     "geom:latitude":41.341718,
     "geom:longitude":-86.309371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Michigan St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319901219,
-    "wof:lastmodified":1449024418,
+    "wof:lastmodified":1466503593,
     "wof:name":"Upper Cuts Hair Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.309371,41.341718,-86.309371,41.341718],
+  "bbox": [
+    -86.309371,
+    41.341718,
+    -86.309371,
+    41.341718
+],
   "geometry": {"coordinates":[-86.309371,41.341718],"type":"Point"}
 }

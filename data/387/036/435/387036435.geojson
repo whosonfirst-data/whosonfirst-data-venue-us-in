@@ -2,13 +2,14 @@
   "id": 387036435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.562036,38.033626,-87.562036,38.033626",
     "geom:latitude":38.033626,
     "geom:longitude":-87.562036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Stringtown Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387036435,
-    "wof:lastmodified":1449056957,
+    "wof:lastmodified":1466502931,
     "wof:name":"Berry Goods Jam & Treats",
     "wof:parent_id":85812503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-87.562036,38.033626,-87.562036,38.033626],
-  "geometry": {"coordinates":[-87.562036,38.033626],"type":"Point"}
+  "bbox": [
+    -87.562036,
+    38.033626,
+    -87.562036,
+    38.033626
+],
+  "geometry": {"coordinates":[-87.56203600000001,38.033626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371068329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.923855,38.382516,-86.923855,38.382516",
     "geom:latitude":38.382516,
     "geom:longitude":-86.923855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Giesler Rd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371068329,
-    "wof:lastmodified":1449049565,
+    "wof:lastmodified":1466502955,
     "wof:name":"Classical Limousine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-86.923855,38.382516,-86.923855,38.382516],
+  "bbox": [
+    -86.923855,
+    38.382516,
+    -86.923855,
+    38.382516
+],
   "geometry": {"coordinates":[-86.923855,38.382516],"type":"Point"}
 }

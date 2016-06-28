@@ -2,13 +2,14 @@
   "id": 403735721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.498828,37.991351,-87.498828,37.991351",
     "geom:latitude":37.991351,
     "geom:longitude":-87.498828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 E Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403735721,
-    "wof:lastmodified":1449055917,
+    "wof:lastmodified":1466502927,
     "wof:name":"Custom Audio Of Evansville",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-87.498828,37.991351,-87.498828,37.991351],
+  "bbox": [
+    -87.498828,
+    37.991351,
+    -87.498828,
+    37.991351
+],
   "geometry": {"coordinates":[-87.498828,37.991351],"type":"Point"}
 }

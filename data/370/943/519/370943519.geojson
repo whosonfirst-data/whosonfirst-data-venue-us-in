@@ -2,13 +2,14 @@
   "id": 370943519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148821,39.783099,-86.148821,39.783099",
     "geom:latitude":39.783099,
     "geom:longitude":-86.148821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E 12th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370943519,
-    "wof:lastmodified":1449029998,
+    "wof:lastmodified":1466503757,
     "wof:name":"Interfaith Hospitality Network",
     "wof:parent_id":85866949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-86.148821,39.783099,-86.148821,39.783099],
+  "bbox": [
+    -86.148821,
+    39.783099,
+    -86.148821,
+    39.783099
+],
   "geometry": {"coordinates":[-86.148821,39.783099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387631235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.021122,41.067295,-85.021122,41.067295",
     "geom:latitude":41.067295,
     "geom:longitude":-85.021122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 State Rd 930 E",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387631235,
-    "wof:lastmodified":1449057274,
+    "wof:lastmodified":1466503755,
     "wof:name":"Crumback-Symons Chevrolet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.021122,41.067295,-85.021122,41.067295],
-  "geometry": {"coordinates":[-85.021122,41.067295],"type":"Point"}
+  "bbox": [
+    -85.021122,
+    41.067295,
+    -85.021122,
+    41.067295
+],
+  "geometry": {"coordinates":[-85.02112200000001,41.067295],"type":"Point"}
 }

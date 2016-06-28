@@ -2,13 +2,14 @@
   "id": 387889143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.125474,39.840296,-86.125474,39.840296",
     "geom:latitude":39.840296,
     "geom:longitude":-86.125474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 E 46th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387889143,
-    "wof:lastmodified":1449056044,
+    "wof:lastmodified":1466504110,
     "wof:name":"Nur-Allah Islamic Ctr",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mosque"
     ]
 },
-  "bbox": [-86.125474,39.840296,-86.125474,39.840296],
+  "bbox": [
+    -86.125474,
+    39.840296,
+    -86.125474,
+    39.840296
+],
   "geometry": {"coordinates":[-86.125474,39.840296],"type":"Point"}
 }

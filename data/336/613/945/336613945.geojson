@@ -2,13 +2,14 @@
   "id": 336613945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122177,38.207437,-86.122177,38.207437",
     "geom:latitude":38.207437,
     "geom:longitude":-86.122177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Atwood St",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336613945,
-    "wof:lastmodified":1448997451,
+    "wof:lastmodified":1466502902,
     "wof:name":"Harrison Family Medicine",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.122177,38.207437,-86.122177,38.207437],
-  "geometry": {"coordinates":[-86.122177,38.207437],"type":"Point"}
+  "bbox": [
+    -86.122177,
+    38.207437,
+    -86.122177,
+    38.207437
+],
+  "geometry": {"coordinates":[-86.12217699999999,38.207437],"type":"Point"}
 }

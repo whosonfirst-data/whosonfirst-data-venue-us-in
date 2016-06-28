@@ -2,13 +2,14 @@
   "id": 319871531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.756344,39.519998,-85.756344,39.519998",
     "geom:latitude":39.519998,
     "geom:longitude":-85.756344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 E State Rd 44",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319871531,
-    "wof:lastmodified":1449024325,
+    "wof:lastmodified":1466503581,
     "wof:name":"A 1 Back Pain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.756344,39.519998,-85.756344,39.519998],
+  "bbox": [
+    -85.756344,
+    39.519998,
+    -85.756344,
+    39.519998
+],
   "geometry": {"coordinates":[-85.756344,39.519998],"type":"Point"}
 }

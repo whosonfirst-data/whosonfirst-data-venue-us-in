@@ -2,13 +2,14 @@
   "id": 371121479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.149032,39.716272,-86.149032,39.716272",
     "geom:latitude":39.716272,
     "geom:longitude":-86.149032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371121479,
-    "wof:lastmodified":1449049853,
+    "wof:lastmodified":1466503024,
     "wof:name":"Big Donut Store",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-86.149032,39.716272,-86.149032,39.716272],
-  "geometry": {"coordinates":[-86.149032,39.716272],"type":"Point"}
+  "bbox": [
+    -86.149032,
+    39.716272,
+    -86.149032,
+    39.716272
+],
+  "geometry": {"coordinates":[-86.14903200000001,39.716272],"type":"Point"}
 }

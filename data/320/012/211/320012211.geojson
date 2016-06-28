@@ -2,13 +2,14 @@
   "id": 320012211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122098,39.853814,-86.122098,39.853814",
     "geom:latitude":39.853814,
     "geom:longitude":-86.122098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320012211,
-    "wof:lastmodified":1449014587,
+    "wof:lastmodified":1466503660,
     "wof:name":"Jerry Alderman Ford Inc",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.122098,39.853814,-86.122098,39.853814],
-  "geometry": {"coordinates":[-86.122098,39.853814],"type":"Point"}
+  "bbox": [
+    -86.122098,
+    39.853814,
+    -86.122098,
+    39.853814
+],
+  "geometry": {"coordinates":[-86.12209799999999,39.853814],"type":"Point"}
 }

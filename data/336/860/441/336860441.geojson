@@ -2,13 +2,14 @@
   "id": 336860441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.150188,41.140324,-86.150188,41.140324",
     "geom:latitude":41.140324,
     "geom:longitude":-86.150188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5831 N State Rd 25",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336860441,
-    "wof:lastmodified":1448997428,
+    "wof:lastmodified":1466503225,
     "wof:name":"Snipes Mobile Feed Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "custom"
     ]
 },
-  "bbox": [-86.150188,41.140324,-86.150188,41.140324],
+  "bbox": [
+    -86.150188,
+    41.140324,
+    -86.150188,
+    41.140324
+],
   "geometry": {"coordinates":[-86.150188,41.140324],"type":"Point"}
 }

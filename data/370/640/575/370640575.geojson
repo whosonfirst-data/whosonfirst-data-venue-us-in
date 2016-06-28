@@ -2,13 +2,14 @@
   "id": 370640575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.200041,41.318661,-87.200041,41.318661",
     "geom:latitude":41.318661,
     "geom:longitude":-87.200041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Main St",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370640575,
-    "wof:lastmodified":1449030559,
+    "wof:lastmodified":1466503435,
     "wof:name":"Shades of Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.200041,41.318661,-87.200041,41.318661],
+  "bbox": [
+    -87.200041,
+    41.318661,
+    -87.200041,
+    41.318661
+],
   "geometry": {"coordinates":[-87.200041,41.318661],"type":"Point"}
 }

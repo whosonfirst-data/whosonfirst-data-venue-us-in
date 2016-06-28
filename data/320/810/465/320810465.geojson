@@ -2,13 +2,14 @@
   "id": 320810465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.097938,38.595546,-86.097938,38.595546",
     "geom:latitude":38.595546,
     "geom:longitude":-86.097938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Grandview Dr",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320810465,
-    "wof:lastmodified":1449012346,
+    "wof:lastmodified":1466503519,
     "wof:name":"J Robert Agan DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.097938,38.595546,-86.097938,38.595546],
+  "bbox": [
+    -86.097938,
+    38.595546,
+    -86.097938,
+    38.595546
+],
   "geometry": {"coordinates":[-86.097938,38.595546],"type":"Point"}
 }

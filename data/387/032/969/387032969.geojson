@@ -2,13 +2,14 @@
   "id": 387032969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.892021,40.419073,-86.892021,40.419073",
     "geom:latitude":40.419073,
     "geom:longitude":-86.892021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387032969,
-    "wof:lastmodified":1449057968,
+    "wof:lastmodified":1466502922,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-86.892021,40.419073,-86.892021,40.419073],
+  "bbox": [
+    -86.892021,
+    40.419073,
+    -86.892021,
+    40.419073
+],
   "geometry": {"coordinates":[-86.892021,40.419073],"type":"Point"}
 }

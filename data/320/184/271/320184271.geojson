@@ -2,13 +2,14 @@
   "id": 320184271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.386967,39.506795,-87.386967,39.506795",
     "geom:latitude":39.506795,
     "geom:longitude":-87.386967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2060 Lafayette Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320184271,
-    "wof:lastmodified":1449011891,
+    "wof:lastmodified":1466503749,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-87.386967,39.506795,-87.386967,39.506795],
+  "bbox": [
+    -87.386967,
+    39.506795,
+    -87.386967,
+    39.506795
+],
   "geometry": {"coordinates":[-87.386967,39.506795],"type":"Point"}
 }

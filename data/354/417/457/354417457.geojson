@@ -2,13 +2,14 @@
   "id": 354417457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261217,39.950747,-86.261217,39.950747",
     "geom:latitude":39.950747,
     "geom:longitude":-86.261217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 E Oak St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354417457,
-    "wof:lastmodified":1449066616,
+    "wof:lastmodified":1466503477,
     "wof:name":"Chris Atkinson Law Office",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.261217,39.950747,-86.261217,39.950747],
+  "bbox": [
+    -86.261217,
+    39.950747,
+    -86.261217,
+    39.950747
+],
   "geometry": {"coordinates":[-86.261217,39.950747],"type":"Point"}
 }

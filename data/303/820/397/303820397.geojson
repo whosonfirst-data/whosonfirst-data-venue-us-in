@@ -2,13 +2,14 @@
   "id": 303820397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966339,41.711539,-85.966339,41.711539",
     "geom:latitude":41.711539,
     "geom:longitude":-85.966339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53905 Co Rd 9",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303820397,
-    "wof:lastmodified":1448999382,
+    "wof:lastmodified":1466503129,
     "wof:name":"Martin Marketing Specialties",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-85.966339,41.711539,-85.966339,41.711539],
+  "bbox": [
+    -85.966339,
+    41.711539,
+    -85.966339,
+    41.711539
+],
   "geometry": {"coordinates":[-85.966339,41.711539],"type":"Point"}
 }

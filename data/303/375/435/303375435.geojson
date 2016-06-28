@@ -2,13 +2,14 @@
   "id": 303375435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.497666,39.156271,-86.497666,39.156271",
     "geom:latitude":39.156271,
     "geom:longitude":-86.497666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 S College Mall Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303375435,
-    "wof:lastmodified":1448998204,
+    "wof:lastmodified":1466503647,
     "wof:name":"Nail Studio",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-86.497666,39.156271,-86.497666,39.156271],
+  "bbox": [
+    -86.497666,
+    39.156271,
+    -86.497666,
+    39.156271
+],
   "geometry": {"coordinates":[-86.497666,39.156271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404011231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.482646,38.713946,-85.482646,38.713946",
     "geom:latitude":38.713946,
     "geom:longitude":-85.482646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 W Lagrange Rd",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404011231,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466502897,
     "wof:name":"A To Z Party Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.482646,38.713946,-85.482646,38.713946],
+  "bbox": [
+    -85.482646,
+    38.713946,
+    -85.482646,
+    38.713946
+],
   "geometry": {"coordinates":[-85.482646,38.713946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320555733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.221321,41.073835,-85.221321,41.073835",
     "geom:latitude":41.073835,
     "geom:longitude":-85.221321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1833 Magnavox Way",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320555733,
-    "wof:lastmodified":1449014441,
+    "wof:lastmodified":1466503250,
     "wof:name":"H R America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-85.221321,41.073835,-85.221321,41.073835],
+  "bbox": [
+    -85.221321,
+    41.073835,
+    -85.221321,
+    41.073835
+],
   "geometry": {"coordinates":[-85.221321,41.073835],"type":"Point"}
 }

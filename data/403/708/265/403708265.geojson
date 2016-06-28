@@ -2,13 +2,14 @@
   "id": 403708265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046129,39.882549,-86.046129,39.882549",
     "geom:latitude":39.882549,
     "geom:longitude":-86.046129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7098 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403708265,
-    "wof:lastmodified":1449054842,
+    "wof:lastmodified":1466502893,
     "wof:name":"Midwest Security Direct",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.046129,39.882549,-86.046129,39.882549],
-  "geometry": {"coordinates":[-86.046129,39.882549],"type":"Point"}
+  "bbox": [
+    -86.046129,
+    39.882549,
+    -86.046129,
+    39.882549
+],
+  "geometry": {"coordinates":[-86.04612899999999,39.882549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303452639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.756176,38.332643,-85.756176,38.332643",
     "geom:latitude":38.332643,
     "geom:longitude":-85.756176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 Koetter Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303452639,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1466503687,
     "wof:name":"C M T Transportation Svcs Inc",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-85.756176,38.332643,-85.756176,38.332643],
+  "bbox": [
+    -85.756176,
+    38.332643,
+    -85.756176,
+    38.332643
+],
   "geometry": {"coordinates":[-85.756176,38.332643],"type":"Point"}
 }

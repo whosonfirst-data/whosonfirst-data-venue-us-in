@@ -2,13 +2,14 @@
   "id": 387173509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.873311,40.579955,-85.873311,40.579955",
     "geom:latitude":40.579955,
     "geom:longitude":-85.873311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Jefferson St",
     "sg:city":"Converse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387173509,
-    "wof:lastmodified":1449056831,
+    "wof:lastmodified":1466503129,
     "wof:name":"Graham Ford Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.873311,40.579955,-85.873311,40.579955],
+  "bbox": [
+    -85.873311,
+    40.579955,
+    -85.873311,
+    40.579955
+],
   "geometry": {"coordinates":[-85.873311,40.579955],"type":"Point"}
 }

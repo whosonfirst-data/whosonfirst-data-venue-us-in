@@ -2,13 +2,14 @@
   "id": 320271247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064814,40.747942,-86.064814,40.747942",
     "geom:latitude":40.747942,
     "geom:longitude":-86.064814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Warren St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320271247,
-    "wof:lastmodified":1449013216,
+    "wof:lastmodified":1466502883,
     "wof:name":"First Untd Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.064814,40.747942,-86.064814,40.747942],
+  "bbox": [
+    -86.064814,
+    40.747942,
+    -86.064814,
+    40.747942
+],
   "geometry": {"coordinates":[-86.064814,40.747942],"type":"Point"}
 }

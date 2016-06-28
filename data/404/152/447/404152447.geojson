@@ -2,13 +2,14 @@
   "id": 404152447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.294085,40.174812,-85.294085,40.174812",
     "geom:latitude":40.174812,
     "geom:longitude":-85.294085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 E Smithfield Pike",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404152447,
-    "wof:lastmodified":1449040015,
+    "wof:lastmodified":1466503092,
     "wof:name":"Tim Herd",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lessor"
     ]
 },
-  "bbox": [-85.294085,40.174812,-85.294085,40.174812],
+  "bbox": [
+    -85.294085,
+    40.174812,
+    -85.294085,
+    40.174812
+],
   "geometry": {"coordinates":[-85.294085,40.174812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387331575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.861489,40.376895,-86.861489,40.376895",
     "geom:latitude":40.376895,
     "geom:longitude":-86.861489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Olympia Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387331575,
-    "wof:lastmodified":1449058417,
+    "wof:lastmodified":1466503346,
     "wof:name":"Auto Analysis",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.861489,40.376895,-86.861489,40.376895],
-  "geometry": {"coordinates":[-86.861489,40.376895],"type":"Point"}
+  "bbox": [
+    -86.861489,
+    40.376895,
+    -86.861489,
+    40.376895
+],
+  "geometry": {"coordinates":[-86.86148900000001,40.376895],"type":"Point"}
 }

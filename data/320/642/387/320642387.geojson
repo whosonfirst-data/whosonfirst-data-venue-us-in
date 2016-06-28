@@ -2,13 +2,14 @@
   "id": 320642387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.178322,39.179587,-85.178322,39.179587",
     "geom:latitude":39.179587,
     "geom:longitude":-85.178322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7125 N Old Milan Rd",
     "sg:city":"Sunman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320642387,
-    "wof:lastmodified":1449011472,
+    "wof:lastmodified":1466503348,
     "wof:name":"Burdette Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.178322,39.179587,-85.178322,39.179587],
-  "geometry": {"coordinates":[-85.178322,39.179587],"type":"Point"}
+  "bbox": [
+    -85.178322,
+    39.179587,
+    -85.178322,
+    39.179587
+],
+  "geometry": {"coordinates":[-85.17832199999999,39.179587],"type":"Point"}
 }

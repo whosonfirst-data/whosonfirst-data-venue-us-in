@@ -2,13 +2,14 @@
   "id": 336794635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.334639,41.59859,-87.334639,41.59859",
     "geom:latitude":41.59859,
     "geom:longitude":-87.334639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Connecticut St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336794635,
-    "wof:lastmodified":1448997468,
+    "wof:lastmodified":1466503136,
     "wof:name":"Apprenticeship and Training",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "local"
     ]
 },
-  "bbox": [-87.334639,41.59859,-87.334639,41.59859],
+  "bbox": [
+    -87.334639,
+    41.59859,
+    -87.334639,
+    41.59859
+],
   "geometry": {"coordinates":[-87.334639,41.59859],"type":"Point"}
 }

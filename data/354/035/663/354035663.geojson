@@ -2,13 +2,14 @@
   "id": 354035663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.121178,41.588901,-87.121178,41.588901",
     "geom:latitude":41.588901,
     "geom:longitude":-87.121178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 Tower St",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354035663,
-    "wof:lastmodified":1449067315,
+    "wof:lastmodified":1466502921,
     "wof:name":"CCS Canopies Rental & Sales",
     "wof:parent_id":85812965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.121178,41.588901,-87.121178,41.588901],
+  "bbox": [
+    -87.121178,
+    41.588901,
+    -87.121178,
+    41.588901
+],
   "geometry": {"coordinates":[-87.121178,41.588901],"type":"Point"}
 }

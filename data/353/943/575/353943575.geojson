@@ -2,13 +2,14 @@
   "id": 353943575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.352505,40.769859,-86.352505,40.769859",
     "geom:latitude":40.769859,
     "geom:longitude":-86.352505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Chase Park",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353943575,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1466503487,
     "wof:name":"Roeing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.352505,40.769859,-86.352505,40.769859],
-  "geometry": {"coordinates":[-86.352505,40.769859],"type":"Point"}
+  "bbox": [
+    -86.352505,
+    40.769859,
+    -86.352505,
+    40.769859
+],
+  "geometry": {"coordinates":[-86.35250499999999,40.769859],"type":"Point"}
 }

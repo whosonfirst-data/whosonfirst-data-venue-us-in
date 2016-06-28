@@ -2,13 +2,14 @@
   "id": 403976371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.383494,37.970922,-87.383494,37.970922",
     "geom:latitude":37.970922,
     "geom:longitude":-87.383494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 Meadowbrook Ln",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403976371,
-    "wof:lastmodified":1449055178,
+    "wof:lastmodified":1466503274,
     "wof:name":"Joseph S James DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.383494,37.970922,-87.383494,37.970922],
+  "bbox": [
+    -87.383494,
+    37.970922,
+    -87.383494,
+    37.970922
+],
   "geometry": {"coordinates":[-87.383494,37.970922],"type":"Point"}
 }

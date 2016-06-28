@@ -2,13 +2,14 @@
   "id": 387660061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.771981,40.285264,-86.771981,40.285264",
     "geom:latitude":40.285264,
     "geom:longitude":-86.771981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6931 Church St",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387660061,
-    "wof:lastmodified":1449059521,
+    "wof:lastmodified":1466503798,
     "wof:name":"Stockwell United Methodist Chr",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-86.771981,40.285264,-86.771981,40.285264],
+  "bbox": [
+    -86.771981,
+    40.285264,
+    -86.771981,
+    40.285264
+],
   "geometry": {"coordinates":[-86.771981,40.285264],"type":"Point"}
 }

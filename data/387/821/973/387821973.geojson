@@ -2,13 +2,14 @@
   "id": 387821973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.209495,41.271155,-85.209495,41.271155",
     "geom:latitude":41.271155,
     "geom:longitude":-85.209495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11022 E 550 S",
     "sg:city":"Laotto",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387821973,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1466504016,
     "wof:name":"Wing & Preyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.209495,41.271155,-85.209495,41.271155],
+  "bbox": [
+    -85.209495,
+    41.271155,
+    -85.209495,
+    41.271155
+],
   "geometry": {"coordinates":[-85.209495,41.271155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370971381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281118,39.823361,-86.281118,39.823361",
     "geom:latitude":39.823361,
     "geom:longitude":-86.281118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6985 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370971381,
-    "wof:lastmodified":1449030792,
+    "wof:lastmodified":1466503792,
     "wof:name":"Ossip Optometry",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281118,39.823361,-86.281118,39.823361],
-  "geometry": {"coordinates":[-86.281118,39.823361],"type":"Point"}
+  "bbox": [
+    -86.281118,
+    39.823361,
+    -86.281118,
+    39.823361
+],
+  "geometry": {"coordinates":[-86.28111800000001,39.823361],"type":"Point"}
 }

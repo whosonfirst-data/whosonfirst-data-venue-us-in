@@ -2,13 +2,14 @@
   "id": 303746061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.365743,39.627341,-86.365743,39.627341",
     "geom:latitude":39.627341,
     "geom:longitude":-86.365743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Indianapolis Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303746061,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466503037,
     "wof:name":"Marion Adams Floor Covering",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-86.365743,39.627341,-86.365743,39.627341],
-  "geometry": {"coordinates":[-86.365743,39.627341],"type":"Point"}
+  "bbox": [
+    -86.365743,
+    39.627341,
+    -86.365743,
+    39.627341
+],
+  "geometry": {"coordinates":[-86.36574299999999,39.627341],"type":"Point"}
 }

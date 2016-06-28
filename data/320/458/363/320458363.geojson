@@ -2,13 +2,14 @@
   "id": 320458363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.856621,41.23802,-85.856621,41.23802",
     "geom:latitude":41.23802,
     "geom:longitude":-85.856621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Center St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320458363,
-    "wof:lastmodified":1449013920,
+    "wof:lastmodified":1466503131,
     "wof:name":"Le Gourmet Chocolate Shoppee",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-85.856621,41.23802,-85.856621,41.23802],
+  "bbox": [
+    -85.856621,
+    41.23802,
+    -85.856621,
+    41.23802
+],
   "geometry": {"coordinates":[-85.856621,41.23802],"type":"Point"}
 }

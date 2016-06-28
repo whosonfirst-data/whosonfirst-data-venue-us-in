@@ -2,13 +2,14 @@
   "id": 303917605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.763019,41.00571,-85.763019,41.00571",
     "geom:latitude":41.00571,
     "geom:longitude":-85.763019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Bond St",
     "sg:city":"North Manchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303917605,
-    "wof:lastmodified":1449000241,
+    "wof:lastmodified":1466503262,
     "wof:name":"Mental Health Assn-Wabash Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-85.763019,41.00571,-85.763019,41.00571],
+  "bbox": [
+    -85.763019,
+    41.00571,
+    -85.763019,
+    41.00571
+],
   "geometry": {"coordinates":[-85.763019,41.00571],"type":"Point"}
 }

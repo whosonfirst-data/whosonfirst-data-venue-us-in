@@ -2,13 +2,14 @@
   "id": 387084625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.908098,40.431408,-86.908098,40.431408",
     "geom:latitude":40.431408,
     "geom:longitude":-86.908098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Vine St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387084625,
-    "wof:lastmodified":1449056523,
+    "wof:lastmodified":1466503005,
     "wof:name":"Biomash LLC",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biomedical"
     ]
 },
-  "bbox": [-86.908098,40.431408,-86.908098,40.431408],
+  "bbox": [
+    -86.908098,
+    40.431408,
+    -86.908098,
+    40.431408
+],
   "geometry": {"coordinates":[-86.908098,40.431408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370705737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.908125,40.064926,-86.908125,40.064926",
     "geom:latitude":40.064926,
     "geom:longitude":-86.908125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Lafayette Ave",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370705737,
-    "wof:lastmodified":1449032491,
+    "wof:lastmodified":1466503495,
     "wof:name":"Athens Orthopedic & Sports Med",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.908125,40.064926,-86.908125,40.064926],
+  "bbox": [
+    -86.908125,
+    40.064926,
+    -86.908125,
+    40.064926
+],
   "geometry": {"coordinates":[-86.908125,40.064926],"type":"Point"}
 }

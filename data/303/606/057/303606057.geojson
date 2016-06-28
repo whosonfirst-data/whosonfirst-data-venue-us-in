@@ -2,13 +2,14 @@
   "id": 303606057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.083541,39.781444,-86.083541,39.781444",
     "geom:latitude":39.781444,
     "geom:longitude":-86.083541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 E 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303606057,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466503823,
     "wof:name":"Hardened Enterprises",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.083541,39.781444,-86.083541,39.781444],
+  "bbox": [
+    -86.083541,
+    39.781444,
+    -86.083541,
+    39.781444
+],
   "geometry": {"coordinates":[-86.083541,39.781444],"type":"Point"}
 }

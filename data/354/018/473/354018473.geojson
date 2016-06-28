@@ -2,13 +2,14 @@
   "id": 354018473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.921038,39.203322,-85.921038,39.203322",
     "geom:latitude":39.203322,
     "geom:longitude":-85.921038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Washington St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354018473,
-    "wof:lastmodified":1449066775,
+    "wof:lastmodified":1466502904,
     "wof:name":"SIHO",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-85.921038,39.203322,-85.921038,39.203322],
+  "bbox": [
+    -85.921038,
+    39.203322,
+    -85.921038,
+    39.203322
+],
   "geometry": {"coordinates":[-85.921038,39.203322],"type":"Point"}
 }

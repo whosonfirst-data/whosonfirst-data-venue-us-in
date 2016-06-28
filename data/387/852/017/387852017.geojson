@@ -2,13 +2,14 @@
   "id": 387852017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533494,39.171414,-86.533494,39.171414",
     "geom:latitude":39.171414,
     "geom:longitude":-86.533494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387852017,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466504057,
     "wof:name":"Barrett & Assoc",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.533494,39.171414,-86.533494,39.171414],
+  "bbox": [
+    -86.533494,
+    39.171414,
+    -86.533494,
+    39.171414
+],
   "geometry": {"coordinates":[-86.533494,39.171414],"type":"Point"}
 }

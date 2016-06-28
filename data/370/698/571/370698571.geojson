@@ -2,13 +2,14 @@
   "id": 370698571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.255293,39.727719,-86.255293,39.727719",
     "geom:latitude":39.727719,
     "geom:longitude":-86.255293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Fortune Cir E",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370698571,
-    "wof:lastmodified":1449032261,
+    "wof:lastmodified":1466503490,
     "wof:name":"Bituminous Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.255293,39.727719,-86.255293,39.727719],
-  "geometry": {"coordinates":[-86.255293,39.727719],"type":"Point"}
+  "bbox": [
+    -86.255293,
+    39.727719,
+    -86.255293,
+    39.727719
+],
+  "geometry": {"coordinates":[-86.25529299999999,39.727719],"type":"Point"}
 }

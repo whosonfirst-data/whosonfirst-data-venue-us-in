@@ -2,13 +2,14 @@
   "id": 303913247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.392743,39.468662,-87.392743,39.468662",
     "geom:latitude":39.468662,
     "geom:longitude":-87.392743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1472 Wabash Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303913247,
-    "wof:lastmodified":1448999064,
+    "wof:lastmodified":1466503254,
     "wof:name":"Cellular Telephone Ctr",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.392743,39.468662,-87.392743,39.468662],
+  "bbox": [
+    -87.392743,
+    39.468662,
+    -87.392743,
+    39.468662
+],
   "geometry": {"coordinates":[-87.392743,39.468662],"type":"Point"}
 }

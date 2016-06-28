@@ -2,13 +2,14 @@
   "id": 354046395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046407,40.111955,-86.046407,40.111955",
     "geom:latitude":40.111955,
     "geom:longitude":-86.046407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Forest Bay Ln",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354046395,
-    "wof:lastmodified":1449066887,
+    "wof:lastmodified":1466502935,
     "wof:name":"Janice Heffelmire Interior Des",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-86.046407,40.111955,-86.046407,40.111955],
+  "bbox": [
+    -86.046407,
+    40.111955,
+    -86.046407,
+    40.111955
+],
   "geometry": {"coordinates":[-86.046407,40.111955],"type":"Point"}
 }

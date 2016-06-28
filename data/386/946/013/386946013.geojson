@@ -2,13 +2,14 @@
   "id": 386946013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.187748,41.088812,-85.187748,41.088812",
     "geom:latitude":41.088812,
     "geom:longitude":-85.187748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Leesburg Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386946013,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1466502903,
     "wof:name":"Back Country Motorsports",
     "wof:parent_id":85837701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-85.187748,41.088812,-85.187748,41.088812],
+  "bbox": [
+    -85.187748,
+    41.088812,
+    -85.187748,
+    41.088812
+],
   "geometry": {"coordinates":[-85.187748,41.088812],"type":"Point"}
 }

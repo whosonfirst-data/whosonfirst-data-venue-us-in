@@ -2,13 +2,14 @@
   "id": 387211549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.154524,39.767438,-86.154524,39.767438",
     "geom:latitude":39.767438,
     "geom:longitude":-86.154524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Delaware St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387211549,
-    "wof:lastmodified":1449057041,
+    "wof:lastmodified":1466503185,
     "wof:name":"Legal Beagle",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.154524,39.767438,-86.154524,39.767438],
-  "geometry": {"coordinates":[-86.154524,39.767438],"type":"Point"}
+  "bbox": [
+    -86.154524,
+    39.767438,
+    -86.154524,
+    39.767438
+],
+  "geometry": {"coordinates":[-86.15452399999999,39.767438],"type":"Point"}
 }

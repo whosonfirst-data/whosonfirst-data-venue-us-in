@@ -2,13 +2,14 @@
   "id": 303979255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.867537,40.419618,-86.867537,40.419618",
     "geom:latitude":40.419618,
     "geom:longitude":-86.867537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N 26th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303979255,
-    "wof:lastmodified":1448999840,
+    "wof:lastmodified":1466503358,
     "wof:name":"Accustat Medical Lab Inc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-86.867537,40.419618,-86.867537,40.419618],
+  "bbox": [
+    -86.867537,
+    40.419618,
+    -86.867537,
+    40.419618
+],
   "geometry": {"coordinates":[-86.867537,40.419618],"type":"Point"}
 }

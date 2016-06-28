@@ -2,13 +2,14 @@
   "id": 387085943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.444224,41.333507,-86.444224,41.333507",
     "geom:latitude":41.333507,
     "geom:longitude":-86.444224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9601 Union Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387085943,
-    "wof:lastmodified":1449057056,
+    "wof:lastmodified":1466503008,
     "wof:name":"Ancilla Domini Convent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "convent"
     ]
 },
-  "bbox": [-86.444224,41.333507,-86.444224,41.333507],
-  "geometry": {"coordinates":[-86.444224,41.333507],"type":"Point"}
+  "bbox": [
+    -86.444224,
+    41.333507,
+    -86.444224,
+    41.333507
+],
+  "geometry": {"coordinates":[-86.44422400000001,41.333507],"type":"Point"}
 }

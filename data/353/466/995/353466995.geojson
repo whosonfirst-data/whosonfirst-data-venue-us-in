@@ -2,13 +2,14 @@
   "id": 353466995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.894248,41.69881,-86.894248,41.69881",
     "geom:latitude":41.69881,
     "geom:longitude":-86.894248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353466995,
-    "wof:lastmodified":1449019026,
+    "wof:lastmodified":1466502923,
     "wof:name":"Quality TV Sales Svc & Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-86.894248,41.69881,-86.894248,41.69881],
+  "bbox": [
+    -86.894248,
+    41.69881,
+    -86.894248,
+    41.69881
+],
   "geometry": {"coordinates":[-86.894248,41.69881],"type":"Point"}
 }

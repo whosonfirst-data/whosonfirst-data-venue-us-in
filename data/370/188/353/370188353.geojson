@@ -2,13 +2,14 @@
   "id": 370188353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930891,38.391068,-86.930891,38.391068",
     "geom:latitude":38.391068,
     "geom:longitude":-86.930891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Main St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370188353,
-    "wof:lastmodified":1449030755,
+    "wof:lastmodified":1466502937,
     "wof:name":"Ragpickers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.930891,38.391068,-86.930891,38.391068],
+  "bbox": [
+    -86.930891,
+    38.391068,
+    -86.930891,
+    38.391068
+],
   "geometry": {"coordinates":[-86.930891,38.391068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303966969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843719,40.417651,-86.843719,40.417651",
     "geom:latitude":40.417651,
     "geom:longitude":-86.843719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Executive Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303966969,
-    "wof:lastmodified":1448998133,
+    "wof:lastmodified":1466503335,
     "wof:name":"Grant Communications",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-86.843719,40.417651,-86.843719,40.417651],
-  "geometry": {"coordinates":[-86.843719,40.417651],"type":"Point"}
+  "bbox": [
+    -86.843719,
+    40.417651,
+    -86.843719,
+    40.417651
+],
+  "geometry": {"coordinates":[-86.84371899999999,40.417651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404054337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.79711,41.557577,-85.79711,41.557577",
     "geom:latitude":41.557577,
     "geom:longitude":-85.79711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Eisenhower Dr N",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404054337,
-    "wof:lastmodified":1449039575,
+    "wof:lastmodified":1466502954,
     "wof:name":"Zebell's Heating & Air Cond",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.79711,41.557577,-85.79711,41.557577],
+  "bbox": [
+    -85.79711,
+    41.557577,
+    -85.79711,
+    41.557577
+],
   "geometry": {"coordinates":[-85.79711,41.557577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320579431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.853488,39.097176,-84.853488,39.097176",
     "geom:latitude":39.097176,
     "geom:longitude":-84.853488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 W Eads Pkwy",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320579431,
-    "wof:lastmodified":1449012459,
+    "wof:lastmodified":1466503280,
     "wof:name":"Gerken Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-84.853488,39.097176,-84.853488,39.097176],
+  "bbox": [
+    -84.853488,
+    39.097176,
+    -84.853488,
+    39.097176
+],
   "geometry": {"coordinates":[-84.853488,39.097176],"type":"Point"}
 }

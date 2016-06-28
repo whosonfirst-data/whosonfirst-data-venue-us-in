@@ -2,13 +2,14 @@
   "id": 387438243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.186329,41.191727,-85.186329,41.191727",
     "geom:latitude":41.191727,
     "geom:longitude":-85.186329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 Carroll Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387438243,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1466503495,
     "wof:name":"Shiloh Hall",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-85.186329,41.191727,-85.186329,41.191727],
+  "bbox": [
+    -85.186329,
+    41.191727,
+    -85.186329,
+    41.191727
+],
   "geometry": {"coordinates":[-85.186329,41.191727],"type":"Point"}
 }

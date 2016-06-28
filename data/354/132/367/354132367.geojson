@@ -2,13 +2,14 @@
   "id": 354132367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.510501,39.04507,-85.510501,39.04507",
     "geom:latitude":39.04507,
     "geom:longitude":-85.510501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5480 E Co Rd 400 N",
     "sg:city":"Butlerville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354132367,
-    "wof:lastmodified":1449066746,
+    "wof:lastmodified":1466503035,
     "wof:name":"Brush Creek Park Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-85.510501,39.04507,-85.510501,39.04507],
+  "bbox": [
+    -85.510501,
+    39.04507,
+    -85.510501,
+    39.04507
+],
   "geometry": {"coordinates":[-85.510501,39.04507],"type":"Point"}
 }

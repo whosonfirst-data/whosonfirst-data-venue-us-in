@@ -2,13 +2,14 @@
   "id": 303494797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578443,38.037762,-87.578443,38.037762",
     "geom:latitude":38.037762,
     "geom:longitude":-87.578443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Kratzville Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303494797,
-    "wof:lastmodified":1449000301,
+    "wof:lastmodified":1466503716,
     "wof:name":"Dauby Properties Investment",
     "wof:parent_id":85812503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-87.578443,38.037762,-87.578443,38.037762],
-  "geometry": {"coordinates":[-87.578443,38.037762],"type":"Point"}
+  "bbox": [
+    -87.578443,
+    38.037762,
+    -87.578443,
+    38.037762
+],
+  "geometry": {"coordinates":[-87.57844299999999,38.037762],"type":"Point"}
 }

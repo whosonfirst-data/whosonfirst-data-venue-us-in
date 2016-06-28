@@ -2,13 +2,14 @@
   "id": 371176607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.713257,38.356316,-85.713257,38.356316",
     "geom:latitude":38.356316,
     "geom:longitude":-85.713257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 Charlestown Pike",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371176607,
-    "wof:lastmodified":1449049743,
+    "wof:lastmodified":1466503100,
     "wof:name":"Seal-Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.713257,38.356316,-85.713257,38.356316],
+  "bbox": [
+    -85.713257,
+    38.356316,
+    -85.713257,
+    38.356316
+],
   "geometry": {"coordinates":[-85.713257,38.356316],"type":"Point"}
 }

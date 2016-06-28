@@ -2,13 +2,14 @@
   "id": 320549771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.112332,41.142993,-85.112332,41.142993",
     "geom:latitude":41.142993,
     "geom:longitude":-85.112332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Parkland Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320549771,
-    "wof:lastmodified":1449012284,
+    "wof:lastmodified":1466503240,
     "wof:name":"Starke Lawns & Evergreens",
     "wof:parent_id":85812925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.112332,41.142993,-85.112332,41.142993],
-  "geometry": {"coordinates":[-85.112332,41.142993],"type":"Point"}
+  "bbox": [
+    -85.112332,
+    41.142993,
+    -85.112332,
+    41.142993
+],
+  "geometry": {"coordinates":[-85.11233199999999,41.142993],"type":"Point"}
 }

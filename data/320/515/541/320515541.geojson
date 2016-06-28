@@ -2,13 +2,14 @@
   "id": 320515541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.284703,39.885999,-86.284703,39.885999",
     "geom:latitude":39.885999,
     "geom:longitude":-86.284703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7033 Dior Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320515541,
-    "wof:lastmodified":1449012127,
+    "wof:lastmodified":1466503193,
     "wof:name":"Guyinn Realty Inc",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.284703,39.885999,-86.284703,39.885999],
-  "geometry": {"coordinates":[-86.284703,39.885999],"type":"Point"}
+  "bbox": [
+    -86.284703,
+    39.885999,
+    -86.284703,
+    39.885999
+],
+  "geometry": {"coordinates":[-86.28470299999999,39.885999],"type":"Point"}
 }

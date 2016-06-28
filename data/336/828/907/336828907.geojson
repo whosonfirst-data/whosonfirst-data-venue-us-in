@@ -2,13 +2,14 @@
   "id": 336828907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.106826,39.923211,-86.106826,39.923211",
     "geom:latitude":39.923211,
     "geom:longitude":-86.106826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9320 Priority Way West Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336828907,
-    "wof:lastmodified":1448997502,
+    "wof:lastmodified":1466503188,
     "wof:name":"Sheridan & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-86.106826,39.923211,-86.106826,39.923211],
+  "bbox": [
+    -86.106826,
+    39.923211,
+    -86.106826,
+    39.923211
+],
   "geometry": {"coordinates":[-86.106826,39.923211],"type":"Point"}
 }

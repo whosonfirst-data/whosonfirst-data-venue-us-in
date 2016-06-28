@@ -2,13 +2,14 @@
   "id": 387629049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.227969,39.911549,-86.227969,39.911549",
     "geom:latitude":39.911549,
     "geom:longitude":-86.227969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387629049,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1466503752,
     "wof:name":"National Interfraternity Conf",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.227969,39.911549,-86.227969,39.911549],
+  "bbox": [
+    -86.227969,
+    39.911549,
+    -86.227969,
+    39.911549
+],
   "geometry": {"coordinates":[-86.227969,39.911549],"type":"Point"}
 }

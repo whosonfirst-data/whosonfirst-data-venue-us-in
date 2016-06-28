@@ -2,13 +2,14 @@
   "id": 370268133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.230358,41.054454,-85.230358,41.054454",
     "geom:latitude":41.054454,
     "geom:longitude":-85.230358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3262 Mallard Cove Ln",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370268133,
-    "wof:lastmodified":1449030998,
+    "wof:lastmodified":1466503035,
     "wof:name":"Olson Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "financial"
     ]
 },
-  "bbox": [-85.230358,41.054454,-85.230358,41.054454],
+  "bbox": [
+    -85.230358,
+    41.054454,
+    -85.230358,
+    41.054454
+],
   "geometry": {"coordinates":[-85.230358,41.054454],"type":"Point"}
 }

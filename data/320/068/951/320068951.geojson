@@ -2,13 +2,14 @@
   "id": 320068951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.812661,38.325521,-85.812661,38.325521",
     "geom:latitude":38.325521,
     "geom:longitude":-85.812661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Hickory Grove",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320068951,
-    "wof:lastmodified":1449013178,
+    "wof:lastmodified":1466503687,
     "wof:name":"Dana Allen Construction Co",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.812661,38.325521,-85.812661,38.325521],
-  "geometry": {"coordinates":[-85.812661,38.325521],"type":"Point"}
+  "bbox": [
+    -85.812661,
+    38.325521,
+    -85.812661,
+    38.325521
+],
+  "geometry": {"coordinates":[-85.81266100000001,38.325521],"type":"Point"}
 }

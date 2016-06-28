@@ -2,13 +2,14 @@
   "id": 353411211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.267859,41.603608,-87.267859,41.603608",
     "geom:latitude":41.603608,
     "geom:longitude":-87.267859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 S Lake St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353411211,
-    "wof:lastmodified":1449018360,
+    "wof:lastmodified":1466502896,
     "wof:name":"Meyer & Wyatt",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.267859,41.603608,-87.267859,41.603608],
+  "bbox": [
+    -87.267859,
+    41.603608,
+    -87.267859,
+    41.603608
+],
   "geometry": {"coordinates":[-87.267859,41.603608],"type":"Point"}
 }

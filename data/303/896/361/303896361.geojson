@@ -2,13 +2,14 @@
   "id": 303896361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133877,40.476185,-86.133877,40.476185",
     "geom:latitude":40.476185,
     "geom:longitude":-86.133877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Washington St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303896361,
-    "wof:lastmodified":1448999012,
+    "wof:lastmodified":1466503226,
     "wof:name":"Carl Ellis Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.133877,40.476185,-86.133877,40.476185],
+  "bbox": [
+    -86.133877,
+    40.476185,
+    -86.133877,
+    40.476185
+],
   "geometry": {"coordinates":[-86.133877,40.476185],"type":"Point"}
 }

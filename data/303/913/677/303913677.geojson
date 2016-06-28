@@ -2,13 +2,14 @@
   "id": 303913677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492426,37.99513,-87.492426,37.99513",
     "geom:latitude":37.99513,
     "geom:longitude":-87.492426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303913677,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466503256,
     "wof:name":"Busy Beedz",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-87.492426,37.99513,-87.492426,37.99513],
-  "geometry": {"coordinates":[-87.492426,37.99513],"type":"Point"}
+  "bbox": [
+    -87.492426,
+    37.99513,
+    -87.492426,
+    37.99513
+],
+  "geometry": {"coordinates":[-87.49242599999999,37.99513],"type":"Point"}
 }

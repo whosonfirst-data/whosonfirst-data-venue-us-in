@@ -2,13 +2,14 @@
   "id": 387085323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.960975,39.979362,-85.960975,39.979362",
     "geom:latitude":39.979362,
     "geom:longitude":-85.960975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11550 E 131st St",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387085323,
-    "wof:lastmodified":1449057056,
+    "wof:lastmodified":1466503006,
     "wof:name":"Sand Creek Intermediate Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.960975,39.979362,-85.960975,39.979362],
+  "bbox": [
+    -85.960975,
+    39.979362,
+    -85.960975,
+    39.979362
+],
   "geometry": {"coordinates":[-85.960975,39.979362],"type":"Point"}
 }

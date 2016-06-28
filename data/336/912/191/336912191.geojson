@@ -2,13 +2,14 @@
   "id": 336912191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.074741,40.748907,-86.074741,40.748907",
     "geom:latitude":40.748907,
     "geom:longitude":-86.074741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 W 2nd St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336912191,
-    "wof:lastmodified":1448997489,
+    "wof:lastmodified":1466503287,
     "wof:name":"Kenny Colin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-86.074741,40.748907,-86.074741,40.748907],
+  "bbox": [
+    -86.074741,
+    40.748907,
+    -86.074741,
+    40.748907
+],
   "geometry": {"coordinates":[-86.074741,40.748907],"type":"Point"}
 }

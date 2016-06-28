@@ -2,13 +2,14 @@
   "id": 303455717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161266,41.674783,-86.161266,41.674783",
     "geom:latitude":41.674783,
     "geom:longitude":-86.161266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Lynn St",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303455717,
-    "wof:lastmodified":1449000170,
+    "wof:lastmodified":1466503692,
     "wof:name":"Joey's Landscape & Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.161266,41.674783,-86.161266,41.674783],
+  "bbox": [
+    -86.161266,
+    41.674783,
+    -86.161266,
+    41.674783
+],
   "geometry": {"coordinates":[-86.161266,41.674783],"type":"Point"}
 }

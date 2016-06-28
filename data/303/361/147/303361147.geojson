@@ -2,13 +2,14 @@
   "id": 303361147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.210289,39.84651,-85.210289,39.84651",
     "geom:latitude":39.84651,
     "geom:longitude":-85.210289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17653 Goose Heaven Rd",
     "sg:city":"Cambridge City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303361147,
-    "wof:lastmodified":1448999901,
+    "wof:lastmodified":1466503638,
     "wof:name":"SRC Pharmacy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.210289,39.84651,-85.210289,39.84651],
+  "bbox": [
+    -85.210289,
+    39.84651,
+    -85.210289,
+    39.84651
+],
   "geometry": {"coordinates":[-85.210289,39.84651],"type":"Point"}
 }

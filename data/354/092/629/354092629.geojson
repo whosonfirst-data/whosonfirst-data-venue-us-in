@@ -2,13 +2,14 @@
   "id": 354092629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908037,37.92895,-87.908037,37.92895",
     "geom:latitude":37.92895,
     "geom:longitude":-87.908037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 W 4th St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354092629,
-    "wof:lastmodified":1449067322,
+    "wof:lastmodified":1466502988,
     "wof:name":"J & J Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-87.908037,37.92895,-87.908037,37.92895],
-  "geometry": {"coordinates":[-87.908037,37.92895],"type":"Point"}
+  "bbox": [
+    -87.908037,
+    37.92895,
+    -87.908037,
+    37.92895
+],
+  "geometry": {"coordinates":[-87.90803699999999,37.92895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303915823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.187871,39.890695,-86.187871,39.890695",
     "geom:latitude":39.890695,
     "geom:longitude":-86.187871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 W 75th Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303915823,
-    "wof:lastmodified":1449000543,
+    "wof:lastmodified":1466503259,
     "wof:name":"Peabody Plumbing",
     "wof:parent_id":85826201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-86.187871,39.890695,-86.187871,39.890695],
+  "bbox": [
+    -86.187871,
+    39.890695,
+    -86.187871,
+    39.890695
+],
   "geometry": {"coordinates":[-86.187871,39.890695],"type":"Point"}
 }

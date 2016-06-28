@@ -2,13 +2,14 @@
   "id": 320024659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.97372,41.697883,-85.97372,41.697883",
     "geom:latitude":41.697883,
     "geom:longitude":-85.97372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Simonton St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320024659,
-    "wof:lastmodified":1449013048,
+    "wof:lastmodified":1466503665,
     "wof:name":"Dura Operating Corp",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-85.97372,41.697883,-85.97372,41.697883],
+  "bbox": [
+    -85.97372,
+    41.697883,
+    -85.97372,
+    41.697883
+],
   "geometry": {"coordinates":[-85.97372,41.697883],"type":"Point"}
 }

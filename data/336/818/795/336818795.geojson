@@ -2,13 +2,14 @@
   "id": 336818795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.1382,39.984042,-86.1382,39.984042",
     "geom:latitude":39.984042,
     "geom:longitude":-86.1382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Pro-Med Ln",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336818795,
-    "wof:lastmodified":1448997482,
+    "wof:lastmodified":1466503173,
     "wof:name":"Family Tree Counseling Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-86.1382,39.984042,-86.1382,39.984042],
+  "bbox": [
+    -86.1382,
+    39.984042,
+    -86.1382,
+    39.984042
+],
   "geometry": {"coordinates":[-86.1382,39.984042],"type":"Point"}
 }

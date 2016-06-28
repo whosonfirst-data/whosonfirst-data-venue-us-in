@@ -2,13 +2,14 @@
   "id": 303674129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.182725,39.912173,-86.182725,39.912173",
     "geom:latitude":39.912173,
     "geom:longitude":-86.182725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303674129,
-    "wof:lastmodified":1448999949,
+    "wof:lastmodified":1466502955,
     "wof:name":"J E Thomas & ASSOC LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.182725,39.912173,-86.182725,39.912173],
+  "bbox": [
+    -86.182725,
+    39.912173,
+    -86.182725,
+    39.912173
+],
   "geometry": {"coordinates":[-86.182725,39.912173],"type":"Point"}
 }

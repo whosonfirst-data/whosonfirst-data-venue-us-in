@@ -2,13 +2,14 @@
   "id": 353741747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.033651,41.610672,-87.033651,41.610672",
     "geom:latitude":41.610672,
     "geom:longitude":-87.033651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 Michael Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353741747,
-    "wof:lastmodified":1449018380,
+    "wof:lastmodified":1466503238,
     "wof:name":"Glenro Midwest Sales Office",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.033651,41.610672,-87.033651,41.610672],
-  "geometry": {"coordinates":[-87.033651,41.610672],"type":"Point"}
+  "bbox": [
+    -87.033651,
+    41.610672,
+    -87.033651,
+    41.610672
+],
+  "geometry": {"coordinates":[-87.03365100000001,41.610672],"type":"Point"}
 }

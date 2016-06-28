@@ -2,13 +2,14 @@
   "id": 387463611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.295995,41.314761,-86.295995,41.314761",
     "geom:latitude":41.314761,
     "geom:longitude":-86.295995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11572 Castle Dr",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387463611,
-    "wof:lastmodified":1449058756,
+    "wof:lastmodified":1466503531,
     "wof:name":"Sally Family Ltd Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.295995,41.314761,-86.295995,41.314761],
+  "bbox": [
+    -86.295995,
+    41.314761,
+    -86.295995,
+    41.314761
+],
   "geometry": {"coordinates":[-86.295995,41.314761],"type":"Point"}
 }

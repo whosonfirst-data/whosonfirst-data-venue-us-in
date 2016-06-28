@@ -2,13 +2,14 @@
   "id": 354078807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.062829,41.509687,-87.062829,41.509687",
     "geom:latitude":41.509687,
     "geom:longitude":-87.062829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4508 Bedford Rd",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354078807,
-    "wof:lastmodified":1449067386,
+    "wof:lastmodified":1466502970,
     "wof:name":"John Glaser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.062829,41.509687,-87.062829,41.509687],
-  "geometry": {"coordinates":[-87.062829,41.509687],"type":"Point"}
+  "bbox": [
+    -87.062829,
+    41.509687,
+    -87.062829,
+    41.509687
+],
+  "geometry": {"coordinates":[-87.06282899999999,41.509687],"type":"Point"}
 }

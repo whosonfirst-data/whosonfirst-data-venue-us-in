@@ -2,13 +2,14 @@
   "id": 336780839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.159931,39.768335,-86.159931,39.768335",
     "geom:latitude":39.768335,
     "geom:longitude":-86.159931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 N Illinois St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336780839,
-    "wof:lastmodified":1448997748,
+    "wof:lastmodified":1466503124,
     "wof:name":"Circle City Valet",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valet"
     ]
 },
-  "bbox": [-86.159931,39.768335,-86.159931,39.768335],
+  "bbox": [
+    -86.159931,
+    39.768335,
+    -86.159931,
+    39.768335
+],
   "geometry": {"coordinates":[-86.159931,39.768335],"type":"Point"}
 }

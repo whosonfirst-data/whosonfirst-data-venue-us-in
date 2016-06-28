@@ -2,13 +2,14 @@
   "id": 320568181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.124623,39.961339,-86.124623,39.961339",
     "geom:latitude":39.961339,
     "geom:longitude":-86.124623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Carmel Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320568181,
-    "wof:lastmodified":1449011180,
+    "wof:lastmodified":1466503268,
     "wof:name":"Carmel Financial Corporation",
     "wof:parent_id":85891087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "institution"
     ]
 },
-  "bbox": [-86.124623,39.961339,-86.124623,39.961339],
+  "bbox": [
+    -86.124623,
+    39.961339,
+    -86.124623,
+    39.961339
+],
   "geometry": {"coordinates":[-86.124623,39.961339],"type":"Point"}
 }

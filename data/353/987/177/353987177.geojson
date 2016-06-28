@@ -2,13 +2,14 @@
   "id": 353987177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28711,39.82992,-86.28711,39.82992",
     "geom:latitude":39.82992,
     "geom:longitude":-86.28711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7164 Eagle Cove N Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353987177,
-    "wof:lastmodified":1449019683,
+    "wof:lastmodified":1466503539,
     "wof:name":"Quality Image Productions",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-86.28711,39.82992,-86.28711,39.82992],
+  "bbox": [
+    -86.28711,
+    39.82992,
+    -86.28711,
+    39.82992
+],
   "geometry": {"coordinates":[-86.28711,39.82992],"type":"Point"}
 }

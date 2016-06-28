@@ -2,13 +2,14 @@
   "id": 354066257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.531446,39.121731,-86.531446,39.121731",
     "geom:latitude":39.121731,
     "geom:longitude":-86.531446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 S Old State Road 37",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354066257,
-    "wof:lastmodified":1449066397,
+    "wof:lastmodified":1466502958,
     "wof:name":"Blind Man",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-86.531446,39.121731,-86.531446,39.121731],
+  "bbox": [
+    -86.531446,
+    39.121731,
+    -86.531446,
+    39.121731
+],
   "geometry": {"coordinates":[-86.531446,39.121731],"type":"Point"}
 }

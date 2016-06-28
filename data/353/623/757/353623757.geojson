@@ -2,13 +2,14 @@
   "id": 353623757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.155439,40.479803,-86.155439,40.479803",
     "geom:latitude":40.479803,
     "geom:longitude":-86.155439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Berkley Rd",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353623757,
-    "wof:lastmodified":1449020037,
+    "wof:lastmodified":1466503103,
     "wof:name":"Howard Cnty Juvenile Probation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-86.155439,40.479803,-86.155439,40.479803],
+  "bbox": [
+    -86.155439,
+    40.479803,
+    -86.155439,
+    40.479803
+],
   "geometry": {"coordinates":[-86.155439,40.479803],"type":"Point"}
 }

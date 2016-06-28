@@ -2,13 +2,14 @@
   "id": 387038325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.244001,39.94064,-86.244001,39.94064",
     "geom:latitude":39.94064,
     "geom:longitude":-86.244001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10890 Andrade Dr",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387038325,
-    "wof:lastmodified":1449058545,
+    "wof:lastmodified":1466502935,
     "wof:name":"Snider Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.244001,39.94064,-86.244001,39.94064],
+  "bbox": [
+    -86.244001,
+    39.94064,
+    -86.244001,
+    39.94064
+],
   "geometry": {"coordinates":[-86.244001,39.94064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336884651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.280435,40.888363,-85.280435,40.888363",
     "geom:latitude":40.888363,
     "geom:longitude":-85.280435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2998 W 1000 N",
     "sg:city":"Markle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336884651,
-    "wof:lastmodified":1448997821,
+    "wof:lastmodified":1466503252,
     "wof:name":"Goldenrod Products & Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-85.280435,40.888363,-85.280435,40.888363],
+  "bbox": [
+    -85.280435,
+    40.888363,
+    -85.280435,
+    40.888363
+],
   "geometry": {"coordinates":[-85.280435,40.888363],"type":"Point"}
 }

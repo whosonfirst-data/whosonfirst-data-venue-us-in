@@ -2,13 +2,14 @@
   "id": 386948823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.352171,41.600351,-87.352171,41.600351",
     "geom:latitude":41.600351,
     "geom:longitude":-87.352171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Pierce St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386948823,
-    "wof:lastmodified":1449028886,
+    "wof:lastmodified":1466502909,
     "wof:name":"Edgewater Systems For Balanced",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.352171,41.600351,-87.352171,41.600351],
+  "bbox": [
+    -87.352171,
+    41.600351,
+    -87.352171,
+    41.600351
+],
   "geometry": {"coordinates":[-87.352171,41.600351],"type":"Point"}
 }

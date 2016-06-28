@@ -2,13 +2,14 @@
   "id": 370847231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.867628,40.421311,-86.867628,40.421311",
     "geom:latitude":40.421311,
     "geom:longitude":-86.867628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 N 26th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370847231,
-    "wof:lastmodified":1449030319,
+    "wof:lastmodified":1466503636,
     "wof:name":"Back On Track Massage Therapy",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.867628,40.421311,-86.867628,40.421311],
+  "bbox": [
+    -86.867628,
+    40.421311,
+    -86.867628,
+    40.421311
+],
   "geometry": {"coordinates":[-86.867628,40.421311],"type":"Point"}
 }

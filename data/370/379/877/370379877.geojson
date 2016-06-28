@@ -2,13 +2,14 @@
   "id": 370379877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.586633,40.634609,-86.586633,40.634609",
     "geom:latitude":40.634609,
     "geom:longitude":-86.586633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6281 N State Rd 25",
     "sg:city":"Rockfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370379877,
-    "wof:lastmodified":1449031043,
+    "wof:lastmodified":1466503159,
     "wof:name":"Lovvorn Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-86.586633,40.634609,-86.586633,40.634609],
-  "geometry": {"coordinates":[-86.586633,40.634609],"type":"Point"}
+  "bbox": [
+    -86.586633,
+    40.634609,
+    -86.586633,
+    40.634609
+],
+  "geometry": {"coordinates":[-86.58663300000001,40.634609],"type":"Point"}
 }

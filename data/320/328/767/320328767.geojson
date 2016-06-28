@@ -2,13 +2,14 @@
   "id": 320328767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.092873,39.849909,-86.092873,39.849909",
     "geom:latitude":39.849909,
     "geom:longitude":-86.092873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5590 N Drexel Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320328767,
-    "wof:lastmodified":1449013453,
+    "wof:lastmodified":1466502960,
     "wof:name":"Scotts' Construction Svc Inc",
     "wof:parent_id":85834375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.092873,39.849909,-86.092873,39.849909],
+  "bbox": [
+    -86.092873,
+    39.849909,
+    -86.092873,
+    39.849909
+],
   "geometry": {"coordinates":[-86.092873,39.849909],"type":"Point"}
 }

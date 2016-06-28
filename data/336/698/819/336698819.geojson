@@ -2,13 +2,14 @@
   "id": 336698819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.834658,41.673428,-86.834658,41.673428",
     "geom:latitude":41.673428,
     "geom:longitude":-86.834658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4646 N Rukmin Trl",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336698819,
-    "wof:lastmodified":1448997947,
+    "wof:lastmodified":1466503015,
     "wof:name":"Hermandez Geraldeine",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.834658,41.673428,-86.834658,41.673428],
+  "bbox": [
+    -86.834658,
+    41.673428,
+    -86.834658,
+    41.673428
+],
   "geometry": {"coordinates":[-86.834658,41.673428],"type":"Point"}
 }

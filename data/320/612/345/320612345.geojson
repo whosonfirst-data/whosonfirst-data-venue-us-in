@@ -2,13 +2,14 @@
   "id": 320612345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.972036,41.684225,-85.972036,41.684225",
     "geom:latitude":41.684225,
     "geom:longitude":-85.972036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320612345,
-    "wof:lastmodified":1449012908,
+    "wof:lastmodified":1466503316,
     "wof:name":"Minoo R Dubash CPA",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-85.972036,41.684225,-85.972036,41.684225],
+  "bbox": [
+    -85.972036,
+    41.684225,
+    -85.972036,
+    41.684225
+],
   "geometry": {"coordinates":[-85.972036,41.684225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370896605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.158461,39.682999,-86.158461,39.682999",
     "geom:latitude":39.682999,
     "geom:longitude":-86.158461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5633 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370896605,
-    "wof:lastmodified":1449030322,
+    "wof:lastmodified":1466503704,
     "wof:name":"Homexpert Ray Stuck & Co",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.158461,39.682999,-86.158461,39.682999],
+  "bbox": [
+    -86.158461,
+    39.682999,
+    -86.158461,
+    39.682999
+],
   "geometry": {"coordinates":[-86.158461,39.682999],"type":"Point"}
 }

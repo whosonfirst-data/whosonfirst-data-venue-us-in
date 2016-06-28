@@ -2,13 +2,14 @@
   "id": 387383469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.028837,41.598137,-87.028837,41.598137",
     "geom:latitude":41.598137,
     "geom:longitude":-87.028837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Snead Ave",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387383469,
-    "wof:lastmodified":1449057719,
+    "wof:lastmodified":1466503420,
     "wof:name":"Home Desighs",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.028837,41.598137,-87.028837,41.598137],
+  "bbox": [
+    -87.028837,
+    41.598137,
+    -87.028837,
+    41.598137
+],
   "geometry": {"coordinates":[-87.028837,41.598137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319831153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108586,39.737805,-86.108586,39.737805",
     "geom:latitude":39.737805,
     "geom:longitude":-86.108586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 E Raymond St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319831153,
-    "wof:lastmodified":1449024551,
+    "wof:lastmodified":1466503540,
     "wof:name":"Indiana Table Tennis Ctr Inc",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.108586,39.737805,-86.108586,39.737805],
+  "bbox": [
+    -86.108586,
+    39.737805,
+    -86.108586,
+    39.737805
+],
   "geometry": {"coordinates":[-86.108586,39.737805],"type":"Point"}
 }

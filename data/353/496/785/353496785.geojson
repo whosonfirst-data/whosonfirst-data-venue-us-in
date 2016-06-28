@@ -2,13 +2,14 @@
   "id": 353496785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.858788,40.506512,-86.858788,40.506512",
     "geom:latitude":40.506512,
     "geom:longitude":-86.858788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6116 Warrior Dr",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353496785,
-    "wof:lastmodified":1449020435,
+    "wof:lastmodified":1466502941,
     "wof:name":"IMFI Computer",
     "wof:parent_id":85843885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-86.858788,40.506512,-86.858788,40.506512],
+  "bbox": [
+    -86.858788,
+    40.506512,
+    -86.858788,
+    40.506512
+],
   "geometry": {"coordinates":[-86.858788,40.506512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370709333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122154,39.866857,-86.122154,39.866857",
     "geom:latitude":39.866857,
     "geom:longitude":-86.122154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370709333,
-    "wof:lastmodified":1449029769,
+    "wof:lastmodified":1466503499,
     "wof:name":"Lechter's Housewares",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housewares"
     ]
 },
-  "bbox": [-86.122154,39.866857,-86.122154,39.866857],
-  "geometry": {"coordinates":[-86.122154,39.866857],"type":"Point"}
+  "bbox": [
+    -86.122154,
+    39.866857,
+    -86.122154,
+    39.866857
+],
+  "geometry": {"coordinates":[-86.12215399999999,39.866857],"type":"Point"}
 }

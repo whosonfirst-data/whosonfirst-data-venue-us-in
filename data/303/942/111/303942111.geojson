@@ -2,13 +2,14 @@
   "id": 303942111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852871,41.27013,-85.852871,41.27013",
     "geom:latitude":41.27013,
     "geom:longitude":-85.852871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 W 250 N",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303942111,
-    "wof:lastmodified":1448999235,
+    "wof:lastmodified":1466503295,
     "wof:name":"Millennium Sounds",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-85.852871,41.27013,-85.852871,41.27013],
-  "geometry": {"coordinates":[-85.852871,41.27013],"type":"Point"}
+  "bbox": [
+    -85.852871,
+    41.27013,
+    -85.852871,
+    41.27013
+],
+  "geometry": {"coordinates":[-85.85287099999999,41.27013],"type":"Point"}
 }

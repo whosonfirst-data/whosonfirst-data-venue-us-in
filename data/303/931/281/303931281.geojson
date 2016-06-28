@@ -2,13 +2,14 @@
   "id": 303931281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574163,38.016359,-87.574163,38.016359",
     "geom:latitude":38.016359,
     "geom:longitude":-87.574163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 N 1st Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303931281,
-    "wof:lastmodified":1449000347,
+    "wof:lastmodified":1466503281,
     "wof:name":"Spalding Communications",
     "wof:parent_id":85812503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.574163,38.016359,-87.574163,38.016359],
+  "bbox": [
+    -87.574163,
+    38.016359,
+    -87.574163,
+    38.016359
+],
   "geometry": {"coordinates":[-87.574163,38.016359],"type":"Point"}
 }

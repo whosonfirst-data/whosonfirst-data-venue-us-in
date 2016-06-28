@@ -2,13 +2,14 @@
   "id": 303498227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.124209,39.52388,-87.124209,39.52388",
     "geom:latitude":39.52388,
     "geom:longitude":-87.124209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 E National Ave",
     "sg:city":"Brazil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303498227,
-    "wof:lastmodified":1448999971,
+    "wof:lastmodified":1466503718,
     "wof:name":"Sugar 'n Spice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.124209,39.52388,-87.124209,39.52388],
-  "geometry": {"coordinates":[-87.124209,39.52388],"type":"Point"}
+  "bbox": [
+    -87.124209,
+    39.52388,
+    -87.124209,
+    39.52388
+],
+  "geometry": {"coordinates":[-87.12420899999999,39.52388],"type":"Point"}
 }

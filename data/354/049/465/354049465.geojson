@@ -2,13 +2,14 @@
   "id": 354049465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138189,41.067443,-85.138189,41.067443",
     "geom:latitude":41.067443,
     "geom:longitude":-85.138189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354049465,
-    "wof:lastmodified":1449066768,
+    "wof:lastmodified":1466502939,
     "wof:name":"Crest House Draperies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-85.138189,41.067443,-85.138189,41.067443],
+  "bbox": [
+    -85.138189,
+    41.067443,
+    -85.138189,
+    41.067443
+],
   "geometry": {"coordinates":[-85.138189,41.067443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303502353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.374282,39.605275,-86.374282,39.605275",
     "geom:latitude":39.605275,
     "geom:longitude":-86.374282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Moore St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303502353,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466503721,
     "wof:name":"Richard N Halstead DO",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.374282,39.605275,-86.374282,39.605275],
-  "geometry": {"coordinates":[-86.374282,39.605275],"type":"Point"}
+  "bbox": [
+    -86.374282,
+    39.605275,
+    -86.374282,
+    39.605275
+],
+  "geometry": {"coordinates":[-86.37428199999999,39.605275],"type":"Point"}
 }

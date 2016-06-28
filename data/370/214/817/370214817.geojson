@@ -2,13 +2,14 @@
   "id": 370214817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.733966,40.092482,-85.733966,40.092482",
     "geom:latitude":40.092482,
     "geom:longitude":-85.733966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Beechwood Ln",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370214817,
-    "wof:lastmodified":1449032364,
+    "wof:lastmodified":1466502967,
     "wof:name":"Lawn Masters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.733966,40.092482,-85.733966,40.092482],
+  "bbox": [
+    -85.733966,
+    40.092482,
+    -85.733966,
+    40.092482
+],
   "geometry": {"coordinates":[-85.733966,40.092482],"type":"Point"}
 }

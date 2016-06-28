@@ -2,13 +2,14 @@
   "id": 354333761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.177332,41.69531,-86.177332,41.69531",
     "geom:latitude":41.69531,
     "geom:longitude":-86.177332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 Edison Lakes Pkwy",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354333761,
-    "wof:lastmodified":1449067561,
+    "wof:lastmodified":1466503346,
     "wof:name":"Crawford & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-86.177332,41.69531,-86.177332,41.69531],
-  "geometry": {"coordinates":[-86.177332,41.69531],"type":"Point"}
+  "bbox": [
+    -86.177332,
+    41.69531,
+    -86.177332,
+    41.69531
+],
+  "geometry": {"coordinates":[-86.17733200000001,41.69531],"type":"Point"}
 }

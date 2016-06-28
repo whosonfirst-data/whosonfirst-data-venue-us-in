@@ -2,13 +2,14 @@
   "id": 404135557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.00605,41.186696,-87.00605,41.186696",
     "geom:latitude":41.186696,
     "geom:longitude":-87.00605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 State Rd 10",
     "sg:city":"Wheatfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404135557,
-    "wof:lastmodified":1449039495,
+    "wof:lastmodified":1466503068,
     "wof:name":"NWI Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.00605,41.186696,-87.00605,41.186696],
+  "bbox": [
+    -87.00605,
+    41.186696,
+    -87.00605,
+    41.186696
+],
   "geometry": {"coordinates":[-87.00605,41.186696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303807029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.094318,39.750869,-86.094318,39.750869",
     "geom:latitude":39.750869,
     "geom:longitude":-86.094318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 Southeastern Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303807029,
-    "wof:lastmodified":1448998737,
+    "wof:lastmodified":1466503113,
     "wof:name":"Calvert Communications Corp",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "communication"
     ]
 },
-  "bbox": [-86.094318,39.750869,-86.094318,39.750869],
+  "bbox": [
+    -86.094318,
+    39.750869,
+    -86.094318,
+    39.750869
+],
   "geometry": {"coordinates":[-86.094318,39.750869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370729357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.705836,41.668554,-85.705836,41.668554",
     "geom:latitude":41.668554,
     "geom:longitude":-85.705836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Main St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370729357,
-    "wof:lastmodified":1449030789,
+    "wof:lastmodified":1466503517,
     "wof:name":"Yoder's Zimmer Mit Fruhstuck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.705836,41.668554,-85.705836,41.668554],
-  "geometry": {"coordinates":[-85.705836,41.668554],"type":"Point"}
+  "bbox": [
+    -85.705836,
+    41.668554,
+    -85.705836,
+    41.668554
+],
+  "geometry": {"coordinates":[-85.70583600000001,41.668554],"type":"Point"}
 }

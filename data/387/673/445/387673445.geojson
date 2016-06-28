@@ -2,13 +2,14 @@
   "id": 387673445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.058441,41.470639,-87.058441,41.470639",
     "geom:latitude":41.470639,
     "geom:longitude":-87.058441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Erie St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387673445,
-    "wof:lastmodified":1449057580,
+    "wof:lastmodified":1466503829,
     "wof:name":"Valparaiso Adult Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.058441,41.470639,-87.058441,41.470639],
+  "bbox": [
+    -87.058441,
+    41.470639,
+    -87.058441,
+    41.470639
+],
   "geometry": {"coordinates":[-87.058441,41.470639],"type":"Point"}
 }

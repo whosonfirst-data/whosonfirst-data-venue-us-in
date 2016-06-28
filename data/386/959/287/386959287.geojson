@@ -2,13 +2,14 @@
   "id": 386959287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.145755,39.842313,-86.145755,39.842313",
     "geom:latitude":39.842313,
     "geom:longitude":-86.145755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4840 N College Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386959287,
-    "wof:lastmodified":1449028947,
+    "wof:lastmodified":1466502925,
     "wof:name":"Pearl Design Group Inc",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.145755,39.842313,-86.145755,39.842313],
-  "geometry": {"coordinates":[-86.145755,39.842313],"type":"Point"}
+  "bbox": [
+    -86.145755,
+    39.842313,
+    -86.145755,
+    39.842313
+],
+  "geometry": {"coordinates":[-86.14575499999999,39.842313],"type":"Point"}
 }

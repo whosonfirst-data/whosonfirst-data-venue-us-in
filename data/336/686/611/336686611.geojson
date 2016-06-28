@@ -2,13 +2,14 @@
   "id": 336686611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.153063,41.14857,-85.153063,41.14857",
     "geom:latitude":41.14857,
     "geom:longitude":-85.153063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Honeywell Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336686611,
-    "wof:lastmodified":1448997766,
+    "wof:lastmodified":1466502997,
     "wof:name":"Total Plastics",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-85.153063,41.14857,-85.153063,41.14857],
+  "bbox": [
+    -85.153063,
+    41.14857,
+    -85.153063,
+    41.14857
+],
   "geometry": {"coordinates":[-85.153063,41.14857],"type":"Point"}
 }

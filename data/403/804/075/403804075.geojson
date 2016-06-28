@@ -2,13 +2,14 @@
   "id": 403804075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.35713,41.550533,-87.35713,41.550533",
     "geom:latitude":41.550533,
     "geom:longitude":-87.35713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 Hayes St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403804075,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1466503021,
     "wof:name":"Service Employees Intl Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.35713,41.550533,-87.35713,41.550533],
+  "bbox": [
+    -87.35713,
+    41.550533,
+    -87.35713,
+    41.550533
+],
   "geometry": {"coordinates":[-87.35713,41.550533],"type":"Point"}
 }

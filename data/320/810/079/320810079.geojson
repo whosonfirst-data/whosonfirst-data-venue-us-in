@@ -2,13 +2,14 @@
   "id": 320810079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.860677,40.412551,-86.860677,40.412551",
     "geom:latitude":40.412551,
     "geom:longitude":-86.860677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 S Earl Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320810079,
-    "wof:lastmodified":1449012352,
+    "wof:lastmodified":1466503518,
     "wof:name":"Banes Monograms Balloons",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-86.860677,40.412551,-86.860677,40.412551],
+  "bbox": [
+    -86.860677,
+    40.412551,
+    -86.860677,
+    40.412551
+],
   "geometry": {"coordinates":[-86.860677,40.412551],"type":"Point"}
 }

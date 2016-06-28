@@ -2,13 +2,14 @@
   "id": 370708207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761278,39.521149,-85.761278,39.521149",
     "geom:latitude":39.521149,
     "geom:longitude":-85.761278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 E State Rd 44",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370708207,
-    "wof:lastmodified":1449029623,
+    "wof:lastmodified":1466503496,
     "wof:name":"Snappy Tomato Pizza Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-85.761278,39.521149,-85.761278,39.521149],
+  "bbox": [
+    -85.761278,
+    39.521149,
+    -85.761278,
+    39.521149
+],
   "geometry": {"coordinates":[-85.761278,39.521149],"type":"Point"}
 }

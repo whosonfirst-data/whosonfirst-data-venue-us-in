@@ -2,13 +2,14 @@
   "id": 353580925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.001878,41.703397,-86.001878,41.703397",
     "geom:latitude":41.703397,
     "geom:longitude":-86.001878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27991 Co Rd 10",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353580925,
-    "wof:lastmodified":1449019956,
+    "wof:lastmodified":1466503053,
     "wof:name":"Koat Quip Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [-86.001878,41.703397,-86.001878,41.703397],
+  "bbox": [
+    -86.001878,
+    41.703397,
+    -86.001878,
+    41.703397
+],
   "geometry": {"coordinates":[-86.001878,41.703397],"type":"Point"}
 }

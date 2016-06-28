@@ -2,13 +2,14 @@
   "id": 303819811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.036825,39.75141,-86.036825,39.75141",
     "geom:latitude":39.75141,
     "geom:longitude":-86.036825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Sadlier Circle E Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303819811,
-    "wof:lastmodified":1448998692,
+    "wof:lastmodified":1466503127,
     "wof:name":"Natura Lawn Of America",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.036825,39.75141,-86.036825,39.75141],
-  "geometry": {"coordinates":[-86.036825,39.75141],"type":"Point"}
+  "bbox": [
+    -86.036825,
+    39.75141,
+    -86.036825,
+    39.75141
+],
+  "geometry": {"coordinates":[-86.03682499999999,39.75141],"type":"Point"}
 }

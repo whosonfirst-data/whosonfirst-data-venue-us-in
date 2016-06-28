@@ -2,13 +2,14 @@
   "id": 404102215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.07173,39.708383,-86.07173,39.708383",
     "geom:latitude":39.708383,
     "geom:longitude":-86.07173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5508 Elmwood Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404102215,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1466503028,
     "wof:name":"B Q Products Inc",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-86.07173,39.708383,-86.07173,39.708383],
+  "bbox": [
+    -86.07173,
+    39.708383,
+    -86.07173,
+    39.708383
+],
   "geometry": {"coordinates":[-86.07173,39.708383],"type":"Point"}
 }

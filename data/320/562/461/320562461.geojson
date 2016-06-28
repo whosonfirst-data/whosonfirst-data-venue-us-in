@@ -2,13 +2,14 @@
   "id": 320562461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.168624,41.058288,-85.168624,41.058288",
     "geom:latitude":41.058288,
     "geom:longitude":-85.168624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2853 Millbrook Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320562461,
-    "wof:lastmodified":1449013241,
+    "wof:lastmodified":1466503259,
     "wof:name":"Buy Here Get It Here",
     "wof:parent_id":85877539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.168624,41.058288,-85.168624,41.058288],
-  "geometry": {"coordinates":[-85.168624,41.058288],"type":"Point"}
+  "bbox": [
+    -85.168624,
+    41.058288,
+    -85.168624,
+    41.058288
+],
+  "geometry": {"coordinates":[-85.16862399999999,41.058288],"type":"Point"}
 }

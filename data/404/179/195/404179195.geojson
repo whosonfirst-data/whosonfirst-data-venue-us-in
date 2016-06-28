@@ -2,13 +2,14 @@
   "id": 404179195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.193977,39.908535,-86.193977,39.908535",
     "geom:latitude":39.908535,
     "geom:longitude":-86.193977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8402 Harcourt Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404179195,
-    "wof:lastmodified":1449040208,
+    "wof:lastmodified":1466503126,
     "wof:name":"Adam W Brazos MD Facs",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.193977,39.908535,-86.193977,39.908535],
+  "bbox": [
+    -86.193977,
+    39.908535,
+    -86.193977,
+    39.908535
+],
   "geometry": {"coordinates":[-86.193977,39.908535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403770751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.941479,39.750763,-85.941479,39.750763",
     "geom:latitude":39.750763,
     "geom:longitude":-85.941479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7251 W Ivy Ct",
     "sg:city":"New Palestine",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403770751,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466502974,
     "wof:name":"Harding's Turf-N-Scape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.941479,39.750763,-85.941479,39.750763],
+  "bbox": [
+    -85.941479,
+    39.750763,
+    -85.941479,
+    39.750763
+],
   "geometry": {"coordinates":[-85.941479,39.750763],"type":"Point"}
 }

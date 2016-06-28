@@ -2,13 +2,14 @@
   "id": 387333133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.643832,39.860703,-86.643832,39.860703",
     "geom:latitude":39.860703,
     "geom:longitude":-86.643832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 N Broadway St",
     "sg:city":"North Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387333133,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1466503349,
     "wof:name":"Linda J Keeney CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.643832,39.860703,-86.643832,39.860703],
+  "bbox": [
+    -86.643832,
+    39.860703,
+    -86.643832,
+    39.860703
+],
   "geometry": {"coordinates":[-86.643832,39.860703],"type":"Point"}
 }

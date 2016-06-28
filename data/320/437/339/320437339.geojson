@@ -2,13 +2,14 @@
   "id": 320437339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144669,39.872561,-86.144669,39.872561",
     "geom:latitude":39.872561,
     "geom:longitude":-86.144669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E 64th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320437339,
-    "wof:lastmodified":1449013957,
+    "wof:lastmodified":1466503105,
     "wof:name":"A J Proctor & Assoc",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-86.144669,39.872561,-86.144669,39.872561],
-  "geometry": {"coordinates":[-86.144669,39.872561],"type":"Point"}
+  "bbox": [
+    -86.144669,
+    39.872561,
+    -86.144669,
+    39.872561
+],
+  "geometry": {"coordinates":[-86.14466899999999,39.872561],"type":"Point"}
 }

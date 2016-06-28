@@ -2,13 +2,14 @@
   "id": 370152661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.839706,41.500424,-85.839706,41.500424",
     "geom:latitude":41.500424,
     "geom:longitude":-85.839706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19159 Co Rd 46",
     "sg:city":"New Paris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370152661,
-    "wof:lastmodified":1449031707,
+    "wof:lastmodified":1466502888,
     "wof:name":"Welty & Sons Well Drilling Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-85.839706,41.500424,-85.839706,41.500424],
-  "geometry": {"coordinates":[-85.839706,41.500424],"type":"Point"}
+  "bbox": [
+    -85.839706,
+    41.500424,
+    -85.839706,
+    41.500424
+],
+  "geometry": {"coordinates":[-85.83970600000001,41.500424],"type":"Point"}
 }

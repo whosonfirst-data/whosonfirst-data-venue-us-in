@@ -2,13 +2,14 @@
   "id": 370697845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.708499,39.823594,-85.708499,39.823594",
     "geom:latitude":39.823594,
     "geom:longitude":-85.708499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2585 N 500 E",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370697845,
-    "wof:lastmodified":1449031207,
+    "wof:lastmodified":1466503489,
     "wof:name":"Rejerb Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-85.708499,39.823594,-85.708499,39.823594],
+  "bbox": [
+    -85.708499,
+    39.823594,
+    -85.708499,
+    39.823594
+],
   "geometry": {"coordinates":[-85.708499,39.823594],"type":"Point"}
 }

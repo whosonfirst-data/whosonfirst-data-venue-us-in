@@ -2,13 +2,14 @@
   "id": 336875857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.132833,39.962381,-86.132833,39.962381",
     "geom:latitude":39.962381,
     "geom:longitude":-86.132833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 W Carmel Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336875857,
-    "wof:lastmodified":1448997739,
+    "wof:lastmodified":1466503242,
     "wof:name":"Avnet Electronics Marketing",
     "wof:parent_id":85891087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.132833,39.962381,-86.132833,39.962381],
-  "geometry": {"coordinates":[-86.132833,39.962381],"type":"Point"}
+  "bbox": [
+    -86.132833,
+    39.962381,
+    -86.132833,
+    39.962381
+],
+  "geometry": {"coordinates":[-86.13283300000001,39.962381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386951117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.367321,40.451187,-85.367321,40.451187",
     "geom:latitude":40.451187,
     "geom:longitude":-85.367321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Washington St",
     "sg:city":"Hartford City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386951117,
-    "wof:lastmodified":1449028632,
+    "wof:lastmodified":1466502914,
     "wof:name":"Centerfield Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.367321,40.451187,-85.367321,40.451187],
+  "bbox": [
+    -85.367321,
+    40.451187,
+    -85.367321,
+    40.451187
+],
   "geometry": {"coordinates":[-85.367321,40.451187],"type":"Point"}
 }

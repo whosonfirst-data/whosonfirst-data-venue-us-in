@@ -2,13 +2,14 @@
   "id": 320249265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868152,40.399244,-86.868152,40.399244",
     "geom:latitude":40.399244,
     "geom:longitude":-86.868152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Brothers Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320249265,
-    "wof:lastmodified":1449011440,
+    "wof:lastmodified":1466503777,
     "wof:name":"Impact Color & Supply",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-86.868152,40.399244,-86.868152,40.399244],
-  "geometry": {"coordinates":[-86.868152,40.399244],"type":"Point"}
+  "bbox": [
+    -86.868152,
+    40.399244,
+    -86.868152,
+    40.399244
+],
+  "geometry": {"coordinates":[-86.86815199999999,40.399244],"type":"Point"}
 }

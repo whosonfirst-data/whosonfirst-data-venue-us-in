@@ -2,13 +2,14 @@
   "id": 336788211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.820275,40.793371,-85.820275,40.793371",
     "geom:latitude":40.793371,
     "geom:longitude":-85.820275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"599 S Wabash St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336788211,
-    "wof:lastmodified":1448997509,
+    "wof:lastmodified":1466503129,
     "wof:name":"Blatz Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.820275,40.793371,-85.820275,40.793371],
+  "bbox": [
+    -85.820275,
+    40.793371,
+    -85.820275,
+    40.793371
+],
   "geometry": {"coordinates":[-85.820275,40.793371],"type":"Point"}
 }

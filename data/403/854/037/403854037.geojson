@@ -2,13 +2,14 @@
   "id": 403854037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.587499,40.484707,-85.587499,40.484707",
     "geom:latitude":40.484707,
     "geom:longitude":-85.587499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Olynger Rd",
     "sg:city":"Gas City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403854037,
-    "wof:lastmodified":1449055902,
+    "wof:lastmodified":1466503098,
     "wof:name":"H Olynger",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lessor"
     ]
 },
-  "bbox": [-85.587499,40.484707,-85.587499,40.484707],
-  "geometry": {"coordinates":[-85.587499,40.484707],"type":"Point"}
+  "bbox": [
+    -85.587499,
+    40.484707,
+    -85.587499,
+    40.484707
+],
+  "geometry": {"coordinates":[-85.58749899999999,40.484707],"type":"Point"}
 }

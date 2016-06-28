@@ -2,13 +2,14 @@
   "id": 354069491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.71461,40.108576,-85.71461,40.108576",
     "geom:latitude":40.108576,
     "geom:longitude":-85.71461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 W 8th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354069491,
-    "wof:lastmodified":1449067038,
+    "wof:lastmodified":1466502960,
     "wof:name":"Bethesda Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-85.71461,40.108576,-85.71461,40.108576],
-  "geometry": {"coordinates":[-85.71461,40.108576],"type":"Point"}
+  "bbox": [
+    -85.71461,
+    40.108576,
+    -85.71461,
+    40.108576
+],
+  "geometry": {"coordinates":[-85.71460999999999,40.108576],"type":"Point"}
 }

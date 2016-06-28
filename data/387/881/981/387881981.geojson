@@ -2,13 +2,14 @@
   "id": 387881981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.134321,41.178232,-85.134321,41.178232",
     "geom:latitude":41.178232,
     "geom:longitude":-85.134321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 E Dupont Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387881981,
-    "wof:lastmodified":1449058312,
+    "wof:lastmodified":1466504098,
     "wof:name":"Portable Left Foot Accelerator",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hand"
     ]
 },
-  "bbox": [-85.134321,41.178232,-85.134321,41.178232],
+  "bbox": [
+    -85.134321,
+    41.178232,
+    -85.134321,
+    41.178232
+],
   "geometry": {"coordinates":[-85.134321,41.178232],"type":"Point"}
 }

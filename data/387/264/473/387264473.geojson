@@ -2,13 +2,14 @@
   "id": 387264473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.277883,40.554071,-85.277883,40.554071",
     "geom:latitude":40.554071,
     "geom:longitude":-85.277883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Main St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387264473,
-    "wof:lastmodified":1449058582,
+    "wof:lastmodified":1466503255,
     "wof:name":"Curl Up & Dye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.277883,40.554071,-85.277883,40.554071],
+  "bbox": [
+    -85.277883,
+    40.554071,
+    -85.277883,
+    40.554071
+],
   "geometry": {"coordinates":[-85.277883,40.554071],"type":"Point"}
 }

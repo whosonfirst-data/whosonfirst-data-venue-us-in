@@ -2,13 +2,14 @@
   "id": 370389093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.137152,41.101309,-85.137152,41.101309",
     "geom:latitude":41.101309,
     "geom:longitude":-85.137152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Grove St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370389093,
-    "wof:lastmodified":1449031790,
+    "wof:lastmodified":1466503166,
     "wof:name":"Premiere Heating A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.137152,41.101309,-85.137152,41.101309],
+  "bbox": [
+    -85.137152,
+    41.101309,
+    -85.137152,
+    41.101309
+],
   "geometry": {"coordinates":[-85.137152,41.101309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387924017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.035899,39.515414,-86.035899,39.515414",
     "geom:latitude":39.515414,
     "geom:longitude":-86.035899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Hurricane Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387924017,
-    "wof:lastmodified":1449057154,
+    "wof:lastmodified":1466504167,
     "wof:name":"Legends Of Indiana Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-86.035899,39.515414,-86.035899,39.515414],
+  "bbox": [
+    -86.035899,
+    39.515414,
+    -86.035899,
+    39.515414
+],
   "geometry": {"coordinates":[-86.035899,39.515414],"type":"Point"}
 }

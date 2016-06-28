@@ -2,13 +2,14 @@
   "id": 354164241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.598953,38.999246,-86.598953,38.999246",
     "geom:latitude":38.999246,
     "geom:longitude":-86.598953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4575 W Popcorn Rd",
     "sg:city":"Springville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354164241,
-    "wof:lastmodified":1449066139,
+    "wof:lastmodified":1466503082,
     "wof:name":"Lasko School Of Log Building",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.598953,38.999246,-86.598953,38.999246],
-  "geometry": {"coordinates":[-86.598953,38.999246],"type":"Point"}
+  "bbox": [
+    -86.598953,
+    38.999246,
+    -86.598953,
+    38.999246
+],
+  "geometry": {"coordinates":[-86.59895299999999,38.999246],"type":"Point"}
 }

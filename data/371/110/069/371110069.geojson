@@ -2,13 +2,14 @@
   "id": 371110069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.360096,40.150782,-85.360096,40.150782",
     "geom:latitude":40.150782,
     "geom:longitude":-85.360096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 E Fuson Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371110069,
-    "wof:lastmodified":1449049349,
+    "wof:lastmodified":1466503011,
     "wof:name":"Tabernacle Of Praise",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.360096,40.150782,-85.360096,40.150782],
+  "bbox": [
+    -85.360096,
+    40.150782,
+    -85.360096,
+    40.150782
+],
   "geometry": {"coordinates":[-85.360096,40.150782],"type":"Point"}
 }

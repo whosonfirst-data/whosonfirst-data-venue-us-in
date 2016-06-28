@@ -2,13 +2,14 @@
   "id": 336689659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.093743,39.870979,-86.093743,39.870979",
     "geom:latitude":39.870979,
     "geom:longitude":-86.093743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Monitor Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336689659,
-    "wof:lastmodified":1448997852,
+    "wof:lastmodified":1466503001,
     "wof:name":"Advacate Inc",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-86.093743,39.870979,-86.093743,39.870979],
+  "bbox": [
+    -86.093743,
+    39.870979,
+    -86.093743,
+    39.870979
+],
   "geometry": {"coordinates":[-86.093743,39.870979],"type":"Point"}
 }

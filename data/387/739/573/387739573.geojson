@@ -2,13 +2,14 @@
   "id": 387739573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.712773,41.681757,-85.712773,41.681757",
     "geom:latitude":41.681757,
     "geom:longitude":-85.712773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Bristol Ave",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387739573,
-    "wof:lastmodified":1449057711,
+    "wof:lastmodified":1466503895,
     "wof:name":"RCC Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-85.712773,41.681757,-85.712773,41.681757],
+  "bbox": [
+    -85.712773,
+    41.681757,
+    -85.712773,
+    41.681757
+],
   "geometry": {"coordinates":[-85.712773,41.681757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386987343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.744175,39.990256,-85.744175,39.990256",
     "geom:latitude":39.990256,
     "geom:longitude":-85.744175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 S Broadway St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386987343,
-    "wof:lastmodified":1449028796,
+    "wof:lastmodified":1466502959,
     "wof:name":"Amvets Post 26 Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.744175,39.990256,-85.744175,39.990256],
+  "bbox": [
+    -85.744175,
+    39.990256,
+    -85.744175,
+    39.990256
+],
   "geometry": {"coordinates":[-85.744175,39.990256],"type":"Point"}
 }

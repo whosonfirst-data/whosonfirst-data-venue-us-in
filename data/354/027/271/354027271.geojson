@@ -2,13 +2,14 @@
   "id": 354027271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.499438,37.987784,-87.499438,37.987784",
     "geom:latitude":37.987784,
     "geom:longitude":-87.499438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4424 Vogel Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354027271,
-    "wof:lastmodified":1449066246,
+    "wof:lastmodified":1466502914,
     "wof:name":"Bank Of Evansville",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.499438,37.987784,-87.499438,37.987784],
+  "bbox": [
+    -87.499438,
+    37.987784,
+    -87.499438,
+    37.987784
+],
   "geometry": {"coordinates":[-87.499438,37.987784],"type":"Point"}
 }

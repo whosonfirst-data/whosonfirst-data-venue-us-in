@@ -2,13 +2,14 @@
   "id": 370274353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.150865,41.080299,-85.150865,41.080299",
     "geom:latitude":41.080299,
     "geom:longitude":-85.150865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Van Buren St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370274353,
-    "wof:lastmodified":1449029502,
+    "wof:lastmodified":1466503045,
     "wof:name":"Fair Deal Auto Sales Inc",
     "wof:parent_id":85877571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.150865,41.080299,-85.150865,41.080299],
+  "bbox": [
+    -85.150865,
+    41.080299,
+    -85.150865,
+    41.080299
+],
   "geometry": {"coordinates":[-85.150865,41.080299],"type":"Point"}
 }

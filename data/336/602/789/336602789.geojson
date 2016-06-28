@@ -2,13 +2,14 @@
   "id": 336602789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120324,39.910172,-86.120324,39.910172",
     "geom:latitude":39.910172,
     "geom:longitude":-86.120324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8440 Woodfield Crossing Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336602789,
-    "wof:lastmodified":1448997456,
+    "wof:lastmodified":1466502884,
     "wof:name":"USN Communications",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-86.120324,39.910172,-86.120324,39.910172],
+  "bbox": [
+    -86.120324,
+    39.910172,
+    -86.120324,
+    39.910172
+],
   "geometry": {"coordinates":[-86.120324,39.910172],"type":"Point"}
 }

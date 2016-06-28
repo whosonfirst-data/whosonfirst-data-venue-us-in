@@ -2,13 +2,14 @@
   "id": 303918755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.519861,41.530344,-85.519861,41.530344",
     "geom:latitude":41.530344,
     "geom:longitude":-85.519861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7635 S 500 W",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303918755,
-    "wof:lastmodified":1448999780,
+    "wof:lastmodified":1466503263,
     "wof:name":"Fought Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-85.519861,41.530344,-85.519861,41.530344],
-  "geometry": {"coordinates":[-85.519861,41.530344],"type":"Point"}
+  "bbox": [
+    -85.519861,
+    41.530344,
+    -85.519861,
+    41.530344
+],
+  "geometry": {"coordinates":[-85.51986100000001,41.530344],"type":"Point"}
 }

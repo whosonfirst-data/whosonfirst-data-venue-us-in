@@ -2,13 +2,14 @@
   "id": 303548951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.670925,40.27574,-85.670925,40.27574",
     "geom:latitude":40.27574,
     "geom:longitude":-85.670925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Park Ave",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303548951,
-    "wof:lastmodified":1448999808,
+    "wof:lastmodified":1466503744,
     "wof:name":"M G Midwest Inc",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-85.670925,40.27574,-85.670925,40.27574],
+  "bbox": [
+    -85.670925,
+    40.27574,
+    -85.670925,
+    40.27574
+],
   "geometry": {"coordinates":[-85.670925,40.27574],"type":"Point"}
 }

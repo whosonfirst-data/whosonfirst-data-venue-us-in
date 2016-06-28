@@ -2,13 +2,14 @@
   "id": 370552279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138157,41.149111,-85.138157,41.149111",
     "geom:latitude":41.149111,
     "geom:longitude":-85.138157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7605 Westfield Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370552279,
-    "wof:lastmodified":1449030497,
+    "wof:lastmodified":1466503340,
     "wof:name":"Automated Group Administration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-85.138157,41.149111,-85.138157,41.149111],
-  "geometry": {"coordinates":[-85.138157,41.149111],"type":"Point"}
+  "bbox": [
+    -85.138157,
+    41.149111,
+    -85.138157,
+    41.149111
+],
+  "geometry": {"coordinates":[-85.13815700000001,41.149111],"type":"Point"}
 }

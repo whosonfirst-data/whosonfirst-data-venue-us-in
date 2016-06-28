@@ -2,13 +2,14 @@
   "id": 387229067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.884995,38.391558,-85.884995,38.391558",
     "geom:latitude":38.391558,
     "geom:longitude":-85.884995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10003 Banet Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387229067,
-    "wof:lastmodified":1449059145,
+    "wof:lastmodified":1466503207,
     "wof:name":"Heck's Security & Metal Works",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-85.884995,38.391558,-85.884995,38.391558],
+  "bbox": [
+    -85.884995,
+    38.391558,
+    -85.884995,
+    38.391558
+],
   "geometry": {"coordinates":[-85.884995,38.391558],"type":"Point"}
 }

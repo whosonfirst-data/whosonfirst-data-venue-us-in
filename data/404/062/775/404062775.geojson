@@ -2,13 +2,14 @@
   "id": 404062775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.460795,41.629146,-87.460795,41.629146",
     "geom:latitude":41.629146,
     "geom:longitude":-87.460795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Chicago Ave",
     "sg:city":"East Chicago",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":404062775,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1466502965,
     "wof:name":"Immanuel Family Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.460795,41.629146,-87.460795,41.629146],
+  "bbox": [
+    -87.460795,
+    41.629146,
+    -87.460795,
+    41.629146
+],
   "geometry": {"coordinates":[-87.460795,41.629146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387313591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.115863,39.661516,-86.115863,39.661516",
     "geom:latitude":39.661516,
     "geom:longitude":-86.115863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Pine St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387313591,
-    "wof:lastmodified":1449056234,
+    "wof:lastmodified":1466503321,
     "wof:name":"Beckys Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-86.115863,39.661516,-86.115863,39.661516],
+  "bbox": [
+    -86.115863,
+    39.661516,
+    -86.115863,
+    39.661516
+],
   "geometry": {"coordinates":[-86.115863,39.661516],"type":"Point"}
 }

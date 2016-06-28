@@ -2,13 +2,14 @@
   "id": 303692705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261031,39.723052,-86.261031,39.723052",
     "geom:latitude":39.723052,
     "geom:longitude":-86.261031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Fortune Cir W",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303692705,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466502977,
     "wof:name":"Copyco Office Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-86.261031,39.723052,-86.261031,39.723052],
+  "bbox": [
+    -86.261031,
+    39.723052,
+    -86.261031,
+    39.723052
+],
   "geometry": {"coordinates":[-86.261031,39.723052],"type":"Point"}
 }

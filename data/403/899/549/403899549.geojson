@@ -2,13 +2,14 @@
   "id": 403899549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.524653,39.135882,-86.524653,39.135882",
     "geom:latitude":39.135882,
     "geom:longitude":-86.524653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Winslow Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403899549,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1466503161,
     "wof:name":"Options For Better Living",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.524653,39.135882,-86.524653,39.135882],
+  "bbox": [
+    -86.524653,
+    39.135882,
+    -86.524653,
+    39.135882
+],
   "geometry": {"coordinates":[-86.524653,39.135882],"type":"Point"}
 }

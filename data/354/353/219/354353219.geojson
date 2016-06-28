@@ -2,13 +2,14 @@
   "id": 354353219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.875439,41.697043,-85.875439,41.697043",
     "geom:latitude":41.697043,
     "geom:longitude":-85.875439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21240 Protecta Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354353219,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466503380,
     "wof:name":"Sante Fe Vans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "van"
     ]
 },
-  "bbox": [-85.875439,41.697043,-85.875439,41.697043],
+  "bbox": [
+    -85.875439,
+    41.697043,
+    -85.875439,
+    41.697043
+],
   "geometry": {"coordinates":[-85.875439,41.697043],"type":"Point"}
 }

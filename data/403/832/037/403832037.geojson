@@ -2,13 +2,14 @@
   "id": 403832037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258935,39.998592,-86.258935,39.998592",
     "geom:latitude":39.998592,
     "geom:longitude":-86.258935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10960 E 300 S",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403832037,
-    "wof:lastmodified":1449054633,
+    "wof:lastmodified":1466503066,
     "wof:name":"Dick Gale Landscape & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.258935,39.998592,-86.258935,39.998592],
-  "geometry": {"coordinates":[-86.258935,39.998592],"type":"Point"}
+  "bbox": [
+    -86.258935,
+    39.998592,
+    -86.258935,
+    39.998592
+],
+  "geometry": {"coordinates":[-86.25893499999999,39.998592],"type":"Point"}
 }

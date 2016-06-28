@@ -2,13 +2,14 @@
   "id": 387377925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.13527,40.036999,-86.13527,40.036999",
     "geom:latitude":40.036999,
     "geom:longitude":-86.13527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17350 US Hwy 31",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387377925,
-    "wof:lastmodified":1449057533,
+    "wof:lastmodified":1466503412,
     "wof:name":"Truss Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-86.13527,40.036999,-86.13527,40.036999],
-  "geometry": {"coordinates":[-86.13527,40.036999],"type":"Point"}
+  "bbox": [
+    -86.13527,
+    40.036999,
+    -86.13527,
+    40.036999
+],
+  "geometry": {"coordinates":[-86.13527000000001,40.036999],"type":"Point"}
 }

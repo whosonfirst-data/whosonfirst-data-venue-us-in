@@ -2,13 +2,14 @@
   "id": 353694949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.907265,39.211387,-85.907265,39.211387",
     "geom:latitude":39.211387,
     "geom:longitude":-85.907265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 13th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353694949,
-    "wof:lastmodified":1449018986,
+    "wof:lastmodified":1466503182,
     "wof:name":"WSI Internet Conslnt & Edu",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-85.907265,39.211387,-85.907265,39.211387],
+  "bbox": [
+    -85.907265,
+    39.211387,
+    -85.907265,
+    39.211387
+],
   "geometry": {"coordinates":[-85.907265,39.211387],"type":"Point"}
 }

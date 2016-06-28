@@ -2,13 +2,14 @@
   "id": 354399983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.239126,41.685027,-86.239126,41.685027",
     "geom:latitude":41.685027,
     "geom:longitude":-86.239126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Bend Ave",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354399983,
-    "wof:lastmodified":1449066240,
+    "wof:lastmodified":1466503449,
     "wof:name":"Magnetic Resonance Imaging Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "imaging"
     ]
 },
-  "bbox": [-86.239126,41.685027,-86.239126,41.685027],
+  "bbox": [
+    -86.239126,
+    41.685027,
+    -86.239126,
+    41.685027
+],
   "geometry": {"coordinates":[-86.239126,41.685027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404136467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.770659,40.76651,-86.770659,40.76651",
     "geom:latitude":40.76651,
     "geom:longitude":-86.770659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Main St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404136467,
-    "wof:lastmodified":1449040317,
+    "wof:lastmodified":1466503069,
     "wof:name":"Employment & Training Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employment"
     ]
 },
-  "bbox": [-86.770659,40.76651,-86.770659,40.76651],
-  "geometry": {"coordinates":[-86.770659,40.76651],"type":"Point"}
+  "bbox": [
+    -86.770659,
+    40.76651,
+    -86.770659,
+    40.76651
+],
+  "geometry": {"coordinates":[-86.77065899999999,40.76651],"type":"Point"}
 }

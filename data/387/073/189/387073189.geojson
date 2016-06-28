@@ -2,13 +2,14 @@
   "id": 387073189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.196666,41.041694,-85.196666,41.041694",
     "geom:latitude":41.041694,
     "geom:longitude":-85.196666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 Arden Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387073189,
-    "wof:lastmodified":1449056632,
+    "wof:lastmodified":1466502983,
     "wof:name":"Haunted Cave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.196666,41.041694,-85.196666,41.041694],
-  "geometry": {"coordinates":[-85.196666,41.041694],"type":"Point"}
+  "bbox": [
+    -85.196666,
+    41.041694,
+    -85.196666,
+    41.041694
+],
+  "geometry": {"coordinates":[-85.19666599999999,41.041694],"type":"Point"}
 }

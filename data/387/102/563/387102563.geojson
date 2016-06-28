@@ -2,13 +2,14 @@
   "id": 387102563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.820309,40.79165,-85.820309,40.79165",
     "geom:latitude":40.79165,
     "geom:longitude":-85.820309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"797 S Wabash St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387102563,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1466503035,
     "wof:name":"Total Works Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.820309,40.79165,-85.820309,40.79165],
-  "geometry": {"coordinates":[-85.820309,40.79165],"type":"Point"}
+  "bbox": [
+    -85.820309,
+    40.79165,
+    -85.820309,
+    40.79165
+],
+  "geometry": {"coordinates":[-85.82030899999999,40.79165],"type":"Point"}
 }

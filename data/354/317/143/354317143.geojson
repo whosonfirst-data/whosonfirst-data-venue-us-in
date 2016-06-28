@@ -2,13 +2,14 @@
   "id": 354317143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.91849,40.821227,-84.91849,40.821227",
     "geom:latitude":40.821227,
     "geom:longitude":-84.91849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 High St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354317143,
-    "wof:lastmodified":1449066689,
+    "wof:lastmodified":1466503321,
     "wof:name":"Park Center-Decatur Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-84.91849,40.821227,-84.91849,40.821227],
-  "geometry": {"coordinates":[-84.91849,40.821227],"type":"Point"}
+  "bbox": [
+    -84.91849,
+    40.821227,
+    -84.91849,
+    40.821227
+],
+  "geometry": {"coordinates":[-84.91849000000001,40.821227],"type":"Point"}
 }

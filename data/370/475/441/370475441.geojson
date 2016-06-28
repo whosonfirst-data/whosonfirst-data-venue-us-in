@@ -2,13 +2,14 @@
   "id": 370475441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399518,39.762698,-86.399518,39.762698",
     "geom:latitude":39.762698,
     "geom:longitude":-86.399518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7599 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370475441,
-    "wof:lastmodified":1449030487,
+    "wof:lastmodified":1466503248,
     "wof:name":"Baubles & Beads Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boutique"
     ]
 },
-  "bbox": [-86.399518,39.762698,-86.399518,39.762698],
+  "bbox": [
+    -86.399518,
+    39.762698,
+    -86.399518,
+    39.762698
+],
   "geometry": {"coordinates":[-86.399518,39.762698],"type":"Point"}
 }

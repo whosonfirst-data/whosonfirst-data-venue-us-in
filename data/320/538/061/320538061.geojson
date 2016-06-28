@@ -2,13 +2,14 @@
   "id": 320538061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.5222,41.604108,-87.5222,41.604108",
     "geom:latitude":41.604108,
     "geom:longitude":-87.5222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Highland St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320538061,
-    "wof:lastmodified":1449011720,
+    "wof:lastmodified":1466503223,
     "wof:name":"Wealth Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.5222,41.604108,-87.5222,41.604108],
+  "bbox": [
+    -87.5222,
+    41.604108,
+    -87.5222,
+    41.604108
+],
   "geometry": {"coordinates":[-87.5222,41.604108],"type":"Point"}
 }

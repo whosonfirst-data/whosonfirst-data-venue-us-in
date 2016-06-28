@@ -2,13 +2,14 @@
   "id": 387458169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.126646,41.601209,-87.126646,41.601209",
     "geom:latitude":41.601209,
     "geom:longitude":-87.126646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Melton Rd",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387458169,
-    "wof:lastmodified":1449058817,
+    "wof:lastmodified":1466503524,
     "wof:name":"Burns Harbor Liquors",
     "wof:parent_id":85812965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.126646,41.601209,-87.126646,41.601209],
-  "geometry": {"coordinates":[-87.126646,41.601209],"type":"Point"}
+  "bbox": [
+    -87.126646,
+    41.601209,
+    -87.126646,
+    41.601209
+],
+  "geometry": {"coordinates":[-87.12664599999999,41.601209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387953853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108818,39.93349,-86.108818,39.93349",
     "geom:latitude":39.93349,
     "geom:longitude":-86.108818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Lakewood Dr N",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387953853,
-    "wof:lastmodified":1449058733,
+    "wof:lastmodified":1466504206,
     "wof:name":"VIP Cleaning Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.108818,39.93349,-86.108818,39.93349],
+  "bbox": [
+    -86.108818,
+    39.93349,
+    -86.108818,
+    39.93349
+],
   "geometry": {"coordinates":[-86.108818,39.93349],"type":"Point"}
 }

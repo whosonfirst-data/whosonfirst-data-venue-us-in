@@ -2,13 +2,14 @@
   "id": 319966493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.491952,40.287609,-85.491952,40.287609",
     "geom:latitude":40.287609,
     "geom:longitude":-85.491952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9001 W McColm Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319966493,
-    "wof:lastmodified":1449024108,
+    "wof:lastmodified":1466503624,
     "wof:name":"Shadeland Farm",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.491952,40.287609,-85.491952,40.287609],
+  "bbox": [
+    -85.491952,
+    40.287609,
+    -85.491952,
+    40.287609
+],
   "geometry": {"coordinates":[-85.491952,40.287609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404164303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.044943,41.112444,-85.044943,41.112444",
     "geom:latitude":41.112444,
     "geom:longitude":-85.044943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7427 Valley Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":404164303,
-    "wof:lastmodified":1449039159,
+    "wof:lastmodified":1466503106,
     "wof:name":"Paramount Lending Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.044943,41.112444,-85.044943,41.112444],
+  "bbox": [
+    -85.044943,
+    41.112444,
+    -85.044943,
+    41.112444
+],
   "geometry": {"coordinates":[-85.044943,41.112444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403852391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157847,39.918039,-86.157847,39.918039",
     "geom:latitude":39.918039,
     "geom:longitude":-86.157847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8935 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403852391,
-    "wof:lastmodified":1449055750,
+    "wof:lastmodified":1466503096,
     "wof:name":"CM Associates Inc",
     "wof:parent_id":85850623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-86.157847,39.918039,-86.157847,39.918039],
+  "bbox": [
+    -86.157847,
+    39.918039,
+    -86.157847,
+    39.918039
+],
   "geometry": {"coordinates":[-86.157847,39.918039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320019031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.016904,41.072303,-85.016904,41.072303",
     "geom:latitude":41.072303,
     "geom:longitude":-85.016904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Broadway St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320019031,
-    "wof:lastmodified":1449013402,
+    "wof:lastmodified":1466503816,
     "wof:name":"Allstate Insurance Companies",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.016904,41.072303,-85.016904,41.072303],
+  "bbox": [
+    -85.016904,
+    41.072303,
+    -85.016904,
+    41.072303
+],
   "geometry": {"coordinates":[-85.016904,41.072303],"type":"Point"}
 }

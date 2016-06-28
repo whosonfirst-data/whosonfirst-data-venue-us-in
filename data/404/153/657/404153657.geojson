@@ -2,13 +2,14 @@
   "id": 404153657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.994539,39.680459,-85.994539,39.680459",
     "geom:latitude":39.680459,
     "geom:longitude":-85.994539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6249 Hickory Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404153657,
-    "wof:lastmodified":1449039953,
+    "wof:lastmodified":1466503093,
     "wof:name":"Jarnagin Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.994539,39.680459,-85.994539,39.680459],
+  "bbox": [
+    -85.994539,
+    39.680459,
+    -85.994539,
+    39.680459
+],
   "geometry": {"coordinates":[-85.994539,39.680459],"type":"Point"}
 }

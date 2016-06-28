@@ -2,13 +2,14 @@
   "id": 370270177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.153556,41.067698,-85.153556,41.067698",
     "geom:latitude":41.067698,
     "geom:longitude":-85.153556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Taylor St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370270177,
-    "wof:lastmodified":1449029693,
+    "wof:lastmodified":1466503038,
     "wof:name":"Munchie Emporium The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-85.153556,41.067698,-85.153556,41.067698],
-  "geometry": {"coordinates":[-85.153556,41.067698],"type":"Point"}
+  "bbox": [
+    -85.153556,
+    41.067698,
+    -85.153556,
+    41.067698
+],
+  "geometry": {"coordinates":[-85.15355599999999,41.067698],"type":"Point"}
 }

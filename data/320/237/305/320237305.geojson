@@ -2,13 +2,14 @@
   "id": 320237305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.480999,41.585055,-87.480999,41.585055",
     "geom:latitude":41.585055,
     "geom:longitude":-87.480999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":320237305,
-    "wof:lastmodified":1449011350,
+    "wof:lastmodified":1466503773,
     "wof:name":"Mirrors Image Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.480999,41.585055,-87.480999,41.585055],
+  "bbox": [
+    -87.480999,
+    41.585055,
+    -87.480999,
+    41.585055
+],
   "geometry": {"coordinates":[-87.480999,41.585055],"type":"Point"}
 }

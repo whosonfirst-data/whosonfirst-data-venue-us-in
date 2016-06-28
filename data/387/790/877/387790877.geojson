@@ -2,13 +2,14 @@
   "id": 387790877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.171473,40.739704,-85.171473,40.739704",
     "geom:latitude":40.739704,
     "geom:longitude":-85.171473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Market St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387790877,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1466503961,
     "wof:name":"Wells County Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-85.171473,40.739704,-85.171473,40.739704],
-  "geometry": {"coordinates":[-85.171473,40.739704],"type":"Point"}
+  "bbox": [
+    -85.171473,
+    40.739704,
+    -85.171473,
+    40.739704
+],
+  "geometry": {"coordinates":[-85.17147300000001,40.739704],"type":"Point"}
 }

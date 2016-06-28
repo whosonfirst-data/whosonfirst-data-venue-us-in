@@ -2,13 +2,14 @@
   "id": 371054109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.53494,39.167537,-86.53494,39.167537",
     "geom:latitude":39.167537,
     "geom:longitude":-86.53494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N College Ave",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371054109,
-    "wof:lastmodified":1449049499,
+    "wof:lastmodified":1466502934,
     "wof:name":"Agate Workshop",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-86.53494,39.167537,-86.53494,39.167537],
-  "geometry": {"coordinates":[-86.53494,39.167537],"type":"Point"}
+  "bbox": [
+    -86.53494,
+    39.167537,
+    -86.53494,
+    39.167537
+],
+  "geometry": {"coordinates":[-86.53494000000001,39.167537],"type":"Point"}
 }

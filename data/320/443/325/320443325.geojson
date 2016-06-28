@@ -2,13 +2,14 @@
   "id": 320443325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156851,39.824894,-86.156851,39.824894",
     "geom:latitude":39.824894,
     "geom:longitude":-86.156851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3737 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320443325,
-    "wof:lastmodified":1449014277,
+    "wof:lastmodified":1466503110,
     "wof:name":"Credit Solutions Assn",
     "wof:parent_id":85832319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-86.156851,39.824894,-86.156851,39.824894],
+  "bbox": [
+    -86.156851,
+    39.824894,
+    -86.156851,
+    39.824894
+],
   "geometry": {"coordinates":[-86.156851,39.824894],"type":"Point"}
 }

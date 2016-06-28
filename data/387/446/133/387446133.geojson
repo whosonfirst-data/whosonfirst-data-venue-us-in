@@ -2,13 +2,14 @@
   "id": 387446133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.059588,39.935345,-86.059588,39.935345",
     "geom:latitude":39.935345,
     "geom:longitude":-86.059588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Willow Brook Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387446133,
-    "wof:lastmodified":1449059592,
+    "wof:lastmodified":1466503506,
     "wof:name":"Morrow Financial LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-86.059588,39.935345,-86.059588,39.935345],
-  "geometry": {"coordinates":[-86.059588,39.935345],"type":"Point"}
+  "bbox": [
+    -86.059588,
+    39.935345,
+    -86.059588,
+    39.935345
+],
+  "geometry": {"coordinates":[-86.05958800000001,39.935345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336720657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.343294,39.763557,-86.343294,39.763557",
     "geom:latitude":39.763557,
     "geom:longitude":-86.343294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10397 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336720657,
-    "wof:lastmodified":1448997207,
+    "wof:lastmodified":1466503042,
     "wof:name":"Factory Card Outlet",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.343294,39.763557,-86.343294,39.763557],
+  "bbox": [
+    -86.343294,
+    39.763557,
+    -86.343294,
+    39.763557
+],
   "geometry": {"coordinates":[-86.343294,39.763557],"type":"Point"}
 }

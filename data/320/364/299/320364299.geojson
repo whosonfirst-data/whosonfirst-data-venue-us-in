@@ -2,13 +2,14 @@
   "id": 320364299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.124974,39.868753,-86.124974,39.868753",
     "geom:latitude":39.868753,
     "geom:longitude":-86.124974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2138 E 62nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320364299,
-    "wof:lastmodified":1449013356,
+    "wof:lastmodified":1466503004,
     "wof:name":"Surgical Speciality Products",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.124974,39.868753,-86.124974,39.868753],
-  "geometry": {"coordinates":[-86.124974,39.868753],"type":"Point"}
+  "bbox": [
+    -86.124974,
+    39.868753,
+    -86.124974,
+    39.868753
+],
+  "geometry": {"coordinates":[-86.12497399999999,39.868753],"type":"Point"}
 }

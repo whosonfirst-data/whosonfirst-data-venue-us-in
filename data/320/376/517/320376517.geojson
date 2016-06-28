@@ -2,13 +2,14 @@
   "id": 320376517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.352459,41.431273,-87.352459,41.431273",
     "geom:latitude":41.431273,
     "geom:longitude":-87.352459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Crown Ct",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320376517,
-    "wof:lastmodified":1449012550,
+    "wof:lastmodified":1466503022,
     "wof:name":"Ad-Tec Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-87.352459,41.431273,-87.352459,41.431273],
+  "bbox": [
+    -87.352459,
+    41.431273,
+    -87.352459,
+    41.431273
+],
   "geometry": {"coordinates":[-87.352459,41.431273],"type":"Point"}
 }

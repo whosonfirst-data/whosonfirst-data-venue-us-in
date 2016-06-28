@@ -2,13 +2,14 @@
   "id": 370810615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.462782,41.58535,-87.462782,41.58535",
     "geom:latitude":41.58535,
     "geom:longitude":-87.462782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7035 Marshall Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370810615,
-    "wof:lastmodified":1449030090,
+    "wof:lastmodified":1466503598,
     "wof:name":"Faithful Stewards Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.462782,41.58535,-87.462782,41.58535],
+  "bbox": [
+    -87.462782,
+    41.58535,
+    -87.462782,
+    41.58535
+],
   "geometry": {"coordinates":[-87.462782,41.58535],"type":"Point"}
 }

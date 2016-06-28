@@ -2,13 +2,14 @@
   "id": 387452015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.14617,39.867844,-86.14617,39.867844",
     "geom:latitude":39.867844,
     "geom:longitude":-86.14617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6144 N College Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387452015,
-    "wof:lastmodified":1449056998,
+    "wof:lastmodified":1466503514,
     "wof:name":"Highfield & Assoc",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "financial"
     ]
 },
-  "bbox": [-86.14617,39.867844,-86.14617,39.867844],
+  "bbox": [
+    -86.14617,
+    39.867844,
+    -86.14617,
+    39.867844
+],
   "geometry": {"coordinates":[-86.14617,39.867844],"type":"Point"}
 }

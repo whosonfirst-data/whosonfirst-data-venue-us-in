@@ -2,13 +2,14 @@
   "id": 354389479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.173618,41.656026,-85.173618,41.656026",
     "geom:latitude":41.656026,
     "geom:longitude":-85.173618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 N State Rd 327",
     "sg:city":"Orland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354389479,
-    "wof:lastmodified":1449067282,
+    "wof:lastmodified":1466503427,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-85.173618,41.656026,-85.173618,41.656026],
+  "bbox": [
+    -85.173618,
+    41.656026,
+    -85.173618,
+    41.656026
+],
   "geometry": {"coordinates":[-85.173618,41.656026],"type":"Point"}
 }

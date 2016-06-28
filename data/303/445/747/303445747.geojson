@@ -2,13 +2,14 @@
   "id": 303445747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.743996,39.987767,-85.743996,39.987767",
     "geom:latitude":39.987767,
     "geom:longitude":-85.743996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7065 State Rd 67",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303445747,
-    "wof:lastmodified":1448998445,
+    "wof:lastmodified":1466503682,
     "wof:name":"Jimmy's Dairy Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-85.743996,39.987767,-85.743996,39.987767],
+  "bbox": [
+    -85.743996,
+    39.987767,
+    -85.743996,
+    39.987767
+],
   "geometry": {"coordinates":[-85.743996,39.987767],"type":"Point"}
 }

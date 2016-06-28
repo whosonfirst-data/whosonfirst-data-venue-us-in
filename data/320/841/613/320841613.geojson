@@ -2,13 +2,14 @@
   "id": 320841613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570778,37.982769,-87.570778,37.982769",
     "geom:latitude":37.982769,
     "geom:longitude":-87.570778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Mary St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320841613,
-    "wof:lastmodified":1449012040,
+    "wof:lastmodified":1466503549,
     "wof:name":"Tri-State Sports Medicine",
     "wof:parent_id":85877317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.570778,37.982769,-87.570778,37.982769],
+  "bbox": [
+    -87.570778,
+    37.982769,
+    -87.570778,
+    37.982769
+],
   "geometry": {"coordinates":[-87.570778,37.982769],"type":"Point"}
 }

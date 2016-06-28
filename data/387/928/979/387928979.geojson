@@ -2,13 +2,14 @@
   "id": 387928979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.130536,39.765141,-86.130536,39.765141",
     "geom:latitude":39.765141,
     "geom:longitude":-86.130536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 S State Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387928979,
-    "wof:lastmodified":1449059395,
+    "wof:lastmodified":1466504174,
     "wof:name":"Michael Donley",
     "wof:parent_id":85870633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-86.130536,39.765141,-86.130536,39.765141],
-  "geometry": {"coordinates":[-86.130536,39.765141],"type":"Point"}
+  "bbox": [
+    -86.130536,
+    39.765141,
+    -86.130536,
+    39.765141
+],
+  "geometry": {"coordinates":[-86.13053600000001,39.765141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387004357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.770743,41.558453,-85.770743,41.558453",
     "geom:latitude":41.558453,
     "geom:longitude":-85.770743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63700 Co Rd 31",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387004357,
-    "wof:lastmodified":1449057492,
+    "wof:lastmodified":1466502886,
     "wof:name":"Hoosier Concrete Pumping LLC",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [-85.770743,41.558453,-85.770743,41.558453],
+  "bbox": [
+    -85.770743,
+    41.558453,
+    -85.770743,
+    41.558453
+],
   "geometry": {"coordinates":[-85.770743,41.558453],"type":"Point"}
 }

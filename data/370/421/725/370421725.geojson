@@ -2,13 +2,14 @@
   "id": 370421725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563493,37.975323,-87.563493,37.975323",
     "geom:latitude":37.975323,
     "geom:longitude":-87.563493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Pasco Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370421725,
-    "wof:lastmodified":1449031222,
+    "wof:lastmodified":1466503191,
     "wof:name":"Cape Ida Message Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "answering"
     ]
 },
-  "bbox": [-87.563493,37.975323,-87.563493,37.975323],
-  "geometry": {"coordinates":[-87.563493,37.975323],"type":"Point"}
+  "bbox": [
+    -87.563493,
+    37.975323,
+    -87.563493,
+    37.975323
+],
+  "geometry": {"coordinates":[-87.56349299999999,37.975323],"type":"Point"}
 }

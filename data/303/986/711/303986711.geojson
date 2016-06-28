@@ -2,13 +2,14 @@
   "id": 303986711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.76055,39.786435,-85.76055,39.786435",
     "geom:latitude":39.786435,
     "geom:longitude":-85.76055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Howard St",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303986711,
-    "wof:lastmodified":1449000091,
+    "wof:lastmodified":1466503367,
     "wof:name":"Benny's Lock & Key Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-85.76055,39.786435,-85.76055,39.786435],
-  "geometry": {"coordinates":[-85.76055,39.786435],"type":"Point"}
+  "bbox": [
+    -85.76055,
+    39.786435,
+    -85.76055,
+    39.786435
+],
+  "geometry": {"coordinates":[-85.76054999999999,39.786435],"type":"Point"}
 }

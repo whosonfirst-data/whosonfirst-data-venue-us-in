@@ -2,13 +2,14 @@
   "id": 303737387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.262452,39.998387,-86.262452,39.998387",
     "geom:latitude":39.998387,
     "geom:longitude":-86.262452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11155 E 300 S",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303737387,
-    "wof:lastmodified":1448998663,
+    "wof:lastmodified":1466503030,
     "wof:name":"Routh Gravel Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-86.262452,39.998387,-86.262452,39.998387],
+  "bbox": [
+    -86.262452,
+    39.998387,
+    -86.262452,
+    39.998387
+],
   "geometry": {"coordinates":[-86.262452,39.998387],"type":"Point"}
 }

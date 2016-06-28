@@ -2,13 +2,14 @@
   "id": 320372267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492196,38.007749,-87.492196,38.007749",
     "geom:latitude":38.007749,
     "geom:longitude":-87.492196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320372267,
-    "wof:lastmodified":1449013519,
+    "wof:lastmodified":1466503015,
     "wof:name":"Clayton's Fine Dry Cleaning",
     "wof:parent_id":85877323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.492196,38.007749,-87.492196,38.007749],
-  "geometry": {"coordinates":[-87.492196,38.007749],"type":"Point"}
+  "bbox": [
+    -87.492196,
+    38.007749,
+    -87.492196,
+    38.007749
+],
+  "geometry": {"coordinates":[-87.49219600000001,38.007749],"type":"Point"}
 }

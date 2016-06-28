@@ -2,13 +2,14 @@
   "id": 387700419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.719507,41.20586,-85.719507,41.20586",
     "geom:latitude":41.20586,
     "geom:longitude":-85.719507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arnolt Dr",
     "sg:city":"Pierceton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387700419,
-    "wof:lastmodified":1449059585,
+    "wof:lastmodified":1466503842,
     "wof:name":"Midwest Roll Forming Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forming"
     ]
 },
-  "bbox": [-85.719507,41.20586,-85.719507,41.20586],
-  "geometry": {"coordinates":[-85.719507,41.20586],"type":"Point"}
+  "bbox": [
+    -85.719507,
+    41.20586,
+    -85.719507,
+    41.20586
+],
+  "geometry": {"coordinates":[-85.71950699999999,41.20586],"type":"Point"}
 }

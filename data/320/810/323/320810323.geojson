@@ -2,13 +2,14 @@
   "id": 320810323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278705,39.940678,-86.278705,39.940678",
     "geom:latitude":39.940678,
     "geom:longitude":-86.278705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6855 S Ford Rd",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320810323,
-    "wof:lastmodified":1449012346,
+    "wof:lastmodified":1466503519,
     "wof:name":"Pams Daycare",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "provider"
     ]
 },
-  "bbox": [-86.278705,39.940678,-86.278705,39.940678],
+  "bbox": [
+    -86.278705,
+    39.940678,
+    -86.278705,
+    39.940678
+],
   "geometry": {"coordinates":[-86.278705,39.940678],"type":"Point"}
 }

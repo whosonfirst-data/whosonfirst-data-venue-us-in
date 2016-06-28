@@ -2,13 +2,14 @@
   "id": 387590845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.27214,39.777444,-86.27214,39.777444",
     "geom:latitude":39.777444,
     "geom:longitude":-86.27214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N High School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":387590845,
-    "wof:lastmodified":1449058370,
+    "wof:lastmodified":1466503703,
     "wof:name":"Indiana Statewide Assn-Rural",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.27214,39.777444,-86.27214,39.777444],
-  "geometry": {"coordinates":[-86.27214,39.777444],"type":"Point"}
+  "bbox": [
+    -86.27214,
+    39.777444,
+    -86.27214,
+    39.777444
+],
+  "geometry": {"coordinates":[-86.27213999999999,39.777444],"type":"Point"}
 }

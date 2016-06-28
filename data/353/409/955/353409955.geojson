@@ -2,13 +2,14 @@
   "id": 353409955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148068,38.321607,-86.148068,38.321607",
     "geom:latitude":38.321607,
     "geom:longitude":-86.148068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1293 Hwy 64 NW",
     "sg:city":"Ramsey",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353409955,
-    "wof:lastmodified":1449019296,
+    "wof:lastmodified":1466502895,
     "wof:name":"Performance Works Auto Service",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.148068,38.321607,-86.148068,38.321607],
-  "geometry": {"coordinates":[-86.148068,38.321607],"type":"Point"}
+  "bbox": [
+    -86.148068,
+    38.321607,
+    -86.148068,
+    38.321607
+],
+  "geometry": {"coordinates":[-86.14806799999999,38.321607],"type":"Point"}
 }

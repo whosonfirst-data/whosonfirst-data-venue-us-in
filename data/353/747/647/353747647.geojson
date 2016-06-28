@@ -2,13 +2,14 @@
   "id": 353747647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.167412,40.297972,-87.167412,40.297972",
     "geom:latitude":40.297972,
     "geom:longitude":-87.167412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 N Riverside Rd",
     "sg:city":"Attica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353747647,
-    "wof:lastmodified":1449018712,
+    "wof:lastmodified":1466503244,
     "wof:name":"Brett's Concrete Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.167412,40.297972,-87.167412,40.297972],
+  "bbox": [
+    -87.167412,
+    40.297972,
+    -87.167412,
+    40.297972
+],
   "geometry": {"coordinates":[-87.167412,40.297972],"type":"Point"}
 }

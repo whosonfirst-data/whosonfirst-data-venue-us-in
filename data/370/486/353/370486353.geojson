@@ -2,13 +2,14 @@
   "id": 370486353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.976786,39.931083,-85.976786,39.931083",
     "geom:latitude":39.931083,
     "geom:longitude":-85.976786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10784 Woodmont Ln",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370486353,
-    "wof:lastmodified":1449030951,
+    "wof:lastmodified":1466503262,
     "wof:name":"Hit & Run Baseball LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "club"
     ]
 },
-  "bbox": [-85.976786,39.931083,-85.976786,39.931083],
+  "bbox": [
+    -85.976786,
+    39.931083,
+    -85.976786,
+    39.931083
+],
   "geometry": {"coordinates":[-85.976786,39.931083],"type":"Point"}
 }

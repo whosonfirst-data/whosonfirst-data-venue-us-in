@@ -2,13 +2,14 @@
   "id": 403706927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005645,40.017327,-86.005645,40.017327",
     "geom:latitude":40.017327,
     "geom:longitude":-86.005645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Chesterfield Ct",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403706927,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466502888,
     "wof:name":"Precision Surgical Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.005645,40.017327,-86.005645,40.017327],
+  "bbox": [
+    -86.005645,
+    40.017327,
+    -86.005645,
+    40.017327
+],
   "geometry": {"coordinates":[-86.005645,40.017327],"type":"Point"}
 }

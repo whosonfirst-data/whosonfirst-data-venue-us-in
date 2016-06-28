@@ -2,13 +2,14 @@
   "id": 370727079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.134219,41.08123,-85.134219,41.08123",
     "geom:latitude":41.08123,
     "geom:longitude":-85.134219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 E Main St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370727079,
-    "wof:lastmodified":1449029601,
+    "wof:lastmodified":1466503513,
     "wof:name":"Fort Wayne Arson Dept",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.134219,41.08123,-85.134219,41.08123],
+  "bbox": [
+    -85.134219,
+    41.08123,
+    -85.134219,
+    41.08123
+],
   "geometry": {"coordinates":[-85.134219,41.08123],"type":"Point"}
 }

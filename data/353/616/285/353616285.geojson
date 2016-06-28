@@ -2,13 +2,14 @@
   "id": 353616285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.653029,40.06474,-85.653029,40.06474",
     "geom:latitude":40.06474,
     "geom:longitude":-85.653029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4909 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353616285,
-    "wof:lastmodified":1449020113,
+    "wof:lastmodified":1466503093,
     "wof:name":"Fred Palmer Insurance",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.653029,40.06474,-85.653029,40.06474],
+  "bbox": [
+    -85.653029,
+    40.06474,
+    -85.653029,
+    40.06474
+],
   "geometry": {"coordinates":[-85.653029,40.06474],"type":"Point"}
 }

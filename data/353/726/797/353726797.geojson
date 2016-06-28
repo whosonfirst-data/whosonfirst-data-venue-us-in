@@ -2,13 +2,14 @@
   "id": 353726797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.831338,40.385282,-86.831338,40.385282",
     "geom:latitude":40.385282,
     "geom:longitude":-86.831338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3995 State Rd 38 E",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353726797,
-    "wof:lastmodified":1449019989,
+    "wof:lastmodified":1466503217,
     "wof:name":"A Creative Hand",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-86.831338,40.385282,-86.831338,40.385282],
+  "bbox": [
+    -86.831338,
+    40.385282,
+    -86.831338,
+    40.385282
+],
   "geometry": {"coordinates":[-86.831338,40.385282],"type":"Point"}
 }

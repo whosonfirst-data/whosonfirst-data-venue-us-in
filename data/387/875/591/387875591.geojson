@@ -2,13 +2,14 @@
   "id": 387875591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899787,40.041654,-86.899787,40.041654",
     "geom:latitude":40.041654,
     "geom:longitude":-86.899787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Main St",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387875591,
-    "wof:lastmodified":1449058933,
+    "wof:lastmodified":1466504091,
     "wof:name":"Tri Corp of Indiana Inc",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-86.899787,40.041654,-86.899787,40.041654],
+  "bbox": [
+    -86.899787,
+    40.041654,
+    -86.899787,
+    40.041654
+],
   "geometry": {"coordinates":[-86.899787,40.041654],"type":"Point"}
 }

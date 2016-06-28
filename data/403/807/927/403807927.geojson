@@ -2,13 +2,14 @@
   "id": 403807927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.740137,38.271274,-85.740137,38.271274",
     "geom:latitude":38.271274,
     "geom:longitude":-85.740137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Spring St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403807927,
-    "wof:lastmodified":1449054984,
+    "wof:lastmodified":1466503031,
     "wof:name":"Little Angel Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-85.740137,38.271274,-85.740137,38.271274],
+  "bbox": [
+    -85.740137,
+    38.271274,
+    -85.740137,
+    38.271274
+],
   "geometry": {"coordinates":[-85.740137,38.271274],"type":"Point"}
 }

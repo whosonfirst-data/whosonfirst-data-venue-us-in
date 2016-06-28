@@ -2,13 +2,14 @@
   "id": 387038627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.313936,39.5021,-86.313936,39.5021",
     "geom:latitude":39.5021,
     "geom:longitude":-86.313936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6290 New Harmony Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387038627,
-    "wof:lastmodified":1449058547,
+    "wof:lastmodified":1466502936,
     "wof:name":"D & B Continuous Guttering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gutter"
     ]
 },
-  "bbox": [-86.313936,39.5021,-86.313936,39.5021],
+  "bbox": [
+    -86.313936,
+    39.5021,
+    -86.313936,
+    39.5021
+],
   "geometry": {"coordinates":[-86.313936,39.5021],"type":"Point"}
 }

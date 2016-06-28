@@ -2,13 +2,14 @@
   "id": 404057483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.976221,40.176781,-84.976221,40.176781",
     "geom:latitude":40.176781,
     "geom:longitude":-84.976221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Union St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404057483,
-    "wof:lastmodified":1449039660,
+    "wof:lastmodified":1466502958,
     "wof:name":"Union Street Wesleyan Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.976221,40.176781,-84.976221,40.176781],
+  "bbox": [
+    -84.976221,
+    40.176781,
+    -84.976221,
+    40.176781
+],
   "geometry": {"coordinates":[-84.976221,40.176781],"type":"Point"}
 }

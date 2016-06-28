@@ -2,13 +2,14 @@
   "id": 387630561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.405062,37.948228,-87.405062,37.948228",
     "geom:latitude":37.948228,
     "geom:longitude":-87.405062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 State St",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387630561,
-    "wof:lastmodified":1449057459,
+    "wof:lastmodified":1466503753,
     "wof:name":"Newburgh-Chandler Register",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-87.405062,37.948228,-87.405062,37.948228],
+  "bbox": [
+    -87.405062,
+    37.948228,
+    -87.405062,
+    37.948228
+],
   "geometry": {"coordinates":[-87.405062,37.948228],"type":"Point"}
 }

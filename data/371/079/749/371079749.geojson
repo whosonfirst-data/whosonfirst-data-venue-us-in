@@ -2,13 +2,14 @@
   "id": 371079749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.192771,41.136478,-85.192771,41.136478",
     "geom:latitude":41.136478,
     "geom:longitude":-85.192771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 Huguenard Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371079749,
-    "wof:lastmodified":1449049943,
+    "wof:lastmodified":1466502969,
     "wof:name":"Strahm Contract Interiors",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "decorator"
     ]
 },
-  "bbox": [-85.192771,41.136478,-85.192771,41.136478],
-  "geometry": {"coordinates":[-85.192771,41.136478],"type":"Point"}
+  "bbox": [
+    -85.192771,
+    41.136478,
+    -85.192771,
+    41.136478
+],
+  "geometry": {"coordinates":[-85.19277099999999,41.136478],"type":"Point"}
 }

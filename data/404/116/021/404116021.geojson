@@ -2,13 +2,14 @@
   "id": 404116021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.756851,39.596116,-85.756851,39.596116",
     "geom:latitude":39.596116,
     "geom:longitude":-85.756851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4852 N Morristown Rd",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404116021,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466503046,
     "wof:name":"Crouse's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-85.756851,39.596116,-85.756851,39.596116],
+  "bbox": [
+    -85.756851,
+    39.596116,
+    -85.756851,
+    39.596116
+],
   "geometry": {"coordinates":[-85.756851,39.596116],"type":"Point"}
 }

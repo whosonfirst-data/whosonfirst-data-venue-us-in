@@ -2,13 +2,14 @@
   "id": 387516247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.556153,38.999872,-86.556153,38.999872",
     "geom:latitude":38.999872,
     "geom:longitude":-86.556153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 S Bennett Ln",
     "sg:city":"Springville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387516247,
-    "wof:lastmodified":1449056828,
+    "wof:lastmodified":1466503597,
     "wof:name":"Stone Crest Golf Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-86.556153,38.999872,-86.556153,38.999872],
-  "geometry": {"coordinates":[-86.556153,38.999872],"type":"Point"}
+  "bbox": [
+    -86.556153,
+    38.999872,
+    -86.556153,
+    38.999872
+],
+  "geometry": {"coordinates":[-86.55615299999999,38.999872],"type":"Point"}
 }

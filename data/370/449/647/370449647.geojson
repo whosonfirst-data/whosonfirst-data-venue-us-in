@@ -2,13 +2,14 @@
   "id": 370449647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.511472,37.991434,-87.511472,37.991434",
     "geom:latitude":37.991434,
     "geom:longitude":-87.511472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 E Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370449647,
-    "wof:lastmodified":1449032218,
+    "wof:lastmodified":1466503223,
     "wof:name":"Professional Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.511472,37.991434,-87.511472,37.991434],
+  "bbox": [
+    -87.511472,
+    37.991434,
+    -87.511472,
+    37.991434
+],
   "geometry": {"coordinates":[-87.511472,37.991434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353847597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156831,39.822203,-86.156831,39.822203",
     "geom:latitude":39.822203,
     "geom:longitude":-86.156831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3637 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353847597,
-    "wof:lastmodified":1449019184,
+    "wof:lastmodified":1466503364,
     "wof:name":"Indianapolis Family Dev Svc",
     "wof:parent_id":85832319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-86.156831,39.822203,-86.156831,39.822203],
+  "bbox": [
+    -86.156831,
+    39.822203,
+    -86.156831,
+    39.822203
+],
   "geometry": {"coordinates":[-86.156831,39.822203],"type":"Point"}
 }

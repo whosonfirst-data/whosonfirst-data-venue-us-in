@@ -2,13 +2,14 @@
   "id": 387266983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.911818,38.67901,-86.911818,38.67901",
     "geom:latitude":38.67901,
     "geom:longitude":-86.911818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 North St",
     "sg:city":"Loogootee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387266983,
-    "wof:lastmodified":1449056238,
+    "wof:lastmodified":1466503258,
     "wof:name":"Lou Rays Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.911818,38.67901,-86.911818,38.67901],
+  "bbox": [
+    -86.911818,
+    38.67901,
+    -86.911818,
+    38.67901
+],
   "geometry": {"coordinates":[-86.911818,38.67901],"type":"Point"}
 }

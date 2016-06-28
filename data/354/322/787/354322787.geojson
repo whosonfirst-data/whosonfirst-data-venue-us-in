@@ -2,13 +2,14 @@
   "id": 354322787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.015938,39.682968,-86.015938,39.682968",
     "geom:latitude":39.682968,
     "geom:longitude":-86.015938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5834 Lida Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354322787,
-    "wof:lastmodified":1449065912,
+    "wof:lastmodified":1466503327,
     "wof:name":"Deck Sealers of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.015938,39.682968,-86.015938,39.682968],
-  "geometry": {"coordinates":[-86.015938,39.682968],"type":"Point"}
+  "bbox": [
+    -86.015938,
+    39.682968,
+    -86.015938,
+    39.682968
+],
+  "geometry": {"coordinates":[-86.01593800000001,39.682968],"type":"Point"}
 }

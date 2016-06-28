@@ -2,13 +2,14 @@
   "id": 387855929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.075019,40.745569,-86.075019,40.745569",
     "geom:latitude":40.745569,
     "geom:longitude":-86.075019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 W Riverside Dr",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387855929,
-    "wof:lastmodified":1449058910,
+    "wof:lastmodified":1466504061,
     "wof:name":"Sajac Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.075019,40.745569,-86.075019,40.745569],
+  "bbox": [
+    -86.075019,
+    40.745569,
+    -86.075019,
+    40.745569
+],
   "geometry": {"coordinates":[-86.075019,40.745569],"type":"Point"}
 }

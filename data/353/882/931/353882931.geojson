@@ -2,13 +2,14 @@
   "id": 353882931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.994239,40.432846,-84.994239,40.432846",
     "geom:latitude":40.432846,
     "geom:longitude":-84.994239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 W Main St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353882931,
-    "wof:lastmodified":1449018699,
+    "wof:lastmodified":1466503405,
     "wof:name":"Herschel R Burkett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.994239,40.432846,-84.994239,40.432846],
-  "geometry": {"coordinates":[-84.994239,40.432846],"type":"Point"}
+  "bbox": [
+    -84.994239,
+    40.432846,
+    -84.994239,
+    40.432846
+],
+  "geometry": {"coordinates":[-84.99423899999999,40.432846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403962817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.264563,40.30399,-87.264563,40.30399",
     "geom:latitude":40.30399,
     "geom:longitude":-87.264563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2949 E US Hwy 41",
     "sg:city":"Attica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403962817,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1466503249,
     "wof:name":"Gary's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.264563,40.30399,-87.264563,40.30399],
+  "bbox": [
+    -87.264563,
+    40.30399,
+    -87.264563,
+    40.30399
+],
   "geometry": {"coordinates":[-87.264563,40.30399],"type":"Point"}
 }

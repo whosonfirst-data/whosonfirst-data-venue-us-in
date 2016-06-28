@@ -2,13 +2,14 @@
   "id": 387323135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.986741,41.69698,-85.986741,41.69698",
     "geom:latitude":41.69698,
     "geom:longitude":-85.986741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Randolph St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387323135,
-    "wof:lastmodified":1449056432,
+    "wof:lastmodified":1466503335,
     "wof:name":"Spark Management",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.986741,41.69698,-85.986741,41.69698],
-  "geometry": {"coordinates":[-85.986741,41.69698],"type":"Point"}
+  "bbox": [
+    -85.986741,
+    41.69698,
+    -85.986741,
+    41.69698
+],
+  "geometry": {"coordinates":[-85.98674099999999,41.69698],"type":"Point"}
 }

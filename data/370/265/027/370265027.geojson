@@ -2,13 +2,14 @@
   "id": 370265027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.489177,37.969564,-87.489177,37.969564",
     "geom:latitude":37.969564,
     "geom:longitude":-87.489177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5130 Lincoln Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370265027,
-    "wof:lastmodified":1449030253,
+    "wof:lastmodified":1466503032,
     "wof:name":"Aldersgate United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.489177,37.969564,-87.489177,37.969564],
+  "bbox": [
+    -87.489177,
+    37.969564,
+    -87.489177,
+    37.969564
+],
   "geometry": {"coordinates":[-87.489177,37.969564],"type":"Point"}
 }

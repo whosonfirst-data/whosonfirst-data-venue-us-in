@@ -2,13 +2,14 @@
   "id": 353834661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082181,39.910044,-86.082181,39.910044",
     "geom:latitude":39.910044,
     "geom:longitude":-86.082181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8470 Allison Pointe Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353834661,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1466503352,
     "wof:name":"Concept Brokers Corp",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-86.082181,39.910044,-86.082181,39.910044],
-  "geometry": {"coordinates":[-86.082181,39.910044],"type":"Point"}
+  "bbox": [
+    -86.082181,
+    39.910044,
+    -86.082181,
+    39.910044
+],
+  "geometry": {"coordinates":[-86.08218100000001,39.910044],"type":"Point"}
 }

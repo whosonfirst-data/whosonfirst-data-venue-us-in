@@ -2,13 +2,14 @@
   "id": 370914141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.132286,41.14749,-85.132286,41.14749",
     "geom:latitude":41.14749,
     "geom:longitude":-85.132286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Cook Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370914141,
-    "wof:lastmodified":1449030377,
+    "wof:lastmodified":1466503722,
     "wof:name":"Lincoln Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.132286,41.14749,-85.132286,41.14749],
-  "geometry": {"coordinates":[-85.132286,41.14749],"type":"Point"}
+  "bbox": [
+    -85.132286,
+    41.14749,
+    -85.132286,
+    41.14749
+],
+  "geometry": {"coordinates":[-85.13228599999999,41.14749],"type":"Point"}
 }

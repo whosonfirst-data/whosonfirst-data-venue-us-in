@@ -2,13 +2,14 @@
   "id": 370948325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039332,39.691367,-86.039332,39.691367",
     "geom:latitude":39.691367,
     "geom:longitude":-86.039332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7243 Tresa Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370948325,
-    "wof:lastmodified":1449031781,
+    "wof:lastmodified":1466503764,
     "wof:name":"Quality Technical Support LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.039332,39.691367,-86.039332,39.691367],
+  "bbox": [
+    -86.039332,
+    39.691367,
+    -86.039332,
+    39.691367
+],
   "geometry": {"coordinates":[-86.039332,39.691367],"type":"Point"}
 }

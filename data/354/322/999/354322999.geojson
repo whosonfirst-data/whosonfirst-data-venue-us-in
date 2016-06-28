@@ -2,13 +2,14 @@
   "id": 354322999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.189395,41.188989,-87.189395,41.188989",
     "geom:latitude":41.188989,
     "geom:longitude":-87.189395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 14th St",
     "sg:city":"Demotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354322999,
-    "wof:lastmodified":1449065914,
+    "wof:lastmodified":1466503327,
     "wof:name":"Hoosier Metals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-87.189395,41.188989,-87.189395,41.188989],
+  "bbox": [
+    -87.189395,
+    41.188989,
+    -87.189395,
+    41.188989
+],
   "geometry": {"coordinates":[-87.189395,41.188989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387334421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.051271,38.885138,-86.051271,38.885138",
     "geom:latitude":38.885138,
     "geom:longitude":-86.051271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 N Bolles St",
     "sg:city":"Brownstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387334421,
-    "wof:lastmodified":1449057212,
+    "wof:lastmodified":1466503350,
     "wof:name":"E Z Tan",
     "wof:parent_id":85818369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-86.051271,38.885138,-86.051271,38.885138],
+  "bbox": [
+    -86.051271,
+    38.885138,
+    -86.051271,
+    38.885138
+],
   "geometry": {"coordinates":[-86.051271,38.885138],"type":"Point"}
 }

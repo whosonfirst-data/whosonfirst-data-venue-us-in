@@ -2,13 +2,14 @@
   "id": 354177069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.598394,41.468796,-85.598394,41.468796",
     "geom:latitude":41.468796,
     "geom:longitude":-85.598394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Gerber St",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354177069,
-    "wof:lastmodified":1449067663,
+    "wof:lastmodified":1466503100,
     "wof:name":"Tenneco Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.598394,41.468796,-85.598394,41.468796],
+  "bbox": [
+    -85.598394,
+    41.468796,
+    -85.598394,
+    41.468796
+],
   "geometry": {"coordinates":[-85.598394,41.468796],"type":"Point"}
 }

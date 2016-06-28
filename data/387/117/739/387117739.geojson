@@ -2,13 +2,14 @@
   "id": 387117739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862099,38.21933,-86.862099,38.21933",
     "geom:latitude":38.21933,
     "geom:longitude":-86.862099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E 3rd St",
     "sg:city":"Ferdinand",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387117739,
-    "wof:lastmodified":1449058692,
+    "wof:lastmodified":1466503055,
     "wof:name":"Ferdinand Ems Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "emergency"
     ]
 },
-  "bbox": [-86.862099,38.21933,-86.862099,38.21933],
+  "bbox": [
+    -86.862099,
+    38.21933,
+    -86.862099,
+    38.21933
+],
   "geometry": {"coordinates":[-86.862099,38.21933],"type":"Point"}
 }

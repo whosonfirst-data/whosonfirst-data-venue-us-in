@@ -2,13 +2,14 @@
   "id": 370808645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.061019,41.645976,-86.061019,41.645976",
     "geom:latitude":41.645976,
     "geom:longitude":-86.061019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58380 Ash Rd",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370808645,
-    "wof:lastmodified":1449029233,
+    "wof:lastmodified":1466503595,
     "wof:name":"Kevins Kustom Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-86.061019,41.645976,-86.061019,41.645976],
+  "bbox": [
+    -86.061019,
+    41.645976,
+    -86.061019,
+    41.645976
+],
   "geometry": {"coordinates":[-86.061019,41.645976],"type":"Point"}
 }

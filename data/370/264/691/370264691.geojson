@@ -2,13 +2,14 @@
   "id": 370264691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.82529,41.522134,-84.82529,41.522134",
     "geom:latitude":41.522134,
     "geom:longitude":-84.82529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Co Rd 77",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370264691,
-    "wof:lastmodified":1449031274,
+    "wof:lastmodified":1466503031,
     "wof:name":"Dome Petroleum LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.82529,41.522134,-84.82529,41.522134],
+  "bbox": [
+    -84.82529,
+    41.522134,
+    -84.82529,
+    41.522134
+],
   "geometry": {"coordinates":[-84.82529,41.522134],"type":"Point"}
 }

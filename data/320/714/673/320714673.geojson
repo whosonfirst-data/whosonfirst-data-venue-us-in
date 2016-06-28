@@ -2,13 +2,14 @@
   "id": 320714673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.191422,39.940557,-86.191422,39.940557",
     "geom:latitude":39.940557,
     "geom:longitude":-86.191422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10579 Coppergate",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320714673,
-    "wof:lastmodified":1449013103,
+    "wof:lastmodified":1466503426,
     "wof:name":"D H Williams & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-86.191422,39.940557,-86.191422,39.940557],
+  "bbox": [
+    -86.191422,
+    39.940557,
+    -86.191422,
+    39.940557
+],
   "geometry": {"coordinates":[-86.191422,39.940557],"type":"Point"}
 }

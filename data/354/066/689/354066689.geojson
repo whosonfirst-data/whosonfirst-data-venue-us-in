@@ -2,13 +2,14 @@
   "id": 354066689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.48326,40.099977,-85.48326,40.099977",
     "geom:latitude":40.099977,
     "geom:longitude":-85.48326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10871 S Sunrise Rd",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354066689,
-    "wof:lastmodified":1449066400,
+    "wof:lastmodified":1466502958,
     "wof:name":"Customized Carpet Care LLC",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-85.48326,40.099977,-85.48326,40.099977],
+  "bbox": [
+    -85.48326,
+    40.099977,
+    -85.48326,
+    40.099977
+],
   "geometry": {"coordinates":[-85.48326,40.099977],"type":"Point"}
 }

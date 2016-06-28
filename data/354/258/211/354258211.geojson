@@ -2,13 +2,14 @@
   "id": 354258211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.510616,40.270266,-86.510616,40.270266",
     "geom:latitude":40.270266,
     "geom:longitude":-86.510616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1256 S Jackson St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354258211,
-    "wof:lastmodified":1449067278,
+    "wof:lastmodified":1466503226,
     "wof:name":"Clinton County Foot & Ankle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.510616,40.270266,-86.510616,40.270266],
+  "bbox": [
+    -86.510616,
+    40.270266,
+    -86.510616,
+    40.270266
+],
   "geometry": {"coordinates":[-86.510616,40.270266],"type":"Point"}
 }

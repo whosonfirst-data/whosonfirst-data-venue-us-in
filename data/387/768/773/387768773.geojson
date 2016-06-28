@@ -2,13 +2,14 @@
   "id": 387768773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127159,40.44404,-86.127159,40.44404",
     "geom:latitude":40.44404,
     "geom:longitude":-86.127159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Southway Blvd",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387768773,
-    "wof:lastmodified":1449057569,
+    "wof:lastmodified":1466503932,
     "wof:name":"Finding Me Now Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.127159,40.44404,-86.127159,40.44404],
-  "geometry": {"coordinates":[-86.127159,40.44404],"type":"Point"}
+  "bbox": [
+    -86.127159,
+    40.44404,
+    -86.127159,
+    40.44404
+],
+  "geometry": {"coordinates":[-86.12715900000001,40.44404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370508241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157896,39.769152,-86.157896,39.769152",
     "geom:latitude":39.769152,
     "geom:longitude":-86.157896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Monument Cir",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370508241,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1466503279,
     "wof:name":"Kantis Inc",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bakery"
     ]
 },
-  "bbox": [-86.157896,39.769152,-86.157896,39.769152],
-  "geometry": {"coordinates":[-86.157896,39.769152],"type":"Point"}
+  "bbox": [
+    -86.157896,
+    39.769152,
+    -86.157896,
+    39.769152
+],
+  "geometry": {"coordinates":[-86.15789599999999,39.769152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404019489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.157655,41.475627,-87.157655,41.475627",
     "geom:latitude":41.475627,
     "geom:longitude":-87.157655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 N 475 W",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404019489,
-    "wof:lastmodified":1449039820,
+    "wof:lastmodified":1466502908,
     "wof:name":"Rippe Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-87.157655,41.475627,-87.157655,41.475627],
-  "geometry": {"coordinates":[-87.157655,41.475627],"type":"Point"}
+  "bbox": [
+    -87.157655,
+    41.475627,
+    -87.157655,
+    41.475627
+],
+  "geometry": {"coordinates":[-87.15765500000001,41.475627],"type":"Point"}
 }

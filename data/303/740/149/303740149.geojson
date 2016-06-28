@@ -2,13 +2,14 @@
   "id": 303740149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.830186,41.572343,-85.830186,41.572343",
     "geom:latitude":41.572343,
     "geom:longitude":-85.830186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 S Main St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303740149,
-    "wof:lastmodified":1448999225,
+    "wof:lastmodified":1466503032,
     "wof:name":"South Side Soda Shop",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.830186,41.572343,-85.830186,41.572343],
+  "bbox": [
+    -85.830186,
+    41.572343,
+    -85.830186,
+    41.572343
+],
   "geometry": {"coordinates":[-85.830186,41.572343],"type":"Point"}
 }

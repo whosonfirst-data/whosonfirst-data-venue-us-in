@@ -2,13 +2,14 @@
   "id": 387027391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.159642,41.586781,-87.159642,41.586781",
     "geom:latitude":41.586781,
     "geom:longitude":-87.159642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 Portage Ave",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387027391,
-    "wof:lastmodified":1449056809,
+    "wof:lastmodified":1466502916,
     "wof:name":"Portage Avenue Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.159642,41.586781,-87.159642,41.586781],
-  "geometry": {"coordinates":[-87.159642,41.586781],"type":"Point"}
+  "bbox": [
+    -87.159642,
+    41.586781,
+    -87.159642,
+    41.586781
+],
+  "geometry": {"coordinates":[-87.15964200000001,41.586781],"type":"Point"}
 }

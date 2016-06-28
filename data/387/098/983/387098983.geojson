@@ -2,13 +2,14 @@
   "id": 387098983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.62258,39.535743,-86.62258,39.535743",
     "geom:latitude":39.535743,
     "geom:longitude":-86.62258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10255 W McClure Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387098983,
-    "wof:lastmodified":1449059516,
+    "wof:lastmodified":1466503028,
     "wof:name":"Buis Gilbert Adams Twp Trus Te",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.62258,39.535743,-86.62258,39.535743],
+  "bbox": [
+    -86.62258,
+    39.535743,
+    -86.62258,
+    39.535743
+],
   "geometry": {"coordinates":[-86.62258,39.535743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353829325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12214,39.849484,-86.12214,39.849484",
     "geom:latitude":39.849484,
     "geom:longitude":-86.12214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353829325,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466503345,
     "wof:name":"Bud Wolf Chevrolet Inc",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.12214,39.849484,-86.12214,39.849484],
+  "bbox": [
+    -86.12214,
+    39.849484,
+    -86.12214,
+    39.849484
+],
   "geometry": {"coordinates":[-86.12214,39.849484],"type":"Point"}
 }

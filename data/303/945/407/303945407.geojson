@@ -2,13 +2,14 @@
   "id": 303945407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.087488,41.064526,-85.087488,41.064526",
     "geom:latitude":41.064526,
     "geom:longitude":-85.087488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 Coliseum Blvd S",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303945407,
-    "wof:lastmodified":1448998326,
+    "wof:lastmodified":1466503300,
     "wof:name":"New Life Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.087488,41.064526,-85.087488,41.064526],
-  "geometry": {"coordinates":[-85.087488,41.064526],"type":"Point"}
+  "bbox": [
+    -85.087488,
+    41.064526,
+    -85.087488,
+    41.064526
+],
+  "geometry": {"coordinates":[-85.08748799999999,41.064526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353598703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.939611,41.65369,-85.939611,41.65369",
     "geom:latitude":41.65369,
     "geom:longitude":-85.939611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24615 Co Rd 45",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353598703,
-    "wof:lastmodified":1449018377,
+    "wof:lastmodified":1466503075,
     "wof:name":"O'Leary Paints",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-85.939611,41.65369,-85.939611,41.65369],
+  "bbox": [
+    -85.939611,
+    41.65369,
+    -85.939611,
+    41.65369
+],
   "geometry": {"coordinates":[-85.939611,41.65369],"type":"Point"}
 }

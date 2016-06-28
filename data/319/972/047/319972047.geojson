@@ -2,13 +2,14 @@
   "id": 319972047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.158129,39.926977,-86.158129,39.926977",
     "geom:latitude":39.926977,
     "geom:longitude":-86.158129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9302 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319972047,
-    "wof:lastmodified":1449024479,
+    "wof:lastmodified":1466503628,
     "wof:name":"Computer Training Plus",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.158129,39.926977,-86.158129,39.926977],
+  "bbox": [
+    -86.158129,
+    39.926977,
+    -86.158129,
+    39.926977
+],
   "geometry": {"coordinates":[-86.158129,39.926977],"type":"Point"}
 }

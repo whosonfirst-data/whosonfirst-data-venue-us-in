@@ -2,13 +2,14 @@
   "id": 404044197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046039,39.884385,-86.046039,39.884385",
     "geom:latitude":39.884385,
     "geom:longitude":-86.046039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7275 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404044197,
-    "wof:lastmodified":1449039745,
+    "wof:lastmodified":1466502939,
     "wof:name":"D L Mortgage Group Inc",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.046039,39.884385,-86.046039,39.884385],
-  "geometry": {"coordinates":[-86.046039,39.884385],"type":"Point"}
+  "bbox": [
+    -86.046039,
+    39.884385,
+    -86.046039,
+    39.884385
+],
+  "geometry": {"coordinates":[-86.04603899999999,39.884385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336704597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.828447,40.795158,-85.828447,40.795158",
     "geom:latitude":40.795158,
     "geom:longitude":-85.828447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 W Canal St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336704597,
-    "wof:lastmodified":1448997232,
+    "wof:lastmodified":1466503022,
     "wof:name":"F J Rettig & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.828447,40.795158,-85.828447,40.795158],
+  "bbox": [
+    -85.828447,
+    40.795158,
+    -85.828447,
+    40.795158
+],
   "geometry": {"coordinates":[-85.828447,40.795158],"type":"Point"}
 }

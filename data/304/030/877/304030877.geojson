@@ -2,13 +2,14 @@
   "id": 304030877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.530685,38.678086,-87.530685,38.678086",
     "geom:latitude":38.678086,
     "geom:longitude":-87.530685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Main St",
     "sg:city":"Vincennes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304030877,
-    "wof:lastmodified":1449043781,
+    "wof:lastmodified":1466503439,
     "wof:name":"Donovan & Donovan Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.530685,38.678086,-87.530685,38.678086],
-  "geometry": {"coordinates":[-87.530685,38.678086],"type":"Point"}
+  "bbox": [
+    -87.530685,
+    38.678086,
+    -87.530685,
+    38.678086
+],
+  "geometry": {"coordinates":[-87.53068500000001,38.678086],"type":"Point"}
 }

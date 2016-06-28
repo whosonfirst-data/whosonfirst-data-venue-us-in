@@ -2,13 +2,14 @@
   "id": 320783421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246455,39.972109,-86.246455,39.972109",
     "geom:latitude":39.972109,
     "geom:longitude":-86.246455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4882 Austin Trce",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320783421,
-    "wof:lastmodified":1449011381,
+    "wof:lastmodified":1466503492,
     "wof:name":"At& T Cits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.246455,39.972109,-86.246455,39.972109],
+  "bbox": [
+    -86.246455,
+    39.972109,
+    -86.246455,
+    39.972109
+],
   "geometry": {"coordinates":[-86.246455,39.972109],"type":"Point"}
 }

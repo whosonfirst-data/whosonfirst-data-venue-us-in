@@ -2,13 +2,14 @@
   "id": 303852067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.202499,39.865776,-86.202499,39.865776",
     "geom:latitude":39.865776,
     "geom:longitude":-86.202499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 Fox Hill Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303852067,
-    "wof:lastmodified":1449000145,
+    "wof:lastmodified":1466503171,
     "wof:name":"Colliver Co",
     "wof:parent_id":85822489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.202499,39.865776,-86.202499,39.865776],
+  "bbox": [
+    -86.202499,
+    39.865776,
+    -86.202499,
+    39.865776
+],
   "geometry": {"coordinates":[-86.202499,39.865776],"type":"Point"}
 }

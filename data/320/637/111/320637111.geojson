@@ -2,13 +2,14 @@
   "id": 320637111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.097855,38.379987,-86.097855,38.379987",
     "geom:latitude":38.379987,
     "geom:longitude":-86.097855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12225 Old State Rd 135 NE",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320637111,
-    "wof:lastmodified":1449011262,
+    "wof:lastmodified":1466503345,
     "wof:name":"Morgan Elementary School",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.097855,38.379987,-86.097855,38.379987],
+  "bbox": [
+    -86.097855,
+    38.379987,
+    -86.097855,
+    38.379987
+],
   "geometry": {"coordinates":[-86.097855,38.379987],"type":"Point"}
 }

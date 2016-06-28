@@ -2,13 +2,14 @@
   "id": 387717785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250248,41.67478,-86.250248,41.67478",
     "geom:latitude":41.67478,
     "geom:longitude":-86.250248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Michigan St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387717785,
-    "wof:lastmodified":1449056222,
+    "wof:lastmodified":1466503866,
     "wof:name":"Vesuvio Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-86.250248,41.67478,-86.250248,41.67478],
+  "bbox": [
+    -86.250248,
+    41.67478,
+    -86.250248,
+    41.67478
+],
   "geometry": {"coordinates":[-86.250248,41.67478],"type":"Point"}
 }

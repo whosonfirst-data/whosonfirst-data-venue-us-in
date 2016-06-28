@@ -2,13 +2,14 @@
   "id": 336605119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.078761,40.768664,-86.078761,40.768664",
     "geom:latitude":40.768664,
     "geom:longitude":-86.078761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Broadway",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336605119,
-    "wof:lastmodified":1448997484,
+    "wof:lastmodified":1466502889,
     "wof:name":"Circus City Market Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-86.078761,40.768664,-86.078761,40.768664],
+  "bbox": [
+    -86.078761,
+    40.768664,
+    -86.078761,
+    40.768664
+],
   "geometry": {"coordinates":[-86.078761,40.768664],"type":"Point"}
 }

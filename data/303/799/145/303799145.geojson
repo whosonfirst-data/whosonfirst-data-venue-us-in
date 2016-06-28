@@ -2,13 +2,14 @@
   "id": 303799145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.523841,40.548591,-86.523841,40.548591",
     "geom:latitude":40.548591,
     "geom:longitude":-86.523841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 N Center St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303799145,
-    "wof:lastmodified":1449000579,
+    "wof:lastmodified":1466503103,
     "wof:name":"Mc Coart's Auto & Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.523841,40.548591,-86.523841,40.548591],
+  "bbox": [
+    -86.523841,
+    40.548591,
+    -86.523841,
+    40.548591
+],
   "geometry": {"coordinates":[-86.523841,40.548591],"type":"Point"}
 }

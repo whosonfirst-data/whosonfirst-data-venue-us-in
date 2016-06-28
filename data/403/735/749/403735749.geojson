@@ -2,13 +2,14 @@
   "id": 403735749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.479741,41.585294,-87.479741,41.585294",
     "geom:latitude":41.585294,
     "geom:longitude":-87.479741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7032 Olcott Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403735749,
-    "wof:lastmodified":1449055914,
+    "wof:lastmodified":1466502927,
     "wof:name":"Coxhead Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.479741,41.585294,-87.479741,41.585294],
+  "bbox": [
+    -87.479741,
+    41.585294,
+    -87.479741,
+    41.585294
+],
   "geometry": {"coordinates":[-87.479741,41.585294],"type":"Point"}
 }

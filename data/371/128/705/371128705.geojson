@@ -2,13 +2,14 @@
   "id": 371128705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082663,39.710038,-86.082663,39.710038",
     "geom:latitude":39.710038,
     "geom:longitude":-86.082663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3834 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371128705,
-    "wof:lastmodified":1449049427,
+    "wof:lastmodified":1466503032,
     "wof:name":"BMA Billing Office",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-86.082663,39.710038,-86.082663,39.710038],
+  "bbox": [
+    -86.082663,
+    39.710038,
+    -86.082663,
+    39.710038
+],
   "geometry": {"coordinates":[-86.082663,39.710038],"type":"Point"}
 }

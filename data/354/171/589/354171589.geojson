@@ -2,13 +2,14 @@
   "id": 354171589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.11726,39.613646,-86.11726,39.613646",
     "geom:latitude":39.613646,
     "geom:longitude":-86.11726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Main St W",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354171589,
-    "wof:lastmodified":1449067674,
+    "wof:lastmodified":1466503091,
     "wof:name":"Re/Max Central Homes",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.11726,39.613646,-86.11726,39.613646],
+  "bbox": [
+    -86.11726,
+    39.613646,
+    -86.11726,
+    39.613646
+],
   "geometry": {"coordinates":[-86.11726,39.613646],"type":"Point"}
 }

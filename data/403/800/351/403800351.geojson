@@ -2,13 +2,14 @@
   "id": 403800351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283488,39.890271,-86.283488,39.890271",
     "geom:latitude":39.890271,
     "geom:longitude":-86.283488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6952 Kimkris Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403800351,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1466503017,
     "wof:name":"Lj Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.283488,39.890271,-86.283488,39.890271],
-  "geometry": {"coordinates":[-86.283488,39.890271],"type":"Point"}
+  "bbox": [
+    -86.283488,
+    39.890271,
+    -86.283488,
+    39.890271
+],
+  "geometry": {"coordinates":[-86.28348800000001,39.890271],"type":"Point"}
 }

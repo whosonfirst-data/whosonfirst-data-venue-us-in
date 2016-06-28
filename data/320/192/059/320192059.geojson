@@ -2,13 +2,14 @@
   "id": 320192059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.014048,38.502916,-86.014048,38.502916",
     "geom:latitude":38.502916,
     "geom:longitude":-86.014048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 S Mill St",
     "sg:city":"Pekin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320192059,
-    "wof:lastmodified":1449013904,
+    "wof:lastmodified":1466503822,
     "wof:name":"Pekin Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-86.014048,38.502916,-86.014048,38.502916],
+  "bbox": [
+    -86.014048,
+    38.502916,
+    -86.014048,
+    38.502916
+],
   "geometry": {"coordinates":[-86.014048,38.502916],"type":"Point"}
 }

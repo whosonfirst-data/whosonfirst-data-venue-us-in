@@ -2,13 +2,14 @@
   "id": 336962989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.115391,39.639126,-85.115391,39.639126",
     "geom:latitude":39.639126,
     "geom:longitude":-85.115391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 E State Rd 44",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336962989,
-    "wof:lastmodified":1448997576,
+    "wof:lastmodified":1466503355,
     "wof:name":"Jetmore & Bawa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.115391,39.639126,-85.115391,39.639126],
+  "bbox": [
+    -85.115391,
+    39.639126,
+    -85.115391,
+    39.639126
+],
   "geometry": {"coordinates":[-85.115391,39.639126],"type":"Point"}
 }

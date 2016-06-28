@@ -2,13 +2,14 @@
   "id": 371064541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964788,41.689698,-85.964788,41.689698",
     "geom:latitude":41.689698,
     "geom:longitude":-85.964788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 E Jackson Blvd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371064541,
-    "wof:lastmodified":1449049381,
+    "wof:lastmodified":1466502950,
     "wof:name":"Ocean Sun Tanning",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-85.964788,41.689698,-85.964788,41.689698],
+  "bbox": [
+    -85.964788,
+    41.689698,
+    -85.964788,
+    41.689698
+],
   "geometry": {"coordinates":[-85.964788,41.689698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370515455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.881968,39.214684,-85.881968,39.214684",
     "geom:latitude":39.214684,
     "geom:longitude":-85.881968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1686 N National Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370515455,
-    "wof:lastmodified":1449029876,
+    "wof:lastmodified":1466503287,
     "wof:name":"White Castle",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.881968,39.214684,-85.881968,39.214684],
+  "bbox": [
+    -85.881968,
+    39.214684,
+    -85.881968,
+    39.214684
+],
   "geometry": {"coordinates":[-85.881968,39.214684],"type":"Point"}
 }

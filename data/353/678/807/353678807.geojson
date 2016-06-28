@@ -2,13 +2,14 @@
   "id": 353678807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.490127,40.872547,-85.490127,40.872547",
     "geom:latitude":40.872547,
     "geom:longitude":-85.490127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Salamonie Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353678807,
-    "wof:lastmodified":1449019500,
+    "wof:lastmodified":1466503167,
     "wof:name":"Art Chemical Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clay"
     ]
 },
-  "bbox": [-85.490127,40.872547,-85.490127,40.872547],
+  "bbox": [
+    -85.490127,
+    40.872547,
+    -85.490127,
+    40.872547
+],
   "geometry": {"coordinates":[-85.490127,40.872547],"type":"Point"}
 }

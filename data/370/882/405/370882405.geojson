@@ -2,13 +2,14 @@
   "id": 370882405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.959978,41.556231,-86.959978,41.556231",
     "geom:latitude":41.556231,
     "geom:longitude":-86.959978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 N 550 E",
     "sg:city":"Westville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370882405,
-    "wof:lastmodified":1449029697,
+    "wof:lastmodified":1466503683,
     "wof:name":"National Cngress Prnts Tachers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.959978,41.556231,-86.959978,41.556231],
-  "geometry": {"coordinates":[-86.959978,41.556231],"type":"Point"}
+  "bbox": [
+    -86.959978,
+    41.556231,
+    -86.959978,
+    41.556231
+],
+  "geometry": {"coordinates":[-86.95997800000001,41.556231],"type":"Point"}
 }

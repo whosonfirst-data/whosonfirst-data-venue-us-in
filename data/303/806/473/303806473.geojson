@@ -2,13 +2,14 @@
   "id": 303806473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.197958,40.392559,-85.197958,40.392559",
     "geom:latitude":40.392559,
     "geom:longitude":-85.197958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11563 W 300 S",
     "sg:city":"Dunkirk",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303806473,
-    "wof:lastmodified":1448998107,
+    "wof:lastmodified":1466503112,
     "wof:name":"Miller's Merry Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-85.197958,40.392559,-85.197958,40.392559],
+  "bbox": [
+    -85.197958,
+    40.392559,
+    -85.197958,
+    40.392559
+],
   "geometry": {"coordinates":[-85.197958,40.392559],"type":"Point"}
 }

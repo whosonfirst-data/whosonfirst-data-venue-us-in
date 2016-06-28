@@ -2,13 +2,14 @@
   "id": 336967545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.983892,41.594165,-85.983892,41.594165",
     "geom:latitude":41.594165,
     "geom:longitude":-85.983892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27630 Co Rd 30",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336967545,
-    "wof:lastmodified":1448997935,
+    "wof:lastmodified":1466503363,
     "wof:name":"Martin Delynn",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-85.983892,41.594165,-85.983892,41.594165],
+  "bbox": [
+    -85.983892,
+    41.594165,
+    -85.983892,
+    41.594165
+],
   "geometry": {"coordinates":[-85.983892,41.594165],"type":"Point"}
 }

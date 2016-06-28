@@ -2,13 +2,14 @@
   "id": 370562457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843335,39.906121,-85.843335,39.906121",
     "geom:latitude":39.906121,
     "geom:longitude":-85.843335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8414 N 200 W",
     "sg:city":"Fortville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370562457,
-    "wof:lastmodified":1449030872,
+    "wof:lastmodified":1466503354,
     "wof:name":"Hancock County Sheriff Dare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-85.843335,39.906121,-85.843335,39.906121],
+  "bbox": [
+    -85.843335,
+    39.906121,
+    -85.843335,
+    39.906121
+],
   "geometry": {"coordinates":[-85.843335,39.906121],"type":"Point"}
 }

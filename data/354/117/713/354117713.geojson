@@ -2,13 +2,14 @@
   "id": 354117713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.013302,40.036363,-86.013302,40.036363",
     "geom:latitude":40.036363,
     "geom:longitude":-86.013302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S 9th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354117713,
-    "wof:lastmodified":1449067134,
+    "wof:lastmodified":1466503019,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":85819065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-86.013302,40.036363,-86.013302,40.036363],
+  "bbox": [
+    -86.013302,
+    40.036363,
+    -86.013302,
+    40.036363
+],
   "geometry": {"coordinates":[-86.013302,40.036363],"type":"Point"}
 }

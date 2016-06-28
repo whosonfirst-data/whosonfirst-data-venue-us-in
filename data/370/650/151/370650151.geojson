@@ -2,13 +2,14 @@
   "id": 370650151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.143865,39.842288,-86.143865,39.842288",
     "geom:latitude":39.842288,
     "geom:longitude":-86.143865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4834 Carrollton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370650151,
-    "wof:lastmodified":1449031150,
+    "wof:lastmodified":1466503444,
     "wof:name":"Marks Fan and A/C",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "ventilation"
     ]
 },
-  "bbox": [-86.143865,39.842288,-86.143865,39.842288],
-  "geometry": {"coordinates":[-86.143865,39.842288],"type":"Point"}
+  "bbox": [
+    -86.143865,
+    39.842288,
+    -86.143865,
+    39.842288
+],
+  "geometry": {"coordinates":[-86.14386500000001,39.842288],"type":"Point"}
 }

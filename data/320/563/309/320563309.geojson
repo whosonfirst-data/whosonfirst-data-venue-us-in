@@ -2,13 +2,14 @@
   "id": 320563309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.065419,38.747532,-85.065419,38.747532",
     "geom:latitude":38.747532,
     "geom:longitude":-85.065419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Market St",
     "sg:city":"Vevay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320563309,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1466503261,
     "wof:name":"Hf Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.065419,38.747532,-85.065419,38.747532],
-  "geometry": {"coordinates":[-85.065419,38.747532],"type":"Point"}
+  "bbox": [
+    -85.065419,
+    38.747532,
+    -85.065419,
+    38.747532
+],
+  "geometry": {"coordinates":[-85.06541900000001,38.747532],"type":"Point"}
 }

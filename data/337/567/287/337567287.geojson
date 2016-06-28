@@ -2,13 +2,14 @@
   "id": 337567287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.4855,41.157073,-85.4855,41.157073",
     "geom:latitude":41.157073,
     "geom:longitude":-85.4855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Van Buren St",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337567287,
-    "wof:lastmodified":1449027741,
+    "wof:lastmodified":1466502883,
     "wof:name":"Geiger's Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-85.4855,41.157073,-85.4855,41.157073],
+  "bbox": [
+    -85.4855,
+    41.157073,
+    -85.4855,
+    41.157073
+],
   "geometry": {"coordinates":[-85.4855,41.157073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336619249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046178,39.885653,-86.046178,39.885653",
     "geom:latitude":39.885653,
     "geom:longitude":-86.046178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7212 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336619249,
-    "wof:lastmodified":1448997135,
+    "wof:lastmodified":1466502907,
     "wof:name":"Gen II Marketing",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.046178,39.885653,-86.046178,39.885653],
+  "bbox": [
+    -86.046178,
+    39.885653,
+    -86.046178,
+    39.885653
+],
   "geometry": {"coordinates":[-86.046178,39.885653],"type":"Point"}
 }

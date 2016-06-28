@@ -2,13 +2,14 @@
   "id": 304034083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283127,41.65914,-86.283127,41.65914",
     "geom:latitude":41.65914,
     "geom:longitude":-86.283127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 S Olive St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304034083,
-    "wof:lastmodified":1449043626,
+    "wof:lastmodified":1466503445,
     "wof:name":"Affiliated Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.283127,41.65914,-86.283127,41.65914],
-  "geometry": {"coordinates":[-86.283127,41.65914],"type":"Point"}
+  "bbox": [
+    -86.283127,
+    41.65914,
+    -86.283127,
+    41.65914
+],
+  "geometry": {"coordinates":[-86.28312699999999,41.65914],"type":"Point"}
 }

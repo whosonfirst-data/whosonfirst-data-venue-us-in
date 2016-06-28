@@ -2,13 +2,14 @@
   "id": 371162139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282566,39.790682,-86.282566,39.790682",
     "geom:latitude":39.790682,
     "geom:longitude":-86.282566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6942 Thousand Oaks Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":371162139,
-    "wof:lastmodified":1449049969,
+    "wof:lastmodified":1466503077,
     "wof:name":"Bailiwick Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282566,39.790682,-86.282566,39.790682],
+  "bbox": [
+    -86.282566,
+    39.790682,
+    -86.282566,
+    39.790682
+],
   "geometry": {"coordinates":[-86.282566,39.790682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303779069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.23223,39.696608,-86.23223,39.696608",
     "geom:latitude":39.696608,
     "geom:longitude":-86.23223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4032 Gambel Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303779069,
-    "wof:lastmodified":1448998494,
+    "wof:lastmodified":1466503078,
     "wof:name":"Air Quality Duct Cleaning",
     "wof:parent_id":85865505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-86.23223,39.696608,-86.23223,39.696608],
+  "bbox": [
+    -86.23223,
+    39.696608,
+    -86.23223,
+    39.696608
+],
   "geometry": {"coordinates":[-86.23223,39.696608],"type":"Point"}
 }

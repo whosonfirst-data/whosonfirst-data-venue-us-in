@@ -2,13 +2,14 @@
   "id": 370648735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.069607,40.754218,-86.069607,40.754218",
     "geom:latitude":40.754218,
     "geom:longitude":-86.069607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Broadway",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370648735,
-    "wof:lastmodified":1449030031,
+    "wof:lastmodified":1466503443,
     "wof:name":"Beach Front Tanning Salon",
     "wof:parent_id":85844551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-86.069607,40.754218,-86.069607,40.754218],
+  "bbox": [
+    -86.069607,
+    40.754218,
+    -86.069607,
+    40.754218
+],
   "geometry": {"coordinates":[-86.069607,40.754218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387786317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.40293,39.361505,-87.40293,39.361505",
     "geom:latitude":39.361505,
     "geom:longitude":-87.40293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Dallas Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387786317,
-    "wof:lastmodified":1449056601,
+    "wof:lastmodified":1466503954,
     "wof:name":"Honey Creek Fire Dept",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-87.40293,39.361505,-87.40293,39.361505],
+  "bbox": [
+    -87.40293,
+    39.361505,
+    -87.40293,
+    39.361505
+],
   "geometry": {"coordinates":[-87.40293,39.361505],"type":"Point"}
 }

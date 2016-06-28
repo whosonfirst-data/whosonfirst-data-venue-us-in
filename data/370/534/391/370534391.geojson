@@ -2,13 +2,14 @@
   "id": 370534391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533702,39.16482,-86.533702,39.16482",
     "geom:latitude":39.16482,
     "geom:longitude":-86.533702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370534391,
-    "wof:lastmodified":1449029979,
+    "wof:lastmodified":1466503314,
     "wof:name":"Mondo Salon & Spa",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.533702,39.16482,-86.533702,39.16482],
-  "geometry": {"coordinates":[-86.533702,39.16482],"type":"Point"}
+  "bbox": [
+    -86.533702,
+    39.16482,
+    -86.533702,
+    39.16482
+],
+  "geometry": {"coordinates":[-86.53370200000001,39.16482],"type":"Point"}
 }

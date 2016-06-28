@@ -2,13 +2,14 @@
   "id": 353948437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.159671,39.771247,-86.159671,39.771247",
     "geom:latitude":39.771247,
     "geom:longitude":-86.159671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Illinois St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353948437,
-    "wof:lastmodified":1449020297,
+    "wof:lastmodified":1466503490,
     "wof:name":"James S Laudick CPA",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.159671,39.771247,-86.159671,39.771247],
+  "bbox": [
+    -86.159671,
+    39.771247,
+    -86.159671,
+    39.771247
+],
   "geometry": {"coordinates":[-86.159671,39.771247],"type":"Point"}
 }

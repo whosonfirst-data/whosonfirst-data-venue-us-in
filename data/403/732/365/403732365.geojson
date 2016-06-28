@@ -2,13 +2,14 @@
   "id": 403732365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.166771,40.880815,-85.166771,40.880815",
     "geom:latitude":40.880815,
     "geom:longitude":-85.166771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Jefferson St",
     "sg:city":"Ossian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403732365,
-    "wof:lastmodified":1449056017,
+    "wof:lastmodified":1466502922,
     "wof:name":"Ossian Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.166771,40.880815,-85.166771,40.880815],
+  "bbox": [
+    -85.166771,
+    40.880815,
+    -85.166771,
+    40.880815
+],
   "geometry": {"coordinates":[-85.166771,40.880815],"type":"Point"}
 }

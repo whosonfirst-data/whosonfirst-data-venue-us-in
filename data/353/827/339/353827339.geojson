@@ -2,13 +2,14 @@
   "id": 353827339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.128342,39.868723,-86.128342,39.868723",
     "geom:latitude":39.868723,
     "geom:longitude":-86.128342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Broad Ripple Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353827339,
-    "wof:lastmodified":1449019168,
+    "wof:lastmodified":1466503340,
     "wof:name":"Steven Segal Family Medicine",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.128342,39.868723,-86.128342,39.868723],
+  "bbox": [
+    -86.128342,
+    39.868723,
+    -86.128342,
+    39.868723
+],
   "geometry": {"coordinates":[-86.128342,39.868723],"type":"Point"}
 }

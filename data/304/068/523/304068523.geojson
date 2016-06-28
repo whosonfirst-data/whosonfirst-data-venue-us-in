@@ -2,13 +2,14 @@
   "id": 304068523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.813743,41.590216,-85.813743,41.590216",
     "geom:latitude":41.590216,
     "geom:longitude":-85.813743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 E Lincoln Ave",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304068523,
-    "wof:lastmodified":1449043872,
+    "wof:lastmodified":1466503493,
     "wof:name":"Car Center",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-85.813743,41.590216,-85.813743,41.590216],
+  "bbox": [
+    -85.813743,
+    41.590216,
+    -85.813743,
+    41.590216
+],
   "geometry": {"coordinates":[-85.813743,41.590216],"type":"Point"}
 }

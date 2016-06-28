@@ -2,13 +2,14 @@
   "id": 353885257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246029,39.99872,-86.246029,39.99872",
     "geom:latitude":39.99872,
     "geom:longitude":-86.246029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11550 E 300 S",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353885257,
-    "wof:lastmodified":1449019615,
+    "wof:lastmodified":1466503408,
     "wof:name":"C G Bare Mechanical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.246029,39.99872,-86.246029,39.99872],
-  "geometry": {"coordinates":[-86.246029,39.99872],"type":"Point"}
+  "bbox": [
+    -86.246029,
+    39.99872,
+    -86.246029,
+    39.99872
+],
+  "geometry": {"coordinates":[-86.24602899999999,39.99872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354142345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.29305,39.133911,-85.29305,39.133911",
     "geom:latitude":39.133911,
     "geom:longitude":-85.29305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Buckeye St",
     "sg:city":"Osgood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354142345,
-    "wof:lastmodified":1449067296,
+    "wof:lastmodified":1466503053,
     "wof:name":"Glory Bee Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.29305,39.133911,-85.29305,39.133911],
-  "geometry": {"coordinates":[-85.29305,39.133911],"type":"Point"}
+  "bbox": [
+    -85.29305,
+    39.133911,
+    -85.29305,
+    39.133911
+],
+  "geometry": {"coordinates":[-85.29304999999999,39.133911],"type":"Point"}
 }

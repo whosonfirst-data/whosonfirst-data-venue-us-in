@@ -2,13 +2,14 @@
   "id": 303672867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652462,40.093479,-85.652462,40.093479",
     "geom:latitude":40.093479,
     "geom:longitude":-85.652462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303672867,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466502954,
     "wof:name":"Pagers Plus",
     "wof:parent_id":85823225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-85.652462,40.093479,-85.652462,40.093479],
+  "bbox": [
+    -85.652462,
+    40.093479,
+    -85.652462,
+    40.093479
+],
   "geometry": {"coordinates":[-85.652462,40.093479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320345501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.091651,39.894203,-86.091651,39.894203",
     "geom:latitude":39.894203,
     "geom:longitude":-86.091651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 Wyandotte Trl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320345501,
-    "wof:lastmodified":1449014669,
+    "wof:lastmodified":1466502982,
     "wof:name":"Don Walls Insurance Svc",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.091651,39.894203,-86.091651,39.894203],
+  "bbox": [
+    -86.091651,
+    39.894203,
+    -86.091651,
+    39.894203
+],
   "geometry": {"coordinates":[-86.091651,39.894203],"type":"Point"}
 }

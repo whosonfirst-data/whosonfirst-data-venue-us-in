@@ -2,13 +2,14 @@
   "id": 320705795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.094492,40.880541,-86.094492,40.880541",
     "geom:latitude":40.880541,
     "geom:longitude":-86.094492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1154 W 800 N",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320705795,
-    "wof:lastmodified":1449014994,
+    "wof:lastmodified":1466503417,
     "wof:name":"Harry Knauff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-86.094492,40.880541,-86.094492,40.880541],
+  "bbox": [
+    -86.094492,
+    40.880541,
+    -86.094492,
+    40.880541
+],
   "geometry": {"coordinates":[-86.094492,40.880541],"type":"Point"}
 }

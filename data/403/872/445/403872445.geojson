@@ -2,13 +2,14 @@
   "id": 403872445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.139566,39.715339,-86.139566,39.715339",
     "geom:latitude":39.715339,
     "geom:longitude":-86.139566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E Sumner Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403872445,
-    "wof:lastmodified":1449054751,
+    "wof:lastmodified":1466503124,
     "wof:name":"Advance Plating Works Inc",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plating"
     ]
 },
-  "bbox": [-86.139566,39.715339,-86.139566,39.715339],
+  "bbox": [
+    -86.139566,
+    39.715339,
+    -86.139566,
+    39.715339
+],
   "geometry": {"coordinates":[-86.139566,39.715339],"type":"Point"}
 }

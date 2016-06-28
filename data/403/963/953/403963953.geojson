@@ -2,13 +2,14 @@
   "id": 403963953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.418078,41.644267,-85.418078,41.644267",
     "geom:latitude":41.644267,
     "geom:longitude":-85.418078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Detroit St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403963953,
-    "wof:lastmodified":1449054769,
+    "wof:lastmodified":1466503251,
     "wof:name":"Pizzazz Hair Care & Tanning",
     "wof:parent_id":85838421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.418078,41.644267,-85.418078,41.644267],
-  "geometry": {"coordinates":[-85.418078,41.644267],"type":"Point"}
+  "bbox": [
+    -85.418078,
+    41.644267,
+    -85.418078,
+    41.644267
+],
+  "geometry": {"coordinates":[-85.41807799999999,41.644267],"type":"Point"}
 }

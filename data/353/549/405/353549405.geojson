@@ -2,13 +2,14 @@
   "id": 353549405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057016,41.662299,-86.057016,41.662299",
     "geom:latitude":41.662299,
     "geom:longitude":-86.057016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30803 Co Rd 20",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353549405,
-    "wof:lastmodified":1449018971,
+    "wof:lastmodified":1466503009,
     "wof:name":"Cat Care Clinic",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-86.057016,41.662299,-86.057016,41.662299],
+  "bbox": [
+    -86.057016,
+    41.662299,
+    -86.057016,
+    41.662299
+],
   "geometry": {"coordinates":[-86.057016,41.662299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336780209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.998232,41.636512,-84.998232,41.636512",
     "geom:latitude":41.636512,
     "geom:longitude":-84.998232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Martha St",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336780209,
-    "wof:lastmodified":1448997748,
+    "wof:lastmodified":1466503122,
     "wof:name":"Martha Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-84.998232,41.636512,-84.998232,41.636512],
+  "bbox": [
+    -84.998232,
+    41.636512,
+    -84.998232,
+    41.636512
+],
   "geometry": {"coordinates":[-84.998232,41.636512],"type":"Point"}
 }

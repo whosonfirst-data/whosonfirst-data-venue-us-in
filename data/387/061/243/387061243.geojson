@@ -2,13 +2,14 @@
   "id": 387061243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.324476,38.994078,-85.324476,38.994078",
     "geom:latitude":38.994078,
     "geom:longitude":-85.324476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 W Co Rd 550 S",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387061243,
-    "wof:lastmodified":1449058857,
+    "wof:lastmodified":1466502967,
     "wof:name":"Bob Saueressig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-85.324476,38.994078,-85.324476,38.994078],
+  "bbox": [
+    -85.324476,
+    38.994078,
+    -85.324476,
+    38.994078
+],
   "geometry": {"coordinates":[-85.324476,38.994078],"type":"Point"}
 }

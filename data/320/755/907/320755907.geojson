@@ -2,13 +2,14 @@
   "id": 320755907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.137312,39.858598,-86.137312,39.858598",
     "geom:latitude":39.858598,
     "geom:longitude":-86.137312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 Crestview Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320755907,
-    "wof:lastmodified":1449012313,
+    "wof:lastmodified":1466503467,
     "wof:name":"Phillip L Conklin & Assoc",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-86.137312,39.858598,-86.137312,39.858598],
-  "geometry": {"coordinates":[-86.137312,39.858598],"type":"Point"}
+  "bbox": [
+    -86.137312,
+    39.858598,
+    -86.137312,
+    39.858598
+],
+  "geometry": {"coordinates":[-86.13731199999999,39.858598],"type":"Point"}
 }

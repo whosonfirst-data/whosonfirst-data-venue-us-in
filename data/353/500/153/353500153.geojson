@@ -2,13 +2,14 @@
   "id": 353500153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.111832,39.526747,-87.111832,39.526747",
     "geom:latitude":39.526747,
     "geom:longitude":-87.111832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 E National Ave",
     "sg:city":"Brazil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353500153,
-    "wof:lastmodified":1449018906,
+    "wof:lastmodified":1466502945,
     "wof:name":"Rizwan Malik MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.111832,39.526747,-87.111832,39.526747],
-  "geometry": {"coordinates":[-87.111832,39.526747],"type":"Point"}
+  "bbox": [
+    -87.111832,
+    39.526747,
+    -87.111832,
+    39.526747
+],
+  "geometry": {"coordinates":[-87.11183200000001,39.526747],"type":"Point"}
 }

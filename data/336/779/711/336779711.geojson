@@ -2,13 +2,14 @@
   "id": 336779711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.035312,39.916878,-86.035312,39.916878",
     "geom:latitude":39.916878,
     "geom:longitude":-86.035312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 E 88th Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336779711,
-    "wof:lastmodified":1448997109,
+    "wof:lastmodified":1466503121,
     "wof:name":"Heartwell Mortgage Corp",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.035312,39.916878,-86.035312,39.916878],
+  "bbox": [
+    -86.035312,
+    39.916878,
+    -86.035312,
+    39.916878
+],
   "geometry": {"coordinates":[-86.035312,39.916878],"type":"Point"}
 }

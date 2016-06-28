@@ -2,13 +2,14 @@
   "id": 387691195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.363277,41.405225,-87.363277,41.405225",
     "geom:latitude":41.405225,
     "geom:longitude":-87.363277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 S East St",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387691195,
-    "wof:lastmodified":1449056423,
+    "wof:lastmodified":1466503830,
     "wof:name":"C&J Construction Inc",
     "wof:parent_id":85854185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.363277,41.405225,-87.363277,41.405225],
+  "bbox": [
+    -87.363277,
+    41.405225,
+    -87.363277,
+    41.405225
+],
   "geometry": {"coordinates":[-87.363277,41.405225],"type":"Point"}
 }

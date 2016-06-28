@@ -2,13 +2,14 @@
   "id": 336823957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.795745,38.313754,-85.795745,38.313754",
     "geom:latitude":38.313754,
     "geom:longitude":-85.795745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 Miller Ln",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336823957,
-    "wof:lastmodified":1448997994,
+    "wof:lastmodified":1466503181,
     "wof:name":"Floyd-Clark Developments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "land"
     ]
 },
-  "bbox": [-85.795745,38.313754,-85.795745,38.313754],
+  "bbox": [
+    -85.795745,
+    38.313754,
+    -85.795745,
+    38.313754
+],
   "geometry": {"coordinates":[-85.795745,38.313754],"type":"Point"}
 }

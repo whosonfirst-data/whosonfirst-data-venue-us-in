@@ -2,13 +2,14 @@
   "id": 387595011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.173593,38.645916,-87.173593,38.645916",
     "geom:latitude":38.645916,
     "geom:longitude":-87.173593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S State Rd 57",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387595011,
-    "wof:lastmodified":1449059550,
+    "wof:lastmodified":1466503707,
     "wof:name":"Jerry's Appliance Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-87.173593,38.645916,-87.173593,38.645916],
+  "bbox": [
+    -87.173593,
+    38.645916,
+    -87.173593,
+    38.645916
+],
   "geometry": {"coordinates":[-87.173593,38.645916],"type":"Point"}
 }

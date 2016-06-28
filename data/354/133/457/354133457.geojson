@@ -2,13 +2,14 @@
   "id": 354133457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.470332,41.46066,-87.470332,41.46066",
     "geom:latitude":41.46066,
     "geom:longitude":-87.470332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8671 Wicker Ave",
     "sg:city":"St John",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354133457,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466503037,
     "wof:name":"C L Nationwide Inc",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-87.470332,41.46066,-87.470332,41.46066],
+  "bbox": [
+    -87.470332,
+    41.46066,
+    -87.470332,
+    41.46066
+],
   "geometry": {"coordinates":[-87.470332,41.46066],"type":"Point"}
 }

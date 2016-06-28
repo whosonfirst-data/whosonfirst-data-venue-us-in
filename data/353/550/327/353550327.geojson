@@ -2,13 +2,14 @@
   "id": 353550327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.1596,39.617999,-86.1596,39.617999",
     "geom:latitude":39.617999,
     "geom:longitude":-86.1596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Meridian Parke Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353550327,
-    "wof:lastmodified":1449019638,
+    "wof:lastmodified":1466503010,
     "wof:name":"Quality Service Co",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.1596,39.617999,-86.1596,39.617999],
+  "bbox": [
+    -86.1596,
+    39.617999,
+    -86.1596,
+    39.617999
+],
   "geometry": {"coordinates":[-86.1596,39.617999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336640631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258982,41.674781,-86.258982,41.674781",
     "geom:latitude":41.674781,
     "geom:longitude":-86.258982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Scott St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336640631,
-    "wof:lastmodified":1448997423,
+    "wof:lastmodified":1466502937,
     "wof:name":"A T & T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "datum"
     ]
 },
-  "bbox": [-86.258982,41.674781,-86.258982,41.674781],
+  "bbox": [
+    -86.258982,
+    41.674781,
+    -86.258982,
+    41.674781
+],
   "geometry": {"coordinates":[-86.258982,41.674781],"type":"Point"}
 }

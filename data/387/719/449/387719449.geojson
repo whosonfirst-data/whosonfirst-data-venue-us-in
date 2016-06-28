@@ -2,13 +2,14 @@
   "id": 387719449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.362596,40.752659,-86.362596,40.752659",
     "geom:latitude":40.752659,
     "geom:longitude":-86.362596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S 6th St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387719449,
-    "wof:lastmodified":1449056598,
+    "wof:lastmodified":1466503870,
     "wof:name":"Townhouse Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.362596,40.752659,-86.362596,40.752659],
+  "bbox": [
+    -86.362596,
+    40.752659,
+    -86.362596,
+    40.752659
+],
   "geometry": {"coordinates":[-86.362596,40.752659],"type":"Point"}
 }

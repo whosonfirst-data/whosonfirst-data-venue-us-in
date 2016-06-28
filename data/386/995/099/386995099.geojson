@@ -2,13 +2,14 @@
   "id": 386995099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179518,41.661186,-86.179518,41.661186",
     "geom:latitude":41.661186,
     "geom:longitude":-86.179518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Lincoln Way E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386995099,
-    "wof:lastmodified":1449028939,
+    "wof:lastmodified":1466502970,
     "wof:name":"Behmer Communications Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.179518,41.661186,-86.179518,41.661186],
+  "bbox": [
+    -86.179518,
+    41.661186,
+    -86.179518,
+    41.661186
+],
   "geometry": {"coordinates":[-86.179518,41.661186],"type":"Point"}
 }

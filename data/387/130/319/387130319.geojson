@@ -2,13 +2,14 @@
   "id": 387130319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.68809,41.333244,-85.68809,41.333244",
     "geom:latitude":41.333244,
     "geom:longitude":-85.68809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6669 N 6th Trl",
     "sg:city":"North Webster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387130319,
-    "wof:lastmodified":1449057408,
+    "wof:lastmodified":1466503071,
     "wof:name":"Phil & Phyllis Emerson Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.68809,41.333244,-85.68809,41.333244],
+  "bbox": [
+    -85.68809,
+    41.333244,
+    -85.68809,
+    41.333244
+],
   "geometry": {"coordinates":[-85.68809,41.333244],"type":"Point"}
 }

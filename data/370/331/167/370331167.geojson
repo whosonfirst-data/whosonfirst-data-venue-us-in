@@ -2,13 +2,14 @@
   "id": 370331167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.313964,41.39119,-86.313964,41.39119",
     "geom:latitude":41.39119,
     "geom:longitude":-86.313964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Michigan Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370331167,
-    "wof:lastmodified":1449031142,
+    "wof:lastmodified":1466503108,
     "wof:name":"Big Red Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-86.313964,41.39119,-86.313964,41.39119],
+  "bbox": [
+    -86.313964,
+    41.39119,
+    -86.313964,
+    41.39119
+],
   "geometry": {"coordinates":[-86.313964,41.39119],"type":"Point"}
 }

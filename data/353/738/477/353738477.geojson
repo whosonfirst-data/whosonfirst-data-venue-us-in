@@ -2,13 +2,14 @@
   "id": 353738477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.674519,40.263153,-85.674519,40.263153",
     "geom:latitude":40.263153,
     "geom:longitude":-85.674519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Harrison St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353738477,
-    "wof:lastmodified":1449020105,
+    "wof:lastmodified":1466503233,
     "wof:name":"JAM Consultants Inc",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-85.674519,40.263153,-85.674519,40.263153],
+  "bbox": [
+    -85.674519,
+    40.263153,
+    -85.674519,
+    40.263153
+],
   "geometry": {"coordinates":[-85.674519,40.263153],"type":"Point"}
 }

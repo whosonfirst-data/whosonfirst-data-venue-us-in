@@ -2,13 +2,14 @@
   "id": 354223693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.189645,41.133626,-85.189645,41.133626",
     "geom:latitude":41.133626,
     "geom:longitude":-85.189645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6032 Highview Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354223693,
-    "wof:lastmodified":1449066051,
+    "wof:lastmodified":1466503172,
     "wof:name":"Surface Tanning The",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.189645,41.133626,-85.189645,41.133626],
+  "bbox": [
+    -85.189645,
+    41.133626,
+    -85.189645,
+    41.133626
+],
   "geometry": {"coordinates":[-85.189645,41.133626],"type":"Point"}
 }

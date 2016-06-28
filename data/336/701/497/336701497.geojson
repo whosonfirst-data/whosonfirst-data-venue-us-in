@@ -2,13 +2,14 @@
   "id": 336701497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10315,39.930181,-86.10315,39.930181",
     "geom:latitude":39.930181,
     "geom:longitude":-86.10315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9750 Lakeshore Dr E",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336701497,
-    "wof:lastmodified":1448997807,
+    "wof:lastmodified":1466503017,
     "wof:name":"Extended Stay America Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-86.10315,39.930181,-86.10315,39.930181],
+  "bbox": [
+    -86.10315,
+    39.930181,
+    -86.10315,
+    39.930181
+],
   "geometry": {"coordinates":[-86.10315,39.930181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387837353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.139558,39.477544,-87.139558,39.477544",
     "geom:latitude":39.477544,
     "geom:longitude":-87.139558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 W Slacks Lake Dr",
     "sg:city":"Brazil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387837353,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1466504034,
     "wof:name":"Packaging Personified",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "designing"
     ]
 },
-  "bbox": [-87.139558,39.477544,-87.139558,39.477544],
-  "geometry": {"coordinates":[-87.139558,39.477544],"type":"Point"}
+  "bbox": [
+    -87.139558,
+    39.477544,
+    -87.139558,
+    39.477544
+],
+  "geometry": {"coordinates":[-87.13955799999999,39.477544],"type":"Point"}
 }

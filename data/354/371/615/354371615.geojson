@@ -2,13 +2,14 @@
   "id": 354371615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.106396,40.477961,-86.106396,40.477961",
     "geom:latitude":40.477961,
     "geom:longitude":-86.106396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Belvedere Dr",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354371615,
-    "wof:lastmodified":1449067254,
+    "wof:lastmodified":1466503405,
     "wof:name":"Gary's Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-86.106396,40.477961,-86.106396,40.477961],
+  "bbox": [
+    -86.106396,
+    40.477961,
+    -86.106396,
+    40.477961
+],
   "geometry": {"coordinates":[-86.106396,40.477961],"type":"Point"}
 }

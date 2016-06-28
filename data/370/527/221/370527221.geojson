@@ -2,13 +2,14 @@
   "id": 370527221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.8811,40.424785,-86.8811,40.424785",
     "geom:latitude":40.424785,
     "geom:longitude":-86.8811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Union St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370527221,
-    "wof:lastmodified":1449031786,
+    "wof:lastmodified":1466503302,
     "wof:name":"Mattingly Center For Sight",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.8811,40.424785,-86.8811,40.424785],
+  "bbox": [
+    -86.8811,
+    40.424785,
+    -86.8811,
+    40.424785
+],
   "geometry": {"coordinates":[-86.8811,40.424785],"type":"Point"}
 }

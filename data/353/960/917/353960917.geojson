@@ -2,13 +2,14 @@
   "id": 353960917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.85358,38.317558,-85.85358,38.317558",
     "geom:latitude":38.317558,
     "geom:longitude":-85.85358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Paoli Pike",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353960917,
-    "wof:lastmodified":1449020080,
+    "wof:lastmodified":1466503501,
     "wof:name":"Korea Taekwondo",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-85.85358,38.317558,-85.85358,38.317558],
-  "geometry": {"coordinates":[-85.85358,38.317558],"type":"Point"}
+  "bbox": [
+    -85.85358,
+    38.317558,
+    -85.85358,
+    38.317558
+],
+  "geometry": {"coordinates":[-85.85357999999999,38.317558],"type":"Point"}
 }

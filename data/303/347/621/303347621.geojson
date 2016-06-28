@@ -2,13 +2,14 @@
   "id": 303347621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.154508,39.76582,-86.154508,39.76582",
     "geom:latitude":39.76582,
     "geom:longitude":-86.154508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Virginia Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303347621,
-    "wof:lastmodified":1448999301,
+    "wof:lastmodified":1466503626,
     "wof:name":"16th Street Speedway Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.154508,39.76582,-86.154508,39.76582],
-  "geometry": {"coordinates":[-86.154508,39.76582],"type":"Point"}
+  "bbox": [
+    -86.154508,
+    39.76582,
+    -86.154508,
+    39.76582
+],
+  "geometry": {"coordinates":[-86.15450800000001,39.76582],"type":"Point"}
 }

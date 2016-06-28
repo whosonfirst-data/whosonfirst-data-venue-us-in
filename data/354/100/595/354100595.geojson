@@ -2,13 +2,14 @@
   "id": 354100595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.444926,41.640755,-87.444926,41.640755",
     "geom:latitude":41.640755,
     "geom:longitude":-87.444926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 Main St",
     "sg:city":"East Chicago",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354100595,
-    "wof:lastmodified":1449067218,
+    "wof:lastmodified":1466502999,
     "wof:name":"R L Perez & Co",
     "wof:parent_id":85826901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-87.444926,41.640755,-87.444926,41.640755],
+  "bbox": [
+    -87.444926,
+    41.640755,
+    -87.444926,
+    41.640755
+],
   "geometry": {"coordinates":[-87.444926,41.640755],"type":"Point"}
 }

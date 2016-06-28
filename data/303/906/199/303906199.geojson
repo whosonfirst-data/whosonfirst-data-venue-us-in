@@ -2,13 +2,14 @@
   "id": 303906199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10631,39.617039,-86.10631,39.617039",
     "geom:latitude":39.617039,
     "geom:longitude":-86.10631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Meridian St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303906199,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1466503244,
     "wof:name":"A Paul's Glass & Accessories",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-86.10631,39.617039,-86.10631,39.617039],
-  "geometry": {"coordinates":[-86.10631,39.617039],"type":"Point"}
+  "bbox": [
+    -86.10631,
+    39.617039,
+    -86.10631,
+    39.617039
+],
+  "geometry": {"coordinates":[-86.10630999999999,39.617039],"type":"Point"}
 }

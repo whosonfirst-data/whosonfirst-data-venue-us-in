@@ -2,13 +2,14 @@
   "id": 354379789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.110731,39.527083,-87.110731,39.527083",
     "geom:latitude":39.527083,
     "geom:longitude":-87.110731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 E National Ave",
     "sg:city":"Brazil",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354379789,
-    "wof:lastmodified":1449066931,
+    "wof:lastmodified":1466503419,
     "wof:name":"Paul Houston MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.110731,39.527083,-87.110731,39.527083],
+  "bbox": [
+    -87.110731,
+    39.527083,
+    -87.110731,
+    39.527083
+],
   "geometry": {"coordinates":[-87.110731,39.527083],"type":"Point"}
 }

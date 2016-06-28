@@ -2,13 +2,14 @@
   "id": 371063019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.836727,38.688683,-85.836727,38.688683",
     "geom:latitude":38.688683,
     "geom:longitude":-85.836727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 S Moon Rd",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371063019,
-    "wof:lastmodified":1449049116,
+    "wof:lastmodified":1466502946,
     "wof:name":"A 1 Rooter King Sewer & Drain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.836727,38.688683,-85.836727,38.688683],
+  "bbox": [
+    -85.836727,
+    38.688683,
+    -85.836727,
+    38.688683
+],
   "geometry": {"coordinates":[-85.836727,38.688683],"type":"Point"}
 }

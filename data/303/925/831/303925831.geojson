@@ -2,13 +2,14 @@
   "id": 303925831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.054179,40.041452,-86.054179,40.041452",
     "geom:latitude":40.041452,
     "geom:longitude":-86.054179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Park 32 Dr W",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303925831,
-    "wof:lastmodified":1448998136,
+    "wof:lastmodified":1466503272,
     "wof:name":"Fepco Tool & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-86.054179,40.041452,-86.054179,40.041452],
+  "bbox": [
+    -86.054179,
+    40.041452,
+    -86.054179,
+    40.041452
+],
   "geometry": {"coordinates":[-86.054179,40.041452],"type":"Point"}
 }

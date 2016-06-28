@@ -2,13 +2,14 @@
   "id": 336806367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.538267,37.991465,-87.538267,37.991465",
     "geom:latitude":37.991465,
     "geom:longitude":-87.538267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 N Willow Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336806367,
-    "wof:lastmodified":1448996917,
+    "wof:lastmodified":1466503156,
     "wof:name":"Little Gary's Screen & Window",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-87.538267,37.991465,-87.538267,37.991465],
+  "bbox": [
+    -87.538267,
+    37.991465,
+    -87.538267,
+    37.991465
+],
   "geometry": {"coordinates":[-87.538267,37.991465],"type":"Point"}
 }

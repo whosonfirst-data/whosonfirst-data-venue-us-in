@@ -2,13 +2,14 @@
   "id": 354072927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974622,41.746195,-85.974622,41.746195",
     "geom:latitude":41.746195,
     "geom:longitude":-85.974622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51523 State Rd 19",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354072927,
-    "wof:lastmodified":1449066843,
+    "wof:lastmodified":1466502964,
     "wof:name":"Low Bob's Discount Tobacco",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.974622,41.746195,-85.974622,41.746195],
+  "bbox": [
+    -85.974622,
+    41.746195,
+    -85.974622,
+    41.746195
+],
   "geometry": {"coordinates":[-85.974622,41.746195],"type":"Point"}
 }

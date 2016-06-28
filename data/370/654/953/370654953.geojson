@@ -2,13 +2,14 @@
   "id": 370654953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.29659,41.554765,-87.29659,41.554765",
     "geom:latitude":41.554765,
     "geom:longitude":-87.29659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 E 35th Ave",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370654953,
-    "wof:lastmodified":1449030235,
+    "wof:lastmodified":1466503450,
     "wof:name":"Iglesia Evangelica De Cristo",
     "wof:parent_id":85831063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.29659,41.554765,-87.29659,41.554765],
-  "geometry": {"coordinates":[-87.29659,41.554765],"type":"Point"}
+  "bbox": [
+    -87.29659,
+    41.554765,
+    -87.29659,
+    41.554765
+],
+  "geometry": {"coordinates":[-87.29658999999999,41.554765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403902687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482451,41.466145,-86.482451,41.466145",
     "geom:latitude":41.466145,
     "geom:longitude":-86.482451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Illinois St",
     "sg:city":"Walkerton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403902687,
-    "wof:lastmodified":1449055598,
+    "wof:lastmodified":1466503164,
     "wof:name":"Kenny & Carl's Supervalue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-86.482451,41.466145,-86.482451,41.466145],
+  "bbox": [
+    -86.482451,
+    41.466145,
+    -86.482451,
+    41.466145
+],
   "geometry": {"coordinates":[-86.482451,41.466145],"type":"Point"}
 }

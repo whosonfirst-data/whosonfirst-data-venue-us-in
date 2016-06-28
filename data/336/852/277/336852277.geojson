@@ -2,13 +2,14 @@
   "id": 336852277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.52823,38.683244,-87.52823,38.683244",
     "geom:latitude":38.683244,
     "geom:longitude":-87.52823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N 1st St",
     "sg:city":"Vincennes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336852277,
-    "wof:lastmodified":1448997851,
+    "wof:lastmodified":1466503215,
     "wof:name":"Medical Center Of Vincennes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.52823,38.683244,-87.52823,38.683244],
-  "geometry": {"coordinates":[-87.52823,38.683244],"type":"Point"}
+  "bbox": [
+    -87.52823,
+    38.683244,
+    -87.52823,
+    38.683244
+],
+  "geometry": {"coordinates":[-87.52822999999999,38.683244],"type":"Point"}
 }

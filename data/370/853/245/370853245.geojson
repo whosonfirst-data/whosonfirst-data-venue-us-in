@@ -2,13 +2,14 @@
   "id": 370853245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.987572,39.77494,-85.987572,39.77494",
     "geom:latitude":39.77494,
     "geom:longitude":-85.987572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10019 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370853245,
-    "wof:lastmodified":1449030456,
+    "wof:lastmodified":1466503645,
     "wof:name":"Indiana Carpet Svc Cash & Crry",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [-85.987572,39.77494,-85.987572,39.77494],
+  "bbox": [
+    -85.987572,
+    39.77494,
+    -85.987572,
+    39.77494
+],
   "geometry": {"coordinates":[-85.987572,39.77494],"type":"Point"}
 }

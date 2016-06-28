@@ -2,13 +2,14 @@
   "id": 404081873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120929,40.046166,-86.120929,40.046166",
     "geom:latitude":40.046166,
     "geom:longitude":-86.120929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Birch St",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404081873,
-    "wof:lastmodified":1449039391,
+    "wof:lastmodified":1466502994,
     "wof:name":"Advanced Fuel Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-86.120929,40.046166,-86.120929,40.046166],
+  "bbox": [
+    -86.120929,
+    40.046166,
+    -86.120929,
+    40.046166
+],
   "geometry": {"coordinates":[-86.120929,40.046166],"type":"Point"}
 }

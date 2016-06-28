@@ -2,13 +2,14 @@
   "id": 370280721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.225068,40.780388,-87.225068,40.780388",
     "geom:latitude":40.780388,
     "geom:longitude":-87.225068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9515 W 1600 S",
     "sg:city":"Goodland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370280721,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1466503051,
     "wof:name":"Janets Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.225068,40.780388,-87.225068,40.780388],
-  "geometry": {"coordinates":[-87.225068,40.780388],"type":"Point"}
+  "bbox": [
+    -87.225068,
+    40.780388,
+    -87.225068,
+    40.780388
+],
+  "geometry": {"coordinates":[-87.22506799999999,40.780388],"type":"Point"}
 }

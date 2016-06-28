@@ -2,13 +2,14 @@
   "id": 353713391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760939,38.078856,-87.760939,38.078856",
     "geom:latitude":38.078856,
     "geom:longitude":-87.760939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Blair Ln",
     "sg:city":"Wadesville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353713391,
-    "wof:lastmodified":1449020569,
+    "wof:lastmodified":1466503203,
     "wof:name":"Ralph Glaser Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.760939,38.078856,-87.760939,38.078856],
-  "geometry": {"coordinates":[-87.760939,38.078856],"type":"Point"}
+  "bbox": [
+    -87.760939,
+    38.078856,
+    -87.760939,
+    38.078856
+],
+  "geometry": {"coordinates":[-87.76093899999999,38.078856],"type":"Point"}
 }

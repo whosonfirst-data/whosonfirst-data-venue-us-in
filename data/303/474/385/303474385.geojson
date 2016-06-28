@@ -2,13 +2,14 @@
   "id": 303474385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.465323,38.565277,-86.465323,38.565277",
     "geom:latitude":38.565277,
     "geom:longitude":-86.465323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 N Gospel St",
     "sg:city":"Paoli",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303474385,
-    "wof:lastmodified":1448998222,
+    "wof:lastmodified":1466503698,
     "wof:name":"Williams Brothers Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.465323,38.565277,-86.465323,38.565277],
+  "bbox": [
+    -86.465323,
+    38.565277,
+    -86.465323,
+    38.565277
+],
   "geometry": {"coordinates":[-86.465323,38.565277],"type":"Point"}
 }

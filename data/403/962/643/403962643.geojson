@@ -2,13 +2,14 @@
   "id": 403962643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.4149,39.855948,-86.4149,39.855948",
     "geom:latitude":39.855948,
     "geom:longitude":-86.4149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Northfield Dr",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403962643,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1466503248,
     "wof:name":"Brownsburg Family Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.4149,39.855948,-86.4149,39.855948],
+  "bbox": [
+    -86.4149,
+    39.855948,
+    -86.4149,
+    39.855948
+],
   "geometry": {"coordinates":[-86.4149,39.855948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303668419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.338687,40.19741,-85.338687,40.19741",
     "geom:latitude":40.19741,
     "geom:longitude":-85.338687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 N Eastwood Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303668419,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1466502947,
     "wof:name":"Rooter Inc",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.338687,40.19741,-85.338687,40.19741],
-  "geometry": {"coordinates":[-85.338687,40.19741],"type":"Point"}
+  "bbox": [
+    -85.338687,
+    40.19741,
+    -85.338687,
+    40.19741
+],
+  "geometry": {"coordinates":[-85.33868699999999,40.19741],"type":"Point"}
 }

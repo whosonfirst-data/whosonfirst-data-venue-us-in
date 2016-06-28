@@ -2,13 +2,14 @@
   "id": 319848069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.429848,39.570869,-86.429848,39.570869",
     "geom:latitude":39.570869,
     "geom:longitude":-86.429848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lake Hart St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":319848069,
-    "wof:lastmodified":1449024202,
+    "wof:lastmodified":1466503559,
     "wof:name":"John M Hammel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.429848,39.570869,-86.429848,39.570869],
-  "geometry": {"coordinates":[-86.429848,39.570869],"type":"Point"}
+  "bbox": [
+    -86.429848,
+    39.570869,
+    -86.429848,
+    39.570869
+],
+  "geometry": {"coordinates":[-86.42984800000001,39.570869],"type":"Point"}
 }

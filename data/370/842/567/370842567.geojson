@@ -2,13 +2,14 @@
   "id": 370842567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.151845,40.935992,-87.151845,40.935992",
     "geom:latitude":40.935992,
     "geom:longitude":-87.151845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Washington St",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370842567,
-    "wof:lastmodified":1449029334,
+    "wof:lastmodified":1466503632,
     "wof:name":"Clauss Bakery & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-87.151845,40.935992,-87.151845,40.935992],
-  "geometry": {"coordinates":[-87.151845,40.935992],"type":"Point"}
+  "bbox": [
+    -87.151845,
+    40.935992,
+    -87.151845,
+    40.935992
+],
+  "geometry": {"coordinates":[-87.15184499999999,40.935992],"type":"Point"}
 }

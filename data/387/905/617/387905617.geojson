@@ -2,13 +2,14 @@
   "id": 387905617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895628,37.931969,-87.895628,37.931969",
     "geom:latitude":37.931969,
     "geom:longitude":-87.895628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Main St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387905617,
-    "wof:lastmodified":1449057590,
+    "wof:lastmodified":1466504137,
     "wof:name":"Moll's Fashion Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895628,37.931969,-87.895628,37.931969],
+  "bbox": [
+    -87.895628,
+    37.931969,
+    -87.895628,
+    37.931969
+],
   "geometry": {"coordinates":[-87.895628,37.931969],"type":"Point"}
 }

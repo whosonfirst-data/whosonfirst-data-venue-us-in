@@ -2,13 +2,14 @@
   "id": 304020453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.374989,39.611169,-86.374989,39.611169",
     "geom:latitude":39.611169,
     "geom:longitude":-86.374989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Indiana St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304020453,
-    "wof:lastmodified":1449043811,
+    "wof:lastmodified":1466503421,
     "wof:name":"Mooresville Pick & Pump",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-86.374989,39.611169,-86.374989,39.611169],
+  "bbox": [
+    -86.374989,
+    39.611169,
+    -86.374989,
+    39.611169
+],
   "geometry": {"coordinates":[-86.374989,39.611169],"type":"Point"}
 }

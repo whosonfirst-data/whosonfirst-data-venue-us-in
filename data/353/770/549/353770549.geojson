@@ -2,13 +2,14 @@
   "id": 353770549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120443,39.84807,-86.120443,39.84807",
     "geom:latitude":39.84807,
     "geom:longitude":-86.120443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5257 N Tacoma Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353770549,
-    "wof:lastmodified":1449020852,
+    "wof:lastmodified":1466503273,
     "wof:name":"Missions For Rural Africa",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.120443,39.84807,-86.120443,39.84807],
-  "geometry": {"coordinates":[-86.120443,39.84807],"type":"Point"}
+  "bbox": [
+    -86.120443,
+    39.84807,
+    -86.120443,
+    39.84807
+],
+  "geometry": {"coordinates":[-86.12044299999999,39.84807],"type":"Point"}
 }

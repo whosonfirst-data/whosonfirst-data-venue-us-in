@@ -2,13 +2,14 @@
   "id": 303583777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.096504,39.869585,-86.096504,39.869585",
     "geom:latitude":39.869585,
     "geom:longitude":-86.096504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6238 Allisonville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303583777,
-    "wof:lastmodified":1449000051,
+    "wof:lastmodified":1466503768,
     "wof:name":"V-H-One Video",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.096504,39.869585,-86.096504,39.869585],
+  "bbox": [
+    -86.096504,
+    39.869585,
+    -86.096504,
+    39.869585
+],
   "geometry": {"coordinates":[-86.096504,39.869585],"type":"Point"}
 }

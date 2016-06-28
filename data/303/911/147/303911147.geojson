@@ -2,13 +2,14 @@
   "id": 303911147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.274808,39.949155,-86.274808,39.949155",
     "geom:latitude":39.949155,
     "geom:longitude":-86.274808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Brendon Way",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303911147,
-    "wof:lastmodified":1449000162,
+    "wof:lastmodified":1466503252,
     "wof:name":"Mid America Clinical Lab",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-86.274808,39.949155,-86.274808,39.949155],
-  "geometry": {"coordinates":[-86.274808,39.949155],"type":"Point"}
+  "bbox": [
+    -86.274808,
+    39.949155,
+    -86.274808,
+    39.949155
+],
+  "geometry": {"coordinates":[-86.27480799999999,39.949155],"type":"Point"}
 }

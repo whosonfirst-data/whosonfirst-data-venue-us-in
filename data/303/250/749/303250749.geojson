@@ -2,13 +2,14 @@
   "id": 303250749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240455,41.590683,-87.240455,41.590683",
     "geom:latitude":41.590683,
     "geom:longitude":-87.240455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Ripley St",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303250749,
-    "wof:lastmodified":1448999515,
+    "wof:lastmodified":1466503526,
     "wof:name":"Travel Centers Of America",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stops"
     ]
 },
-  "bbox": [-87.240455,41.590683,-87.240455,41.590683],
+  "bbox": [
+    -87.240455,
+    41.590683,
+    -87.240455,
+    41.590683
+],
   "geometry": {"coordinates":[-87.240455,41.590683],"type":"Point"}
 }

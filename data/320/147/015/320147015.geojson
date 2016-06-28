@@ -2,13 +2,14 @@
   "id": 320147015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.227918,39.827211,-86.227918,39.827211",
     "geom:latitude":39.827211,
     "geom:longitude":-86.227918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3955 Industrial Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320147015,
-    "wof:lastmodified":1449014557,
+    "wof:lastmodified":1466503821,
     "wof:name":"Bob's Tool & Cutter Grinding",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grinding"
     ]
 },
-  "bbox": [-86.227918,39.827211,-86.227918,39.827211],
+  "bbox": [
+    -86.227918,
+    39.827211,
+    -86.227918,
+    39.827211
+],
   "geometry": {"coordinates":[-86.227918,39.827211],"type":"Point"}
 }

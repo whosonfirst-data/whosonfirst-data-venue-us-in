@@ -2,13 +2,14 @@
   "id": 387116167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.881807,40.41996,-86.881807,40.41996",
     "geom:latitude":40.41996,
     "geom:longitude":-86.881807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Ferry St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387116167,
-    "wof:lastmodified":1449056657,
+    "wof:lastmodified":1466503053,
     "wof:name":"Product Development Corp",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.881807,40.41996,-86.881807,40.41996],
-  "geometry": {"coordinates":[-86.881807,40.41996],"type":"Point"}
+  "bbox": [
+    -86.881807,
+    40.41996,
+    -86.881807,
+    40.41996
+],
+  "geometry": {"coordinates":[-86.88180699999999,40.41996],"type":"Point"}
 }

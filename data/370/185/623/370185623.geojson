@@ -2,13 +2,14 @@
   "id": 370185623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.123059,39.606131,-86.123059,39.606131",
     "geom:latitude":39.606131,
     "geom:longitude":-86.123059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 W Smith Valley Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370185623,
-    "wof:lastmodified":1449029643,
+    "wof:lastmodified":1466502932,
     "wof:name":"Tapestry Interior Design",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-86.123059,39.606131,-86.123059,39.606131],
+  "bbox": [
+    -86.123059,
+    39.606131,
+    -86.123059,
+    39.606131
+],
   "geometry": {"coordinates":[-86.123059,39.606131],"type":"Point"}
 }

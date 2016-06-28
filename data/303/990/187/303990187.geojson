@@ -2,13 +2,14 @@
   "id": 303990187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.875416,41.248388,-85.875416,41.248388",
     "geom:latitude":41.248388,
     "geom:longitude":-85.875416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 W Lake St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303990187,
-    "wof:lastmodified":1448999754,
+    "wof:lastmodified":1466503370,
     "wof:name":"Temple Trucking Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-85.875416,41.248388,-85.875416,41.248388],
+  "bbox": [
+    -85.875416,
+    41.248388,
+    -85.875416,
+    41.248388
+],
   "geometry": {"coordinates":[-85.875416,41.248388],"type":"Point"}
 }

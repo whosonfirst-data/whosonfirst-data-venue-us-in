@@ -2,13 +2,14 @@
   "id": 354312111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.862774,39.095009,-84.862774,39.095009",
     "geom:latitude":39.095009,
     "geom:longitude":-84.862774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Eads Pkwy",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354312111,
-    "wof:lastmodified":1449066787,
+    "wof:lastmodified":1466503310,
     "wof:name":"Star One Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.862774,39.095009,-84.862774,39.095009],
+  "bbox": [
+    -84.862774,
+    39.095009,
+    -84.862774,
+    39.095009
+],
   "geometry": {"coordinates":[-84.862774,39.095009],"type":"Point"}
 }

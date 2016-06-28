@@ -2,13 +2,14 @@
   "id": 387334213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.379458,40.7223,-86.379458,40.7223",
     "geom:latitude":40.7223,
     "geom:longitude":-86.379458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Industrial Blvd",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387334213,
-    "wof:lastmodified":1449057208,
+    "wof:lastmodified":1466503349,
     "wof:name":"Cass County By Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cat"
     ]
 },
-  "bbox": [-86.379458,40.7223,-86.379458,40.7223],
+  "bbox": [
+    -86.379458,
+    40.7223,
+    -86.379458,
+    40.7223
+],
   "geometry": {"coordinates":[-86.379458,40.7223],"type":"Point"}
 }

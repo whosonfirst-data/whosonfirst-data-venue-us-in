@@ -2,13 +2,14 @@
   "id": 303284285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144617,39.741682,-86.144617,39.741682",
     "geom:latitude":39.741682,
     "geom:longitude":-86.144617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 E Beecher St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303284285,
-    "wof:lastmodified":1448999636,
+    "wof:lastmodified":1466503566,
     "wof:name":"Kilroy's Service Ctr",
     "wof:parent_id":85866943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.144617,39.741682,-86.144617,39.741682],
+  "bbox": [
+    -86.144617,
+    39.741682,
+    -86.144617,
+    39.741682
+],
   "geometry": {"coordinates":[-86.144617,39.741682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370840501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336278,41.525917,-87.336278,41.525917",
     "geom:latitude":41.525917,
     "geom:longitude":-87.336278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5004 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370840501,
-    "wof:lastmodified":1449031724,
+    "wof:lastmodified":1466503630,
     "wof:name":"Paradise Lounge & Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.336278,41.525917,-87.336278,41.525917],
-  "geometry": {"coordinates":[-87.336278,41.525917],"type":"Point"}
+  "bbox": [
+    -87.336278,
+    41.525917,
+    -87.336278,
+    41.525917
+],
+  "geometry": {"coordinates":[-87.33627799999999,41.525917],"type":"Point"}
 }

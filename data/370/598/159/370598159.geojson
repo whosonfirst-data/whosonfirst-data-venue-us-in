@@ -2,13 +2,14 @@
   "id": 370598159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.392038,40.191052,-85.392038,40.191052",
     "geom:latitude":40.191052,
     "geom:longitude":-85.392038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 W Charles St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370598159,
-    "wof:lastmodified":1449029256,
+    "wof:lastmodified":1466503388,
     "wof:name":"B & B Lock & Key",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-85.392038,40.191052,-85.392038,40.191052],
+  "bbox": [
+    -85.392038,
+    40.191052,
+    -85.392038,
+    40.191052
+],
   "geometry": {"coordinates":[-85.392038,40.191052],"type":"Point"}
 }

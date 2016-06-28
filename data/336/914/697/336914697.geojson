@@ -2,13 +2,14 @@
   "id": 336914697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.18345,41.59747,-87.18345,41.59747",
     "geom:latitude":41.59747,
     "geom:longitude":-87.18345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6142 Melton Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336914697,
-    "wof:lastmodified":1448997357,
+    "wof:lastmodified":1466503292,
     "wof:name":"Dollar Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.18345,41.59747,-87.18345,41.59747],
-  "geometry": {"coordinates":[-87.18345,41.59747],"type":"Point"}
+  "bbox": [
+    -87.18345,
+    41.59747,
+    -87.18345,
+    41.59747
+],
+  "geometry": {"coordinates":[-87.18344999999999,41.59747],"type":"Point"}
 }

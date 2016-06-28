@@ -2,13 +2,14 @@
   "id": 370898971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.711008,38.736666,-85.711008,38.736666",
     "geom:latitude":38.736666,
     "geom:longitude":-85.711008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3614 E State Rd 256",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370898971,
-    "wof:lastmodified":1449028998,
+    "wof:lastmodified":1466503708,
     "wof:name":"Pioneer Village Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.711008,38.736666,-85.711008,38.736666],
-  "geometry": {"coordinates":[-85.711008,38.736666],"type":"Point"}
+  "bbox": [
+    -85.711008,
+    38.736666,
+    -85.711008,
+    38.736666
+],
+  "geometry": {"coordinates":[-85.71100800000001,38.736666],"type":"Point"}
 }

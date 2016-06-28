@@ -2,13 +2,14 @@
   "id": 303997497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.127882,41.110294,-85.127882,41.110294",
     "geom:latitude":41.110294,
     "geom:longitude":-85.127882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3555 Spy Run Ave Exd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303997497,
-    "wof:lastmodified":1449000127,
+    "wof:lastmodified":1466503382,
     "wof:name":"Courtland Health & Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-85.127882,41.110294,-85.127882,41.110294],
+  "bbox": [
+    -85.127882,
+    41.110294,
+    -85.127882,
+    41.110294
+],
   "geometry": {"coordinates":[-85.127882,41.110294],"type":"Point"}
 }

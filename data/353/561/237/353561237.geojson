@@ -2,13 +2,14 @@
   "id": 353561237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985985,38.410498,-86.985985,38.410498",
     "geom:latitude":38.410498,
     "geom:longitude":-86.985985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 W State Rd 56",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353561237,
-    "wof:lastmodified":1449020056,
+    "wof:lastmodified":1466503023,
     "wof:name":"Hulsman Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.985985,38.410498,-86.985985,38.410498],
+  "bbox": [
+    -86.985985,
+    38.410498,
+    -86.985985,
+    38.410498
+],
   "geometry": {"coordinates":[-86.985985,38.410498],"type":"Point"}
 }

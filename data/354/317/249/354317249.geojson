@@ -2,13 +2,14 @@
   "id": 354317249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126929,39.97148,-86.126929,39.97148",
     "geom:latitude":39.97148,
     "geom:longitude":-86.126929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 S Range Line Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354317249,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466503321,
     "wof:name":"Draper & Kramer Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.126929,39.97148,-86.126929,39.97148],
+  "bbox": [
+    -86.126929,
+    39.97148,
+    -86.126929,
+    39.97148
+],
   "geometry": {"coordinates":[-86.126929,39.97148],"type":"Point"}
 }

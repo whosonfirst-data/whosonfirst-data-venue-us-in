@@ -2,13 +2,14 @@
   "id": 354269497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.18543,41.723979,-86.18543,41.723979",
     "geom:latitude":41.723979,
     "geom:longitude":-86.18543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Cleveland Rd",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354269497,
-    "wof:lastmodified":1449067028,
+    "wof:lastmodified":1466503242,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-86.18543,41.723979,-86.18543,41.723979],
+  "bbox": [
+    -86.18543,
+    41.723979,
+    -86.18543,
+    41.723979
+],
   "geometry": {"coordinates":[-86.18543,41.723979],"type":"Point"}
 }

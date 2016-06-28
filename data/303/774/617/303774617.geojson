@@ -2,13 +2,14 @@
   "id": 303774617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930568,40.460522,-86.930568,40.460522",
     "geom:latitude":40.460522,
     "geom:longitude":-86.930568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Cumberland Ave",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303774617,
-    "wof:lastmodified":1448999066,
+    "wof:lastmodified":1466503071,
     "wof:name":"MDBS",
     "wof:parent_id":85813095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-86.930568,40.460522,-86.930568,40.460522],
-  "geometry": {"coordinates":[-86.930568,40.460522],"type":"Point"}
+  "bbox": [
+    -86.930568,
+    40.460522,
+    -86.930568,
+    40.460522
+],
+  "geometry": {"coordinates":[-86.93056799999999,40.460522],"type":"Point"}
 }

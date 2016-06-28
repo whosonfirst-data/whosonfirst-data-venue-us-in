@@ -2,13 +2,14 @@
   "id": 403770635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.096013,40.983037,-86.096013,40.983037",
     "geom:latitude":40.983037,
     "geom:longitude":-86.096013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14439 N 100 W",
     "sg:city":"Macy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403770635,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466502974,
     "wof:name":"Eckrote Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.096013,40.983037,-86.096013,40.983037],
+  "bbox": [
+    -86.096013,
+    40.983037,
+    -86.096013,
+    40.983037
+],
   "geometry": {"coordinates":[-86.096013,40.983037],"type":"Point"}
 }

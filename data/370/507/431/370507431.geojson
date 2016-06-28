@@ -2,13 +2,14 @@
   "id": 370507431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.719518,39.390851,-85.719518,39.390851",
     "geom:latitude":39.390851,
     "geom:longitude":-85.719518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 E Vandalia Rd",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370507431,
-    "wof:lastmodified":1449030819,
+    "wof:lastmodified":1466503278,
     "wof:name":"Mc Clure Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.719518,39.390851,-85.719518,39.390851],
-  "geometry": {"coordinates":[-85.719518,39.390851],"type":"Point"}
+  "bbox": [
+    -85.719518,
+    39.390851,
+    -85.719518,
+    39.390851
+],
+  "geometry": {"coordinates":[-85.71951799999999,39.390851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371170903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.317695,41.555432,-85.317695,41.555432",
     "geom:latitude":41.555432,
     "geom:longitude":-85.317695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5645 E 600 S",
     "sg:city":"Wolcottville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371170903,
-    "wof:lastmodified":1449049117,
+    "wof:lastmodified":1466503088,
     "wof:name":"Buffalo Pete's Deli & Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-85.317695,41.555432,-85.317695,41.555432],
+  "bbox": [
+    -85.317695,
+    41.555432,
+    -85.317695,
+    41.555432
+],
   "geometry": {"coordinates":[-85.317695,41.555432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336688711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.853101,38.381471,-85.853101,38.381471",
     "geom:latitude":38.381471,
     "geom:longitude":-85.853101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7393 Pete Andres Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336688711,
-    "wof:lastmodified":1448997346,
+    "wof:lastmodified":1466502999,
     "wof:name":"Koetter Construction & Dvlpmnt",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.853101,38.381471,-85.853101,38.381471],
+  "bbox": [
+    -85.853101,
+    38.381471,
+    -85.853101,
+    38.381471
+],
   "geometry": {"coordinates":[-85.853101,38.381471],"type":"Point"}
 }

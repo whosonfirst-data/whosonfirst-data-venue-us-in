@@ -2,13 +2,14 @@
   "id": 336801499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.635243,39.507532,-85.635243,39.507532",
     "geom:latitude":39.507532,
     "geom:longitude":-85.635243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1297 S 775 E",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336801499,
-    "wof:lastmodified":1448997845,
+    "wof:lastmodified":1466503150,
     "wof:name":"Coers Fred & Son Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.635243,39.507532,-85.635243,39.507532],
+  "bbox": [
+    -85.635243,
+    39.507532,
+    -85.635243,
+    39.507532
+],
   "geometry": {"coordinates":[-85.635243,39.507532],"type":"Point"}
 }

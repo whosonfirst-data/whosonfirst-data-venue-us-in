@@ -2,13 +2,14 @@
   "id": 387336867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.139555,41.079449,-85.139555,41.079449",
     "geom:latitude":41.079449,
     "geom:longitude":-85.139555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387336867,
-    "wof:lastmodified":1449056038,
+    "wof:lastmodified":1466503352,
     "wof:name":"Allen County Superior Court",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "executive"
     ]
 },
-  "bbox": [-85.139555,41.079449,-85.139555,41.079449],
+  "bbox": [
+    -85.139555,
+    41.079449,
+    -85.139555,
+    41.079449
+],
   "geometry": {"coordinates":[-85.139555,41.079449],"type":"Point"}
 }

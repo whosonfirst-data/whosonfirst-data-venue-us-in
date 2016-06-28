@@ -2,13 +2,14 @@
   "id": 386981579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157991,39.919779,-86.157991,39.919779",
     "geom:latitude":39.919779,
     "geom:longitude":-86.157991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9292 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386981579,
-    "wof:lastmodified":1449028974,
+    "wof:lastmodified":1466502955,
     "wof:name":"Joseph W Bergeron MD",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.157991,39.919779,-86.157991,39.919779],
+  "bbox": [
+    -86.157991,
+    39.919779,
+    -86.157991,
+    39.919779
+],
   "geometry": {"coordinates":[-86.157991,39.919779],"type":"Point"}
 }

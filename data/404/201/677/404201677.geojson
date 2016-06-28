@@ -2,13 +2,14 @@
   "id": 404201677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.379273,38.782135,-85.379273,38.782135",
     "geom:latitude":38.782135,
     "geom:longitude":-85.379273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Ivy Tech Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404201677,
-    "wof:lastmodified":1449040158,
+    "wof:lastmodified":1466503157,
     "wof:name":"Royce Gun Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-85.379273,38.782135,-85.379273,38.782135],
+  "bbox": [
+    -85.379273,
+    38.782135,
+    -85.379273,
+    38.782135
+],
   "geometry": {"coordinates":[-85.379273,38.782135],"type":"Point"}
 }

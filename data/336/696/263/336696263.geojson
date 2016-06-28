@@ -2,13 +2,14 @@
   "id": 336696263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.421011,40.192901,-85.421011,40.192901",
     "geom:latitude":40.192901,
     "geom:longitude":-85.421011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 W Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336696263,
-    "wof:lastmodified":1448997012,
+    "wof:lastmodified":1466503010,
     "wof:name":"IWMI Internet Svc",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-85.421011,40.192901,-85.421011,40.192901],
-  "geometry": {"coordinates":[-85.421011,40.192901],"type":"Point"}
+  "bbox": [
+    -85.421011,
+    40.192901,
+    -85.421011,
+    40.192901
+],
+  "geometry": {"coordinates":[-85.42101099999999,40.192901],"type":"Point"}
 }

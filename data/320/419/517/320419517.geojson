@@ -2,13 +2,14 @@
   "id": 320419517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.364906,41.472683,-87.364906,41.472683",
     "geom:latitude":41.472683,
     "geom:longitude":-87.364906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7925 Taft St",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320419517,
-    "wof:lastmodified":1449014896,
+    "wof:lastmodified":1466503078,
     "wof:name":"Bank One National Assn Chicago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-87.364906,41.472683,-87.364906,41.472683],
+  "bbox": [
+    -87.364906,
+    41.472683,
+    -87.364906,
+    41.472683
+],
   "geometry": {"coordinates":[-87.364906,41.472683],"type":"Point"}
 }

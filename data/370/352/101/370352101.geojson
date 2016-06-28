@@ -2,13 +2,14 @@
   "id": 370352101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.673327,40.587391,-86.673327,40.587391",
     "geom:latitude":40.587391,
     "geom:longitude":-86.673327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Union St",
     "sg:city":"Delphi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370352101,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1466503130,
     "wof:name":"K T E In Your HM Pet Boarding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.673327,40.587391,-86.673327,40.587391],
+  "bbox": [
+    -86.673327,
+    40.587391,
+    -86.673327,
+    40.587391
+],
   "geometry": {"coordinates":[-86.673327,40.587391],"type":"Point"}
 }

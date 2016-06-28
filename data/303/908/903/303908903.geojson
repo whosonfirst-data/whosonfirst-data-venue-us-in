@@ -2,13 +2,14 @@
   "id": 303908903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.044476,39.946382,-86.044476,39.946382",
     "geom:latitude":39.946382,
     "geom:longitude":-86.044476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10888 Allisonville Rd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303908903,
-    "wof:lastmodified":1448999507,
+    "wof:lastmodified":1466503248,
     "wof:name":"Wedding Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.044476,39.946382,-86.044476,39.946382],
+  "bbox": [
+    -86.044476,
+    39.946382,
+    -86.044476,
+    39.946382
+],
   "geometry": {"coordinates":[-86.044476,39.946382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370207581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.066357,39.758516,-86.066357,39.758516",
     "geom:latitude":39.758516,
     "geom:longitude":-86.066357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5802 Brookville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370207581,
-    "wof:lastmodified":1449031452,
+    "wof:lastmodified":1466502958,
     "wof:name":"J Narmore Photography",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-86.066357,39.758516,-86.066357,39.758516],
+  "bbox": [
+    -86.066357,
+    39.758516,
+    -86.066357,
+    39.758516
+],
   "geometry": {"coordinates":[-86.066357,39.758516],"type":"Point"}
 }

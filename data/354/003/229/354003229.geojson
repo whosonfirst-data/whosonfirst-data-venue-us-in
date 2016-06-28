@@ -2,13 +2,14 @@
   "id": 354003229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.071881,40.755752,-86.071881,40.755752",
     "geom:latitude":40.755752,
     "geom:longitude":-86.071881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 W 7th St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354003229,
-    "wof:lastmodified":1449067540,
+    "wof:lastmodified":1466502886,
     "wof:name":"Keller Kleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-86.071881,40.755752,-86.071881,40.755752],
+  "bbox": [
+    -86.071881,
+    40.755752,
+    -86.071881,
+    40.755752
+],
   "geometry": {"coordinates":[-86.071881,40.755752],"type":"Point"}
 }

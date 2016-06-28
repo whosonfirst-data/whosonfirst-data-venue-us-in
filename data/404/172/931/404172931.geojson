@@ -2,13 +2,14 @@
   "id": 404172931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.861025,41.145026,-85.861025,41.145026",
     "geom:latitude":41.145026,
     "geom:longitude":-85.861025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1384 W 600 S",
     "sg:city":"Claypool",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404172931,
-    "wof:lastmodified":1449039522,
+    "wof:lastmodified":1466503118,
     "wof:name":"Douglas Drudge",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.861025,41.145026,-85.861025,41.145026],
+  "bbox": [
+    -85.861025,
+    41.145026,
+    -85.861025,
+    41.145026
+],
   "geometry": {"coordinates":[-85.861025,41.145026],"type":"Point"}
 }

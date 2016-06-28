@@ -2,13 +2,14 @@
   "id": 353858759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.838182,41.236854,-85.838182,41.236854",
     "geom:latitude":41.236854,
     "geom:longitude":-85.838182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Bronson St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353858759,
-    "wof:lastmodified":1449018511,
+    "wof:lastmodified":1466503373,
     "wof:name":"Hair We",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.838182,41.236854,-85.838182,41.236854],
+  "bbox": [
+    -85.838182,
+    41.236854,
+    -85.838182,
+    41.236854
+],
   "geometry": {"coordinates":[-85.838182,41.236854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303290663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.051339,39.79785,-86.051339,39.79785",
     "geom:latitude":39.79785,
     "geom:longitude":-86.051339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 N Elizabeth St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303290663,
-    "wof:lastmodified":1448999170,
+    "wof:lastmodified":1466503571,
     "wof:name":"Adams Heating & Cooling",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.051339,39.79785,-86.051339,39.79785],
+  "bbox": [
+    -86.051339,
+    39.79785,
+    -86.051339,
+    39.79785
+],
   "geometry": {"coordinates":[-86.051339,39.79785],"type":"Point"}
 }

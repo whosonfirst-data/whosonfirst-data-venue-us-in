@@ -2,13 +2,14 @@
   "id": 387369253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543376,38.122887,-87.543376,38.122887",
     "geom:latitude":38.122887,
     "geom:longitude":-87.543376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 E Baseline Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387369253,
-    "wof:lastmodified":1449059725,
+    "wof:lastmodified":1466503398,
     "wof:name":"Hall Bud Steel Guitar Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.543376,38.122887,-87.543376,38.122887],
-  "geometry": {"coordinates":[-87.543376,38.122887],"type":"Point"}
+  "bbox": [
+    -87.543376,
+    38.122887,
+    -87.543376,
+    38.122887
+],
+  "geometry": {"coordinates":[-87.54337599999999,38.122887],"type":"Point"}
 }

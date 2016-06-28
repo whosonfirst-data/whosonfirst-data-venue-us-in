@@ -2,13 +2,14 @@
   "id": 319844383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.579605,41.154645,-85.579605,41.154645",
     "geom:latitude":41.154645,
     "geom:longitude":-85.579605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 W Old Trail Rd",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":319844383,
-    "wof:lastmodified":1449024424,
+    "wof:lastmodified":1466503556,
     "wof:name":"Fitzpatrick Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-85.579605,41.154645,-85.579605,41.154645],
+  "bbox": [
+    -85.579605,
+    41.154645,
+    -85.579605,
+    41.154645
+],
   "geometry": {"coordinates":[-85.579605,41.154645],"type":"Point"}
 }

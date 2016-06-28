@@ -2,13 +2,14 @@
   "id": 370409403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.973538,41.686249,-85.973538,41.686249",
     "geom:latitude":41.686249,
     "geom:longitude":-85.973538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Lexington Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370409403,
-    "wof:lastmodified":1449030478,
+    "wof:lastmodified":1466503182,
     "wof:name":"Avalon Counseling & Cnslttn",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-85.973538,41.686249,-85.973538,41.686249],
+  "bbox": [
+    -85.973538,
+    41.686249,
+    -85.973538,
+    41.686249
+],
   "geometry": {"coordinates":[-85.973538,41.686249],"type":"Point"}
 }

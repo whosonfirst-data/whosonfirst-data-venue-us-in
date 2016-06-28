@@ -2,13 +2,14 @@
   "id": 403754651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.171487,41.66397,-86.171487,41.66397",
     "geom:latitude":41.66397,
     "geom:longitude":-86.171487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Park Ave",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403754651,
-    "wof:lastmodified":1449055487,
+    "wof:lastmodified":1466502954,
     "wof:name":"Brant R Beckett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.171487,41.66397,-86.171487,41.66397],
+  "bbox": [
+    -86.171487,
+    41.66397,
+    -86.171487,
+    41.66397
+],
   "geometry": {"coordinates":[-86.171487,41.66397],"type":"Point"}
 }

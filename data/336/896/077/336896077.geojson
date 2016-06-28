@@ -2,13 +2,14 @@
   "id": 336896077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064774,39.817918,-86.064774,39.817918",
     "geom:latitude":39.817918,
     "geom:longitude":-86.064774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3334 N Arlington Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336896077,
-    "wof:lastmodified":1448997326,
+    "wof:lastmodified":1466503268,
     "wof:name":"Damon's Auto Svc",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.064774,39.817918,-86.064774,39.817918],
+  "bbox": [
+    -86.064774,
+    39.817918,
+    -86.064774,
+    39.817918
+],
   "geometry": {"coordinates":[-86.064774,39.817918],"type":"Point"}
 }

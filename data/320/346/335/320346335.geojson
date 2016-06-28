@@ -2,13 +2,14 @@
   "id": 320346335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.556657,37.980897,-87.556657,37.980897",
     "geom:latitude":37.980897,
     "geom:longitude":-87.556657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Garvin St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320346335,
-    "wof:lastmodified":1449011243,
+    "wof:lastmodified":1466502984,
     "wof:name":"Dave's Auto Sales",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.556657,37.980897,-87.556657,37.980897],
+  "bbox": [
+    -87.556657,
+    37.980897,
+    -87.556657,
+    37.980897
+],
   "geometry": {"coordinates":[-87.556657,37.980897],"type":"Point"}
 }

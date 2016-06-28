@@ -2,13 +2,14 @@
   "id": 320160977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.914797,38.6749,-86.914797,38.6749",
     "geom:latitude":38.6749,
     "geom:longitude":-86.914797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Mill St",
     "sg:city":"Loogootee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320160977,
-    "wof:lastmodified":1449014381,
+    "wof:lastmodified":1466503739,
     "wof:name":"Hembree's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.914797,38.6749,-86.914797,38.6749],
-  "geometry": {"coordinates":[-86.914797,38.6749],"type":"Point"}
+  "bbox": [
+    -86.914797,
+    38.6749,
+    -86.914797,
+    38.6749
+],
+  "geometry": {"coordinates":[-86.91479699999999,38.6749],"type":"Point"}
 }

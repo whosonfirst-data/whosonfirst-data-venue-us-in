@@ -2,13 +2,14 @@
   "id": 354286835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.167279,39.523279,-86.167279,39.523279",
     "geom:latitude":39.523279,
     "geom:longitude":-86.167279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Baldwin St",
     "sg:city":"Bargersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354286835,
-    "wof:lastmodified":1449066357,
+    "wof:lastmodified":1466503270,
     "wof:name":"Wrays Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.167279,39.523279,-86.167279,39.523279],
-  "geometry": {"coordinates":[-86.167279,39.523279],"type":"Point"}
+  "bbox": [
+    -86.167279,
+    39.523279,
+    -86.167279,
+    39.523279
+],
+  "geometry": {"coordinates":[-86.16727899999999,39.523279],"type":"Point"}
 }

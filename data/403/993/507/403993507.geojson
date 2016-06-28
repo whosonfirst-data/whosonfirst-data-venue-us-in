@@ -2,13 +2,14 @@
   "id": 403993507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852557,41.247956,-85.852557,41.247956",
     "geom:latitude":41.247956,
     "geom:longitude":-85.852557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 N Detroit St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403993507,
-    "wof:lastmodified":1449055218,
+    "wof:lastmodified":1466503301,
     "wof:name":"BUYAWARDS.COM",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "award"
     ]
 },
-  "bbox": [-85.852557,41.247956,-85.852557,41.247956],
+  "bbox": [
+    -85.852557,
+    41.247956,
+    -85.852557,
+    41.247956
+],
   "geometry": {"coordinates":[-85.852557,41.247956],"type":"Point"}
 }

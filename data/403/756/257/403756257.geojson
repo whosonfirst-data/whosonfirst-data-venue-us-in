@@ -2,13 +2,14 @@
   "id": 403756257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.378944,39.48432,-87.378944,39.48432",
     "geom:latitude":39.48432,
     "geom:longitude":-87.378944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 N 25th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403756257,
-    "wof:lastmodified":1449055444,
+    "wof:lastmodified":1466502957,
     "wof:name":"Historic Motor Cars",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-87.378944,39.48432,-87.378944,39.48432],
+  "bbox": [
+    -87.378944,
+    39.48432,
+    -87.378944,
+    39.48432
+],
   "geometry": {"coordinates":[-87.378944,39.48432],"type":"Point"}
 }

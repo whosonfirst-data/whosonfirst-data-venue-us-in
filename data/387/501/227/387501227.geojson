@@ -2,13 +2,14 @@
   "id": 387501227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.165867,41.695276,-86.165867,41.695276",
     "geom:latitude":41.695276,
     "geom:longitude":-86.165867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1529 S Lake George Dr",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387501227,
-    "wof:lastmodified":1449059950,
+    "wof:lastmodified":1466503577,
     "wof:name":"BAS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-86.165867,41.695276,-86.165867,41.695276],
-  "geometry": {"coordinates":[-86.165867,41.695276],"type":"Point"}
+  "bbox": [
+    -86.165867,
+    41.695276,
+    -86.165867,
+    41.695276
+],
+  "geometry": {"coordinates":[-86.16586700000001,41.695276],"type":"Point"}
 }

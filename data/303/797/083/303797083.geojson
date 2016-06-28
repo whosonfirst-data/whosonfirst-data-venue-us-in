@@ -2,13 +2,14 @@
   "id": 303797083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652695,39.964877,-85.652695,39.964877",
     "geom:latitude":39.964877,
     "geom:longitude":-85.652695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9616 S 100 E",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303797083,
-    "wof:lastmodified":1449000325,
+    "wof:lastmodified":1466503101,
     "wof:name":"Meadow Run Farms Inc",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-85.652695,39.964877,-85.652695,39.964877],
-  "geometry": {"coordinates":[-85.652695,39.964877],"type":"Point"}
+  "bbox": [
+    -85.652695,
+    39.964877,
+    -85.652695,
+    39.964877
+],
+  "geometry": {"coordinates":[-85.65269499999999,39.964877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387465899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.5845,38.007701,-87.5845,38.007701",
     "geom:latitude":38.007701,
     "geom:longitude":-87.5845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Allens Ln",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387465899,
-    "wof:lastmodified":1449058668,
+    "wof:lastmodified":1466503536,
     "wof:name":"Action Amusement",
     "wof:parent_id":85824193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-87.5845,38.007701,-87.5845,38.007701],
-  "geometry": {"coordinates":[-87.5845,38.007701],"type":"Point"}
+  "bbox": [
+    -87.5845,
+    38.007701,
+    -87.5845,
+    38.007701
+],
+  "geometry": {"coordinates":[-87.58450000000001,38.007701],"type":"Point"}
 }

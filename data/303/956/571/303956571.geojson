@@ -2,13 +2,14 @@
   "id": 303956571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062136,41.134845,-85.062136,41.134845",
     "geom:latitude":41.134845,
     "geom:longitude":-85.062136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 Maplecrest Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303956571,
-    "wof:lastmodified":1448998533,
+    "wof:lastmodified":1466503318,
     "wof:name":"A 2 Z Rentall Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.062136,41.134845,-85.062136,41.134845],
+  "bbox": [
+    -85.062136,
+    41.134845,
+    -85.062136,
+    41.134845
+],
   "geometry": {"coordinates":[-85.062136,41.134845],"type":"Point"}
 }

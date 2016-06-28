@@ -2,13 +2,14 @@
   "id": 303881053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.750305,38.271828,-85.750305,38.271828",
     "geom:latitude":38.271828,
     "geom:longitude":-85.750305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Missouri Ave",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303881053,
-    "wof:lastmodified":1448999540,
+    "wof:lastmodified":1466503207,
     "wof:name":"Spine Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.750305,38.271828,-85.750305,38.271828],
+  "bbox": [
+    -85.750305,
+    38.271828,
+    -85.750305,
+    38.271828
+],
   "geometry": {"coordinates":[-85.750305,38.271828],"type":"Point"}
 }

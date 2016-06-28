@@ -2,13 +2,14 @@
   "id": 320617327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.266016,39.799444,-86.266016,39.799444",
     "geom:latitude":39.799444,
     "geom:longitude":-86.266016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6014 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320617327,
-    "wof:lastmodified":1449011384,
+    "wof:lastmodified":1466503321,
     "wof:name":"Tim Hogan's Abbey Carpet",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-86.266016,39.799444,-86.266016,39.799444],
-  "geometry": {"coordinates":[-86.266016,39.799444],"type":"Point"}
+  "bbox": [
+    -86.266016,
+    39.799444,
+    -86.266016,
+    39.799444
+],
+  "geometry": {"coordinates":[-86.26601599999999,39.799444],"type":"Point"}
 }

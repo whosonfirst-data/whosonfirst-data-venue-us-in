@@ -2,13 +2,14 @@
   "id": 370775039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157526,39.939787,-86.157526,39.939787",
     "geom:latitude":39.939787,
     "geom:longitude":-86.157526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10401 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370775039,
-    "wof:lastmodified":1449031599,
+    "wof:lastmodified":1466503564,
     "wof:name":"Lerchen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.157526,39.939787,-86.157526,39.939787],
+  "bbox": [
+    -86.157526,
+    39.939787,
+    -86.157526,
+    39.939787
+],
   "geometry": {"coordinates":[-86.157526,39.939787],"type":"Point"}
 }

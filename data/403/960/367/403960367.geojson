@@ -2,13 +2,14 @@
   "id": 403960367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.37015,38.735963,-85.37015,38.735963",
     "geom:latitude":38.735963,
     "geom:longitude":-85.37015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Sering St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403960367,
-    "wof:lastmodified":1449055564,
+    "wof:lastmodified":1466503244,
     "wof:name":"A To Z Lawn and Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-85.37015,38.735963,-85.37015,38.735963],
+  "bbox": [
+    -85.37015,
+    38.735963,
+    -85.37015,
+    38.735963
+],
   "geometry": {"coordinates":[-85.37015,38.735963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370609657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.094388,39.990086,-86.094388,39.990086",
     "geom:latitude":39.990086,
     "geom:longitude":-86.094388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Arrowwood Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370609657,
-    "wof:lastmodified":1449030341,
+    "wof:lastmodified":1466503404,
     "wof:name":"Custom Claim Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-86.094388,39.990086,-86.094388,39.990086],
+  "bbox": [
+    -86.094388,
+    39.990086,
+    -86.094388,
+    39.990086
+],
   "geometry": {"coordinates":[-86.094388,39.990086],"type":"Point"}
 }

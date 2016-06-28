@@ -2,13 +2,14 @@
   "id": 404128435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156385,39.764204,-86.156385,39.764204",
     "geom:latitude":39.764204,
     "geom:longitude":-86.156385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E Georgia St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404128435,
-    "wof:lastmodified":1449039498,
+    "wof:lastmodified":1466503059,
     "wof:name":"D & L Industries",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.156385,39.764204,-86.156385,39.764204],
+  "bbox": [
+    -86.156385,
+    39.764204,
+    -86.156385,
+    39.764204
+],
   "geometry": {"coordinates":[-86.156385,39.764204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370867793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.113177,41.065221,-85.113177,41.065221",
     "geom:latitude":41.065221,
     "geom:longitude":-85.113177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 E Creighton Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370867793,
-    "wof:lastmodified":1449030553,
+    "wof:lastmodified":1466503665,
     "wof:name":"U S Foam Corp Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpet"
     ]
 },
-  "bbox": [-85.113177,41.065221,-85.113177,41.065221],
-  "geometry": {"coordinates":[-85.113177,41.065221],"type":"Point"}
+  "bbox": [
+    -85.113177,
+    41.065221,
+    -85.113177,
+    41.065221
+],
+  "geometry": {"coordinates":[-85.11317699999999,41.065221],"type":"Point"}
 }

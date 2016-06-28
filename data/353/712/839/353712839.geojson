@@ -2,13 +2,14 @@
   "id": 353712839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.477563,39.370321,-86.477563,39.370321",
     "geom:latitude":39.370321,
     "geom:longitude":-86.477563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4529 E Hacker Creek Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353712839,
-    "wof:lastmodified":1449019344,
+    "wof:lastmodified":1466503202,
     "wof:name":"Hilevel Technology Inc",
     "wof:parent_id":85810363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.477563,39.370321,-86.477563,39.370321],
+  "bbox": [
+    -86.477563,
+    39.370321,
+    -86.477563,
+    39.370321
+],
   "geometry": {"coordinates":[-86.477563,39.370321],"type":"Point"}
 }

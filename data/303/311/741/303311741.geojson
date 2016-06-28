@@ -2,13 +2,14 @@
   "id": 303311741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.377433,37.99823,-87.377433,37.99823",
     "geom:latitude":37.99823,
     "geom:longitude":-87.377433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2666 State Rd 261",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303311741,
-    "wof:lastmodified":1448998682,
+    "wof:lastmodified":1466503584,
     "wof:name":"Diamonds Oil & Lube Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-87.377433,37.99823,-87.377433,37.99823],
+  "bbox": [
+    -87.377433,
+    37.99823,
+    -87.377433,
+    37.99823
+],
   "geometry": {"coordinates":[-87.377433,37.99823],"type":"Point"}
 }

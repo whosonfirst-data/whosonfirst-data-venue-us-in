@@ -2,13 +2,14 @@
   "id": 404082011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.231551,39.929904,-86.231551,39.929904",
     "geom:latitude":39.929904,
     "geom:longitude":-86.231551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9840 N Michigan Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404082011,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1466502996,
     "wof:name":"Jasneek Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-86.231551,39.929904,-86.231551,39.929904],
+  "bbox": [
+    -86.231551,
+    39.929904,
+    -86.231551,
+    39.929904
+],
   "geometry": {"coordinates":[-86.231551,39.929904],"type":"Point"}
 }

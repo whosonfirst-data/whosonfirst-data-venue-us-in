@@ -2,13 +2,14 @@
   "id": 371141645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.187399,41.694744,-86.187399,41.694744",
     "geom:latitude":41.694744,
     "geom:longitude":-86.187399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 W Edison Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371141645,
-    "wof:lastmodified":1449049374,
+    "wof:lastmodified":1466503052,
     "wof:name":"Frick's Driver Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-86.187399,41.694744,-86.187399,41.694744],
+  "bbox": [
+    -86.187399,
+    41.694744,
+    -86.187399,
+    41.694744
+],
   "geometry": {"coordinates":[-86.187399,41.694744],"type":"Point"}
 }

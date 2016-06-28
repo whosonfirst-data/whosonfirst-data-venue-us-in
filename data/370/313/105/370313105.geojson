@@ -2,13 +2,14 @@
   "id": 370313105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.36858,40.460369,-85.36858,40.460369",
     "geom:latitude":40.460369,
     "geom:longitude":-85.36858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 N High St",
     "sg:city":"Hartford City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370313105,
-    "wof:lastmodified":1449029163,
+    "wof:lastmodified":1466503087,
     "wof:name":"John's Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-85.36858,40.460369,-85.36858,40.460369],
-  "geometry": {"coordinates":[-85.36858,40.460369],"type":"Point"}
+  "bbox": [
+    -85.36858,
+    40.460369,
+    -85.36858,
+    40.460369
+],
+  "geometry": {"coordinates":[-85.36857999999999,40.460369],"type":"Point"}
 }

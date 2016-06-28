@@ -2,13 +2,14 @@
   "id": 404060489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585597,39.234981,-86.585597,39.234981",
     "geom:latitude":39.234981,
     "geom:longitude":-86.585597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 W Tanglewood Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404060489,
-    "wof:lastmodified":1449040222,
+    "wof:lastmodified":1466502962,
     "wof:name":"Magic By Greg",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magician"
     ]
 },
-  "bbox": [-86.585597,39.234981,-86.585597,39.234981],
-  "geometry": {"coordinates":[-86.585597,39.234981],"type":"Point"}
+  "bbox": [
+    -86.585597,
+    39.234981,
+    -86.585597,
+    39.234981
+],
+  "geometry": {"coordinates":[-86.58559700000001,39.234981],"type":"Point"}
 }

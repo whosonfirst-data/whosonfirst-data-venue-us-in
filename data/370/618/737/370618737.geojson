@@ -2,13 +2,14 @@
   "id": 370618737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930718,38.392886,-86.930718,38.392886",
     "geom:latitude":38.392886,
     "geom:longitude":-86.930718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Main St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370618737,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1466503417,
     "wof:name":"Gus Doerner Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.930718,38.392886,-86.930718,38.392886],
+  "bbox": [
+    -86.930718,
+    38.392886,
+    -86.930718,
+    38.392886
+],
   "geometry": {"coordinates":[-86.930718,38.392886],"type":"Point"}
 }

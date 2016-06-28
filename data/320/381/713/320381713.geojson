@@ -2,13 +2,14 @@
   "id": 320381713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.04988,39.890771,-86.04988,39.890771",
     "geom:latitude":39.890771,
     "geom:longitude":-86.04988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 E 75th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320381713,
-    "wof:lastmodified":1449011554,
+    "wof:lastmodified":1466503028,
     "wof:name":"Sun Realty Co",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.04988,39.890771,-86.04988,39.890771],
+  "bbox": [
+    -86.04988,
+    39.890771,
+    -86.04988,
+    39.890771
+],
   "geometry": {"coordinates":[-86.04988,39.890771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303801145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.284249,39.598492,-85.284249,39.598492",
     "geom:latitude":39.598492,
     "geom:longitude":-85.284249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7649 W Co Rd 300 S",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303801145,
-    "wof:lastmodified":1449000132,
+    "wof:lastmodified":1466503105,
     "wof:name":"Orange Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.284249,39.598492,-85.284249,39.598492],
+  "bbox": [
+    -85.284249,
+    39.598492,
+    -85.284249,
+    39.598492
+],
   "geometry": {"coordinates":[-85.284249,39.598492],"type":"Point"}
 }

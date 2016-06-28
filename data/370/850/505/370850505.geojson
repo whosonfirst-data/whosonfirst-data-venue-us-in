@@ -2,13 +2,14 @@
   "id": 370850505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309975,39.763991,-86.309975,39.763991",
     "geom:latitude":39.763991,
     "geom:longitude":-86.309975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8355 Rockville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370850505,
-    "wof:lastmodified":1449031036,
+    "wof:lastmodified":1466503640,
     "wof:name":"Access Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-86.309975,39.763991,-86.309975,39.763991],
-  "geometry": {"coordinates":[-86.309975,39.763991],"type":"Point"}
+  "bbox": [
+    -86.309975,
+    39.763991,
+    -86.309975,
+    39.763991
+],
+  "geometry": {"coordinates":[-86.30997499999999,39.763991],"type":"Point"}
 }

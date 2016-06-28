@@ -2,13 +2,14 @@
   "id": 371046599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.998068,40.038486,-85.998068,40.038486",
     "geom:latitude":40.038486,
     "geom:longitude":-85.998068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17021 Clover Rd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371046599,
-    "wof:lastmodified":1449049633,
+    "wof:lastmodified":1466502927,
     "wof:name":"Stony Creek Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-85.998068,40.038486,-85.998068,40.038486],
+  "bbox": [
+    -85.998068,
+    40.038486,
+    -85.998068,
+    40.038486
+],
   "geometry": {"coordinates":[-85.998068,40.038486],"type":"Point"}
 }

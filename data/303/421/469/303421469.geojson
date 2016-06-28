@@ -2,13 +2,14 @@
   "id": 303421469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.132364,41.673073,-86.132364,41.673073",
     "geom:latitude":41.673073,
     "geom:longitude":-86.132364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56641 Twin Branch Dr",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303421469,
-    "wof:lastmodified":1448999671,
+    "wof:lastmodified":1466503672,
     "wof:name":"Power Components-Midwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.132364,41.673073,-86.132364,41.673073],
+  "bbox": [
+    -86.132364,
+    41.673073,
+    -86.132364,
+    41.673073
+],
   "geometry": {"coordinates":[-86.132364,41.673073],"type":"Point"}
 }

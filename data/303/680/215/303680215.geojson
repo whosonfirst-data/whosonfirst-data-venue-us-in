@@ -2,13 +2,14 @@
   "id": 303680215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046176,39.885852,-86.046176,39.885852",
     "geom:latitude":39.885852,
     "geom:longitude":-86.046176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7202 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303680215,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466502965,
     "wof:name":"Signature Medical Resources",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.046176,39.885852,-86.046176,39.885852],
+  "bbox": [
+    -86.046176,
+    39.885852,
+    -86.046176,
+    39.885852
+],
   "geometry": {"coordinates":[-86.046176,39.885852],"type":"Point"}
 }

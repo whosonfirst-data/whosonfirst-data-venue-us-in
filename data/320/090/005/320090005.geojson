@@ -2,13 +2,14 @@
   "id": 320090005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.219276,39.882462,-86.219276,39.882462",
     "geom:latitude":39.882462,
     "geom:longitude":-86.219276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7411 Hollingsworth Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320090005,
-    "wof:lastmodified":1449014208,
+    "wof:lastmodified":1466503819,
     "wof:name":"Greenturf",
     "wof:parent_id":85803951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.219276,39.882462,-86.219276,39.882462],
-  "geometry": {"coordinates":[-86.219276,39.882462],"type":"Point"}
+  "bbox": [
+    -86.219276,
+    39.882462,
+    -86.219276,
+    39.882462
+],
+  "geometry": {"coordinates":[-86.21927599999999,39.882462],"type":"Point"}
 }

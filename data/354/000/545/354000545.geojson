@@ -2,13 +2,14 @@
   "id": 354000545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.422969,40.189496,-85.422969,40.189496",
     "geom:latitude":40.189496,
     "geom:longitude":-85.422969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Umbarger Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354000545,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466502881,
     "wof:name":"AST Group",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "allied"
     ]
 },
-  "bbox": [-85.422969,40.189496,-85.422969,40.189496],
-  "geometry": {"coordinates":[-85.422969,40.189496],"type":"Point"}
+  "bbox": [
+    -85.422969,
+    40.189496,
+    -85.422969,
+    40.189496
+],
+  "geometry": {"coordinates":[-85.42296899999999,40.189496],"type":"Point"}
 }

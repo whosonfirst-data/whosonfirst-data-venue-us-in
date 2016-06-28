@@ -2,13 +2,14 @@
   "id": 403877707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.553167,37.976261,-87.553167,37.976261",
     "geom:latitude":37.976261,
     "geom:longitude":-87.553167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 John St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403877707,
-    "wof:lastmodified":1449055546,
+    "wof:lastmodified":1466503134,
     "wof:name":"Diamond Billiard Club",
     "wof:parent_id":85877305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billiard"
     ]
 },
-  "bbox": [-87.553167,37.976261,-87.553167,37.976261],
+  "bbox": [
+    -87.553167,
+    37.976261,
+    -87.553167,
+    37.976261
+],
   "geometry": {"coordinates":[-87.553167,37.976261],"type":"Point"}
 }

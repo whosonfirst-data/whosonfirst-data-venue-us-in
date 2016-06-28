@@ -2,13 +2,14 @@
   "id": 303605255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.244013,39.942502,-86.244013,39.942502",
     "geom:latitude":39.942502,
     "geom:longitude":-86.244013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10720 Andrade Dr",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303605255,
-    "wof:lastmodified":1448999309,
+    "wof:lastmodified":1466503786,
     "wof:name":"Brickman Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.244013,39.942502,-86.244013,39.942502],
+  "bbox": [
+    -86.244013,
+    39.942502,
+    -86.244013,
+    39.942502
+],
   "geometry": {"coordinates":[-86.244013,39.942502],"type":"Point"}
 }

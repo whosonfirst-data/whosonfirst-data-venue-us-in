@@ -2,13 +2,14 @@
   "id": 370724125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.466174,40.770363,-87.466174,40.770363",
     "geom:latitude":40.770363,
     "geom:longitude":-87.466174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Lutz St",
     "sg:city":"Kentland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370724125,
-    "wof:lastmodified":1449032397,
+    "wof:lastmodified":1466503512,
     "wof:name":"Wirtz-Yates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.466174,40.770363,-87.466174,40.770363],
+  "bbox": [
+    -87.466174,
+    40.770363,
+    -87.466174,
+    40.770363
+],
   "geometry": {"coordinates":[-87.466174,40.770363],"type":"Point"}
 }

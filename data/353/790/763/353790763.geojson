@@ -2,13 +2,14 @@
   "id": 353790763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974638,39.965434,-85.974638,39.965434",
     "geom:latitude":39.965434,
     "geom:longitude":-85.974638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12139 Rising Sun Way",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353790763,
-    "wof:lastmodified":1449020229,
+    "wof:lastmodified":1466503300,
     "wof:name":"Beazer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operative"
     ]
 },
-  "bbox": [-85.974638,39.965434,-85.974638,39.965434],
+  "bbox": [
+    -85.974638,
+    39.965434,
+    -85.974638,
+    39.965434
+],
   "geometry": {"coordinates":[-85.974638,39.965434],"type":"Point"}
 }

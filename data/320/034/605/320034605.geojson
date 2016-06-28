@@ -2,13 +2,14 @@
   "id": 320034605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570647,37.976506,-87.570647,37.976506",
     "geom:latitude":37.976506,
     "geom:longitude":-87.570647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 NW Martin Luther King Jr Blvd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320034605,
-    "wof:lastmodified":1449011661,
+    "wof:lastmodified":1466503668,
     "wof:name":"LHI Lighting Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fixture"
     ]
 },
-  "bbox": [-87.570647,37.976506,-87.570647,37.976506],
-  "geometry": {"coordinates":[-87.570647,37.976506],"type":"Point"}
+  "bbox": [
+    -87.570647,
+    37.976506,
+    -87.570647,
+    37.976506
+],
+  "geometry": {"coordinates":[-87.57064699999999,37.976506],"type":"Point"}
 }

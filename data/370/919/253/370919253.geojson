@@ -2,13 +2,14 @@
   "id": 370919253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.357616,39.609333,-86.357616,39.609333",
     "geom:latitude":39.609333,
     "geom:longitude":-86.357616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4092 E Hadley Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370919253,
-    "wof:lastmodified":1449031656,
+    "wof:lastmodified":1466503728,
     "wof:name":"Conduitt R Family Ltd Partnr",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-86.357616,39.609333,-86.357616,39.609333],
-  "geometry": {"coordinates":[-86.357616,39.609333],"type":"Point"}
+  "bbox": [
+    -86.357616,
+    39.609333,
+    -86.357616,
+    39.609333
+],
+  "geometry": {"coordinates":[-86.35761599999999,39.609333],"type":"Point"}
 }

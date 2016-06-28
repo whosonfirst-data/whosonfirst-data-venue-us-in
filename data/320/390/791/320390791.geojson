@@ -2,13 +2,14 @@
   "id": 320390791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.057126,41.475528,-87.057126,41.475528",
     "geom:latitude":41.475528,
     "geom:longitude":-87.057126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Bush St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320390791,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466503042,
     "wof:name":"Canadian National Railroad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.057126,41.475528,-87.057126,41.475528],
+  "bbox": [
+    -87.057126,
+    41.475528,
+    -87.057126,
+    41.475528
+],
   "geometry": {"coordinates":[-87.057126,41.475528],"type":"Point"}
 }

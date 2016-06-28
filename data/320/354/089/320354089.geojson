@@ -2,13 +2,14 @@
   "id": 320354089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.191462,39.941129,-86.191462,39.941129",
     "geom:latitude":39.941129,
     "geom:longitude":-86.191462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10592 Coppergate",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320354089,
-    "wof:lastmodified":1449014541,
+    "wof:lastmodified":1466502994,
     "wof:name":"Ivy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [-86.191462,39.941129,-86.191462,39.941129],
+  "bbox": [
+    -86.191462,
+    39.941129,
+    -86.191462,
+    39.941129
+],
   "geometry": {"coordinates":[-86.191462,39.941129],"type":"Point"}
 }

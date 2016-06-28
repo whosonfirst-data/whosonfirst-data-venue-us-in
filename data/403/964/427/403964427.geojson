@@ -2,13 +2,14 @@
   "id": 403964427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.182185,39.912185,-86.182185,39.912185",
     "geom:latitude":39.912185,
     "geom:longitude":-86.182185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403964427,
-    "wof:lastmodified":1449055629,
+    "wof:lastmodified":1466503251,
     "wof:name":"Mindful Movement Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pilate"
     ]
 },
-  "bbox": [-86.182185,39.912185,-86.182185,39.912185],
+  "bbox": [
+    -86.182185,
+    39.912185,
+    -86.182185,
+    39.912185
+],
   "geometry": {"coordinates":[-86.182185,39.912185],"type":"Point"}
 }

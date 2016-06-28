@@ -2,13 +2,14 @@
   "id": 336849085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.867778,41.603609,-85.867778,41.603609",
     "geom:latitude":41.603609,
     "geom:longitude":-85.867778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W Wilden Ave",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336849085,
-    "wof:lastmodified":1448997146,
+    "wof:lastmodified":1466503212,
     "wof:name":"Carlton Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.867778,41.603609,-85.867778,41.603609],
+  "bbox": [
+    -85.867778,
+    41.603609,
+    -85.867778,
+    41.603609
+],
   "geometry": {"coordinates":[-85.867778,41.603609],"type":"Point"}
 }

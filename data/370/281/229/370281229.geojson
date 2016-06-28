@@ -2,13 +2,14 @@
   "id": 370281229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835552,40.262597,-85.835552,40.262597",
     "geom:latitude":40.262597,
     "geom:longitude":-85.835552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 S P St",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370281229,
-    "wof:lastmodified":1449031951,
+    "wof:lastmodified":1466503051,
     "wof:name":"Virgil Green & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.835552,40.262597,-85.835552,40.262597],
-  "geometry": {"coordinates":[-85.835552,40.262597],"type":"Point"}
+  "bbox": [
+    -85.835552,
+    40.262597,
+    -85.835552,
+    40.262597
+],
+  "geometry": {"coordinates":[-85.83555200000001,40.262597],"type":"Point"}
 }

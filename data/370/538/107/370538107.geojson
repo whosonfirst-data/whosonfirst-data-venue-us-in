@@ -2,13 +2,14 @@
   "id": 370538107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.103514,41.128498,-85.103514,41.128498",
     "geom:latitude":41.128498,
     "geom:longitude":-85.103514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 Northgate Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370538107,
-    "wof:lastmodified":1449029516,
+    "wof:lastmodified":1466503321,
     "wof:name":"Canterbury Nursing & Rehab Ctr",
     "wof:parent_id":85851467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-85.103514,41.128498,-85.103514,41.128498],
+  "bbox": [
+    -85.103514,
+    41.128498,
+    -85.103514,
+    41.128498
+],
   "geometry": {"coordinates":[-85.103514,41.128498],"type":"Point"}
 }

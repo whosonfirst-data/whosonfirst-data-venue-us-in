@@ -2,13 +2,14 @@
   "id": 303985343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399505,39.866763,-86.399505,39.866763",
     "geom:latitude":39.866763,
     "geom:longitude":-86.399505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7141 Creekwood Ests",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303985343,
-    "wof:lastmodified":1448999334,
+    "wof:lastmodified":1466503366,
     "wof:name":"Thompson Group",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.399505,39.866763,-86.399505,39.866763],
+  "bbox": [
+    -86.399505,
+    39.866763,
+    -86.399505,
+    39.866763
+],
   "geometry": {"coordinates":[-86.399505,39.866763],"type":"Point"}
 }

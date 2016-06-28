@@ -2,13 +2,14 @@
   "id": 404205397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.562521,40.286356,-86.562521,40.286356",
     "geom:latitude":40.286356,
     "geom:longitude":-86.562521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3281 W Co Rd 0 Ns",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":404205397,
-    "wof:lastmodified":1449039829,
+    "wof:lastmodified":1466503161,
     "wof:name":"Tri Mas Fasteners Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.562521,40.286356,-86.562521,40.286356],
+  "bbox": [
+    -86.562521,
+    40.286356,
+    -86.562521,
+    40.286356
+],
   "geometry": {"coordinates":[-86.562521,40.286356],"type":"Point"}
 }

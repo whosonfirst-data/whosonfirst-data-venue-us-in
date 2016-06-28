@@ -2,13 +2,14 @@
   "id": 403891185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.165668,39.521692,-86.165668,39.521692",
     "geom:latitude":39.521692,
     "geom:longitude":-86.165668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 E Old Plank Rd",
     "sg:city":"Bargersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403891185,
-    "wof:lastmodified":1449055459,
+    "wof:lastmodified":1466503153,
     "wof:name":"Rumlend Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.165668,39.521692,-86.165668,39.521692],
+  "bbox": [
+    -86.165668,
+    39.521692,
+    -86.165668,
+    39.521692
+],
   "geometry": {"coordinates":[-86.165668,39.521692],"type":"Point"}
 }

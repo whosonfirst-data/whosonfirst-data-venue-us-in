@@ -2,13 +2,14 @@
   "id": 353928003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.898958,38.356655,-85.898958,38.356655",
     "geom:latitude":38.356655,
     "geom:longitude":-85.898958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5275 Smith Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353928003,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1466503462,
     "wof:name":"Beckman Excavating Svc",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.898958,38.356655,-85.898958,38.356655],
-  "geometry": {"coordinates":[-85.898958,38.356655],"type":"Point"}
+  "bbox": [
+    -85.898958,
+    38.356655,
+    -85.898958,
+    38.356655
+],
+  "geometry": {"coordinates":[-85.89895799999999,38.356655],"type":"Point"}
 }

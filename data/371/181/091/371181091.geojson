@@ -2,13 +2,14 @@
   "id": 371181091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.277382,39.779278,-86.277382,39.779278",
     "geom:latitude":39.779278,
     "geom:longitude":-86.277382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Thorndale St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":371181091,
-    "wof:lastmodified":1449049668,
+    "wof:lastmodified":1466503105,
     "wof:name":"Mountainview Realty Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-86.277382,39.779278,-86.277382,39.779278],
+  "bbox": [
+    -86.277382,
+    39.779278,
+    -86.277382,
+    39.779278
+],
   "geometry": {"coordinates":[-86.277382,39.779278],"type":"Point"}
 }

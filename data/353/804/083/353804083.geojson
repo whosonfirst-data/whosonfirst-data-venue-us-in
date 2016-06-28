@@ -2,13 +2,14 @@
   "id": 353804083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122304,39.866857,-86.122304,39.866857",
     "geom:latitude":39.866857,
     "geom:longitude":-86.122304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353804083,
-    "wof:lastmodified":1449020018,
+    "wof:lastmodified":1466503316,
     "wof:name":"Versatile Mortgage Corp",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.122304,39.866857,-86.122304,39.866857],
+  "bbox": [
+    -86.122304,
+    39.866857,
+    -86.122304,
+    39.866857
+],
   "geometry": {"coordinates":[-86.122304,39.866857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387572987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.575931,39.164487,-86.575931,39.164487",
     "geom:latitude":39.164487,
     "geom:longitude":-86.575931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387572987,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1466503677,
     "wof:name":"Treasures From The Heart Inc",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.575931,39.164487,-86.575931,39.164487],
+  "bbox": [
+    -86.575931,
+    39.164487,
+    -86.575931,
+    39.164487
+],
   "geometry": {"coordinates":[-86.575931,39.164487],"type":"Point"}
 }

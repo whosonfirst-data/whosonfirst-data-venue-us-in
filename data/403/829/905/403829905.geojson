@@ -2,13 +2,14 @@
   "id": 403829905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126989,39.980441,-86.126989,39.980441",
     "geom:latitude":39.980441,
     "geom:longitude":-86.126989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 N Range Line Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403829905,
-    "wof:lastmodified":1449055868,
+    "wof:lastmodified":1466503064,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.126989,39.980441,-86.126989,39.980441],
-  "geometry": {"coordinates":[-86.126989,39.980441],"type":"Point"}
+  "bbox": [
+    -86.126989,
+    39.980441,
+    -86.126989,
+    39.980441
+],
+  "geometry": {"coordinates":[-86.12698899999999,39.980441],"type":"Point"}
 }

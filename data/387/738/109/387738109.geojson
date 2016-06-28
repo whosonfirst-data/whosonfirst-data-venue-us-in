@@ -2,13 +2,14 @@
   "id": 387738109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480778,40.180478,-85.480778,40.180478",
     "geom:latitude":40.180478,
     "geom:longitude":-85.480778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 W Kilgore Ave",
     "sg:city":"Yorktown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387738109,
-    "wof:lastmodified":1449058897,
+    "wof:lastmodified":1466503892,
     "wof:name":"Curves For Women",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-85.480778,40.180478,-85.480778,40.180478],
+  "bbox": [
+    -85.480778,
+    40.180478,
+    -85.480778,
+    40.180478
+],
   "geometry": {"coordinates":[-85.480778,40.180478],"type":"Point"}
 }

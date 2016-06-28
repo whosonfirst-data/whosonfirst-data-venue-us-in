@@ -2,13 +2,14 @@
   "id": 387071239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104103,40.660185,-86.104103,40.660185",
     "geom:latitude":40.660185,
     "geom:longitude":-86.104103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Broadway",
     "sg:city":"Bunker Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387071239,
-    "wof:lastmodified":1449058500,
+    "wof:lastmodified":1466502980,
     "wof:name":"Mc Ginnis Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.104103,40.660185,-86.104103,40.660185],
-  "geometry": {"coordinates":[-86.104103,40.660185],"type":"Point"}
+  "bbox": [
+    -86.104103,
+    40.660185,
+    -86.104103,
+    40.660185
+],
+  "geometry": {"coordinates":[-86.10410299999999,40.660185],"type":"Point"}
 }

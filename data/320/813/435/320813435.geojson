@@ -2,13 +2,14 @@
   "id": 320813435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.308921,41.473299,-87.308921,41.473299",
     "geom:latitude":41.473299,
     "geom:longitude":-87.308921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 E 80th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320813435,
-    "wof:lastmodified":1449012231,
+    "wof:lastmodified":1466503521,
     "wof:name":"Walter E Smithe Furniture Inc",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.308921,41.473299,-87.308921,41.473299],
+  "bbox": [
+    -87.308921,
+    41.473299,
+    -87.308921,
+    41.473299
+],
   "geometry": {"coordinates":[-87.308921,41.473299],"type":"Point"}
 }

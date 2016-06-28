@@ -2,13 +2,14 @@
   "id": 353397597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.244582,39.963638,-86.244582,39.963638",
     "geom:latitude":39.963638,
     "geom:longitude":-86.244582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Zion Ln",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353397597,
-    "wof:lastmodified":1449019282,
+    "wof:lastmodified":1466502888,
     "wof:name":"Dls Paper Delivery Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-86.244582,39.963638,-86.244582,39.963638],
-  "geometry": {"coordinates":[-86.244582,39.963638],"type":"Point"}
+  "bbox": [
+    -86.244582,
+    39.963638,
+    -86.244582,
+    39.963638
+],
+  "geometry": {"coordinates":[-86.24458199999999,39.963638],"type":"Point"}
 }

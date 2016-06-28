@@ -2,13 +2,14 @@
   "id": 387236697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.925788,40.454338,-86.925788,40.454338",
     "geom:latitude":40.454338,
     "geom:longitude":-86.925788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Potter Dr",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387236697,
-    "wof:lastmodified":1449056514,
+    "wof:lastmodified":1466503218,
     "wof:name":"In Space LLC",
     "wof:parent_id":85813095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-86.925788,40.454338,-86.925788,40.454338],
+  "bbox": [
+    -86.925788,
+    40.454338,
+    -86.925788,
+    40.454338
+],
   "geometry": {"coordinates":[-86.925788,40.454338],"type":"Point"}
 }

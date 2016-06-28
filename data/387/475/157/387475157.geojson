@@ -2,13 +2,14 @@
   "id": 387475157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.345722,41.521721,-87.345722,41.521721",
     "geom:latitude":41.521721,
     "geom:longitude":-87.345722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5357 Harrison St",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387475157,
-    "wof:lastmodified":1449057683,
+    "wof:lastmodified":1466503543,
     "wof:name":"Trinity Deliverance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.345722,41.521721,-87.345722,41.521721],
-  "geometry": {"coordinates":[-87.345722,41.521721],"type":"Point"}
+  "bbox": [
+    -87.345722,
+    41.521721,
+    -87.345722,
+    41.521721
+],
+  "geometry": {"coordinates":[-87.34572199999999,41.521721],"type":"Point"}
 }

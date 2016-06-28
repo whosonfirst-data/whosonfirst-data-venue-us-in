@@ -2,13 +2,14 @@
   "id": 336744235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.106349,39.932282,-86.106349,39.932282",
     "geom:latitude":39.932282,
     "geom:longitude":-86.106349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3588 Tahoe Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336744235,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466503074,
     "wof:name":"Clowns Etcetera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-86.106349,39.932282,-86.106349,39.932282],
-  "geometry": {"coordinates":[-86.106349,39.932282],"type":"Point"}
+  "bbox": [
+    -86.106349,
+    39.932282,
+    -86.106349,
+    39.932282
+],
+  "geometry": {"coordinates":[-86.10634899999999,39.932282],"type":"Point"}
 }

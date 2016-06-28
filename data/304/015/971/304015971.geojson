@@ -2,13 +2,14 @@
   "id": 304015971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040934,41.577683,-86.040934,41.577683",
     "geom:latitude":41.577683,
     "geom:longitude":-86.040934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63125 Co Rd 1",
     "sg:city":"Wakarusa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304015971,
-    "wof:lastmodified":1449043702,
+    "wof:lastmodified":1466503413,
     "wof:name":"Lowell Hunsberger",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-86.040934,41.577683,-86.040934,41.577683],
-  "geometry": {"coordinates":[-86.040934,41.577683],"type":"Point"}
+  "bbox": [
+    -86.040934,
+    41.577683,
+    -86.040934,
+    41.577683
+],
+  "geometry": {"coordinates":[-86.04093399999999,41.577683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387758509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811875,39.764953,-86.811875,39.764953",
     "geom:latitude":39.764953,
     "geom:longitude":-86.811875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Washington St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387758509,
-    "wof:lastmodified":1449057246,
+    "wof:lastmodified":1466503922,
     "wof:name":"North Putnam Community School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811875,39.764953,-86.811875,39.764953],
+  "bbox": [
+    -86.811875,
+    39.764953,
+    -86.811875,
+    39.764953
+],
   "geometry": {"coordinates":[-86.811875,39.764953],"type":"Point"}
 }

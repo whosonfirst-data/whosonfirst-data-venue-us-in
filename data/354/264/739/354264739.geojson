@@ -2,13 +2,14 @@
   "id": 354264739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.35099,40.192891,-85.35099,40.192891",
     "geom:latitude":40.192891,
     "geom:longitude":-85.35099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 E Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354264739,
-    "wof:lastmodified":1449067077,
+    "wof:lastmodified":1466503236,
     "wof:name":"Bob's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.35099,40.192891,-85.35099,40.192891],
+  "bbox": [
+    -85.35099,
+    40.192891,
+    -85.35099,
+    40.192891
+],
   "geometry": {"coordinates":[-85.35099,40.192891],"type":"Point"}
 }

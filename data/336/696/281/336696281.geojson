@@ -2,13 +2,14 @@
   "id": 336696281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.906454,41.706052,-86.906454,41.706052",
     "geom:latitude":41.706052,
     "geom:longitude":-86.906454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Kentucky St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336696281,
-    "wof:lastmodified":1448997012,
+    "wof:lastmodified":1466503010,
     "wof:name":"Palmer Upholstery Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-86.906454,41.706052,-86.906454,41.706052],
+  "bbox": [
+    -86.906454,
+    41.706052,
+    -86.906454,
+    41.706052
+],
   "geometry": {"coordinates":[-86.906454,41.706052],"type":"Point"}
 }

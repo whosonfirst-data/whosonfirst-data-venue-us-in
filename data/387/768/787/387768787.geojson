@@ -2,13 +2,14 @@
   "id": 387768787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.079242,39.873686,-86.079242,39.873686",
     "geom:latitude":39.873686,
     "geom:longitude":-86.079242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6437 Rucker Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387768787,
-    "wof:lastmodified":1449057571,
+    "wof:lastmodified":1466503932,
     "wof:name":"Benjamin E Blakley DDS",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.079242,39.873686,-86.079242,39.873686],
-  "geometry": {"coordinates":[-86.079242,39.873686],"type":"Point"}
+  "bbox": [
+    -86.079242,
+    39.873686,
+    -86.079242,
+    39.873686
+],
+  "geometry": {"coordinates":[-86.07924199999999,39.873686],"type":"Point"}
 }

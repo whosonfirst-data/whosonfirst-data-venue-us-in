@@ -2,13 +2,14 @@
   "id": 303325033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.418068,41.643875,-85.418068,41.643875",
     "geom:latitude":41.643875,
     "geom:longitude":-85.418068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Spring St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303325033,
-    "wof:lastmodified":1448999077,
+    "wof:lastmodified":1466503814,
     "wof:name":"Lagrange County Sewer Dist",
     "wof:parent_id":85838421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.418068,41.643875,-85.418068,41.643875],
-  "geometry": {"coordinates":[-85.418068,41.643875],"type":"Point"}
+  "bbox": [
+    -85.418068,
+    41.643875,
+    -85.418068,
+    41.643875
+],
+  "geometry": {"coordinates":[-85.41806800000001,41.643875],"type":"Point"}
 }

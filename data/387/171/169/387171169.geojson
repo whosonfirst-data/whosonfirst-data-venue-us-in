@@ -2,13 +2,14 @@
   "id": 387171169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.812286,39.960209,-85.812286,39.960209",
     "geom:latitude":39.960209,
     "geom:longitude":-85.812286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 W Reformatory Rd",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387171169,
-    "wof:lastmodified":1449059933,
+    "wof:lastmodified":1466503123,
     "wof:name":"Idlewold Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-85.812286,39.960209,-85.812286,39.960209],
+  "bbox": [
+    -85.812286,
+    39.960209,
+    -85.812286,
+    39.960209
+],
   "geometry": {"coordinates":[-85.812286,39.960209],"type":"Point"}
 }

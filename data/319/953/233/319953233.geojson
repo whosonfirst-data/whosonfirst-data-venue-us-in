@@ -2,13 +2,14 @@
   "id": 319953233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773686,40.766965,-86.773686,40.766965",
     "geom:latitude":40.766965,
     "geom:longitude":-86.773686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Rickey Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319953233,
-    "wof:lastmodified":1449024614,
+    "wof:lastmodified":1466503618,
     "wof:name":"Lakes Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773686,40.766965,-86.773686,40.766965],
+  "bbox": [
+    -86.773686,
+    40.766965,
+    -86.773686,
+    40.766965
+],
   "geometry": {"coordinates":[-86.773686,40.766965],"type":"Point"}
 }

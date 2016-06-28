@@ -2,13 +2,14 @@
   "id": 403963309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.262324,40.117361,-87.262324,40.117361",
     "geom:latitude":40.117361,
     "geom:longitude":-87.262324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Main St",
     "sg:city":"Veedersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403963309,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466503250,
     "wof:name":"L D Pool and Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-87.262324,40.117361,-87.262324,40.117361],
-  "geometry": {"coordinates":[-87.262324,40.117361],"type":"Point"}
+  "bbox": [
+    -87.262324,
+    40.117361,
+    -87.262324,
+    40.117361
+],
+  "geometry": {"coordinates":[-87.26232400000001,40.117361],"type":"Point"}
 }

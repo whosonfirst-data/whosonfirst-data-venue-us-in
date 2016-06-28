@@ -2,13 +2,14 @@
   "id": 336622487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046203,39.881138,-86.046203,39.881138",
     "geom:latitude":39.881138,
     "geom:longitude":-86.046203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336622487,
-    "wof:lastmodified":1448997835,
+    "wof:lastmodified":1466502914,
     "wof:name":"Great Lakes Cable Expo",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "show"
     ]
 },
-  "bbox": [-86.046203,39.881138,-86.046203,39.881138],
-  "geometry": {"coordinates":[-86.046203,39.881138],"type":"Point"}
+  "bbox": [
+    -86.046203,
+    39.881138,
+    -86.046203,
+    39.881138
+],
+  "geometry": {"coordinates":[-86.04620300000001,39.881138],"type":"Point"}
 }

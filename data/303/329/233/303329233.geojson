@@ -2,13 +2,14 @@
   "id": 303329233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.840127,38.305192,-85.840127,38.305192",
     "geom:latitude":38.305192,
     "geom:longitude":-85.840127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 State St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303329233,
-    "wof:lastmodified":1448998794,
+    "wof:lastmodified":1466503605,
     "wof:name":"AAA Plumbing Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.840127,38.305192,-85.840127,38.305192],
+  "bbox": [
+    -85.840127,
+    38.305192,
+    -85.840127,
+    38.305192
+],
   "geometry": {"coordinates":[-85.840127,38.305192],"type":"Point"}
 }

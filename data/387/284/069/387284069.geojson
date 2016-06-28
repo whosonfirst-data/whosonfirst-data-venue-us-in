@@ -2,13 +2,14 @@
   "id": 387284069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.422184,39.879494,-86.422184,39.879494",
     "geom:latitude":39.879494,
     "geom:longitude":-86.422184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7740 Eaker Ct",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387284069,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1466503284,
     "wof:name":"Veks Aero Ltd",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.422184,39.879494,-86.422184,39.879494],
+  "bbox": [
+    -86.422184,
+    39.879494,
+    -86.422184,
+    39.879494
+],
   "geometry": {"coordinates":[-86.422184,39.879494],"type":"Point"}
 }

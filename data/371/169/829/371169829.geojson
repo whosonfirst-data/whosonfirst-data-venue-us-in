@@ -2,13 +2,14 @@
   "id": 371169829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.186982,39.714714,-86.186982,39.714714",
     "geom:latitude":39.714714,
     "geom:longitude":-86.186982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 S Harding St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371169829,
-    "wof:lastmodified":1449049680,
+    "wof:lastmodified":1466503087,
     "wof:name":"Muller Welding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "container"
     ]
 },
-  "bbox": [-86.186982,39.714714,-86.186982,39.714714],
+  "bbox": [
+    -86.186982,
+    39.714714,
+    -86.186982,
+    39.714714
+],
   "geometry": {"coordinates":[-86.186982,39.714714],"type":"Point"}
 }

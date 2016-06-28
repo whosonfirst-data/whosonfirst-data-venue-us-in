@@ -2,13 +2,14 @@
   "id": 387065687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.079586,41.187537,-85.079586,41.187537",
     "geom:latitude":41.187537,
     "geom:longitude":-85.079586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11215 Crested Oak Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387065687,
-    "wof:lastmodified":1449059874,
+    "wof:lastmodified":1466502972,
     "wof:name":"Sakells Enterprises Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.079586,41.187537,-85.079586,41.187537],
-  "geometry": {"coordinates":[-85.079586,41.187537],"type":"Point"}
+  "bbox": [
+    -85.079586,
+    41.187537,
+    -85.079586,
+    41.187537
+],
+  "geometry": {"coordinates":[-85.07958600000001,41.187537],"type":"Point"}
 }

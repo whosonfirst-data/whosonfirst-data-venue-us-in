@@ -2,13 +2,14 @@
   "id": 387811673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.586193,38.079342,-87.586193,38.079342",
     "geom:latitude":38.079342,
     "geom:longitude":-87.586193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11201 Kahre Ct",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387811673,
-    "wof:lastmodified":1449057933,
+    "wof:lastmodified":1466503995,
     "wof:name":"Keens Lawn Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.586193,38.079342,-87.586193,38.079342],
-  "geometry": {"coordinates":[-87.586193,38.079342],"type":"Point"}
+  "bbox": [
+    -87.586193,
+    38.079342,
+    -87.586193,
+    38.079342
+],
+  "geometry": {"coordinates":[-87.58619299999999,38.079342],"type":"Point"}
 }

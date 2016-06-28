@@ -2,13 +2,14 @@
   "id": 403988119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.097536,39.871904,-86.097536,39.871904",
     "geom:latitude":39.871904,
     "geom:longitude":-86.097536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6223 Dover Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403988119,
-    "wof:lastmodified":1449055086,
+    "wof:lastmodified":1466503292,
     "wof:name":"Victor C Seaman Jr DDS",
     "wof:parent_id":85834375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.097536,39.871904,-86.097536,39.871904],
-  "geometry": {"coordinates":[-86.097536,39.871904],"type":"Point"}
+  "bbox": [
+    -86.097536,
+    39.871904,
+    -86.097536,
+    39.871904
+],
+  "geometry": {"coordinates":[-86.09753600000001,39.871904],"type":"Point"}
 }

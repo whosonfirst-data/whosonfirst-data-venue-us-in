@@ -2,13 +2,14 @@
   "id": 354204021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.312193,39.437171,-86.312193,39.437171",
     "geom:latitude":39.437171,
     "geom:longitude":-86.312193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 Cope Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354204021,
-    "wof:lastmodified":1449067696,
+    "wof:lastmodified":1466503144,
     "wof:name":"Dream Builders of Indiana Inc",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.312193,39.437171,-86.312193,39.437171],
-  "geometry": {"coordinates":[-86.312193,39.437171],"type":"Point"}
+  "bbox": [
+    -86.312193,
+    39.437171,
+    -86.312193,
+    39.437171
+],
+  "geometry": {"coordinates":[-86.31219299999999,39.437171],"type":"Point"}
 }

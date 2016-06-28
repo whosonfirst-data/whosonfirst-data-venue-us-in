@@ -2,13 +2,14 @@
   "id": 403755657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.118434,39.843217,-86.118434,39.843217",
     "geom:latitude":39.843217,
     "geom:longitude":-86.118434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4760 Pennwood Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403755657,
-    "wof:lastmodified":1449055013,
+    "wof:lastmodified":1466502956,
     "wof:name":"Abbie Hunt Bryce Home",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.118434,39.843217,-86.118434,39.843217],
-  "geometry": {"coordinates":[-86.118434,39.843217],"type":"Point"}
+  "bbox": [
+    -86.118434,
+    39.843217,
+    -86.118434,
+    39.843217
+],
+  "geometry": {"coordinates":[-86.11843399999999,39.843217],"type":"Point"}
 }

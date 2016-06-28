@@ -2,13 +2,14 @@
   "id": 387954587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.560043,37.973724,-87.560043,37.973724",
     "geom:latitude":37.973724,
     "geom:longitude":-87.560043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Walnut St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387954587,
-    "wof:lastmodified":1449059430,
+    "wof:lastmodified":1466504207,
     "wof:name":"Newburgh Glass",
     "wof:parent_id":85877305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-87.560043,37.973724,-87.560043,37.973724],
-  "geometry": {"coordinates":[-87.560043,37.973724],"type":"Point"}
+  "bbox": [
+    -87.560043,
+    37.973724,
+    -87.560043,
+    37.973724
+],
+  "geometry": {"coordinates":[-87.56004299999999,37.973724],"type":"Point"}
 }

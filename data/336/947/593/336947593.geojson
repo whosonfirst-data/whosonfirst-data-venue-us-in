@@ -2,13 +2,14 @@
   "id": 336947593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399645,39.76354,-86.399645,39.76354",
     "geom:latitude":39.76354,
     "geom:longitude":-86.399645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 State Rd 267",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":336947593,
-    "wof:lastmodified":1448997711,
+    "wof:lastmodified":1466503330,
     "wof:name":"Avon Computer Works LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.399645,39.76354,-86.399645,39.76354],
-  "geometry": {"coordinates":[-86.399645,39.76354],"type":"Point"}
+  "bbox": [
+    -86.399645,
+    39.76354,
+    -86.399645,
+    39.76354
+],
+  "geometry": {"coordinates":[-86.39964500000001,39.76354],"type":"Point"}
 }

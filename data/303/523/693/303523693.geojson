@@ -2,13 +2,14 @@
   "id": 303523693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.465216,38.556129,-86.465216,38.556129",
     "geom:latitude":38.556129,
     "geom:longitude":-86.465216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Main St",
     "sg:city":"Paoli",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303523693,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1466503732,
     "wof:name":"Baker's Eastside Svc Sta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-86.465216,38.556129,-86.465216,38.556129],
+  "bbox": [
+    -86.465216,
+    38.556129,
+    -86.465216,
+    38.556129
+],
   "geometry": {"coordinates":[-86.465216,38.556129],"type":"Point"}
 }

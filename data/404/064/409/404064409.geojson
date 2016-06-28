@@ -2,13 +2,14 @@
   "id": 404064409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108417,40.454834,-86.108417,40.454834",
     "geom:latitude":40.454834,
     "geom:longitude":-86.108417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 Albright Rd",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404064409,
-    "wof:lastmodified":1449039446,
+    "wof:lastmodified":1466502968,
     "wof:name":"Freescale Semiconductor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-86.108417,40.454834,-86.108417,40.454834],
+  "bbox": [
+    -86.108417,
+    40.454834,
+    -86.108417,
+    40.454834
+],
   "geometry": {"coordinates":[-86.108417,40.454834],"type":"Point"}
 }

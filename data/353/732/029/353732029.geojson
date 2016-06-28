@@ -2,13 +2,14 @@
   "id": 353732029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.851,40.435572,-86.851,40.435572",
     "geom:latitude":40.435572,
     "geom:longitude":-86.851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Redwood Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353732029,
-    "wof:lastmodified":1449020894,
+    "wof:lastmodified":1466503223,
     "wof:name":"Burk Management Inc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.851,40.435572,-86.851,40.435572],
+  "bbox": [
+    -86.851,
+    40.435572,
+    -86.851,
+    40.435572
+],
   "geometry": {"coordinates":[-86.851,40.435572],"type":"Point"}
 }

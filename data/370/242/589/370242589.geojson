@@ -2,13 +2,14 @@
   "id": 370242589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899802,41.713133,-86.899802,41.713133",
     "geom:latitude":41.713133,
     "geom:longitude":-86.899802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370242589,
-    "wof:lastmodified":1449032076,
+    "wof:lastmodified":1466503004,
     "wof:name":"ATF Fitness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "facility"
     ]
 },
-  "bbox": [-86.899802,41.713133,-86.899802,41.713133],
-  "geometry": {"coordinates":[-86.899802,41.713133],"type":"Point"}
+  "bbox": [
+    -86.899802,
+    41.713133,
+    -86.899802,
+    41.713133
+],
+  "geometry": {"coordinates":[-86.89980199999999,41.713133],"type":"Point"}
 }

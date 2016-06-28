@@ -2,13 +2,14 @@
   "id": 354231821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.816803,40.805654,-85.816803,40.805654",
     "geom:latitude":40.805654,
     "geom:longitude":-85.816803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 N Spring St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354231821,
-    "wof:lastmodified":1449066796,
+    "wof:lastmodified":1466503186,
     "wof:name":"Northeast Orthopaedics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-85.816803,40.805654,-85.816803,40.805654],
-  "geometry": {"coordinates":[-85.816803,40.805654],"type":"Point"}
+  "bbox": [
+    -85.816803,
+    40.805654,
+    -85.816803,
+    40.805654
+],
+  "geometry": {"coordinates":[-85.81680299999999,40.805654],"type":"Point"}
 }

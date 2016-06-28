@@ -2,13 +2,14 @@
   "id": 336910431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.253332,39.780389,-86.253332,39.780389",
     "geom:latitude":39.780389,
     "geom:longitude":-86.253332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 N Norfolk St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336910431,
-    "wof:lastmodified":1448997390,
+    "wof:lastmodified":1466503284,
     "wof:name":"Lakeview Village Inc",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-86.253332,39.780389,-86.253332,39.780389],
+  "bbox": [
+    -86.253332,
+    39.780389,
+    -86.253332,
+    39.780389
+],
   "geometry": {"coordinates":[-86.253332,39.780389],"type":"Point"}
 }

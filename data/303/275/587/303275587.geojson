@@ -2,13 +2,14 @@
   "id": 303275587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.398173,40.218861,-85.398173,40.218861",
     "geom:latitude":40.218861,
     "geom:longitude":-85.398173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303275587,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466503554,
     "wof:name":"Super Nails",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-85.398173,40.218861,-85.398173,40.218861],
+  "bbox": [
+    -85.398173,
+    40.218861,
+    -85.398173,
+    40.218861
+],
   "geometry": {"coordinates":[-85.398173,40.218861],"type":"Point"}
 }

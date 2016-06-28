@@ -2,13 +2,14 @@
   "id": 387028879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.889437,41.700056,-86.889437,41.700056",
     "geom:latitude":41.700056,
     "geom:longitude":-86.889437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Harrison St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387028879,
-    "wof:lastmodified":1449058162,
+    "wof:lastmodified":1466502918,
     "wof:name":"K & L Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-86.889437,41.700056,-86.889437,41.700056],
+  "bbox": [
+    -86.889437,
+    41.700056,
+    -86.889437,
+    41.700056
+],
   "geometry": {"coordinates":[-86.889437,41.700056],"type":"Point"}
 }

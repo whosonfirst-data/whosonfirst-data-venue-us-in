@@ -2,13 +2,14 @@
   "id": 370863263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.360102,39.492742,-87.360102,39.492742",
     "geom:latitude":39.492742,
     "geom:longitude":-87.360102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 N Fruitridge Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370863263,
-    "wof:lastmodified":1449031420,
+    "wof:lastmodified":1466503658,
     "wof:name":"Eurest Title Three",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-87.360102,39.492742,-87.360102,39.492742],
+  "bbox": [
+    -87.360102,
+    39.492742,
+    -87.360102,
+    39.492742
+],
   "geometry": {"coordinates":[-87.360102,39.492742],"type":"Point"}
 }

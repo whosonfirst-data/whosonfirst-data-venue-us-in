@@ -2,13 +2,14 @@
   "id": 303685027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.900671,40.356708,-86.900671,40.356708",
     "geom:latitude":40.356708,
     "geom:longitude":-86.900671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4202 Hillside Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303685027,
-    "wof:lastmodified":1449000505,
+    "wof:lastmodified":1466502969,
     "wof:name":"Blue Heron Mercantile",
     "wof:parent_id":85868897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-86.900671,40.356708,-86.900671,40.356708],
+  "bbox": [
+    -86.900671,
+    40.356708,
+    -86.900671,
+    40.356708
+],
   "geometry": {"coordinates":[-86.900671,40.356708],"type":"Point"}
 }

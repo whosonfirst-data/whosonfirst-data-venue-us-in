@@ -2,13 +2,14 @@
   "id": 336768389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.412252,39.611422,-85.412252,39.611422",
     "geom:latitude":39.611422,
     "geom:longitude":-85.412252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1563 E State Rd 44",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336768389,
-    "wof:lastmodified":1448997365,
+    "wof:lastmodified":1466503106,
     "wof:name":"Mary Buhler Distributor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.412252,39.611422,-85.412252,39.611422],
+  "bbox": [
+    -85.412252,
+    39.611422,
+    -85.412252,
+    39.611422
+],
   "geometry": {"coordinates":[-85.412252,39.611422],"type":"Point"}
 }

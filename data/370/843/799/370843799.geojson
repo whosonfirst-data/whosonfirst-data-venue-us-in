@@ -2,13 +2,14 @@
   "id": 370843799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.488423,41.154756,-85.488423,41.154756",
     "geom:latitude":41.154756,
     "geom:longitude":-85.488423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370843799,
-    "wof:lastmodified":1449029386,
+    "wof:lastmodified":1466503633,
     "wof:name":"Computer Management Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.488423,41.154756,-85.488423,41.154756],
+  "bbox": [
+    -85.488423,
+    41.154756,
+    -85.488423,
+    41.154756
+],
   "geometry": {"coordinates":[-85.488423,41.154756],"type":"Point"}
 }

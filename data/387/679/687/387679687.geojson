@@ -2,13 +2,14 @@
   "id": 387679687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.153484,39.926998,-86.153484,39.926998",
     "geom:latitude":39.926998,
     "geom:longitude":-86.153484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E 96th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387679687,
-    "wof:lastmodified":1449058557,
+    "wof:lastmodified":1466503816,
     "wof:name":"Resource Commercial Real Est",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.153484,39.926998,-86.153484,39.926998],
-  "geometry": {"coordinates":[-86.153484,39.926998],"type":"Point"}
+  "bbox": [
+    -86.153484,
+    39.926998,
+    -86.153484,
+    39.926998
+],
+  "geometry": {"coordinates":[-86.15348400000001,39.926998],"type":"Point"}
 }

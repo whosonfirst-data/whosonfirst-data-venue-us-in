@@ -2,13 +2,14 @@
   "id": 387198143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.513978,41.157945,-85.513978,41.157945",
     "geom:latitude":41.157945,
     "geom:longitude":-85.513978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 James St",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387198143,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1466503163,
     "wof:name":"Steel Tank & Fabricating Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sheet"
     ]
 },
-  "bbox": [-85.513978,41.157945,-85.513978,41.157945],
-  "geometry": {"coordinates":[-85.513978,41.157945],"type":"Point"}
+  "bbox": [
+    -85.513978,
+    41.157945,
+    -85.513978,
+    41.157945
+],
+  "geometry": {"coordinates":[-85.51397799999999,41.157945],"type":"Point"}
 }

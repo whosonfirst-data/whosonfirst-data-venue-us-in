@@ -2,13 +2,14 @@
   "id": 370993105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.324242,41.543099,-87.324242,41.543099",
     "geom:latitude":41.543099,
     "geom:longitude":-87.324242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Vermont St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370993105,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1466504377,
     "wof:name":"Goodman's Tree Svc Inc",
     "wof:parent_id":85831063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-87.324242,41.543099,-87.324242,41.543099],
+  "bbox": [
+    -87.324242,
+    41.543099,
+    -87.324242,
+    41.543099
+],
   "geometry": {"coordinates":[-87.324242,41.543099],"type":"Point"}
 }

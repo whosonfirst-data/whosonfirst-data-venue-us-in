@@ -2,13 +2,14 @@
   "id": 370646715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303973,41.343708,-86.303973,41.343708",
     "geom:latitude":41.343708,
     "geom:longitude":-86.303973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Indiana St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370646715,
-    "wof:lastmodified":1449028985,
+    "wof:lastmodified":1466503442,
     "wof:name":"Marshall Co Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.303973,41.343708,-86.303973,41.343708],
+  "bbox": [
+    -86.303973,
+    41.343708,
+    -86.303973,
+    41.343708
+],
   "geometry": {"coordinates":[-86.303973,41.343708],"type":"Point"}
 }

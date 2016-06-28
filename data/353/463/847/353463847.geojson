@@ -2,13 +2,14 @@
   "id": 353463847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.905142,40.422826,-86.905142,40.422826",
     "geom:latitude":40.422826,
     "geom:longitude":-86.905142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Littleton St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353463847,
-    "wof:lastmodified":1449020016,
+    "wof:lastmodified":1466502920,
     "wof:name":"Gemini Co-Op",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-86.905142,40.422826,-86.905142,40.422826],
+  "bbox": [
+    -86.905142,
+    40.422826,
+    -86.905142,
+    40.422826
+],
   "geometry": {"coordinates":[-86.905142,40.422826],"type":"Point"}
 }

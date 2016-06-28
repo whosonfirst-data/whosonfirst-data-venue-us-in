@@ -2,13 +2,14 @@
   "id": 387531547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026236,39.763155,-86.026236,39.763155",
     "geom:latitude":39.763155,
     "geom:longitude":-86.026236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 S Franklin Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387531547,
-    "wof:lastmodified":1449057003,
+    "wof:lastmodified":1466503615,
     "wof:name":"America's Best Patio Rooms",
     "wof:parent_id":85827165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-86.026236,39.763155,-86.026236,39.763155],
+  "bbox": [
+    -86.026236,
+    39.763155,
+    -86.026236,
+    39.763155
+],
   "geometry": {"coordinates":[-86.026236,39.763155],"type":"Point"}
 }

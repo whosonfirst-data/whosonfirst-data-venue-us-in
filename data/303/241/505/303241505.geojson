@@ -2,13 +2,14 @@
   "id": 303241505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.470289,41.592081,-87.470289,41.592081",
     "geom:latitude":41.592081,
     "geom:longitude":-87.470289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2433 167th St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303241505,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466503513,
     "wof:name":"Trifab & Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-87.470289,41.592081,-87.470289,41.592081],
-  "geometry": {"coordinates":[-87.470289,41.592081],"type":"Point"}
+  "bbox": [
+    -87.470289,
+    41.592081,
+    -87.470289,
+    41.592081
+],
+  "geometry": {"coordinates":[-87.47028899999999,41.592081],"type":"Point"}
 }

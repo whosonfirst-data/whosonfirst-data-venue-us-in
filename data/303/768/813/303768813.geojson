@@ -2,13 +2,14 @@
   "id": 303768813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.106652,39.921171,-86.106652,39.921171",
     "geom:latitude":39.921171,
     "geom:longitude":-86.106652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3685 Priority Way South Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303768813,
-    "wof:lastmodified":1448999058,
+    "wof:lastmodified":1466503064,
     "wof:name":"Gradex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.106652,39.921171,-86.106652,39.921171],
+  "bbox": [
+    -86.106652,
+    39.921171,
+    -86.106652,
+    39.921171
+],
   "geometry": {"coordinates":[-86.106652,39.921171],"type":"Point"}
 }

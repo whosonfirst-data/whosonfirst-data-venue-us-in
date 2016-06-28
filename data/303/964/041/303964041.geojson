@@ -2,13 +2,14 @@
   "id": 303964041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.163832,39.935609,-86.163832,39.935609",
     "geom:latitude":39.935609,
     "geom:longitude":-86.163832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 Ventana Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303964041,
-    "wof:lastmodified":1448999961,
+    "wof:lastmodified":1466503329,
     "wof:name":"Alan I Klineman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.163832,39.935609,-86.163832,39.935609],
+  "bbox": [
+    -86.163832,
+    39.935609,
+    -86.163832,
+    39.935609
+],
   "geometry": {"coordinates":[-86.163832,39.935609],"type":"Point"}
 }

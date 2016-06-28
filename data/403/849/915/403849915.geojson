@@ -2,13 +2,14 @@
   "id": 403849915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.58125,37.977738,-87.58125,37.977738",
     "geom:latitude":37.977738,
     "geom:longitude":-87.58125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 S Fulton Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403849915,
-    "wof:lastmodified":1449054883,
+    "wof:lastmodified":1466503092,
     "wof:name":"Creative Press Inc",
     "wof:parent_id":85877299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.58125,37.977738,-87.58125,37.977738],
+  "bbox": [
+    -87.58125,
+    37.977738,
+    -87.58125,
+    37.977738
+],
   "geometry": {"coordinates":[-87.58125,37.977738],"type":"Point"}
 }

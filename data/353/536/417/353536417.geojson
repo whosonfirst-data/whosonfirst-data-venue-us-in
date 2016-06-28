@@ -2,13 +2,14 @@
   "id": 353536417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.882052,40.353276,-86.882052,40.353276",
     "geom:latitude":40.353276,
     "geom:longitude":-86.882052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Wea Ridge Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353536417,
-    "wof:lastmodified":1449019793,
+    "wof:lastmodified":1466502993,
     "wof:name":"Double D Investments LLC",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-86.882052,40.353276,-86.882052,40.353276],
+  "bbox": [
+    -86.882052,
+    40.353276,
+    -86.882052,
+    40.353276
+],
   "geometry": {"coordinates":[-86.882052,40.353276],"type":"Point"}
 }

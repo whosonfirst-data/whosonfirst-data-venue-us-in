@@ -2,13 +2,14 @@
   "id": 404179837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.879136,41.127331,-85.879136,41.127331",
     "geom:latitude":41.127331,
     "geom:longitude":-85.879136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Graceland Ave",
     "sg:city":"Claypool",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404179837,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1466503127,
     "wof:name":"Claypool Police Dept",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.879136,41.127331,-85.879136,41.127331],
+  "bbox": [
+    -85.879136,
+    41.127331,
+    -85.879136,
+    41.127331
+],
   "geometry": {"coordinates":[-85.879136,41.127331],"type":"Point"}
 }

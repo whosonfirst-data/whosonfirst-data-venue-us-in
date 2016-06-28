@@ -2,13 +2,14 @@
   "id": 370807591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.921297,41.635949,-85.921297,41.635949",
     "geom:latitude":41.635949,
     "geom:longitude":-85.921297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23737 US Hwy 33",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370807591,
-    "wof:lastmodified":1449029963,
+    "wof:lastmodified":1466503592,
     "wof:name":"Karen's Kosmo's Christian Str",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.921297,41.635949,-85.921297,41.635949],
+  "bbox": [
+    -85.921297,
+    41.635949,
+    -85.921297,
+    41.635949
+],
   "geometry": {"coordinates":[-85.921297,41.635949],"type":"Point"}
 }

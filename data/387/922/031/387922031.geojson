@@ -2,13 +2,14 @@
   "id": 387922031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.252248,39.912915,-86.252248,39.912915",
     "geom:latitude":39.912915,
     "geom:longitude":-86.252248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8812 Americana Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387922031,
-    "wof:lastmodified":1449056450,
+    "wof:lastmodified":1466504160,
     "wof:name":"Compton Mechanical Svc Inc",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.252248,39.912915,-86.252248,39.912915],
-  "geometry": {"coordinates":[-86.252248,39.912915],"type":"Point"}
+  "bbox": [
+    -86.252248,
+    39.912915,
+    -86.252248,
+    39.912915
+],
+  "geometry": {"coordinates":[-86.25224799999999,39.912915],"type":"Point"}
 }

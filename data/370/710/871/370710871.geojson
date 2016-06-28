@@ -2,13 +2,14 @@
   "id": 370710871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894488,37.938638,-87.894488,37.938638",
     "geom:latitude":37.938638,
     "geom:longitude":-87.894488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E 10th St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370710871,
-    "wof:lastmodified":1449029290,
+    "wof:lastmodified":1466503500,
     "wof:name":"Gerton Bros Office Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.894488,37.938638,-87.894488,37.938638],
+  "bbox": [
+    -87.894488,
+    37.938638,
+    -87.894488,
+    37.938638
+],
   "geometry": {"coordinates":[-87.894488,37.938638],"type":"Point"}
 }

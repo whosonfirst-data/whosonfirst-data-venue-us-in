@@ -2,13 +2,14 @@
   "id": 386999659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.57142,39.739955,-85.57142,39.739955",
     "geom:latitude":39.739955,
     "geom:longitude":-85.57142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386999659,
-    "wof:lastmodified":1449028927,
+    "wof:lastmodified":1466502977,
     "wof:name":"Henry Henley Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.57142,39.739955,-85.57142,39.739955],
+  "bbox": [
+    -85.57142,
+    39.739955,
+    -85.57142,
+    39.739955
+],
   "geometry": {"coordinates":[-85.57142,39.739955],"type":"Point"}
 }

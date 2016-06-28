@@ -2,13 +2,14 @@
   "id": 320264027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.387754,39.763084,-86.387754,39.763084",
     "geom:latitude":39.763084,
     "geom:longitude":-86.387754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8244 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320264027,
-    "wof:lastmodified":1449013691,
+    "wof:lastmodified":1466503823,
     "wof:name":"Greater Avon Chamber Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.387754,39.763084,-86.387754,39.763084],
+  "bbox": [
+    -86.387754,
+    39.763084,
+    -86.387754,
+    39.763084
+],
   "geometry": {"coordinates":[-86.387754,39.763084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303893825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.730476,38.287227,-85.730476,38.287227",
     "geom:latitude":38.287227,
     "geom:longitude":-85.730476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303893825,
-    "wof:lastmodified":1449000102,
+    "wof:lastmodified":1466503223,
     "wof:name":"One Hour Martinizing",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-85.730476,38.287227,-85.730476,38.287227],
+  "bbox": [
+    -85.730476,
+    38.287227,
+    -85.730476,
+    38.287227
+],
   "geometry": {"coordinates":[-85.730476,38.287227],"type":"Point"}
 }

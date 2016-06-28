@@ -2,13 +2,14 @@
   "id": 336929277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.147208,41.125224,-85.147208,41.125224",
     "geom:latitude":41.125224,
     "geom:longitude":-85.147208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Ley Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336929277,
-    "wof:lastmodified":1448997358,
+    "wof:lastmodified":1466503309,
     "wof:name":"Midwest Tool & Die Corp",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maker"
     ]
 },
-  "bbox": [-85.147208,41.125224,-85.147208,41.125224],
-  "geometry": {"coordinates":[-85.147208,41.125224],"type":"Point"}
+  "bbox": [
+    -85.147208,
+    41.125224,
+    -85.147208,
+    41.125224
+],
+  "geometry": {"coordinates":[-85.14720800000001,41.125224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336698095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.296982,38.352436,-87.296982,38.352436",
     "geom:latitude":38.352436,
     "geom:longitude":-87.296982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4960 S Co Rd 100 W",
     "sg:city":"Oakland City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336698095,
-    "wof:lastmodified":1448997946,
+    "wof:lastmodified":1466503013,
     "wof:name":"Black Beauty Coal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shipping"
     ]
 },
-  "bbox": [-87.296982,38.352436,-87.296982,38.352436],
+  "bbox": [
+    -87.296982,
+    38.352436,
+    -87.296982,
+    38.352436
+],
   "geometry": {"coordinates":[-87.296982,38.352436],"type":"Point"}
 }

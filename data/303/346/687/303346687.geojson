@@ -2,13 +2,14 @@
   "id": 303346687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.390495,39.714049,-86.390495,39.714049",
     "geom:latitude":39.714049,
     "geom:longitude":-86.390495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Andico Rd",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303346687,
-    "wof:lastmodified":1448998102,
+    "wof:lastmodified":1466503625,
     "wof:name":"Nelson Industrial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.390495,39.714049,-86.390495,39.714049],
+  "bbox": [
+    -86.390495,
+    39.714049,
+    -86.390495,
+    39.714049
+],
   "geometry": {"coordinates":[-86.390495,39.714049],"type":"Point"}
 }

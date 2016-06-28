@@ -2,13 +2,14 @@
   "id": 387178941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.172337,38.658646,-87.172337,38.658646",
     "geom:latitude":38.658646,
     "geom:longitude":-87.172337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Walnut St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387178941,
-    "wof:lastmodified":1449058839,
+    "wof:lastmodified":1466503139,
     "wof:name":"Martin Daviess County Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-87.172337,38.658646,-87.172337,38.658646],
+  "bbox": [
+    -87.172337,
+    38.658646,
+    -87.172337,
+    38.658646
+],
   "geometry": {"coordinates":[-87.172337,38.658646],"type":"Point"}
 }

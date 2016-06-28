@@ -2,13 +2,14 @@
   "id": 387661445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.395339,40.193045,-85.395339,40.193045",
     "geom:latitude":40.193045,
     "geom:longitude":-85.395339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 W Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387661445,
-    "wof:lastmodified":1449059502,
+    "wof:lastmodified":1466503801,
     "wof:name":"Family Services",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-85.395339,40.193045,-85.395339,40.193045],
-  "geometry": {"coordinates":[-85.395339,40.193045],"type":"Point"}
+  "bbox": [
+    -85.395339,
+    40.193045,
+    -85.395339,
+    40.193045
+],
+  "geometry": {"coordinates":[-85.39533900000001,40.193045],"type":"Point"}
 }

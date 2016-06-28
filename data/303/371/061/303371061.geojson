@@ -2,13 +2,14 @@
   "id": 303371061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.906314,41.712213,-86.906314,41.712213",
     "geom:latitude":41.712213,
     "geom:longitude":-86.906314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Elston St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303371061,
-    "wof:lastmodified":1449000020,
+    "wof:lastmodified":1466503645,
     "wof:name":"Lindsey Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.906314,41.712213,-86.906314,41.712213],
-  "geometry": {"coordinates":[-86.906314,41.712213],"type":"Point"}
+  "bbox": [
+    -86.906314,
+    41.712213,
+    -86.906314,
+    41.712213
+],
+  "geometry": {"coordinates":[-86.90631399999999,41.712213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403986055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.148106,41.039162,-85.148106,41.039162",
     "geom:latitude":41.039162,
     "geom:longitude":-85.148106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 Tacoma Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403986055,
-    "wof:lastmodified":1449055702,
+    "wof:lastmodified":1466503287,
     "wof:name":"Ricker Equipment Inc",
     "wof:parent_id":85877565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-85.148106,41.039162,-85.148106,41.039162],
+  "bbox": [
+    -85.148106,
+    41.039162,
+    -85.148106,
+    41.039162
+],
   "geometry": {"coordinates":[-85.148106,41.039162],"type":"Point"}
 }

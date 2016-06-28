@@ -2,13 +2,14 @@
   "id": 387685833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.335948,41.48675,-87.335948,41.48675",
     "geom:latitude":41.48675,
     "geom:longitude":-87.335948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7195 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387685833,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1466503821,
     "wof:name":"Walter Cook Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.335948,41.48675,-87.335948,41.48675],
+  "bbox": [
+    -87.335948,
+    41.48675,
+    -87.335948,
+    41.48675
+],
   "geometry": {"coordinates":[-87.335948,41.48675],"type":"Point"}
 }

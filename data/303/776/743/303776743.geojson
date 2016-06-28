@@ -2,13 +2,14 @@
   "id": 303776743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774608,41.215786,-86.774608,41.215786",
     "geom:latitude":41.215786,
     "geom:longitude":-86.774608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Main St",
     "sg:city":"North Judson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303776743,
-    "wof:lastmodified":1448998647,
+    "wof:lastmodified":1466503075,
     "wof:name":"Main Street Floral & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774608,41.215786,-86.774608,41.215786],
+  "bbox": [
+    -86.774608,
+    41.215786,
+    -86.774608,
+    41.215786
+],
   "geometry": {"coordinates":[-86.774608,41.215786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354006211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126139,39.868591,-86.126139,39.868591",
     "geom:latitude":39.868591,
     "geom:longitude":-86.126139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Broad Ripple Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354006211,
-    "wof:lastmodified":1449067301,
+    "wof:lastmodified":1466502889,
     "wof:name":"Meid Compton Realty Co",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.126139,39.868591,-86.126139,39.868591],
-  "geometry": {"coordinates":[-86.126139,39.868591],"type":"Point"}
+  "bbox": [
+    -86.126139,
+    39.868591,
+    -86.126139,
+    39.868591
+],
+  "geometry": {"coordinates":[-86.12613899999999,39.868591],"type":"Point"}
 }

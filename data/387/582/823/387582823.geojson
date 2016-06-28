@@ -2,13 +2,14 @@
   "id": 387582823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.149926,38.644358,-87.149926,38.644358",
     "geom:latitude":38.644358,
     "geom:longitude":-87.149926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 State Rd 257",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387582823,
-    "wof:lastmodified":1449058160,
+    "wof:lastmodified":1466503690,
     "wof:name":"Taylor's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-87.149926,38.644358,-87.149926,38.644358],
-  "geometry": {"coordinates":[-87.149926,38.644358],"type":"Point"}
+  "bbox": [
+    -87.149926,
+    38.644358,
+    -87.149926,
+    38.644358
+],
+  "geometry": {"coordinates":[-87.14992599999999,38.644358],"type":"Point"}
 }

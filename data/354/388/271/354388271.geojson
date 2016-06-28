@@ -2,13 +2,14 @@
   "id": 354388271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964373,39.913793,-85.964373,39.913793",
     "geom:latitude":39.913793,
     "geom:longitude":-85.964373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11428 Sturgeon Bay Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354388271,
-    "wof:lastmodified":1449066011,
+    "wof:lastmodified":1466503426,
     "wof:name":"Brehm Limited Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964373,39.913793,-85.964373,39.913793],
-  "geometry": {"coordinates":[-85.964373,39.913793],"type":"Point"}
+  "bbox": [
+    -85.964373,
+    39.913793,
+    -85.964373,
+    39.913793
+],
+  "geometry": {"coordinates":[-85.96437299999999,39.913793],"type":"Point"}
 }

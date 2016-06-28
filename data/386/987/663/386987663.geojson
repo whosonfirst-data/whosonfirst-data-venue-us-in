@@ -2,13 +2,14 @@
   "id": 386987663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.273491,39.779484,-86.273491,39.779484",
     "geom:latitude":39.779484,
     "geom:longitude":-86.273491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6443 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":386987663,
-    "wof:lastmodified":1449028795,
+    "wof:lastmodified":1466502959,
     "wof:name":"Avon Women's Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.273491,39.779484,-86.273491,39.779484],
-  "geometry": {"coordinates":[-86.273491,39.779484],"type":"Point"}
+  "bbox": [
+    -86.273491,
+    39.779484,
+    -86.273491,
+    39.779484
+],
+  "geometry": {"coordinates":[-86.27349100000001,39.779484],"type":"Point"}
 }

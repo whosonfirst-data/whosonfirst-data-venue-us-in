@@ -2,13 +2,14 @@
   "id": 403731305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.430882,39.417543,-86.430882,39.417543",
     "geom:latitude":39.417543,
     "geom:longitude":-86.430882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Morton Ave",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403731305,
-    "wof:lastmodified":1449055815,
+    "wof:lastmodified":1466502921,
     "wof:name":"KERN Advertising",
     "wof:parent_id":85833227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.430882,39.417543,-86.430882,39.417543],
+  "bbox": [
+    -86.430882,
+    39.417543,
+    -86.430882,
+    39.417543
+],
   "geometry": {"coordinates":[-86.430882,39.417543],"type":"Point"}
 }

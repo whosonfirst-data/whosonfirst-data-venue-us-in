@@ -2,13 +2,14 @@
   "id": 387827115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.086634,41.099016,-85.086634,41.099016",
     "geom:latitude":41.099016,
     "geom:longitude":-85.086634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Inwood Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387827115,
-    "wof:lastmodified":1449057460,
+    "wof:lastmodified":1466504019,
     "wof:name":"A J Logistics",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-85.086634,41.099016,-85.086634,41.099016],
+  "bbox": [
+    -85.086634,
+    41.099016,
+    -85.086634,
+    41.099016
+],
   "geometry": {"coordinates":[-85.086634,41.099016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387877843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.528158,39.164534,-86.528158,39.164534",
     "geom:latitude":39.164534,
     "geom:longitude":-86.528158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387877843,
-    "wof:lastmodified":1449058783,
+    "wof:lastmodified":1466504095,
     "wof:name":"Brave New Deli",
     "wof:parent_id":85832565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.528158,39.164534,-86.528158,39.164534],
+  "bbox": [
+    -86.528158,
+    39.164534,
+    -86.528158,
+    39.164534
+],
   "geometry": {"coordinates":[-86.528158,39.164534],"type":"Point"}
 }

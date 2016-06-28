@@ -2,13 +2,14 @@
   "id": 403765013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.065815,41.471689,-87.065815,41.471689",
     "geom:latitude":41.471689,
     "geom:longitude":-87.065815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Campbell St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403765013,
-    "wof:lastmodified":1449055402,
+    "wof:lastmodified":1466502966,
     "wof:name":"National Surgical Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "component"
     ]
 },
-  "bbox": [-87.065815,41.471689,-87.065815,41.471689],
+  "bbox": [
+    -87.065815,
+    41.471689,
+    -87.065815,
+    41.471689
+],
   "geometry": {"coordinates":[-87.065815,41.471689],"type":"Point"}
 }

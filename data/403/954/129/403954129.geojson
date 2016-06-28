@@ -2,13 +2,14 @@
   "id": 403954129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.105306,41.439397,-87.105306,41.439397",
     "geom:latitude":41.439397,
     "geom:longitude":-87.105306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3158 S State Rd 2",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403954129,
-    "wof:lastmodified":1449055798,
+    "wof:lastmodified":1466503234,
     "wof:name":"Inn At Aberdeen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-87.105306,41.439397,-87.105306,41.439397],
+  "bbox": [
+    -87.105306,
+    41.439397,
+    -87.105306,
+    41.439397
+],
   "geometry": {"coordinates":[-87.105306,41.439397],"type":"Point"}
 }

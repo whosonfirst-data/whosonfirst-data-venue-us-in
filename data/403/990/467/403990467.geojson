@@ -2,13 +2,14 @@
   "id": 403990467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.019962,41.117755,-85.019962,41.117755",
     "geom:latitude":41.117755,
     "geom:longitude":-85.019962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9436 Maysville Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403990467,
-    "wof:lastmodified":1449055507,
+    "wof:lastmodified":1466503295,
     "wof:name":"Kizer Flooring Inc",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-85.019962,41.117755,-85.019962,41.117755],
-  "geometry": {"coordinates":[-85.019962,41.117755],"type":"Point"}
+  "bbox": [
+    -85.019962,
+    41.117755,
+    -85.019962,
+    41.117755
+],
+  "geometry": {"coordinates":[-85.01996200000001,41.117755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387663253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.75981,40.74612,-86.75981,40.74612",
     "geom:latitude":40.74612,
     "geom:longitude":-86.75981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Washington St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387663253,
-    "wof:lastmodified":1449058908,
+    "wof:lastmodified":1466503803,
     "wof:name":"East Side Marathon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-86.75981,40.74612,-86.75981,40.74612],
+  "bbox": [
+    -86.75981,
+    40.74612,
+    -86.75981,
+    40.74612
+],
   "geometry": {"coordinates":[-86.75981,40.74612],"type":"Point"}
 }

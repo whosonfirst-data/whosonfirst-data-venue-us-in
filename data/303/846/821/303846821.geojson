@@ -2,13 +2,14 @@
   "id": 303846821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.114511,40.487629,-86.114511,40.487629",
     "geom:latitude":40.487629,
     "geom:longitude":-86.114511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 E Sycamore St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303846821,
-    "wof:lastmodified":1449000014,
+    "wof:lastmodified":1466503163,
     "wof:name":"Graves Sheet Metal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sheet"
     ]
 },
-  "bbox": [-86.114511,40.487629,-86.114511,40.487629],
-  "geometry": {"coordinates":[-86.114511,40.487629],"type":"Point"}
+  "bbox": [
+    -86.114511,
+    40.487629,
+    -86.114511,
+    40.487629
+],
+  "geometry": {"coordinates":[-86.11451099999999,40.487629],"type":"Point"}
 }

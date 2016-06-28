@@ -2,13 +2,14 @@
   "id": 370492519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108663,39.964625,-86.108663,39.964625",
     "geom:latitude":39.964625,
     "geom:longitude":-86.108663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3406 Eden Hollow Pl",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370492519,
-    "wof:lastmodified":1449029066,
+    "wof:lastmodified":1466503266,
     "wof:name":"N R W Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.108663,39.964625,-86.108663,39.964625],
-  "geometry": {"coordinates":[-86.108663,39.964625],"type":"Point"}
+  "bbox": [
+    -86.108663,
+    39.964625,
+    -86.108663,
+    39.964625
+],
+  "geometry": {"coordinates":[-86.10866300000001,39.964625],"type":"Point"}
 }

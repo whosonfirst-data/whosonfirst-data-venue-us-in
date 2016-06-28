@@ -2,13 +2,14 @@
   "id": 304003401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.468713,41.500623,-87.468713,41.500623",
     "geom:latitude":41.500623,
     "geom:longitude":-87.468713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 65th Ave",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304003401,
-    "wof:lastmodified":1449044125,
+    "wof:lastmodified":1466503389,
     "wof:name":"Novus Auto Glass Repair & Repl",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-87.468713,41.500623,-87.468713,41.500623],
-  "geometry": {"coordinates":[-87.468713,41.500623],"type":"Point"}
+  "bbox": [
+    -87.468713,
+    41.500623,
+    -87.468713,
+    41.500623
+],
+  "geometry": {"coordinates":[-87.46871299999999,41.500623],"type":"Point"}
 }

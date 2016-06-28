@@ -2,13 +2,14 @@
   "id": 387332507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.090163,39.236858,-85.090163,39.236858",
     "geom:latitude":39.236858,
     "geom:longitude":-85.090163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Eastern Ave",
     "sg:city":"Sunman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387332507,
-    "wof:lastmodified":1449058228,
+    "wof:lastmodified":1466503348,
     "wof:name":"American Legion Post 337",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-85.090163,39.236858,-85.090163,39.236858],
+  "bbox": [
+    -85.090163,
+    39.236858,
+    -85.090163,
+    39.236858
+],
   "geometry": {"coordinates":[-85.090163,39.236858],"type":"Point"}
 }

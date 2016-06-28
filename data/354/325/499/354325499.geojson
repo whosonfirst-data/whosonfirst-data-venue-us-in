@@ -2,13 +2,14 @@
   "id": 354325499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.876049,40.868004,-85.876049,40.868004",
     "geom:latitude":40.868004,
     "geom:longitude":-85.876049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4381 W 300 N",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354325499,
-    "wof:lastmodified":1449066577,
+    "wof:lastmodified":1466503330,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.876049,40.868004,-85.876049,40.868004],
-  "geometry": {"coordinates":[-85.876049,40.868004],"type":"Point"}
+  "bbox": [
+    -85.876049,
+    40.868004,
+    -85.876049,
+    40.868004
+],
+  "geometry": {"coordinates":[-85.87604899999999,40.868004],"type":"Point"}
 }

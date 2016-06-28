@@ -2,13 +2,14 @@
   "id": 354313227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.370629,40.223327,-85.370629,40.223327",
     "geom:latitude":40.223327,
     "geom:longitude":-85.370629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 N Broadway Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354313227,
-    "wof:lastmodified":1449065989,
+    "wof:lastmodified":1466503313,
     "wof:name":"Delaware County Special Olympc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-85.370629,40.223327,-85.370629,40.223327],
-  "geometry": {"coordinates":[-85.370629,40.223327],"type":"Point"}
+  "bbox": [
+    -85.370629,
+    40.223327,
+    -85.370629,
+    40.223327
+],
+  "geometry": {"coordinates":[-85.37062899999999,40.223327],"type":"Point"}
 }

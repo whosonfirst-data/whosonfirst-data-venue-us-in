@@ -2,13 +2,14 @@
   "id": 371172561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493678,39.159103,-86.493678,39.159103",
     "geom:latitude":39.159103,
     "geom:longitude":-86.493678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 E Buick Cadillac Blvd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371172561,
-    "wof:lastmodified":1449049446,
+    "wof:lastmodified":1466503093,
     "wof:name":"Raymond James Securities Inc",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-86.493678,39.159103,-86.493678,39.159103],
+  "bbox": [
+    -86.493678,
+    39.159103,
+    -86.493678,
+    39.159103
+],
   "geometry": {"coordinates":[-86.493678,39.159103],"type":"Point"}
 }

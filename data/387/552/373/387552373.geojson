@@ -2,13 +2,14 @@
   "id": 387552373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.129544,39.903576,-86.129544,39.903576",
     "geom:latitude":39.903576,
     "geom:longitude":-86.129544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8159 Brent Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387552373,
-    "wof:lastmodified":1449057697,
+    "wof:lastmodified":1466503646,
     "wof:name":"Lynn Walker-Young",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.129544,39.903576,-86.129544,39.903576],
+  "bbox": [
+    -86.129544,
+    39.903576,
+    -86.129544,
+    39.903576
+],
   "geometry": {"coordinates":[-86.129544,39.903576],"type":"Point"}
 }

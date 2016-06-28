@@ -2,13 +2,14 @@
   "id": 336702305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.957257,39.891475,-85.957257,39.891475",
     "geom:latitude":39.891475,
     "geom:longitude":-85.957257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7650 Oaklandon Rd",
     "sg:city":"Oaklandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336702305,
-    "wof:lastmodified":1448997491,
+    "wof:lastmodified":1466503019,
     "wof:name":"Servants Of Christ Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.957257,39.891475,-85.957257,39.891475],
+  "bbox": [
+    -85.957257,
+    39.891475,
+    -85.957257,
+    39.891475
+],
   "geometry": {"coordinates":[-85.957257,39.891475],"type":"Point"}
 }

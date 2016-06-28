@@ -2,13 +2,14 @@
   "id": 336827003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.197236,41.672863,-86.197236,41.672863",
     "geom:latitude":41.672863,
     "geom:longitude":-86.197236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 E Jefferson Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336827003,
-    "wof:lastmodified":1448997315,
+    "wof:lastmodified":1466503185,
     "wof:name":"Midwest Orthotic & Tech Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.197236,41.672863,-86.197236,41.672863],
+  "bbox": [
+    -86.197236,
+    41.672863,
+    -86.197236,
+    41.672863
+],
   "geometry": {"coordinates":[-86.197236,41.672863],"type":"Point"}
 }

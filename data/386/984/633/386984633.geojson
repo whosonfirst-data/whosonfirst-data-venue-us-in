@@ -2,13 +2,14 @@
   "id": 386984633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.29618,38.200945,-87.29618,38.200945",
     "geom:latitude":38.200945,
     "geom:longitude":-87.29618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 3rd St",
     "sg:city":"Lynnville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386984633,
-    "wof:lastmodified":1449028802,
+    "wof:lastmodified":1466502957,
     "wof:name":"Lynnville United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.29618,38.200945,-87.29618,38.200945],
-  "geometry": {"coordinates":[-87.29618,38.200945],"type":"Point"}
+  "bbox": [
+    -87.29618,
+    38.200945,
+    -87.29618,
+    38.200945
+],
+  "geometry": {"coordinates":[-87.29618000000001,38.200945],"type":"Point"}
 }

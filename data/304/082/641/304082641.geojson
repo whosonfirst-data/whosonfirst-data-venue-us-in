@@ -2,13 +2,14 @@
   "id": 304082641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.032191,41.608591,-87.032191,41.608591",
     "geom:latitude":41.608591,
     "geom:longitude":-87.032191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Kingsmill Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304082641,
-    "wof:lastmodified":1449043603,
+    "wof:lastmodified":1466503505,
     "wof:name":"CFIC Home Mortgage",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.032191,41.608591,-87.032191,41.608591],
+  "bbox": [
+    -87.032191,
+    41.608591,
+    -87.032191,
+    41.608591
+],
   "geometry": {"coordinates":[-87.032191,41.608591],"type":"Point"}
 }

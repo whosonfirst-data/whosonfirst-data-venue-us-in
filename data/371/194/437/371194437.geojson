@@ -2,13 +2,14 @@
   "id": 371194437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.580416,41.6691,-85.580416,41.6691",
     "geom:latitude":41.6691,
     "geom:longitude":-85.580416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 State Rd 5",
     "sg:city":"Shipshewana",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371194437,
-    "wof:lastmodified":1449049978,
+    "wof:lastmodified":1466503122,
     "wof:name":"Olde Tyme Country Oak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.580416,41.6691,-85.580416,41.6691],
+  "bbox": [
+    -85.580416,
+    41.6691,
+    -85.580416,
+    41.6691
+],
   "geometry": {"coordinates":[-85.580416,41.6691],"type":"Point"}
 }

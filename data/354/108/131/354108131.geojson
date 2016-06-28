@@ -2,13 +2,14 @@
   "id": 354108131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.136885,39.847486,-86.136885,39.847486",
     "geom:latitude":39.847486,
     "geom:longitude":-86.136885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 E 52nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354108131,
-    "wof:lastmodified":1449065966,
+    "wof:lastmodified":1466503007,
     "wof:name":"Candles R Us",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-86.136885,39.847486,-86.136885,39.847486],
-  "geometry": {"coordinates":[-86.136885,39.847486],"type":"Point"}
+  "bbox": [
+    -86.136885,
+    39.847486,
+    -86.136885,
+    39.847486
+],
+  "geometry": {"coordinates":[-86.13688500000001,39.847486],"type":"Point"}
 }

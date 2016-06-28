@@ -2,13 +2,14 @@
   "id": 387301747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.489818,41.157022,-85.489818,41.157022",
     "geom:latitude":41.157022,
     "geom:longitude":-85.489818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Van Buren St",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387301747,
-    "wof:lastmodified":1449057073,
+    "wof:lastmodified":1466503308,
     "wof:name":"Whitley County Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.489818,41.157022,-85.489818,41.157022],
+  "bbox": [
+    -85.489818,
+    41.157022,
+    -85.489818,
+    41.157022
+],
   "geometry": {"coordinates":[-85.489818,41.157022],"type":"Point"}
 }

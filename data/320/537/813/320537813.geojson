@@ -2,13 +2,14 @@
   "id": 320537813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161073,39.995371,-86.161073,39.995371",
     "geom:latitude":39.995371,
     "geom:longitude":-86.161073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1536 Springmill Ponds Blvd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320537813,
-    "wof:lastmodified":1449012173,
+    "wof:lastmodified":1466503222,
     "wof:name":"Catholic Family Life Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.161073,39.995371,-86.161073,39.995371],
+  "bbox": [
+    -86.161073,
+    39.995371,
+    -86.161073,
+    39.995371
+],
   "geometry": {"coordinates":[-86.161073,39.995371],"type":"Point"}
 }

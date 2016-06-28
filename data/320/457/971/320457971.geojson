@@ -2,13 +2,14 @@
   "id": 320457971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.387695,40.196164,-85.387695,40.196164",
     "geom:latitude":40.196164,
     "geom:longitude":-85.387695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N High St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320457971,
-    "wof:lastmodified":1449013779,
+    "wof:lastmodified":1466503130,
     "wof:name":"Northstar Advisors LLP",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-85.387695,40.196164,-85.387695,40.196164],
-  "geometry": {"coordinates":[-85.387695,40.196164],"type":"Point"}
+  "bbox": [
+    -85.387695,
+    40.196164,
+    -85.387695,
+    40.196164
+],
+  "geometry": {"coordinates":[-85.38769499999999,40.196164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303711477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.125191,41.156887,-85.125191,41.156887",
     "geom:latitude":41.156887,
     "geom:longitude":-85.125191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8322 Sakaden Pkwy",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303711477,
-    "wof:lastmodified":1449000116,
+    "wof:lastmodified":1466502999,
     "wof:name":"Kyrous Music Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.125191,41.156887,-85.125191,41.156887],
+  "bbox": [
+    -85.125191,
+    41.156887,
+    -85.125191,
+    41.156887
+],
   "geometry": {"coordinates":[-85.125191,41.156887],"type":"Point"}
 }

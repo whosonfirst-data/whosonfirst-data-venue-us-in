@@ -2,13 +2,14 @@
   "id": 303401375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.010168,41.446873,-86.010168,41.446873",
     "geom:latitude":41.446873,
     "geom:longitude":-86.010168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Miami Dr",
     "sg:city":"Nappanee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303401375,
-    "wof:lastmodified":1449000197,
+    "wof:lastmodified":1466503658,
     "wof:name":"Great Day Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing"
     ]
 },
-  "bbox": [-86.010168,41.446873,-86.010168,41.446873],
-  "geometry": {"coordinates":[-86.010168,41.446873],"type":"Point"}
+  "bbox": [
+    -86.010168,
+    41.446873,
+    -86.010168,
+    41.446873
+],
+  "geometry": {"coordinates":[-86.01016799999999,41.446873],"type":"Point"}
 }

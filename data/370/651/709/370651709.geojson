@@ -2,13 +2,14 @@
   "id": 370651709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.860677,40.423777,-86.860677,40.423777",
     "geom:latitude":40.423777,
     "geom:longitude":-86.860677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 N Earl Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370651709,
-    "wof:lastmodified":1449029762,
+    "wof:lastmodified":1466503445,
     "wof:name":"Midwest Paintball Warehouse",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-86.860677,40.423777,-86.860677,40.423777],
+  "bbox": [
+    -86.860677,
+    40.423777,
+    -86.860677,
+    40.423777
+],
   "geometry": {"coordinates":[-86.860677,40.423777],"type":"Point"}
 }

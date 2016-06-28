@@ -2,13 +2,14 @@
   "id": 403975735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.746593,40.002546,-85.746593,40.002546",
     "geom:latitude":40.002546,
     "geom:longitude":-85.746593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W State St",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403975735,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1466503272,
     "wof:name":"Marys Musicbox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.746593,40.002546,-85.746593,40.002546],
+  "bbox": [
+    -85.746593,
+    40.002546,
+    -85.746593,
+    40.002546
+],
   "geometry": {"coordinates":[-85.746593,40.002546],"type":"Point"}
 }

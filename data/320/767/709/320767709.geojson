@@ -2,13 +2,14 @@
   "id": 320767709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.852828,39.830984,-84.852828,39.830984",
     "geom:latitude":39.830984,
     "geom:longitude":-84.852828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 E Main St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320767709,
-    "wof:lastmodified":1449012325,
+    "wof:lastmodified":1466503478,
     "wof:name":"Cash Today",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-84.852828,39.830984,-84.852828,39.830984],
+  "bbox": [
+    -84.852828,
+    39.830984,
+    -84.852828,
+    39.830984
+],
   "geometry": {"coordinates":[-84.852828,39.830984],"type":"Point"}
 }

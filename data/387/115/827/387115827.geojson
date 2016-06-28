@@ -2,13 +2,14 @@
   "id": 387115827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481645,37.997724,-87.481645,37.997724",
     "geom:latitude":37.997724,
     "geom:longitude":-87.481645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Old Boonville Hwy",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387115827,
-    "wof:lastmodified":1449056085,
+    "wof:lastmodified":1466503051,
     "wof:name":"Tri-State Pavement Sealing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-87.481645,37.997724,-87.481645,37.997724],
+  "bbox": [
+    -87.481645,
+    37.997724,
+    -87.481645,
+    37.997724
+],
   "geometry": {"coordinates":[-87.481645,37.997724],"type":"Point"}
 }

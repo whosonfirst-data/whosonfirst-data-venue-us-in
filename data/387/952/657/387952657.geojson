@@ -2,13 +2,14 @@
   "id": 387952657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.980108,39.90587,-85.980108,39.90587",
     "geom:latitude":39.90587,
     "geom:longitude":-85.980108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8224 Hunters Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387952657,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1466504205,
     "wof:name":"Albatrosssportswear LLC",
     "wof:parent_id":85818857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-85.980108,39.90587,-85.980108,39.90587],
+  "bbox": [
+    -85.980108,
+    39.90587,
+    -85.980108,
+    39.90587
+],
   "geometry": {"coordinates":[-85.980108,39.90587],"type":"Point"}
 }

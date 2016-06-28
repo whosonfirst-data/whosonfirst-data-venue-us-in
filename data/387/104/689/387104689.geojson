@@ -2,13 +2,14 @@
   "id": 387104689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.669984,40.149718,-85.669984,40.149718",
     "geom:latitude":40.149718,
     "geom:longitude":-85.669984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387104689,
-    "wof:lastmodified":1449057671,
+    "wof:lastmodified":1466503038,
     "wof:name":"Great Beginnings Pre School",
     "wof:parent_id":85837179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-85.669984,40.149718,-85.669984,40.149718],
+  "bbox": [
+    -85.669984,
+    40.149718,
+    -85.669984,
+    40.149718
+],
   "geometry": {"coordinates":[-85.669984,40.149718],"type":"Point"}
 }

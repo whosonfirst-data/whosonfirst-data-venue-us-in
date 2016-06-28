@@ -2,13 +2,14 @@
   "id": 303524483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.711174,40.090912,-85.711174,40.090912",
     "geom:latitude":40.090912,
     "geom:longitude":-85.711174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Raible Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303524483,
-    "wof:lastmodified":1448998093,
+    "wof:lastmodified":1466503732,
     "wof:name":"Gas America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.711174,40.090912,-85.711174,40.090912],
+  "bbox": [
+    -85.711174,
+    40.090912,
+    -85.711174,
+    40.090912
+],
   "geometry": {"coordinates":[-85.711174,40.090912],"type":"Point"}
 }

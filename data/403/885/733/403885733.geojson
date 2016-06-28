@@ -2,13 +2,14 @@
   "id": 403885733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.001418,41.522054,-86.001418,41.522054",
     "geom:latitude":41.522054,
     "geom:longitude":-86.001418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66685 State Rd 19",
     "sg:city":"Wakarusa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403885733,
-    "wof:lastmodified":1449055348,
+    "wof:lastmodified":1466503147,
     "wof:name":"Farm Bureau Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.001418,41.522054,-86.001418,41.522054],
+  "bbox": [
+    -86.001418,
+    41.522054,
+    -86.001418,
+    41.522054
+],
   "geometry": {"coordinates":[-86.001418,41.522054],"type":"Point"}
 }

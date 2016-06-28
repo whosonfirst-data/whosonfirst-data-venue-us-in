@@ -2,13 +2,14 @@
   "id": 303894683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.989385,41.702962,-85.989385,41.702962",
     "geom:latitude":41.702962,
     "geom:longitude":-85.989385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Edwardsburg Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303894683,
-    "wof:lastmodified":1448999127,
+    "wof:lastmodified":1466503224,
     "wof:name":"Golden Nugget Barber Shop",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.989385,41.702962,-85.989385,41.702962],
+  "bbox": [
+    -85.989385,
+    41.702962,
+    -85.989385,
+    41.702962
+],
   "geometry": {"coordinates":[-85.989385,41.702962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303618635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.871784,41.665786,-86.871784,41.665786",
     "geom:latitude":41.665786,
     "geom:longitude":-86.871784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8865 W 400 N",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303618635,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466502894,
     "wof:name":"Ophthalmology Inc",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.871784,41.665786,-86.871784,41.665786],
-  "geometry": {"coordinates":[-86.871784,41.665786],"type":"Point"}
+  "bbox": [
+    -86.871784,
+    41.665786,
+    -86.871784,
+    41.665786
+],
+  "geometry": {"coordinates":[-86.87178400000001,41.665786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387051619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.175571,38.657651,-87.175571,38.657651",
     "geom:latitude":38.657651,
     "geom:longitude":-87.175571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 N Meridian St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387051619,
-    "wof:lastmodified":1449058453,
+    "wof:lastmodified":1466502952,
     "wof:name":"Village Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.175571,38.657651,-87.175571,38.657651],
-  "geometry": {"coordinates":[-87.175571,38.657651],"type":"Point"}
+  "bbox": [
+    -87.175571,
+    38.657651,
+    -87.175571,
+    38.657651
+],
+  "geometry": {"coordinates":[-87.17557100000001,38.657651],"type":"Point"}
 }

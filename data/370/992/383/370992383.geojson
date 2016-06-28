@@ -2,13 +2,14 @@
   "id": 370992383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126894,40.509074,-86.126894,40.509074",
     "geom:latitude":40.509074,
     "geom:longitude":-86.126894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N Apperson Way",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370992383,
-    "wof:lastmodified":1449030686,
+    "wof:lastmodified":1466503836,
     "wof:name":"Bryant's Outdoor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.126894,40.509074,-86.126894,40.509074],
-  "geometry": {"coordinates":[-86.126894,40.509074],"type":"Point"}
+  "bbox": [
+    -86.126894,
+    40.509074,
+    -86.126894,
+    40.509074
+],
+  "geometry": {"coordinates":[-86.12689399999999,40.509074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319859723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.136061,41.132802,-85.136061,41.132802",
     "geom:latitude":41.132802,
     "geom:longitude":-85.136061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Washington Center Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319859723,
-    "wof:lastmodified":1449024635,
+    "wof:lastmodified":1466503571,
     "wof:name":"Wise Choices Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-85.136061,41.132802,-85.136061,41.132802],
+  "bbox": [
+    -85.136061,
+    41.132802,
+    -85.136061,
+    41.132802
+],
   "geometry": {"coordinates":[-85.136061,41.132802],"type":"Point"}
 }

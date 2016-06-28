@@ -2,13 +2,14 @@
   "id": 370555277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.099509,38.64182,-86.099509,38.64182",
     "geom:latitude":38.64182,
     "geom:longitude":-86.099509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2279 State Rd 135",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370555277,
-    "wof:lastmodified":1449031982,
+    "wof:lastmodified":1466503345,
     "wof:name":"Computer Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.099509,38.64182,-86.099509,38.64182],
+  "bbox": [
+    -86.099509,
+    38.64182,
+    -86.099509,
+    38.64182
+],
   "geometry": {"coordinates":[-86.099509,38.64182],"type":"Point"}
 }

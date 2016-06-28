@@ -2,13 +2,14 @@
   "id": 387700463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200983,39.774732,-86.200983,39.774732",
     "geom:latitude":39.774732,
     "geom:longitude":-86.200983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 W Michigan St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387700463,
-    "wof:lastmodified":1449059584,
+    "wof:lastmodified":1466503843,
     "wof:name":"Marion County Juvenile Court",
     "wof:parent_id":85835545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-86.200983,39.774732,-86.200983,39.774732],
-  "geometry": {"coordinates":[-86.200983,39.774732],"type":"Point"}
+  "bbox": [
+    -86.200983,
+    39.774732,
+    -86.200983,
+    39.774732
+],
+  "geometry": {"coordinates":[-86.20098299999999,39.774732],"type":"Point"}
 }

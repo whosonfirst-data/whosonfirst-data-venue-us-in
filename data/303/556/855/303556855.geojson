@@ -2,13 +2,14 @@
   "id": 303556855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.185341,41.694922,-86.185341,41.694922",
     "geom:latitude":41.694922,
     "geom:longitude":-86.185341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 W Edison Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303556855,
-    "wof:lastmodified":1448998717,
+    "wof:lastmodified":1466503747,
     "wof:name":"American Health Muscular Thrpy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-86.185341,41.694922,-86.185341,41.694922],
-  "geometry": {"coordinates":[-86.185341,41.694922],"type":"Point"}
+  "bbox": [
+    -86.185341,
+    41.694922,
+    -86.185341,
+    41.694922
+],
+  "geometry": {"coordinates":[-86.18534099999999,41.694922],"type":"Point"}
 }

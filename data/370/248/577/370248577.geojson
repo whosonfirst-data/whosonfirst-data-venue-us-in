@@ -2,13 +2,14 @@
   "id": 370248577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399641,39.763449,-86.399641,39.763449",
     "geom:latitude":39.763449,
     "geom:longitude":-86.399641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 State Rd 267",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370248577,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466503010,
     "wof:name":"Championship Off Road Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.399641,39.763449,-86.399641,39.763449],
+  "bbox": [
+    -86.399641,
+    39.763449,
+    -86.399641,
+    39.763449
+],
   "geometry": {"coordinates":[-86.399641,39.763449],"type":"Point"}
 }

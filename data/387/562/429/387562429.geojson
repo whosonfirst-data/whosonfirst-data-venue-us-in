@@ -2,13 +2,14 @@
   "id": 387562429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.053491,39.771677,-86.053491,39.771677",
     "geom:latitude":39.771677,
     "geom:longitude":-86.053491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387562429,
-    "wof:lastmodified":1449058125,
+    "wof:lastmodified":1466503661,
     "wof:name":"Ralph's Muffler & Brake Shops",
     "wof:parent_id":85870679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.053491,39.771677,-86.053491,39.771677],
-  "geometry": {"coordinates":[-86.053491,39.771677],"type":"Point"}
+  "bbox": [
+    -86.053491,
+    39.771677,
+    -86.053491,
+    39.771677
+],
+  "geometry": {"coordinates":[-86.05349099999999,39.771677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319832383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.421237,40.153926,-85.421237,40.153926",
     "geom:latitude":40.153926,
     "geom:longitude":-85.421237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 S Delaware Dr",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319832383,
-    "wof:lastmodified":1449024104,
+    "wof:lastmodified":1466503540,
     "wof:name":"Diamond Welding",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.421237,40.153926,-85.421237,40.153926],
+  "bbox": [
+    -85.421237,
+    40.153926,
+    -85.421237,
+    40.153926
+],
   "geometry": {"coordinates":[-85.421237,40.153926],"type":"Point"}
 }

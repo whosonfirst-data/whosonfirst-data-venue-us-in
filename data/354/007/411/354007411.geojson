@@ -2,13 +2,14 @@
   "id": 354007411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.11756,40.489545,-86.11756,40.489545",
     "geom:latitude":40.489545,
     "geom:longitude":-86.11756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 E Taylor St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354007411,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466502890,
     "wof:name":"Defender Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-86.11756,40.489545,-86.11756,40.489545],
+  "bbox": [
+    -86.11756,
+    40.489545,
+    -86.11756,
+    40.489545
+],
   "geometry": {"coordinates":[-86.11756,40.489545],"type":"Point"}
 }

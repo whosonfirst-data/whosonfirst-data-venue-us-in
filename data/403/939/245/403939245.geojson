@@ -2,13 +2,14 @@
   "id": 403939245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.576053,38.201335,-87.576053,38.201335",
     "geom:latitude":38.201335,
     "geom:longitude":-87.576053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 State Rd 68",
     "sg:city":"Haubstadt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403939245,
-    "wof:lastmodified":1449055038,
+    "wof:lastmodified":1466503215,
     "wof:name":"LCA",
     "wof:parent_id":85804327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.576053,38.201335,-87.576053,38.201335],
+  "bbox": [
+    -87.576053,
+    38.201335,
+    -87.576053,
+    38.201335
+],
   "geometry": {"coordinates":[-87.576053,38.201335],"type":"Point"}
 }

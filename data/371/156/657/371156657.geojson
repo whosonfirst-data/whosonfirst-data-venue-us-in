@@ -2,13 +2,14 @@
   "id": 371156657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.70918,40.161301,-85.70918,40.161301",
     "geom:latitude":40.161301,
     "geom:longitude":-85.70918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1978 W 375 N",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371156657,
-    "wof:lastmodified":1449049245,
+    "wof:lastmodified":1466503070,
     "wof:name":"Grace Bible Fellowship",
     "wof:parent_id":85837179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.70918,40.161301,-85.70918,40.161301],
+  "bbox": [
+    -85.70918,
+    40.161301,
+    -85.70918,
+    40.161301
+],
   "geometry": {"coordinates":[-85.70918,40.161301],"type":"Point"}
 }

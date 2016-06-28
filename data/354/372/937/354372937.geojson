@@ -2,13 +2,14 @@
   "id": 354372937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.888162,40.875716,-85.888162,40.875716",
     "geom:latitude":40.875716,
     "geom:longitude":-85.888162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3969 State Rd 15",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354372937,
-    "wof:lastmodified":1449066969,
+    "wof:lastmodified":1466503410,
     "wof:name":"Still Gorgeous Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bridal"
     ]
 },
-  "bbox": [-85.888162,40.875716,-85.888162,40.875716],
-  "geometry": {"coordinates":[-85.888162,40.875716],"type":"Point"}
+  "bbox": [
+    -85.888162,
+    40.875716,
+    -85.888162,
+    40.875716
+],
+  "geometry": {"coordinates":[-85.88816199999999,40.875716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404042559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.544583,39.187176,-86.544583,39.187176",
     "geom:latitude":39.187176,
     "geom:longitude":-86.544583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Stonelake Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404042559,
-    "wof:lastmodified":1449040012,
+    "wof:lastmodified":1466502937,
     "wof:name":"Agency For Instructional Tech",
     "wof:parent_id":85809723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.544583,39.187176,-86.544583,39.187176],
+  "bbox": [
+    -86.544583,
+    39.187176,
+    -86.544583,
+    39.187176
+],
   "geometry": {"coordinates":[-86.544583,39.187176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354413009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.993736,39.886425,-85.993736,39.886425",
     "geom:latitude":39.886425,
     "geom:longitude":-85.993736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7222 Cherokee Dr",
     "sg:city":"Oaklandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354413009,
-    "wof:lastmodified":1449066196,
+    "wof:lastmodified":1466503468,
     "wof:name":"Fox Complete Lawn Care",
     "wof:parent_id":85818857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.993736,39.886425,-85.993736,39.886425],
+  "bbox": [
+    -85.993736,
+    39.886425,
+    -85.993736,
+    39.886425
+],
   "geometry": {"coordinates":[-85.993736,39.886425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354345925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.896694,41.707179,-86.896694,41.707179",
     "geom:latitude":41.707179,
     "geom:longitude":-86.896694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354345925,
-    "wof:lastmodified":1449067533,
+    "wof:lastmodified":1466503366,
     "wof:name":"Perfect Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.896694,41.707179,-86.896694,41.707179],
+  "bbox": [
+    -86.896694,
+    41.707179,
+    -86.896694,
+    41.707179
+],
   "geometry": {"coordinates":[-86.896694,41.707179],"type":"Point"}
 }

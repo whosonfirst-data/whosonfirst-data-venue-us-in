@@ -2,13 +2,14 @@
   "id": 387923583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974347,39.939898,-85.974347,39.939898",
     "geom:latitude":39.939898,
     "geom:longitude":-85.974347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10911 Innisbrooke Ln",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387923583,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1466504165,
     "wof:name":"Creative Memories Sara Lou",
     "wof:parent_id":85824301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "frame"
     ]
 },
-  "bbox": [-85.974347,39.939898,-85.974347,39.939898],
-  "geometry": {"coordinates":[-85.974347,39.939898],"type":"Point"}
+  "bbox": [
+    -85.974347,
+    39.939898,
+    -85.974347,
+    39.939898
+],
+  "geometry": {"coordinates":[-85.97434699999999,39.939898],"type":"Point"}
 }

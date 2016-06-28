@@ -2,13 +2,14 @@
   "id": 386958553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.918962,40.451783,-86.918962,40.451783",
     "geom:latitude":40.451783,
     "geom:longitude":-86.918962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 W Navajo St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386958553,
-    "wof:lastmodified":1449028878,
+    "wof:lastmodified":1466502923,
     "wof:name":"West Lafayette Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-86.918962,40.451783,-86.918962,40.451783],
-  "geometry": {"coordinates":[-86.918962,40.451783],"type":"Point"}
+  "bbox": [
+    -86.918962,
+    40.451783,
+    -86.918962,
+    40.451783
+],
+  "geometry": {"coordinates":[-86.91896199999999,40.451783],"type":"Point"}
 }

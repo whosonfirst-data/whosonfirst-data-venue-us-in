@@ -2,13 +2,14 @@
   "id": 320764859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.043121,41.127701,-85.043121,41.127701",
     "geom:latitude":41.127701,
     "geom:longitude":-85.043121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Imperial Park Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320764859,
-    "wof:lastmodified":1449014783,
+    "wof:lastmodified":1466503475,
     "wof:name":"Bolinger Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.043121,41.127701,-85.043121,41.127701],
+  "bbox": [
+    -85.043121,
+    41.127701,
+    -85.043121,
+    41.127701
+],
   "geometry": {"coordinates":[-85.043121,41.127701],"type":"Point"}
 }

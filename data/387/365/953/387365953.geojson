@@ -2,13 +2,14 @@
   "id": 387365953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.656036,40.11307,-85.656036,40.11307",
     "geom:latitude":40.11307,
     "geom:longitude":-85.656036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 University Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387365953,
-    "wof:lastmodified":1449056717,
+    "wof:lastmodified":1466503394,
     "wof:name":"Driving Center",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-85.656036,40.11307,-85.656036,40.11307],
+  "bbox": [
+    -85.656036,
+    40.11307,
+    -85.656036,
+    40.11307
+],
   "geometry": {"coordinates":[-85.656036,40.11307],"type":"Point"}
 }

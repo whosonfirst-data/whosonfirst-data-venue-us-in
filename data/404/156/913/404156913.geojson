@@ -2,13 +2,14 @@
   "id": 404156913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082225,39.825421,-86.082225,39.825421",
     "geom:latitude":39.825421,
     "geom:longitude":-86.082225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5117 E 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404156913,
-    "wof:lastmodified":1449039289,
+    "wof:lastmodified":1466503097,
     "wof:name":"Basic Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.082225,39.825421,-86.082225,39.825421],
-  "geometry": {"coordinates":[-86.082225,39.825421],"type":"Point"}
+  "bbox": [
+    -86.082225,
+    39.825421,
+    -86.082225,
+    39.825421
+],
+  "geometry": {"coordinates":[-86.08222499999999,39.825421],"type":"Point"}
 }

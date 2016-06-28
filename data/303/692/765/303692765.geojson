@@ -2,13 +2,14 @@
   "id": 303692765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.370084,40.452812,-85.370084,40.452812",
     "geom:latitude":40.452812,
     "geom:longitude":-85.370084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N Walnut St",
     "sg:city":"Hartford City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303692765,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466502978,
     "wof:name":"Low Bobs Discount Tobacco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.370084,40.452812,-85.370084,40.452812],
-  "geometry": {"coordinates":[-85.370084,40.452812],"type":"Point"}
+  "bbox": [
+    -85.370084,
+    40.452812,
+    -85.370084,
+    40.452812
+],
+  "geometry": {"coordinates":[-85.37008400000001,40.452812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320100747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.060765,39.810525,-86.060765,39.810525",
     "geom:latitude":39.810525,
     "geom:longitude":-86.060765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 N Catherwood Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320100747,
-    "wof:lastmodified":1449014023,
+    "wof:lastmodified":1466503702,
     "wof:name":"Indy Power Grid LLC",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-86.060765,39.810525,-86.060765,39.810525],
+  "bbox": [
+    -86.060765,
+    39.810525,
+    -86.060765,
+    39.810525
+],
   "geometry": {"coordinates":[-86.060765,39.810525],"type":"Point"}
 }

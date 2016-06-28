@@ -2,13 +2,14 @@
   "id": 403804253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.08662,41.098623,-85.08662,41.098623",
     "geom:latitude":41.098623,
     "geom:longitude":-85.08662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 Inwood Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403804253,
-    "wof:lastmodified":1449055536,
+    "wof:lastmodified":1466503022,
     "wof:name":"Advangelism",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-85.08662,41.098623,-85.08662,41.098623],
+  "bbox": [
+    -85.08662,
+    41.098623,
+    -85.08662,
+    41.098623
+],
   "geometry": {"coordinates":[-85.08662,41.098623],"type":"Point"}
 }

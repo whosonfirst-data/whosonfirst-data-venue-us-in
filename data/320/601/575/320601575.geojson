@@ -2,13 +2,14 @@
   "id": 320601575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.778177,41.214106,-86.778177,41.214106",
     "geom:latitude":41.214106,
     "geom:longitude":-86.778177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W State St",
     "sg:city":"North Judson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320601575,
-    "wof:lastmodified":1449012921,
+    "wof:lastmodified":1466503302,
     "wof:name":"Patterson Realty Branch Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.778177,41.214106,-86.778177,41.214106],
+  "bbox": [
+    -86.778177,
+    41.214106,
+    -86.778177,
+    41.214106
+],
   "geometry": {"coordinates":[-86.778177,41.214106],"type":"Point"}
 }

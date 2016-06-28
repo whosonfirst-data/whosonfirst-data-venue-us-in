@@ -2,13 +2,14 @@
   "id": 354027367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.181129,41.760117,-86.181129,41.760117",
     "geom:latitude":41.760117,
     "geom:longitude":-86.181129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16199 Marlowe Way",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354027367,
-    "wof:lastmodified":1449066247,
+    "wof:lastmodified":1466502915,
     "wof:name":"J K Rayburn Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-86.181129,41.760117,-86.181129,41.760117],
+  "bbox": [
+    -86.181129,
+    41.760117,
+    -86.181129,
+    41.760117
+],
   "geometry": {"coordinates":[-86.181129,41.760117],"type":"Point"}
 }

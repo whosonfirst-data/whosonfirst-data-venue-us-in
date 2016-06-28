@@ -2,13 +2,14 @@
   "id": 303528967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119785,40.47664,-86.119785,40.47664",
     "geom:latitude":40.47664,
     "geom:longitude":-86.119785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E Markland Ave",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303528967,
-    "wof:lastmodified":1448998769,
+    "wof:lastmodified":1466503734,
     "wof:name":"Timothy R Downey Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.119785,40.47664,-86.119785,40.47664],
-  "geometry": {"coordinates":[-86.119785,40.47664],"type":"Point"}
+  "bbox": [
+    -86.119785,
+    40.47664,
+    -86.119785,
+    40.47664
+],
+  "geometry": {"coordinates":[-86.11978499999999,40.47664],"type":"Point"}
 }

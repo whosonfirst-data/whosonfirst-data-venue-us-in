@@ -2,13 +2,14 @@
   "id": 370958579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22609,39.749974,-86.22609,39.749974",
     "geom:latitude":39.749974,
     "geom:longitude":-86.22609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 W Morris St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370958579,
-    "wof:lastmodified":1449031739,
+    "wof:lastmodified":1466503778,
     "wof:name":"R & S Sewer Cleaning Inc",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-86.22609,39.749974,-86.22609,39.749974],
+  "bbox": [
+    -86.22609,
+    39.749974,
+    -86.22609,
+    39.749974
+],
   "geometry": {"coordinates":[-86.22609,39.749974],"type":"Point"}
 }

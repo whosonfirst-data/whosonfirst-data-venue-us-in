@@ -2,13 +2,14 @@
   "id": 371150629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.056756,39.905259,-86.056756,39.905259",
     "geom:latitude":39.905259,
     "geom:longitude":-86.056756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":371150629,
-    "wof:lastmodified":1449049086,
+    "wof:lastmodified":1466503062,
     "wof:name":"Outpatient Solutions LLC",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.056756,39.905259,-86.056756,39.905259],
-  "geometry": {"coordinates":[-86.056756,39.905259],"type":"Point"}
+  "bbox": [
+    -86.056756,
+    39.905259,
+    -86.056756,
+    39.905259
+],
+  "geometry": {"coordinates":[-86.05675599999999,39.905259],"type":"Point"}
 }

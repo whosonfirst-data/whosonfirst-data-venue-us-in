@@ -2,13 +2,14 @@
   "id": 353789857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254638,41.660919,-86.254638,41.660919",
     "geom:latitude":41.660919,
     "geom:longitude":-86.254638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Franklin St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353789857,
-    "wof:lastmodified":1449019410,
+    "wof:lastmodified":1466503299,
     "wof:name":"Barb & Joe's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254638,41.660919,-86.254638,41.660919],
+  "bbox": [
+    -86.254638,
+    41.660919,
+    -86.254638,
+    41.660919
+],
   "geometry": {"coordinates":[-86.254638,41.660919],"type":"Point"}
 }

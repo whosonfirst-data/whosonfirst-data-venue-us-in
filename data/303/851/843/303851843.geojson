@@ -2,13 +2,14 @@
   "id": 303851843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492764,37.955451,-87.492764,37.955451",
     "geom:latitude":37.955451,
     "geom:longitude":-87.492764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303851843,
-    "wof:lastmodified":1448999727,
+    "wof:lastmodified":1466503171,
     "wof:name":"Park Lawn Cemetery & Mausoleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-87.492764,37.955451,-87.492764,37.955451],
-  "geometry": {"coordinates":[-87.492764,37.955451],"type":"Point"}
+  "bbox": [
+    -87.492764,
+    37.955451,
+    -87.492764,
+    37.955451
+],
+  "geometry": {"coordinates":[-87.49276399999999,37.955451],"type":"Point"}
 }

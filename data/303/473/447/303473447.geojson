@@ -2,13 +2,14 @@
   "id": 303473447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.51974,39.13993,-86.51974,39.13993",
     "geom:latitude":39.13993,
     "geom:longitude":-86.51974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 S Olde Mill Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303473447,
-    "wof:lastmodified":1448998624,
+    "wof:lastmodified":1466503698,
     "wof:name":"L C O Web Design",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "desi"
     ]
 },
-  "bbox": [-86.51974,39.13993,-86.51974,39.13993],
+  "bbox": [
+    -86.51974,
+    39.13993,
+    -86.51974,
+    39.13993
+],
   "geometry": {"coordinates":[-86.51974,39.13993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353846229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.482936,37.993176,-87.482936,37.993176",
     "geom:latitude":37.993176,
     "geom:longitude":-87.482936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5416 E Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353846229,
-    "wof:lastmodified":1449020250,
+    "wof:lastmodified":1466503363,
     "wof:name":"Sterling Boiler & Mechanical",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.482936,37.993176,-87.482936,37.993176],
+  "bbox": [
+    -87.482936,
+    37.993176,
+    -87.482936,
+    37.993176
+],
   "geometry": {"coordinates":[-87.482936,37.993176],"type":"Point"}
 }

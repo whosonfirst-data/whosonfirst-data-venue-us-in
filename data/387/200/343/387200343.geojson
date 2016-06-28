@@ -2,13 +2,14 @@
   "id": 387200343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062995,41.17943,-85.062995,41.17943",
     "geom:latitude":41.17943,
     "geom:longitude":-85.062995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10332 River Rapids Run",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387200343,
-    "wof:lastmodified":1449057631,
+    "wof:lastmodified":1466503166,
     "wof:name":"Pampered Chef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cooking"
     ]
 },
-  "bbox": [-85.062995,41.17943,-85.062995,41.17943],
+  "bbox": [
+    -85.062995,
+    41.17943,
+    -85.062995,
+    41.17943
+],
   "geometry": {"coordinates":[-85.062995,41.17943],"type":"Point"}
 }

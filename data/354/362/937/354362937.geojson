@@ -2,13 +2,14 @@
   "id": 354362937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.0248,39.773051,-86.0248,39.773051",
     "geom:latitude":39.773051,
     "geom:longitude":-86.0248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8017 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354362937,
-    "wof:lastmodified":1449067067,
+    "wof:lastmodified":1466503396,
     "wof:name":"Divers Supply Indy",
     "wof:parent_id":85827165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.0248,39.773051,-86.0248,39.773051],
+  "bbox": [
+    -86.0248,
+    39.773051,
+    -86.0248,
+    39.773051
+],
   "geometry": {"coordinates":[-86.0248,39.773051],"type":"Point"}
 }

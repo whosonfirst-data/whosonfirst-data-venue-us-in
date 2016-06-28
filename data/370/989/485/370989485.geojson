@@ -2,13 +2,14 @@
   "id": 370989485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.821649,40.79254,-85.821649,40.79254",
     "geom:latitude":40.79254,
     "geom:longitude":-85.821649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 S Miami St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370989485,
-    "wof:lastmodified":1449031578,
+    "wof:lastmodified":1466503832,
     "wof:name":"Association-Retarded Citizens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dev"
     ]
 },
-  "bbox": [-85.821649,40.79254,-85.821649,40.79254],
-  "geometry": {"coordinates":[-85.821649,40.79254],"type":"Point"}
+  "bbox": [
+    -85.821649,
+    40.79254,
+    -85.821649,
+    40.79254
+],
+  "geometry": {"coordinates":[-85.82164899999999,40.79254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387722471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.919657,39.202356,-85.919657,39.202356",
     "geom:latitude":39.202356,
     "geom:longitude":-85.919657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Franklin St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387722471,
-    "wof:lastmodified":1449057433,
+    "wof:lastmodified":1466503872,
     "wof:name":"Columbus Pro Musica",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.919657,39.202356,-85.919657,39.202356],
+  "bbox": [
+    -85.919657,
+    39.202356,
+    -85.919657,
+    39.202356
+],
   "geometry": {"coordinates":[-85.919657,39.202356],"type":"Point"}
 }

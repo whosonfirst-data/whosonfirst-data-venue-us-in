@@ -2,13 +2,14 @@
   "id": 320349445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.063622,39.905206,-86.063622,39.905206",
     "geom:latitude":39.905206,
     "geom:longitude":-86.063622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320349445,
-    "wof:lastmodified":1449012691,
+    "wof:lastmodified":1466502989,
     "wof:name":"Gingiss Formalwear",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "formal"
     ]
 },
-  "bbox": [-86.063622,39.905206,-86.063622,39.905206],
+  "bbox": [
+    -86.063622,
+    39.905206,
+    -86.063622,
+    39.905206
+],
   "geometry": {"coordinates":[-86.063622,39.905206],"type":"Point"}
 }

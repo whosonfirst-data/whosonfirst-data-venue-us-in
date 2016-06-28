@@ -2,13 +2,14 @@
   "id": 403750619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.360345,39.508322,-87.360345,39.508322",
     "geom:latitude":39.508322,
     "geom:longitude":-87.360345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3555 N Fruitridge Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403750619,
-    "wof:lastmodified":1449055461,
+    "wof:lastmodified":1466502947,
     "wof:name":"Fort Harrison Truck Tire Ctr",
     "wof:parent_id":85814437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-87.360345,39.508322,-87.360345,39.508322],
+  "bbox": [
+    -87.360345,
+    39.508322,
+    -87.360345,
+    39.508322
+],
   "geometry": {"coordinates":[-87.360345,39.508322],"type":"Point"}
 }

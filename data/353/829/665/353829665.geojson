@@ -2,13 +2,14 @@
   "id": 353829665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.145753,39.842288,-86.145753,39.842288",
     "geom:latitude":39.842288,
     "geom:longitude":-86.145753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4842 N College Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353829665,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466503346,
     "wof:name":"Kitchens & Baths-Distinction",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-86.145753,39.842288,-86.145753,39.842288],
+  "bbox": [
+    -86.145753,
+    39.842288,
+    -86.145753,
+    39.842288
+],
   "geometry": {"coordinates":[-86.145753,39.842288],"type":"Point"}
 }

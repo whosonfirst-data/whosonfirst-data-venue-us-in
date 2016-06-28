@@ -2,13 +2,14 @@
   "id": 354144957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.428085,39.443139,-86.428085,39.443139",
     "geom:latitude":39.443139,
     "geom:longitude":-86.428085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 Blue Bluff Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354144957,
-    "wof:lastmodified":1449067212,
+    "wof:lastmodified":1466503058,
     "wof:name":"Dean Ellis Construction",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.428085,39.443139,-86.428085,39.443139],
+  "bbox": [
+    -86.428085,
+    39.443139,
+    -86.428085,
+    39.443139
+],
   "geometry": {"coordinates":[-86.428085,39.443139],"type":"Point"}
 }

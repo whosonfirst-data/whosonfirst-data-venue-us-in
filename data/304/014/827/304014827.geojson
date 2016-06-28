@@ -2,13 +2,14 @@
   "id": 304014827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.19635,41.074709,-85.19635,41.074709",
     "geom:latitude":41.074709,
     "geom:longitude":-85.19635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 Illinois Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":304014827,
-    "wof:lastmodified":1449043850,
+    "wof:lastmodified":1466503411,
     "wof:name":"American Health Fitness Ctr",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-85.19635,41.074709,-85.19635,41.074709],
+  "bbox": [
+    -85.19635,
+    41.074709,
+    -85.19635,
+    41.074709
+],
   "geometry": {"coordinates":[-85.19635,41.074709],"type":"Point"}
 }

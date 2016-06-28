@@ -2,13 +2,14 @@
   "id": 370820663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.510589,40.272011,-86.510589,40.272011",
     "geom:latitude":40.272011,
     "geom:longitude":-86.510589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Jackson St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370820663,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1466503612,
     "wof:name":"Ardente Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.510589,40.272011,-86.510589,40.272011],
+  "bbox": [
+    -86.510589,
+    40.272011,
+    -86.510589,
+    40.272011
+],
   "geometry": {"coordinates":[-86.510589,40.272011],"type":"Point"}
 }

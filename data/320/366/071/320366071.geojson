@@ -2,13 +2,14 @@
   "id": 320366071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.960143,39.312226,-85.960143,39.312226",
     "geom:latitude":39.312226,
     "geom:longitude":-85.960143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11606 NE Executive Dr",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320366071,
-    "wof:lastmodified":1449013981,
+    "wof:lastmodified":1466503006,
     "wof:name":"Gap Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.960143,39.312226,-85.960143,39.312226],
+  "bbox": [
+    -85.960143,
+    39.312226,
+    -85.960143,
+    39.312226
+],
   "geometry": {"coordinates":[-85.960143,39.312226],"type":"Point"}
 }

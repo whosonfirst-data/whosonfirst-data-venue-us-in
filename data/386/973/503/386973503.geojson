@@ -2,13 +2,14 @@
   "id": 386973503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.413214,41.549511,-87.413214,41.549511",
     "geom:latitude":41.549511,
     "geom:longitude":-87.413214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 E Ridge Rd",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386973503,
-    "wof:lastmodified":1449028820,
+    "wof:lastmodified":1466502945,
     "wof:name":"Repairer of Brach Mnstries Inc",
     "wof:parent_id":85853495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.413214,41.549511,-87.413214,41.549511],
+  "bbox": [
+    -87.413214,
+    41.549511,
+    -87.413214,
+    41.549511
+],
   "geometry": {"coordinates":[-87.413214,41.549511],"type":"Point"}
 }

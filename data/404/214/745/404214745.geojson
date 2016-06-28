@@ -2,13 +2,14 @@
   "id": 404214745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.433436,40.180823,-85.433436,40.180823",
     "geom:latitude":40.180823,
     "geom:longitude":-85.433436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 W Kilgore Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404214745,
-    "wof:lastmodified":1449040293,
+    "wof:lastmodified":1466503172,
     "wof:name":"Jay-Crew Landscaping Inc",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-85.433436,40.180823,-85.433436,40.180823],
+  "bbox": [
+    -85.433436,
+    40.180823,
+    -85.433436,
+    40.180823
+],
   "geometry": {"coordinates":[-85.433436,40.180823],"type":"Point"}
 }

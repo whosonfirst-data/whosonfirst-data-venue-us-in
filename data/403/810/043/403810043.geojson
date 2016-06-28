@@ -2,13 +2,14 @@
   "id": 403810043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.287854,39.828408,-86.287854,39.828408",
     "geom:latitude":39.828408,
     "geom:longitude":-86.287854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 Eagle Cove W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403810043,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466503035,
     "wof:name":"Tyler Lawn Care & Hauling Svc",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.287854,39.828408,-86.287854,39.828408],
+  "bbox": [
+    -86.287854,
+    39.828408,
+    -86.287854,
+    39.828408
+],
   "geometry": {"coordinates":[-86.287854,39.828408],"type":"Point"}
 }

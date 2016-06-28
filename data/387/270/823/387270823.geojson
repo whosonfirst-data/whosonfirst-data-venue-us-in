@@ -2,13 +2,14 @@
   "id": 387270823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.374828,40.218326,-85.374828,40.218326",
     "geom:latitude":40.218326,
     "geom:longitude":-85.374828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 N Granville Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387270823,
-    "wof:lastmodified":1449056779,
+    "wof:lastmodified":1466503262,
     "wof:name":"G G & M Hair & Beauty Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.374828,40.218326,-85.374828,40.218326],
-  "geometry": {"coordinates":[-85.374828,40.218326],"type":"Point"}
+  "bbox": [
+    -85.374828,
+    40.218326,
+    -85.374828,
+    40.218326
+],
+  "geometry": {"coordinates":[-85.37482799999999,40.218326],"type":"Point"}
 }

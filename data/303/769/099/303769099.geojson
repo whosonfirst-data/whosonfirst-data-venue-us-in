@@ -2,13 +2,14 @@
   "id": 303769099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.912134,39.214679,-85.912134,39.214679",
     "geom:latitude":39.214679,
     "geom:longitude":-85.912134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 16th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303769099,
-    "wof:lastmodified":1448998927,
+    "wof:lastmodified":1466503065,
     "wof:name":"Whitt's Repair Shop",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mower"
     ]
 },
-  "bbox": [-85.912134,39.214679,-85.912134,39.214679],
-  "geometry": {"coordinates":[-85.912134,39.214679],"type":"Point"}
+  "bbox": [
+    -85.912134,
+    39.214679,
+    -85.912134,
+    39.214679
+],
+  "geometry": {"coordinates":[-85.91213399999999,39.214679],"type":"Point"}
 }

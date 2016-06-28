@@ -2,13 +2,14 @@
   "id": 371173643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.68109,40.598195,-86.68109,40.598195",
     "geom:latitude":40.598195,
     "geom:longitude":-86.68109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 N Wells St",
     "sg:city":"Delphi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371173643,
-    "wof:lastmodified":1449049241,
+    "wof:lastmodified":1466503095,
     "wof:name":"Donnas Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "provider"
     ]
 },
-  "bbox": [-86.68109,40.598195,-86.68109,40.598195],
+  "bbox": [
+    -86.68109,
+    40.598195,
+    -86.68109,
+    40.598195
+],
   "geometry": {"coordinates":[-86.68109,40.598195],"type":"Point"}
 }

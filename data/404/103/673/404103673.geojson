@@ -2,13 +2,14 @@
   "id": 404103673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.163393,41.118608,-85.163393,41.118608",
     "geom:latitude":41.118608,
     "geom:longitude":-85.163393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Directors Row",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404103673,
-    "wof:lastmodified":1449039863,
+    "wof:lastmodified":1466503031,
     "wof:name":"H & H Firearms Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-85.163393,41.118608,-85.163393,41.118608],
+  "bbox": [
+    -85.163393,
+    41.118608,
+    -85.163393,
+    41.118608
+],
   "geometry": {"coordinates":[-85.163393,41.118608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353942323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082836,39.608314,-86.082836,39.608314",
     "geom:latitude":39.608314,
     "geom:longitude":-86.082836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"494 S Emerson Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353942323,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466503484,
     "wof:name":"Objtrx Corp",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-86.082836,39.608314,-86.082836,39.608314],
+  "bbox": [
+    -86.082836,
+    39.608314,
+    -86.082836,
+    39.608314
+],
   "geometry": {"coordinates":[-86.082836,39.608314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353651485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974609,39.855728,-85.974609,39.855728",
     "geom:latitude":39.855728,
     "geom:longitude":-85.974609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10833 E 56th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353651485,
-    "wof:lastmodified":1449018755,
+    "wof:lastmodified":1466503136,
     "wof:name":"Indian Creek Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974609,39.855728,-85.974609,39.855728],
+  "bbox": [
+    -85.974609,
+    39.855728,
+    -85.974609,
+    39.855728
+],
   "geometry": {"coordinates":[-85.974609,39.855728],"type":"Point"}
 }

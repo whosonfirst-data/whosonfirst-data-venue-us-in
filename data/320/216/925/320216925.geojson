@@ -2,13 +2,14 @@
   "id": 320216925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.357528,41.671911,-86.357528,41.671911",
     "geom:latitude":41.671911,
     "geom:longitude":-86.357528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25295 State Rd 2",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320216925,
-    "wof:lastmodified":1449014536,
+    "wof:lastmodified":1466503766,
     "wof:name":"Butternut Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-86.357528,41.671911,-86.357528,41.671911],
+  "bbox": [
+    -86.357528,
+    41.671911,
+    -86.357528,
+    41.671911
+],
   "geometry": {"coordinates":[-86.357528,41.671911],"type":"Point"}
 }

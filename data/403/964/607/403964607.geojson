@@ -2,13 +2,14 @@
   "id": 403964607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.809452,38.315627,-85.809452,38.315627",
     "geom:latitude":38.315627,
     "geom:longitude":-85.809452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1739 Houston St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403964607,
-    "wof:lastmodified":1449055629,
+    "wof:lastmodified":1466503252,
     "wof:name":"Kevin D Hendricks",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-85.809452,38.315627,-85.809452,38.315627],
-  "geometry": {"coordinates":[-85.809452,38.315627],"type":"Point"}
+  "bbox": [
+    -85.809452,
+    38.315627,
+    -85.809452,
+    38.315627
+],
+  "geometry": {"coordinates":[-85.80945199999999,38.315627],"type":"Point"}
 }

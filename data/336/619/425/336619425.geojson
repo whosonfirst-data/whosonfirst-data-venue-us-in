@@ -2,13 +2,14 @@
   "id": 336619425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.118416,39.901093,-86.118416,39.901093",
     "geom:latitude":39.901093,
     "geom:longitude":-86.118416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7955 White River Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336619425,
-    "wof:lastmodified":1448997135,
+    "wof:lastmodified":1466502908,
     "wof:name":"Cook's Tree Svc",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-86.118416,39.901093,-86.118416,39.901093],
+  "bbox": [
+    -86.118416,
+    39.901093,
+    -86.118416,
+    39.901093
+],
   "geometry": {"coordinates":[-86.118416,39.901093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.262419,39.851646,-86.262419,39.851646",
     "geom:latitude":39.851646,
     "geom:longitude":-86.262419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387725469,
-    "wof:lastmodified":1449057031,
+    "wof:lastmodified":1466503878,
     "wof:name":"Charter One Bank",
     "wof:parent_id":85849167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.262419,39.851646,-86.262419,39.851646],
-  "geometry": {"coordinates":[-86.262419,39.851646],"type":"Point"}
+  "bbox": [
+    -86.262419,
+    39.851646,
+    -86.262419,
+    39.851646
+],
+  "geometry": {"coordinates":[-86.26241899999999,39.851646],"type":"Point"}
 }

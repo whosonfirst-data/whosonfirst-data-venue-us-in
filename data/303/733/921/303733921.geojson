@@ -2,13 +2,14 @@
   "id": 303733921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198615,39.861746,-86.198615,39.861746",
     "geom:latitude":39.861746,
     "geom:longitude":-86.198615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5957 N Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303733921,
-    "wof:lastmodified":1448998459,
+    "wof:lastmodified":1466503028,
     "wof:name":"Fresh Kutz Barber Shop",
     "wof:parent_id":85822489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.198615,39.861746,-86.198615,39.861746],
+  "bbox": [
+    -86.198615,
+    39.861746,
+    -86.198615,
+    39.861746
+],
   "geometry": {"coordinates":[-86.198615,39.861746],"type":"Point"}
 }

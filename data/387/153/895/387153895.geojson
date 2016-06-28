@@ -2,13 +2,14 @@
   "id": 387153895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.488778,39.18511,-86.488778,39.18511",
     "geom:latitude":39.18511,
     "geom:longitude":-86.488778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Devonshire Ln",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387153895,
-    "wof:lastmodified":1449058730,
+    "wof:lastmodified":1466503100,
     "wof:name":"G R Wood Inc",
     "wof:parent_id":85816979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-86.488778,39.18511,-86.488778,39.18511],
+  "bbox": [
+    -86.488778,
+    39.18511,
+    -86.488778,
+    39.18511
+],
   "geometry": {"coordinates":[-86.488778,39.18511],"type":"Point"}
 }

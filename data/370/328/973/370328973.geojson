@@ -2,13 +2,14 @@
   "id": 370328973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.806235,41.633166,-85.806235,41.633166",
     "geom:latitude":41.633166,
     "geom:longitude":-85.806235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59329 Co Rd 27",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370328973,
-    "wof:lastmodified":1449031070,
+    "wof:lastmodified":1466503106,
     "wof:name":"E & E Controls Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-85.806235,41.633166,-85.806235,41.633166],
+  "bbox": [
+    -85.806235,
+    41.633166,
+    -85.806235,
+    41.633166
+],
   "geometry": {"coordinates":[-85.806235,41.633166],"type":"Point"}
 }

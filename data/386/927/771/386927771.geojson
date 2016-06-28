@@ -2,13 +2,14 @@
   "id": 386927771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104358,39.708655,-86.104358,39.708655",
     "geom:latitude":39.708655,
     "geom:longitude":-86.104358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 E Hanna Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386927771,
-    "wof:lastmodified":1449028941,
+    "wof:lastmodified":1466503794,
     "wof:name":"Altenheim Community",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-86.104358,39.708655,-86.104358,39.708655],
+  "bbox": [
+    -86.104358,
+    39.708655,
+    -86.104358,
+    39.708655
+],
   "geometry": {"coordinates":[-86.104358,39.708655],"type":"Point"}
 }

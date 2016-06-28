@@ -2,13 +2,14 @@
   "id": 370198181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.405194,39.708404,-86.405194,39.708404",
     "geom:latitude":39.708404,
     "geom:longitude":-86.405194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Mill St",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370198181,
-    "wof:lastmodified":1449030314,
+    "wof:lastmodified":1466502946,
     "wof:name":"Plainfield Teenage Baseball Lg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "baseball"
     ]
 },
-  "bbox": [-86.405194,39.708404,-86.405194,39.708404],
-  "geometry": {"coordinates":[-86.405194,39.708404],"type":"Point"}
+  "bbox": [
+    -86.405194,
+    39.708404,
+    -86.405194,
+    39.708404
+],
+  "geometry": {"coordinates":[-86.40519399999999,39.708404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387070149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.376962,37.960956,-87.376962,37.960956",
     "geom:latitude":37.960956,
     "geom:longitude":-87.376962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5033 New York",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387070149,
-    "wof:lastmodified":1449057956,
+    "wof:lastmodified":1466502979,
     "wof:name":"M-R Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.376962,37.960956,-87.376962,37.960956],
-  "geometry": {"coordinates":[-87.376962,37.960956],"type":"Point"}
+  "bbox": [
+    -87.376962,
+    37.960956,
+    -87.376962,
+    37.960956
+],
+  "geometry": {"coordinates":[-87.37696200000001,37.960956],"type":"Point"}
 }

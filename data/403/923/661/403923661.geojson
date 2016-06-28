@@ -2,13 +2,14 @@
   "id": 403923661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.94537,41.061498,-85.94537,41.061498",
     "geom:latitude":41.061498,
     "geom:longitude":-85.94537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11706 S 600 W",
     "sg:city":"Silver Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403923661,
-    "wof:lastmodified":1449055908,
+    "wof:lastmodified":1466503192,
     "wof:name":"Country Welding LLC",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.94537,41.061498,-85.94537,41.061498],
+  "bbox": [
+    -85.94537,
+    41.061498,
+    -85.94537,
+    41.061498
+],
   "geometry": {"coordinates":[-85.94537,41.061498],"type":"Point"}
 }

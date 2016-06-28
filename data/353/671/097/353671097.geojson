@@ -2,13 +2,14 @@
   "id": 353671097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.165735,38.129082,-87.165735,38.129082",
     "geom:latitude":38.129082,
     "geom:longitude":-87.165735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6722 Folsomville Rd",
     "sg:city":"Folsomville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353671097,
-    "wof:lastmodified":1449018840,
+    "wof:lastmodified":1466503156,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.165735,38.129082,-87.165735,38.129082],
+  "bbox": [
+    -87.165735,
+    38.129082,
+    -87.165735,
+    38.129082
+],
   "geometry": {"coordinates":[-87.165735,38.129082],"type":"Point"}
 }

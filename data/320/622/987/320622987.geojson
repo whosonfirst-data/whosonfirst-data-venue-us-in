@@ -2,13 +2,14 @@
   "id": 320622987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461531,41.596974,-87.461531,41.596974",
     "geom:latitude":41.596974,
     "geom:longitude":-87.461531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320622987,
-    "wof:lastmodified":1449014294,
+    "wof:lastmodified":1466503329,
     "wof:name":"Labor Management Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-87.461531,41.596974,-87.461531,41.596974],
-  "geometry": {"coordinates":[-87.461531,41.596974],"type":"Point"}
+  "bbox": [
+    -87.461531,
+    41.596974,
+    -87.461531,
+    41.596974
+],
+  "geometry": {"coordinates":[-87.46153099999999,41.596974],"type":"Point"}
 }

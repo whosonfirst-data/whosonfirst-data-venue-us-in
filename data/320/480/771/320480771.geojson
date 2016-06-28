@@ -2,13 +2,14 @@
   "id": 320480771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.014259,40.045529,-86.014259,40.045529",
     "geom:latitude":40.045529,
     "geom:longitude":-86.014259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Conner St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320480771,
-    "wof:lastmodified":1449012491,
+    "wof:lastmodified":1466503158,
     "wof:name":"Curran Architecture",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.014259,40.045529,-86.014259,40.045529],
+  "bbox": [
+    -86.014259,
+    40.045529,
+    -86.014259,
+    40.045529
+],
   "geometry": {"coordinates":[-86.014259,40.045529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303279005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.191124,39.636257,-86.191124,39.636257",
     "geom:latitude":39.636257,
     "geom:longitude":-86.191124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8823 Rocky Ridge Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303279005,
-    "wof:lastmodified":1448999243,
+    "wof:lastmodified":1466503812,
     "wof:name":"Hurricane Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-86.191124,39.636257,-86.191124,39.636257],
+  "bbox": [
+    -86.191124,
+    39.636257,
+    -86.191124,
+    39.636257
+],
   "geometry": {"coordinates":[-86.191124,39.636257],"type":"Point"}
 }

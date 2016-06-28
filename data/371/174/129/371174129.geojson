@@ -2,13 +2,14 @@
   "id": 371174129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.358086,39.610809,-86.358086,39.610809",
     "geom:latitude":39.610809,
     "geom:longitude":-86.358086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 State Rd 67",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371174129,
-    "wof:lastmodified":1449049157,
+    "wof:lastmodified":1466503096,
     "wof:name":"Angel Nails",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-86.358086,39.610809,-86.358086,39.610809],
+  "bbox": [
+    -86.358086,
+    39.610809,
+    -86.358086,
+    39.610809
+],
   "geometry": {"coordinates":[-86.358086,39.610809],"type":"Point"}
 }

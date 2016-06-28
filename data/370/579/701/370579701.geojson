@@ -2,13 +2,14 @@
   "id": 370579701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.137899,41.078556,-85.137899,41.078556",
     "geom:latitude":41.078556,
     "geom:longitude":-85.137899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Wayne St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370579701,
-    "wof:lastmodified":1449030175,
+    "wof:lastmodified":1466503370,
     "wof:name":"Schenkel Shultz",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.137899,41.078556,-85.137899,41.078556],
+  "bbox": [
+    -85.137899,
+    41.078556,
+    -85.137899,
+    41.078556
+],
   "geometry": {"coordinates":[-85.137899,41.078556],"type":"Point"}
 }

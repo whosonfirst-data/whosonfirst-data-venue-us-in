@@ -2,13 +2,14 @@
   "id": 353748047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.408458,39.095361,-87.408458,39.095361",
     "geom:latitude":39.095361,
     "geom:longitude":-87.408458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 S Court St",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353748047,
-    "wof:lastmodified":1449020164,
+    "wof:lastmodified":1466503245,
     "wof:name":"Brown Jewelry Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-87.408458,39.095361,-87.408458,39.095361],
+  "bbox": [
+    -87.408458,
+    39.095361,
+    -87.408458,
+    39.095361
+],
   "geometry": {"coordinates":[-87.408458,39.095361],"type":"Point"}
 }

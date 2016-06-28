@@ -2,13 +2,14 @@
   "id": 354363081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.899529,38.389442,-85.899529,38.389442",
     "geom:latitude":38.389442,
     "geom:longitude":-85.899529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4977 Hanka Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354363081,
-    "wof:lastmodified":1449067464,
+    "wof:lastmodified":1466503396,
     "wof:name":"Imaginary Interiors Inc",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.899529,38.389442,-85.899529,38.389442],
+  "bbox": [
+    -85.899529,
+    38.389442,
+    -85.899529,
+    38.389442
+],
   "geometry": {"coordinates":[-85.899529,38.389442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353544711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.921218,39.750121,-84.921218,39.750121",
     "geom:latitude":39.750121,
     "geom:longitude":-84.921218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 Esteb Rd",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353544711,
-    "wof:lastmodified":1449020793,
+    "wof:lastmodified":1466503005,
     "wof:name":"Shady Hill Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-84.921218,39.750121,-84.921218,39.750121],
+  "bbox": [
+    -84.921218,
+    39.750121,
+    -84.921218,
+    39.750121
+],
   "geometry": {"coordinates":[-84.921218,39.750121],"type":"Point"}
 }

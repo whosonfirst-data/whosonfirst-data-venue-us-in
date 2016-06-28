@@ -2,13 +2,14 @@
   "id": 336876357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040322,40.282108,-86.040322,40.282108",
     "geom:latitude":40.282108,
     "geom:longitude":-86.040322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Court St",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336876357,
-    "wof:lastmodified":1448997168,
+    "wof:lastmodified":1466503243,
     "wof:name":"Tipton Municipal Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-86.040322,40.282108,-86.040322,40.282108],
+  "bbox": [
+    -86.040322,
+    40.282108,
+    -86.040322,
+    40.282108
+],
   "geometry": {"coordinates":[-86.040322,40.282108],"type":"Point"}
 }

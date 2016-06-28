@@ -2,13 +2,14 @@
   "id": 354140669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062264,41.134177,-85.062264,41.134177",
     "geom:latitude":41.134177,
     "geom:longitude":-85.062264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Maplecrest Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354140669,
-    "wof:lastmodified":1449066171,
+    "wof:lastmodified":1466503050,
     "wof:name":"Peerless Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-85.062264,41.134177,-85.062264,41.134177],
+  "bbox": [
+    -85.062264,
+    41.134177,
+    -85.062264,
+    41.134177
+],
   "geometry": {"coordinates":[-85.062264,41.134177],"type":"Point"}
 }

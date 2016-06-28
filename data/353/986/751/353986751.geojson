@@ -2,13 +2,14 @@
   "id": 353986751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.165807,40.775765,-85.165807,40.775765",
     "geom:latitude":40.775765,
     "geom:longitude":-85.165807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2268 N State Rd 1",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353986751,
-    "wof:lastmodified":1449020327,
+    "wof:lastmodified":1466503538,
     "wof:name":"Leman's Sign City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.165807,40.775765,-85.165807,40.775765],
+  "bbox": [
+    -85.165807,
+    40.775765,
+    -85.165807,
+    40.775765
+],
   "geometry": {"coordinates":[-85.165807,40.775765],"type":"Point"}
 }

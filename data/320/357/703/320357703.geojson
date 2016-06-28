@@ -2,13 +2,14 @@
   "id": 320357703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.374742,41.583425,-87.374742,41.583425",
     "geom:latitude":41.583425,
     "geom:longitude":-87.374742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 W 19th Pl",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320357703,
-    "wof:lastmodified":1449014505,
+    "wof:lastmodified":1466502998,
     "wof:name":"Air-Rich Cooling & Heating Inc",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.374742,41.583425,-87.374742,41.583425],
+  "bbox": [
+    -87.374742,
+    41.583425,
+    -87.374742,
+    41.583425
+],
   "geometry": {"coordinates":[-87.374742,41.583425],"type":"Point"}
 }

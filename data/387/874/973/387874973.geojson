@@ -2,13 +2,14 @@
   "id": 387874973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.138488,38.227841,-86.138488,38.227841",
     "geom:latitude":38.227841,
     "geom:longitude":-86.138488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Gardner Ln NW",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387874973,
-    "wof:lastmodified":1449059675,
+    "wof:lastmodified":1466504089,
     "wof:name":"PACT Hoosier Hills",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-86.138488,38.227841,-86.138488,38.227841],
+  "bbox": [
+    -86.138488,
+    38.227841,
+    -86.138488,
+    38.227841
+],
   "geometry": {"coordinates":[-86.138488,38.227841],"type":"Point"}
 }

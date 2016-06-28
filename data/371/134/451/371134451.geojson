@@ -2,13 +2,14 @@
   "id": 371134451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.76772,38.29213,-85.76772,38.29213",
     "geom:latitude":38.29213,
     "geom:longitude":-85.76772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Clark Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371134451,
-    "wof:lastmodified":1449050092,
+    "wof:lastmodified":1466503041,
     "wof:name":"Greentree Subaru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.76772,38.29213,-85.76772,38.29213],
+  "bbox": [
+    -85.76772,
+    38.29213,
+    -85.76772,
+    38.29213
+],
   "geometry": {"coordinates":[-85.76772,38.29213],"type":"Point"}
 }

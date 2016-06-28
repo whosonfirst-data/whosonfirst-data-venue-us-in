@@ -2,13 +2,14 @@
   "id": 303638305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563927,37.983721,-87.563927,37.983721",
     "geom:latitude":37.983721,
     "geom:longitude":-87.563927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N Main St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303638305,
-    "wof:lastmodified":1448998253,
+    "wof:lastmodified":1466502913,
     "wof:name":"R W Vickers Radio & TV Sales",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-87.563927,37.983721,-87.563927,37.983721],
-  "geometry": {"coordinates":[-87.563927,37.983721],"type":"Point"}
+  "bbox": [
+    -87.563927,
+    37.983721,
+    -87.563927,
+    37.983721
+],
+  "geometry": {"coordinates":[-87.56392700000001,37.983721],"type":"Point"}
 }

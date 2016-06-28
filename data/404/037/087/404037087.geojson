@@ -2,13 +2,14 @@
   "id": 404037087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.245917,39.925933,-86.245917,39.925933",
     "geom:latitude":39.925933,
     "geom:longitude":-86.245917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 W 96th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404037087,
-    "wof:lastmodified":1449040343,
+    "wof:lastmodified":1466502931,
     "wof:name":"Kruse Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-86.245917,39.925933,-86.245917,39.925933],
-  "geometry": {"coordinates":[-86.245917,39.925933],"type":"Point"}
+  "bbox": [
+    -86.245917,
+    39.925933,
+    -86.245917,
+    39.925933
+],
+  "geometry": {"coordinates":[-86.24591700000001,39.925933],"type":"Point"}
 }

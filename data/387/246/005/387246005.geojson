@@ -2,13 +2,14 @@
   "id": 387246005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.085489,39.868734,-86.085489,39.868734",
     "geom:latitude":39.868734,
     "geom:longitude":-86.085489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5060 E 62nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387246005,
-    "wof:lastmodified":1449056369,
+    "wof:lastmodified":1466503234,
     "wof:name":"Automated Laser Svc",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.085489,39.868734,-86.085489,39.868734],
+  "bbox": [
+    -86.085489,
+    39.868734,
+    -86.085489,
+    39.868734
+],
   "geometry": {"coordinates":[-86.085489,39.868734],"type":"Point"}
 }

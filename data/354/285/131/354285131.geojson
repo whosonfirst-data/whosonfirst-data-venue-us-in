@@ -2,13 +2,14 @@
   "id": 354285131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077838,39.701345,-86.077838,39.701345",
     "geom:latitude":39.701345,
     "geom:longitude":-86.077838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4627 Independence Sq",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354285131,
-    "wof:lastmodified":1449065988,
+    "wof:lastmodified":1466503268,
     "wof:name":"Machine Tool Capital",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-86.077838,39.701345,-86.077838,39.701345],
+  "bbox": [
+    -86.077838,
+    39.701345,
+    -86.077838,
+    39.701345
+],
   "geometry": {"coordinates":[-86.077838,39.701345],"type":"Point"}
 }

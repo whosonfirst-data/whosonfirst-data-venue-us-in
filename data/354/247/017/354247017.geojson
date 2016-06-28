@@ -2,13 +2,14 @@
   "id": 354247017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.857606,41.544171,-85.857606,41.544171",
     "geom:latitude":41.544171,
     "geom:longitude":-85.857606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20544 Co Rd 138",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354247017,
-    "wof:lastmodified":1449066939,
+    "wof:lastmodified":1466503205,
     "wof:name":"Advancing Geometrics",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.857606,41.544171,-85.857606,41.544171],
+  "bbox": [
+    -85.857606,
+    41.544171,
+    -85.857606,
+    41.544171
+],
   "geometry": {"coordinates":[-85.857606,41.544171],"type":"Point"}
 }

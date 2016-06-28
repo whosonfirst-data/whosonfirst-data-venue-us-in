@@ -2,13 +2,14 @@
   "id": 370817607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254556,41.657152,-86.254556,41.657152",
     "geom:latitude":41.657152,
     "geom:longitude":-86.254556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Franklin St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370817607,
-    "wof:lastmodified":1449031815,
+    "wof:lastmodified":1466503609,
     "wof:name":"Marsh Building Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-86.254556,41.657152,-86.254556,41.657152],
-  "geometry": {"coordinates":[-86.254556,41.657152],"type":"Point"}
+  "bbox": [
+    -86.254556,
+    41.657152,
+    -86.254556,
+    41.657152
+],
+  "geometry": {"coordinates":[-86.25455599999999,41.657152],"type":"Point"}
 }

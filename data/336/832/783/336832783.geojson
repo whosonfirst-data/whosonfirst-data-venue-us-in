@@ -2,13 +2,14 @@
   "id": 336832783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.218071,41.662373,-86.218071,41.662373",
     "geom:latitude":41.662373,
     "geom:longitude":-86.218071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Northside Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336832783,
-    "wof:lastmodified":1448996923,
+    "wof:lastmodified":1466503192,
     "wof:name":"Indiana University Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-86.218071,41.662373,-86.218071,41.662373],
-  "geometry": {"coordinates":[-86.218071,41.662373],"type":"Point"}
+  "bbox": [
+    -86.218071,
+    41.662373,
+    -86.218071,
+    41.662373
+],
+  "geometry": {"coordinates":[-86.21807099999999,41.662373],"type":"Point"}
 }

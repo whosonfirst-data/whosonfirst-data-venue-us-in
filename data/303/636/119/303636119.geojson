@@ -2,13 +2,14 @@
   "id": 303636119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250064,41.666221,-86.250064,41.666221",
     "geom:latitude":41.666221,
     "geom:longitude":-86.250064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 S Michigan St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303636119,
-    "wof:lastmodified":1448999091,
+    "wof:lastmodified":1466502911,
     "wof:name":"And Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-86.250064,41.666221,-86.250064,41.666221],
-  "geometry": {"coordinates":[-86.250064,41.666221],"type":"Point"}
+  "bbox": [
+    -86.250064,
+    41.666221,
+    -86.250064,
+    41.666221
+],
+  "geometry": {"coordinates":[-86.25006399999999,41.666221],"type":"Point"}
 }

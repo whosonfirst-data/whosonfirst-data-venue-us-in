@@ -2,13 +2,14 @@
   "id": 387624931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.394818,39.470456,-87.394818,39.470456",
     "geom:latitude":39.470456,
     "geom:longitude":-87.394818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Chestnut St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387624931,
-    "wof:lastmodified":1449058722,
+    "wof:lastmodified":1466503748,
     "wof:name":"Spay-Neuter League Inc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.394818,39.470456,-87.394818,39.470456],
+  "bbox": [
+    -87.394818,
+    39.470456,
+    -87.394818,
+    39.470456
+],
   "geometry": {"coordinates":[-87.394818,39.470456],"type":"Point"}
 }

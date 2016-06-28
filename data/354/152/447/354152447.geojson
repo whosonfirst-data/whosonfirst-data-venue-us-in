@@ -2,13 +2,14 @@
   "id": 354152447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.522005,41.612945,-87.522005,41.612945",
     "geom:latitude":41.612945,
     "geom:longitude":-87.522005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Hohman Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354152447,
-    "wof:lastmodified":1449067241,
+    "wof:lastmodified":1466503064,
     "wof:name":"Patrick A Pontee MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.522005,41.612945,-87.522005,41.612945],
-  "geometry": {"coordinates":[-87.522005,41.612945],"type":"Point"}
+  "bbox": [
+    -87.522005,
+    41.612945,
+    -87.522005,
+    41.612945
+],
+  "geometry": {"coordinates":[-87.52200499999999,41.612945],"type":"Point"}
 }

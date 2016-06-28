@@ -2,13 +2,14 @@
   "id": 303707299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.26261,39.371338,-86.26261,39.371338",
     "geom:latitude":39.371338,
     "geom:longitude":-86.26261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 W Washington St",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303707299,
-    "wof:lastmodified":1449000176,
+    "wof:lastmodified":1466502995,
     "wof:name":"Olde Vault Building",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.26261,39.371338,-86.26261,39.371338],
+  "bbox": [
+    -86.26261,
+    39.371338,
+    -86.26261,
+    39.371338
+],
   "geometry": {"coordinates":[-86.26261,39.371338],"type":"Point"}
 }

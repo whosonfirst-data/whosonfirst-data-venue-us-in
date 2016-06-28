@@ -2,13 +2,14 @@
   "id": 404180647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.519677,39.134397,-86.519677,39.134397",
     "geom:latitude":39.134397,
     "geom:longitude":-86.519677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3233 Acadia Ct",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404180647,
-    "wof:lastmodified":1449039115,
+    "wof:lastmodified":1466503128,
     "wof:name":"Christole Inc",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.519677,39.134397,-86.519677,39.134397],
+  "bbox": [
+    -86.519677,
+    39.134397,
+    -86.519677,
+    39.134397
+],
   "geometry": {"coordinates":[-86.519677,39.134397],"type":"Point"}
 }

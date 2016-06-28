@@ -2,13 +2,14 @@
   "id": 303726793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.743401,38.309523,-85.743401,38.309523",
     "geom:latitude":38.309523,
     "geom:longitude":-85.743401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Sunshine Ln",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303726793,
-    "wof:lastmodified":1448999791,
+    "wof:lastmodified":1466503019,
     "wof:name":"Gehring Properties",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.743401,38.309523,-85.743401,38.309523],
-  "geometry": {"coordinates":[-85.743401,38.309523],"type":"Point"}
+  "bbox": [
+    -85.743401,
+    38.309523,
+    -85.743401,
+    38.309523
+],
+  "geometry": {"coordinates":[-85.74340100000001,38.309523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303759751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.14348,39.76308,-86.14348,39.76308",
     "geom:latitude":39.76308,
     "geom:longitude":-86.14348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Bates St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303759751,
-    "wof:lastmodified":1449000600,
+    "wof:lastmodified":1466503054,
     "wof:name":"Tammy's Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.14348,39.76308,-86.14348,39.76308],
+  "bbox": [
+    -86.14348,
+    39.76308,
+    -86.14348,
+    39.76308
+],
   "geometry": {"coordinates":[-86.14348,39.76308],"type":"Point"}
 }

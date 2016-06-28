@@ -2,13 +2,14 @@
   "id": 354393653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.081687,41.599568,-87.081687,41.599568",
     "geom:latitude":41.599568,
     "geom:longitude":-87.081687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2382 Idaho St",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354393653,
-    "wof:lastmodified":1449066447,
+    "wof:lastmodified":1466503437,
     "wof:name":"Destined 4 Art",
     "wof:parent_id":85856849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.081687,41.599568,-87.081687,41.599568],
+  "bbox": [
+    -87.081687,
+    41.599568,
+    -87.081687,
+    41.599568
+],
   "geometry": {"coordinates":[-87.081687,41.599568],"type":"Point"}
 }

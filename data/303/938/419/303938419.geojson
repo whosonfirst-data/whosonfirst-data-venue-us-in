@@ -2,13 +2,14 @@
   "id": 303938419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.086376,39.652575,-86.086376,39.652575",
     "geom:latitude":39.652575,
     "geom:longitude":-86.086376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7824 Lovage Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303938419,
-    "wof:lastmodified":1448999943,
+    "wof:lastmodified":1466503290,
     "wof:name":"Dorel A Hunt Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.086376,39.652575,-86.086376,39.652575],
+  "bbox": [
+    -86.086376,
+    39.652575,
+    -86.086376,
+    39.652575
+],
   "geometry": {"coordinates":[-86.086376,39.652575],"type":"Point"}
 }

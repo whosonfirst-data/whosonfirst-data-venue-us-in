@@ -2,13 +2,14 @@
   "id": 303377003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.921887,41.680471,-86.921887,41.680471",
     "geom:latitude":41.680471,
     "geom:longitude":-86.921887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 W US Hwy 20",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303377003,
-    "wof:lastmodified":1448999037,
+    "wof:lastmodified":1466503816,
     "wof:name":"Innovative Custom Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-86.921887,41.680471,-86.921887,41.680471],
+  "bbox": [
+    -86.921887,
+    41.680471,
+    -86.921887,
+    41.680471
+],
   "geometry": {"coordinates":[-86.921887,41.680471],"type":"Point"}
 }

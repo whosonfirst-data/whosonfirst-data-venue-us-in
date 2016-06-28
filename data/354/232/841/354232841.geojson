@@ -2,13 +2,14 @@
   "id": 354232841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764346,38.302536,-85.764346,38.302536",
     "geom:latitude":38.302536,
     "geom:longitude":-85.764346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Eastern Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354232841,
-    "wof:lastmodified":1449066459,
+    "wof:lastmodified":1466503188,
     "wof:name":"Wash-O-Rama Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.764346,38.302536,-85.764346,38.302536],
+  "bbox": [
+    -85.764346,
+    38.302536,
+    -85.764346,
+    38.302536
+],
   "geometry": {"coordinates":[-85.764346,38.302536],"type":"Point"}
 }

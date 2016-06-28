@@ -2,13 +2,14 @@
   "id": 319917471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.96834,39.352398,-85.96834,39.352398",
     "geom:latitude":39.352398,
     "geom:longitude":-85.96834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Campbell St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319917471,
-    "wof:lastmodified":1449024780,
+    "wof:lastmodified":1466503601,
     "wof:name":"Pile Design & Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-85.96834,39.352398,-85.96834,39.352398],
+  "bbox": [
+    -85.96834,
+    39.352398,
+    -85.96834,
+    39.352398
+],
   "geometry": {"coordinates":[-85.96834,39.352398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354367027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.175578,39.775274,-86.175578,39.775274",
     "geom:latitude":39.775274,
     "geom:longitude":-86.175578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 University Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354367027,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1466503400,
     "wof:name":"University Hospitol",
     "wof:parent_id":85866223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-86.175578,39.775274,-86.175578,39.775274],
+  "bbox": [
+    -86.175578,
+    39.775274,
+    -86.175578,
+    39.775274
+],
   "geometry": {"coordinates":[-86.175578,39.775274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320245925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.529609,40.538895,-86.529609,40.538895",
     "geom:latitude":40.538895,
     "geom:longitude":-86.529609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Sycamore St",
     "sg:city":"Flora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320245925,
-    "wof:lastmodified":1449014836,
+    "wof:lastmodified":1466503776,
     "wof:name":"Jackson-Lee-Pearson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-86.529609,40.538895,-86.529609,40.538895],
-  "geometry": {"coordinates":[-86.529609,40.538895],"type":"Point"}
+  "bbox": [
+    -86.529609,
+    40.538895,
+    -86.529609,
+    40.538895
+],
+  "geometry": {"coordinates":[-86.52960899999999,40.538895],"type":"Point"}
 }

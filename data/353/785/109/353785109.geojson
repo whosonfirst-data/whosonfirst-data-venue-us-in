@@ -2,13 +2,14 @@
   "id": 353785109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.478457,41.5778,-87.478457,41.5778",
     "geom:latitude":41.5778,
     "geom:longitude":-87.478457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7316 Knickerbocker Pkwy",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353785109,
-    "wof:lastmodified":1449020385,
+    "wof:lastmodified":1466503291,
     "wof:name":"Action Heating & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.478457,41.5778,-87.478457,41.5778],
-  "geometry": {"coordinates":[-87.478457,41.5778],"type":"Point"}
+  "bbox": [
+    -87.478457,
+    41.5778,
+    -87.478457,
+    41.5778
+],
+  "geometry": {"coordinates":[-87.47845700000001,41.5778],"type":"Point"}
 }

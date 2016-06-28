@@ -2,13 +2,14 @@
   "id": 336740057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.381705,40.209741,-85.381705,40.209741",
     "geom:latitude":40.209741,
     "geom:longitude":-85.381705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 N Granville Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336740057,
-    "wof:lastmodified":1448997442,
+    "wof:lastmodified":1466503067,
     "wof:name":"Coovert Heating & Air Cond Inc",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.381705,40.209741,-85.381705,40.209741],
+  "bbox": [
+    -85.381705,
+    40.209741,
+    -85.381705,
+    40.209741
+],
   "geometry": {"coordinates":[-85.381705,40.209741],"type":"Point"}
 }

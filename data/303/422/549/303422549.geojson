@@ -2,13 +2,14 @@
   "id": 303422549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.906244,41.314014,-84.906244,41.314014",
     "geom:latitude":41.314014,
     "geom:longitude":-84.906244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Spencer St",
     "sg:city":"St Joe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303422549,
-    "wof:lastmodified":1448998290,
+    "wof:lastmodified":1466503673,
     "wof:name":"Accurate Accounting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-84.906244,41.314014,-84.906244,41.314014],
+  "bbox": [
+    -84.906244,
+    41.314014,
+    -84.906244,
+    41.314014
+],
   "geometry": {"coordinates":[-84.906244,41.314014],"type":"Point"}
 }

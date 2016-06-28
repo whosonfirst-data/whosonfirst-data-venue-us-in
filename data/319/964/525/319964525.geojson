@@ -2,13 +2,14 @@
   "id": 319964525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.102953,39.909411,-86.102953,39.909411",
     "geom:latitude":39.909411,
     "geom:longitude":-86.102953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319964525,
-    "wof:lastmodified":1449024683,
+    "wof:lastmodified":1466503624,
     "wof:name":"Realty Group Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.102953,39.909411,-86.102953,39.909411],
+  "bbox": [
+    -86.102953,
+    39.909411,
+    -86.102953,
+    39.909411
+],
   "geometry": {"coordinates":[-86.102953,39.909411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320173161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.489311,40.278854,-86.489311,40.278854",
     "geom:latitude":40.278854,
     "geom:longitude":-86.489311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E Wabash St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320173161,
-    "wof:lastmodified":1449011978,
+    "wof:lastmodified":1466503743,
     "wof:name":"Wright's Computers & Conslnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.489311,40.278854,-86.489311,40.278854],
+  "bbox": [
+    -86.489311,
+    40.278854,
+    -86.489311,
+    40.278854
+],
   "geometry": {"coordinates":[-86.489311,40.278854],"type":"Point"}
 }

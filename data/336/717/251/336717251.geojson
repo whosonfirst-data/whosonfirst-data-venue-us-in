@@ -2,13 +2,14 @@
   "id": 336717251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.573063,37.973866,-87.573063,37.973866",
     "geom:latitude":37.973866,
     "geom:longitude":-87.573063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 NW 4th St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336717251,
-    "wof:lastmodified":1448996939,
+    "wof:lastmodified":1466503038,
     "wof:name":"Heartstrings School Of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-87.573063,37.973866,-87.573063,37.973866],
+  "bbox": [
+    -87.573063,
+    37.973866,
+    -87.573063,
+    37.973866
+],
   "geometry": {"coordinates":[-87.573063,37.973866],"type":"Point"}
 }

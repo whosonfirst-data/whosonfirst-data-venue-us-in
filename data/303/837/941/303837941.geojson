@@ -2,13 +2,14 @@
   "id": 303837941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.155361,39.765651,-86.155361,39.765651",
     "geom:latitude":39.765651,
     "geom:longitude":-86.155361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Maryland St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303837941,
-    "wof:lastmodified":1448998501,
+    "wof:lastmodified":1466503152,
     "wof:name":"419 Associates",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-86.155361,39.765651,-86.155361,39.765651],
+  "bbox": [
+    -86.155361,
+    39.765651,
+    -86.155361,
+    39.765651
+],
   "geometry": {"coordinates":[-86.155361,39.765651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320484081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.902718,39.057071,-84.902718,39.057071",
     "geom:latitude":39.057071,
     "geom:longitude":-84.902718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 2nd St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320484081,
-    "wof:lastmodified":1449014743,
+    "wof:lastmodified":1466503163,
     "wof:name":"Jacobsens Sporting Goods",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.902718,39.057071,-84.902718,39.057071],
-  "geometry": {"coordinates":[-84.902718,39.057071],"type":"Point"}
+  "bbox": [
+    -84.902718,
+    39.057071,
+    -84.902718,
+    39.057071
+],
+  "geometry": {"coordinates":[-84.90271799999999,39.057071],"type":"Point"}
 }

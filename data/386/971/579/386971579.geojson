@@ -2,13 +2,14 @@
   "id": 386971579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.262308,40.111193,-87.262308,40.111193",
     "geom:latitude":40.111193,
     "geom:longitude":-87.262308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Washington St",
     "sg:city":"Veedersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386971579,
-    "wof:lastmodified":1449028788,
+    "wof:lastmodified":1466502943,
     "wof:name":"Veedersburg Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-87.262308,40.111193,-87.262308,40.111193],
+  "bbox": [
+    -87.262308,
+    40.111193,
+    -87.262308,
+    40.111193
+],
   "geometry": {"coordinates":[-87.262308,40.111193],"type":"Point"}
 }

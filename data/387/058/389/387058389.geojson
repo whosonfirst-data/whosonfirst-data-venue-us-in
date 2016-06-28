@@ -2,13 +2,14 @@
   "id": 387058389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.273885,41.031791,-85.273885,41.031791",
     "geom:latitude":41.031791,
     "geom:longitude":-85.273885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5508 Wapiti Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387058389,
-    "wof:lastmodified":1449056663,
+    "wof:lastmodified":1466502961,
     "wof:name":"Isle Of Styles",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.273885,41.031791,-85.273885,41.031791],
-  "geometry": {"coordinates":[-85.273885,41.031791],"type":"Point"}
+  "bbox": [
+    -85.273885,
+    41.031791,
+    -85.273885,
+    41.031791
+],
+  "geometry": {"coordinates":[-85.27388500000001,41.031791],"type":"Point"}
 }

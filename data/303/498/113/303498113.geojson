@@ -2,13 +2,14 @@
   "id": 303498113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.216564,41.697197,-86.216564,41.697197",
     "geom:latitude":41.697197,
     "geom:longitude":-86.216564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 N Ironwood Dr",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303498113,
-    "wof:lastmodified":1448999973,
+    "wof:lastmodified":1466503718,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "copying"
     ]
 },
-  "bbox": [-86.216564,41.697197,-86.216564,41.697197],
-  "geometry": {"coordinates":[-86.216564,41.697197],"type":"Point"}
+  "bbox": [
+    -86.216564,
+    41.697197,
+    -86.216564,
+    41.697197
+],
+  "geometry": {"coordinates":[-86.21656400000001,41.697197],"type":"Point"}
 }

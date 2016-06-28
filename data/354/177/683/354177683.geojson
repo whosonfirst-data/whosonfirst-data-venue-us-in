@@ -2,13 +2,14 @@
   "id": 354177683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.066536,41.456382,-87.066536,41.456382",
     "geom:latitude":41.456382,
     "geom:longitude":-87.066536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Horse Prairie Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354177683,
-    "wof:lastmodified":1449067663,
+    "wof:lastmodified":1466503102,
     "wof:name":"Valpo Martial Arts",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.066536,41.456382,-87.066536,41.456382],
+  "bbox": [
+    -87.066536,
+    41.456382,
+    -87.066536,
+    41.456382
+],
   "geometry": {"coordinates":[-87.066536,41.456382],"type":"Point"}
 }

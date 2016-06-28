@@ -2,13 +2,14 @@
   "id": 336877489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.477072,41.442516,-87.477072,41.442516",
     "geom:latitude":41.442516,
     "geom:longitude":-87.477072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9803 W Oakridge Dr",
     "sg:city":"St John",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336877489,
-    "wof:lastmodified":1448997693,
+    "wof:lastmodified":1466503245,
     "wof:name":"Forever Green Lawn Care Inc",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-87.477072,41.442516,-87.477072,41.442516],
-  "geometry": {"coordinates":[-87.477072,41.442516],"type":"Point"}
+  "bbox": [
+    -87.477072,
+    41.442516,
+    -87.477072,
+    41.442516
+],
+  "geometry": {"coordinates":[-87.47707200000001,41.442516],"type":"Point"}
 }

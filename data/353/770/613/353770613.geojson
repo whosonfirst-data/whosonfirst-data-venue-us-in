@@ -2,13 +2,14 @@
   "id": 353770613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.520189,41.616902,-87.520189,41.616902",
     "geom:latitude":41.616902,
     "geom:longitude":-87.520189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Russell St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353770613,
-    "wof:lastmodified":1449020852,
+    "wof:lastmodified":1466503273,
     "wof:name":"Allied Merchant Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "card"
     ]
 },
-  "bbox": [-87.520189,41.616902,-87.520189,41.616902],
+  "bbox": [
+    -87.520189,
+    41.616902,
+    -87.520189,
+    41.616902
+],
   "geometry": {"coordinates":[-87.520189,41.616902],"type":"Point"}
 }

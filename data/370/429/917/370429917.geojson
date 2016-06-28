@@ -2,13 +2,14 @@
   "id": 370429917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.780042,38.692634,-85.780042,38.692634",
     "geom:latitude":38.692634,
     "geom:longitude":-85.780042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 N Gardner St",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370429917,
-    "wof:lastmodified":1449032286,
+    "wof:lastmodified":1466503202,
     "wof:name":"Tom Patton Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.780042,38.692634,-85.780042,38.692634],
-  "geometry": {"coordinates":[-85.780042,38.692634],"type":"Point"}
+  "bbox": [
+    -85.780042,
+    38.692634,
+    -85.780042,
+    38.692634
+],
+  "geometry": {"coordinates":[-85.78004199999999,38.692634],"type":"Point"}
 }

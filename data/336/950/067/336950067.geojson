@@ -2,13 +2,14 @@
   "id": 336950067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.888672,40.419129,-86.888672,40.419129",
     "geom:latitude":40.419129,
     "geom:longitude":-86.888672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336950067,
-    "wof:lastmodified":1448997376,
+    "wof:lastmodified":1466503333,
     "wof:name":"K M Davis Interiors",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-86.888672,40.419129,-86.888672,40.419129],
+  "bbox": [
+    -86.888672,
+    40.419129,
+    -86.888672,
+    40.419129
+],
   "geometry": {"coordinates":[-86.888672,40.419129],"type":"Point"}
 }

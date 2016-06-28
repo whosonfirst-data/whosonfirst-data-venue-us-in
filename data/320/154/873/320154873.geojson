@@ -2,13 +2,14 @@
   "id": 320154873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127161,40.44709,-86.127161,40.44709",
     "geom:latitude":40.44709,
     "geom:longitude":-86.127161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 S Lafountain St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320154873,
-    "wof:lastmodified":1449015015,
+    "wof:lastmodified":1466503736,
     "wof:name":"Erin T Gilliland MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.127161,40.44709,-86.127161,40.44709],
+  "bbox": [
+    -86.127161,
+    40.44709,
+    -86.127161,
+    40.44709
+],
   "geometry": {"coordinates":[-86.127161,40.44709],"type":"Point"}
 }

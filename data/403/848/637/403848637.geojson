@@ -2,13 +2,14 @@
   "id": 403848637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.204739,39.780751,-86.204739,39.780751",
     "geom:latitude":39.780751,
     "geom:longitude":-86.204739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403848637,
-    "wof:lastmodified":1449054810,
+    "wof:lastmodified":1466503090,
     "wof:name":"El Catracho Body & Svc",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-86.204739,39.780751,-86.204739,39.780751],
+  "bbox": [
+    -86.204739,
+    39.780751,
+    -86.204739,
+    39.780751
+],
   "geometry": {"coordinates":[-86.204739,39.780751],"type":"Point"}
 }

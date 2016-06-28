@@ -2,13 +2,14 @@
   "id": 320372987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.697898,38.366806,-85.697898,38.366806",
     "geom:latitude":38.366806,
     "geom:longitude":-85.697898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 State Rd 62",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320372987,
-    "wof:lastmodified":1449013515,
+    "wof:lastmodified":1466503015,
     "wof:name":"Bob's Welding Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.697898,38.366806,-85.697898,38.366806],
+  "bbox": [
+    -85.697898,
+    38.366806,
+    -85.697898,
+    38.366806
+],
   "geometry": {"coordinates":[-85.697898,38.366806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320386029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627569,39.720395,-86.627569,39.720395",
     "geom:latitude":39.720395,
     "geom:longitude":-86.627569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5803 W Co Rd 275 S",
     "sg:city":"Coatesville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320386029,
-    "wof:lastmodified":1449013220,
+    "wof:lastmodified":1466503034,
     "wof:name":"Bill Clontz Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.627569,39.720395,-86.627569,39.720395],
-  "geometry": {"coordinates":[-86.627569,39.720395],"type":"Point"}
+  "bbox": [
+    -86.627569,
+    39.720395,
+    -86.627569,
+    39.720395
+],
+  "geometry": {"coordinates":[-86.62756899999999,39.720395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320023439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.462719,37.995998,-87.462719,37.995998",
     "geom:latitude":37.995998,
     "geom:longitude":-87.462719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7414 Enterprise Park Cir",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320023439,
-    "wof:lastmodified":1449014597,
+    "wof:lastmodified":1466503665,
     "wof:name":"Fluid Power Products Inc",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-87.462719,37.995998,-87.462719,37.995998],
-  "geometry": {"coordinates":[-87.462719,37.995998],"type":"Point"}
+  "bbox": [
+    -87.462719,
+    37.995998,
+    -87.462719,
+    37.995998
+],
+  "geometry": {"coordinates":[-87.46271900000001,37.995998],"type":"Point"}
 }

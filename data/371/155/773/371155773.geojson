@@ -2,13 +2,14 @@
   "id": 371155773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.694087,40.107963,-85.694087,40.107963",
     "geom:latitude":40.107963,
     "geom:longitude":-85.694087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W 8th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371155773,
-    "wof:lastmodified":1449049919,
+    "wof:lastmodified":1466503070,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.694087,40.107963,-85.694087,40.107963],
+  "bbox": [
+    -85.694087,
+    40.107963,
+    -85.694087,
+    40.107963
+],
   "geometry": {"coordinates":[-85.694087,40.107963],"type":"Point"}
 }

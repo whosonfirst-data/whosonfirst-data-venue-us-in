@@ -2,13 +2,14 @@
   "id": 370965887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.986344,41.677991,-85.986344,41.677991",
     "geom:latitude":41.677991,
     "geom:longitude":-85.986344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Harrison St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370965887,
-    "wof:lastmodified":1449031451,
+    "wof:lastmodified":1466503784,
     "wof:name":"Greg M Mielke PC",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.986344,41.677991,-85.986344,41.677991],
+  "bbox": [
+    -85.986344,
+    41.677991,
+    -85.986344,
+    41.677991
+],
   "geometry": {"coordinates":[-85.986344,41.677991],"type":"Point"}
 }

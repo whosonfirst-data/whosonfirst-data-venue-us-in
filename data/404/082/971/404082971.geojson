@@ -2,13 +2,14 @@
   "id": 404082971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.356095,41.577038,-87.356095,41.577038",
     "geom:latitude":41.577038,
     "geom:longitude":-87.356095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Grant St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404082971,
-    "wof:lastmodified":1449039112,
+    "wof:lastmodified":1466503000,
     "wof:name":"Unicare Infusion Svc",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.356095,41.577038,-87.356095,41.577038],
+  "bbox": [
+    -87.356095,
+    41.577038,
+    -87.356095,
+    41.577038
+],
   "geometry": {"coordinates":[-87.356095,41.577038],"type":"Point"}
 }

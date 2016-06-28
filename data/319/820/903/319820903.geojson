@@ -2,13 +2,14 @@
   "id": 319820903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.103969,40.660109,-86.103969,40.660109",
     "geom:latitude":40.660109,
     "geom:longitude":-86.103969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Broadway",
     "sg:city":"Bunker Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319820903,
-    "wof:lastmodified":1449024490,
+    "wof:lastmodified":1466503520,
     "wof:name":"Vintage Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-86.103969,40.660109,-86.103969,40.660109],
-  "geometry": {"coordinates":[-86.103969,40.660109],"type":"Point"}
+  "bbox": [
+    -86.103969,
+    40.660109,
+    -86.103969,
+    40.660109
+],
+  "geometry": {"coordinates":[-86.10396900000001,40.660109],"type":"Point"}
 }

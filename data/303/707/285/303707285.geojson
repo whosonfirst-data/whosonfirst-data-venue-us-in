@@ -2,13 +2,14 @@
   "id": 303707285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144757,38.326694,-86.144757,38.326694",
     "geom:latitude":38.326694,
     "geom:longitude":-86.144757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 W Whiskey Run Rd NW",
     "sg:city":"Ramsey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303707285,
-    "wof:lastmodified":1449000174,
+    "wof:lastmodified":1466502994,
     "wof:name":"North Harrison Elementary Schl",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.144757,38.326694,-86.144757,38.326694],
+  "bbox": [
+    -86.144757,
+    38.326694,
+    -86.144757,
+    38.326694
+],
   "geometry": {"coordinates":[-86.144757,38.326694],"type":"Point"}
 }

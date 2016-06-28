@@ -2,13 +2,14 @@
   "id": 353577145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.2684,39.702588,-86.2684,39.702588",
     "geom:latitude":39.702588,
     "geom:longitude":-86.2684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 S High School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353577145,
-    "wof:lastmodified":1449020890,
+    "wof:lastmodified":1466503049,
     "wof:name":"Southwestern Fire & Safety Inc",
     "wof:parent_id":85853431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-86.2684,39.702588,-86.2684,39.702588],
+  "bbox": [
+    -86.2684,
+    39.702588,
+    -86.2684,
+    39.702588
+],
   "geometry": {"coordinates":[-86.2684,39.702588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303349895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.20329,41.074409,-85.20329,41.074409",
     "geom:latitude":41.074409,
     "geom:longitude":-85.20329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Illinois Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303349895,
-    "wof:lastmodified":1448999041,
+    "wof:lastmodified":1466503625,
     "wof:name":"Air Force Reserve Recruiting",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-85.20329,41.074409,-85.20329,41.074409],
+  "bbox": [
+    -85.20329,
+    41.074409,
+    -85.20329,
+    41.074409
+],
   "geometry": {"coordinates":[-85.20329,41.074409],"type":"Point"}
 }

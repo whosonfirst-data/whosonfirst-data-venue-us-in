@@ -2,13 +2,14 @@
   "id": 387868363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.962029,40.456357,-86.962029,40.456357",
     "geom:latitude":40.456357,
     "geom:longitude":-86.962029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2787 Klondike Rd",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387868363,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1466504078,
     "wof:name":"Cliff Hall Bus Garage",
     "wof:parent_id":85813095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-86.962029,40.456357,-86.962029,40.456357],
+  "bbox": [
+    -86.962029,
+    40.456357,
+    -86.962029,
+    40.456357
+],
   "geometry": {"coordinates":[-86.962029,40.456357],"type":"Point"}
 }

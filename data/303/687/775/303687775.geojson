@@ -2,13 +2,14 @@
   "id": 303687775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.99226,39.852966,-85.99226,39.852966",
     "geom:latitude":39.852966,
     "geom:longitude":-85.99226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Pendleton Pike",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303687775,
-    "wof:lastmodified":1448998798,
+    "wof:lastmodified":1466502972,
     "wof:name":"Greenbriar Mobile Park",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-85.99226,39.852966,-85.99226,39.852966],
+  "bbox": [
+    -85.99226,
+    39.852966,
+    -85.99226,
+    39.852966
+],
   "geometry": {"coordinates":[-85.99226,39.852966],"type":"Point"}
 }

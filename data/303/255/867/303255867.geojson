@@ -2,13 +2,14 @@
   "id": 303255867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.730861,41.266291,-86.730861,41.266291",
     "geom:latitude":41.266291,
     "geom:longitude":-86.730861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 W 250 S",
     "sg:city":"North Judson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303255867,
-    "wof:lastmodified":1448999231,
+    "wof:lastmodified":1466503529,
     "wof:name":"Murray's Bail Bonds Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-86.730861,41.266291,-86.730861,41.266291],
+  "bbox": [
+    -86.730861,
+    41.266291,
+    -86.730861,
+    41.266291
+],
   "geometry": {"coordinates":[-86.730861,41.266291],"type":"Point"}
 }

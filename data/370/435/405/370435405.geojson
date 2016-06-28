@@ -2,13 +2,14 @@
   "id": 370435405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.561274,41.673056,-85.561274,41.673056",
     "geom:latitude":41.673056,
     "geom:longitude":-85.561274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 N 700 W",
     "sg:city":"Shipshewana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370435405,
-    "wof:lastmodified":1449032166,
+    "wof:lastmodified":1466503208,
     "wof:name":"Northern Nutrition Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diet"
     ]
 },
-  "bbox": [-85.561274,41.673056,-85.561274,41.673056],
+  "bbox": [
+    -85.561274,
+    41.673056,
+    -85.561274,
+    41.673056
+],
   "geometry": {"coordinates":[-85.561274,41.673056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320392313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.085833,39.894614,-86.085833,39.894614",
     "geom:latitude":39.894614,
     "geom:longitude":-86.085833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7740 Sentinel Trl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320392313,
-    "wof:lastmodified":1449014222,
+    "wof:lastmodified":1466503045,
     "wof:name":"Lighthouse Investments LLC",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.085833,39.894614,-86.085833,39.894614],
-  "geometry": {"coordinates":[-86.085833,39.894614],"type":"Point"}
+  "bbox": [
+    -86.085833,
+    39.894614,
+    -86.085833,
+    39.894614
+],
+  "geometry": {"coordinates":[-86.08583299999999,39.894614],"type":"Point"}
 }

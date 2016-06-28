@@ -2,13 +2,14 @@
   "id": 404036875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.204756,41.665795,-86.204756,41.665795",
     "geom:latitude":41.665795,
     "geom:longitude":-86.204756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 W Mishawaka Ave",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404036875,
-    "wof:lastmodified":1449039317,
+    "wof:lastmodified":1466502931,
     "wof:name":"Dave's Pub & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.204756,41.665795,-86.204756,41.665795],
+  "bbox": [
+    -86.204756,
+    41.665795,
+    -86.204756,
+    41.665795
+],
   "geometry": {"coordinates":[-86.204756,41.665795],"type":"Point"}
 }

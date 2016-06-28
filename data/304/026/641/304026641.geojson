@@ -2,13 +2,14 @@
   "id": 304026641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.502631,37.967102,-87.502631,37.967102",
     "geom:latitude":37.967102,
     "geom:longitude":-87.502631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Bellemeade Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304026641,
-    "wof:lastmodified":1449043942,
+    "wof:lastmodified":1466503431,
     "wof:name":"Cataract Associates",
     "wof:parent_id":85877275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.502631,37.967102,-87.502631,37.967102],
-  "geometry": {"coordinates":[-87.502631,37.967102],"type":"Point"}
+  "bbox": [
+    -87.502631,
+    37.967102,
+    -87.502631,
+    37.967102
+],
+  "geometry": {"coordinates":[-87.50263099999999,37.967102],"type":"Point"}
 }

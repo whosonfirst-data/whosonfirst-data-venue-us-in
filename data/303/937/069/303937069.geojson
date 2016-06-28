@@ -2,13 +2,14 @@
   "id": 303937069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.949179,41.209824,-84.949179,41.209824",
     "geom:latitude":41.209824,
     "geom:longitude":-84.949179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15214 Grabill Rd",
     "sg:city":"Grabill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303937069,
-    "wof:lastmodified":1448998579,
+    "wof:lastmodified":1466503290,
     "wof:name":"EOI",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.949179,41.209824,-84.949179,41.209824],
+  "bbox": [
+    -84.949179,
+    41.209824,
+    -84.949179,
+    41.209824
+],
   "geometry": {"coordinates":[-84.949179,41.209824],"type":"Point"}
 }

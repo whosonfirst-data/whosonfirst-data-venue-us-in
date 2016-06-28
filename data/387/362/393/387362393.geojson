@@ -2,13 +2,14 @@
   "id": 387362393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.496337,37.962653,-87.496337,37.962653",
     "geom:latitude":37.962653,
     "geom:longitude":-87.496337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S Hebron Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387362393,
-    "wof:lastmodified":1449058568,
+    "wof:lastmodified":1466503389,
     "wof:name":"Urological Associates Inc",
     "wof:parent_id":85877275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.496337,37.962653,-87.496337,37.962653],
+  "bbox": [
+    -87.496337,
+    37.962653,
+    -87.496337,
+    37.962653
+],
   "geometry": {"coordinates":[-87.496337,37.962653],"type":"Point"}
 }

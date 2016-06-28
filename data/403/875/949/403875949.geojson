@@ -2,13 +2,14 @@
   "id": 403875949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.230013,39.780372,-86.230013,39.780372",
     "geom:latitude":39.780372,
     "geom:longitude":-86.230013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403875949,
-    "wof:lastmodified":1449055606,
+    "wof:lastmodified":1466503129,
     "wof:name":"JEH/Eagle Supply Inc",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.230013,39.780372,-86.230013,39.780372],
+  "bbox": [
+    -86.230013,
+    39.780372,
+    -86.230013,
+    39.780372
+],
   "geometry": {"coordinates":[-86.230013,39.780372],"type":"Point"}
 }

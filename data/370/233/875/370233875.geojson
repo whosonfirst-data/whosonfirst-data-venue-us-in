@@ -2,13 +2,14 @@
   "id": 370233875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278366,41.054519,-86.278366,41.054519",
     "geom:latitude":41.054519,
     "geom:longitude":-86.278366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 W State Rd 14",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370233875,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1466502993,
     "wof:name":"Overmyer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.278366,41.054519,-86.278366,41.054519],
-  "geometry": {"coordinates":[-86.278366,41.054519],"type":"Point"}
+  "bbox": [
+    -86.278366,
+    41.054519,
+    -86.278366,
+    41.054519
+],
+  "geometry": {"coordinates":[-86.27836600000001,41.054519],"type":"Point"}
 }

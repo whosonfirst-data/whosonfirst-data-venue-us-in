@@ -2,13 +2,14 @@
   "id": 387367973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.560379,40.119455,-85.560379,40.119455",
     "geom:latitude":40.119455,
     "geom:longitude":-85.560379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8119 S Sorgham St",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387367973,
-    "wof:lastmodified":1449058355,
+    "wof:lastmodified":1466503397,
     "wof:name":"Avon",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-85.560379,40.119455,-85.560379,40.119455],
+  "bbox": [
+    -85.560379,
+    40.119455,
+    -85.560379,
+    40.119455
+],
   "geometry": {"coordinates":[-85.560379,40.119455],"type":"Point"}
 }

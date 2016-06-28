@@ -2,13 +2,14 @@
   "id": 403823561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.293624,40.767114,-87.293624,40.767114",
     "geom:latitude":40.767114,
     "geom:longitude":-87.293624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Newton St",
     "sg:city":"Goodland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403823561,
-    "wof:lastmodified":1449055943,
+    "wof:lastmodified":1466503056,
     "wof:name":"Pat Davidson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.293624,40.767114,-87.293624,40.767114],
-  "geometry": {"coordinates":[-87.293624,40.767114],"type":"Point"}
+  "bbox": [
+    -87.293624,
+    40.767114,
+    -87.293624,
+    40.767114
+],
+  "geometry": {"coordinates":[-87.29362399999999,40.767114],"type":"Point"}
 }

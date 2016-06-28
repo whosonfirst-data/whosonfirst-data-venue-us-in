@@ -2,13 +2,14 @@
   "id": 387422033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.159441,39.85475,-86.159441,39.85475",
     "geom:latitude":39.85475,
     "geom:longitude":-86.159441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5619 N Illinois St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387422033,
-    "wof:lastmodified":1449056377,
+    "wof:lastmodified":1466503475,
     "wof:name":"Kids Ink Children's Bookstores",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-86.159441,39.85475,-86.159441,39.85475],
+  "bbox": [
+    -86.159441,
+    39.85475,
+    -86.159441,
+    39.85475
+],
   "geometry": {"coordinates":[-86.159441,39.85475],"type":"Point"}
 }

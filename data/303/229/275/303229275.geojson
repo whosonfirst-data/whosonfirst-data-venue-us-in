@@ -2,13 +2,14 @@
   "id": 303229275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16169,39.767905,-86.16169,39.767905",
     "geom:latitude":39.767905,
     "geom:longitude":-86.16169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Capitol Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303229275,
-    "wof:lastmodified":1449000070,
+    "wof:lastmodified":1466503488,
     "wof:name":"Indiana Assoc For Marriage/Fml",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.16169,39.767905,-86.16169,39.767905],
-  "geometry": {"coordinates":[-86.16169,39.767905],"type":"Point"}
+  "bbox": [
+    -86.16169,
+    39.767905,
+    -86.16169,
+    39.767905
+],
+  "geometry": {"coordinates":[-86.16168999999999,39.767905],"type":"Point"}
 }

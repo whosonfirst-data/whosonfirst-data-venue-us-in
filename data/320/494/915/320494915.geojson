@@ -2,13 +2,14 @@
   "id": 320494915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.171301,39.778397,-86.171301,39.778397",
     "geom:latitude":39.778397,
     "geom:longitude":-86.171301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Indiana Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320494915,
-    "wof:lastmodified":1449014552,
+    "wof:lastmodified":1466503174,
     "wof:name":"Hype Entertainment Indy",
     "wof:parent_id":85866223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-86.171301,39.778397,-86.171301,39.778397],
+  "bbox": [
+    -86.171301,
+    39.778397,
+    -86.171301,
+    39.778397
+],
   "geometry": {"coordinates":[-86.171301,39.778397],"type":"Point"}
 }

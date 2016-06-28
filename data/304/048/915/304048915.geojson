@@ -2,13 +2,14 @@
   "id": 304048915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.257837,41.571324,-87.257837,41.571324",
     "geom:latitude":41.571324,
     "geom:longitude":-87.257837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Central Ave",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304048915,
-    "wof:lastmodified":1449043762,
+    "wof:lastmodified":1466503467,
     "wof:name":"Best-The Best Used Car Sales",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.257837,41.571324,-87.257837,41.571324],
-  "geometry": {"coordinates":[-87.257837,41.571324],"type":"Point"}
+  "bbox": [
+    -87.257837,
+    41.571324,
+    -87.257837,
+    41.571324
+],
+  "geometry": {"coordinates":[-87.25783699999999,41.571324],"type":"Point"}
 }

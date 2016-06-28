@@ -2,13 +2,14 @@
   "id": 320034887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.71615,38.32575,-85.71615,38.32575",
     "geom:latitude":38.32575,
     "geom:longitude":-85.71615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 Holmans Ln",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320034887,
-    "wof:lastmodified":1449011660,
+    "wof:lastmodified":1466503669,
     "wof:name":"Corley Enterprises Inc",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.71615,38.32575,-85.71615,38.32575],
+  "bbox": [
+    -85.71615,
+    38.32575,
+    -85.71615,
+    38.32575
+],
   "geometry": {"coordinates":[-85.71615,38.32575],"type":"Point"}
 }

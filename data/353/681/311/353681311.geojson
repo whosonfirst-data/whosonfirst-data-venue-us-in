@@ -2,13 +2,14 @@
   "id": 353681311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.134215,39.912447,-86.134215,39.912447",
     "geom:latitude":39.912447,
     "geom:longitude":-86.134215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353681311,
-    "wof:lastmodified":1449019842,
+    "wof:lastmodified":1466503169,
     "wof:name":"U Build It",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.134215,39.912447,-86.134215,39.912447],
+  "bbox": [
+    -86.134215,
+    39.912447,
+    -86.134215,
+    39.912447
+],
   "geometry": {"coordinates":[-86.134215,39.912447],"type":"Point"}
 }

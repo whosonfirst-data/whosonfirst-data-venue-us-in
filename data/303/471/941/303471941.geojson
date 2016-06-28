@@ -2,13 +2,14 @@
   "id": 303471941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138531,39.671686,-85.138531,39.671686",
     "geom:latitude":39.671686,
     "geom:longitude":-85.138531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3042 Western Ave",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303471941,
-    "wof:lastmodified":1448999102,
+    "wof:lastmodified":1466503698,
     "wof:name":"Pennington's Jewelry Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-85.138531,39.671686,-85.138531,39.671686],
+  "bbox": [
+    -85.138531,
+    39.671686,
+    -85.138531,
+    39.671686
+],
   "geometry": {"coordinates":[-85.138531,39.671686],"type":"Point"}
 }

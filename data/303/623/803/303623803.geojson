@@ -2,13 +2,14 @@
   "id": 303623803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.408307,39.667173,-87.408307,39.667173",
     "geom:latitude":39.667173,
     "geom:longitude":-87.408307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 N 9th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303623803,
-    "wof:lastmodified":1448999835,
+    "wof:lastmodified":1466502898,
     "wof:name":"Ninth Street Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.408307,39.667173,-87.408307,39.667173],
-  "geometry": {"coordinates":[-87.408307,39.667173],"type":"Point"}
+  "bbox": [
+    -87.408307,
+    39.667173,
+    -87.408307,
+    39.667173
+],
+  "geometry": {"coordinates":[-87.40830699999999,39.667173],"type":"Point"}
 }

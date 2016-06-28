@@ -2,13 +2,14 @@
   "id": 320450345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.011129,39.856783,-86.011129,39.856783",
     "geom:latitude":39.856783,
     "geom:longitude":-86.011129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8902 Otis Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320450345,
-    "wof:lastmodified":1449014404,
+    "wof:lastmodified":1466503120,
     "wof:name":"Peters & Steel",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.011129,39.856783,-86.011129,39.856783],
+  "bbox": [
+    -86.011129,
+    39.856783,
+    -86.011129,
+    39.856783
+],
   "geometry": {"coordinates":[-86.011129,39.856783],"type":"Point"}
 }

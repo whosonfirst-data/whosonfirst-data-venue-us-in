@@ -2,13 +2,14 @@
   "id": 320625247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.037823,39.901419,-86.037823,39.901419",
     "geom:latitude":39.901419,
     "geom:longitude":-86.037823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 Clearvista Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320625247,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466503331,
     "wof:name":"Indiana Orthopedics Ctr",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.037823,39.901419,-86.037823,39.901419],
+  "bbox": [
+    -86.037823,
+    39.901419,
+    -86.037823,
+    39.901419
+],
   "geometry": {"coordinates":[-86.037823,39.901419],"type":"Point"}
 }

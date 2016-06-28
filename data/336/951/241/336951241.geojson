@@ -2,13 +2,14 @@
   "id": 336951241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.448211,39.760083,-86.448211,39.760083",
     "geom:latitude":39.760083,
     "geom:longitude":-86.448211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 Londonderry Ct",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336951241,
-    "wof:lastmodified":1448996956,
+    "wof:lastmodified":1466503336,
     "wof:name":"RD Butler LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.448211,39.760083,-86.448211,39.760083],
+  "bbox": [
+    -86.448211,
+    39.760083,
+    -86.448211,
+    39.760083
+],
   "geometry": {"coordinates":[-86.448211,39.760083],"type":"Point"}
 }

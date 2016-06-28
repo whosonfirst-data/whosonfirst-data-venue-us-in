@@ -2,13 +2,14 @@
   "id": 320071965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.494843,39.165872,-86.494843,39.165872",
     "geom:latitude":39.165872,
     "geom:longitude":-86.494843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Pete Ellis Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320071965,
-    "wof:lastmodified":1449013604,
+    "wof:lastmodified":1466503689,
     "wof:name":"Victim Offenders Rcncltn Prgrm",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.494843,39.165872,-86.494843,39.165872],
+  "bbox": [
+    -86.494843,
+    39.165872,
+    -86.494843,
+    39.165872
+],
   "geometry": {"coordinates":[-86.494843,39.165872],"type":"Point"}
 }

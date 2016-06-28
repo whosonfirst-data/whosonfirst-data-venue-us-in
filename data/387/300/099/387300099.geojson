@@ -2,13 +2,14 @@
   "id": 387300099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.529333,37.983649,-87.529333,37.983649",
     "geom:latitude":37.983649,
     "geom:longitude":-87.529333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Weinbach Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387300099,
-    "wof:lastmodified":1449058251,
+    "wof:lastmodified":1466503306,
     "wof:name":"Memory Portraits",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.529333,37.983649,-87.529333,37.983649],
-  "geometry": {"coordinates":[-87.529333,37.983649],"type":"Point"}
+  "bbox": [
+    -87.529333,
+    37.983649,
+    -87.529333,
+    37.983649
+],
+  "geometry": {"coordinates":[-87.52933299999999,37.983649],"type":"Point"}
 }

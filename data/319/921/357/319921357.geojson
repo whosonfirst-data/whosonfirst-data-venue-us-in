@@ -2,13 +2,14 @@
   "id": 319921357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930846,40.053852,-86.930846,40.053852",
     "geom:latitude":40.053852,
     "geom:longitude":-86.930846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Old Waynetown Rd",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319921357,
-    "wof:lastmodified":1449024586,
+    "wof:lastmodified":1466503603,
     "wof:name":"Terry L Peacock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.930846,40.053852,-86.930846,40.053852],
+  "bbox": [
+    -86.930846,
+    40.053852,
+    -86.930846,
+    40.053852
+],
   "geometry": {"coordinates":[-86.930846,40.053852],"type":"Point"}
 }

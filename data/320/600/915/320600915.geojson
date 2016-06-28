@@ -2,13 +2,14 @@
   "id": 320600915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492017,37.964477,-87.492017,37.964477",
     "geom:latitude":37.964477,
     "geom:longitude":-87.492017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Washington Sq",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320600915,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466503301,
     "wof:name":"Madison Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "financial"
     ]
 },
-  "bbox": [-87.492017,37.964477,-87.492017,37.964477],
+  "bbox": [
+    -87.492017,
+    37.964477,
+    -87.492017,
+    37.964477
+],
   "geometry": {"coordinates":[-87.492017,37.964477],"type":"Point"}
 }

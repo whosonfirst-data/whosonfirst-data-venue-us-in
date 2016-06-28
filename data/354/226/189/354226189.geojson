@@ -2,13 +2,14 @@
   "id": 354226189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.634586,37.988163,-87.634586,37.988163",
     "geom:latitude":37.988163,
     "geom:longitude":-87.634586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Red Bank Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354226189,
-    "wof:lastmodified":1449067194,
+    "wof:lastmodified":1466503177,
     "wof:name":"Hulsey's Wildwind Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-87.634586,37.988163,-87.634586,37.988163],
+  "bbox": [
+    -87.634586,
+    37.988163,
+    -87.634586,
+    37.988163
+],
   "geometry": {"coordinates":[-87.634586,37.988163],"type":"Point"}
 }

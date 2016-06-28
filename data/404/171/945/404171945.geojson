@@ -2,13 +2,14 @@
   "id": 404171945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.472305,38.733149,-86.472305,38.733149",
     "geom:latitude":38.733149,
     "geom:longitude":-86.472305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 W Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404171945,
-    "wof:lastmodified":1449040330,
+    "wof:lastmodified":1466503116,
     "wof:name":"Three Hearts Flower & Gift Shp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.472305,38.733149,-86.472305,38.733149],
-  "geometry": {"coordinates":[-86.472305,38.733149],"type":"Point"}
+  "bbox": [
+    -86.472305,
+    38.733149,
+    -86.472305,
+    38.733149
+],
+  "geometry": {"coordinates":[-86.47230500000001,38.733149],"type":"Point"}
 }

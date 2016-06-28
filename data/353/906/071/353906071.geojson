@@ -2,13 +2,14 @@
   "id": 353906071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.848707,39.091988,-84.848707,39.091988",
     "geom:latitude":39.091988,
     "geom:longitude":-84.848707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Vine St",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353906071,
-    "wof:lastmodified":1449019228,
+    "wof:lastmodified":1466503434,
     "wof:name":"Fairhaven Apts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-84.848707,39.091988,-84.848707,39.091988],
+  "bbox": [
+    -84.848707,
+    39.091988,
+    -84.848707,
+    39.091988
+],
   "geometry": {"coordinates":[-84.848707,39.091988],"type":"Point"}
 }

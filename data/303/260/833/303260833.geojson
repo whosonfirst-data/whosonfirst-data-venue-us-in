@@ -2,13 +2,14 @@
   "id": 303260833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.109517,39.917584,-86.109517,39.917584",
     "geom:latitude":39.917584,
     "geom:longitude":-86.109517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303260833,
-    "wof:lastmodified":1448998524,
+    "wof:lastmodified":1466503534,
     "wof:name":"Goodin Abernathy Miller",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.109517,39.917584,-86.109517,39.917584],
+  "bbox": [
+    -86.109517,
+    39.917584,
+    -86.109517,
+    39.917584
+],
   "geometry": {"coordinates":[-86.109517,39.917584],"type":"Point"}
 }

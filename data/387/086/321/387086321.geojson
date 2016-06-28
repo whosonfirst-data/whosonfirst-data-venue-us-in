@@ -2,13 +2,14 @@
   "id": 387086321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.451971,41.58093,-87.451971,41.58093",
     "geom:latitude":41.58093,
     "geom:longitude":-87.451971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 173rd St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":387086321,
-    "wof:lastmodified":1449058655,
+    "wof:lastmodified":1466503009,
     "wof:name":"Terrace Park Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.451971,41.58093,-87.451971,41.58093],
+  "bbox": [
+    -87.451971,
+    41.58093,
+    -87.451971,
+    41.58093
+],
   "geometry": {"coordinates":[-87.451971,41.58093],"type":"Point"}
 }

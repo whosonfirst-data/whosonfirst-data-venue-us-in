@@ -2,13 +2,14 @@
   "id": 403762621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.065966,41.492568,-87.065966,41.492568",
     "geom:latitude":41.492568,
     "geom:longitude":-87.065966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Campbell St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403762621,
-    "wof:lastmodified":1449055556,
+    "wof:lastmodified":1466502964,
     "wof:name":"Life Care Ctr Of Valparaiso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-87.065966,41.492568,-87.065966,41.492568],
+  "bbox": [
+    -87.065966,
+    41.492568,
+    -87.065966,
+    41.492568
+],
   "geometry": {"coordinates":[-87.065966,41.492568],"type":"Point"}
 }

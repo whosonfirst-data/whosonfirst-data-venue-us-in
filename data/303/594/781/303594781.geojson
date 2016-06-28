@@ -2,13 +2,14 @@
   "id": 303594781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.510181,41.561547,-87.510181,41.561547",
     "geom:latitude":41.561547,
     "geom:longitude":-87.510181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Ridge Rd",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303594781,
-    "wof:lastmodified":1448998469,
+    "wof:lastmodified":1466503779,
     "wof:name":"CFS Bancorp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.510181,41.561547,-87.510181,41.561547],
+  "bbox": [
+    -87.510181,
+    41.561547,
+    -87.510181,
+    41.561547
+],
   "geometry": {"coordinates":[-87.510181,41.561547],"type":"Point"}
 }

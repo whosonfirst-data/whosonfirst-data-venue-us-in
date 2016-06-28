@@ -2,13 +2,14 @@
   "id": 353902017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.201028,41.066522,-85.201028,41.066522",
     "geom:latitude":41.066522,
     "geom:longitude":-85.201028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4626 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353902017,
-    "wof:lastmodified":1449020140,
+    "wof:lastmodified":1466503431,
     "wof:name":"Midwest Business Brokers Inc",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-85.201028,41.066522,-85.201028,41.066522],
-  "geometry": {"coordinates":[-85.201028,41.066522],"type":"Point"}
+  "bbox": [
+    -85.201028,
+    41.066522,
+    -85.201028,
+    41.066522
+],
+  "geometry": {"coordinates":[-85.20102799999999,41.066522],"type":"Point"}
 }

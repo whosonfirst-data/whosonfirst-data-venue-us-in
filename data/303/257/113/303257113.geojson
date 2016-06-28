@@ -2,13 +2,14 @@
   "id": 303257113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.231452,39.829297,-86.231452,39.829297",
     "geom:latitude":39.829297,
     "geom:longitude":-86.231452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4034 Park 65 Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303257113,
-    "wof:lastmodified":1448998836,
+    "wof:lastmodified":1466503530,
     "wof:name":"Team Menard Inc Machine Shop",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.231452,39.829297,-86.231452,39.829297],
+  "bbox": [
+    -86.231452,
+    39.829297,
+    -86.231452,
+    39.829297
+],
   "geometry": {"coordinates":[-86.231452,39.829297],"type":"Point"}
 }

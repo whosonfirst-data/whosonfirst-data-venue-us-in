@@ -2,13 +2,14 @@
   "id": 387548839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.848986,39.934505,-85.848986,39.934505",
     "geom:latitude":39.934505,
     "geom:longitude":-85.848986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Staat St",
     "sg:city":"Fortville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387548839,
-    "wof:lastmodified":1449058743,
+    "wof:lastmodified":1466503640,
     "wof:name":"Fortville United Methodist Chr",
     "wof:parent_id":85816999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.848986,39.934505,-85.848986,39.934505],
+  "bbox": [
+    -85.848986,
+    39.934505,
+    -85.848986,
+    39.934505
+],
   "geometry": {"coordinates":[-85.848986,39.934505],"type":"Point"}
 }

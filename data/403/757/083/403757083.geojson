@@ -2,13 +2,14 @@
   "id": 403757083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.474038,41.594274,-87.474038,41.594274",
     "geom:latitude":41.594274,
     "geom:longitude":-87.474038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2143 Tanglewood Pl",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403757083,
-    "wof:lastmodified":1449055383,
+    "wof:lastmodified":1466502958,
     "wof:name":"ICM Consultant Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.474038,41.594274,-87.474038,41.594274],
-  "geometry": {"coordinates":[-87.474038,41.594274],"type":"Point"}
+  "bbox": [
+    -87.474038,
+    41.594274,
+    -87.474038,
+    41.594274
+],
+  "geometry": {"coordinates":[-87.47403799999999,41.594274],"type":"Point"}
 }

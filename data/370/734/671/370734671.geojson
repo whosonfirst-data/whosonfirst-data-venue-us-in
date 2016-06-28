@@ -2,13 +2,14 @@
   "id": 370734671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.444871,39.608823,-85.444871,39.608823",
     "geom:latitude":39.608823,
     "geom:longitude":-85.444871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 N Main St",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370734671,
-    "wof:lastmodified":1449032045,
+    "wof:lastmodified":1466503523,
     "wof:name":"P J's Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-85.444871,39.608823,-85.444871,39.608823],
-  "geometry": {"coordinates":[-85.444871,39.608823],"type":"Point"}
+  "bbox": [
+    -85.444871,
+    39.608823,
+    -85.444871,
+    39.608823
+],
+  "geometry": {"coordinates":[-85.44487100000001,39.608823],"type":"Point"}
 }

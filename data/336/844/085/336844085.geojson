@@ -2,13 +2,14 @@
   "id": 336844085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.500445,37.991383,-87.500445,37.991383",
     "geom:latitude":37.991383,
     "geom:longitude":-87.500445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 E Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336844085,
-    "wof:lastmodified":1448997403,
+    "wof:lastmodified":1466503206,
     "wof:name":"Re/Max Residential Svc",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.500445,37.991383,-87.500445,37.991383],
+  "bbox": [
+    -87.500445,
+    37.991383,
+    -87.500445,
+    37.991383
+],
   "geometry": {"coordinates":[-87.500445,37.991383],"type":"Point"}
 }

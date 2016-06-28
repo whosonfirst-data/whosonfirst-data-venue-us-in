@@ -2,13 +2,14 @@
   "id": 303604951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.344542,41.471019,-87.344542,41.471019",
     "geom:latitude":41.471019,
     "geom:longitude":-87.344542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Lincoln Hwy",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303604951,
-    "wof:lastmodified":1449000282,
+    "wof:lastmodified":1466503787,
     "wof:name":"Art Hill Ford Lincoln Mercury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.344542,41.471019,-87.344542,41.471019],
+  "bbox": [
+    -87.344542,
+    41.471019,
+    -87.344542,
+    41.471019
+],
   "geometry": {"coordinates":[-87.344542,41.471019],"type":"Point"}
 }

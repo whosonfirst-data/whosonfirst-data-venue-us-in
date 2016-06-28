@@ -2,13 +2,14 @@
   "id": 303997547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.153383,41.685686,-86.153383,41.685686",
     "geom:latitude":41.685686,
     "geom:longitude":-86.153383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55971 Clover Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303997547,
-    "wof:lastmodified":1449000126,
+    "wof:lastmodified":1466503382,
     "wof:name":"Byler's Auto-Motive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.153383,41.685686,-86.153383,41.685686],
-  "geometry": {"coordinates":[-86.153383,41.685686],"type":"Point"}
+  "bbox": [
+    -86.153383,
+    41.685686,
+    -86.153383,
+    41.685686
+],
+  "geometry": {"coordinates":[-86.15338300000001,41.685686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370708235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.037466,41.069911,-85.037466,41.069911",
     "geom:latitude":41.069911,
     "geom:longitude":-85.037466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Lincoln Hwy W",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370708235,
-    "wof:lastmodified":1449029620,
+    "wof:lastmodified":1466503497,
     "wof:name":"Salin Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.037466,41.069911,-85.037466,41.069911],
-  "geometry": {"coordinates":[-85.037466,41.069911],"type":"Point"}
+  "bbox": [
+    -85.037466,
+    41.069911,
+    -85.037466,
+    41.069911
+],
+  "geometry": {"coordinates":[-85.03746599999999,41.069911],"type":"Point"}
 }

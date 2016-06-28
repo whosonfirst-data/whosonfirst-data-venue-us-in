@@ -2,13 +2,14 @@
   "id": 353542229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.155321,39.768457,-86.155321,39.768457",
     "geom:latitude":39.768457,
     "geom:longitude":-86.155321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 E Market St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353542229,
-    "wof:lastmodified":1449020257,
+    "wof:lastmodified":1466503002,
     "wof:name":"Barrister Personnel",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-86.155321,39.768457,-86.155321,39.768457],
+  "bbox": [
+    -86.155321,
+    39.768457,
+    -86.155321,
+    39.768457
+],
   "geometry": {"coordinates":[-86.155321,39.768457],"type":"Point"}
 }

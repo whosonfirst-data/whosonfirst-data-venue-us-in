@@ -2,13 +2,14 @@
   "id": 320311751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.782331,41.163215,-85.782331,41.163215",
     "geom:latitude":41.163215,
     "geom:longitude":-85.782331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4791 S 300 E",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320311751,
-    "wof:lastmodified":1449012138,
+    "wof:lastmodified":1466502936,
     "wof:name":"Jerry Phillips Excavating",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.782331,41.163215,-85.782331,41.163215],
+  "bbox": [
+    -85.782331,
+    41.163215,
+    -85.782331,
+    41.163215
+],
   "geometry": {"coordinates":[-85.782331,41.163215],"type":"Point"}
 }

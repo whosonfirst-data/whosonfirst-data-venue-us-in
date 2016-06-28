@@ -2,13 +2,14 @@
   "id": 304047741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.194861,41.072596,-85.194861,41.072596",
     "geom:latitude":41.072596,
     "geom:longitude":-85.194861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Apple Glen Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304047741,
-    "wof:lastmodified":1449043985,
+    "wof:lastmodified":1466503467,
     "wof:name":"Radio Shack",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.194861,41.072596,-85.194861,41.072596],
+  "bbox": [
+    -85.194861,
+    41.072596,
+    -85.194861,
+    41.072596
+],
   "geometry": {"coordinates":[-85.194861,41.072596],"type":"Point"}
 }

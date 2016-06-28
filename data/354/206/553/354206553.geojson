@@ -2,13 +2,14 @@
   "id": 354206553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.950702,40.475185,-85.950702,40.475185",
     "geom:latitude":40.475185,
     "geom:longitude":-85.950702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Meadows Ct",
     "sg:city":"Greentown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354206553,
-    "wof:lastmodified":1449067135,
+    "wof:lastmodified":1466503149,
     "wof:name":"R C Cars Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.950702,40.475185,-85.950702,40.475185],
-  "geometry": {"coordinates":[-85.950702,40.475185],"type":"Point"}
+  "bbox": [
+    -85.950702,
+    40.475185,
+    -85.950702,
+    40.475185
+],
+  "geometry": {"coordinates":[-85.95070200000001,40.475185],"type":"Point"}
 }

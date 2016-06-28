@@ -2,13 +2,14 @@
   "id": 387321533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.894738,39.248225,-85.894738,39.248225",
     "geom:latitude":39.248225,
     "geom:longitude":-85.894738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 Middle Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387321533,
-    "wof:lastmodified":1449056207,
+    "wof:lastmodified":1466503333,
     "wof:name":"Flambeau Products",
     "wof:parent_id":85840693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-85.894738,39.248225,-85.894738,39.248225],
+  "bbox": [
+    -85.894738,
+    39.248225,
+    -85.894738,
+    39.248225
+],
   "geometry": {"coordinates":[-85.894738,39.248225],"type":"Point"}
 }

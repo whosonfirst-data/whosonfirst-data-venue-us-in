@@ -2,13 +2,14 @@
   "id": 320664949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.227923,39.91514,-86.227923,39.91514",
     "geom:latitude":39.91514,
     "geom:longitude":-86.227923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Vincennes Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320664949,
-    "wof:lastmodified":1449012664,
+    "wof:lastmodified":1466503374,
     "wof:name":"Hospice Preferred Choice",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-86.227923,39.91514,-86.227923,39.91514],
+  "bbox": [
+    -86.227923,
+    39.91514,
+    -86.227923,
+    39.91514
+],
   "geometry": {"coordinates":[-86.227923,39.91514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370760533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.807685,41.580802,-85.807685,41.580802",
     "geom:latitude":41.580802,
     "geom:longitude":-85.807685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 E Monroe St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370760533,
-    "wof:lastmodified":1449032342,
+    "wof:lastmodified":1466503549,
     "wof:name":"Miller Chiropractic Ctr",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.807685,41.580802,-85.807685,41.580802],
-  "geometry": {"coordinates":[-85.807685,41.580802],"type":"Point"}
+  "bbox": [
+    -85.807685,
+    41.580802,
+    -85.807685,
+    41.580802
+],
+  "geometry": {"coordinates":[-85.80768500000001,41.580802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370679395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.509125,41.539978,-87.509125,41.539978",
     "geom:latitude":41.539978,
     "geom:longitude":-87.509125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9474 Calumet Ave",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370679395,
-    "wof:lastmodified":1449031253,
+    "wof:lastmodified":1466503473,
     "wof:name":"American Midwest Ind",
     "wof:parent_id":85833061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-87.509125,41.539978,-87.509125,41.539978],
+  "bbox": [
+    -87.509125,
+    41.539978,
+    -87.509125,
+    41.539978
+],
   "geometry": {"coordinates":[-87.509125,41.539978],"type":"Point"}
 }

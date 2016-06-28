@@ -2,13 +2,14 @@
   "id": 353541931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.595768,40.062257,-85.595768,40.062257",
     "geom:latitude":40.062257,
     "geom:longitude":-85.595768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 State Rd 236",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353541931,
-    "wof:lastmodified":1449018538,
+    "wof:lastmodified":1466503000,
     "wof:name":"Eclectic Edventures Inc",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-85.595768,40.062257,-85.595768,40.062257],
-  "geometry": {"coordinates":[-85.595768,40.062257],"type":"Point"}
+  "bbox": [
+    -85.595768,
+    40.062257,
+    -85.595768,
+    40.062257
+],
+  "geometry": {"coordinates":[-85.59576800000001,40.062257],"type":"Point"}
 }

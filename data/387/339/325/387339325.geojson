@@ -2,13 +2,14 @@
   "id": 387339325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474548,38.735765,-86.474548,38.735765",
     "geom:latitude":38.735765,
     "geom:longitude":-86.474548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 N 7th St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387339325,
-    "wof:lastmodified":1449057801,
+    "wof:lastmodified":1466503356,
     "wof:name":"Teddybear Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-86.474548,38.735765,-86.474548,38.735765],
+  "bbox": [
+    -86.474548,
+    38.735765,
+    -86.474548,
+    38.735765
+],
   "geometry": {"coordinates":[-86.474548,38.735765],"type":"Point"}
 }

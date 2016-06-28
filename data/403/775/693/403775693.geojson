@@ -2,13 +2,14 @@
   "id": 403775693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.622153,39.00329,-85.622153,39.00329",
     "geom:latitude":39.00329,
     "geom:longitude":-85.622153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Vernon St",
     "sg:city":"North Vernon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403775693,
-    "wof:lastmodified":1449055596,
+    "wof:lastmodified":1466502981,
     "wof:name":"Hembree's Accounting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-85.622153,39.00329,-85.622153,39.00329],
+  "bbox": [
+    -85.622153,
+    39.00329,
+    -85.622153,
+    39.00329
+],
   "geometry": {"coordinates":[-85.622153,39.00329],"type":"Point"}
 }

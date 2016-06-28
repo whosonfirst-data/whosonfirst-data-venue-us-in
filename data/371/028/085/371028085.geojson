@@ -2,13 +2,14 @@
   "id": 371028085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.043245,41.127713,-85.043245,41.127713",
     "geom:latitude":41.127713,
     "geom:longitude":-85.043245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Harcourt Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":371028085,
-    "wof:lastmodified":1449049619,
+    "wof:lastmodified":1466502905,
     "wof:name":"Graham Drywall & Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.043245,41.127713,-85.043245,41.127713],
+  "bbox": [
+    -85.043245,
+    41.127713,
+    -85.043245,
+    41.127713
+],
   "geometry": {"coordinates":[-85.043245,41.127713],"type":"Point"}
 }

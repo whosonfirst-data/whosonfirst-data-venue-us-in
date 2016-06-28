@@ -2,13 +2,14 @@
   "id": 354257713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.656981,40.113228,-85.656981,40.113228",
     "geom:latitude":40.113228,
     "geom:longitude":-85.656981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 University Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354257713,
-    "wof:lastmodified":1449066407,
+    "wof:lastmodified":1466503226,
     "wof:name":"Church Of God National Agncs",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.656981,40.113228,-85.656981,40.113228],
+  "bbox": [
+    -85.656981,
+    40.113228,
+    -85.656981,
+    40.113228
+],
   "geometry": {"coordinates":[-85.656981,40.113228],"type":"Point"}
 }

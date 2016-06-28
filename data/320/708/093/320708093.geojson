@@ -2,13 +2,14 @@
   "id": 320708093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138609,39.66603,-85.138609,39.66603",
     "geom:latitude":39.66603,
     "geom:longitude":-85.138609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Western Ave",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320708093,
-    "wof:lastmodified":1449011838,
+    "wof:lastmodified":1466503419,
     "wof:name":"Coach Line Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.138609,39.66603,-85.138609,39.66603],
+  "bbox": [
+    -85.138609,
+    39.66603,
+    -85.138609,
+    39.66603
+],
   "geometry": {"coordinates":[-85.138609,39.66603],"type":"Point"}
 }

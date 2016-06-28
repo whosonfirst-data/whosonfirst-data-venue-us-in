@@ -2,13 +2,14 @@
   "id": 320546523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.134611,41.090457,-85.134611,41.090457",
     "geom:latitude":41.090457,
     "geom:longitude":-85.134611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1649 Spy Run Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320546523,
-    "wof:lastmodified":1449011255,
+    "wof:lastmodified":1466503236,
     "wof:name":"Life Care Ctr Of Fort Wayne",
     "wof:parent_id":85877569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-85.134611,41.090457,-85.134611,41.090457],
-  "geometry": {"coordinates":[-85.134611,41.090457],"type":"Point"}
+  "bbox": [
+    -85.134611,
+    41.090457,
+    -85.134611,
+    41.090457
+],
+  "geometry": {"coordinates":[-85.13461100000001,41.090457],"type":"Point"}
 }

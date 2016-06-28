@@ -2,13 +2,14 @@
   "id": 303594085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.343374,41.602813,-87.343374,41.602813",
     "geom:latitude":41.602813,
     "geom:longitude":-87.343374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Monroe St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303594085,
-    "wof:lastmodified":1448998469,
+    "wof:lastmodified":1466503778,
     "wof:name":"A-A Bonded Locks & Safes Svc",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-87.343374,41.602813,-87.343374,41.602813],
+  "bbox": [
+    -87.343374,
+    41.602813,
+    -87.343374,
+    41.602813
+],
   "geometry": {"coordinates":[-87.343374,41.602813],"type":"Point"}
 }

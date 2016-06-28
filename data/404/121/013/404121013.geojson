@@ -2,13 +2,14 @@
   "id": 404121013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.076356,41.459134,-87.076356,41.459134",
     "geom:latitude":41.459134,
     "geom:longitude":-87.076356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Southpoint Dr",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404121013,
-    "wof:lastmodified":1449040025,
+    "wof:lastmodified":1466503053,
     "wof:name":"Health Motivation Ctr",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.076356,41.459134,-87.076356,41.459134],
+  "bbox": [
+    -87.076356,
+    41.459134,
+    -87.076356,
+    41.459134
+],
   "geometry": {"coordinates":[-87.076356,41.459134],"type":"Point"}
 }

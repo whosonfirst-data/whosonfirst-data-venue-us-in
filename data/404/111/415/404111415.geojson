@@ -2,13 +2,14 @@
   "id": 404111415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.913004,39.725913,-85.913004,39.725913",
     "geom:latitude":39.725913,
     "geom:longitude":-85.913004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5971 W US Hwy 52",
     "sg:city":"New Palestine",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":404111415,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466503040,
     "wof:name":"Mozzi's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.913004,39.725913,-85.913004,39.725913],
+  "bbox": [
+    -85.913004,
+    39.725913,
+    -85.913004,
+    39.725913
+],
   "geometry": {"coordinates":[-85.913004,39.725913],"type":"Point"}
 }

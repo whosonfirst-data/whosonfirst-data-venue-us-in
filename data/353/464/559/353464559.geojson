@@ -2,13 +2,14 @@
   "id": 353464559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133782,40.48977,-86.133782,40.48977",
     "geom:latitude":40.48977,
     "geom:longitude":-86.133782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Washington St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353464559,
-    "wof:lastmodified":1449018956,
+    "wof:lastmodified":1466502921,
     "wof:name":"Cross's Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorating"
     ]
 },
-  "bbox": [-86.133782,40.48977,-86.133782,40.48977],
+  "bbox": [
+    -86.133782,
+    40.48977,
+    -86.133782,
+    40.48977
+],
   "geometry": {"coordinates":[-86.133782,40.48977],"type":"Point"}
 }

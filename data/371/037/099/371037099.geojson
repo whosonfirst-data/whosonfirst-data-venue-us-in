@@ -2,13 +2,14 @@
   "id": 371037099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.056531,39.905256,-86.056531,39.905256",
     "geom:latitude":39.905256,
     "geom:longitude":-86.056531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371037099,
-    "wof:lastmodified":1449050163,
+    "wof:lastmodified":1466502914,
     "wof:name":"J & B Engineering Sales Co",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-86.056531,39.905256,-86.056531,39.905256],
-  "geometry": {"coordinates":[-86.056531,39.905256],"type":"Point"}
+  "bbox": [
+    -86.056531,
+    39.905256,
+    -86.056531,
+    39.905256
+],
+  "geometry": {"coordinates":[-86.05653100000001,39.905256],"type":"Point"}
 }

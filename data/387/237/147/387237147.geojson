@@ -2,13 +2,14 @@
   "id": 387237147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.287739,41.016259,-85.287739,41.016259",
     "geom:latitude":41.016259,
     "geom:longitude":-85.287739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10910 US Hwy 24 W",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387237147,
-    "wof:lastmodified":1449056212,
+    "wof:lastmodified":1466503219,
     "wof:name":"Elliott Insurance-Farmers Ins",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.287739,41.016259,-85.287739,41.016259],
+  "bbox": [
+    -85.287739,
+    41.016259,
+    -85.287739,
+    41.016259
+],
   "geometry": {"coordinates":[-85.287739,41.016259],"type":"Point"}
 }

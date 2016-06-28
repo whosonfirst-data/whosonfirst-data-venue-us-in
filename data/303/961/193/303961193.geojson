@@ -2,13 +2,14 @@
   "id": 303961193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22106,39.82232,-86.22106,39.82232",
     "geom:latitude":39.82232,
     "geom:longitude":-86.22106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 Guion Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303961193,
-    "wof:lastmodified":1449000517,
+    "wof:lastmodified":1466503323,
     "wof:name":"Guion Family Practice",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.22106,39.82232,-86.22106,39.82232],
-  "geometry": {"coordinates":[-86.22106,39.82232],"type":"Point"}
+  "bbox": [
+    -86.22106,
+    39.82232,
+    -86.22106,
+    39.82232
+],
+  "geometry": {"coordinates":[-86.22105999999999,39.82232],"type":"Point"}
 }

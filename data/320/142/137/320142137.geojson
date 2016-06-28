@@ -2,13 +2,14 @@
   "id": 320142137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.831473,38.366485,-85.831473,38.366485",
     "geom:latitude":38.366485,
     "geom:longitude":-85.831473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7263 N Skyline Dr",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320142137,
-    "wof:lastmodified":1449014221,
+    "wof:lastmodified":1466503726,
     "wof:name":"Starsight",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-85.831473,38.366485,-85.831473,38.366485],
+  "bbox": [
+    -85.831473,
+    38.366485,
+    -85.831473,
+    38.366485
+],
   "geometry": {"coordinates":[-85.831473,38.366485],"type":"Point"}
 }

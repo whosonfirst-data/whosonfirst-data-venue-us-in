@@ -2,13 +2,14 @@
   "id": 370507377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611391,39.202353,-86.611391,39.202353",
     "geom:latitude":39.202353,
     "geom:longitude":-86.611391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2989 N Hartstrait Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370507377,
-    "wof:lastmodified":1449030820,
+    "wof:lastmodified":1466503277,
     "wof:name":"Outdoor Home Solutions",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.611391,39.202353,-86.611391,39.202353],
+  "bbox": [
+    -86.611391,
+    39.202353,
+    -86.611391,
+    39.202353
+],
   "geometry": {"coordinates":[-86.611391,39.202353],"type":"Point"}
 }

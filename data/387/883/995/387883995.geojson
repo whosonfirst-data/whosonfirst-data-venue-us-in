@@ -2,13 +2,14 @@
   "id": 387883995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246863,39.207563,-86.246863,39.207563",
     "geom:latitude":39.207563,
     "geom:longitude":-86.246863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 N Van Buren St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387883995,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1466504104,
     "wof:name":"Nashville Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.246863,39.207563,-86.246863,39.207563],
+  "bbox": [
+    -86.246863,
+    39.207563,
+    -86.246863,
+    39.207563
+],
   "geometry": {"coordinates":[-86.246863,39.207563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303978509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.388731,40.193007,-85.388731,40.193007",
     "geom:latitude":40.193007,
     "geom:longitude":-85.388731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Franklin St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303978509,
-    "wof:lastmodified":1448999532,
+    "wof:lastmodified":1466503356,
     "wof:name":"Waggoner Irwin Scheele & Assoc",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-85.388731,40.193007,-85.388731,40.193007],
-  "geometry": {"coordinates":[-85.388731,40.193007],"type":"Point"}
+  "bbox": [
+    -85.388731,
+    40.193007,
+    -85.388731,
+    40.193007
+],
+  "geometry": {"coordinates":[-85.38873100000001,40.193007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371095207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570719,37.982091,-87.570719,37.982091",
     "geom:latitude":37.982091,
     "geom:longitude":-87.570719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Mary St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371095207,
-    "wof:lastmodified":1449049563,
+    "wof:lastmodified":1466502991,
     "wof:name":"Deaconess Physician Finder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "information"
     ]
 },
-  "bbox": [-87.570719,37.982091,-87.570719,37.982091],
+  "bbox": [
+    -87.570719,
+    37.982091,
+    -87.570719,
+    37.982091
+],
   "geometry": {"coordinates":[-87.570719,37.982091],"type":"Point"}
 }

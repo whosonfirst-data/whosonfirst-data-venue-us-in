@@ -2,13 +2,14 @@
   "id": 371074513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200492,39.733588,-86.200492,39.733588",
     "geom:latitude":39.733588,
     "geom:longitude":-86.200492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 Kentucky Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371074513,
-    "wof:lastmodified":1449049614,
+    "wof:lastmodified":1466502964,
     "wof:name":"Seastrom & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-86.200492,39.733588,-86.200492,39.733588],
+  "bbox": [
+    -86.200492,
+    39.733588,
+    -86.200492,
+    39.733588
+],
   "geometry": {"coordinates":[-86.200492,39.733588],"type":"Point"}
 }

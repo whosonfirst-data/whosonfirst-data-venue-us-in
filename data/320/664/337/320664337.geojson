@@ -2,13 +2,14 @@
   "id": 320664337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.089316,39.856693,-86.089316,39.856693",
     "geom:latitude":39.856693,
     "geom:longitude":-86.089316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 Kessler View Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320664337,
-    "wof:lastmodified":1449012665,
+    "wof:lastmodified":1466503374,
     "wof:name":"Thomas E Rossa Carpet Care",
     "wof:parent_id":85834375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-86.089316,39.856693,-86.089316,39.856693],
+  "bbox": [
+    -86.089316,
+    39.856693,
+    -86.089316,
+    39.856693
+],
   "geometry": {"coordinates":[-86.089316,39.856693],"type":"Point"}
 }

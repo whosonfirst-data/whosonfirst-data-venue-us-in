@@ -2,13 +2,14 @@
   "id": 303328299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.815253,38.287121,-85.815253,38.287121",
     "geom:latitude":38.287121,
     "geom:longitude":-85.815253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E Market St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303328299,
-    "wof:lastmodified":1448999563,
+    "wof:lastmodified":1466503605,
     "wof:name":"Kruger Schwartz & Morreau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-85.815253,38.287121,-85.815253,38.287121],
+  "bbox": [
+    -85.815253,
+    38.287121,
+    -85.815253,
+    38.287121
+],
   "geometry": {"coordinates":[-85.815253,38.287121],"type":"Point"}
 }

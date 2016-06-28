@@ -2,13 +2,14 @@
   "id": 303933783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533583,39.173275,-86.533583,39.173275",
     "geom:latitude":39.173275,
     "geom:longitude":-86.533583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 N Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303933783,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466503285,
     "wof:name":"Carpenter & Assoc",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.533583,39.173275,-86.533583,39.173275],
-  "geometry": {"coordinates":[-86.533583,39.173275],"type":"Point"}
+  "bbox": [
+    -86.533583,
+    39.173275,
+    -86.533583,
+    39.173275
+],
+  "geometry": {"coordinates":[-86.53358299999999,39.173275],"type":"Point"}
 }

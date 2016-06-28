@@ -2,13 +2,14 @@
   "id": 387352919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.919121,39.902498,-85.919121,39.902498",
     "geom:latitude":39.902498,
     "geom:longitude":-85.919121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8250 N 600 W",
     "sg:city":"Mc Cordsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387352919,
-    "wof:lastmodified":1449058443,
+    "wof:lastmodified":1466503375,
     "wof:name":"Mc Cordsville Family Chiro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.919121,39.902498,-85.919121,39.902498],
+  "bbox": [
+    -85.919121,
+    39.902498,
+    -85.919121,
+    39.902498
+],
   "geometry": {"coordinates":[-85.919121,39.902498],"type":"Point"}
 }

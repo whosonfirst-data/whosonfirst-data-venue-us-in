@@ -2,13 +2,14 @@
   "id": 354260441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.910254,40.716741,-84.910254,40.716741",
     "geom:latitude":40.716741,
     "geom:longitude":-84.910254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1356 E 200 S",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354260441,
-    "wof:lastmodified":1449066220,
+    "wof:lastmodified":1466503229,
     "wof:name":"E & R Seed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.910254,40.716741,-84.910254,40.716741],
-  "geometry": {"coordinates":[-84.910254,40.716741],"type":"Point"}
+  "bbox": [
+    -84.910254,
+    40.716741,
+    -84.910254,
+    40.716741
+],
+  "geometry": {"coordinates":[-84.91025399999999,40.716741],"type":"Point"}
 }

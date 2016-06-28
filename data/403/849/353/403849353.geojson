@@ -2,13 +2,14 @@
   "id": 403849353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.909079,40.322989,-86.909079,40.322989",
     "geom:latitude":40.322989,
     "geom:longitude":-86.909079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Wea Woodland Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403849353,
-    "wof:lastmodified":1449054879,
+    "wof:lastmodified":1466503092,
     "wof:name":"Bob's Lawn Aeration Svc",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.909079,40.322989,-86.909079,40.322989],
-  "geometry": {"coordinates":[-86.909079,40.322989],"type":"Point"}
+  "bbox": [
+    -86.909079,
+    40.322989,
+    -86.909079,
+    40.322989
+],
+  "geometry": {"coordinates":[-86.90907900000001,40.322989],"type":"Point"}
 }

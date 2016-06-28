@@ -2,13 +2,14 @@
   "id": 353532251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.901331,40.041446,-86.901331,40.041446",
     "geom:latitude":40.041446,
     "geom:longitude":-86.901331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Washington St",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353532251,
-    "wof:lastmodified":1449019123,
+    "wof:lastmodified":1466502987,
     "wof:name":"Cabbages & Kings Antique Mall",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-86.901331,40.041446,-86.901331,40.041446],
+  "bbox": [
+    -86.901331,
+    40.041446,
+    -86.901331,
+    40.041446
+],
   "geometry": {"coordinates":[-86.901331,40.041446],"type":"Point"}
 }

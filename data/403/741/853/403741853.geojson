@@ -2,13 +2,14 @@
   "id": 403741853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.168249,41.025129,-85.168249,41.025129",
     "geom:latitude":41.025129,
     "geom:longitude":-85.168249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6431 Bluffton Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403741853,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1466502935,
     "wof:name":"Audio Professionals Inc",
     "wof:parent_id":85829207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hearing"
     ]
 },
-  "bbox": [-85.168249,41.025129,-85.168249,41.025129],
+  "bbox": [
+    -85.168249,
+    41.025129,
+    -85.168249,
+    41.025129
+],
   "geometry": {"coordinates":[-85.168249,41.025129],"type":"Point"}
 }

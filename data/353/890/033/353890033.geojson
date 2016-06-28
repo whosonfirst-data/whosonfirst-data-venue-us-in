@@ -2,13 +2,14 @@
   "id": 353890033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899456,40.42208,-86.899456,40.42208",
     "geom:latitude":40.42208,
     "geom:longitude":-86.899456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Brown St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353890033,
-    "wof:lastmodified":1449018827,
+    "wof:lastmodified":1466503415,
     "wof:name":"Levee Health & Fitness",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.899456,40.42208,-86.899456,40.42208],
+  "bbox": [
+    -86.899456,
+    40.42208,
+    -86.899456,
+    40.42208
+],
   "geometry": {"coordinates":[-86.899456,40.42208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387471641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.903455,38.34477,-85.903455,38.34477",
     "geom:latitude":38.34477,
     "geom:longitude":-85.903455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Denise Way",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387471641,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1466503540,
     "wof:name":"Complete Reconstruction",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-85.903455,38.34477,-85.903455,38.34477],
-  "geometry": {"coordinates":[-85.903455,38.34477],"type":"Point"}
+  "bbox": [
+    -85.903455,
+    38.34477,
+    -85.903455,
+    38.34477
+],
+  "geometry": {"coordinates":[-85.90345499999999,38.34477],"type":"Point"}
 }

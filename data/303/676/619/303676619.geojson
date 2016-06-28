@@ -2,13 +2,14 @@
   "id": 303676619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.114119,41.069958,-85.114119,41.069958",
     "geom:latitude":41.069958,
     "geom:longitude":-85.114119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Anthony Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303676619,
-    "wof:lastmodified":1448999685,
+    "wof:lastmodified":1466502958,
     "wof:name":"Jones Auto Paint & Body Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-85.114119,41.069958,-85.114119,41.069958],
+  "bbox": [
+    -85.114119,
+    41.069958,
+    -85.114119,
+    41.069958
+],
   "geometry": {"coordinates":[-85.114119,41.069958],"type":"Point"}
 }

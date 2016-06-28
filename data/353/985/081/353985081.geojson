@@ -2,13 +2,14 @@
   "id": 353985081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148372,41.688197,-86.148372,41.688197",
     "geom:latitude":41.688197,
     "geom:longitude":-86.148372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3635 N Home St",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353985081,
-    "wof:lastmodified":1449019530,
+    "wof:lastmodified":1466503535,
     "wof:name":"Classic Stairs & Trim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stair"
     ]
 },
-  "bbox": [-86.148372,41.688197,-86.148372,41.688197],
-  "geometry": {"coordinates":[-86.148372,41.688197],"type":"Point"}
+  "bbox": [
+    -86.148372,
+    41.688197,
+    -86.148372,
+    41.688197
+],
+  "geometry": {"coordinates":[-86.14837199999999,41.688197],"type":"Point"}
 }

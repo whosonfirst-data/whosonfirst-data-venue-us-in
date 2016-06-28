@@ -2,13 +2,14 @@
   "id": 387111497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.247461,41.055193,-85.247461,41.055193",
     "geom:latitude":41.055193,
     "geom:longitude":-85.247461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2926 Dockshire Ln",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387111497,
-    "wof:lastmodified":1449060042,
+    "wof:lastmodified":1466503045,
     "wof:name":"Appraisals By Tom Heiny",
     "wof:parent_id":85807473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-85.247461,41.055193,-85.247461,41.055193],
+  "bbox": [
+    -85.247461,
+    41.055193,
+    -85.247461,
+    41.055193
+],
   "geometry": {"coordinates":[-85.247461,41.055193],"type":"Point"}
 }

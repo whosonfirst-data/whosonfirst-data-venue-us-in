@@ -2,13 +2,14 @@
   "id": 354200587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.15554,39.91222,-86.15554,39.91222",
     "geom:latitude":39.91222,
     "geom:longitude":-86.15554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8414 N Pennsylvania St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354200587,
-    "wof:lastmodified":1449066598,
+    "wof:lastmodified":1466503136,
     "wof:name":"Biz & Home Inc",
     "wof:parent_id":85850623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-86.15554,39.91222,-86.15554,39.91222],
+  "bbox": [
+    -86.15554,
+    39.91222,
+    -86.15554,
+    39.91222
+],
   "geometry": {"coordinates":[-86.15554,39.91222],"type":"Point"}
 }

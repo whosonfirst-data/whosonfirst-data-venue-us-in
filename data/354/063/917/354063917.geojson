@@ -2,13 +2,14 @@
   "id": 354063917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.768564,39.516702,-85.768564,39.516702",
     "geom:latitude":39.516702,
     "geom:longitude":-85.768564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Van Ave",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354063917,
-    "wof:lastmodified":1449066080,
+    "wof:lastmodified":1466502955,
     "wof:name":"Tribble's Sewing Machine Rpair",
     "wof:parent_id":85855029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-85.768564,39.516702,-85.768564,39.516702],
+  "bbox": [
+    -85.768564,
+    39.516702,
+    -85.768564,
+    39.516702
+],
   "geometry": {"coordinates":[-85.768564,39.516702],"type":"Point"}
 }

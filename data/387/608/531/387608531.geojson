@@ -2,13 +2,14 @@
   "id": 387608531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492848,37.954974,-87.492848,37.954974",
     "geom:latitude":37.954974,
     "geom:longitude":-87.492848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Covert Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387608531,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1466503723,
     "wof:name":"Home Plan Co",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-87.492848,37.954974,-87.492848,37.954974],
+  "bbox": [
+    -87.492848,
+    37.954974,
+    -87.492848,
+    37.954974
+],
   "geometry": {"coordinates":[-87.492848,37.954974],"type":"Point"}
 }

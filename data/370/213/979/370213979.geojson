@@ -2,13 +2,14 @@
   "id": 370213979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.33872,41.485525,-87.33872,41.485525",
     "geom:latitude":41.485525,
     "geom:longitude":-87.33872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 W 73rd Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370213979,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1466502966,
     "wof:name":"1st American Home Loan & Mrtg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.33872,41.485525,-87.33872,41.485525],
+  "bbox": [
+    -87.33872,
+    41.485525,
+    -87.33872,
+    41.485525
+],
   "geometry": {"coordinates":[-87.33872,41.485525],"type":"Point"}
 }

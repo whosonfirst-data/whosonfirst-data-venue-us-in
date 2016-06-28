@@ -2,13 +2,14 @@
   "id": 353646967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.925842,41.682009,-85.925842,41.682009",
     "geom:latitude":41.682009,
     "geom:longitude":-85.925842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Los Angeles Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353646967,
-    "wof:lastmodified":1449018192,
+    "wof:lastmodified":1466503131,
     "wof:name":"Kiser Welding",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.925842,41.682009,-85.925842,41.682009],
+  "bbox": [
+    -85.925842,
+    41.682009,
+    -85.925842,
+    41.682009
+],
   "geometry": {"coordinates":[-85.925842,41.682009],"type":"Point"}
 }

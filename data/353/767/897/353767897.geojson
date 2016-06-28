@@ -2,13 +2,14 @@
   "id": 353767897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.532388,39.166497,-86.532388,39.166497",
     "geom:latitude":39.166497,
     "geom:longitude":-86.532388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Kirkwood Ave",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353767897,
-    "wof:lastmodified":1449019006,
+    "wof:lastmodified":1466503268,
     "wof:name":"Emporium-Earthly Goods/Treasur",
     "wof:parent_id":85832565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.532388,39.166497,-86.532388,39.166497],
+  "bbox": [
+    -86.532388,
+    39.166497,
+    -86.532388,
+    39.166497
+],
   "geometry": {"coordinates":[-86.532388,39.166497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353562337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.367619,40.187832,-85.367619,40.187832",
     "geom:latitude":40.187832,
     "geom:longitude":-85.367619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 S Macedonia Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353562337,
-    "wof:lastmodified":1449019609,
+    "wof:lastmodified":1466503024,
     "wof:name":"Andrew's Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.367619,40.187832,-85.367619,40.187832],
+  "bbox": [
+    -85.367619,
+    40.187832,
+    -85.367619,
+    40.187832
+],
   "geometry": {"coordinates":[-85.367619,40.187832],"type":"Point"}
 }

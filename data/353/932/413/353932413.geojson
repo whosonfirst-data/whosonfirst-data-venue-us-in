@@ -2,13 +2,14 @@
   "id": 353932413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.391395,39.761692,-86.391395,39.761692",
     "geom:latitude":39.761692,
     "geom:longitude":-86.391395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7367 Bus Center Dr",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353932413,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1466503469,
     "wof:name":"WOOF N Wags Doggie Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kennel"
     ]
 },
-  "bbox": [-86.391395,39.761692,-86.391395,39.761692],
+  "bbox": [
+    -86.391395,
+    39.761692,
+    -86.391395,
+    39.761692
+],
   "geometry": {"coordinates":[-86.391395,39.761692],"type":"Point"}
 }

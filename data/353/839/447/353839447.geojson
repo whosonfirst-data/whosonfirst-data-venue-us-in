@@ -2,13 +2,14 @@
   "id": 353839447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.006572,39.973722,-86.006572,39.973722",
     "geom:latitude":39.973722,
     "geom:longitude":-86.006572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9151 Ford Cir",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353839447,
-    "wof:lastmodified":1449019811,
+    "wof:lastmodified":1466503357,
     "wof:name":"Leach & Russell Mechanical",
     "wof:parent_id":85891117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.006572,39.973722,-86.006572,39.973722],
-  "geometry": {"coordinates":[-86.006572,39.973722],"type":"Point"}
+  "bbox": [
+    -86.006572,
+    39.973722,
+    -86.006572,
+    39.973722
+],
+  "geometry": {"coordinates":[-86.00657200000001,39.973722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303549905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533552,39.164638,-86.533552,39.164638",
     "geom:latitude":39.164638,
     "geom:longitude":-86.533552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303549905,
-    "wof:lastmodified":1448998785,
+    "wof:lastmodified":1466503745,
     "wof:name":"Gerard W Pauwels",
     "wof:parent_id":85832565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.533552,39.164638,-86.533552,39.164638],
+  "bbox": [
+    -86.533552,
+    39.164638,
+    -86.533552,
+    39.164638
+],
   "geometry": {"coordinates":[-86.533552,39.164638],"type":"Point"}
 }

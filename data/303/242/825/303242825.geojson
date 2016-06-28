@@ -2,13 +2,14 @@
   "id": 303242825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.910897,41.218401,-85.910897,41.218401",
     "geom:latitude":41.218401,
     "geom:longitude":-85.910897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3589 W 100 S",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303242825,
-    "wof:lastmodified":1449000276,
+    "wof:lastmodified":1466503516,
     "wof:name":"Warsaw Metal Products Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-85.910897,41.218401,-85.910897,41.218401],
-  "geometry": {"coordinates":[-85.910897,41.218401],"type":"Point"}
+  "bbox": [
+    -85.910897,
+    41.218401,
+    -85.910897,
+    41.218401
+],
+  "geometry": {"coordinates":[-85.91089700000001,41.218401],"type":"Point"}
 }

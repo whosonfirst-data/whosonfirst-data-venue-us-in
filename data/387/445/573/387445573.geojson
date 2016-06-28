@@ -2,13 +2,14 @@
   "id": 387445573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985965,41.186608,-86.985965,41.186608",
     "geom:latitude":41.186608,
     "geom:longitude":-86.985965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 State Rd 10",
     "sg:city":"Wheatfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387445573,
-    "wof:lastmodified":1449056613,
+    "wof:lastmodified":1466503504,
     "wof:name":"T R Hodges Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.985965,41.186608,-86.985965,41.186608],
-  "geometry": {"coordinates":[-86.985965,41.186608],"type":"Point"}
+  "bbox": [
+    -86.985965,
+    41.186608,
+    -86.985965,
+    41.186608
+],
+  "geometry": {"coordinates":[-86.98596499999999,41.186608],"type":"Point"}
 }

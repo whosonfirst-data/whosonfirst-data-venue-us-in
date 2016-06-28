@@ -2,13 +2,14 @@
   "id": 303277377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.166546,40.730307,-85.166546,40.730307",
     "geom:latitude":40.730307,
     "geom:longitude":-85.166546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Townley St",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303277377,
-    "wof:lastmodified":1448998397,
+    "wof:lastmodified":1466503560,
     "wof:name":"ANS Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-85.166546,40.730307,-85.166546,40.730307],
+  "bbox": [
+    -85.166546,
+    40.730307,
+    -85.166546,
+    40.730307
+],
   "geometry": {"coordinates":[-85.166546,40.730307],"type":"Point"}
 }

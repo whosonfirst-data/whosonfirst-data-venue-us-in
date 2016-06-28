@@ -2,13 +2,14 @@
   "id": 354192601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.1764,39.780953,-86.1764,39.780953",
     "geom:latitude":39.780953,
     "geom:longitude":-86.1764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354192601,
-    "wof:lastmodified":1449067162,
+    "wof:lastmodified":1466503124,
     "wof:name":"Wishard Pediatrics Gen & Cmnty",
     "wof:parent_id":85866223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.1764,39.780953,-86.1764,39.780953],
+  "bbox": [
+    -86.1764,
+    39.780953,
+    -86.1764,
+    39.780953
+],
   "geometry": {"coordinates":[-86.1764,39.780953],"type":"Point"}
 }

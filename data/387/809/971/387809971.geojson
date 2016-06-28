@@ -2,13 +2,14 @@
   "id": 387809971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.920165,39.201508,-85.920165,39.201508",
     "geom:latitude":39.201508,
     "geom:longitude":-85.920165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 3rd St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387809971,
-    "wof:lastmodified":1449059239,
+    "wof:lastmodified":1466503992,
     "wof:name":"Maintenance Supervisor",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.920165,39.201508,-85.920165,39.201508],
+  "bbox": [
+    -85.920165,
+    39.201508,
+    -85.920165,
+    39.201508
+],
   "geometry": {"coordinates":[-85.920165,39.201508],"type":"Point"}
 }

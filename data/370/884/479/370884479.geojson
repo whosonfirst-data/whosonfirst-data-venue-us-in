@@ -2,13 +2,14 @@
   "id": 370884479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.045712,39.811071,-86.045712,39.811071",
     "geom:latitude":39.811071,
     "geom:longitude":-86.045712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 E 30th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370884479,
-    "wof:lastmodified":1449031829,
+    "wof:lastmodified":1466503686,
     "wof:name":"Special Sales",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.045712,39.811071,-86.045712,39.811071],
-  "geometry": {"coordinates":[-86.045712,39.811071],"type":"Point"}
+  "bbox": [
+    -86.045712,
+    39.811071,
+    -86.045712,
+    39.811071
+],
+  "geometry": {"coordinates":[-86.04571199999999,39.811071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387253065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.027433,40.11549,-86.027433,40.11549",
     "geom:latitude":40.11549,
     "geom:longitude":-86.027433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2080 Stringtown Pike",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387253065,
-    "wof:lastmodified":1449059451,
+    "wof:lastmodified":1466503242,
     "wof:name":"All For The Love Of Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.027433,40.11549,-86.027433,40.11549],
+  "bbox": [
+    -86.027433,
+    40.11549,
+    -86.027433,
+    40.11549
+],
   "geometry": {"coordinates":[-86.027433,40.11549],"type":"Point"}
 }

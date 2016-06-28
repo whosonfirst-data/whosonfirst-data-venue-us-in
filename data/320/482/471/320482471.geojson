@@ -2,13 +2,14 @@
   "id": 320482471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.187056,40.9282,-87.187056,40.9282",
     "geom:latitude":40.9282,
     "geom:longitude":-87.187056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 W Bunkum Rd",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320482471,
-    "wof:lastmodified":1449012598,
+    "wof:lastmodified":1466503160,
     "wof:name":"Fellowship Of Living Hope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.187056,40.9282,-87.187056,40.9282],
+  "bbox": [
+    -87.187056,
+    40.9282,
+    -87.187056,
+    40.9282
+],
   "geometry": {"coordinates":[-87.187056,40.9282],"type":"Point"}
 }

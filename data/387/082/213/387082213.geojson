@@ -2,13 +2,14 @@
   "id": 387082213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.670401,39.475251,-85.670401,39.475251",
     "geom:latitude":39.475251,
     "geom:longitude":-85.670401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5826 E Michigan Rd",
     "sg:city":"Waldron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387082213,
-    "wof:lastmodified":1449056217,
+    "wof:lastmodified":1466502999,
     "wof:name":"Country Doll Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.670401,39.475251,-85.670401,39.475251],
+  "bbox": [
+    -85.670401,
+    39.475251,
+    -85.670401,
+    39.475251
+],
   "geometry": {"coordinates":[-85.670401,39.475251],"type":"Point"}
 }

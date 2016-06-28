@@ -2,13 +2,14 @@
   "id": 353450721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.246822,40.104413,-87.246822,40.104413",
     "geom:latitude":40.104413,
     "geom:longitude":-87.246822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E US Hwy 136",
     "sg:city":"Veedersburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353450721,
-    "wof:lastmodified":1449020430,
+    "wof:lastmodified":1466502912,
     "wof:name":"Marathon Food Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.246822,40.104413,-87.246822,40.104413],
-  "geometry": {"coordinates":[-87.246822,40.104413],"type":"Point"}
+  "bbox": [
+    -87.246822,
+    40.104413,
+    -87.246822,
+    40.104413
+],
+  "geometry": {"coordinates":[-87.24682199999999,40.104413],"type":"Point"}
 }

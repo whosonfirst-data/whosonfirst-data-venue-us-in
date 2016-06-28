@@ -2,13 +2,14 @@
   "id": 387465263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.50148,38.001134,-87.50148,38.001134",
     "geom:latitude":38.001134,
     "geom:longitude":-87.50148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Stockwell Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387465263,
-    "wof:lastmodified":1449058667,
+    "wof:lastmodified":1466503534,
     "wof:name":"Discoteca Geminis",
     "wof:parent_id":85877323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-87.50148,38.001134,-87.50148,38.001134],
+  "bbox": [
+    -87.50148,
+    38.001134,
+    -87.50148,
+    38.001134
+],
   "geometry": {"coordinates":[-87.50148,38.001134],"type":"Point"}
 }

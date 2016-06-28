@@ -2,13 +2,14 @@
   "id": 387082369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.118176,41.538648,-86.118176,41.538648",
     "geom:latitude":41.538648,
     "geom:longitude":-86.118176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65201 Dogwood Rd",
     "sg:city":"Wakarusa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387082369,
-    "wof:lastmodified":1449056217,
+    "wof:lastmodified":1466502999,
     "wof:name":"Myers Orvil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-86.118176,41.538648,-86.118176,41.538648],
-  "geometry": {"coordinates":[-86.118176,41.538648],"type":"Point"}
+  "bbox": [
+    -86.118176,
+    41.538648,
+    -86.118176,
+    41.538648
+],
+  "geometry": {"coordinates":[-86.11817600000001,41.538648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303790503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843867,40.417901,-86.843867,40.417901",
     "geom:latitude":40.417901,
     "geom:longitude":-86.843867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Executive Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303790503,
-    "wof:lastmodified":1448999994,
+    "wof:lastmodified":1466503093,
     "wof:name":"Tricad Engineering Inc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.843867,40.417901,-86.843867,40.417901],
+  "bbox": [
+    -86.843867,
+    40.417901,
+    -86.843867,
+    40.417901
+],
   "geometry": {"coordinates":[-86.843867,40.417901],"type":"Point"}
 }

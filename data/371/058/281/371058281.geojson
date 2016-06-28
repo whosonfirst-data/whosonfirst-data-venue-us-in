@@ -2,13 +2,14 @@
   "id": 371058281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.27522,39.745241,-86.27522,39.745241",
     "geom:latitude":39.745241,
     "geom:longitude":-86.27522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371058281,
-    "wof:lastmodified":1449049184,
+    "wof:lastmodified":1466502939,
     "wof:name":"Sharper Image Automotive",
     "wof:parent_id":85805707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.27522,39.745241,-86.27522,39.745241],
+  "bbox": [
+    -86.27522,
+    39.745241,
+    -86.27522,
+    39.745241
+],
   "geometry": {"coordinates":[-86.27522,39.745241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354341191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.845582,41.262969,-85.845582,41.262969",
     "geom:latitude":41.262969,
     "geom:longitude":-85.845582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Anchorage Rd",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354341191,
-    "wof:lastmodified":1449067599,
+    "wof:lastmodified":1466503356,
     "wof:name":"Shamrock Village",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-85.845582,41.262969,-85.845582,41.262969],
-  "geometry": {"coordinates":[-85.845582,41.262969],"type":"Point"}
+  "bbox": [
+    -85.845582,
+    41.262969,
+    -85.845582,
+    41.262969
+],
+  "geometry": {"coordinates":[-85.84558199999999,41.262969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320665377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.070967,39.825374,-86.070967,39.825374",
     "geom:latitude":39.825374,
     "geom:longitude":-86.070967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 E 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320665377,
-    "wof:lastmodified":1449012409,
+    "wof:lastmodified":1466503375,
     "wof:name":"Susan's Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-86.070967,39.825374,-86.070967,39.825374],
+  "bbox": [
+    -86.070967,
+    39.825374,
+    -86.070967,
+    39.825374
+],
   "geometry": {"coordinates":[-86.070967,39.825374],"type":"Point"}
 }

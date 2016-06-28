@@ -2,13 +2,14 @@
   "id": 336734501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.543388,39.159527,-86.543388,39.159527",
     "geom:latitude":39.159527,
     "geom:longitude":-86.543388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 W 1st St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336734501,
-    "wof:lastmodified":1448997887,
+    "wof:lastmodified":1466503059,
     "wof:name":"Bloomington Kidney",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.543388,39.159527,-86.543388,39.159527],
-  "geometry": {"coordinates":[-86.543388,39.159527],"type":"Point"}
+  "bbox": [
+    -86.543388,
+    39.159527,
+    -86.543388,
+    39.159527
+],
+  "geometry": {"coordinates":[-86.54338799999999,39.159527],"type":"Point"}
 }

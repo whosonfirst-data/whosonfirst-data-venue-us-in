@@ -2,13 +2,14 @@
   "id": 303972877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.88853,41.698679,-85.88853,41.698679",
     "geom:latitude":41.698679,
     "geom:longitude":-85.88853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54651 Co Rd 17",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303972877,
-    "wof:lastmodified":1448999344,
+    "wof:lastmodified":1466503345,
     "wof:name":"Lighthouse Car Wash",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.88853,41.698679,-85.88853,41.698679],
+  "bbox": [
+    -85.88853,
+    41.698679,
+    -85.88853,
+    41.698679
+],
   "geometry": {"coordinates":[-85.88853,41.698679],"type":"Point"}
 }

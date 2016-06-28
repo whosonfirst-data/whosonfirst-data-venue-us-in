@@ -2,13 +2,14 @@
   "id": 387883415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.267383,39.953725,-86.267383,39.953725",
     "geom:latitude":39.953725,
     "geom:longitude":-86.267383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Beech St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387883415,
-    "wof:lastmodified":1449059014,
+    "wof:lastmodified":1466504102,
     "wof:name":"Zion Nature Ctr",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nature"
     ]
 },
-  "bbox": [-86.267383,39.953725,-86.267383,39.953725],
+  "bbox": [
+    -86.267383,
+    39.953725,
+    -86.267383,
+    39.953725
+],
   "geometry": {"coordinates":[-86.267383,39.953725],"type":"Point"}
 }

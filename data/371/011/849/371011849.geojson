@@ -2,13 +2,14 @@
   "id": 371011849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.438583,41.588135,-87.438583,41.588135",
     "geom:latitude":41.588135,
     "geom:longitude":-87.438583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 169th St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371011849,
-    "wof:lastmodified":1449049908,
+    "wof:lastmodified":1466502883,
     "wof:name":"Gas Depot",
     "wof:parent_id":85827161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.438583,41.588135,-87.438583,41.588135],
-  "geometry": {"coordinates":[-87.438583,41.588135],"type":"Point"}
+  "bbox": [
+    -87.438583,
+    41.588135,
+    -87.438583,
+    41.588135
+],
+  "geometry": {"coordinates":[-87.43858299999999,41.588135],"type":"Point"}
 }

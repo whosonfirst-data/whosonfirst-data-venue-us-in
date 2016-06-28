@@ -2,13 +2,14 @@
   "id": 354034119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.484436,37.992264,-87.484436,37.992264",
     "geom:latitude":37.992264,
     "geom:longitude":-87.484436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5007 Oak Grove Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354034119,
-    "wof:lastmodified":1449066126,
+    "wof:lastmodified":1466502919,
     "wof:name":"Kirby Risk Electrical Supply",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.484436,37.992264,-87.484436,37.992264],
+  "bbox": [
+    -87.484436,
+    37.992264,
+    -87.484436,
+    37.992264
+],
   "geometry": {"coordinates":[-87.484436,37.992264],"type":"Point"}
 }

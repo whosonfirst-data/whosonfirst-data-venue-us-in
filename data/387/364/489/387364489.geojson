@@ -2,13 +2,14 @@
   "id": 387364489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.041625,39.949638,-86.041625,39.949638",
     "geom:latitude":39.949638,
     "geom:longitude":-86.041625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11087 Village Square Ln",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387364489,
-    "wof:lastmodified":1449058245,
+    "wof:lastmodified":1466503391,
     "wof:name":"Physiotherapy Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-86.041625,39.949638,-86.041625,39.949638],
+  "bbox": [
+    -86.041625,
+    39.949638,
+    -86.041625,
+    39.949638
+],
   "geometry": {"coordinates":[-86.041625,39.949638],"type":"Point"}
 }

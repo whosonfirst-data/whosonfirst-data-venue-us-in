@@ -2,13 +2,14 @@
   "id": 303995177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.226814,41.65921,-86.226814,41.65921",
     "geom:latitude":41.65921,
     "geom:longitude":-86.226814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1448 Lincolnway E",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303995177,
-    "wof:lastmodified":1449000299,
+    "wof:lastmodified":1466503378,
     "wof:name":"Eye Care Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.226814,41.65921,-86.226814,41.65921],
+  "bbox": [
+    -86.226814,
+    41.65921,
+    -86.226814,
+    41.65921
+],
   "geometry": {"coordinates":[-86.226814,41.65921],"type":"Point"}
 }

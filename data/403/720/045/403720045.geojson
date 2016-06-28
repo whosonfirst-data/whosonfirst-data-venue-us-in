@@ -2,13 +2,14 @@
   "id": 403720045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.152556,40.936662,-87.152556,40.936662",
     "geom:latitude":40.936662,
     "geom:longitude":-87.152556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Van Rensselaer St",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403720045,
-    "wof:lastmodified":1449054962,
+    "wof:lastmodified":1466502905,
     "wof:name":"William A Moit CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-87.152556,40.936662,-87.152556,40.936662],
+  "bbox": [
+    -87.152556,
+    40.936662,
+    -87.152556,
+    40.936662
+],
   "geometry": {"coordinates":[-87.152556,40.936662],"type":"Point"}
 }

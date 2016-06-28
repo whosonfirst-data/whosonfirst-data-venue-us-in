@@ -2,13 +2,14 @@
   "id": 336790129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.384588,39.839,-86.384588,39.839",
     "geom:latitude":39.839,
     "geom:longitude":-86.384588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 E Main St",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336790129,
-    "wof:lastmodified":1448997785,
+    "wof:lastmodified":1466503131,
     "wof:name":"Charter One Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.384588,39.839,-86.384588,39.839],
-  "geometry": {"coordinates":[-86.384588,39.839],"type":"Point"}
+  "bbox": [
+    -86.384588,
+    39.839,
+    -86.384588,
+    39.839
+],
+  "geometry": {"coordinates":[-86.38458799999999,39.839],"type":"Point"}
 }

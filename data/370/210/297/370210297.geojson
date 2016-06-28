@@ -2,13 +2,14 @@
   "id": 370210297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.796628,38.34874,-85.796628,38.34874",
     "geom:latitude":38.34874,
     "geom:longitude":-85.796628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 Charlestown Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370210297,
-    "wof:lastmodified":1449030249,
+    "wof:lastmodified":1466502962,
     "wof:name":"Onions Restaurant & Tea House",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.796628,38.34874,-85.796628,38.34874],
+  "bbox": [
+    -85.796628,
+    38.34874,
+    -85.796628,
+    38.34874
+],
   "geometry": {"coordinates":[-85.796628,38.34874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303393729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.134423,41.088817,-85.134423,41.088817",
     "geom:latitude":41.088817,
     "geom:longitude":-85.134423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Spy Run Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303393729,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1466503655,
     "wof:name":"Lassus Bros Handy Dandy Bp",
     "wof:parent_id":85877569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-85.134423,41.088817,-85.134423,41.088817],
+  "bbox": [
+    -85.134423,
+    41.088817,
+    -85.134423,
+    41.088817
+],
   "geometry": {"coordinates":[-85.134423,41.088817],"type":"Point"}
 }

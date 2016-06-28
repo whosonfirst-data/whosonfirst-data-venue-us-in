@@ -2,13 +2,14 @@
   "id": 403954867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.345997,39.996253,-86.345997,39.996253",
     "geom:latitude":39.996253,
     "geom:longitude":-86.345997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 S Main St",
     "sg:city":"Whitestown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403954867,
-    "wof:lastmodified":1449055798,
+    "wof:lastmodified":1466503235,
     "wof:name":"Classic Aire Heating & Air",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.345997,39.996253,-86.345997,39.996253],
+  "bbox": [
+    -86.345997,
+    39.996253,
+    -86.345997,
+    39.996253
+],
   "geometry": {"coordinates":[-86.345997,39.996253],"type":"Point"}
 }

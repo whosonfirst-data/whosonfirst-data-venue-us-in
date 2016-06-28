@@ -2,13 +2,14 @@
   "id": 387224655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.156524,41.074448,-85.156524,41.074448",
     "geom:latitude":41.074448,
     "geom:longitude":-85.156524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 W Washington Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387224655,
-    "wof:lastmodified":1449058892,
+    "wof:lastmodified":1466503200,
     "wof:name":"Thirteen Step House Inc",
     "wof:parent_id":85877571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-85.156524,41.074448,-85.156524,41.074448],
+  "bbox": [
+    -85.156524,
+    41.074448,
+    -85.156524,
+    41.074448
+],
   "geometry": {"coordinates":[-85.156524,41.074448],"type":"Point"}
 }

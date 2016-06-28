@@ -2,13 +2,14 @@
   "id": 353667611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.528242,41.150743,-85.528242,41.150743",
     "geom:latitude":41.150743,
     "geom:longitude":-85.528242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 W Old Trail Rd",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353667611,
-    "wof:lastmodified":1449019913,
+    "wof:lastmodified":1466503151,
     "wof:name":"Chapman Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-85.528242,41.150743,-85.528242,41.150743],
-  "geometry": {"coordinates":[-85.528242,41.150743],"type":"Point"}
+  "bbox": [
+    -85.528242,
+    41.150743,
+    -85.528242,
+    41.150743
+],
+  "geometry": {"coordinates":[-85.52824200000001,41.150743],"type":"Point"}
 }

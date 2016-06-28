@@ -2,13 +2,14 @@
   "id": 370170817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.042494,39.912584,-86.042494,39.912584",
     "geom:latitude":39.912584,
     "geom:longitude":-86.042494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7252 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370170817,
-    "wof:lastmodified":1449029406,
+    "wof:lastmodified":1466502911,
     "wof:name":"Paul Davis Restoration",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.042494,39.912584,-86.042494,39.912584],
+  "bbox": [
+    -86.042494,
+    39.912584,
+    -86.042494,
+    39.912584
+],
   "geometry": {"coordinates":[-86.042494,39.912584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387715649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.055878,41.367464,-85.055878,41.367464",
     "geom:latitude":41.367464,
     "geom:longitude":-85.055878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387715649,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1466503863,
     "wof:name":"De Kalb County Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-85.055878,41.367464,-85.055878,41.367464],
-  "geometry": {"coordinates":[-85.055878,41.367464],"type":"Point"}
+  "bbox": [
+    -85.055878,
+    41.367464,
+    -85.055878,
+    41.367464
+],
+  "geometry": {"coordinates":[-85.05587800000001,41.367464],"type":"Point"}
 }

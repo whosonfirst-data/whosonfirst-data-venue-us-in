@@ -2,13 +2,14 @@
   "id": 319969721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577477,40.416969,-86.577477,40.416969",
     "geom:latitude":40.416969,
     "geom:longitude":-86.577477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 W State Rd 26",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319969721,
-    "wof:lastmodified":1449024279,
+    "wof:lastmodified":1466503628,
     "wof:name":"Flashback Photos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-86.577477,40.416969,-86.577477,40.416969],
+  "bbox": [
+    -86.577477,
+    40.416969,
+    -86.577477,
+    40.416969
+],
   "geometry": {"coordinates":[-86.577477,40.416969],"type":"Point"}
 }

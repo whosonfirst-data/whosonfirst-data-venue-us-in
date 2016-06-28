@@ -2,13 +2,14 @@
   "id": 404062753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.070021,39.487586,-86.070021,39.487586",
     "geom:latitude":39.487586,
     "geom:longitude":-86.070021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Waterway Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404062753,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1466502965,
     "wof:name":"Waddell & Reed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-86.070021,39.487586,-86.070021,39.487586],
+  "bbox": [
+    -86.070021,
+    39.487586,
+    -86.070021,
+    39.487586
+],
   "geometry": {"coordinates":[-86.070021,39.487586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403794613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.118647,41.682215,-86.118647,41.682215",
     "geom:latitude":41.682215,
     "geom:longitude":-86.118647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12970 McKinley Hwy",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403794613,
-    "wof:lastmodified":1449055266,
+    "wof:lastmodified":1466503007,
     "wof:name":"Damping Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "noise"
     ]
 },
-  "bbox": [-86.118647,41.682215,-86.118647,41.682215],
+  "bbox": [
+    -86.118647,
+    41.682215,
+    -86.118647,
+    41.682215
+],
   "geometry": {"coordinates":[-86.118647,41.682215],"type":"Point"}
 }

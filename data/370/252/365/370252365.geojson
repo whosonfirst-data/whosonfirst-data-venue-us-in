@@ -2,13 +2,14 @@
   "id": 370252365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283302,41.675681,-86.283302,41.675681",
     "geom:latitude":41.675681,
     "geom:longitude":-86.283302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Olive St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370252365,
-    "wof:lastmodified":1449029538,
+    "wof:lastmodified":1466503016,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.283302,41.675681,-86.283302,41.675681],
-  "geometry": {"coordinates":[-86.283302,41.675681],"type":"Point"}
+  "bbox": [
+    -86.283302,
+    41.675681,
+    -86.283302,
+    41.675681
+],
+  "geometry": {"coordinates":[-86.28330200000001,41.675681],"type":"Point"}
 }

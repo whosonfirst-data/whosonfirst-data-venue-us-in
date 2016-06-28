@@ -2,13 +2,14 @@
   "id": 303385101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823987,38.288101,-85.823987,38.288101",
     "geom:latitude":38.288101,
     "geom:longitude":-85.823987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Pearl St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303385101,
-    "wof:lastmodified":1448999573,
+    "wof:lastmodified":1466503650,
     "wof:name":"Floyd County Token Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-85.823987,38.288101,-85.823987,38.288101],
+  "bbox": [
+    -85.823987,
+    38.288101,
+    -85.823987,
+    38.288101
+],
   "geometry": {"coordinates":[-85.823987,38.288101],"type":"Point"}
 }

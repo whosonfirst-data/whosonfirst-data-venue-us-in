@@ -2,13 +2,14 @@
   "id": 319924353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.970455,40.473697,-85.970455,40.473697",
     "geom:latitude":40.473697,
     "geom:longitude":-85.970455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S Harrison St",
     "sg:city":"Greentown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319924353,
-    "wof:lastmodified":1449024301,
+    "wof:lastmodified":1466503605,
     "wof:name":"Eastern High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.970455,40.473697,-85.970455,40.473697],
+  "bbox": [
+    -85.970455,
+    40.473697,
+    -85.970455,
+    40.473697
+],
   "geometry": {"coordinates":[-85.970455,40.473697],"type":"Point"}
 }

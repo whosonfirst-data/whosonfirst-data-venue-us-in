@@ -2,13 +2,14 @@
   "id": 387192205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.135009,41.634263,-86.135009,41.634263",
     "geom:latitude":41.634263,
     "geom:longitude":-86.135009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13850 Dragoon Trl",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387192205,
-    "wof:lastmodified":1449058801,
+    "wof:lastmodified":1466503155,
     "wof:name":"Creekside Home Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.135009,41.634263,-86.135009,41.634263],
+  "bbox": [
+    -86.135009,
+    41.634263,
+    -86.135009,
+    41.634263
+],
   "geometry": {"coordinates":[-86.135009,41.634263],"type":"Point"}
 }

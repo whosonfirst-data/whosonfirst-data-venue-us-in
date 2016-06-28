@@ -2,13 +2,14 @@
   "id": 336765955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.665071,40.34475,-86.665071,40.34475",
     "geom:latitude":40.34475,
     "geom:longitude":-86.665071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Jackson St",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336765955,
-    "wof:lastmodified":1448997556,
+    "wof:lastmodified":1466503103,
     "wof:name":"184 Mulberry Tobacco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.665071,40.34475,-86.665071,40.34475],
+  "bbox": [
+    -86.665071,
+    40.34475,
+    -86.665071,
+    40.34475
+],
   "geometry": {"coordinates":[-86.665071,40.34475],"type":"Point"}
 }

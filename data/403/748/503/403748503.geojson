@@ -2,13 +2,14 @@
   "id": 403748503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040557,39.778009,-86.040557,39.778009",
     "geom:latitude":39.778009,
     "geom:longitude":-86.040557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N Shortridge Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403748503,
-    "wof:lastmodified":1449055622,
+    "wof:lastmodified":1466502944,
     "wof:name":"Indy Tire Ctr Inc",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-86.040557,39.778009,-86.040557,39.778009],
-  "geometry": {"coordinates":[-86.040557,39.778009],"type":"Point"}
+  "bbox": [
+    -86.040557,
+    39.778009,
+    -86.040557,
+    39.778009
+],
+  "geometry": {"coordinates":[-86.04055700000001,39.778009],"type":"Point"}
 }

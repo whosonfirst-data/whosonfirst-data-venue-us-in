@@ -2,13 +2,14 @@
   "id": 404159195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.043009,39.891161,-85.043009,39.891161",
     "geom:latitude":39.891161,
     "geom:longitude":-85.043009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 S Main St",
     "sg:city":"Greens Fork",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404159195,
-    "wof:lastmodified":1449039166,
+    "wof:lastmodified":1466503099,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.043009,39.891161,-85.043009,39.891161],
+  "bbox": [
+    -85.043009,
+    39.891161,
+    -85.043009,
+    39.891161
+],
   "geometry": {"coordinates":[-85.043009,39.891161],"type":"Point"}
 }

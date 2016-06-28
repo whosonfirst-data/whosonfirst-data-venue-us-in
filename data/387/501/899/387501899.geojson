@@ -2,13 +2,14 @@
   "id": 387501899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.88421,38.968981,-85.88421,38.968981",
     "geom:latitude":38.968981,
     "geom:longitude":-85.88421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E 10th St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387501899,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1466503579,
     "wof:name":"Smitty's Transmission Shop",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-85.88421,38.968981,-85.88421,38.968981],
+  "bbox": [
+    -85.88421,
+    38.968981,
+    -85.88421,
+    38.968981
+],
   "geometry": {"coordinates":[-85.88421,38.968981],"type":"Point"}
 }

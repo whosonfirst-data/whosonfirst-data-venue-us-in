@@ -2,13 +2,14 @@
   "id": 370685031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157481,39.941036,-86.157481,39.941036",
     "geom:latitude":39.941036,
     "geom:longitude":-86.157481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10333 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370685031,
-    "wof:lastmodified":1449032385,
+    "wof:lastmodified":1466503478,
     "wof:name":"Henderson Smith & Draper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.157481,39.941036,-86.157481,39.941036],
+  "bbox": [
+    -86.157481,
+    39.941036,
+    -86.157481,
+    39.941036
+],
   "geometry": {"coordinates":[-86.157481,39.941036],"type":"Point"}
 }

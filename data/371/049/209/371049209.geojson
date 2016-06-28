@@ -2,13 +2,14 @@
   "id": 371049209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.879657,40.429868,-86.879657,40.429868",
     "geom:latitude":40.429868,
     "geom:longitude":-86.879657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 N 16th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371049209,
-    "wof:lastmodified":1449049546,
+    "wof:lastmodified":1466502929,
     "wof:name":"St Elizabeth Hospital",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.879657,40.429868,-86.879657,40.429868],
-  "geometry": {"coordinates":[-86.879657,40.429868],"type":"Point"}
+  "bbox": [
+    -86.879657,
+    40.429868,
+    -86.879657,
+    40.429868
+],
+  "geometry": {"coordinates":[-86.87965699999999,40.429868],"type":"Point"}
 }

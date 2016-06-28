@@ -2,13 +2,14 @@
   "id": 387115607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.864465,41.599956,-85.864465,41.599956",
     "geom:latitude":41.599956,
     "geom:longitude":-85.864465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Elkhart Rd",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387115607,
-    "wof:lastmodified":1449056082,
+    "wof:lastmodified":1466503050,
     "wof:name":"Home Sweet Home",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.864465,41.599956,-85.864465,41.599956],
+  "bbox": [
+    -85.864465,
+    41.599956,
+    -85.864465,
+    41.599956
+],
   "geometry": {"coordinates":[-85.864465,41.599956],"type":"Point"}
 }

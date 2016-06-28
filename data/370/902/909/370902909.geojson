@@ -2,13 +2,14 @@
   "id": 370902909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764401,38.302617,-85.764401,38.302617",
     "geom:latitude":38.302617,
     "geom:longitude":-85.764401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Eastern Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370902909,
-    "wof:lastmodified":1449031604,
+    "wof:lastmodified":1466503710,
     "wof:name":"S K Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-85.764401,38.302617,-85.764401,38.302617],
-  "geometry": {"coordinates":[-85.764401,38.302617],"type":"Point"}
+  "bbox": [
+    -85.764401,
+    38.302617,
+    -85.764401,
+    38.302617
+],
+  "geometry": {"coordinates":[-85.76440100000001,38.302617],"type":"Point"}
 }

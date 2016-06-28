@@ -2,13 +2,14 @@
   "id": 320648111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.383526,39.853756,-86.383526,39.853756",
     "geom:latitude":39.853756,
     "geom:longitude":-86.383526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Patrick Pl",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320648111,
-    "wof:lastmodified":1449012280,
+    "wof:lastmodified":1466503354,
     "wof:name":"Certifield Payroll Assoc Inc",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-86.383526,39.853756,-86.383526,39.853756],
+  "bbox": [
+    -86.383526,
+    39.853756,
+    -86.383526,
+    39.853756
+],
   "geometry": {"coordinates":[-86.383526,39.853756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353773427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.074699,39.873967,-86.074699,39.873967",
     "geom:latitude":39.873967,
     "geom:longitude":-86.074699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6325 Green Leaves Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353773427,
-    "wof:lastmodified":1449018569,
+    "wof:lastmodified":1466503277,
     "wof:name":"Bryan Hudson",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-86.074699,39.873967,-86.074699,39.873967],
+  "bbox": [
+    -86.074699,
+    39.873967,
+    -86.074699,
+    39.873967
+],
   "geometry": {"coordinates":[-86.074699,39.873967],"type":"Point"}
 }

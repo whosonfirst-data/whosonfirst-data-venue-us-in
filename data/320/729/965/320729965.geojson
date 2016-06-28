@@ -2,13 +2,14 @@
   "id": 320729965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461775,41.58167,-87.461775,41.58167",
     "geom:latitude":41.58167,
     "geom:longitude":-87.461775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7234 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320729965,
-    "wof:lastmodified":1449013139,
+    "wof:lastmodified":1466503437,
     "wof:name":"Supermercado Ortega",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.461775,41.58167,-87.461775,41.58167],
+  "bbox": [
+    -87.461775,
+    41.58167,
+    -87.461775,
+    41.58167
+],
   "geometry": {"coordinates":[-87.461775,41.58167],"type":"Point"}
 }

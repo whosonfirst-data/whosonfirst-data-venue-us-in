@@ -2,13 +2,14 @@
   "id": 387571699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.768715,38.364737,-85.768715,38.364737",
     "geom:latitude":38.364737,
     "geom:longitude":-85.768715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Deer Run Dr",
     "sg:city":"Sellersburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387571699,
-    "wof:lastmodified":1449058706,
+    "wof:lastmodified":1466503675,
     "wof:name":"Aspire Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.768715,38.364737,-85.768715,38.364737],
+  "bbox": [
+    -85.768715,
+    38.364737,
+    -85.768715,
+    38.364737
+],
   "geometry": {"coordinates":[-85.768715,38.364737],"type":"Point"}
 }

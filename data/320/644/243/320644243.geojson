@@ -2,13 +2,14 @@
   "id": 320644243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198345,39.906549,-86.198345,39.906549",
     "geom:latitude":39.906549,
     "geom:longitude":-86.198345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8240 Naab Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320644243,
-    "wof:lastmodified":1449013394,
+    "wof:lastmodified":1466503349,
     "wof:name":"Comprehensive Adult Medicine",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.198345,39.906549,-86.198345,39.906549],
+  "bbox": [
+    -86.198345,
+    39.906549,
+    -86.198345,
+    39.906549
+],
   "geometry": {"coordinates":[-86.198345,39.906549],"type":"Point"}
 }

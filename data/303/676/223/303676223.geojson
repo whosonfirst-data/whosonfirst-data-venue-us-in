@@ -2,13 +2,14 @@
   "id": 303676223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046174,39.888833,-86.046174,39.888833",
     "geom:latitude":39.888833,
     "geom:longitude":-86.046174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7440 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303676223,
-    "wof:lastmodified":1448999684,
+    "wof:lastmodified":1466502957,
     "wof:name":"Mid America Clinical Labs",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-86.046174,39.888833,-86.046174,39.888833],
-  "geometry": {"coordinates":[-86.046174,39.888833],"type":"Point"}
+  "bbox": [
+    -86.046174,
+    39.888833,
+    -86.046174,
+    39.888833
+],
+  "geometry": {"coordinates":[-86.04617399999999,39.888833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387838669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.418849,39.427658,-86.418849,39.427658",
     "geom:latitude":39.427658,
     "geom:longitude":-86.418849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 N Colfax St",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387838669,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1466504035,
     "wof:name":"Boys Financial Svc",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-86.418849,39.427658,-86.418849,39.427658],
-  "geometry": {"coordinates":[-86.418849,39.427658],"type":"Point"}
+  "bbox": [
+    -86.418849,
+    39.427658,
+    -86.418849,
+    39.427658
+],
+  "geometry": {"coordinates":[-86.41884899999999,39.427658],"type":"Point"}
 }

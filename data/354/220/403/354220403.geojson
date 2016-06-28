@@ -2,13 +2,14 @@
   "id": 354220403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.588766,38.002581,-87.588766,38.002581",
     "geom:latitude":38.002581,
     "geom:longitude":-87.588766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Grove St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354220403,
-    "wof:lastmodified":1449067614,
+    "wof:lastmodified":1466503167,
     "wof:name":"Jim S Cycle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-87.588766,38.002581,-87.588766,38.002581],
-  "geometry": {"coordinates":[-87.588766,38.002581],"type":"Point"}
+  "bbox": [
+    -87.588766,
+    38.002581,
+    -87.588766,
+    38.002581
+],
+  "geometry": {"coordinates":[-87.58876600000001,38.002581],"type":"Point"}
 }

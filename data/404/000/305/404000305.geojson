@@ -2,13 +2,14 @@
   "id": 404000305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.937836,40.83571,-84.937836,40.83571",
     "geom:latitude":40.83571,
     "geom:longitude":-84.937836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 N 13th St",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404000305,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466503793,
     "wof:name":"Trucks Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-84.937836,40.83571,-84.937836,40.83571],
+  "bbox": [
+    -84.937836,
+    40.83571,
+    -84.937836,
+    40.83571
+],
   "geometry": {"coordinates":[-84.937836,40.83571],"type":"Point"}
 }

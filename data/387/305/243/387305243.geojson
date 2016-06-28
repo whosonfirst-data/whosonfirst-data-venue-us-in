@@ -2,13 +2,14 @@
   "id": 387305243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.035312,40.246784,-86.035312,40.246784",
     "geom:latitude":40.246784,
     "geom:longitude":-86.035312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1193 W 400 S",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387305243,
-    "wof:lastmodified":1449056680,
+    "wof:lastmodified":1466503313,
     "wof:name":"Mary Lanseadel Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.035312,40.246784,-86.035312,40.246784],
+  "bbox": [
+    -86.035312,
+    40.246784,
+    -86.035312,
+    40.246784
+],
   "geometry": {"coordinates":[-86.035312,40.246784],"type":"Point"}
 }

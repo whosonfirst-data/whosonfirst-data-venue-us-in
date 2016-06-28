@@ -2,13 +2,14 @@
   "id": 386936399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.362968,39.916803,-85.362968,39.916803",
     "geom:latitude":39.916803,
     "geom:longitude":-85.362968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 I Ave",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386936399,
-    "wof:lastmodified":1449028725,
+    "wof:lastmodified":1466502890,
     "wof:name":"Metaldyne New Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.362968,39.916803,-85.362968,39.916803],
+  "bbox": [
+    -85.362968,
+    39.916803,
+    -85.362968,
+    39.916803
+],
   "geometry": {"coordinates":[-85.362968,39.916803],"type":"Point"}
 }

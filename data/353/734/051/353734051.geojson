@@ -2,13 +2,14 @@
   "id": 353734051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.852038,38.219673,-86.852038,38.219673",
     "geom:latitude":38.219673,
     "geom:longitude":-86.852038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1182 E 5th St",
     "sg:city":"Ferdinand",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353734051,
-    "wof:lastmodified":1449020487,
+    "wof:lastmodified":1466503225,
     "wof:name":"Ferdinand Processing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.852038,38.219673,-86.852038,38.219673],
-  "geometry": {"coordinates":[-86.852038,38.219673],"type":"Point"}
+  "bbox": [
+    -86.852038,
+    38.219673,
+    -86.852038,
+    38.219673
+],
+  "geometry": {"coordinates":[-86.85203799999999,38.219673],"type":"Point"}
 }

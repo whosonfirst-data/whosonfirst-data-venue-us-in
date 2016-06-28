@@ -2,13 +2,14 @@
   "id": 303400441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064285,39.488975,-86.064285,39.488975",
     "geom:latitude":39.488975,
     "geom:longitude":-86.064285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 N Morton St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303400441,
-    "wof:lastmodified":1448998357,
+    "wof:lastmodified":1466503656,
     "wof:name":"Chek' N Go Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-86.064285,39.488975,-86.064285,39.488975],
+  "bbox": [
+    -86.064285,
+    39.488975,
+    -86.064285,
+    39.488975
+],
   "geometry": {"coordinates":[-86.064285,39.488975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353667837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.655139,40.113069,-85.655139,40.113069",
     "geom:latitude":40.113069,
     "geom:longitude":-85.655139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 University Blvd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353667837,
-    "wof:lastmodified":1449019911,
+    "wof:lastmodified":1466503152,
     "wof:name":"Miller Nationwide Real Estate",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-85.655139,40.113069,-85.655139,40.113069],
-  "geometry": {"coordinates":[-85.655139,40.113069],"type":"Point"}
+  "bbox": [
+    -85.655139,
+    40.113069,
+    -85.655139,
+    40.113069
+],
+  "geometry": {"coordinates":[-85.65513900000001,40.113069],"type":"Point"}
 }

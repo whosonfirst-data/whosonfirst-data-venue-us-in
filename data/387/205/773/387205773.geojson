@@ -2,13 +2,14 @@
   "id": 387205773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.391649,40.572724,-86.391649,40.572724",
     "geom:latitude":40.572724,
     "geom:longitude":-86.391649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 N State Rd 29",
     "sg:city":"Flora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387205773,
-    "wof:lastmodified":1449058404,
+    "wof:lastmodified":1466503177,
     "wof:name":"Margaret Hicks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.391649,40.572724,-86.391649,40.572724],
+  "bbox": [
+    -86.391649,
+    40.572724,
+    -86.391649,
+    40.572724
+],
   "geometry": {"coordinates":[-86.391649,40.572724],"type":"Point"}
 }

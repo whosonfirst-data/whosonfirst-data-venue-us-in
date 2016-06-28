@@ -2,13 +2,14 @@
   "id": 303701369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834376,38.947729,-85.834376,38.947729",
     "geom:latitude":38.947729,
     "geom:longitude":-85.834376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4713 US Hwy 31",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303701369,
-    "wof:lastmodified":1449000054,
+    "wof:lastmodified":1466502986,
     "wof:name":"Marvin Wolfe",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.834376,38.947729,-85.834376,38.947729],
-  "geometry": {"coordinates":[-85.834376,38.947729],"type":"Point"}
+  "bbox": [
+    -85.834376,
+    38.947729,
+    -85.834376,
+    38.947729
+],
+  "geometry": {"coordinates":[-85.83437600000001,38.947729],"type":"Point"}
 }

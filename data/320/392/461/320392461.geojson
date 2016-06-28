@@ -2,13 +2,14 @@
   "id": 320392461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.965079,41.677631,-85.965079,41.677631",
     "geom:latitude":41.677631,
     "geom:longitude":-85.965079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 S Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320392461,
-    "wof:lastmodified":1449014225,
+    "wof:lastmodified":1466503045,
     "wof:name":"St Vincent De Paul Pre-School",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-85.965079,41.677631,-85.965079,41.677631],
+  "bbox": [
+    -85.965079,
+    41.677631,
+    -85.965079,
+    41.677631
+],
   "geometry": {"coordinates":[-85.965079,41.677631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336873661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.28497,39.917256,-85.28497,39.917256",
     "geom:latitude":39.917256,
     "geom:longitude":-85.28497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5139 State Rd 38",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336873661,
-    "wof:lastmodified":1448997174,
+    "wof:lastmodified":1466503239,
     "wof:name":"Cadiz Friends Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.28497,39.917256,-85.28497,39.917256],
+  "bbox": [
+    -85.28497,
+    39.917256,
+    -85.28497,
+    39.917256
+],
   "geometry": {"coordinates":[-85.28497,39.917256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320291607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.012802,39.419653,-85.012802,39.419653",
     "geom:latitude":39.419653,
     "geom:longitude":-85.012802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 Main St",
     "sg:city":"Brookville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320291607,
-    "wof:lastmodified":1449012417,
+    "wof:lastmodified":1466502912,
     "wof:name":"Midtown Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-85.012802,39.419653,-85.012802,39.419653],
-  "geometry": {"coordinates":[-85.012802,39.419653],"type":"Point"}
+  "bbox": [
+    -85.012802,
+    39.419653,
+    -85.012802,
+    39.419653
+],
+  "geometry": {"coordinates":[-85.01280199999999,39.419653],"type":"Point"}
 }

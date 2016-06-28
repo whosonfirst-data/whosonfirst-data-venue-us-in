@@ -2,13 +2,14 @@
   "id": 303793757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.154003,39.729185,-86.154003,39.729185",
     "geom:latitude":39.729185,
     "geom:longitude":-86.154003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Brill Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303793757,
-    "wof:lastmodified":1448999465,
+    "wof:lastmodified":1466503095,
     "wof:name":"Magic Glass Inc",
     "wof:parent_id":85870639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-86.154003,39.729185,-86.154003,39.729185],
+  "bbox": [
+    -86.154003,
+    39.729185,
+    -86.154003,
+    39.729185
+],
   "geometry": {"coordinates":[-86.154003,39.729185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320219983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.143336,41.147294,-85.143336,41.147294",
     "geom:latitude":41.147294,
     "geom:longitude":-85.143336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W Cook Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320219983,
-    "wof:lastmodified":1449014809,
+    "wof:lastmodified":1466503767,
     "wof:name":"Fort Wayne Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.143336,41.147294,-85.143336,41.147294],
-  "geometry": {"coordinates":[-85.143336,41.147294],"type":"Point"}
+  "bbox": [
+    -85.143336,
+    41.147294,
+    -85.143336,
+    41.147294
+],
+  "geometry": {"coordinates":[-85.14333600000001,41.147294],"type":"Point"}
 }

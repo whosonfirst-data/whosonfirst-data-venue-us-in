@@ -2,13 +2,14 @@
   "id": 320850087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.125191,41.118617,-85.125191,41.118617",
     "geom:latitude":41.118617,
     "geom:longitude":-85.125191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E California Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320850087,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466503560,
     "wof:name":"Salem View",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.125191,41.118617,-85.125191,41.118617],
+  "bbox": [
+    -85.125191,
+    41.118617,
+    -85.125191,
+    41.118617
+],
   "geometry": {"coordinates":[-85.125191,41.118617],"type":"Point"}
 }

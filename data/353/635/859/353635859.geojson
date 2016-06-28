@@ -2,13 +2,14 @@
   "id": 353635859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.043427,39.956709,-86.043427,39.956709",
     "geom:latitude":39.956709,
     "geom:longitude":-86.043427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7319 E 116th St",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353635859,
-    "wof:lastmodified":1449019362,
+    "wof:lastmodified":1466503116,
     "wof:name":"Itelligence Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-86.043427,39.956709,-86.043427,39.956709],
-  "geometry": {"coordinates":[-86.043427,39.956709],"type":"Point"}
+  "bbox": [
+    -86.043427,
+    39.956709,
+    -86.043427,
+    39.956709
+],
+  "geometry": {"coordinates":[-86.04342699999999,39.956709],"type":"Point"}
 }

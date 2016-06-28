@@ -2,13 +2,14 @@
   "id": 353789975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.64637,40.332272,-85.64637,40.332272",
     "geom:latitude":40.332272,
     "geom:longitude":-85.64637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S Main St",
     "sg:city":"Summitville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353789975,
-    "wof:lastmodified":1449019413,
+    "wof:lastmodified":1466503300,
     "wof:name":"Greg Mc Duffee TV & Antenna",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-85.64637,40.332272,-85.64637,40.332272],
+  "bbox": [
+    -85.64637,
+    40.332272,
+    -85.64637,
+    40.332272
+],
   "geometry": {"coordinates":[-85.64637,40.332272],"type":"Point"}
 }

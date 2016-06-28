@@ -2,13 +2,14 @@
   "id": 353633383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.001271,39.897255,-86.001271,39.897255",
     "geom:latitude":39.897255,
     "geom:longitude":-86.001271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7821 N Timber Run Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353633383,
-    "wof:lastmodified":1449020763,
+    "wof:lastmodified":1466503114,
     "wof:name":"Equity Corporate Housing",
     "wof:parent_id":85818857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.001271,39.897255,-86.001271,39.897255],
+  "bbox": [
+    -86.001271,
+    39.897255,
+    -86.001271,
+    39.897255
+],
   "geometry": {"coordinates":[-86.001271,39.897255],"type":"Point"}
 }

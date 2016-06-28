@@ -2,13 +2,14 @@
   "id": 319923739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.671562,40.54997,-85.671562,40.54997",
     "geom:latitude":40.54997,
     "geom:longitude":-85.671562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 W 12th St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319923739,
-    "wof:lastmodified":1449024853,
+    "wof:lastmodified":1466503604,
     "wof:name":"Faulkner Community Center Inc",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "profit"
     ]
 },
-  "bbox": [-85.671562,40.54997,-85.671562,40.54997],
-  "geometry": {"coordinates":[-85.671562,40.54997],"type":"Point"}
+  "bbox": [
+    -85.671562,
+    40.54997,
+    -85.671562,
+    40.54997
+],
+  "geometry": {"coordinates":[-85.67156199999999,40.54997],"type":"Point"}
 }

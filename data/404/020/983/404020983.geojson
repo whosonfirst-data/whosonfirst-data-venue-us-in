@@ -2,13 +2,14 @@
   "id": 404020983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.18124,41.042083,-85.18124,41.042083",
     "geom:latitude":41.042083,
     "geom:longitude":-85.18124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 Sand Hill Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404020983,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1466502909,
     "wof:name":"Stutz's Body Shop",
     "wof:parent_id":85877539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-85.18124,41.042083,-85.18124,41.042083],
+  "bbox": [
+    -85.18124,
+    41.042083,
+    -85.18124,
+    41.042083
+],
   "geometry": {"coordinates":[-85.18124,41.042083],"type":"Point"}
 }

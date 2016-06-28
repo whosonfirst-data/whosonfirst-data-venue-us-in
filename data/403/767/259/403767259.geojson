@@ -2,13 +2,14 @@
   "id": 403767259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.902513,41.691889,-85.902513,41.691889",
     "geom:latitude":41.691889,
     "geom:longitude":-85.902513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Wyland Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403767259,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1466502970,
     "wof:name":"Rance Aluminum Fabrication Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-85.902513,41.691889,-85.902513,41.691889],
+  "bbox": [
+    -85.902513,
+    41.691889,
+    -85.902513,
+    41.691889
+],
   "geometry": {"coordinates":[-85.902513,41.691889],"type":"Point"}
 }

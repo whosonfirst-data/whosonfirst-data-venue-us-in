@@ -2,13 +2,14 @@
   "id": 303360953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.135599,41.634498,-86.135599,41.634498",
     "geom:latitude":41.634498,
     "geom:longitude":-86.135599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13825 Dragoon Trl",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303360953,
-    "wof:lastmodified":1449000002,
+    "wof:lastmodified":1466503636,
     "wof:name":"Hill Top Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.135599,41.634498,-86.135599,41.634498],
+  "bbox": [
+    -86.135599,
+    41.634498,
+    -86.135599,
+    41.634498
+],
   "geometry": {"coordinates":[-86.135599,41.634498],"type":"Point"}
 }

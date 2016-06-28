@@ -2,13 +2,14 @@
   "id": 387082481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.141279,39.912464,-86.141279,39.912464",
     "geom:latitude":39.912464,
     "geom:longitude":-86.141279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387082481,
-    "wof:lastmodified":1449056218,
+    "wof:lastmodified":1466503000,
     "wof:name":"Title First Agency",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "title"
     ]
 },
-  "bbox": [-86.141279,39.912464,-86.141279,39.912464],
+  "bbox": [
+    -86.141279,
+    39.912464,
+    -86.141279,
+    39.912464
+],
   "geometry": {"coordinates":[-86.141279,39.912464],"type":"Point"}
 }

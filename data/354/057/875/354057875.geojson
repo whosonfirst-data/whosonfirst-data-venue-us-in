@@ -2,13 +2,14 @@
   "id": 354057875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.05057,39.931475,-86.05057,39.931475",
     "geom:latitude":39.931475,
     "geom:longitude":-86.05057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9913 Willow View Rd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354057875,
-    "wof:lastmodified":1449066765,
+    "wof:lastmodified":1466502948,
     "wof:name":"Aero Communications Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "transportation"
     ]
 },
-  "bbox": [-86.05057,39.931475,-86.05057,39.931475],
-  "geometry": {"coordinates":[-86.05057,39.931475],"type":"Point"}
+  "bbox": [
+    -86.05057,
+    39.931475,
+    -86.05057,
+    39.931475
+],
+  "geometry": {"coordinates":[-86.05056999999999,39.931475],"type":"Point"}
 }

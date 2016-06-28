@@ -2,13 +2,14 @@
   "id": 353948569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.11341,39.624542,-86.11341,39.624542",
     "geom:latitude":39.624542,
     "geom:longitude":-86.11341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Camby Ct",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353948569,
-    "wof:lastmodified":1449020300,
+    "wof:lastmodified":1466503490,
     "wof:name":"Ross & Babcock Travel",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-86.11341,39.624542,-86.11341,39.624542],
+  "bbox": [
+    -86.11341,
+    39.624542,
+    -86.11341,
+    39.624542
+],
   "geometry": {"coordinates":[-86.11341,39.624542],"type":"Point"}
 }

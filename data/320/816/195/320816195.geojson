@@ -2,13 +2,14 @@
   "id": 320816195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.546886,37.950592,-87.546886,37.950592",
     "geom:latitude":37.950592,
     "geom:longitude":-87.546886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 S New York Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320816195,
-    "wof:lastmodified":1449013433,
+    "wof:lastmodified":1466503524,
     "wof:name":"J & R Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-87.546886,37.950592,-87.546886,37.950592],
+  "bbox": [
+    -87.546886,
+    37.950592,
+    -87.546886,
+    37.950592
+],
   "geometry": {"coordinates":[-87.546886,37.950592],"type":"Point"}
 }

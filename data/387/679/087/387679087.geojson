@@ -2,13 +2,14 @@
   "id": 387679087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.107314,41.43196,-87.107314,41.43196",
     "geom:latitude":41.43196,
     "geom:longitude":-87.107314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Alene Dr",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387679087,
-    "wof:lastmodified":1449058556,
+    "wof:lastmodified":1466503816,
     "wof:name":"Landscape Enhancements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.107314,41.43196,-87.107314,41.43196],
+  "bbox": [
+    -87.107314,
+    41.43196,
+    -87.107314,
+    41.43196
+],
   "geometry": {"coordinates":[-87.107314,41.43196],"type":"Point"}
 }

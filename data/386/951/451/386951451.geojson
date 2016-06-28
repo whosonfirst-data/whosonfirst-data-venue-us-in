@@ -2,13 +2,14 @@
   "id": 386951451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.136719,41.148152,-85.136719,41.148152",
     "geom:latitude":41.148152,
     "geom:longitude":-85.136719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7605 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":386951451,
-    "wof:lastmodified":1449028634,
+    "wof:lastmodified":1466502915,
     "wof:name":"Bisque It Pottery Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-85.136719,41.148152,-85.136719,41.148152],
+  "bbox": [
+    -85.136719,
+    41.148152,
+    -85.136719,
+    41.148152
+],
   "geometry": {"coordinates":[-85.136719,41.148152],"type":"Point"}
 }

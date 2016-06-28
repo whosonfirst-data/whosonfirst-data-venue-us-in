@@ -2,13 +2,14 @@
   "id": 370889727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.960262,39.502428,-86.960262,39.502428",
     "geom:latitude":39.502428,
     "geom:longitude":-86.960262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 W Co Rd 1075 S",
     "sg:city":"Reelsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370889727,
-    "wof:lastmodified":1449029004,
+    "wof:lastmodified":1466503691,
     "wof:name":"Carr Construction & Excavati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.960262,39.502428,-86.960262,39.502428],
+  "bbox": [
+    -86.960262,
+    39.502428,
+    -86.960262,
+    39.502428
+],
   "geometry": {"coordinates":[-86.960262,39.502428],"type":"Point"}
 }

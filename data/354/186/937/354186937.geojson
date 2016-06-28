@@ -2,13 +2,14 @@
   "id": 354186937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.090312,41.104968,-85.090312,41.104968",
     "geom:latitude":41.104968,
     "geom:longitude":-85.090312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Coliseum Blvd E",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354186937,
-    "wof:lastmodified":1449067266,
+    "wof:lastmodified":1466503116,
     "wof:name":"Brad's Auto Repair",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-85.090312,41.104968,-85.090312,41.104968],
+  "bbox": [
+    -85.090312,
+    41.104968,
+    -85.090312,
+    41.104968
+],
   "geometry": {"coordinates":[-85.090312,41.104968],"type":"Point"}
 }

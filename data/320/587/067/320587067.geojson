@@ -2,13 +2,14 @@
   "id": 320587067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.240406,39.787497,-86.240406,39.787497",
     "geom:latitude":39.787497,
     "geom:longitude":-86.240406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 W 16th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320587067,
-    "wof:lastmodified":1449012554,
+    "wof:lastmodified":1466503285,
     "wof:name":"Linton & Co PC",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.240406,39.787497,-86.240406,39.787497],
-  "geometry": {"coordinates":[-86.240406,39.787497],"type":"Point"}
+  "bbox": [
+    -86.240406,
+    39.787497,
+    -86.240406,
+    39.787497
+],
+  "geometry": {"coordinates":[-86.24040599999999,39.787497],"type":"Point"}
 }

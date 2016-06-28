@@ -2,13 +2,14 @@
   "id": 387324875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.816619,41.225684,-85.816619,41.225684",
     "geom:latitude":41.225684,
     "geom:longitude":-85.816619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Kings Hwy",
     "sg:city":"Winona Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387324875,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1466503339,
     "wof:name":"Evangel Press",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-85.816619,41.225684,-85.816619,41.225684],
+  "bbox": [
+    -85.816619,
+    41.225684,
+    -85.816619,
+    41.225684
+],
   "geometry": {"coordinates":[-85.816619,41.225684],"type":"Point"}
 }

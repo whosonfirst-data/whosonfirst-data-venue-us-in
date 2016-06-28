@@ -2,13 +2,14 @@
   "id": 404052293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.071549,41.368722,-85.071549,41.368722",
     "geom:latitude":41.368722,
     "geom:longitude":-85.071549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 N Grandstaff Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404052293,
-    "wof:lastmodified":1449039554,
+    "wof:lastmodified":1466502951,
     "wof:name":"Simplex Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-85.071549,41.368722,-85.071549,41.368722],
+  "bbox": [
+    -85.071549,
+    41.368722,
+    -85.071549,
+    41.368722
+],
   "geometry": {"coordinates":[-85.071549,41.368722],"type":"Point"}
 }

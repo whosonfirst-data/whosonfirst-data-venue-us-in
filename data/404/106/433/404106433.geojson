@@ -2,13 +2,14 @@
   "id": 404106433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471753,37.94314,-87.471753,37.94314",
     "geom:latitude":37.94314,
     "geom:longitude":-87.471753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 Indian Bend",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404106433,
-    "wof:lastmodified":1449039074,
+    "wof:lastmodified":1466503034,
     "wof:name":"Eastbrook Mobile Home Park",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.471753,37.94314,-87.471753,37.94314],
-  "geometry": {"coordinates":[-87.471753,37.94314],"type":"Point"}
+  "bbox": [
+    -87.471753,
+    37.94314,
+    -87.471753,
+    37.94314
+],
+  "geometry": {"coordinates":[-87.47175300000001,37.94314],"type":"Point"}
 }

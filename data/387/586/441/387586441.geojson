@@ -2,13 +2,14 @@
   "id": 387586441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.009397,39.793482,-86.009397,39.793482",
     "geom:latitude":39.793482,
     "geom:longitude":-86.009397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 N Post Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387586441,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1466503696,
     "wof:name":"Post Plaza Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-86.009397,39.793482,-86.009397,39.793482],
-  "geometry": {"coordinates":[-86.009397,39.793482],"type":"Point"}
+  "bbox": [
+    -86.009397,
+    39.793482,
+    -86.009397,
+    39.793482
+],
+  "geometry": {"coordinates":[-86.00939700000001,39.793482],"type":"Point"}
 }

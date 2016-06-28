@@ -2,13 +2,14 @@
   "id": 336678853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.268062,38.494088,-87.268062,38.494088",
     "geom:latitude":38.494088,
     "geom:longitude":-87.268062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Hill Dr",
     "sg:city":"St Meinrad",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336678853,
-    "wof:lastmodified":1448997475,
+    "wof:lastmodified":1466502987,
     "wof:name":"St Meinrad Seminary College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-87.268062,38.494088,-87.268062,38.494088],
+  "bbox": [
+    -87.268062,
+    38.494088,
+    -87.268062,
+    38.494088
+],
   "geometry": {"coordinates":[-87.268062,38.494088],"type":"Point"}
 }

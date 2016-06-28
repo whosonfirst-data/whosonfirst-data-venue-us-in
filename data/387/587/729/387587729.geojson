@@ -2,13 +2,14 @@
   "id": 387587729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.998301,41.643608,-84.998301,41.643608",
     "geom:latitude":41.643608,
     "geom:longitude":-84.998301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Henry St",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387587729,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1466503697,
     "wof:name":"Aldrich Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.998301,41.643608,-84.998301,41.643608],
+  "bbox": [
+    -84.998301,
+    41.643608,
+    -84.998301,
+    41.643608
+],
   "geometry": {"coordinates":[-84.998301,41.643608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354339673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.113411,40.464717,-86.113411,40.464717",
     "geom:latitude":40.464717,
     "geom:longitude":-86.113411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1982 S Elizabeth St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354339673,
-    "wof:lastmodified":1449066672,
+    "wof:lastmodified":1466503353,
     "wof:name":"CSL Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-86.113411,40.464717,-86.113411,40.464717],
+  "bbox": [
+    -86.113411,
+    40.464717,
+    -86.113411,
+    40.464717
+],
   "geometry": {"coordinates":[-86.113411,40.464717],"type":"Point"}
 }

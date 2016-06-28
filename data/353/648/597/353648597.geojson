@@ -2,13 +2,14 @@
   "id": 353648597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.772842,39.516676,-85.772842,39.516676",
     "geom:latitude":39.516676,
     "geom:longitude":-85.772842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 S Noble St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353648597,
-    "wof:lastmodified":1449018969,
+    "wof:lastmodified":1466503134,
     "wof:name":"Doodle Bug Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.772842,39.516676,-85.772842,39.516676],
+  "bbox": [
+    -85.772842,
+    39.516676,
+    -85.772842,
+    39.516676
+],
   "geometry": {"coordinates":[-85.772842,39.516676],"type":"Point"}
 }

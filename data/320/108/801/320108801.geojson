@@ -2,13 +2,14 @@
   "id": 320108801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.901872,41.717529,-86.901872,41.717529",
     "geom:latitude":41.717529,
     "geom:longitude":-86.901872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320108801,
-    "wof:lastmodified":1449011321,
+    "wof:lastmodified":1466503704,
     "wof:name":"Robert E Mc Bride MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.901872,41.717529,-86.901872,41.717529],
+  "bbox": [
+    -86.901872,
+    41.717529,
+    -86.901872,
+    41.717529
+],
   "geometry": {"coordinates":[-86.901872,41.717529],"type":"Point"}
 }

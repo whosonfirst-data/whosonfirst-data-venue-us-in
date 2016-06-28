@@ -2,13 +2,14 @@
   "id": 387669309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.2831,40.940356,-85.2831,40.940356",
     "geom:latitude":40.940356,
     "geom:longitude":-85.2831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15509 Lauder Hill Ct",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387669309,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1466503829,
     "wof:name":"G & L Enterprises",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [-85.2831,40.940356,-85.2831,40.940356],
+  "bbox": [
+    -85.2831,
+    40.940356,
+    -85.2831,
+    40.940356
+],
   "geometry": {"coordinates":[-85.2831,40.940356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354390719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.543491,38.649862,-85.543491,38.649862",
     "geom:latitude":38.649862,
     "geom:longitude":-85.543491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6016 S 850 W",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354390719,
-    "wof:lastmodified":1449067675,
+    "wof:lastmodified":1466503431,
     "wof:name":"Donald Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-85.543491,38.649862,-85.543491,38.649862],
+  "bbox": [
+    -85.543491,
+    38.649862,
+    -85.543491,
+    38.649862
+],
   "geometry": {"coordinates":[-85.543491,38.649862],"type":"Point"}
 }

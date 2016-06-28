@@ -2,13 +2,14 @@
   "id": 303452861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.410836,40.184097,-85.410836,40.184097",
     "geom:latitude":40.184097,
     "geom:longitude":-85.410836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 W Kilgore Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303452861,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1466503687,
     "wof:name":"Ontario Systems",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-85.410836,40.184097,-85.410836,40.184097],
+  "bbox": [
+    -85.410836,
+    40.184097,
+    -85.410836,
+    40.184097
+],
   "geometry": {"coordinates":[-85.410836,40.184097],"type":"Point"}
 }

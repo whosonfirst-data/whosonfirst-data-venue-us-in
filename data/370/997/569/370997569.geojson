@@ -2,13 +2,14 @@
   "id": 370997569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.158409,39.610459,-86.158409,39.610459",
     "geom:latitude":39.610459,
     "geom:longitude":-86.158409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S State Rd 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370997569,
-    "wof:lastmodified":1449031872,
+    "wof:lastmodified":1466503987,
     "wof:name":"Dannemiller's True Value Hdwr",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.158409,39.610459,-86.158409,39.610459],
-  "geometry": {"coordinates":[-86.158409,39.610459],"type":"Point"}
+  "bbox": [
+    -86.158409,
+    39.610459,
+    -86.158409,
+    39.610459
+],
+  "geometry": {"coordinates":[-86.15840900000001,39.610459],"type":"Point"}
 }

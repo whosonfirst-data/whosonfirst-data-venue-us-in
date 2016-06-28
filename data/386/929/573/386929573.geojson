@@ -2,13 +2,14 @@
   "id": 386929573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.158076,39.767595,-86.158076,39.767595",
     "geom:latitude":39.767595,
     "geom:longitude":-86.158076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386929573,
-    "wof:lastmodified":1449028746,
+    "wof:lastmodified":1466503792,
     "wof:name":"Indiana State Dept Of Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.158076,39.767595,-86.158076,39.767595],
-  "geometry": {"coordinates":[-86.158076,39.767595],"type":"Point"}
+  "bbox": [
+    -86.158076,
+    39.767595,
+    -86.158076,
+    39.767595
+],
+  "geometry": {"coordinates":[-86.15807599999999,39.767595],"type":"Point"}
 }

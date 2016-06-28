@@ -2,13 +2,14 @@
   "id": 370815863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.111691,39.619538,-86.111691,39.619538",
     "geom:latitude":39.619538,
     "geom:longitude":-86.111691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 N Madison Ave",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370815863,
-    "wof:lastmodified":1449030732,
+    "wof:lastmodified":1466503606,
     "wof:name":"Agraya Global Svc Inc",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-86.111691,39.619538,-86.111691,39.619538],
-  "geometry": {"coordinates":[-86.111691,39.619538],"type":"Point"}
+  "bbox": [
+    -86.111691,
+    39.619538,
+    -86.111691,
+    39.619538
+],
+  "geometry": {"coordinates":[-86.11169099999999,39.619538],"type":"Point"}
 }

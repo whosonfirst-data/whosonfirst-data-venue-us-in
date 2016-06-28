@@ -2,13 +2,14 @@
   "id": 320000051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.24107,39.787408,-86.24107,39.787408",
     "geom:latitude":39.787408,
     "geom:longitude":-86.24107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Main St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320000051,
-    "wof:lastmodified":1449011852,
+    "wof:lastmodified":1466503816,
     "wof:name":"Bob's TU Your Door Pizza",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.24107,39.787408,-86.24107,39.787408],
-  "geometry": {"coordinates":[-86.24107,39.787408],"type":"Point"}
+  "bbox": [
+    -86.24107,
+    39.787408,
+    -86.24107,
+    39.787408
+],
+  "geometry": {"coordinates":[-86.24106999999999,39.787408],"type":"Point"}
 }

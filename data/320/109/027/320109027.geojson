@@ -2,13 +2,14 @@
   "id": 320109027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.118548,41.148108,-85.118548,41.148108",
     "geom:latitude":41.148108,
     "geom:longitude":-85.118548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Cook Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320109027,
-    "wof:lastmodified":1449012566,
+    "wof:lastmodified":1466503706,
     "wof:name":"Chem Dry Of Fort Wayne",
     "wof:parent_id":85812925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-85.118548,41.148108,-85.118548,41.148108],
+  "bbox": [
+    -85.118548,
+    41.148108,
+    -85.118548,
+    41.148108
+],
   "geometry": {"coordinates":[-85.118548,41.148108],"type":"Point"}
 }

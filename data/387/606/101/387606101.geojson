@@ -2,13 +2,14 @@
   "id": 387606101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082776,39.641031,-86.082776,39.641031",
     "geom:latitude":39.641031,
     "geom:longitude":-86.082776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8810 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387606101,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1466503722,
     "wof:name":"Pet Supplies Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.082776,39.641031,-86.082776,39.641031],
+  "bbox": [
+    -86.082776,
+    39.641031,
+    -86.082776,
+    39.641031
+],
   "geometry": {"coordinates":[-86.082776,39.641031],"type":"Point"}
 }

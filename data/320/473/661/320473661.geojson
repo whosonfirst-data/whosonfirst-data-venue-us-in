@@ -2,13 +2,14 @@
   "id": 320473661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.094181,39.781379,-86.094181,39.781379",
     "geom:latitude":39.781379,
     "geom:longitude":-86.094181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 E 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320473661,
-    "wof:lastmodified":1449012037,
+    "wof:lastmodified":1466503149,
     "wof:name":"Puck Around Bar",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.094181,39.781379,-86.094181,39.781379],
-  "geometry": {"coordinates":[-86.094181,39.781379],"type":"Point"}
+  "bbox": [
+    -86.094181,
+    39.781379,
+    -86.094181,
+    39.781379
+],
+  "geometry": {"coordinates":[-86.09418100000001,39.781379],"type":"Point"}
 }

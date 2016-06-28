@@ -2,13 +2,14 @@
   "id": 387036667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.693514,41.199841,-85.693514,41.199841",
     "geom:latitude":41.199841,
     "geom:longitude":-85.693514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8033 E 250 S",
     "sg:city":"Pierceton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387036667,
-    "wof:lastmodified":1449056957,
+    "wof:lastmodified":1466502931,
     "wof:name":"David Messer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-85.693514,41.199841,-85.693514,41.199841],
-  "geometry": {"coordinates":[-85.693514,41.199841],"type":"Point"}
+  "bbox": [
+    -85.693514,
+    41.199841,
+    -85.693514,
+    41.199841
+],
+  "geometry": {"coordinates":[-85.69351399999999,41.199841],"type":"Point"}
 }

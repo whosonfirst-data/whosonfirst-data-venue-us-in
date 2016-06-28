@@ -2,13 +2,14 @@
   "id": 387627693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.093507,40.484001,-86.093507,40.484001",
     "geom:latitude":40.484001,
     "geom:longitude":-86.093507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 E Carter St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387627693,
-    "wof:lastmodified":1449059998,
+    "wof:lastmodified":1466503750,
     "wof:name":"Christian Heritage Church-God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.093507,40.484001,-86.093507,40.484001],
+  "bbox": [
+    -86.093507,
+    40.484001,
+    -86.093507,
+    40.484001
+],
   "geometry": {"coordinates":[-86.093507,40.484001],"type":"Point"}
 }

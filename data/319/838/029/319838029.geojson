@@ -2,13 +2,14 @@
   "id": 319838029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.846269,41.235323,-85.846269,41.235323",
     "geom:latitude":41.235323,
     "geom:longitude":-85.846269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E Winona Ave",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319838029,
-    "wof:lastmodified":1449024194,
+    "wof:lastmodified":1466503811,
     "wof:name":"Terry's Auto Supply Svc & Sale",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-85.846269,41.235323,-85.846269,41.235323],
-  "geometry": {"coordinates":[-85.846269,41.235323],"type":"Point"}
+  "bbox": [
+    -85.846269,
+    41.235323,
+    -85.846269,
+    41.235323
+],
+  "geometry": {"coordinates":[-85.84626900000001,41.235323],"type":"Point"}
 }

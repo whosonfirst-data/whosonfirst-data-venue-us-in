@@ -2,13 +2,14 @@
   "id": 320478887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131165,40.487251,-86.131165,40.487251",
     "geom:latitude":40.487251,
     "geom:longitude":-86.131165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Main St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320478887,
-    "wof:lastmodified":1449011385,
+    "wof:lastmodified":1466503157,
     "wof:name":"Russell Mc Intyre Hilligoss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.131165,40.487251,-86.131165,40.487251],
+  "bbox": [
+    -86.131165,
+    40.487251,
+    -86.131165,
+    40.487251
+],
   "geometry": {"coordinates":[-86.131165,40.487251],"type":"Point"}
 }

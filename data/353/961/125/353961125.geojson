@@ -2,13 +2,14 @@
   "id": 353961125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144841,39.869399,-86.144841,39.869399",
     "geom:latitude":39.869399,
     "geom:longitude":-86.144841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 Carrollton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353961125,
-    "wof:lastmodified":1449020726,
+    "wof:lastmodified":1466503502,
     "wof:name":"Dinwiddies",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.144841,39.869399,-86.144841,39.869399],
+  "bbox": [
+    -86.144841,
+    39.869399,
+    -86.144841,
+    39.869399
+],
   "geometry": {"coordinates":[-86.144841,39.869399],"type":"Point"}
 }

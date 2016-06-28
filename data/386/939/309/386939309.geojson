@@ -2,13 +2,14 @@
   "id": 386939309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.341476,41.471015,-87.341476,41.471015",
     "geom:latitude":41.471015,
     "geom:longitude":-87.341476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 US Hwy 30",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386939309,
-    "wof:lastmodified":1449028706,
+    "wof:lastmodified":1466502893,
     "wof:name":"Bank Calumet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.341476,41.471015,-87.341476,41.471015],
+  "bbox": [
+    -87.341476,
+    41.471015,
+    -87.341476,
+    41.471015
+],
   "geometry": {"coordinates":[-87.341476,41.471015],"type":"Point"}
 }

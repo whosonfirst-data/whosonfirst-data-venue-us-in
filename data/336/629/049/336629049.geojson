@@ -2,13 +2,14 @@
   "id": 336629049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.668878,40.545732,-85.668878,40.545732",
     "geom:latitude":40.545732,
     "geom:longitude":-85.668878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W 17th St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336629049,
-    "wof:lastmodified":1448997779,
+    "wof:lastmodified":1466502924,
     "wof:name":"Wayne Guy Jr",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-85.668878,40.545732,-85.668878,40.545732],
-  "geometry": {"coordinates":[-85.668878,40.545732],"type":"Point"}
+  "bbox": [
+    -85.668878,
+    40.545732,
+    -85.668878,
+    40.545732
+],
+  "geometry": {"coordinates":[-85.66887800000001,40.545732],"type":"Point"}
 }

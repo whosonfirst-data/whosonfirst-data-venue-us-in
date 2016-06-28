@@ -2,13 +2,14 @@
   "id": 353837329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.490558,37.958259,-87.490558,37.958259",
     "geom:latitude":37.958259,
     "geom:longitude":-87.490558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Monroe Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353837329,
-    "wof:lastmodified":1449018652,
+    "wof:lastmodified":1466503356,
     "wof:name":"Bowlers Aid Pro Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-87.490558,37.958259,-87.490558,37.958259],
-  "geometry": {"coordinates":[-87.490558,37.958259],"type":"Point"}
+  "bbox": [
+    -87.490558,
+    37.958259,
+    -87.490558,
+    37.958259
+],
+  "geometry": {"coordinates":[-87.49055799999999,37.958259],"type":"Point"}
 }

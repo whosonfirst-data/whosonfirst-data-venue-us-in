@@ -2,13 +2,14 @@
   "id": 303386379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.099388,38.606227,-86.099388,38.606227",
     "geom:latitude":38.606227,
     "geom:longitude":-86.099388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N High St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303386379,
-    "wof:lastmodified":1448999405,
+    "wof:lastmodified":1466503651,
     "wof:name":"American Legion Bingo Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-86.099388,38.606227,-86.099388,38.606227],
+  "bbox": [
+    -86.099388,
+    38.606227,
+    -86.099388,
+    38.606227
+],
   "geometry": {"coordinates":[-86.099388,38.606227],"type":"Point"}
 }

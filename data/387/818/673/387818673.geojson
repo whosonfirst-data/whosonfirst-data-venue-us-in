@@ -2,13 +2,14 @@
   "id": 387818673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.880299,41.130129,-85.880299,41.130129",
     "geom:latitude":41.130129,
     "geom:longitude":-85.880299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Claypool",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387818673,
-    "wof:lastmodified":1449057949,
+    "wof:lastmodified":1466504009,
     "wof:name":"US Post Office",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.880299,41.130129,-85.880299,41.130129],
-  "geometry": {"coordinates":[-85.880299,41.130129],"type":"Point"}
+  "bbox": [
+    -85.880299,
+    41.130129,
+    -85.880299,
+    41.130129
+],
+  "geometry": {"coordinates":[-85.88029899999999,41.130129],"type":"Point"}
 }

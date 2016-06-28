@@ -2,13 +2,14 @@
   "id": 303207203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.508961,41.543176,-87.508961,41.543176",
     "geom:latitude":41.543176,
     "geom:longitude":-87.508961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9307 Calumet Ave",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303207203,
-    "wof:lastmodified":1448999827,
+    "wof:lastmodified":1466503404,
     "wof:name":"Terra Securities Corp",
     "wof:parent_id":85833061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-87.508961,41.543176,-87.508961,41.543176],
+  "bbox": [
+    -87.508961,
+    41.543176,
+    -87.508961,
+    41.543176
+],
   "geometry": {"coordinates":[-87.508961,41.543176],"type":"Point"}
 }

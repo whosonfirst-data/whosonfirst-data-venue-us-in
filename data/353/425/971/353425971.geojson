@@ -2,13 +2,14 @@
   "id": 353425971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179372,41.661185,-86.179372,41.661185",
     "geom:latitude":41.661185,
     "geom:longitude":-86.179372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Lincoln Way E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353425971,
-    "wof:lastmodified":1449019150,
+    "wof:lastmodified":1466502900,
     "wof:name":"Antiques Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-86.179372,41.661185,-86.179372,41.661185],
+  "bbox": [
+    -86.179372,
+    41.661185,
+    -86.179372,
+    41.661185
+],
   "geometry": {"coordinates":[-86.179372,41.661185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387736307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.746074,38.315669,-85.746074,38.315669",
     "geom:latitude":38.315669,
     "geom:longitude":-85.746074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Fabricon Blvd",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387736307,
-    "wof:lastmodified":1449059878,
+    "wof:lastmodified":1466503890,
     "wof:name":"MORGAN Manufacturing & Engrg",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-85.746074,38.315669,-85.746074,38.315669],
-  "geometry": {"coordinates":[-85.746074,38.315669],"type":"Point"}
+  "bbox": [
+    -85.746074,
+    38.315669,
+    -85.746074,
+    38.315669
+],
+  "geometry": {"coordinates":[-85.74607399999999,38.315669],"type":"Point"}
 }

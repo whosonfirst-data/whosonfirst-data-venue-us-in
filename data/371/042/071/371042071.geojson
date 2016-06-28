@@ -2,13 +2,14 @@
   "id": 371042071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.132175,41.044459,-85.132175,41.044459",
     "geom:latitude":41.044459,
     "geom:longitude":-85.132175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4447 Lafayette St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371042071,
-    "wof:lastmodified":1449049836,
+    "wof:lastmodified":1466502922,
     "wof:name":"Troy Ganser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-85.132175,41.044459,-85.132175,41.044459],
+  "bbox": [
+    -85.132175,
+    41.044459,
+    -85.132175,
+    41.044459
+],
   "geometry": {"coordinates":[-85.132175,41.044459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370170705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.153251,41.085059,-85.153251,41.085059",
     "geom:latitude":41.085059,
     "geom:longitude":-85.153251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Sherman Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370170705,
-    "wof:lastmodified":1449029407,
+    "wof:lastmodified":1466502911,
     "wof:name":"Accu-Color Lab Inc",
     "wof:parent_id":85877571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-85.153251,41.085059,-85.153251,41.085059],
+  "bbox": [
+    -85.153251,
+    41.085059,
+    -85.153251,
+    41.085059
+],
   "geometry": {"coordinates":[-85.153251,41.085059],"type":"Point"}
 }

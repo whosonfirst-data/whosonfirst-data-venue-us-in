@@ -2,13 +2,14 @@
   "id": 387265703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082454,39.680853,-86.082454,39.680853",
     "geom:latitude":39.680853,
     "geom:longitude":-86.082454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387265703,
-    "wof:lastmodified":1449057393,
+    "wof:lastmodified":1466503256,
     "wof:name":"Burton Crossing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-86.082454,39.680853,-86.082454,39.680853],
+  "bbox": [
+    -86.082454,
+    39.680853,
+    -86.082454,
+    39.680853
+],
   "geometry": {"coordinates":[-86.082454,39.680853],"type":"Point"}
 }

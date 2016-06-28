@@ -2,13 +2,14 @@
   "id": 320075467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.166076,40.19195,-85.166076,40.19195",
     "geom:latitude":40.19195,
     "geom:longitude":-85.166076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1878 N 1000 W",
     "sg:city":"Parker City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320075467,
-    "wof:lastmodified":1449013290,
+    "wof:lastmodified":1466503690,
     "wof:name":"Monroe Central Jr-Sr High Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.166076,40.19195,-85.166076,40.19195],
+  "bbox": [
+    -85.166076,
+    40.19195,
+    -85.166076,
+    40.19195
+],
   "geometry": {"coordinates":[-85.166076,40.19195],"type":"Point"}
 }

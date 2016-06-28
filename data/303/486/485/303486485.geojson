@@ -2,13 +2,14 @@
   "id": 303486485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.500138,41.597486,-87.500138,41.597486",
     "geom:latitude":41.597486,
     "geom:longitude":-87.500138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6431 Columbia Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303486485,
-    "wof:lastmodified":1448999484,
+    "wof:lastmodified":1466503713,
     "wof:name":"Employment & Training Prtnrshp",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government"
     ]
 },
-  "bbox": [-87.500138,41.597486,-87.500138,41.597486],
-  "geometry": {"coordinates":[-87.500138,41.597486],"type":"Point"}
+  "bbox": [
+    -87.500138,
+    41.597486,
+    -87.500138,
+    41.597486
+],
+  "geometry": {"coordinates":[-87.50013800000001,41.597486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320513227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.455958,41.587339,-87.455958,41.587339",
     "geom:latitude":41.587339,
     "geom:longitude":-87.455958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3023 169th Pl",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320513227,
-    "wof:lastmodified":1449013743,
+    "wof:lastmodified":1466503190,
     "wof:name":"Alka Cabinet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.455958,41.587339,-87.455958,41.587339],
+  "bbox": [
+    -87.455958,
+    41.587339,
+    -87.455958,
+    41.587339
+],
   "geometry": {"coordinates":[-87.455958,41.587339],"type":"Point"}
 }

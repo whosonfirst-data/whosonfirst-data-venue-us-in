@@ -2,13 +2,14 @@
   "id": 354275133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.886729,41.702398,-86.886729,41.702398",
     "geom:latitude":41.702398,
     "geom:longitude":-86.886729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Tilden Ave",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354275133,
-    "wof:lastmodified":1449066456,
+    "wof:lastmodified":1466503251,
     "wof:name":"A A Custom Cabinets & Counter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-86.886729,41.702398,-86.886729,41.702398],
+  "bbox": [
+    -86.886729,
+    41.702398,
+    -86.886729,
+    41.702398
+],
   "geometry": {"coordinates":[-86.886729,41.702398],"type":"Point"}
 }

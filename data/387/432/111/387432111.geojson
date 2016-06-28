@@ -2,13 +2,14 @@
   "id": 387432111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157995,39.918433,-86.157995,39.918433",
     "geom:latitude":39.918433,
     "geom:longitude":-86.157995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8902 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387432111,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1466503489,
     "wof:name":"Gardner & White",
     "wof:parent_id":85850623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.157995,39.918433,-86.157995,39.918433],
+  "bbox": [
+    -86.157995,
+    39.918433,
+    -86.157995,
+    39.918433
+],
   "geometry": {"coordinates":[-86.157995,39.918433],"type":"Point"}
 }

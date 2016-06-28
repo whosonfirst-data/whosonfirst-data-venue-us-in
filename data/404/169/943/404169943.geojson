@@ -2,13 +2,14 @@
   "id": 404169943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.539816,39.114633,-86.539816,39.114633",
     "geom:latitude":39.114633,
     "geom:longitude":-86.539816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 S Rogers St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404169943,
-    "wof:lastmodified":1449039845,
+    "wof:lastmodified":1466503113,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-86.539816,39.114633,-86.539816,39.114633],
+  "bbox": [
+    -86.539816,
+    39.114633,
+    -86.539816,
+    39.114633
+],
   "geometry": {"coordinates":[-86.539816,39.114633],"type":"Point"}
 }

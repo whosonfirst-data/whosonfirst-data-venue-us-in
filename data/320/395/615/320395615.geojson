@@ -2,13 +2,14 @@
   "id": 320395615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966892,39.937809,-85.966892,39.937809",
     "geom:latitude":39.937809,
     "geom:longitude":-85.966892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11334 Treyburn Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320395615,
-    "wof:lastmodified":1449014426,
+    "wof:lastmodified":1466503049,
     "wof:name":"Reverend R H Duncan",
     "wof:parent_id":85824301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.966892,39.937809,-85.966892,39.937809],
+  "bbox": [
+    -85.966892,
+    39.937809,
+    -85.966892,
+    39.937809
+],
   "geometry": {"coordinates":[-85.966892,39.937809],"type":"Point"}
 }

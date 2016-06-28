@@ -2,13 +2,14 @@
   "id": 370344505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.212309,40.619284,-86.212309,40.619284",
     "geom:latitude":40.619284,
     "geom:longitude":-86.212309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10125 S Lincoln Walnut St",
     "sg:city":"Walton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370344505,
-    "wof:lastmodified":1449029248,
+    "wof:lastmodified":1466503122,
     "wof:name":"Lee's Cleanup Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.212309,40.619284,-86.212309,40.619284],
+  "bbox": [
+    -86.212309,
+    40.619284,
+    -86.212309,
+    40.619284
+],
   "geometry": {"coordinates":[-86.212309,40.619284],"type":"Point"}
 }

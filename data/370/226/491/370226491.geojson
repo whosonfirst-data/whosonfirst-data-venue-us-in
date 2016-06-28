@@ -2,13 +2,14 @@
   "id": 370226491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.580596,37.977762,-87.580596,37.977762",
     "geom:latitude":37.977762,
     "geom:longitude":-87.580596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Lloyd Expy",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370226491,
-    "wof:lastmodified":1449031545,
+    "wof:lastmodified":1466502983,
     "wof:name":"Egizii Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.580596,37.977762,-87.580596,37.977762],
+  "bbox": [
+    -87.580596,
+    37.977762,
+    -87.580596,
+    37.977762
+],
   "geometry": {"coordinates":[-87.580596,37.977762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404041723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039301,39.749778,-86.039301,39.749778",
     "geom:latitude":39.749778,
     "geom:longitude":-86.039301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 Sadlier Circle W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404041723,
-    "wof:lastmodified":1449039454,
+    "wof:lastmodified":1466502936,
     "wof:name":"Badger Carpet Cleaning Inc",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-86.039301,39.749778,-86.039301,39.749778],
-  "geometry": {"coordinates":[-86.039301,39.749778],"type":"Point"}
+  "bbox": [
+    -86.039301,
+    39.749778,
+    -86.039301,
+    39.749778
+],
+  "geometry": {"coordinates":[-86.03930099999999,39.749778],"type":"Point"}
 }

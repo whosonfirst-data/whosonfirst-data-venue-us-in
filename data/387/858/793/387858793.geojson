@@ -2,13 +2,14 @@
   "id": 387858793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241356,41.683708,-86.241356,41.683708",
     "geom:latitude":41.683708,
     "geom:longitude":-86.241356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Bend Ave",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387858793,
-    "wof:lastmodified":1449056485,
+    "wof:lastmodified":1466504064,
     "wof:name":"Notre Dame Legal Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.241356,41.683708,-86.241356,41.683708],
+  "bbox": [
+    -86.241356,
+    41.683708,
+    -86.241356,
+    41.683708
+],
   "geometry": {"coordinates":[-86.241356,41.683708],"type":"Point"}
 }

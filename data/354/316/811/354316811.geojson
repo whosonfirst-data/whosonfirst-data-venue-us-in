@@ -2,13 +2,14 @@
   "id": 354316811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122702,39.851382,-86.122702,39.851382",
     "geom:latitude":39.851382,
     "geom:longitude":-86.122702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 E 54th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354316811,
-    "wof:lastmodified":1449067128,
+    "wof:lastmodified":1466503319,
     "wof:name":"Simon Skjodt Graphics",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-86.122702,39.851382,-86.122702,39.851382],
+  "bbox": [
+    -86.122702,
+    39.851382,
+    -86.122702,
+    39.851382
+],
   "geometry": {"coordinates":[-86.122702,39.851382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370892039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.009982,40.05812,-86.009982,40.05812",
     "geom:latitude":40.05812,
     "geom:longitude":-86.009982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N 10th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370892039,
-    "wof:lastmodified":1449029587,
+    "wof:lastmodified":1466503695,
     "wof:name":"Plecker Plumbing",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.009982,40.05812,-86.009982,40.05812],
-  "geometry": {"coordinates":[-86.009982,40.05812],"type":"Point"}
+  "bbox": [
+    -86.009982,
+    40.05812,
+    -86.009982,
+    40.05812
+],
+  "geometry": {"coordinates":[-86.00998199999999,40.05812],"type":"Point"}
 }

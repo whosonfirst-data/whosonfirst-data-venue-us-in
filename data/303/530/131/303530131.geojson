@@ -2,13 +2,14 @@
   "id": 303530131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.028434,41.62181,-87.028434,41.62181",
     "geom:latitude":41.62181,
     "geom:longitude":-87.028434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Graham Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303530131,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466503733,
     "wof:name":"Outriders Inc",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-87.028434,41.62181,-87.028434,41.62181],
+  "bbox": [
+    -87.028434,
+    41.62181,
+    -87.028434,
+    41.62181
+],
   "geometry": {"coordinates":[-87.028434,41.62181],"type":"Point"}
 }

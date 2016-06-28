@@ -2,13 +2,14 @@
   "id": 303691189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.396689,38.738348,-85.396689,38.738348",
     "geom:latitude":38.738348,
     "geom:longitude":-85.396689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 W 2nd St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303691189,
-    "wof:lastmodified":1448998321,
+    "wof:lastmodified":1466502977,
     "wof:name":"Downtown Self-Storage-Madison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-85.396689,38.738348,-85.396689,38.738348],
-  "geometry": {"coordinates":[-85.396689,38.738348],"type":"Point"}
+  "bbox": [
+    -85.396689,
+    38.738348,
+    -85.396689,
+    38.738348
+],
+  "geometry": {"coordinates":[-85.39668899999999,38.738348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371090455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.581992,38.001402,-87.581992,38.001402",
     "geom:latitude":38.001402,
     "geom:longitude":-87.581992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 N Fulton Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371090455,
-    "wof:lastmodified":1449049872,
+    "wof:lastmodified":1466502983,
     "wof:name":"Greenway Motor Sport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-87.581992,38.001402,-87.581992,38.001402],
+  "bbox": [
+    -87.581992,
+    38.001402,
+    -87.581992,
+    38.001402
+],
   "geometry": {"coordinates":[-87.581992,38.001402],"type":"Point"}
 }

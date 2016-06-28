@@ -2,13 +2,14 @@
   "id": 320107163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479631,39.358495,-85.479631,39.358495",
     "geom:latitude":39.358495,
     "geom:longitude":-85.479631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Freeland Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320107163,
-    "wof:lastmodified":1449011278,
+    "wof:lastmodified":1466503704,
     "wof:name":"Tabbaco Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479631,39.358495,-85.479631,39.358495],
+  "bbox": [
+    -85.479631,
+    39.358495,
+    -85.479631,
+    39.358495
+],
   "geometry": {"coordinates":[-85.479631,39.358495],"type":"Point"}
 }

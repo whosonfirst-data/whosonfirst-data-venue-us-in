@@ -2,13 +2,14 @@
   "id": 320449951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.07131,41.165279,-85.07131,41.165279",
     "geom:latitude":41.165279,
     "geom:longitude":-85.07131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 Mayhew Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320449951,
-    "wof:lastmodified":1449014682,
+    "wof:lastmodified":1466503119,
     "wof:name":"Graphics Systems Inc",
     "wof:parent_id":85851467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-85.07131,41.165279,-85.07131,41.165279],
+  "bbox": [
+    -85.07131,
+    41.165279,
+    -85.07131,
+    41.165279
+],
   "geometry": {"coordinates":[-85.07131,41.165279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354365713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862508,41.687504,-86.862508,41.687504",
     "geom:latitude":41.687504,
     "geom:longitude":-86.862508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E US Hwy 20",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354365713,
-    "wof:lastmodified":1449066210,
+    "wof:lastmodified":1466503399,
     "wof:name":"Indiana State Excise Police",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-86.862508,41.687504,-86.862508,41.687504],
-  "geometry": {"coordinates":[-86.862508,41.687504],"type":"Point"}
+  "bbox": [
+    -86.862508,
+    41.687504,
+    -86.862508,
+    41.687504
+],
+  "geometry": {"coordinates":[-86.86250800000001,41.687504],"type":"Point"}
 }

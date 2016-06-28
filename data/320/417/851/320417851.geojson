@@ -2,13 +2,14 @@
   "id": 320417851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.380752,38.775182,-85.380752,38.775182",
     "geom:latitude":38.775182,
     "geom:longitude":-85.380752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2612 Franks Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320417851,
-    "wof:lastmodified":1449012799,
+    "wof:lastmodified":1466503075,
     "wof:name":"Lanthier Winery Main Street",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-85.380752,38.775182,-85.380752,38.775182],
+  "bbox": [
+    -85.380752,
+    38.775182,
+    -85.380752,
+    38.775182
+],
   "geometry": {"coordinates":[-85.380752,38.775182],"type":"Point"}
 }

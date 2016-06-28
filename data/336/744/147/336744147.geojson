@@ -2,13 +2,14 @@
   "id": 336744147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.37717,41.644346,-86.37717,41.644346",
     "geom:latitude":41.644346,
     "geom:longitude":-86.37717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58406 Crumstown Hwy",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336744147,
-    "wof:lastmodified":1448997323,
+    "wof:lastmodified":1466503073,
     "wof:name":"Bevs Crumstown Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-86.37717,41.644346,-86.37717,41.644346],
-  "geometry": {"coordinates":[-86.37717,41.644346],"type":"Point"}
+  "bbox": [
+    -86.37717,
+    41.644346,
+    -86.37717,
+    41.644346
+],
+  "geometry": {"coordinates":[-86.37717000000001,41.644346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387956453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.513333,41.623647,-87.513333,41.623647",
     "geom:latitude":41.623647,
     "geom:longitude":-87.513333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 Sohl Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387956453,
-    "wof:lastmodified":1449056750,
+    "wof:lastmodified":1466504405,
     "wof:name":"City Baptist Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.513333,41.623647,-87.513333,41.623647],
+  "bbox": [
+    -87.513333,
+    41.623647,
+    -87.513333,
+    41.623647
+],
   "geometry": {"coordinates":[-87.513333,41.623647],"type":"Point"}
 }

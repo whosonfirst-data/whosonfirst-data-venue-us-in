@@ -2,13 +2,14 @@
   "id": 353869739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.052689,41.122297,-85.052689,41.122297",
     "geom:latitude":41.122297,
     "geom:longitude":-85.052689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6914 Curwood Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353869739,
-    "wof:lastmodified":1449020604,
+    "wof:lastmodified":1466503392,
     "wof:name":"Christen Landscape Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-85.052689,41.122297,-85.052689,41.122297],
+  "bbox": [
+    -85.052689,
+    41.122297,
+    -85.052689,
+    41.122297
+],
   "geometry": {"coordinates":[-85.052689,41.122297],"type":"Point"}
 }

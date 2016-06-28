@@ -2,13 +2,14 @@
   "id": 303661561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.064666,41.604068,-87.064666,41.604068",
     "geom:latitude":41.604068,
     "geom:longitude":-87.064666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 S Park Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303661561,
-    "wof:lastmodified":1449000305,
+    "wof:lastmodified":1466502940,
     "wof:name":"Rose's Clip & Dip",
     "wof:parent_id":85856849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-87.064666,41.604068,-87.064666,41.604068],
+  "bbox": [
+    -87.064666,
+    41.604068,
+    -87.064666,
+    41.604068
+],
   "geometry": {"coordinates":[-87.064666,41.604068],"type":"Point"}
 }

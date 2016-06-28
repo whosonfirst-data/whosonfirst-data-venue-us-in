@@ -2,13 +2,14 @@
   "id": 353516167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.477529,40.082794,-86.477529,40.082794",
     "geom:latitude":40.082794,
     "geom:longitude":-86.477529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W 300 N",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353516167,
-    "wof:lastmodified":1449018745,
+    "wof:lastmodified":1466502967,
     "wof:name":"Brandenburg Construction Co",
     "wof:parent_id":85807195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-86.477529,40.082794,-86.477529,40.082794],
+  "bbox": [
+    -86.477529,
+    40.082794,
+    -86.477529,
+    40.082794
+],
   "geometry": {"coordinates":[-86.477529,40.082794],"type":"Point"}
 }

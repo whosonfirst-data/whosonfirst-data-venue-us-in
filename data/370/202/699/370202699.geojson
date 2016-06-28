@@ -2,13 +2,14 @@
   "id": 370202699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.401044,39.25545,-87.401044,39.25545",
     "geom:latitude":39.25545,
     "geom:longitude":-87.401044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 E Co Rd 1175 N",
     "sg:city":"Farmersburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370202699,
-    "wof:lastmodified":1449032030,
+    "wof:lastmodified":1466502952,
     "wof:name":"S Freeze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-87.401044,39.25545,-87.401044,39.25545],
+  "bbox": [
+    -87.401044,
+    39.25545,
+    -87.401044,
+    39.25545
+],
   "geometry": {"coordinates":[-87.401044,39.25545],"type":"Point"}
 }

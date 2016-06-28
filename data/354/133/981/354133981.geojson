@@ -2,13 +2,14 @@
   "id": 354133981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.736744,41.27738,-86.736744,41.27738",
     "geom:latitude":41.27738,
     "geom:longitude":-86.736744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 S State Rd 39",
     "sg:city":"North Judson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354133981,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466503038,
     "wof:name":"Housing Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.736744,41.27738,-86.736744,41.27738],
+  "bbox": [
+    -86.736744,
+    41.27738,
+    -86.736744,
+    41.27738
+],
   "geometry": {"coordinates":[-86.736744,41.27738],"type":"Point"}
 }

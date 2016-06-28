@@ -2,13 +2,14 @@
   "id": 303814469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148938,41.680385,-86.148938,41.680385",
     "geom:latitude":41.680385,
     "geom:longitude":-86.148938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 E McKinley Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303814469,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466503121,
     "wof:name":"Pdh Office Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.148938,41.680385,-86.148938,41.680385],
+  "bbox": [
+    -86.148938,
+    41.680385,
+    -86.148938,
+    41.680385
+],
   "geometry": {"coordinates":[-86.148938,41.680385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371177873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108559,41.663414,-86.108559,41.663414",
     "geom:latitude":41.663414,
     "geom:longitude":-86.108559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4702 Lincoln Way E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371177873,
-    "wof:lastmodified":1449050135,
+    "wof:lastmodified":1466503102,
     "wof:name":"America Information & Mktng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-86.108559,41.663414,-86.108559,41.663414],
+  "bbox": [
+    -86.108559,
+    41.663414,
+    -86.108559,
+    41.663414
+],
   "geometry": {"coordinates":[-86.108559,41.663414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320595257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22491,39.920215,-86.22491,39.920215",
     "geom:latitude":39.920215,
     "geom:longitude":-86.22491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Depauw Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320595257,
-    "wof:lastmodified":1449014600,
+    "wof:lastmodified":1466503295,
     "wof:name":"US Agricultural Dept",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-86.22491,39.920215,-86.22491,39.920215],
-  "geometry": {"coordinates":[-86.22491,39.920215],"type":"Point"}
+  "bbox": [
+    -86.22491,
+    39.920215,
+    -86.22491,
+    39.920215
+],
+  "geometry": {"coordinates":[-86.22490999999999,39.920215],"type":"Point"}
 }

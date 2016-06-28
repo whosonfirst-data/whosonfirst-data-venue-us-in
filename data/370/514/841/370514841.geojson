@@ -2,13 +2,14 @@
   "id": 370514841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480078,40.113308,-85.480078,40.113308",
     "geom:latitude":40.113308,
     "geom:longitude":-85.480078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7405 W Co Rd 550 S",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370514841,
-    "wof:lastmodified":1449030781,
+    "wof:lastmodified":1466503285,
     "wof:name":"Vision Corp",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-85.480078,40.113308,-85.480078,40.113308],
-  "geometry": {"coordinates":[-85.480078,40.113308],"type":"Point"}
+  "bbox": [
+    -85.480078,
+    40.113308,
+    -85.480078,
+    40.113308
+],
+  "geometry": {"coordinates":[-85.48007800000001,40.113308],"type":"Point"}
 }

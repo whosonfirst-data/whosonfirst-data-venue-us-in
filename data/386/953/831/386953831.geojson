@@ -2,13 +2,14 @@
   "id": 386953831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082582,39.648875,-86.082582,39.648875",
     "geom:latitude":39.648875,
     "geom:longitude":-86.082582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8111 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386953831,
-    "wof:lastmodified":1449028835,
+    "wof:lastmodified":1466502918,
     "wof:name":"Indiana Oncology Hematology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.082582,39.648875,-86.082582,39.648875],
+  "bbox": [
+    -86.082582,
+    39.648875,
+    -86.082582,
+    39.648875
+],
   "geometry": {"coordinates":[-86.082582,39.648875],"type":"Point"}
 }

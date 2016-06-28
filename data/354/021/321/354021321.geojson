@@ -2,13 +2,14 @@
   "id": 354021321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.097348,39.591705,-86.097348,39.591705",
     "geom:latitude":39.591705,
     "geom:longitude":-86.097348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Park 800 Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354021321,
-    "wof:lastmodified":1449067033,
+    "wof:lastmodified":1466502907,
     "wof:name":"Finish Consulting & Instlln",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.097348,39.591705,-86.097348,39.591705],
+  "bbox": [
+    -86.097348,
+    39.591705,
+    -86.097348,
+    39.591705
+],
   "geometry": {"coordinates":[-86.097348,39.591705],"type":"Point"}
 }

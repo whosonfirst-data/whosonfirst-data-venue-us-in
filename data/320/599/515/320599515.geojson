@@ -2,13 +2,14 @@
   "id": 320599515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.180647,41.059913,-85.180647,41.059913",
     "geom:latitude":41.059913,
     "geom:longitude":-85.180647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Freeman St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320599515,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466503299,
     "wof:name":"Lynsey's Water Garden",
     "wof:parent_id":85877539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-85.180647,41.059913,-85.180647,41.059913],
-  "geometry": {"coordinates":[-85.180647,41.059913],"type":"Point"}
+  "bbox": [
+    -85.180647,
+    41.059913,
+    -85.180647,
+    41.059913
+],
+  "geometry": {"coordinates":[-85.18064699999999,41.059913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354237209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.864964,40.388189,-86.864964,40.388189",
     "geom:latitude":40.388189,
     "geom:longitude":-86.864964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 S Beck Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354237209,
-    "wof:lastmodified":1449065982,
+    "wof:lastmodified":1466503194,
     "wof:name":"Brad's Motor Marketplace",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.864964,40.388189,-86.864964,40.388189],
+  "bbox": [
+    -86.864964,
+    40.388189,
+    -86.864964,
+    40.388189
+],
   "geometry": {"coordinates":[-86.864964,40.388189],"type":"Point"}
 }

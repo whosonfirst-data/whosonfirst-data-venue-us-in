@@ -2,13 +2,14 @@
   "id": 303949861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.474845,41.59336,-87.474845,41.59336",
     "geom:latitude":41.59336,
     "geom:longitude":-87.474845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2144 Wood Hollow",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303949861,
-    "wof:lastmodified":1448999637,
+    "wof:lastmodified":1466503309,
     "wof:name":"Jo Jo & Tudor The Clowns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clown"
     ]
 },
-  "bbox": [-87.474845,41.59336,-87.474845,41.59336],
+  "bbox": [
+    -87.474845,
+    41.59336,
+    -87.474845,
+    41.59336
+],
   "geometry": {"coordinates":[-87.474845,41.59336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319818109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.174022,41.095877,-85.174022,41.095877",
     "geom:latitude":41.095877,
     "geom:longitude":-85.174022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 W State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319818109,
-    "wof:lastmodified":1449024461,
+    "wof:lastmodified":1466503517,
     "wof:name":"Press Seal Gasket Corp",
     "wof:parent_id":85837701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gasket"
     ]
 },
-  "bbox": [-85.174022,41.095877,-85.174022,41.095877],
-  "geometry": {"coordinates":[-85.174022,41.095877],"type":"Point"}
+  "bbox": [
+    -85.174022,
+    41.095877,
+    -85.174022,
+    41.095877
+],
+  "geometry": {"coordinates":[-85.17402199999999,41.095877],"type":"Point"}
 }

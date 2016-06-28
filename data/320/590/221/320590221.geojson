@@ -2,13 +2,14 @@
   "id": 320590221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611338,39.186126,-86.611338,39.186126",
     "geom:latitude":39.186126,
     "geom:longitude":-86.611338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 N Hartstrait Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320590221,
-    "wof:lastmodified":1449013482,
+    "wof:lastmodified":1466503289,
     "wof:name":"Aireton",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-86.611338,39.186126,-86.611338,39.186126],
+  "bbox": [
+    -86.611338,
+    39.186126,
+    -86.611338,
+    39.186126
+],
   "geometry": {"coordinates":[-86.611338,39.186126],"type":"Point"}
 }

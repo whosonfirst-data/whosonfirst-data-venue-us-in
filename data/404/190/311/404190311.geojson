@@ -2,13 +2,14 @@
   "id": 404190311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.203255,41.717952,-86.203255,41.717952",
     "geom:latitude":41.717952,
     "geom:longitude":-86.203255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53178 Ba J Er Ln",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404190311,
-    "wof:lastmodified":1449040263,
+    "wof:lastmodified":1466503140,
     "wof:name":"8 Thirty-One Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-86.203255,41.717952,-86.203255,41.717952],
+  "bbox": [
+    -86.203255,
+    41.717952,
+    -86.203255,
+    41.717952
+],
   "geometry": {"coordinates":[-86.203255,41.717952],"type":"Point"}
 }

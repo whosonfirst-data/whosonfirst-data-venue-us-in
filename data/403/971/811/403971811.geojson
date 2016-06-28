@@ -2,13 +2,14 @@
   "id": 403971811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062375,41.099443,-85.062375,41.099443",
     "geom:latitude":41.099443,
     "geom:longitude":-85.062375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6066 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403971811,
-    "wof:lastmodified":1449055320,
+    "wof:lastmodified":1466503265,
     "wof:name":"American Republic Insurance",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-85.062375,41.099443,-85.062375,41.099443],
+  "bbox": [
+    -85.062375,
+    41.099443,
+    -85.062375,
+    41.099443
+],
   "geometry": {"coordinates":[-85.062375,41.099443],"type":"Point"}
 }

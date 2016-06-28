@@ -2,13 +2,14 @@
   "id": 320565359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.088205,41.061662,-85.088205,41.061662",
     "geom:latitude":41.061662,
     "geom:longitude":-85.088205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 E Pontiac St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320565359,
-    "wof:lastmodified":1449014629,
+    "wof:lastmodified":1466503266,
     "wof:name":"Systems Engineering & Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-85.088205,41.061662,-85.088205,41.061662],
+  "bbox": [
+    -85.088205,
+    41.061662,
+    -85.088205,
+    41.061662
+],
   "geometry": {"coordinates":[-85.088205,41.061662],"type":"Point"}
 }

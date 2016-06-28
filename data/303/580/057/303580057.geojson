@@ -2,13 +2,14 @@
   "id": 303580057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.866698,41.689764,-86.866698,41.689764",
     "geom:latitude":41.689764,
     "geom:longitude":-86.866698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Sunnyside Dr",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303580057,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1466503761,
     "wof:name":"D & G Roofing",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.866698,41.689764,-86.866698,41.689764],
+  "bbox": [
+    -86.866698,
+    41.689764,
+    -86.866698,
+    41.689764
+],
   "geometry": {"coordinates":[-86.866698,41.689764],"type":"Point"}
 }

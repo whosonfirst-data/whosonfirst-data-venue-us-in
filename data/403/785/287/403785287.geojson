@@ -2,13 +2,14 @@
   "id": 403785287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.512514,41.594334,-87.512514,41.594334",
     "geom:latitude":41.594334,
     "geom:longitude":-87.512514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 Monroe Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403785287,
-    "wof:lastmodified":1449055746,
+    "wof:lastmodified":1466502997,
     "wof:name":"Rda Enterprises Inc",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.512514,41.594334,-87.512514,41.594334],
+  "bbox": [
+    -87.512514,
+    41.594334,
+    -87.512514,
+    41.594334
+],
   "geometry": {"coordinates":[-87.512514,41.594334],"type":"Point"}
 }

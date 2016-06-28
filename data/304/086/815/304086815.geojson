@@ -2,13 +2,14 @@
   "id": 304086815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.371712,39.934234,-85.371712,39.934234",
     "geom:latitude":39.934234,
     "geom:longitude":-85.371712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N 12th St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304086815,
-    "wof:lastmodified":1449043991,
+    "wof:lastmodified":1466503509,
     "wof:name":"Video Service Ctr",
     "wof:parent_id":85805591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-85.371712,39.934234,-85.371712,39.934234],
+  "bbox": [
+    -85.371712,
+    39.934234,
+    -85.371712,
+    39.934234
+],
   "geometry": {"coordinates":[-85.371712,39.934234],"type":"Point"}
 }

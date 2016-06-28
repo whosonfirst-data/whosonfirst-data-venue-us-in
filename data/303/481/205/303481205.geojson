@@ -2,13 +2,14 @@
   "id": 303481205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138275,41.069391,-85.138275,41.069391",
     "geom:latitude":41.069391,
     "geom:longitude":-85.138275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303481205,
-    "wof:lastmodified":1449000252,
+    "wof:lastmodified":1466503709,
     "wof:name":"Allen Business Machines Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-85.138275,41.069391,-85.138275,41.069391],
-  "geometry": {"coordinates":[-85.138275,41.069391],"type":"Point"}
+  "bbox": [
+    -85.138275,
+    41.069391,
+    -85.138275,
+    41.069391
+],
+  "geometry": {"coordinates":[-85.13827499999999,41.069391],"type":"Point"}
 }

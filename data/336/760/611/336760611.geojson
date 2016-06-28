@@ -2,13 +2,14 @@
   "id": 336760611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.182652,41.072773,-85.182652,41.072773",
     "geom:latitude":41.072773,
     "geom:longitude":-85.182652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 N Washington Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336760611,
-    "wof:lastmodified":1448997960,
+    "wof:lastmodified":1466503096,
     "wof:name":"Accountable Solutions Inc",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [-85.182652,41.072773,-85.182652,41.072773],
+  "bbox": [
+    -85.182652,
+    41.072773,
+    -85.182652,
+    41.072773
+],
   "geometry": {"coordinates":[-85.182652,41.072773],"type":"Point"}
 }

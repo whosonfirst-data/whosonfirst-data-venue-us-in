@@ -2,13 +2,14 @@
   "id": 354111605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.203225,39.806426,-86.203225,39.806426",
     "geom:latitude":39.806426,
     "geom:longitude":-86.203225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 Cold Spring Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354111605,
-    "wof:lastmodified":1449067707,
+    "wof:lastmodified":1466503012,
     "wof:name":"Kamal Petroleum",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-86.203225,39.806426,-86.203225,39.806426],
+  "bbox": [
+    -86.203225,
+    39.806426,
+    -86.203225,
+    39.806426
+],
   "geometry": {"coordinates":[-86.203225,39.806426],"type":"Point"}
 }

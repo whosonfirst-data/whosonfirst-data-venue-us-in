@@ -2,13 +2,14 @@
   "id": 319821155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.506632,39.030618,-86.506632,39.030618",
     "geom:latitude":39.030618,
     "geom:longitude":-86.506632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9019 S Pointe Ridge Ln",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319821155,
-    "wof:lastmodified":1449024506,
+    "wof:lastmodified":1466503522,
     "wof:name":"Mark's Heating & Cooling",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.506632,39.030618,-86.506632,39.030618],
+  "bbox": [
+    -86.506632,
+    39.030618,
+    -86.506632,
+    39.030618
+],
   "geometry": {"coordinates":[-86.506632,39.030618],"type":"Point"}
 }

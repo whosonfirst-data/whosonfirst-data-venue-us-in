@@ -2,13 +2,14 @@
   "id": 303646115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.066488,41.463552,-87.066488,41.463552",
     "geom:latitude":41.463552,
     "geom:longitude":-87.066488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Boundary St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303646115,
-    "wof:lastmodified":1448998054,
+    "wof:lastmodified":1466502920,
     "wof:name":"Eagle USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.066488,41.463552,-87.066488,41.463552],
-  "geometry": {"coordinates":[-87.066488,41.463552],"type":"Point"}
+  "bbox": [
+    -87.066488,
+    41.463552,
+    -87.066488,
+    41.463552
+],
+  "geometry": {"coordinates":[-87.06648800000001,41.463552],"type":"Point"}
 }

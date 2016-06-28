@@ -2,13 +2,14 @@
   "id": 320131297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846711,40.388708,-86.846711,40.388708",
     "geom:latitude":40.388708,
     "geom:longitude":-86.846711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 Maple Pt Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320131297,
-    "wof:lastmodified":1449012390,
+    "wof:lastmodified":1466503722,
     "wof:name":"Personal Finance Co",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-86.846711,40.388708,-86.846711,40.388708],
+  "bbox": [
+    -86.846711,
+    40.388708,
+    -86.846711,
+    40.388708
+],
   "geometry": {"coordinates":[-86.846711,40.388708],"type":"Point"}
 }

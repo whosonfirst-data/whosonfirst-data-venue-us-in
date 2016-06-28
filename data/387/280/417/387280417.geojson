@@ -2,13 +2,14 @@
   "id": 387280417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.940026,40.049237,-84.940026,40.049237",
     "geom:latitude":40.049237,
     "geom:longitude":-84.940026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Lynn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387280417,
-    "wof:lastmodified":1449057976,
+    "wof:lastmodified":1466503279,
     "wof:name":"T & S Pantries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.940026,40.049237,-84.940026,40.049237],
+  "bbox": [
+    -84.940026,
+    40.049237,
+    -84.940026,
+    40.049237
+],
   "geometry": {"coordinates":[-84.940026,40.049237],"type":"Point"}
 }

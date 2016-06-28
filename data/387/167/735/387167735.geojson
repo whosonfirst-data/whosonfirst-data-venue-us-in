@@ -2,13 +2,14 @@
   "id": 387167735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.68941,40.095377,-85.68941,40.095377",
     "geom:latitude":40.095377,
     "geom:longitude":-85.68941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Pendleton Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387167735,
-    "wof:lastmodified":1449058086,
+    "wof:lastmodified":1466503118,
     "wof:name":"M & M Brewskies",
     "wof:parent_id":85833395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.68941,40.095377,-85.68941,40.095377],
+  "bbox": [
+    -85.68941,
+    40.095377,
+    -85.68941,
+    40.095377
+],
   "geometry": {"coordinates":[-85.68941,40.095377],"type":"Point"}
 }

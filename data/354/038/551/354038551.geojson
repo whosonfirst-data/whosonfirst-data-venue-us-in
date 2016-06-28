@@ -2,13 +2,14 @@
   "id": 354038551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127077,39.971076,-86.127077,39.971076",
     "geom:latitude":39.971076,
     "geom:longitude":-86.127077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S Range Line Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354038551,
-    "wof:lastmodified":1449067059,
+    "wof:lastmodified":1466502926,
     "wof:name":"Barns & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.127077,39.971076,-86.127077,39.971076],
+  "bbox": [
+    -86.127077,
+    39.971076,
+    -86.127077,
+    39.971076
+],
   "geometry": {"coordinates":[-86.127077,39.971076],"type":"Point"}
 }

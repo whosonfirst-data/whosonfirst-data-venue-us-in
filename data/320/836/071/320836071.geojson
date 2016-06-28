@@ -2,13 +2,14 @@
   "id": 320836071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.130925,40.469832,-86.130925,40.469832",
     "geom:latitude":40.469832,
     "geom:longitude":-86.130925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 S Main St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320836071,
-    "wof:lastmodified":1449013739,
+    "wof:lastmodified":1466503539,
     "wof:name":"Conduct of Ministry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-86.130925,40.469832,-86.130925,40.469832],
+  "bbox": [
+    -86.130925,
+    40.469832,
+    -86.130925,
+    40.469832
+],
   "geometry": {"coordinates":[-86.130925,40.469832],"type":"Point"}
 }

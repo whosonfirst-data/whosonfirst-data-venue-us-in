@@ -2,13 +2,14 @@
   "id": 303493107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.804296,38.299477,-85.804296,38.299477",
     "geom:latitude":38.299477,
     "geom:longitude":-85.804296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1943 Ekin Ave",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303493107,
-    "wof:lastmodified":1448998889,
+    "wof:lastmodified":1466503715,
     "wof:name":"US New Albany Natl Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government"
     ]
 },
-  "bbox": [-85.804296,38.299477,-85.804296,38.299477],
-  "geometry": {"coordinates":[-85.804296,38.299477],"type":"Point"}
+  "bbox": [
+    -85.804296,
+    38.299477,
+    -85.804296,
+    38.299477
+],
+  "geometry": {"coordinates":[-85.80429599999999,38.299477],"type":"Point"}
 }

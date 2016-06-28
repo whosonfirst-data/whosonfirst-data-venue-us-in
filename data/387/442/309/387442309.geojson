@@ -2,13 +2,14 @@
   "id": 387442309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.045409,38.871486,-86.045409,38.871486",
     "geom:latitude":38.871486,
     "geom:longitude":-86.045409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 S Main St",
     "sg:city":"Brownstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387442309,
-    "wof:lastmodified":1449057776,
+    "wof:lastmodified":1466503501,
     "wof:name":"Aquatic Systems",
     "wof:parent_id":85818369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-86.045409,38.871486,-86.045409,38.871486],
-  "geometry": {"coordinates":[-86.045409,38.871486],"type":"Point"}
+  "bbox": [
+    -86.045409,
+    38.871486,
+    -86.045409,
+    38.871486
+],
+  "geometry": {"coordinates":[-86.04540900000001,38.871486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353576141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.102473,39.638772,-85.102473,39.638772",
     "geom:latitude":39.638772,
     "geom:longitude":-85.102473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 E State Rd 44",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353576141,
-    "wof:lastmodified":1449020237,
+    "wof:lastmodified":1466503047,
     "wof:name":"EMCO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.102473,39.638772,-85.102473,39.638772],
+  "bbox": [
+    -85.102473,
+    39.638772,
+    -85.102473,
+    39.638772
+],
   "geometry": {"coordinates":[-85.102473,39.638772],"type":"Point"}
 }

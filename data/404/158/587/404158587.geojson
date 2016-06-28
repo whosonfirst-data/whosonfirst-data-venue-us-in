@@ -2,13 +2,14 @@
   "id": 404158587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.50877,41.630072,-87.50877,41.630072",
     "geom:latitude":41.630072,
     "geom:longitude":-87.50877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4544 Calumet Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404158587,
-    "wof:lastmodified":1449039932,
+    "wof:lastmodified":1466503098,
     "wof:name":"Bubbleland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.50877,41.630072,-87.50877,41.630072],
+  "bbox": [
+    -87.50877,
+    41.630072,
+    -87.50877,
+    41.630072
+],
   "geometry": {"coordinates":[-87.50877,41.630072],"type":"Point"}
 }

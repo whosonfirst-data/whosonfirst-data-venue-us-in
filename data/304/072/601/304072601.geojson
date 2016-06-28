@@ -2,13 +2,14 @@
   "id": 304072601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082508,39.782604,-86.082508,39.782604",
     "geom:latitude":39.782604,
     "geom:longitude":-86.082508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5162 E 11th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304072601,
-    "wof:lastmodified":1449043885,
+    "wof:lastmodified":1466503496,
     "wof:name":"William M Gilkison MD",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.082508,39.782604,-86.082508,39.782604],
+  "bbox": [
+    -86.082508,
+    39.782604,
+    -86.082508,
+    39.782604
+],
   "geometry": {"coordinates":[-86.082508,39.782604],"type":"Point"}
 }

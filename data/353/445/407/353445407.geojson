@@ -2,13 +2,14 @@
   "id": 353445407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.786716,38.358017,-85.786716,38.358017",
     "geom:latitude":38.358017,
     "geom:longitude":-85.786716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4317 Charlestown Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353445407,
-    "wof:lastmodified":1449018596,
+    "wof:lastmodified":1466502909,
     "wof:name":"Penn Station",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.786716,38.358017,-85.786716,38.358017],
+  "bbox": [
+    -85.786716,
+    38.358017,
+    -85.786716,
+    38.358017
+],
   "geometry": {"coordinates":[-85.786716,38.358017],"type":"Point"}
 }

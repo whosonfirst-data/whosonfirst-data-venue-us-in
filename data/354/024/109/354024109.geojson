@@ -2,13 +2,14 @@
   "id": 354024109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.948041,39.200216,-85.948041,39.200216",
     "geom:latitude":39.200216,
     "geom:longitude":-85.948041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2165 W Jonathan Moore Pike",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354024109,
-    "wof:lastmodified":1449066734,
+    "wof:lastmodified":1466502911,
     "wof:name":"Centra Credit Union",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.948041,39.200216,-85.948041,39.200216],
+  "bbox": [
+    -85.948041,
+    39.200216,
+    -85.948041,
+    39.200216
+],
   "geometry": {"coordinates":[-85.948041,39.200216],"type":"Point"}
 }

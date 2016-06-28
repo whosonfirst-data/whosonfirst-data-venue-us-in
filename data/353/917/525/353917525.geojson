@@ -2,13 +2,14 @@
   "id": 353917525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.114512,39.611402,-86.114512,39.611402",
     "geom:latitude":39.611402,
     "geom:longitude":-86.114512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 US Hwy 31 S",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353917525,
-    "wof:lastmodified":1449020471,
+    "wof:lastmodified":1466503444,
     "wof:name":"D W Bond Plumbing",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.114512,39.611402,-86.114512,39.611402],
+  "bbox": [
+    -86.114512,
+    39.611402,
+    -86.114512,
+    39.611402
+],
   "geometry": {"coordinates":[-86.114512,39.611402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320667187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.822382,38.284881,-85.822382,38.284881",
     "geom:latitude":38.284881,
     "geom:longitude":-85.822382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Pearl St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320667187,
-    "wof:lastmodified":1449013711,
+    "wof:lastmodified":1466503376,
     "wof:name":"Old National Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.822382,38.284881,-85.822382,38.284881],
+  "bbox": [
+    -85.822382,
+    38.284881,
+    -85.822382,
+    38.284881
+],
   "geometry": {"coordinates":[-85.822382,38.284881],"type":"Point"}
 }

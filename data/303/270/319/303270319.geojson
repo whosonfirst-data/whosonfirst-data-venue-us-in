@@ -2,13 +2,14 @@
   "id": 303270319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492581,37.994829,-87.492581,37.994829",
     "geom:latitude":37.994829,
     "geom:longitude":-87.492581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303270319,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466503551,
     "wof:name":"Evansville Employment Service",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-87.492581,37.994829,-87.492581,37.994829],
+  "bbox": [
+    -87.492581,
+    37.994829,
+    -87.492581,
+    37.994829
+],
   "geometry": {"coordinates":[-87.492581,37.994829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404059507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.428658,39.427076,-86.428658,39.427076",
     "geom:latitude":39.427076,
     "geom:longitude":-86.428658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 N Main St",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404059507,
-    "wof:lastmodified":1449039352,
+    "wof:lastmodified":1466502960,
     "wof:name":"Martin & Assoc",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-86.428658,39.427076,-86.428658,39.427076],
+  "bbox": [
+    -86.428658,
+    39.427076,
+    -86.428658,
+    39.427076
+],
   "geometry": {"coordinates":[-86.428658,39.427076],"type":"Point"}
 }

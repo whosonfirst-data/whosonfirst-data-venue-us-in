@@ -2,13 +2,14 @@
   "id": 370640929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.963712,41.690168,-85.963712,41.690168",
     "geom:latitude":41.690168,
     "geom:longitude":-85.963712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 E Jackson Blvd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370640929,
-    "wof:lastmodified":1449030558,
+    "wof:lastmodified":1466503436,
     "wof:name":"Dick Choler Cars & Svc Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.963712,41.690168,-85.963712,41.690168],
+  "bbox": [
+    -85.963712,
+    41.690168,
+    -85.963712,
+    41.690168
+],
   "geometry": {"coordinates":[-85.963712,41.690168],"type":"Point"}
 }

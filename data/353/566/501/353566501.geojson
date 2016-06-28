@@ -2,13 +2,14 @@
   "id": 353566501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.274528,39.682783,-86.274528,39.682783",
     "geom:latitude":39.682783,
     "geom:longitude":-86.274528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Wheatstone Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353566501,
-    "wof:lastmodified":1449018304,
+    "wof:lastmodified":1466503033,
     "wof:name":"Diana Spaulding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-86.274528,39.682783,-86.274528,39.682783],
+  "bbox": [
+    -86.274528,
+    39.682783,
+    -86.274528,
+    39.682783
+],
   "geometry": {"coordinates":[-86.274528,39.682783],"type":"Point"}
 }

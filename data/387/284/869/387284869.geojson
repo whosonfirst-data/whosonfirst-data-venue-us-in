@@ -2,13 +2,14 @@
   "id": 387284869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.332691,41.587968,-87.332691,41.587968",
     "geom:latitude":41.587968,
     "geom:longitude":-87.332691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 15th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387284869,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1466503285,
     "wof:name":"Prayer House Of Faith",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.332691,41.587968,-87.332691,41.587968],
+  "bbox": [
+    -87.332691,
+    41.587968,
+    -87.332691,
+    41.587968
+],
   "geometry": {"coordinates":[-87.332691,41.587968],"type":"Point"}
 }

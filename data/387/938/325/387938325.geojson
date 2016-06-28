@@ -2,13 +2,14 @@
   "id": 387938325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.171318,41.215619,-85.171318,41.215619",
     "geom:latitude":41.215619,
     "geom:longitude":-85.171318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14419 Lima Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387938325,
-    "wof:lastmodified":1449058943,
+    "wof:lastmodified":1466504187,
     "wof:name":"D & B Copy Systems Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-85.171318,41.215619,-85.171318,41.215619],
+  "bbox": [
+    -85.171318,
+    41.215619,
+    -85.171318,
+    41.215619
+],
   "geometry": {"coordinates":[-85.171318,41.215619],"type":"Point"}
 }

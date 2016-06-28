@@ -2,13 +2,14 @@
   "id": 319903833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.968483,41.687231,-85.968483,41.687231",
     "geom:latitude":41.687231,
     "geom:longitude":-85.968483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E High St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319903833,
-    "wof:lastmodified":1449024143,
+    "wof:lastmodified":1466503596,
     "wof:name":"Smitty's Car Grooming",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.968483,41.687231,-85.968483,41.687231],
-  "geometry": {"coordinates":[-85.968483,41.687231],"type":"Point"}
+  "bbox": [
+    -85.968483,
+    41.687231,
+    -85.968483,
+    41.687231
+],
+  "geometry": {"coordinates":[-85.96848300000001,41.687231],"type":"Point"}
 }

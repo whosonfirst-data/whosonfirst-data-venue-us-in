@@ -2,13 +2,14 @@
   "id": 320015863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.767575,39.793712,-85.767575,39.793712",
     "geom:latitude":39.793712,
     "geom:longitude":-85.767575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Memorial Sq",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320015863,
-    "wof:lastmodified":1449012112,
+    "wof:lastmodified":1466503663,
     "wof:name":"Jan Hummer MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.767575,39.793712,-85.767575,39.793712],
-  "geometry": {"coordinates":[-85.767575,39.793712],"type":"Point"}
+  "bbox": [
+    -85.767575,
+    39.793712,
+    -85.767575,
+    39.793712
+],
+  "geometry": {"coordinates":[-85.76757499999999,39.793712],"type":"Point"}
 }

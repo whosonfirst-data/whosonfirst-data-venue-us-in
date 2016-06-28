@@ -2,13 +2,14 @@
   "id": 353729749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.03551,39.485099,-86.03551,39.485099",
     "geom:latitude":39.485099,
     "geom:longitude":-86.03551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hillview Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353729749,
-    "wof:lastmodified":1449019552,
+    "wof:lastmodified":1466503222,
     "wof:name":"Don Blackwell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [-86.03551,39.485099,-86.03551,39.485099],
+  "bbox": [
+    -86.03551,
+    39.485099,
+    -86.03551,
+    39.485099
+],
   "geometry": {"coordinates":[-86.03551,39.485099],"type":"Point"}
 }

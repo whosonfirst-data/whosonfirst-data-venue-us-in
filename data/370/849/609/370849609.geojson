@@ -2,13 +2,14 @@
   "id": 370849609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.392491,40.227348,-85.392491,40.227348",
     "geom:latitude":40.227348,
     "geom:longitude":-85.392491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 N Superior Dr",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370849609,
-    "wof:lastmodified":1449029719,
+    "wof:lastmodified":1466503638,
     "wof:name":"Keihin Aircon North America",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-85.392491,40.227348,-85.392491,40.227348],
-  "geometry": {"coordinates":[-85.392491,40.227348],"type":"Point"}
+  "bbox": [
+    -85.392491,
+    40.227348,
+    -85.392491,
+    40.227348
+],
+  "geometry": {"coordinates":[-85.39249100000001,40.227348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320281603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492749,37.984724,-87.492749,37.984724",
     "geom:latitude":37.984724,
     "geom:longitude":-87.492749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320281603,
-    "wof:lastmodified":1449014406,
+    "wof:lastmodified":1466502895,
     "wof:name":"Great Steak & Potato Co",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.492749,37.984724,-87.492749,37.984724],
+  "bbox": [
+    -87.492749,
+    37.984724,
+    -87.492749,
+    37.984724
+],
   "geometry": {"coordinates":[-87.492749,37.984724],"type":"Point"}
 }

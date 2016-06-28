@@ -2,13 +2,14 @@
   "id": 404168743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.022843,39.905031,-86.022843,39.905031",
     "geom:latitude":39.905031,
     "geom:longitude":-86.022843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8149 Castle Lake Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404168743,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466503111,
     "wof:name":"Sunblest Lawn Care Basics Inc",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.022843,39.905031,-86.022843,39.905031],
-  "geometry": {"coordinates":[-86.022843,39.905031],"type":"Point"}
+  "bbox": [
+    -86.022843,
+    39.905031,
+    -86.022843,
+    39.905031
+],
+  "geometry": {"coordinates":[-86.02284299999999,39.905031],"type":"Point"}
 }

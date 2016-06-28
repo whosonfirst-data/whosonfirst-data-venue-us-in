@@ -2,13 +2,14 @@
   "id": 387849599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.671496,40.138224,-86.671496,40.138224",
     "geom:latitude":40.138224,
     "geom:longitude":-86.671496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6716 N 1075 W",
     "sg:city":"Thorntown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387849599,
-    "wof:lastmodified":1449056799,
+    "wof:lastmodified":1466504054,
     "wof:name":"Sky High Sign Svc",
     "wof:parent_id":85807195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-86.671496,40.138224,-86.671496,40.138224],
+  "bbox": [
+    -86.671496,
+    40.138224,
+    -86.671496,
+    40.138224
+],
   "geometry": {"coordinates":[-86.671496,40.138224],"type":"Point"}
 }

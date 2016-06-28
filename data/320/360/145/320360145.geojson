@@ -2,13 +2,14 @@
   "id": 320360145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.246423,41.595561,-87.246423,41.595561",
     "geom:latitude":41.595561,
     "geom:longitude":-87.246423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8060 Melton Rd",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320360145,
-    "wof:lastmodified":1449014109,
+    "wof:lastmodified":1466503000,
     "wof:name":"Semoran Treatment Ctr",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-87.246423,41.595561,-87.246423,41.595561],
-  "geometry": {"coordinates":[-87.246423,41.595561],"type":"Point"}
+  "bbox": [
+    -87.246423,
+    41.595561,
+    -87.246423,
+    41.595561
+],
+  "geometry": {"coordinates":[-87.24642299999999,41.595561],"type":"Point"}
 }

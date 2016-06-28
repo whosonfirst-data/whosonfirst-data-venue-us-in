@@ -2,13 +2,14 @@
   "id": 320476841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.245349,41.237194,-86.245349,41.237194",
     "geom:latitude":41.237194,
     "geom:longitude":-86.245349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Walnut St",
     "sg:city":"Argos",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320476841,
-    "wof:lastmodified":1449012778,
+    "wof:lastmodified":1466503154,
     "wof:name":"Argos Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.245349,41.237194,-86.245349,41.237194],
+  "bbox": [
+    -86.245349,
+    41.237194,
+    -86.245349,
+    41.237194
+],
   "geometry": {"coordinates":[-86.245349,41.237194],"type":"Point"}
 }

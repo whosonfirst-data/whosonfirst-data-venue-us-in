@@ -2,13 +2,14 @@
   "id": 303850733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.929389,41.641609,-85.929389,41.641609",
     "geom:latitude":41.641609,
     "geom:longitude":-85.929389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Concord Mall Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303850733,
-    "wof:lastmodified":1448999538,
+    "wof:lastmodified":1466503169,
     "wof:name":"L A Weight Loss Ctr",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [-85.929389,41.641609,-85.929389,41.641609],
+  "bbox": [
+    -85.929389,
+    41.641609,
+    -85.929389,
+    41.641609
+],
   "geometry": {"coordinates":[-85.929389,41.641609],"type":"Point"}
 }

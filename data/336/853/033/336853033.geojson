@@ -2,13 +2,14 @@
   "id": 336853033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.115973,41.107802,-85.115973,41.107802",
     "geom:latitude":41.107802,
     "geom:longitude":-85.115973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 N Anthony Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336853033,
-    "wof:lastmodified":1448997383,
+    "wof:lastmodified":1466503215,
     "wof:name":"Jam Crib",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-85.115973,41.107802,-85.115973,41.107802],
+  "bbox": [
+    -85.115973,
+    41.107802,
+    -85.115973,
+    41.107802
+],
   "geometry": {"coordinates":[-85.115973,41.107802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354036859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.495331,41.679445,-87.495331,41.679445",
     "geom:latitude":41.679445,
     "geom:longitude":-87.495331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 119th St",
     "sg:city":"Whiting",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354036859,
-    "wof:lastmodified":1449066300,
+    "wof:lastmodified":1466502924,
     "wof:name":"Pane In The Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leaded"
     ]
 },
-  "bbox": [-87.495331,41.679445,-87.495331,41.679445],
-  "geometry": {"coordinates":[-87.495331,41.679445],"type":"Point"}
+  "bbox": [
+    -87.495331,
+    41.679445,
+    -87.495331,
+    41.679445
+],
+  "geometry": {"coordinates":[-87.49533099999999,41.679445],"type":"Point"}
 }

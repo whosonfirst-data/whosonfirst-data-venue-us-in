@@ -2,13 +2,14 @@
   "id": 404217497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.139881,41.134405,-85.139881,41.134405",
     "geom:latitude":41.134405,
     "geom:longitude":-85.139881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6149 Stoney Creek Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404217497,
-    "wof:lastmodified":1449040271,
+    "wof:lastmodified":1466503175,
     "wof:name":"Advertising Co-Fort Wayne Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-85.139881,41.134405,-85.139881,41.134405],
+  "bbox": [
+    -85.139881,
+    41.134405,
+    -85.139881,
+    41.134405
+],
   "geometry": {"coordinates":[-85.139881,41.134405],"type":"Point"}
 }

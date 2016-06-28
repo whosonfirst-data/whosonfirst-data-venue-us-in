@@ -2,13 +2,14 @@
   "id": 370640149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.524939,39.75306,-86.524939,39.75306",
     "geom:latitude":39.75306,
     "geom:longitude":-86.524939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Lincoln St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370640149,
-    "wof:lastmodified":1449030556,
+    "wof:lastmodified":1466503435,
     "wof:name":"Impact LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-86.524939,39.75306,-86.524939,39.75306],
+  "bbox": [
+    -86.524939,
+    39.75306,
+    -86.524939,
+    39.75306
+],
   "geometry": {"coordinates":[-86.524939,39.75306],"type":"Point"}
 }

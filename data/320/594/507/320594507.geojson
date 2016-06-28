@@ -2,13 +2,14 @@
   "id": 320594507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.170286,40.722299,-85.170286,40.722299",
     "geom:latitude":40.722299,
     "geom:longitude":-85.170286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Harvest Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320594507,
-    "wof:lastmodified":1449011791,
+    "wof:lastmodified":1466503294,
     "wof:name":"Metaldyne Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-85.170286,40.722299,-85.170286,40.722299],
+  "bbox": [
+    -85.170286,
+    40.722299,
+    -85.170286,
+    40.722299
+],
   "geometry": {"coordinates":[-85.170286,40.722299],"type":"Point"}
 }

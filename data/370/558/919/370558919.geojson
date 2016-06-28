@@ -2,13 +2,14 @@
   "id": 370558919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480385,41.458218,-86.480385,41.458218",
     "geom:latitude":41.458218,
     "geom:longitude":-86.480385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 John Glenn Dr",
     "sg:city":"Walkerton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370558919,
-    "wof:lastmodified":1449030027,
+    "wof:lastmodified":1466503348,
     "wof:name":"John Glenn High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.480385,41.458218,-86.480385,41.458218],
+  "bbox": [
+    -86.480385,
+    41.458218,
+    -86.480385,
+    41.458218
+],
   "geometry": {"coordinates":[-86.480385,41.458218],"type":"Point"}
 }

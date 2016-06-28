@@ -2,13 +2,14 @@
   "id": 370802217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.841461,39.171229,-85.841461,39.171229",
     "geom:latitude":39.171229,
     "geom:longitude":-85.841461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 S US Hwy 31",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370802217,
-    "wof:lastmodified":1449031843,
+    "wof:lastmodified":1466503585,
     "wof:name":"Columbus Vault Co",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vault"
     ]
 },
-  "bbox": [-85.841461,39.171229,-85.841461,39.171229],
+  "bbox": [
+    -85.841461,
+    39.171229,
+    -85.841461,
+    39.171229
+],
   "geometry": {"coordinates":[-85.841461,39.171229],"type":"Point"}
 }

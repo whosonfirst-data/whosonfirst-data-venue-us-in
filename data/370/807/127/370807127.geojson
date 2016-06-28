@@ -2,13 +2,14 @@
   "id": 370807127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.050799,39.480659,-86.050799,39.480659",
     "geom:latitude":39.480659,
     "geom:longitude":-86.050799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Jefferson St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370807127,
-    "wof:lastmodified":1449029967,
+    "wof:lastmodified":1466503591,
     "wof:name":"Fred Paris Group At Coldwell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.050799,39.480659,-86.050799,39.480659],
+  "bbox": [
+    -86.050799,
+    39.480659,
+    -86.050799,
+    39.480659
+],
   "geometry": {"coordinates":[-86.050799,39.480659],"type":"Point"}
 }

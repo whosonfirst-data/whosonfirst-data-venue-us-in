@@ -2,13 +2,14 @@
   "id": 336920767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.538798,38.604991,-87.538798,38.604991",
     "geom:latitude":38.604991,
     "geom:longitude":-87.538798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Court House Sq",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336920767,
-    "wof:lastmodified":1448997789,
+    "wof:lastmodified":1466503297,
     "wof:name":"Dubois County Voter Rgstrtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.538798,38.604991,-87.538798,38.604991],
+  "bbox": [
+    -87.538798,
+    38.604991,
+    -87.538798,
+    38.604991
+],
   "geometry": {"coordinates":[-87.538798,38.604991],"type":"Point"}
 }

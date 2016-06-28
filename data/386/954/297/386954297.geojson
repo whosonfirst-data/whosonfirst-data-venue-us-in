@@ -2,13 +2,14 @@
   "id": 386954297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233249,39.739006,-86.233249,39.739006",
     "geom:latitude":39.739006,
     "geom:longitude":-86.233249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1947 Stout Field West Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386954297,
-    "wof:lastmodified":1449028926,
+    "wof:lastmodified":1466502919,
     "wof:name":"Trinity Recycling",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-86.233249,39.739006,-86.233249,39.739006],
+  "bbox": [
+    -86.233249,
+    39.739006,
+    -86.233249,
+    39.739006
+],
   "geometry": {"coordinates":[-86.233249,39.739006],"type":"Point"}
 }

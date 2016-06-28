@@ -2,13 +2,14 @@
   "id": 336907317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.170621,39.780819,-86.170621,39.780819",
     "geom:latitude":39.780819,
     "geom:longitude":-86.170621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336907317,
-    "wof:lastmodified":1448997933,
+    "wof:lastmodified":1466503280,
     "wof:name":"P & K Exterior Design & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.170621,39.780819,-86.170621,39.780819],
+  "bbox": [
+    -86.170621,
+    39.780819,
+    -86.170621,
+    39.780819
+],
   "geometry": {"coordinates":[-86.170621,39.780819],"type":"Point"}
 }

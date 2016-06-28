@@ -2,13 +2,14 @@
   "id": 387452693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.042149,41.131087,-85.042149,41.131087",
     "geom:latitude":41.131087,
     "geom:longitude":-85.042149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Hartford Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387452693,
-    "wof:lastmodified":1449056999,
+    "wof:lastmodified":1466503515,
     "wof:name":"Gale L Fansier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-85.042149,41.131087,-85.042149,41.131087],
-  "geometry": {"coordinates":[-85.042149,41.131087],"type":"Point"}
+  "bbox": [
+    -85.042149,
+    41.131087,
+    -85.042149,
+    41.131087
+],
+  "geometry": {"coordinates":[-85.04214899999999,41.131087],"type":"Point"}
 }

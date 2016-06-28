@@ -2,13 +2,14 @@
   "id": 336963997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.109412,39.91835,-86.109412,39.91835",
     "geom:latitude":39.91835,
     "geom:longitude":-86.109412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336963997,
-    "wof:lastmodified":1448997039,
+    "wof:lastmodified":1466503357,
     "wof:name":"Space Solution Strategies LLC",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.109412,39.91835,-86.109412,39.91835],
-  "geometry": {"coordinates":[-86.109412,39.91835],"type":"Point"}
+  "bbox": [
+    -86.109412,
+    39.91835,
+    -86.109412,
+    39.91835
+],
+  "geometry": {"coordinates":[-86.10941200000001,39.91835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354414625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.813981,38.998371,-85.813981,38.998371",
     "geom:latitude":38.998371,
     "geom:longitude":-85.813981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12121 E Co Rd 800 N",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354414625,
-    "wof:lastmodified":1449066718,
+    "wof:lastmodified":1466503472,
     "wof:name":"Cara M Hess",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetologist"
     ]
 },
-  "bbox": [-85.813981,38.998371,-85.813981,38.998371],
+  "bbox": [
+    -85.813981,
+    38.998371,
+    -85.813981,
+    38.998371
+],
   "geometry": {"coordinates":[-85.813981,38.998371],"type":"Point"}
 }

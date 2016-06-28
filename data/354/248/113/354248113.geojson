@@ -2,13 +2,14 @@
   "id": 354248113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.871089,41.161741,-84.871089,41.161741",
     "geom:latitude":41.161741,
     "geom:longitude":-84.871089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21412 Ehle Rd",
     "sg:city":"Woodburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354248113,
-    "wof:lastmodified":1449066875,
+    "wof:lastmodified":1466503207,
     "wof:name":"Gingerich Concrete Inc",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.871089,41.161741,-84.871089,41.161741],
+  "bbox": [
+    -84.871089,
+    41.161741,
+    -84.871089,
+    41.161741
+],
   "geometry": {"coordinates":[-84.871089,41.161741],"type":"Point"}
 }

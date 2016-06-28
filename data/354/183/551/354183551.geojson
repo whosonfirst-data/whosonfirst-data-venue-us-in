@@ -2,13 +2,14 @@
   "id": 354183551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525112,38.675394,-87.525112,38.675394",
     "geom:latitude":38.675394,
     "geom:longitude":-87.525112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Broadway St",
     "sg:city":"Vincennes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354183551,
-    "wof:lastmodified":1449066852,
+    "wof:lastmodified":1466503113,
     "wof:name":"Little Shepherd Day Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525112,38.675394,-87.525112,38.675394],
-  "geometry": {"coordinates":[-87.525112,38.675394],"type":"Point"}
+  "bbox": [
+    -87.525112,
+    38.675394,
+    -87.525112,
+    38.675394
+],
+  "geometry": {"coordinates":[-87.52511199999999,38.675394],"type":"Point"}
 }

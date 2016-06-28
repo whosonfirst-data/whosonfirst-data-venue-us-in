@@ -2,13 +2,14 @@
   "id": 303229799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.36023,41.51621,-87.36023,41.51621",
     "geom:latitude":41.51621,
     "geom:longitude":-87.36023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5695 Cleveland St",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303229799,
-    "wof:lastmodified":1449000073,
+    "wof:lastmodified":1466503488,
     "wof:name":"Lucky Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.36023,41.51621,-87.36023,41.51621],
+  "bbox": [
+    -87.36023,
+    41.51621,
+    -87.36023,
+    41.51621
+],
   "geometry": {"coordinates":[-87.36023,41.51621],"type":"Point"}
 }

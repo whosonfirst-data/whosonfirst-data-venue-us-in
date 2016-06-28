@@ -2,13 +2,14 @@
   "id": 303847289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120707,39.712285,-86.120707,39.712285",
     "geom:latitude":39.712285,
     "geom:longitude":-86.120707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 S Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303847289,
-    "wof:lastmodified":1448999010,
+    "wof:lastmodified":1466503164,
     "wof:name":"Global Arts & Entertainment",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-86.120707,39.712285,-86.120707,39.712285],
+  "bbox": [
+    -86.120707,
+    39.712285,
+    -86.120707,
+    39.712285
+],
   "geometry": {"coordinates":[-86.120707,39.712285],"type":"Point"}
 }

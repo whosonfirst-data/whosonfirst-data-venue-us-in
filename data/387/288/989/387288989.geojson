@@ -2,13 +2,14 @@
   "id": 387288989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.529259,37.984347,-87.529259,37.984347",
     "geom:latitude":37.984347,
     "geom:longitude":-87.529259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 N Weinbach Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387288989,
-    "wof:lastmodified":1449056510,
+    "wof:lastmodified":1466503292,
     "wof:name":"JMK Mini Mart",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.529259,37.984347,-87.529259,37.984347],
+  "bbox": [
+    -87.529259,
+    37.984347,
+    -87.529259,
+    37.984347
+],
   "geometry": {"coordinates":[-87.529259,37.984347],"type":"Point"}
 }

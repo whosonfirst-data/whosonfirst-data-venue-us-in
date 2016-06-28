@@ -2,13 +2,14 @@
   "id": 370379849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.060276,38.751429,-85.060276,38.751429",
     "geom:latitude":38.751429,
     "geom:longitude":-85.060276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Main St",
     "sg:city":"Vevay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370379849,
-    "wof:lastmodified":1449031041,
+    "wof:lastmodified":1466503159,
     "wof:name":"Purdue Cooperative Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.060276,38.751429,-85.060276,38.751429],
+  "bbox": [
+    -85.060276,
+    38.751429,
+    -85.060276,
+    38.751429
+],
   "geometry": {"coordinates":[-85.060276,38.751429],"type":"Point"}
 }

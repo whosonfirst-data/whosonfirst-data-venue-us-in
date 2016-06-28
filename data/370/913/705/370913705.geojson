@@ -2,13 +2,14 @@
   "id": 370913705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868428,40.400692,-86.868428,40.400692",
     "geom:latitude":40.400692,
     "geom:longitude":-86.868428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2489 State St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370913705,
-    "wof:lastmodified":1449030394,
+    "wof:lastmodified":1466503721,
     "wof:name":"Beth Mullen Agency",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.868428,40.400692,-86.868428,40.400692],
-  "geometry": {"coordinates":[-86.868428,40.400692],"type":"Point"}
+  "bbox": [
+    -86.868428,
+    40.400692,
+    -86.868428,
+    40.400692
+],
+  "geometry": {"coordinates":[-86.86842799999999,40.400692],"type":"Point"}
 }

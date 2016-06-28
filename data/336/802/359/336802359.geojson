@@ -2,13 +2,14 @@
   "id": 336802359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.378166,39.517995,-87.378166,39.517995",
     "geom:latitude":39.517995,
     "geom:longitude":-87.378166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Lafayette Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336802359,
-    "wof:lastmodified":1448997829,
+    "wof:lastmodified":1466503151,
     "wof:name":"Station Break 10 Min Oil Lube",
     "wof:parent_id":85814437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-87.378166,39.517995,-87.378166,39.517995],
-  "geometry": {"coordinates":[-87.378166,39.517995],"type":"Point"}
+  "bbox": [
+    -87.378166,
+    39.517995,
+    -87.378166,
+    39.517995
+],
+  "geometry": {"coordinates":[-87.37816599999999,39.517995],"type":"Point"}
 }

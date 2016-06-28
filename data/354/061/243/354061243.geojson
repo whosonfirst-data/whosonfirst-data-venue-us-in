@@ -2,13 +2,14 @@
   "id": 354061243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930725,38.393622,-86.930725,38.393622",
     "geom:latitude":38.393622,
     "geom:longitude":-86.930725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Main St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354061243,
-    "wof:lastmodified":1449067190,
+    "wof:lastmodified":1466502952,
     "wof:name":"Hoosier Business Machines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "copying"
     ]
 },
-  "bbox": [-86.930725,38.393622,-86.930725,38.393622],
+  "bbox": [
+    -86.930725,
+    38.393622,
+    -86.930725,
+    38.393622
+],
   "geometry": {"coordinates":[-86.930725,38.393622],"type":"Point"}
 }

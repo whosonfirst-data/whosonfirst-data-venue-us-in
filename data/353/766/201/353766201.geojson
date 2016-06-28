@@ -2,13 +2,14 @@
   "id": 353766201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.492527,39.297588,-86.492527,39.297588",
     "geom:latitude":39.297588,
     "geom:longitude":-86.492527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8597 N Old State Road 37",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353766201,
-    "wof:lastmodified":1449018220,
+    "wof:lastmodified":1466503264,
     "wof:name":"Gorman Tom Construction LLC",
     "wof:parent_id":85809723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.492527,39.297588,-86.492527,39.297588],
+  "bbox": [
+    -86.492527,
+    39.297588,
+    -86.492527,
+    39.297588
+],
   "geometry": {"coordinates":[-86.492527,39.297588],"type":"Point"}
 }

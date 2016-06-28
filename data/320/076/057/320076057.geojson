@@ -2,13 +2,14 @@
   "id": 320076057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580004,39.864267,-86.580004,39.864267",
     "geom:latitude":39.864267,
     "geom:longitude":-86.580004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6821 N Co Rd 300 W",
     "sg:city":"Lizton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320076057,
-    "wof:lastmodified":1449014161,
+    "wof:lastmodified":1466503690,
     "wof:name":"Robert Dillow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.580004,39.864267,-86.580004,39.864267],
+  "bbox": [
+    -86.580004,
+    39.864267,
+    -86.580004,
+    39.864267
+],
   "geometry": {"coordinates":[-86.580004,39.864267],"type":"Point"}
 }

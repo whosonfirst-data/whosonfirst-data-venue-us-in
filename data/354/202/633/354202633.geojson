@@ -2,13 +2,14 @@
   "id": 354202633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.115692,41.130917,-85.115692,41.130917",
     "geom:latitude":41.130917,
     "geom:longitude":-85.115692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5732 Millbridge Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354202633,
-    "wof:lastmodified":1449067444,
+    "wof:lastmodified":1466503141,
     "wof:name":"Priority Inspections Inc",
     "wof:parent_id":85812925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-85.115692,41.130917,-85.115692,41.130917],
+  "bbox": [
+    -85.115692,
+    41.130917,
+    -85.115692,
+    41.130917
+],
   "geometry": {"coordinates":[-85.115692,41.130917],"type":"Point"}
 }

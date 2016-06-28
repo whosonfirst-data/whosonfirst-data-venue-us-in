@@ -2,13 +2,14 @@
   "id": 404191781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282466,39.773805,-86.282466,39.773805",
     "geom:latitude":39.773805,
     "geom:longitude":-86.282466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Castle Manor Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":404191781,
-    "wof:lastmodified":1449039831,
+    "wof:lastmodified":1466503142,
     "wof:name":"3si Security Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-86.282466,39.773805,-86.282466,39.773805],
+  "bbox": [
+    -86.282466,
+    39.773805,
+    -86.282466,
+    39.773805
+],
   "geometry": {"coordinates":[-86.282466,39.773805],"type":"Point"}
 }

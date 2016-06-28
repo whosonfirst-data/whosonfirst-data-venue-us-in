@@ -2,13 +2,14 @@
   "id": 387907503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.295097,41.551133,-87.295097,41.551133",
     "geom:latitude":41.551133,
     "geom:longitude":-87.295097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 W 37th Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387907503,
-    "wof:lastmodified":1449059631,
+    "wof:lastmodified":1466504141,
     "wof:name":"Diner's Choice Restaurant",
     "wof:parent_id":85831063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.295097,41.551133,-87.295097,41.551133],
+  "bbox": [
+    -87.295097,
+    41.551133,
+    -87.295097,
+    41.551133
+],
   "geometry": {"coordinates":[-87.295097,41.551133],"type":"Point"}
 }

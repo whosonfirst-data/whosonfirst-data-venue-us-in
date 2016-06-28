@@ -2,13 +2,14 @@
   "id": 353782027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.129921,39.12542,-85.129921,39.12542",
     "geom:latitude":39.12542,
     "geom:longitude":-85.129921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Warpath Dr",
     "sg:city":"Milan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353782027,
-    "wof:lastmodified":1449018243,
+    "wof:lastmodified":1466503287,
     "wof:name":"Merrilee's Trustworthy Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.129921,39.12542,-85.129921,39.12542],
+  "bbox": [
+    -85.129921,
+    39.12542,
+    -85.129921,
+    39.12542
+],
   "geometry": {"coordinates":[-85.129921,39.12542],"type":"Point"}
 }

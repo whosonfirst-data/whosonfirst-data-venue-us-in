@@ -2,13 +2,14 @@
   "id": 303257485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974046,41.688421,-85.974046,41.688421",
     "geom:latitude":41.688421,
     "geom:longitude":-85.974046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303257485,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1466503530,
     "wof:name":"Tom Housand Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974046,41.688421,-85.974046,41.688421],
+  "bbox": [
+    -85.974046,
+    41.688421,
+    -85.974046,
+    41.688421
+],
   "geometry": {"coordinates":[-85.974046,41.688421],"type":"Point"}
 }

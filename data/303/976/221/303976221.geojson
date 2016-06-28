@@ -2,13 +2,14 @@
   "id": 303976221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.18458,39.788669,-86.18458,39.788669",
     "geom:latitude":39.788669,
     "geom:longitude":-86.18458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 W 16th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303976221,
-    "wof:lastmodified":1448999130,
+    "wof:lastmodified":1466503352,
     "wof:name":"Lynn's Auto Sales",
     "wof:parent_id":85870657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.18458,39.788669,-86.18458,39.788669],
+  "bbox": [
+    -86.18458,
+    39.788669,
+    -86.18458,
+    39.788669
+],
   "geometry": {"coordinates":[-86.18458,39.788669],"type":"Point"}
 }

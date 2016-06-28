@@ -2,13 +2,14 @@
   "id": 387643353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.404979,37.949628,-87.404979,37.949628",
     "geom:latitude":37.949628,
     "geom:longitude":-87.404979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 State St",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387643353,
-    "wof:lastmodified":1449059415,
+    "wof:lastmodified":1466503775,
     "wof:name":"Ryan's Excavating LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.404979,37.949628,-87.404979,37.949628],
+  "bbox": [
+    -87.404979,
+    37.949628,
+    -87.404979,
+    37.949628
+],
   "geometry": {"coordinates":[-87.404979,37.949628],"type":"Point"}
 }

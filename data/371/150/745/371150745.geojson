@@ -2,13 +2,14 @@
   "id": 371150745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.330016,41.471962,-87.330016,41.471962",
     "geom:latitude":41.471962,
     "geom:longitude":-87.330016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8018 Delaware Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371150745,
-    "wof:lastmodified":1449049091,
+    "wof:lastmodified":1466503063,
     "wof:name":"Residence Inn-Merrillville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.330016,41.471962,-87.330016,41.471962],
+  "bbox": [
+    -87.330016,
+    41.471962,
+    -87.330016,
+    41.471962
+],
   "geometry": {"coordinates":[-87.330016,41.471962],"type":"Point"}
 }

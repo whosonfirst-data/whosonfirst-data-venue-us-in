@@ -2,13 +2,14 @@
   "id": 387405651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.165207,41.14999,-85.165207,41.14999",
     "geom:latitude":41.14999,
     "geom:longitude":-85.165207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7610 Lima Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387405651,
-    "wof:lastmodified":1449059594,
+    "wof:lastmodified":1466503447,
     "wof:name":"Hoosier National Vehicle Sales",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.165207,41.14999,-85.165207,41.14999],
+  "bbox": [
+    -85.165207,
+    41.14999,
+    -85.165207,
+    41.14999
+],
   "geometry": {"coordinates":[-85.165207,41.14999],"type":"Point"}
 }

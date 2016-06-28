@@ -2,13 +2,14 @@
   "id": 387223383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.054546,41.367454,-85.054546,41.367454",
     "geom:latitude":41.367454,
     "geom:longitude":-85.054546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Cedar St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387223383,
-    "wof:lastmodified":1449056374,
+    "wof:lastmodified":1466503198,
     "wof:name":"Auburn Insurance Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.054546,41.367454,-85.054546,41.367454],
+  "bbox": [
+    -85.054546,
+    41.367454,
+    -85.054546,
+    41.367454
+],
   "geometry": {"coordinates":[-85.054546,41.367454],"type":"Point"}
 }

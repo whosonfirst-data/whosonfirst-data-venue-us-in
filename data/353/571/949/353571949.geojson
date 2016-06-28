@@ -2,13 +2,14 @@
   "id": 353571949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.623337,41.298247,-86.623337,41.298247",
     "geom:latitude":41.298247,
     "geom:longitude":-86.623337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 N Main St",
     "sg:city":"Knox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353571949,
-    "wof:lastmodified":1449019983,
+    "wof:lastmodified":1466503040,
     "wof:name":"Dad's Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [-86.623337,41.298247,-86.623337,41.298247],
-  "geometry": {"coordinates":[-86.623337,41.298247],"type":"Point"}
+  "bbox": [
+    -86.623337,
+    41.298247,
+    -86.623337,
+    41.298247
+],
+  "geometry": {"coordinates":[-86.62333700000001,41.298247],"type":"Point"}
 }

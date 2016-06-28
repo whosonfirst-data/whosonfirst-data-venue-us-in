@@ -2,13 +2,14 @@
   "id": 371053169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.220602,39.831547,-86.220602,39.831547",
     "geom:latitude":39.831547,
     "geom:longitude":-86.220602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Melbourne Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":371053169,
-    "wof:lastmodified":1449049233,
+    "wof:lastmodified":1466502933,
     "wof:name":"Cadi Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturing"
     ]
 },
-  "bbox": [-86.220602,39.831547,-86.220602,39.831547],
+  "bbox": [
+    -86.220602,
+    39.831547,
+    -86.220602,
+    39.831547
+],
   "geometry": {"coordinates":[-86.220602,39.831547],"type":"Point"}
 }

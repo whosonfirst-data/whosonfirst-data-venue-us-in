@@ -2,13 +2,14 @@
   "id": 353932129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.188209,41.655825,-86.188209,41.655825",
     "geom:latitude":41.655825,
     "geom:longitude":-86.188209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 S Wells St",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353932129,
-    "wof:lastmodified":1449019207,
+    "wof:lastmodified":1466503468,
     "wof:name":"Mark D Zeak Carpet Craftsmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-86.188209,41.655825,-86.188209,41.655825],
+  "bbox": [
+    -86.188209,
+    41.655825,
+    -86.188209,
+    41.655825
+],
   "geometry": {"coordinates":[-86.188209,41.655825],"type":"Point"}
 }

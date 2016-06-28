@@ -2,13 +2,14 @@
   "id": 336664041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.410065,39.463615,-87.410065,39.463615",
     "geom:latitude":39.463615,
     "geom:longitude":-87.410065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S 6th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336664041,
-    "wof:lastmodified":1448997337,
+    "wof:lastmodified":1466502966,
     "wof:name":"A P & S CLINIC LLC",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.410065,39.463615,-87.410065,39.463615],
+  "bbox": [
+    -87.410065,
+    39.463615,
+    -87.410065,
+    39.463615
+],
   "geometry": {"coordinates":[-87.410065,39.463615],"type":"Point"}
 }

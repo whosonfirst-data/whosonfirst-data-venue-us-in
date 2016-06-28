@@ -2,13 +2,14 @@
   "id": 320482911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.895548,40.418093,-86.895548,40.418093",
     "geom:latitude":40.418093,
     "geom:longitude":-86.895548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 N 2nd St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320482911,
-    "wof:lastmodified":1449012601,
+    "wof:lastmodified":1466503161,
     "wof:name":"T J Gall & Assoc",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-86.895548,40.418093,-86.895548,40.418093],
-  "geometry": {"coordinates":[-86.895548,40.418093],"type":"Point"}
+  "bbox": [
+    -86.895548,
+    40.418093,
+    -86.895548,
+    40.418093
+],
+  "geometry": {"coordinates":[-86.89554800000001,40.418093],"type":"Point"}
 }

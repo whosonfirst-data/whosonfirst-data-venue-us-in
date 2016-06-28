@@ -2,13 +2,14 @@
   "id": 320459857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.786003,40.094567,-86.786003,40.094567",
     "geom:latitude":40.094567,
     "geom:longitude":-86.786003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 N 625 E",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320459857,
-    "wof:lastmodified":1449012787,
+    "wof:lastmodified":1466503134,
     "wof:name":"Rocky Ridge Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-86.786003,40.094567,-86.786003,40.094567],
-  "geometry": {"coordinates":[-86.786003,40.094567],"type":"Point"}
+  "bbox": [
+    -86.786003,
+    40.094567,
+    -86.786003,
+    40.094567
+],
+  "geometry": {"coordinates":[-86.78600299999999,40.094567],"type":"Point"}
 }

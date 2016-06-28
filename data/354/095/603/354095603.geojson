@@ -2,13 +2,14 @@
   "id": 354095603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.208249,39.826646,-86.208249,39.826646",
     "geom:latitude":39.826646,
     "geom:longitude":-86.208249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2948 Sunnyfield Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354095603,
-    "wof:lastmodified":1449066789,
+    "wof:lastmodified":1466502991,
     "wof:name":"Progressive Environmental Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "ecological"
     ]
 },
-  "bbox": [-86.208249,39.826646,-86.208249,39.826646],
+  "bbox": [
+    -86.208249,
+    39.826646,
+    -86.208249,
+    39.826646
+],
   "geometry": {"coordinates":[-86.208249,39.826646],"type":"Point"}
 }

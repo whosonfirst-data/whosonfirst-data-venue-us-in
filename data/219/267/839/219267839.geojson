@@ -2,13 +2,14 @@
   "id": 219267839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.823651,40.198613,-84.823651,40.198613",
     "geom:latitude":40.198613,
     "geom:longitude":-84.823651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 W Oak St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219267839,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466502881,
     "wof:name":"Veteran Of Foreign War",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.823651,40.198613,-84.823651,40.198613],
+  "bbox": [
+    -84.823651,
+    40.198613,
+    -84.823651,
+    40.198613
+],
   "geometry": {"coordinates":[-84.823651,40.198613],"type":"Point"}
 }

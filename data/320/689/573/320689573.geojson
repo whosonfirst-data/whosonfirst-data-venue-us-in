@@ -2,13 +2,14 @@
   "id": 320689573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.141469,39.912464,-86.141469,39.912464",
     "geom:latitude":39.912464,
     "geom:longitude":-86.141469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320689573,
-    "wof:lastmodified":1449014346,
+    "wof:lastmodified":1466503402,
     "wof:name":"Carlisle Claim Svc Inc",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-86.141469,39.912464,-86.141469,39.912464],
+  "bbox": [
+    -86.141469,
+    39.912464,
+    -86.141469,
+    39.912464
+],
   "geometry": {"coordinates":[-86.141469,39.912464],"type":"Point"}
 }

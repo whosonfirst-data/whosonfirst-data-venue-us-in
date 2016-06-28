@@ -2,13 +2,14 @@
   "id": 354399913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.169202,41.022383,-85.169202,41.022383",
     "geom:latitude":41.022383,
     "geom:longitude":-85.169202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 Bluffton Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354399913,
-    "wof:lastmodified":1449066236,
+    "wof:lastmodified":1466503448,
     "wof:name":"Legacy Heating & Air Cond",
     "wof:parent_id":85829207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.169202,41.022383,-85.169202,41.022383],
+  "bbox": [
+    -85.169202,
+    41.022383,
+    -85.169202,
+    41.022383
+],
   "geometry": {"coordinates":[-85.169202,41.022383],"type":"Point"}
 }

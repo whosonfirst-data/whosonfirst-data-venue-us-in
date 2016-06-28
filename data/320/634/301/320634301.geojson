@@ -2,13 +2,14 @@
   "id": 320634301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.790775,41.597498,-85.790775,41.597498",
     "geom:latitude":41.597498,
     "geom:longitude":-85.790775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61801 Co Rd 127",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320634301,
-    "wof:lastmodified":1449013038,
+    "wof:lastmodified":1466503342,
     "wof:name":"Fiber By-Products",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shaving"
     ]
 },
-  "bbox": [-85.790775,41.597498,-85.790775,41.597498],
+  "bbox": [
+    -85.790775,
+    41.597498,
+    -85.790775,
+    41.597498
+],
   "geometry": {"coordinates":[-85.790775,41.597498],"type":"Point"}
 }

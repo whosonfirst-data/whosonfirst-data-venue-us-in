@@ -2,13 +2,14 @@
   "id": 303369313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336129,41.526103,-87.336129,41.526103",
     "geom:latitude":41.526103,
     "geom:longitude":-87.336129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303369313,
-    "wof:lastmodified":1449000439,
+    "wof:lastmodified":1466503644,
     "wof:name":"Kadar Wood Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-87.336129,41.526103,-87.336129,41.526103],
+  "bbox": [
+    -87.336129,
+    41.526103,
+    -87.336129,
+    41.526103
+],
   "geometry": {"coordinates":[-87.336129,41.526103],"type":"Point"}
 }

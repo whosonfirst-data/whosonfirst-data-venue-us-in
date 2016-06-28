@@ -2,13 +2,14 @@
   "id": 387406909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.418078,41.644309,-85.418078,41.644309",
     "geom:latitude":41.644309,
     "geom:longitude":-85.418078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Detroit St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387406909,
-    "wof:lastmodified":1449058150,
+    "wof:lastmodified":1466503450,
     "wof:name":"C I Senor",
     "wof:parent_id":85838421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.418078,41.644309,-85.418078,41.644309],
-  "geometry": {"coordinates":[-85.418078,41.644309],"type":"Point"}
+  "bbox": [
+    -85.418078,
+    41.644309,
+    -85.418078,
+    41.644309
+],
+  "geometry": {"coordinates":[-85.41807799999999,41.644309],"type":"Point"}
 }

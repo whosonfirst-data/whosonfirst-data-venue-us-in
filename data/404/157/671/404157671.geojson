@@ -2,13 +2,14 @@
   "id": 404157671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.978365,41.259555,-85.978365,41.259555",
     "geom:latitude":41.259555,
     "geom:longitude":-85.978365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Wray St",
     "sg:city":"Etna Green",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404157671,
-    "wof:lastmodified":1449040151,
+    "wof:lastmodified":1466503098,
     "wof:name":"Country Sisters",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-85.978365,41.259555,-85.978365,41.259555],
+  "bbox": [
+    -85.978365,
+    41.259555,
+    -85.978365,
+    41.259555
+],
   "geometry": {"coordinates":[-85.978365,41.259555],"type":"Point"}
 }

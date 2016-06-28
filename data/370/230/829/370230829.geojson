@@ -2,13 +2,14 @@
   "id": 370230829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.413596,39.439049,-87.413596,39.439049",
     "geom:latitude":39.439049,
     "geom:longitude":-87.413596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 S 3rd St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370230829,
-    "wof:lastmodified":1449031608,
+    "wof:lastmodified":1466502988,
     "wof:name":"Priscilla's",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-87.413596,39.439049,-87.413596,39.439049],
+  "bbox": [
+    -87.413596,
+    39.439049,
+    -87.413596,
+    39.439049
+],
   "geometry": {"coordinates":[-87.413596,39.439049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370403429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.394222,39.762923,-86.394222,39.762923",
     "geom:latitude":39.762923,
     "geom:longitude":-86.394222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7990 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370403429,
-    "wof:lastmodified":1449031997,
+    "wof:lastmodified":1466503176,
     "wof:name":"A Plus Teaching Supplies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.394222,39.762923,-86.394222,39.762923],
+  "bbox": [
+    -86.394222,
+    39.762923,
+    -86.394222,
+    39.762923
+],
   "geometry": {"coordinates":[-86.394222,39.762923],"type":"Point"}
 }

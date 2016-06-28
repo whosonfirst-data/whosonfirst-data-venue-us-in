@@ -2,13 +2,14 @@
   "id": 336607891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.135695,39.814165,-86.135695,39.814165",
     "geom:latitude":39.814165,
     "geom:longitude":-86.135695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3266 Dr Andrew J Brown Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336607891,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1466502891,
     "wof:name":"Awnings By Style-Rite Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-86.135695,39.814165,-86.135695,39.814165],
+  "bbox": [
+    -86.135695,
+    39.814165,
+    -86.135695,
+    39.814165
+],
   "geometry": {"coordinates":[-86.135695,39.814165],"type":"Point"}
 }

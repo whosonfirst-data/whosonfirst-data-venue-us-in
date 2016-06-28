@@ -2,13 +2,14 @@
   "id": 370493479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.770287,39.793746,-85.770287,39.793746",
     "geom:latitude":39.793746,
     "geom:longitude":-85.770287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 W Boyd Ave",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370493479,
-    "wof:lastmodified":1449030172,
+    "wof:lastmodified":1466503267,
     "wof:name":"Greenfield First Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.770287,39.793746,-85.770287,39.793746],
+  "bbox": [
+    -85.770287,
+    39.793746,
+    -85.770287,
+    39.793746
+],
   "geometry": {"coordinates":[-85.770287,39.793746],"type":"Point"}
 }

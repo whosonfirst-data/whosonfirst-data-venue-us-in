@@ -2,13 +2,14 @@
   "id": 386971359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.747476,40.228196,-85.747476,40.228196",
     "geom:latitude":40.228196,
     "geom:longitude":-85.747476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8585 N 400 W",
     "sg:city":"Frankton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386971359,
-    "wof:lastmodified":1449028787,
+    "wof:lastmodified":1466502942,
     "wof:name":"Alter Bound Alterations",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-85.747476,40.228196,-85.747476,40.228196],
-  "geometry": {"coordinates":[-85.747476,40.228196],"type":"Point"}
+  "bbox": [
+    -85.747476,
+    40.228196,
+    -85.747476,
+    40.228196
+],
+  "geometry": {"coordinates":[-85.74747600000001,40.228196],"type":"Point"}
 }

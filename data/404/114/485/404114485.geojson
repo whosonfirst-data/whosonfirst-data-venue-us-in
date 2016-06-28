@@ -2,13 +2,14 @@
   "id": 404114485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.294318,39.679135,-86.294318,39.679135",
     "geom:latitude":39.679135,
     "geom:longitude":-86.294318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5715 Decatur Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404114485,
-    "wof:lastmodified":1449039538,
+    "wof:lastmodified":1466503044,
     "wof:name":"Ameriplex/Holladay Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.294318,39.679135,-86.294318,39.679135],
+  "bbox": [
+    -86.294318,
+    39.679135,
+    -86.294318,
+    39.679135
+],
   "geometry": {"coordinates":[-86.294318,39.679135],"type":"Point"}
 }

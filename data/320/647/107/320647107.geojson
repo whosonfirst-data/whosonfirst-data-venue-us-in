@@ -2,13 +2,14 @@
   "id": 320647107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.143071,41.192329,-85.143071,41.192329",
     "geom:latitude":41.192329,
     "geom:longitude":-85.143071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11529 Pennet Run",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320647107,
-    "wof:lastmodified":1449013024,
+    "wof:lastmodified":1466503352,
     "wof:name":"PNP Networks Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-85.143071,41.192329,-85.143071,41.192329],
-  "geometry": {"coordinates":[-85.143071,41.192329],"type":"Point"}
+  "bbox": [
+    -85.143071,
+    41.192329,
+    -85.143071,
+    41.192329
+],
+  "geometry": {"coordinates":[-85.14307100000001,41.192329],"type":"Point"}
 }

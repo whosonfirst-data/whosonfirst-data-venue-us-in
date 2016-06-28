@@ -2,13 +2,14 @@
   "id": 370923051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.330848,41.335512,-86.330848,41.335512",
     "geom:latitude":41.335512,
     "geom:longitude":-86.330848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Lake Ave",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370923051,
-    "wof:lastmodified":1449032356,
+    "wof:lastmodified":1466503731,
     "wof:name":"Michiana Hematology Oncology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.330848,41.335512,-86.330848,41.335512],
+  "bbox": [
+    -86.330848,
+    41.335512,
+    -86.330848,
+    41.335512
+],
   "geometry": {"coordinates":[-86.330848,41.335512],"type":"Point"}
 }

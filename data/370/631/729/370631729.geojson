@@ -2,13 +2,14 @@
   "id": 370631729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.018885,39.61231,-86.018885,39.61231",
     "geom:latitude":39.61231,
     "geom:longitude":-86.018885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Franklin Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370631729,
-    "wof:lastmodified":1449030144,
+    "wof:lastmodified":1466503428,
     "wof:name":"Warweg & Co",
     "wof:parent_id":85841387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-86.018885,39.61231,-86.018885,39.61231],
+  "bbox": [
+    -86.018885,
+    39.61231,
+    -86.018885,
+    39.61231
+],
   "geometry": {"coordinates":[-86.018885,39.61231],"type":"Point"}
 }

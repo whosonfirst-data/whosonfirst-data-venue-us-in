@@ -2,13 +2,14 @@
   "id": 354204653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.647866,40.107658,-85.647866,40.107658",
     "geom:latitude":40.107658,
     "geom:longitude":-85.647866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Lennox St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354204653,
-    "wof:lastmodified":1449067694,
+    "wof:lastmodified":1466503145,
     "wof:name":"Infolab Inc",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.647866,40.107658,-85.647866,40.107658],
-  "geometry": {"coordinates":[-85.647866,40.107658],"type":"Point"}
+  "bbox": [
+    -85.647866,
+    40.107658,
+    -85.647866,
+    40.107658
+],
+  "geometry": {"coordinates":[-85.64786599999999,40.107658],"type":"Point"}
 }

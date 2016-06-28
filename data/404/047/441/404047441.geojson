@@ -2,13 +2,14 @@
   "id": 404047441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.826644,40.798381,-85.826644,40.798381",
     "geom:latitude":40.798381,
     "geom:longitude":-85.826644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 W Hill St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404047441,
-    "wof:lastmodified":1449039902,
+    "wof:lastmodified":1466502944,
     "wof:name":"Argus Development Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "observatory"
     ]
 },
-  "bbox": [-85.826644,40.798381,-85.826644,40.798381],
+  "bbox": [
+    -85.826644,
+    40.798381,
+    -85.826644,
+    40.798381
+],
   "geometry": {"coordinates":[-85.826644,40.798381],"type":"Point"}
 }

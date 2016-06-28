@@ -2,13 +2,14 @@
   "id": 354191417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.848299,39.711324,-86.848299,39.711324",
     "geom:latitude":39.711324,
     "geom:longitude":-86.848299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 E Co Rd 350 N",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354191417,
-    "wof:lastmodified":1449066967,
+    "wof:lastmodified":1466503122,
     "wof:name":"Scobee Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-86.848299,39.711324,-86.848299,39.711324],
+  "bbox": [
+    -86.848299,
+    39.711324,
+    -86.848299,
+    39.711324
+],
   "geometry": {"coordinates":[-86.848299,39.711324],"type":"Point"}
 }

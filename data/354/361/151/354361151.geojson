@@ -2,13 +2,14 @@
   "id": 354361151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.092669,41.108094,-85.092669,41.108094",
     "geom:latitude":41.108094,
     "geom:longitude":-85.092669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Inwood Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354361151,
-    "wof:lastmodified":1449067196,
+    "wof:lastmodified":1466503393,
     "wof:name":"Legora's Couture Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brassiere"
     ]
 },
-  "bbox": [-85.092669,41.108094,-85.092669,41.108094],
+  "bbox": [
+    -85.092669,
+    41.108094,
+    -85.092669,
+    41.108094
+],
   "geometry": {"coordinates":[-85.092669,41.108094],"type":"Point"}
 }

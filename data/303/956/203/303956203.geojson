@@ -2,13 +2,14 @@
   "id": 303956203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.981528,41.724419,-85.981528,41.724419",
     "geom:latitude":41.724419,
     "geom:longitude":-85.981528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Co Rd 6 W",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303956203,
-    "wof:lastmodified":1448998533,
+    "wof:lastmodified":1466503317,
     "wof:name":"Standard Federal Bank N A",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-85.981528,41.724419,-85.981528,41.724419],
+  "bbox": [
+    -85.981528,
+    41.724419,
+    -85.981528,
+    41.724419
+],
   "geometry": {"coordinates":[-85.981528,41.724419],"type":"Point"}
 }

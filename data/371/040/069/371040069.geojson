@@ -2,13 +2,14 @@
   "id": 371040069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.610459,39.887791,-85.610459,39.887791",
     "geom:latitude":39.887791,
     "geom:longitude":-85.610459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Station St",
     "sg:city":"Wilkinson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371040069,
-    "wof:lastmodified":1449050104,
+    "wof:lastmodified":1466502918,
     "wof:name":"Wilkinson Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.610459,39.887791,-85.610459,39.887791],
-  "geometry": {"coordinates":[-85.610459,39.887791],"type":"Point"}
+  "bbox": [
+    -85.610459,
+    39.887791,
+    -85.610459,
+    39.887791
+],
+  "geometry": {"coordinates":[-85.61045900000001,39.887791],"type":"Point"}
 }

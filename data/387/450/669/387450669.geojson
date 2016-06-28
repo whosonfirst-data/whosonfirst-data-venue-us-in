@@ -2,13 +2,14 @@
   "id": 387450669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.947582,39.935024,-85.947582,39.935024",
     "geom:latitude":39.935024,
     "geom:longitude":-85.947582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10130 Brooks School Rd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387450669,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1466503512,
     "wof:name":"Legend Homes Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.947582,39.935024,-85.947582,39.935024],
+  "bbox": [
+    -85.947582,
+    39.935024,
+    -85.947582,
+    39.935024
+],
   "geometry": {"coordinates":[-85.947582,39.935024],"type":"Point"}
 }

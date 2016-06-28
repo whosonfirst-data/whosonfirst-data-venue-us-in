@@ -2,13 +2,14 @@
   "id": 404078909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.504137,39.171473,-86.504137,39.171473",
     "geom:latitude":39.171473,
     "geom:longitude":-86.504137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2642 E 10th St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404078909,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1466502990,
     "wof:name":"Academy Of T'Ien Fa Kung Fu",
     "wof:parent_id":85816979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-86.504137,39.171473,-86.504137,39.171473],
+  "bbox": [
+    -86.504137,
+    39.171473,
+    -86.504137,
+    39.171473
+],
   "geometry": {"coordinates":[-86.504137,39.171473],"type":"Point"}
 }

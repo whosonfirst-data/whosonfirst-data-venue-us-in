@@ -2,13 +2,14 @@
   "id": 387287813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16173,39.780963,-86.16173,39.780963",
     "geom:latitude":39.780963,
     "geom:longitude":-86.16173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387287813,
-    "wof:lastmodified":1449056341,
+    "wof:lastmodified":1466503290,
     "wof:name":"Turning Point Assoc",
     "wof:parent_id":85870649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-86.16173,39.780963,-86.16173,39.780963],
-  "geometry": {"coordinates":[-86.16173,39.780963],"type":"Point"}
+  "bbox": [
+    -86.16173,
+    39.780963,
+    -86.16173,
+    39.780963
+],
+  "geometry": {"coordinates":[-86.16173000000001,39.780963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336632925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.110731,41.02727,-87.110731,41.02727",
     "geom:latitude":41.02727,
     "geom:longitude":-87.110731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3646 State Rd 14",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336632925,
-    "wof:lastmodified":1448997612,
+    "wof:lastmodified":1466502930,
     "wof:name":"Gumz Farms Reproduction Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "horse"
     ]
 },
-  "bbox": [-87.110731,41.02727,-87.110731,41.02727],
+  "bbox": [
+    -87.110731,
+    41.02727,
+    -87.110731,
+    41.02727
+],
   "geometry": {"coordinates":[-87.110731,41.02727],"type":"Point"}
 }

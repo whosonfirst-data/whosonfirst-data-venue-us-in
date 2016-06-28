@@ -2,13 +2,14 @@
   "id": 303873749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.132525,41.05255,-85.132525,41.05255",
     "geom:latitude":41.05255,
     "geom:longitude":-85.132525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 Lafayette St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303873749,
-    "wof:lastmodified":1448998625,
+    "wof:lastmodified":1466503198,
     "wof:name":"Lafayette Bait & Tackle",
     "wof:parent_id":85877553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-85.132525,41.05255,-85.132525,41.05255],
+  "bbox": [
+    -85.132525,
+    41.05255,
+    -85.132525,
+    41.05255
+],
   "geometry": {"coordinates":[-85.132525,41.05255],"type":"Point"}
 }

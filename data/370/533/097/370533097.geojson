@@ -2,13 +2,14 @@
   "id": 370533097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.471798,39.336612,-85.471798,39.336612",
     "geom:latitude":39.336612,
     "geom:longitude":-85.471798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 E Main St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370533097,
-    "wof:lastmodified":1449029025,
+    "wof:lastmodified":1466503313,
     "wof:name":"Stone's Farm Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-85.471798,39.336612,-85.471798,39.336612],
-  "geometry": {"coordinates":[-85.471798,39.336612],"type":"Point"}
+  "bbox": [
+    -85.471798,
+    39.336612,
+    -85.471798,
+    39.336612
+],
+  "geometry": {"coordinates":[-85.47179800000001,39.336612],"type":"Point"}
 }

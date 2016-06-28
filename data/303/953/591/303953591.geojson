@@ -2,13 +2,14 @@
   "id": 303953591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.664825,40.111157,-85.664825,40.111157",
     "geom:latitude":40.111157,
     "geom:longitude":-85.664825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E 5th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303953591,
-    "wof:lastmodified":1448999803,
+    "wof:lastmodified":1466503313,
     "wof:name":"Graduate Studies In Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.664825,40.111157,-85.664825,40.111157],
-  "geometry": {"coordinates":[-85.664825,40.111157],"type":"Point"}
+  "bbox": [
+    -85.664825,
+    40.111157,
+    -85.664825,
+    40.111157
+],
+  "geometry": {"coordinates":[-85.66482499999999,40.111157],"type":"Point"}
 }

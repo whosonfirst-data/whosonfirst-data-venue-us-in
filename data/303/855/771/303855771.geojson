@@ -2,13 +2,14 @@
   "id": 303855771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.406917,39.448254,-87.406917,39.448254",
     "geom:latitude":39.448254,
     "geom:longitude":-87.406917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S 7th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303855771,
-    "wof:lastmodified":1448999923,
+    "wof:lastmodified":1466503177,
     "wof:name":"Affordable Bridal & Tux",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-87.406917,39.448254,-87.406917,39.448254],
-  "geometry": {"coordinates":[-87.406917,39.448254],"type":"Point"}
+  "bbox": [
+    -87.406917,
+    39.448254,
+    -87.406917,
+    39.448254
+],
+  "geometry": {"coordinates":[-87.40691700000001,39.448254],"type":"Point"}
 }

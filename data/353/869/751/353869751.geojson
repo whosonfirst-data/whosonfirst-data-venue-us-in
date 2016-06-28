@@ -2,13 +2,14 @@
   "id": 353869751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.242973,41.574321,-87.242973,41.574321",
     "geom:latitude":41.574321,
     "geom:longitude":-87.242973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Central Ave",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353869751,
-    "wof:lastmodified":1449020601,
+    "wof:lastmodified":1466503392,
     "wof:name":"Bill Morton's Pro Shop",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-87.242973,41.574321,-87.242973,41.574321],
-  "geometry": {"coordinates":[-87.242973,41.574321],"type":"Point"}
+  "bbox": [
+    -87.242973,
+    41.574321,
+    -87.242973,
+    41.574321
+],
+  "geometry": {"coordinates":[-87.24297300000001,41.574321],"type":"Point"}
 }

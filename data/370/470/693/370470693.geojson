@@ -2,13 +2,14 @@
   "id": 370470693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.247512,39.911276,-86.247512,39.911276",
     "geom:latitude":39.911276,
     "geom:longitude":-86.247512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370470693,
-    "wof:lastmodified":1449029912,
+    "wof:lastmodified":1466503243,
     "wof:name":"Marathon Ashland Pipe Line Co",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-86.247512,39.911276,-86.247512,39.911276],
+  "bbox": [
+    -86.247512,
+    39.911276,
+    -86.247512,
+    39.911276
+],
   "geometry": {"coordinates":[-86.247512,39.911276],"type":"Point"}
 }

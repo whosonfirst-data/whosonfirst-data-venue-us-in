@@ -2,13 +2,14 @@
   "id": 403999525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.638985,40.513763,-86.638985,40.513763",
     "geom:latitude":40.513763,
     "geom:longitude":-86.638985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 US Hwy 421",
     "sg:city":"Delphi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403999525,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1466503311,
     "wof:name":"Town & Country Barber Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.638985,40.513763,-86.638985,40.513763],
-  "geometry": {"coordinates":[-86.638985,40.513763],"type":"Point"}
+  "bbox": [
+    -86.638985,
+    40.513763,
+    -86.638985,
+    40.513763
+],
+  "geometry": {"coordinates":[-86.63898500000001,40.513763],"type":"Point"}
 }

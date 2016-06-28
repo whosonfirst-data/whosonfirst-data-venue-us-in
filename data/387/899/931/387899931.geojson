@@ -2,13 +2,14 @@
   "id": 387899931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.15429,39.769658,-86.15429,39.769658",
     "geom:latitude":39.769658,
     "geom:longitude":-86.15429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 N Delaware St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387899931,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1466504126,
     "wof:name":"David Bikoff",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.15429,39.769658,-86.15429,39.769658],
+  "bbox": [
+    -86.15429,
+    39.769658,
+    -86.15429,
+    39.769658
+],
   "geometry": {"coordinates":[-86.15429,39.769658],"type":"Point"}
 }

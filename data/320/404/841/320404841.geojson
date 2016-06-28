@@ -2,13 +2,14 @@
   "id": 320404841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.975893,39.119007,-86.975893,39.119007",
     "geom:latitude":39.119007,
     "geom:longitude":-86.975893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Commercial St",
     "sg:city":"Worthington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320404841,
-    "wof:lastmodified":1449013750,
+    "wof:lastmodified":1466503059,
     "wof:name":"Log Cabin Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.975893,39.119007,-86.975893,39.119007],
+  "bbox": [
+    -86.975893,
+    39.119007,
+    -86.975893,
+    39.119007
+],
   "geometry": {"coordinates":[-86.975893,39.119007],"type":"Point"}
 }

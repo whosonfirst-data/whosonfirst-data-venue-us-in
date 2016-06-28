@@ -2,13 +2,14 @@
   "id": 353575717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336142,41.528666,-87.336142,41.528666",
     "geom:latitude":41.528666,
     "geom:longitude":-87.336142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4955 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353575717,
-    "wof:lastmodified":1449019007,
+    "wof:lastmodified":1466503046,
     "wof:name":"Willow Glen Academy Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.336142,41.528666,-87.336142,41.528666],
+  "bbox": [
+    -87.336142,
+    41.528666,
+    -87.336142,
+    41.528666
+],
   "geometry": {"coordinates":[-87.336142,41.528666],"type":"Point"}
 }

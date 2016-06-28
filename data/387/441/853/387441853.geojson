@@ -2,13 +2,14 @@
   "id": 387441853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.903786,40.011686,-86.903786,40.011686",
     "geom:latitude":40.011686,
     "geom:longitude":-86.903786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 US Hwy 231 S",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387441853,
-    "wof:lastmodified":1449056402,
+    "wof:lastmodified":1466503500,
     "wof:name":"Mom & Pop's Party Shop",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.903786,40.011686,-86.903786,40.011686],
+  "bbox": [
+    -86.903786,
+    40.011686,
+    -86.903786,
+    40.011686
+],
   "geometry": {"coordinates":[-86.903786,40.011686],"type":"Point"}
 }

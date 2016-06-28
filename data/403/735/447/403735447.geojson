@@ -2,13 +2,14 @@
   "id": 403735447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.164377,39.751657,-86.164377,39.751657",
     "geom:latitude":39.751657,
     "geom:longitude":-86.164377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 W Morris St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403735447,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1466502927,
     "wof:name":"Best Choice Hospice Care",
     "wof:parent_id":85866943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-86.164377,39.751657,-86.164377,39.751657],
+  "bbox": [
+    -86.164377,
+    39.751657,
+    -86.164377,
+    39.751657
+],
   "geometry": {"coordinates":[-86.164377,39.751657],"type":"Point"}
 }

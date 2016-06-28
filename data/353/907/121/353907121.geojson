@@ -2,13 +2,14 @@
   "id": 353907121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16493,40.519464,-86.16493,40.519464",
     "geom:latitude":40.519464,
     "geom:longitude":-86.16493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 N Dixon Rd",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353907121,
-    "wof:lastmodified":1449020610,
+    "wof:lastmodified":1466503435,
     "wof:name":"Howard County Home Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.16493,40.519464,-86.16493,40.519464],
+  "bbox": [
+    -86.16493,
+    40.519464,
+    -86.16493,
+    40.519464
+],
   "geometry": {"coordinates":[-86.16493,40.519464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354235651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.184335,40.269285,-86.184335,40.269285",
     "geom:latitude":40.269285,
     "geom:longitude":-86.184335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 S 900 W",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354235651,
-    "wof:lastmodified":1449066226,
+    "wof:lastmodified":1466503192,
     "wof:name":"Tri Ponds Golf Club & Short",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-86.184335,40.269285,-86.184335,40.269285],
+  "bbox": [
+    -86.184335,
+    40.269285,
+    -86.184335,
+    40.269285
+],
   "geometry": {"coordinates":[-86.184335,40.269285],"type":"Point"}
 }

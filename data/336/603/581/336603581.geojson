@@ -2,13 +2,14 @@
   "id": 336603581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.137279,41.17807,-85.137279,41.17807",
     "geom:latitude":41.17807,
     "geom:longitude":-85.137279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Dupont Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336603581,
-    "wof:lastmodified":1448997867,
+    "wof:lastmodified":1466502886,
     "wof:name":"Gai Consultants",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-85.137279,41.17807,-85.137279,41.17807],
-  "geometry": {"coordinates":[-85.137279,41.17807],"type":"Point"}
+  "bbox": [
+    -85.137279,
+    41.17807,
+    -85.137279,
+    41.17807
+],
+  "geometry": {"coordinates":[-85.13727900000001,41.17807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354354037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.456681,41.578107,-87.456681,41.578107",
     "geom:latitude":41.578107,
     "geom:longitude":-87.456681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7439 California Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354354037,
-    "wof:lastmodified":1449067482,
+    "wof:lastmodified":1466503381,
     "wof:name":"Christine M Drapac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.456681,41.578107,-87.456681,41.578107],
+  "bbox": [
+    -87.456681,
+    41.578107,
+    -87.456681,
+    41.578107
+],
   "geometry": {"coordinates":[-87.456681,41.578107],"type":"Point"}
 }

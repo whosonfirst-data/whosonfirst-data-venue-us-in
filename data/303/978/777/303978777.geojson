@@ -2,13 +2,14 @@
   "id": 303978777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.09166,38.36519,-87.09166,38.36519",
     "geom:latitude":38.36519,
     "geom:longitude":-87.09166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3980 S State Rd 257",
     "sg:city":"Velpen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303978777,
-    "wof:lastmodified":1448999532,
+    "wof:lastmodified":1466503357,
     "wof:name":"C & D Velpen Fill Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-87.09166,38.36519,-87.09166,38.36519],
+  "bbox": [
+    -87.09166,
+    38.36519,
+    -87.09166,
+    38.36519
+],
   "geometry": {"coordinates":[-87.09166,38.36519],"type":"Point"}
 }

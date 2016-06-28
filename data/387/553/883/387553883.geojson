@@ -2,13 +2,14 @@
   "id": 387553883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.89528,39.829393,-84.89528,39.829393",
     "geom:latitude":39.829393,
     "geom:longitude":-84.89528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 N 5th St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387553883,
-    "wof:lastmodified":1449056137,
+    "wof:lastmodified":1466503650,
     "wof:name":"Waynet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-84.89528,39.829393,-84.89528,39.829393],
+  "bbox": [
+    -84.89528,
+    39.829393,
+    -84.89528,
+    39.829393
+],
   "geometry": {"coordinates":[-84.89528,39.829393],"type":"Point"}
 }

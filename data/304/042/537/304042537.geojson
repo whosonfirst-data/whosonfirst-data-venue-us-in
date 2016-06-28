@@ -2,13 +2,14 @@
   "id": 304042537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.796778,38.334912,-85.796778,38.334912",
     "geom:latitude":38.334912,
     "geom:longitude":-85.796778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 Blackiston Mill Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304042537,
-    "wof:lastmodified":1449044018,
+    "wof:lastmodified":1466503459,
     "wof:name":"Heaven Help Us",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-85.796778,38.334912,-85.796778,38.334912],
+  "bbox": [
+    -85.796778,
+    38.334912,
+    -85.796778,
+    38.334912
+],
   "geometry": {"coordinates":[-85.796778,38.334912],"type":"Point"}
 }

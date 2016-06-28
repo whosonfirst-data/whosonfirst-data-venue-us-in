@@ -2,13 +2,14 @@
   "id": 370574171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.097134,38.608793,-86.097134,38.608793",
     "geom:latitude":38.608793,
     "geom:longitude":-86.097134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Hackberry St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370574171,
-    "wof:lastmodified":1449029046,
+    "wof:lastmodified":1466503363,
     "wof:name":"Bob Burton Heating & A/C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.097134,38.608793,-86.097134,38.608793],
+  "bbox": [
+    -86.097134,
+    38.608793,
+    -86.097134,
+    38.608793
+],
   "geometry": {"coordinates":[-86.097134,38.608793],"type":"Point"}
 }

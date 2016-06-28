@@ -2,13 +2,14 @@
   "id": 320186093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492463,37.993108,-87.492463,37.993108",
     "geom:latitude":37.993108,
     "geom:longitude":-87.492463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320186093,
-    "wof:lastmodified":1449014150,
+    "wof:lastmodified":1466503750,
     "wof:name":"Maly's Supplies & Equipment",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-87.492463,37.993108,-87.492463,37.993108],
+  "bbox": [
+    -87.492463,
+    37.993108,
+    -87.492463,
+    37.993108
+],
   "geometry": {"coordinates":[-87.492463,37.993108],"type":"Point"}
 }

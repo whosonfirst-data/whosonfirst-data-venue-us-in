@@ -2,13 +2,14 @@
   "id": 370662213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862188,40.417433,-86.862188,40.417433",
     "geom:latitude":40.417433,
     "geom:longitude":-86.862188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3023 South St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370662213,
-    "wof:lastmodified":1449031366,
+    "wof:lastmodified":1466503455,
     "wof:name":"Amused Clothing",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862188,40.417433,-86.862188,40.417433],
+  "bbox": [
+    -86.862188,
+    40.417433,
+    -86.862188,
+    40.417433
+],
   "geometry": {"coordinates":[-86.862188,40.417433],"type":"Point"}
 }

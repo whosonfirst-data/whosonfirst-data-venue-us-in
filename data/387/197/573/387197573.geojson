@@ -2,13 +2,14 @@
   "id": 387197573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.193091,40.579917,-86.193091,40.579917",
     "geom:latitude":40.579917,
     "geom:longitude":-86.193091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W North St",
     "sg:city":"Galveston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387197573,
-    "wof:lastmodified":1449059441,
+    "wof:lastmodified":1466503162,
     "wof:name":"Moss Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-86.193091,40.579917,-86.193091,40.579917],
+  "bbox": [
+    -86.193091,
+    40.579917,
+    -86.193091,
+    40.579917
+],
   "geometry": {"coordinates":[-86.193091,40.579917],"type":"Point"}
 }

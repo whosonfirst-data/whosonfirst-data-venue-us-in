@@ -2,13 +2,14 @@
   "id": 303583895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.960745,38.311168,-86.960745,38.311168",
     "geom:latitude":38.311168,
     "geom:longitude":-86.960745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 17th St",
     "sg:city":"Huntingburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303583895,
-    "wof:lastmodified":1449000052,
+    "wof:lastmodified":1466503769,
     "wof:name":"Angela Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-86.960745,38.311168,-86.960745,38.311168],
+  "bbox": [
+    -86.960745,
+    38.311168,
+    -86.960745,
+    38.311168
+],
   "geometry": {"coordinates":[-86.960745,38.311168],"type":"Point"}
 }

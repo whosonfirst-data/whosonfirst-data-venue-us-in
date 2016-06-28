@@ -2,13 +2,14 @@
   "id": 370765591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.061404,41.132947,-85.061404,41.132947",
     "geom:latitude":41.132947,
     "geom:longitude":-85.061404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6632 Pine Meadows Ln",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370765591,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1466503555,
     "wof:name":"Summit City D J's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "music"
     ]
 },
-  "bbox": [-85.061404,41.132947,-85.061404,41.132947],
+  "bbox": [
+    -85.061404,
+    41.132947,
+    -85.061404,
+    41.132947
+],
   "geometry": {"coordinates":[-85.061404,41.132947],"type":"Point"}
 }

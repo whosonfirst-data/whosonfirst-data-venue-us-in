@@ -2,13 +2,14 @@
   "id": 403965087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787809,40.301396,-86.787809,40.301396",
     "geom:latitude":40.301396,
     "geom:longitude":-86.787809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5911 E 800 S",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403965087,
-    "wof:lastmodified":1449055539,
+    "wof:lastmodified":1466503253,
     "wof:name":"KLIP N KURL Beauty Shop",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787809,40.301396,-86.787809,40.301396],
+  "bbox": [
+    -86.787809,
+    40.301396,
+    -86.787809,
+    40.301396
+],
   "geometry": {"coordinates":[-86.787809,40.301396],"type":"Point"}
 }

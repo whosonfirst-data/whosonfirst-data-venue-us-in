@@ -2,13 +2,14 @@
   "id": 387253753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.38162,40.19948,-85.38162,40.19948",
     "geom:latitude":40.19948,
     "geom:longitude":-85.38162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Madison St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387253753,
-    "wof:lastmodified":1449059448,
+    "wof:lastmodified":1466503243,
     "wof:name":"Hoosier Hearth",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fireplace"
     ]
 },
-  "bbox": [-85.38162,40.19948,-85.38162,40.19948],
+  "bbox": [
+    -85.38162,
+    40.19948,
+    -85.38162,
+    40.19948
+],
   "geometry": {"coordinates":[-85.38162,40.19948],"type":"Point"}
 }

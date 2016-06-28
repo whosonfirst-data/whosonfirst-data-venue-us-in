@@ -2,13 +2,14 @@
   "id": 387395581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461632,41.601312,-87.461632,41.601312",
     "geom:latitude":41.601312,
     "geom:longitude":-87.461632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6146 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387395581,
-    "wof:lastmodified":1449059366,
+    "wof:lastmodified":1466503432,
     "wof:name":"Mike's Shutko Auto Svc",
     "wof:parent_id":85821465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.461632,41.601312,-87.461632,41.601312],
-  "geometry": {"coordinates":[-87.461632,41.601312],"type":"Point"}
+  "bbox": [
+    -87.461632,
+    41.601312,
+    -87.461632,
+    41.601312
+],
+  "geometry": {"coordinates":[-87.46163199999999,41.601312],"type":"Point"}
 }

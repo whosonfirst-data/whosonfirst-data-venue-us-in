@@ -2,13 +2,14 @@
   "id": 387761649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309987,39.734654,-86.309987,39.734654",
     "geom:latitude":39.734654,
     "geom:longitude":-86.309987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8480 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387761649,
-    "wof:lastmodified":1449059006,
+    "wof:lastmodified":1466503926,
     "wof:name":"Digital Data & Reprographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-86.309987,39.734654,-86.309987,39.734654],
-  "geometry": {"coordinates":[-86.309987,39.734654],"type":"Point"}
+  "bbox": [
+    -86.309987,
+    39.734654,
+    -86.309987,
+    39.734654
+],
+  "geometry": {"coordinates":[-86.30998700000001,39.734654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370633463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.216241,39.833022,-86.216241,39.833022",
     "geom:latitude":39.833022,
     "geom:longitude":-86.216241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 Lincoln Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370633463,
-    "wof:lastmodified":1449032440,
+    "wof:lastmodified":1466503429,
     "wof:name":"Lenhart Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contract"
     ]
 },
-  "bbox": [-86.216241,39.833022,-86.216241,39.833022],
+  "bbox": [
+    -86.216241,
+    39.833022,
+    -86.216241,
+    39.833022
+],
   "geometry": {"coordinates":[-86.216241,39.833022],"type":"Point"}
 }

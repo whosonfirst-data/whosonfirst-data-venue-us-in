@@ -2,13 +2,14 @@
   "id": 387137339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.817003,39.034274,-85.817003,39.034274",
     "geom:latitude":39.034274,
     "geom:longitude":-85.817003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10185 N Co Rd 1200 E",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387137339,
-    "wof:lastmodified":1449059398,
+    "wof:lastmodified":1466503080,
     "wof:name":"Otte's Small Engine Repair Shp",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-85.817003,39.034274,-85.817003,39.034274],
+  "bbox": [
+    -85.817003,
+    39.034274,
+    -85.817003,
+    39.034274
+],
   "geometry": {"coordinates":[-85.817003,39.034274],"type":"Point"}
 }

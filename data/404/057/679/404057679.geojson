@@ -2,13 +2,14 @@
   "id": 404057679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.365048,39.940697,-85.365048,39.940697",
     "geom:latitude":39.940697,
     "geom:longitude":-85.365048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N 16th St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404057679,
-    "wof:lastmodified":1449039633,
+    "wof:lastmodified":1466502958,
     "wof:name":"Hickory Creek At New Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-85.365048,39.940697,-85.365048,39.940697],
+  "bbox": [
+    -85.365048,
+    39.940697,
+    -85.365048,
+    39.940697
+],
   "geometry": {"coordinates":[-85.365048,39.940697],"type":"Point"}
 }

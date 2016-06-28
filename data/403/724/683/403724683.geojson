@@ -2,13 +2,14 @@
   "id": 403724683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.443627,39.839276,-85.443627,39.839276",
     "geom:latitude":39.839276,
     "geom:longitude":-85.443627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6449 S Cemetery Dr",
     "sg:city":"Spiceland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403724683,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1466502913,
     "wof:name":"South Henry School Corp Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.443627,39.839276,-85.443627,39.839276],
-  "geometry": {"coordinates":[-85.443627,39.839276],"type":"Point"}
+  "bbox": [
+    -85.443627,
+    39.839276,
+    -85.443627,
+    39.839276
+],
+  "geometry": {"coordinates":[-85.44362700000001,39.839276],"type":"Point"}
 }

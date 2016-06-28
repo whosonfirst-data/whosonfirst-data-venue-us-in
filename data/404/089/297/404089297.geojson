@@ -2,13 +2,14 @@
   "id": 404089297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.140733,39.704587,-86.140733,39.704587",
     "geom:latitude":39.704587,
     "geom:longitude":-86.140733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404089297,
-    "wof:lastmodified":1449039303,
+    "wof:lastmodified":1466503010,
     "wof:name":"Dr Dish's Selective Satellite",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.140733,39.704587,-86.140733,39.704587],
+  "bbox": [
+    -86.140733,
+    39.704587,
+    -86.140733,
+    39.704587
+],
   "geometry": {"coordinates":[-86.140733,39.704587],"type":"Point"}
 }

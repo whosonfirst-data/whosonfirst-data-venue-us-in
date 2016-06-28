@@ -2,13 +2,14 @@
   "id": 387026763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893017,40.41899,-86.893017,40.41899",
     "geom:latitude":40.41899,
     "geom:longitude":-86.893017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 4th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387026763,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1466502914,
     "wof:name":"Tippecanoe County Alcohol/Drug",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.893017,40.41899,-86.893017,40.41899],
+  "bbox": [
+    -86.893017,
+    40.41899,
+    -86.893017,
+    40.41899
+],
   "geometry": {"coordinates":[-86.893017,40.41899],"type":"Point"}
 }

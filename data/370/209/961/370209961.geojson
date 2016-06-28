@@ -2,13 +2,14 @@
   "id": 370209961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108637,40.487868,-86.108637,40.487868",
     "geom:latitude":40.487868,
     "geom:longitude":-86.108637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Creekside Dr",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370209961,
-    "wof:lastmodified":1449032119,
+    "wof:lastmodified":1466502961,
     "wof:name":"Exotic Lingerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-86.108637,40.487868,-86.108637,40.487868],
+  "bbox": [
+    -86.108637,
+    40.487868,
+    -86.108637,
+    40.487868
+],
   "geometry": {"coordinates":[-86.108637,40.487868],"type":"Point"}
 }

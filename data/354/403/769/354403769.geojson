@@ -2,13 +2,14 @@
   "id": 354403769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.079824,39.707671,-86.079824,39.707671",
     "geom:latitude":39.707671,
     "geom:longitude":-86.079824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 Park Emerson Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354403769,
-    "wof:lastmodified":1449067423,
+    "wof:lastmodified":1466503456,
     "wof:name":"Tech Med Industries",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.079824,39.707671,-86.079824,39.707671],
+  "bbox": [
+    -86.079824,
+    39.707671,
+    -86.079824,
+    39.707671
+],
   "geometry": {"coordinates":[-86.079824,39.707671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403926227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.894258,41.69945,-86.894258,41.69945",
     "geom:latitude":41.69945,
     "geom:longitude":-86.894258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403926227,
-    "wof:lastmodified":1449055090,
+    "wof:lastmodified":1466503195,
     "wof:name":"K & J Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-86.894258,41.69945,-86.894258,41.69945],
-  "geometry": {"coordinates":[-86.894258,41.69945],"type":"Point"}
+  "bbox": [
+    -86.894258,
+    41.69945,
+    -86.894258,
+    41.69945
+],
+  "geometry": {"coordinates":[-86.89425799999999,41.69945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370970691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.110638,39.939138,-86.110638,39.939138",
     "geom:latitude":39.939138,
     "geom:longitude":-86.110638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10426 White Oak Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370970691,
-    "wof:lastmodified":1449032406,
+    "wof:lastmodified":1466503790,
     "wof:name":"NLP & Coaching Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-86.110638,39.939138,-86.110638,39.939138],
-  "geometry": {"coordinates":[-86.110638,39.939138],"type":"Point"}
+  "bbox": [
+    -86.110638,
+    39.939138,
+    -86.110638,
+    39.939138
+],
+  "geometry": {"coordinates":[-86.11063799999999,39.939138],"type":"Point"}
 }

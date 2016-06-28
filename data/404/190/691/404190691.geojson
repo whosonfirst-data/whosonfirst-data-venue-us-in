@@ -2,13 +2,14 @@
   "id": 404190691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.919082,38.401658,-86.919082,38.401658",
     "geom:latitude":38.401658,
     "geom:longitude":-86.919082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Royal St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404190691,
-    "wof:lastmodified":1449040263,
+    "wof:lastmodified":1466503141,
     "wof:name":"National Office Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.919082,38.401658,-86.919082,38.401658],
+  "bbox": [
+    -86.919082,
+    38.401658,
+    -86.919082,
+    38.401658
+],
   "geometry": {"coordinates":[-86.919082,38.401658],"type":"Point"}
 }

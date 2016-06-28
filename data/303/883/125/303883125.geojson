@@ -2,13 +2,14 @@
   "id": 303883125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.930875,39.639059,-84.930875,39.639059",
     "geom:latitude":39.639059,
     "geom:longitude":-84.930875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303883125,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466503211,
     "wof:name":"Southeastern Indiana Emp Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-84.930875,39.639059,-84.930875,39.639059],
+  "bbox": [
+    -84.930875,
+    39.639059,
+    -84.930875,
+    39.639059
+],
   "geometry": {"coordinates":[-84.930875,39.639059],"type":"Point"}
 }

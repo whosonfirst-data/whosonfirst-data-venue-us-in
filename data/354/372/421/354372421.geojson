@@ -2,13 +2,14 @@
   "id": 354372421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028052,41.147716,-85.028052,41.147716",
     "geom:latitude":41.147716,
     "geom:longitude":-85.028052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7117 Signature Run",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354372421,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1466503408,
     "wof:name":"Richard Kees",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-85.028052,41.147716,-85.028052,41.147716],
+  "bbox": [
+    -85.028052,
+    41.147716,
+    -85.028052,
+    41.147716
+],
   "geometry": {"coordinates":[-85.028052,41.147716],"type":"Point"}
 }

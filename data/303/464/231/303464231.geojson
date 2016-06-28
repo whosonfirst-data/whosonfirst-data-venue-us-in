@@ -2,13 +2,14 @@
   "id": 303464231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.740248,41.600346,-85.740248,41.600346",
     "geom:latitude":41.600346,
     "geom:longitude":-85.740248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14578 State Rd 4",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303464231,
-    "wof:lastmodified":1448998771,
+    "wof:lastmodified":1466503693,
     "wof:name":"TMI",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "plumbing"
     ]
 },
-  "bbox": [-85.740248,41.600346,-85.740248,41.600346],
-  "geometry": {"coordinates":[-85.740248,41.600346],"type":"Point"}
+  "bbox": [
+    -85.740248,
+    41.600346,
+    -85.740248,
+    41.600346
+],
+  "geometry": {"coordinates":[-85.74024799999999,41.600346],"type":"Point"}
 }

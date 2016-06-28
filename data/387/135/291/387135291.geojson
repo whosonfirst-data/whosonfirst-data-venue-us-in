@@ -2,13 +2,14 @@
   "id": 387135291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.142688,41.123247,-85.142688,41.123247",
     "geom:latitude":41.123247,
     "geom:longitude":-85.142688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Speedway Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387135291,
-    "wof:lastmodified":1449057566,
+    "wof:lastmodified":1466503078,
     "wof:name":"Janitors Supply Co Inc",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.142688,41.123247,-85.142688,41.123247],
-  "geometry": {"coordinates":[-85.142688,41.123247],"type":"Point"}
+  "bbox": [
+    -85.142688,
+    41.123247,
+    -85.142688,
+    41.123247
+],
+  "geometry": {"coordinates":[-85.14268800000001,41.123247],"type":"Point"}
 }

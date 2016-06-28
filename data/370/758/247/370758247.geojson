@@ -2,13 +2,14 @@
   "id": 370758247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.883287,38.411428,-85.883287,38.411428",
     "geom:latitude":38.411428,
     "geom:longitude":-85.883287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Book Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370758247,
-    "wof:lastmodified":1449030122,
+    "wof:lastmodified":1466503546,
     "wof:name":"Starlight Tractor Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-85.883287,38.411428,-85.883287,38.411428],
+  "bbox": [
+    -85.883287,
+    38.411428,
+    -85.883287,
+    38.411428
+],
   "geometry": {"coordinates":[-85.883287,38.411428],"type":"Point"}
 }

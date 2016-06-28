@@ -2,13 +2,14 @@
   "id": 403746151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.181668,41.55786,-87.181668,41.55786",
     "geom:latitude":41.55786,
     "geom:longitude":-87.181668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6036 Lute Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403746151,
-    "wof:lastmodified":1449054614,
+    "wof:lastmodified":1466502940,
     "wof:name":"Poe & Sons Work Clothes",
     "wof:parent_id":85891193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-87.181668,41.55786,-87.181668,41.55786],
+  "bbox": [
+    -87.181668,
+    41.55786,
+    -87.181668,
+    41.55786
+],
   "geometry": {"coordinates":[-87.181668,41.55786],"type":"Point"}
 }

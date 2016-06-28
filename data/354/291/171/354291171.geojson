@@ -2,13 +2,14 @@
   "id": 354291171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.932373,38.396658,-86.932373,38.396658",
     "geom:latitude":38.396658,
     "geom:longitude":-86.932373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W 13th St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354291171,
-    "wof:lastmodified":1449066430,
+    "wof:lastmodified":1466503276,
     "wof:name":"St John Bosco Youth Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-86.932373,38.396658,-86.932373,38.396658],
+  "bbox": [
+    -86.932373,
+    38.396658,
+    -86.932373,
+    38.396658
+],
   "geometry": {"coordinates":[-86.932373,38.396658],"type":"Point"}
 }

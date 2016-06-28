@@ -2,13 +2,14 @@
   "id": 336741801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652959,40.061851,-85.652959,40.061851",
     "geom:latitude":40.061851,
     "geom:longitude":-85.652959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1926 E 53rd St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336741801,
-    "wof:lastmodified":1448996973,
+    "wof:lastmodified":1466503070,
     "wof:name":"L A Weight Loss Ctr",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weight"
     ]
 },
-  "bbox": [-85.652959,40.061851,-85.652959,40.061851],
+  "bbox": [
+    -85.652959,
+    40.061851,
+    -85.652959,
+    40.061851
+],
   "geometry": {"coordinates":[-85.652959,40.061851],"type":"Point"}
 }

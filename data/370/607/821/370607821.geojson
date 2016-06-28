@@ -2,13 +2,14 @@
   "id": 370607821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.988876,41.691513,-85.988876,41.691513",
     "geom:latitude":41.691513,
     "geom:longitude":-85.988876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Maple Row",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370607821,
-    "wof:lastmodified":1449029541,
+    "wof:lastmodified":1466503400,
     "wof:name":"Dad's Tree Svc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-85.988876,41.691513,-85.988876,41.691513],
+  "bbox": [
+    -85.988876,
+    41.691513,
+    -85.988876,
+    41.691513
+],
   "geometry": {"coordinates":[-85.988876,41.691513],"type":"Point"}
 }

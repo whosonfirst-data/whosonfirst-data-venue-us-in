@@ -2,13 +2,14 @@
   "id": 403956487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336548,41.601988,-87.336548,41.601988",
     "geom:latitude":41.601988,
     "geom:longitude":-87.336548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 E 5th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403956487,
-    "wof:lastmodified":1449054856,
+    "wof:lastmodified":1466503237,
     "wof:name":"Delta Boy's Shrimp Alley",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-87.336548,41.601988,-87.336548,41.601988],
-  "geometry": {"coordinates":[-87.336548,41.601988],"type":"Point"}
+  "bbox": [
+    -87.336548,
+    41.601988,
+    -87.336548,
+    41.601988
+],
+  "geometry": {"coordinates":[-87.33654799999999,41.601988],"type":"Point"}
 }

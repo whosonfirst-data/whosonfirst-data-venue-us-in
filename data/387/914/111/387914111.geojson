@@ -2,13 +2,14 @@
   "id": 387914111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.301021,41.474585,-87.301021,41.474585",
     "geom:latitude":41.474585,
     "geom:longitude":-87.301021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2782 E 79th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387914111,
-    "wof:lastmodified":1449057561,
+    "wof:lastmodified":1466504149,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.301021,41.474585,-87.301021,41.474585],
-  "geometry": {"coordinates":[-87.301021,41.474585],"type":"Point"}
+  "bbox": [
+    -87.301021,
+    41.474585,
+    -87.301021,
+    41.474585
+],
+  "geometry": {"coordinates":[-87.30102100000001,41.474585],"type":"Point"}
 }

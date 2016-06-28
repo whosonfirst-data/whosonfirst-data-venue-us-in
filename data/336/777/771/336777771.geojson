@@ -2,13 +2,14 @@
   "id": 336777771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.688032,41.402631,-85.688032,41.402631",
     "geom:latitude":41.402631,
     "geom:longitude":-85.688032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8235 E Debra Dr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336777771,
-    "wof:lastmodified":1448997521,
+    "wof:lastmodified":1466503119,
     "wof:name":"Thompson Security & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "patrol"
     ]
 },
-  "bbox": [-85.688032,41.402631,-85.688032,41.402631],
-  "geometry": {"coordinates":[-85.688032,41.402631],"type":"Point"}
+  "bbox": [
+    -85.688032,
+    41.402631,
+    -85.688032,
+    41.402631
+],
+  "geometry": {"coordinates":[-85.68803200000001,41.402631],"type":"Point"}
 }

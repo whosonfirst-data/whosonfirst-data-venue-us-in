@@ -2,13 +2,14 @@
   "id": 354394117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.102522,39.806844,-86.102522,39.806844",
     "geom:latitude":39.806844,
     "geom:longitude":-86.102522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 N Sherman Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354394117,
-    "wof:lastmodified":1449066260,
+    "wof:lastmodified":1466503438,
     "wof:name":"Tag Coatings Corp",
     "wof:parent_id":85807573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-86.102522,39.806844,-86.102522,39.806844],
-  "geometry": {"coordinates":[-86.102522,39.806844],"type":"Point"}
+  "bbox": [
+    -86.102522,
+    39.806844,
+    -86.102522,
+    39.806844
+],
+  "geometry": {"coordinates":[-86.10252199999999,39.806844],"type":"Point"}
 }

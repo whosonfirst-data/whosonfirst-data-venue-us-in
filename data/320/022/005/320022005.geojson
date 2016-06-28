@@ -2,13 +2,14 @@
   "id": 320022005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.065263,39.709407,-86.065263,39.709407",
     "geom:latitude":39.709407,
     "geom:longitude":-86.065263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 Elmwood Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320022005,
-    "wof:lastmodified":1449012514,
+    "wof:lastmodified":1466503816,
     "wof:name":"Cash Register Systems Inc",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.065263,39.709407,-86.065263,39.709407],
+  "bbox": [
+    -86.065263,
+    39.709407,
+    -86.065263,
+    39.709407
+],
   "geometry": {"coordinates":[-86.065263,39.709407],"type":"Point"}
 }

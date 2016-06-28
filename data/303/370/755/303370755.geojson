@@ -2,13 +2,14 @@
   "id": 303370755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.607432,39.23774,-86.607432,39.23774",
     "geom:latitude":39.23774,
     "geom:longitude":-86.607432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5518 W McNeeley St",
     "sg:city":"Ellettsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303370755,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466503647,
     "wof:name":"Wild Willies Archery Pro Supls",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.607432,39.23774,-86.607432,39.23774],
+  "bbox": [
+    -86.607432,
+    39.23774,
+    -86.607432,
+    39.23774
+],
   "geometry": {"coordinates":[-86.607432,39.23774],"type":"Point"}
 }

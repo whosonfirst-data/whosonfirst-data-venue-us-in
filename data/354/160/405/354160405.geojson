@@ -2,13 +2,14 @@
   "id": 354160405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.035515,41.606468,-87.035515,41.606468",
     "geom:latitude":41.606468,
     "geom:longitude":-87.035515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 E Porter Ave",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354160405,
-    "wof:lastmodified":1449067380,
+    "wof:lastmodified":1466503076,
     "wof:name":"Pharma-Card Pharmacy",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.035515,41.606468,-87.035515,41.606468],
+  "bbox": [
+    -87.035515,
+    41.606468,
+    -87.035515,
+    41.606468
+],
   "geometry": {"coordinates":[-87.035515,41.606468],"type":"Point"}
 }

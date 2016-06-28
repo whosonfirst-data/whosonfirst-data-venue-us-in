@@ -2,13 +2,14 @@
   "id": 403946377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.820521,39.857099,-85.820521,39.857099",
     "geom:latitude":39.857099,
     "geom:longitude":-85.820521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Sugar Hills Ct",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403946377,
-    "wof:lastmodified":1449055814,
+    "wof:lastmodified":1466503224,
     "wof:name":"Gardner Fire Protection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-85.820521,39.857099,-85.820521,39.857099],
+  "bbox": [
+    -85.820521,
+    39.857099,
+    -85.820521,
+    39.857099
+],
   "geometry": {"coordinates":[-85.820521,39.857099],"type":"Point"}
 }

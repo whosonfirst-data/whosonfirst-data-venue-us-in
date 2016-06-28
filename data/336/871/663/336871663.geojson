@@ -2,13 +2,14 @@
   "id": 336871663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.497654,39.15597,-86.497654,39.15597",
     "geom:latitude":39.15597,
     "geom:longitude":-86.497654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"881 S College Mall Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336871663,
-    "wof:lastmodified":1448997290,
+    "wof:lastmodified":1466503237,
     "wof:name":"H & R Block Premium Tax Svc",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-86.497654,39.15597,-86.497654,39.15597],
+  "bbox": [
+    -86.497654,
+    39.15597,
+    -86.497654,
+    39.15597
+],
   "geometry": {"coordinates":[-86.497654,39.15597],"type":"Point"}
 }

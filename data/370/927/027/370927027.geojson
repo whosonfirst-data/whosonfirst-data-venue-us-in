@@ -2,13 +2,14 @@
   "id": 370927027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.787327,38.685439,-85.787327,38.685439",
     "geom:latitude":38.685439,
     "geom:longitude":-85.787327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 W McClain St",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370927027,
-    "wof:lastmodified":1449032120,
+    "wof:lastmodified":1466503737,
     "wof:name":"Saw Mill Hill Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.787327,38.685439,-85.787327,38.685439],
+  "bbox": [
+    -85.787327,
+    38.685439,
+    -85.787327,
+    38.685439
+],
   "geometry": {"coordinates":[-85.787327,38.685439],"type":"Point"}
 }

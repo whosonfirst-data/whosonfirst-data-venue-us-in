@@ -2,13 +2,14 @@
   "id": 320053535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.025086,39.954586,-86.025086,39.954586",
     "geom:latitude":39.954586,
     "geom:longitude":-86.025086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11493 Charleston Pkwy",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320053535,
-    "wof:lastmodified":1449011962,
+    "wof:lastmodified":1466503677,
     "wof:name":"Realty Innovations LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.025086,39.954586,-86.025086,39.954586],
+  "bbox": [
+    -86.025086,
+    39.954586,
+    -86.025086,
+    39.954586
+],
   "geometry": {"coordinates":[-86.025086,39.954586],"type":"Point"}
 }

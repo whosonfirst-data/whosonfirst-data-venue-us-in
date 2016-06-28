@@ -2,13 +2,14 @@
   "id": 387696481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.91477,39.808644,-85.91477,39.808644",
     "geom:latitude":39.808644,
     "geom:longitude":-85.91477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1739 N 600 W",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387696481,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1466503836,
     "wof:name":"Custom Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.91477,39.808644,-85.91477,39.808644],
+  "bbox": [
+    -85.91477,
+    39.808644,
+    -85.91477,
+    39.808644
+],
   "geometry": {"coordinates":[-85.91477,39.808644],"type":"Point"}
 }

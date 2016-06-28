@@ -2,13 +2,14 @@
   "id": 354109031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.522072,39.616355,-86.522072,39.616355",
     "geom:latitude":39.616355,
     "geom:longitude":-86.522072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9947 Co Rd 0",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":354109031,
-    "wof:lastmodified":1449066507,
+    "wof:lastmodified":1466503009,
     "wof:name":"Hazelwood Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.522072,39.616355,-86.522072,39.616355],
-  "geometry": {"coordinates":[-86.522072,39.616355],"type":"Point"}
+  "bbox": [
+    -86.522072,
+    39.616355,
+    -86.522072,
+    39.616355
+],
+  "geometry": {"coordinates":[-86.52207199999999,39.616355],"type":"Point"}
 }

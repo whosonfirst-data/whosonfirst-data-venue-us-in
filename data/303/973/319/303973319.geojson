@@ -2,13 +2,14 @@
   "id": 303973319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.672586,40.066661,-85.672586,40.066661",
     "geom:latitude":40.066661,
     "geom:longitude":-85.672586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4523 Southview Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303973319,
-    "wof:lastmodified":1448999586,
+    "wof:lastmodified":1466503346,
     "wof:name":"Joseph Journay",
     "wof:parent_id":85831617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.672586,40.066661,-85.672586,40.066661],
+  "bbox": [
+    -85.672586,
+    40.066661,
+    -85.672586,
+    40.066661
+],
   "geometry": {"coordinates":[-85.672586,40.066661],"type":"Point"}
 }

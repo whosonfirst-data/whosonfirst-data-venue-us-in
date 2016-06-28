@@ -2,13 +2,14 @@
   "id": 320641891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.786264,40.401866,-85.786264,40.401866",
     "geom:latitude":40.401866,
     "geom:longitude":-85.786264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10391 S 600 W",
     "sg:city":"Fairmount",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320641891,
-    "wof:lastmodified":1449014071,
+    "wof:lastmodified":1466503347,
     "wof:name":"Ron Meyer Ministries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.786264,40.401866,-85.786264,40.401866],
+  "bbox": [
+    -85.786264,
+    40.401866,
+    -85.786264,
+    40.401866
+],
   "geometry": {"coordinates":[-85.786264,40.401866],"type":"Point"}
 }

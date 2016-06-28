@@ -2,13 +2,14 @@
   "id": 371102925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622067,41.273642,-86.622067,41.273642",
     "geom:latitude":41.273642,
     "geom:longitude":-86.622067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3940 E 200 S",
     "sg:city":"Knox",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":371102925,
-    "wof:lastmodified":1449050072,
+    "wof:lastmodified":1466503003,
     "wof:name":"Kem-Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.622067,41.273642,-86.622067,41.273642],
+  "bbox": [
+    -86.622067,
+    41.273642,
+    -86.622067,
+    41.273642
+],
   "geometry": {"coordinates":[-86.622067,41.273642],"type":"Point"}
 }

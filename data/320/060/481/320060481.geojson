@@ -2,13 +2,14 @@
   "id": 320060481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.006258,39.856595,-86.006258,39.856595",
     "geom:latitude":39.856595,
     "geom:longitude":-86.006258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9221 Otis Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320060481,
-    "wof:lastmodified":1449014622,
+    "wof:lastmodified":1466503684,
     "wof:name":"Fort Ben-Harrison Exchange",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.006258,39.856595,-86.006258,39.856595],
+  "bbox": [
+    -86.006258,
+    39.856595,
+    -86.006258,
+    39.856595
+],
   "geometry": {"coordinates":[-86.006258,39.856595],"type":"Point"}
 }

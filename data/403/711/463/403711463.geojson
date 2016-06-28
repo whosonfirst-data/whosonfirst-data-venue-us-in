@@ -2,13 +2,14 @@
   "id": 403711463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.504177,39.273676,-85.504177,39.273676",
     "geom:latitude":39.273676,
     "geom:longitude":-85.504177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4277 S Co Rd 60 SW",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403711463,
-    "wof:lastmodified":1449055725,
+    "wof:lastmodified":1466502897,
     "wof:name":"Hempstead Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.504177,39.273676,-85.504177,39.273676],
+  "bbox": [
+    -85.504177,
+    39.273676,
+    -85.504177,
+    39.273676
+],
   "geometry": {"coordinates":[-85.504177,39.273676],"type":"Point"}
 }

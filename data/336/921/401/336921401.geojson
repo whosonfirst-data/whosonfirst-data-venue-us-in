@@ -2,13 +2,14 @@
   "id": 336921401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855585,41.727617,-86.855585,41.727617",
     "geom:latitude":41.727617,
     "geom:longitude":-86.855585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Martin Luther King Dr",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336921401,
-    "wof:lastmodified":1448997619,
+    "wof:lastmodified":1466503298,
     "wof:name":"Martin Luther King Youth Ctr",
     "wof:parent_id":85891175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-86.855585,41.727617,-86.855585,41.727617],
+  "bbox": [
+    -86.855585,
+    41.727617,
+    -86.855585,
+    41.727617
+],
   "geometry": {"coordinates":[-86.855585,41.727617],"type":"Point"}
 }

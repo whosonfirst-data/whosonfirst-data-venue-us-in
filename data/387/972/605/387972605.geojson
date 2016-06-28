@@ -2,13 +2,14 @@
   "id": 387972605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.912129,39.218157,-85.912129,39.218157",
     "geom:latitude":39.218157,
     "geom:longitude":-85.912129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Home Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387972605,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1466504230,
     "wof:name":"William Marr Farm Inc",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-85.912129,39.218157,-85.912129,39.218157],
-  "geometry": {"coordinates":[-85.912129,39.218157],"type":"Point"}
+  "bbox": [
+    -85.912129,
+    39.218157,
+    -85.912129,
+    39.218157
+],
+  "geometry": {"coordinates":[-85.91212899999999,39.218157],"type":"Point"}
 }

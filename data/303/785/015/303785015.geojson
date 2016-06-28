@@ -2,13 +2,14 @@
   "id": 303785015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405163,40.184613,-85.405163,40.184613",
     "geom:latitude":40.184613,
     "geom:longitude":-85.405163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 W 5th St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303785015,
-    "wof:lastmodified":1449000141,
+    "wof:lastmodified":1466503087,
     "wof:name":"Muncie Utility Warehouse LLC",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-85.405163,40.184613,-85.405163,40.184613],
+  "bbox": [
+    -85.405163,
+    40.184613,
+    -85.405163,
+    40.184613
+],
   "geometry": {"coordinates":[-85.405163,40.184613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320085161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.259924,39.897228,-86.259924,39.897228",
     "geom:latitude":39.897228,
     "geom:longitude":-86.259924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7946 Zionsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320085161,
-    "wof:lastmodified":1449012197,
+    "wof:lastmodified":1466503695,
     "wof:name":"A & M Specialties",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-86.259924,39.897228,-86.259924,39.897228],
+  "bbox": [
+    -86.259924,
+    39.897228,
+    -86.259924,
+    39.897228
+],
   "geometry": {"coordinates":[-86.259924,39.897228],"type":"Point"}
 }

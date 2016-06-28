@@ -2,13 +2,14 @@
   "id": 370439139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.279329,41.471173,-87.279329,41.471173",
     "geom:latitude":41.471173,
     "geom:longitude":-87.279329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 E 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370439139,
-    "wof:lastmodified":1449030037,
+    "wof:lastmodified":1466503212,
     "wof:name":"Flikkema Motors Inc N W Ind",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.279329,41.471173,-87.279329,41.471173],
+  "bbox": [
+    -87.279329,
+    41.471173,
+    -87.279329,
+    41.471173
+],
   "geometry": {"coordinates":[-87.279329,41.471173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303492199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.394487,39.394643,-87.394487,39.394643",
     "geom:latitude":39.394643,
     "geom:longitude":-87.394487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Allendale",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303492199,
-    "wof:lastmodified":1448998111,
+    "wof:lastmodified":1466503715,
     "wof:name":"Country Club Of Terre Haute",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-87.394487,39.394643,-87.394487,39.394643],
+  "bbox": [
+    -87.394487,
+    39.394643,
+    -87.394487,
+    39.394643
+],
   "geometry": {"coordinates":[-87.394487,39.394643],"type":"Point"}
 }

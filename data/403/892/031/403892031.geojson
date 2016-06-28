@@ -2,13 +2,14 @@
   "id": 403892031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.182694,41.71939,-86.182694,41.71939",
     "geom:latitude":41.71939,
     "geom:longitude":-86.182694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 University Dr",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403892031,
-    "wof:lastmodified":1449054823,
+    "wof:lastmodified":1466503153,
     "wof:name":"Elite Nails Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-86.182694,41.71939,-86.182694,41.71939],
+  "bbox": [
+    -86.182694,
+    41.71939,
+    -86.182694,
+    41.71939
+],
   "geometry": {"coordinates":[-86.182694,41.71939],"type":"Point"}
 }

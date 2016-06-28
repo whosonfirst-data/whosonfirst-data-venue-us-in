@@ -2,13 +2,14 @@
   "id": 320688151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.350328,38.751015,-85.350328,38.751015",
     "geom:latitude":38.751015,
     "geom:longitude":-85.350328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2195 E Valley View Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320688151,
-    "wof:lastmodified":1449012675,
+    "wof:lastmodified":1466503400,
     "wof:name":"AMB Total Project Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.350328,38.751015,-85.350328,38.751015],
+  "bbox": [
+    -85.350328,
+    38.751015,
+    -85.350328,
+    38.751015
+],
   "geometry": {"coordinates":[-85.350328,38.751015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387000673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.891475,39.521937,-84.891475,39.521937",
     "geom:latitude":39.521937,
     "geom:longitude":-84.891475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15124 Dare Rd",
     "sg:city":"Brookville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387000673,
-    "wof:lastmodified":1449056711,
+    "wof:lastmodified":1466503794,
     "wof:name":"Harvey Family Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-84.891475,39.521937,-84.891475,39.521937],
+  "bbox": [
+    -84.891475,
+    39.521937,
+    -84.891475,
+    39.521937
+],
   "geometry": {"coordinates":[-84.891475,39.521937],"type":"Point"}
 }

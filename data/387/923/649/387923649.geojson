@@ -2,13 +2,14 @@
   "id": 387923649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.485825,41.587367,-87.485825,41.587367",
     "geom:latitude":41.587367,
     "geom:longitude":-87.485825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6940 Northcote Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387923649,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1466504165,
     "wof:name":"Thomas Jefferson Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.485825,41.587367,-87.485825,41.587367],
-  "geometry": {"coordinates":[-87.485825,41.587367],"type":"Point"}
+  "bbox": [
+    -87.485825,
+    41.587367,
+    -87.485825,
+    41.587367
+],
+  "geometry": {"coordinates":[-87.48582500000001,41.587367],"type":"Point"}
 }

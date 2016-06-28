@@ -2,13 +2,14 @@
   "id": 319986519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.811386,41.711775,-85.811386,41.711775",
     "geom:latitude":41.711775,
     "geom:longitude":-85.811386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2275 Bloomingdale Dr",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319986519,
-    "wof:lastmodified":1449024734,
+    "wof:lastmodified":1466503638,
     "wof:name":"Kinro Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-85.811386,41.711775,-85.811386,41.711775],
+  "bbox": [
+    -85.811386,
+    41.711775,
+    -85.811386,
+    41.711775
+],
   "geometry": {"coordinates":[-85.811386,41.711775],"type":"Point"}
 }

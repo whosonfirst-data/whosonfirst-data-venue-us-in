@@ -2,13 +2,14 @@
   "id": 354372333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.695515,41.622472,-85.695515,41.622472",
     "geom:latitude":41.622472,
     "geom:longitude":-85.695515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60166 Co Rd 39",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354372333,
-    "wof:lastmodified":1449066972,
+    "wof:lastmodified":1466503407,
     "wof:name":"Maplebranch Farm Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.695515,41.622472,-85.695515,41.622472],
+  "bbox": [
+    -85.695515,
+    41.622472,
+    -85.695515,
+    41.622472
+],
   "geometry": {"coordinates":[-85.695515,41.622472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336711093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161296,39.775919,-86.161296,39.775919",
     "geom:latitude":39.775919,
     "geom:longitude":-86.161296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Capitol Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336711093,
-    "wof:lastmodified":1448997832,
+    "wof:lastmodified":1466503029,
     "wof:name":"Volunteers Of America",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-86.161296,39.775919,-86.161296,39.775919],
-  "geometry": {"coordinates":[-86.161296,39.775919],"type":"Point"}
+  "bbox": [
+    -86.161296,
+    39.775919,
+    -86.161296,
+    39.775919
+],
+  "geometry": {"coordinates":[-86.16129599999999,39.775919],"type":"Point"}
 }

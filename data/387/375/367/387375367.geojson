@@ -2,13 +2,14 @@
   "id": 387375367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.25041,39.725843,-86.25041,39.725843",
     "geom:latitude":39.725843,
     "geom:longitude":-86.25041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 S Lynhurst Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387375367,
-    "wof:lastmodified":1449056253,
+    "wof:lastmodified":1466503407,
     "wof:name":"Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.25041,39.725843,-86.25041,39.725843],
+  "bbox": [
+    -86.25041,
+    39.725843,
+    -86.25041,
+    39.725843
+],
   "geometry": {"coordinates":[-86.25041,39.725843],"type":"Point"}
 }

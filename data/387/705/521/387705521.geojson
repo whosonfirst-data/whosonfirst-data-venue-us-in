@@ -2,13 +2,14 @@
   "id": 387705521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.886457,41.696215,-86.886457,41.696215",
     "geom:latitude":41.696215,
     "geom:longitude":-86.886457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 Tilden Ave",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387705521,
-    "wof:lastmodified":1449059943,
+    "wof:lastmodified":1466503850,
     "wof:name":"Rainbow Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-86.886457,41.696215,-86.886457,41.696215],
-  "geometry": {"coordinates":[-86.886457,41.696215],"type":"Point"}
+  "bbox": [
+    -86.886457,
+    41.696215,
+    -86.886457,
+    41.696215
+],
+  "geometry": {"coordinates":[-86.88645699999999,41.696215],"type":"Point"}
 }

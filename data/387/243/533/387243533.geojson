@@ -2,13 +2,14 @@
   "id": 387243533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200984,41.054788,-86.200984,41.054788",
     "geom:latitude":41.054788,
     "geom:longitude":-86.200984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Wabash Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387243533,
-    "wof:lastmodified":1449057333,
+    "wof:lastmodified":1466503229,
     "wof:name":"Earl Barkman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.200984,41.054788,-86.200984,41.054788],
-  "geometry": {"coordinates":[-86.200984,41.054788],"type":"Point"}
+  "bbox": [
+    -86.200984,
+    41.054788,
+    -86.200984,
+    41.054788
+],
+  "geometry": {"coordinates":[-86.20098400000001,41.054788],"type":"Point"}
 }

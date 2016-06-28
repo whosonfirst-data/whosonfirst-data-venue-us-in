@@ -2,13 +2,14 @@
   "id": 387066045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.072292,39.705766,-86.072292,39.705766",
     "geom:latitude":39.705766,
     "geom:longitude":-86.072292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5602 Elmwood Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387066045,
-    "wof:lastmodified":1449057208,
+    "wof:lastmodified":1466502974,
     "wof:name":"Interstate Construction Co",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.072292,39.705766,-86.072292,39.705766],
+  "bbox": [
+    -86.072292,
+    39.705766,
+    -86.072292,
+    39.705766
+],
   "geometry": {"coordinates":[-86.072292,39.705766],"type":"Point"}
 }

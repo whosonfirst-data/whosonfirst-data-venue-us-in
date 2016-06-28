@@ -2,13 +2,14 @@
   "id": 303400063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.857269,38.950977,-84.857269,38.950977",
     "geom:latitude":38.950977,
     "geom:longitude":-84.857269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Main St",
     "sg:city":"Rising Sun",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303400063,
-    "wof:lastmodified":1448998358,
+    "wof:lastmodified":1466503816,
     "wof:name":"International Lions Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-84.857269,38.950977,-84.857269,38.950977],
+  "bbox": [
+    -84.857269,
+    38.950977,
+    -84.857269,
+    38.950977
+],
   "geometry": {"coordinates":[-84.857269,38.950977],"type":"Point"}
 }

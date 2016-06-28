@@ -2,13 +2,14 @@
   "id": 353636489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127931,39.796271,-86.127931,39.796271",
     "geom:latitude":39.796271,
     "geom:longitude":-86.127931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2049 Hillside Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353636489,
-    "wof:lastmodified":1449019279,
+    "wof:lastmodified":1466503119,
     "wof:name":"Hi Tk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.127931,39.796271,-86.127931,39.796271],
+  "bbox": [
+    -86.127931,
+    39.796271,
+    -86.127931,
+    39.796271
+],
   "geometry": {"coordinates":[-86.127931,39.796271],"type":"Point"}
 }

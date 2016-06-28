@@ -2,13 +2,14 @@
   "id": 303669643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.032067,38.647651,-86.032067,38.647651",
     "geom:latitude":38.647651,
     "geom:longitude":-86.032067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3929 E Quaker Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303669643,
-    "wof:lastmodified":1448998399,
+    "wof:lastmodified":1466502949,
     "wof:name":"Paul Lyles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-86.032067,38.647651,-86.032067,38.647651],
+  "bbox": [
+    -86.032067,
+    38.647651,
+    -86.032067,
+    38.647651
+],
   "geometry": {"coordinates":[-86.032067,38.647651],"type":"Point"}
 }

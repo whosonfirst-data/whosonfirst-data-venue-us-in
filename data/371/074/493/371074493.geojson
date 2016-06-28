@@ -2,13 +2,14 @@
   "id": 371074493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046823,41.390097,-86.046823,41.390097",
     "geom:latitude":41.390097,
     "geom:longitude":-86.046823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10517 W 1100 N",
     "sg:city":"Nappanee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371074493,
-    "wof:lastmodified":1449049611,
+    "wof:lastmodified":1466502964,
     "wof:name":"G & W Herbs",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-86.046823,41.390097,-86.046823,41.390097],
+  "bbox": [
+    -86.046823,
+    41.390097,
+    -86.046823,
+    41.390097
+],
   "geometry": {"coordinates":[-86.046823,41.390097],"type":"Point"}
 }

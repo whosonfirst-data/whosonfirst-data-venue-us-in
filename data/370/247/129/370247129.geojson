@@ -2,13 +2,14 @@
   "id": 370247129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.151842,41.132438,-85.151842,41.132438",
     "geom:latitude":41.132438,
     "geom:longitude":-85.151842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 W Washington Center Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370247129,
-    "wof:lastmodified":1449031060,
+    "wof:lastmodified":1466503009,
     "wof:name":"Mc Vans Video Game Trader",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-85.151842,41.132438,-85.151842,41.132438],
+  "bbox": [
+    -85.151842,
+    41.132438,
+    -85.151842,
+    41.132438
+],
   "geometry": {"coordinates":[-85.151842,41.132438],"type":"Point"}
 }

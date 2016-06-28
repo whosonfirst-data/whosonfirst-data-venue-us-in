@@ -2,13 +2,14 @@
   "id": 354203251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.417918,41.645186,-85.417918,41.645186",
     "geom:latitude":41.645186,
     "geom:longitude":-85.417918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Detroit St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354203251,
-    "wof:lastmodified":1449066665,
+    "wof:lastmodified":1466503142,
     "wof:name":"F S Bancorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-85.417918,41.645186,-85.417918,41.645186],
+  "bbox": [
+    -85.417918,
+    41.645186,
+    -85.417918,
+    41.645186
+],
   "geometry": {"coordinates":[-85.417918,41.645186],"type":"Point"}
 }

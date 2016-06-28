@@ -2,13 +2,14 @@
   "id": 320013023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481015,41.592279,-87.481015,41.592279",
     "geom:latitude":41.592279,
     "geom:longitude":-87.481015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6606 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320013023,
-    "wof:lastmodified":1449013804,
+    "wof:lastmodified":1466503816,
     "wof:name":"Urban Specs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "general"
     ]
 },
-  "bbox": [-87.481015,41.592279,-87.481015,41.592279],
+  "bbox": [
+    -87.481015,
+    41.592279,
+    -87.481015,
+    41.592279
+],
   "geometry": {"coordinates":[-87.481015,41.592279],"type":"Point"}
 }

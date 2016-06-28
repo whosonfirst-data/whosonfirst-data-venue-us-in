@@ -2,13 +2,14 @@
   "id": 303536847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.76541,39.289783,-86.76541,39.289783",
     "geom:latitude":39.289783,
     "geom:longitude":-86.76541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Hillside Ave",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303536847,
-    "wof:lastmodified":1448999577,
+    "wof:lastmodified":1466503737,
     "wof:name":"Wardlaw Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.76541,39.289783,-86.76541,39.289783],
+  "bbox": [
+    -86.76541,
+    39.289783,
+    -86.76541,
+    39.289783
+],
   "geometry": {"coordinates":[-86.76541,39.289783],"type":"Point"}
 }

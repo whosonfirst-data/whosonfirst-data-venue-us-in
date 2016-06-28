@@ -2,13 +2,14 @@
   "id": 320494381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.184533,40.27134,-86.184533,40.27134",
     "geom:latitude":40.27134,
     "geom:longitude":-86.184533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2198 S 900 W",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320494381,
-    "wof:lastmodified":1449014550,
+    "wof:lastmodified":1466503173,
     "wof:name":"T&M Stafford Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-86.184533,40.27134,-86.184533,40.27134],
+  "bbox": [
+    -86.184533,
+    40.27134,
+    -86.184533,
+    40.27134
+],
   "geometry": {"coordinates":[-86.184533,40.27134],"type":"Point"}
 }

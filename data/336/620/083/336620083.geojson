@@ -2,13 +2,14 @@
   "id": 336620083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.846322,40.682944,-85.846322,40.682944",
     "geom:latitude":40.682944,
     "geom:longitude":-85.846322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9704 S 300 W",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336620083,
-    "wof:lastmodified":1448997927,
+    "wof:lastmodified":1466502910,
     "wof:name":"Thompson Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-85.846322,40.682944,-85.846322,40.682944],
+  "bbox": [
+    -85.846322,
+    40.682944,
+    -85.846322,
+    40.682944
+],
   "geometry": {"coordinates":[-85.846322,40.682944],"type":"Point"}
 }

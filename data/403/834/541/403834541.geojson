@@ -2,13 +2,14 @@
   "id": 403834541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.150891,39.694846,-86.150891,39.694846",
     "geom:latitude":39.694846,
     "geom:longitude":-86.150891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 E Elbert St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403834541,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1466503069,
     "wof:name":"April Brandenburg",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetologist"
     ]
 },
-  "bbox": [-86.150891,39.694846,-86.150891,39.694846],
+  "bbox": [
+    -86.150891,
+    39.694846,
+    -86.150891,
+    39.694846
+],
   "geometry": {"coordinates":[-86.150891,39.694846],"type":"Point"}
 }

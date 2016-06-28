@@ -2,13 +2,14 @@
   "id": 303469437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823857,41.252237,-86.823857,41.252237",
     "geom:latitude":41.252237,
     "geom:longitude":-86.823857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 S 650 W",
     "sg:city":"North Judson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303469437,
-    "wof:lastmodified":1449000631,
+    "wof:lastmodified":1466503697,
     "wof:name":"Luedtke Dairy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823857,41.252237,-86.823857,41.252237],
+  "bbox": [
+    -86.823857,
+    41.252237,
+    -86.823857,
+    41.252237
+],
   "geometry": {"coordinates":[-86.823857,41.252237],"type":"Point"}
 }

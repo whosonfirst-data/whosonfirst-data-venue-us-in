@@ -2,13 +2,14 @@
   "id": 320151317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.948158,41.702691,-85.948158,41.702691",
     "geom:latitude":41.702691,
     "geom:longitude":-85.948158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 E Bristol St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320151317,
-    "wof:lastmodified":1449011292,
+    "wof:lastmodified":1466503735,
     "wof:name":"Integrity Accounting",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-85.948158,41.702691,-85.948158,41.702691],
-  "geometry": {"coordinates":[-85.948158,41.702691],"type":"Point"}
+  "bbox": [
+    -85.948158,
+    41.702691,
+    -85.948158,
+    41.702691
+],
+  "geometry": {"coordinates":[-85.94815800000001,41.702691],"type":"Point"}
 }

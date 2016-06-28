@@ -2,13 +2,14 @@
   "id": 370898933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.259019,41.668324,-86.259019,41.668324",
     "geom:latitude":41.668324,
     "geom:longitude":-86.259019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 S Scott St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370898933,
-    "wof:lastmodified":1449028995,
+    "wof:lastmodified":1466503708,
     "wof:name":"Model Coverall Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "matting"
     ]
 },
-  "bbox": [-86.259019,41.668324,-86.259019,41.668324],
+  "bbox": [
+    -86.259019,
+    41.668324,
+    -86.259019,
+    41.668324
+],
   "geometry": {"coordinates":[-86.259019,41.668324],"type":"Point"}
 }

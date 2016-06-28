@@ -2,13 +2,14 @@
   "id": 353570857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.426711,40.223825,-85.426711,40.223825",
     "geom:latitude":40.223825,
     "geom:longitude":-85.426711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 N Everbrook Ln",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353570857,
-    "wof:lastmodified":1449019782,
+    "wof:lastmodified":1466503038,
     "wof:name":"Lyndenbrook Eye Ctr",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.426711,40.223825,-85.426711,40.223825],
+  "bbox": [
+    -85.426711,
+    40.223825,
+    -85.426711,
+    40.223825
+],
   "geometry": {"coordinates":[-85.426711,40.223825],"type":"Point"}
 }

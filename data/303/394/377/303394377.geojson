@@ -2,13 +2,14 @@
   "id": 303394377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.513207,40.280555,-86.513207,40.280555",
     "geom:latitude":40.280555,
     "geom:longitude":-86.513207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 W Clinton St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303394377,
-    "wof:lastmodified":1448998588,
+    "wof:lastmodified":1466503653,
     "wof:name":"Robert M Shaffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.513207,40.280555,-86.513207,40.280555],
-  "geometry": {"coordinates":[-86.513207,40.280555],"type":"Point"}
+  "bbox": [
+    -86.513207,
+    40.280555,
+    -86.513207,
+    40.280555
+],
+  "geometry": {"coordinates":[-86.51320699999999,40.280555],"type":"Point"}
 }

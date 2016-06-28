@@ -2,13 +2,14 @@
   "id": 303989347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.894244,40.416422,-86.894244,40.416422",
     "geom:latitude":40.416422,
     "geom:longitude":-86.894244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S 3rd St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303989347,
-    "wof:lastmodified":1448999912,
+    "wof:lastmodified":1466503370,
     "wof:name":"Rebecca Sullivan",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-86.894244,40.416422,-86.894244,40.416422],
+  "bbox": [
+    -86.894244,
+    40.416422,
+    -86.894244,
+    40.416422
+],
   "geometry": {"coordinates":[-86.894244,40.416422],"type":"Point"}
 }

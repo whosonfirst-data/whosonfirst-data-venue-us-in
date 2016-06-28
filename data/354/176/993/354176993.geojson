@@ -2,13 +2,14 @@
   "id": 354176993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028336,39.058521,-85.028336,39.058521",
     "geom:latitude":39.058521,
     "geom:longitude":-85.028336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11299 Chesterville Rd",
     "sg:city":"Moores Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354176993,
-    "wof:lastmodified":1449067084,
+    "wof:lastmodified":1466503100,
     "wof:name":"Robert's Quality Remodeling",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.028336,39.058521,-85.028336,39.058521],
+  "bbox": [
+    -85.028336,
+    39.058521,
+    -85.028336,
+    39.058521
+],
   "geometry": {"coordinates":[-85.028336,39.058521],"type":"Point"}
 }

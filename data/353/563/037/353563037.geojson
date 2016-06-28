@@ -2,13 +2,14 @@
   "id": 353563037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.024814,41.565084,-86.024814,41.565084",
     "geom:latitude":41.565084,
     "geom:longitude":-86.024814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29189 Co Rd 36",
     "sg:city":"Wakarusa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353563037,
-    "wof:lastmodified":1449018297,
+    "wof:lastmodified":1466503026,
     "wof:name":"Truck Master Designs",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-86.024814,41.565084,-86.024814,41.565084],
-  "geometry": {"coordinates":[-86.024814,41.565084],"type":"Point"}
+  "bbox": [
+    -86.024814,
+    41.565084,
+    -86.024814,
+    41.565084
+],
+  "geometry": {"coordinates":[-86.02481400000001,41.565084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303979853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.418697,39.102925,-87.418697,39.102925",
     "geom:latitude":39.102925,
     "geom:longitude":-87.418697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W Wolfe St",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303979853,
-    "wof:lastmodified":1448999841,
+    "wof:lastmodified":1466503358,
     "wof:name":"Miller's Merry Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-87.418697,39.102925,-87.418697,39.102925],
-  "geometry": {"coordinates":[-87.418697,39.102925],"type":"Point"}
+  "bbox": [
+    -87.418697,
+    39.102925,
+    -87.418697,
+    39.102925
+],
+  "geometry": {"coordinates":[-87.41869699999999,39.102925],"type":"Point"}
 }

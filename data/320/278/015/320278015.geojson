@@ -2,13 +2,14 @@
   "id": 320278015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.967367,41.68794,-85.967367,41.68794",
     "geom:latitude":41.68794,
     "geom:longitude":-85.967367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Lexington Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320278015,
-    "wof:lastmodified":1449013325,
+    "wof:lastmodified":1466502888,
     "wof:name":"Rocket Automatic Car Wash",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.967367,41.68794,-85.967367,41.68794],
+  "bbox": [
+    -85.967367,
+    41.68794,
+    -85.967367,
+    41.68794
+],
   "geometry": {"coordinates":[-85.967367,41.68794],"type":"Point"}
 }

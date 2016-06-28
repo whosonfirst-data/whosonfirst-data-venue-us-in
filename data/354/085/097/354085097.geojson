@@ -2,13 +2,14 @@
   "id": 354085097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.098436,41.451261,-85.098436,41.451261",
     "geom:latitude":41.451261,
     "geom:longitude":-85.098436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2163 Co Rd 19",
     "sg:city":"Corunna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354085097,
-    "wof:lastmodified":1449066337,
+    "wof:lastmodified":1466502979,
     "wof:name":"Corunna Church of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.098436,41.451261,-85.098436,41.451261],
-  "geometry": {"coordinates":[-85.098436,41.451261],"type":"Point"}
+  "bbox": [
+    -85.098436,
+    41.451261,
+    -85.098436,
+    41.451261
+],
+  "geometry": {"coordinates":[-85.09843600000001,41.451261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354011689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.125039,41.682831,-86.125039,41.682831",
     "geom:latitude":41.682831,
     "geom:longitude":-86.125039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13185 Chippewa Blvd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354011689,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1466502897,
     "wof:name":"Indiana Electronics Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.125039,41.682831,-86.125039,41.682831],
+  "bbox": [
+    -86.125039,
+    41.682831,
+    -86.125039,
+    41.682831
+],
   "geometry": {"coordinates":[-86.125039,41.682831],"type":"Point"}
 }

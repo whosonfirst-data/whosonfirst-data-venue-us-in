@@ -2,13 +2,14 @@
   "id": 353505577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.375798,38.782063,-85.375798,38.782063",
     "geom:latitude":38.782063,
     "geom:longitude":-85.375798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"567 Ivy Tech Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353505577,
-    "wof:lastmodified":1449020404,
+    "wof:lastmodified":1466502954,
     "wof:name":"River Valley Financial Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.375798,38.782063,-85.375798,38.782063],
+  "bbox": [
+    -85.375798,
+    38.782063,
+    -85.375798,
+    38.782063
+],
   "geometry": {"coordinates":[-85.375798,38.782063],"type":"Point"}
 }

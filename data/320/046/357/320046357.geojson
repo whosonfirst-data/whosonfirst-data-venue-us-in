@@ -2,13 +2,14 @@
   "id": 320046357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.04981,40.288766,-86.04981,40.288766",
     "geom:latitude":40.288766,
     "geom:longitude":-86.04981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Dearborn St",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320046357,
-    "wof:lastmodified":1449013332,
+    "wof:lastmodified":1466503675,
     "wof:name":"Rural Metro Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-86.04981,40.288766,-86.04981,40.288766],
-  "geometry": {"coordinates":[-86.04981,40.288766],"type":"Point"}
+  "bbox": [
+    -86.04981,
+    40.288766,
+    -86.04981,
+    40.288766
+],
+  "geometry": {"coordinates":[-86.04980999999999,40.288766],"type":"Point"}
 }

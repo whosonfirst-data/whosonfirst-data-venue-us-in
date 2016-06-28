@@ -2,13 +2,14 @@
   "id": 370189663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.681742,40.10205,-85.681742,40.10205",
     "geom:latitude":40.10205,
     "geom:longitude":-85.681742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 W 14th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370189663,
-    "wof:lastmodified":1449031484,
+    "wof:lastmodified":1466502937,
     "wof:name":"Speedcraft Prototypes",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trade"
     ]
 },
-  "bbox": [-85.681742,40.10205,-85.681742,40.10205],
+  "bbox": [
+    -85.681742,
+    40.10205,
+    -85.681742,
+    40.10205
+],
   "geometry": {"coordinates":[-85.681742,40.10205],"type":"Point"}
 }

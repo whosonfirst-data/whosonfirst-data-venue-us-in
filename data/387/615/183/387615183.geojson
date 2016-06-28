@@ -2,13 +2,14 @@
   "id": 387615183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.822553,39.148714,-84.822553,39.148714",
     "geom:latitude":39.148714,
     "geom:longitude":-84.822553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 US Hwy 50",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387615183,
-    "wof:lastmodified":1449057301,
+    "wof:lastmodified":1466503732,
     "wof:name":"Stateline Restaurant",
     "wof:parent_id":85823947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.822553,39.148714,-84.822553,39.148714],
+  "bbox": [
+    -84.822553,
+    39.148714,
+    -84.822553,
+    39.148714
+],
   "geometry": {"coordinates":[-84.822553,39.148714],"type":"Point"}
 }

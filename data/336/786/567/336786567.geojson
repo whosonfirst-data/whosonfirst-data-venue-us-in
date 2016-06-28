@@ -2,13 +2,14 @@
   "id": 336786567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.857365,39.09644,-84.857365,39.09644",
     "geom:latitude":39.09644,
     "geom:longitude":-84.857365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Eads Pkwy",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336786567,
-    "wof:lastmodified":1448997071,
+    "wof:lastmodified":1466503128,
     "wof:name":"United Community Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-84.857365,39.09644,-84.857365,39.09644],
+  "bbox": [
+    -84.857365,
+    39.09644,
+    -84.857365,
+    39.09644
+],
   "geometry": {"coordinates":[-84.857365,39.09644],"type":"Point"}
 }

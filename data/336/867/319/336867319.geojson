@@ -2,13 +2,14 @@
   "id": 336867319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250839,41.675098,-86.250839,41.675098",
     "geom:latitude":41.675098,
     "geom:longitude":-86.250839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Jefferson Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336867319,
-    "wof:lastmodified":1448997417,
+    "wof:lastmodified":1466503233,
     "wof:name":"Sports Medicine Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.250839,41.675098,-86.250839,41.675098],
+  "bbox": [
+    -86.250839,
+    41.675098,
+    -86.250839,
+    41.675098
+],
   "geometry": {"coordinates":[-86.250839,41.675098],"type":"Point"}
 }

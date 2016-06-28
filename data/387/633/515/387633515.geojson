@@ -2,13 +2,14 @@
   "id": 387633515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.649522,40.109545,-85.649522,40.109545",
     "geom:latitude":40.109545,
     "geom:longitude":-85.649522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 E 6th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387633515,
-    "wof:lastmodified":1449059890,
+    "wof:lastmodified":1466503759,
     "wof:name":"Keg-N-Bottle Package",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.649522,40.109545,-85.649522,40.109545],
+  "bbox": [
+    -85.649522,
+    40.109545,
+    -85.649522,
+    40.109545
+],
   "geometry": {"coordinates":[-85.649522,40.109545],"type":"Point"}
 }

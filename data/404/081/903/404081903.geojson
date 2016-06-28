@@ -2,13 +2,14 @@
   "id": 404081903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.420844,41.304931,-87.420844,41.304931",
     "geom:latitude":41.304931,
     "geom:longitude":-87.420844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17644 Morse St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404081903,
-    "wof:lastmodified":1449039391,
+    "wof:lastmodified":1466502995,
     "wof:name":"Belinda Hubert PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-87.420844,41.304931,-87.420844,41.304931],
+  "bbox": [
+    -87.420844,
+    41.304931,
+    -87.420844,
+    41.304931
+],
   "geometry": {"coordinates":[-87.420844,41.304931],"type":"Point"}
 }

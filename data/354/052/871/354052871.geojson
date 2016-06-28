@@ -2,13 +2,14 @@
   "id": 354052871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.699367,38.049352,-86.699367,38.049352",
     "geom:latitude":38.049352,
     "geom:longitude":-86.699367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6454 Azalea Rd",
     "sg:city":"Tell City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354052871,
-    "wof:lastmodified":1449066680,
+    "wof:lastmodified":1466502944,
     "wof:name":"Parker's Pallets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "skid"
     ]
 },
-  "bbox": [-86.699367,38.049352,-86.699367,38.049352],
+  "bbox": [
+    -86.699367,
+    38.049352,
+    -86.699367,
+    38.049352
+],
   "geometry": {"coordinates":[-86.699367,38.049352],"type":"Point"}
 }

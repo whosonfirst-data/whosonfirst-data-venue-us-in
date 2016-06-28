@@ -2,13 +2,14 @@
   "id": 387097733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.541123,40.528251,-85.541123,40.528251",
     "geom:latitude":40.528251,
     "geom:longitude":-85.541123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 S 700 E",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387097733,
-    "wof:lastmodified":1449057609,
+    "wof:lastmodified":1466503027,
     "wof:name":"Burman Electric",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.541123,40.528251,-85.541123,40.528251],
+  "bbox": [
+    -85.541123,
+    40.528251,
+    -85.541123,
+    40.528251
+],
   "geometry": {"coordinates":[-85.541123,40.528251],"type":"Point"}
 }

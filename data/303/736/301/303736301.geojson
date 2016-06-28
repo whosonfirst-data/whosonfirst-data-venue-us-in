@@ -2,13 +2,14 @@
   "id": 303736301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.474079,37.994771,-87.474079,37.994771",
     "geom:latitude":37.994771,
     "geom:longitude":-87.474079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 N Burkhardt Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303736301,
-    "wof:lastmodified":1449000538,
+    "wof:lastmodified":1466503029,
     "wof:name":"Eastside Truck Shop",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-87.474079,37.994771,-87.474079,37.994771],
+  "bbox": [
+    -87.474079,
+    37.994771,
+    -87.474079,
+    37.994771
+],
   "geometry": {"coordinates":[-87.474079,37.994771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370960777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753056,39.58323,-86.753056,39.58323",
     "geom:latitude":39.58323,
     "geom:longitude":-86.753056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 S Co Rd 550 E",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370960777,
-    "wof:lastmodified":1449031525,
+    "wof:lastmodified":1466503780,
     "wof:name":"Putnam Park Road Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753056,39.58323,-86.753056,39.58323],
+  "bbox": [
+    -86.753056,
+    39.58323,
+    -86.753056,
+    39.58323
+],
   "geometry": {"coordinates":[-86.753056,39.58323],"type":"Point"}
 }

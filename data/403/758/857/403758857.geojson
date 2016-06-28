@@ -2,13 +2,14 @@
   "id": 403758857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.489322,41.704736,-85.489322,41.704736",
     "geom:latitude":41.704736,
     "geom:longitude":-85.489322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4580 N 325 W",
     "sg:city":"Shipshewana",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403758857,
-    "wof:lastmodified":1449055046,
+    "wof:lastmodified":1466502959,
     "wof:name":"R & A Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-85.489322,41.704736,-85.489322,41.704736],
+  "bbox": [
+    -85.489322,
+    41.704736,
+    -85.489322,
+    41.704736
+],
   "geometry": {"coordinates":[-85.489322,41.704736],"type":"Point"}
 }

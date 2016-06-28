@@ -2,13 +2,14 @@
   "id": 320524025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.155387,41.099808,-85.155387,41.099808",
     "geom:latitude":41.099808,
     "geom:longitude":-85.155387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Goshen Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320524025,
-    "wof:lastmodified":1449011225,
+    "wof:lastmodified":1466503204,
     "wof:name":"Ft Wayne Auto Sales Inc",
     "wof:parent_id":85819467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.155387,41.099808,-85.155387,41.099808],
+  "bbox": [
+    -85.155387,
+    41.099808,
+    -85.155387,
+    41.099808
+],
   "geometry": {"coordinates":[-85.155387,41.099808],"type":"Point"}
 }

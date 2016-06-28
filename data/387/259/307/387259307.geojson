@@ -2,13 +2,14 @@
   "id": 387259307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.089502,39.5565,-86.089502,39.5565",
     "geom:latitude":39.5565,
     "geom:longitude":-86.089502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 N US Hwy 31",
     "sg:city":"Whiteland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387259307,
-    "wof:lastmodified":1449056976,
+    "wof:lastmodified":1466503249,
     "wof:name":"Stewart Custom Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-86.089502,39.5565,-86.089502,39.5565],
+  "bbox": [
+    -86.089502,
+    39.5565,
+    -86.089502,
+    39.5565
+],
   "geometry": {"coordinates":[-86.089502,39.5565],"type":"Point"}
 }

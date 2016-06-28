@@ -2,13 +2,14 @@
   "id": 370612967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.255696,41.592672,-87.255696,41.592672",
     "geom:latitude":41.592672,
     "geom:longitude":-87.255696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 Laporte St",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370612967,
-    "wof:lastmodified":1449030591,
+    "wof:lastmodified":1466503410,
     "wof:name":"Webdezign Shop",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "internet"
     ]
 },
-  "bbox": [-87.255696,41.592672,-87.255696,41.592672],
+  "bbox": [
+    -87.255696,
+    41.592672,
+    -87.255696,
+    41.592672
+],
   "geometry": {"coordinates":[-87.255696,41.592672],"type":"Point"}
 }

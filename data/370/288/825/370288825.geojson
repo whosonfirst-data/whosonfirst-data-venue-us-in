@@ -2,13 +2,14 @@
   "id": 370288825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.139463,39.845752,-86.139463,39.845752",
     "geom:latitude":39.845752,
     "geom:longitude":-86.139463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5012 Carvel Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370288825,
-    "wof:lastmodified":1449029443,
+    "wof:lastmodified":1466503060,
     "wof:name":"M J Supplies",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-86.139463,39.845752,-86.139463,39.845752],
-  "geometry": {"coordinates":[-86.139463,39.845752],"type":"Point"}
+  "bbox": [
+    -86.139463,
+    39.845752,
+    -86.139463,
+    39.845752
+],
+  "geometry": {"coordinates":[-86.13946300000001,39.845752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303416677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.375127,39.610337,-86.375127,39.610337",
     "geom:latitude":39.610337,
     "geom:longitude":-86.375127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 State Rd 42",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303416677,
-    "wof:lastmodified":1448999218,
+    "wof:lastmodified":1466503669,
     "wof:name":"State of Indiana New Zeal",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "animal"
     ]
 },
-  "bbox": [-86.375127,39.610337,-86.375127,39.610337],
-  "geometry": {"coordinates":[-86.375127,39.610337],"type":"Point"}
+  "bbox": [
+    -86.375127,
+    39.610337,
+    -86.375127,
+    39.610337
+],
+  "geometry": {"coordinates":[-86.37512700000001,39.610337],"type":"Point"}
 }

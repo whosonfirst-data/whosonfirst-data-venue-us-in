@@ -2,13 +2,14 @@
   "id": 336721867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.675923,40.107185,-85.675923,40.107185",
     "geom:latitude":40.107185,
     "geom:longitude":-85.675923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E 9th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336721867,
-    "wof:lastmodified":1448998011,
+    "wof:lastmodified":1466503043,
     "wof:name":"Madison Cnty Veterans Affairs",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "admin"
     ]
 },
-  "bbox": [-85.675923,40.107185,-85.675923,40.107185],
+  "bbox": [
+    -85.675923,
+    40.107185,
+    -85.675923,
+    40.107185
+],
   "geometry": {"coordinates":[-85.675923,40.107185],"type":"Point"}
 }

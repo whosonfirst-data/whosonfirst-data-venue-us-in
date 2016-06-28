@@ -2,13 +2,14 @@
   "id": 320190841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082739,39.718002,-86.082739,39.718002",
     "geom:latitude":39.718002,
     "geom:longitude":-86.082739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 S 1st Ave",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320190841,
-    "wof:lastmodified":1449014720,
+    "wof:lastmodified":1466503752,
     "wof:name":"Radiator Plus",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.082739,39.718002,-86.082739,39.718002],
+  "bbox": [
+    -86.082739,
+    39.718002,
+    -86.082739,
+    39.718002
+],
   "geometry": {"coordinates":[-86.082739,39.718002],"type":"Point"}
 }

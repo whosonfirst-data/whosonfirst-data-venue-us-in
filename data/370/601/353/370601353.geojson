@@ -2,13 +2,14 @@
   "id": 370601353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082547,39.699142,-86.082547,39.699142",
     "geom:latitude":39.699142,
     "geom:longitude":-86.082547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4918 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370601353,
-    "wof:lastmodified":1449030609,
+    "wof:lastmodified":1466503393,
     "wof:name":"Sound Connection",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "radio"
     ]
 },
-  "bbox": [-86.082547,39.699142,-86.082547,39.699142],
-  "geometry": {"coordinates":[-86.082547,39.699142],"type":"Point"}
+  "bbox": [
+    -86.082547,
+    39.699142,
+    -86.082547,
+    39.699142
+],
+  "geometry": {"coordinates":[-86.08254700000001,39.699142],"type":"Point"}
 }

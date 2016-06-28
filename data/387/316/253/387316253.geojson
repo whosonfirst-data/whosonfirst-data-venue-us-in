@@ -2,13 +2,14 @@
   "id": 387316253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.078887,41.472658,-87.078887,41.472658",
     "geom:latitude":41.472658,
     "geom:longitude":-87.078887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1553 Clifford Rd",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387316253,
-    "wof:lastmodified":1449058686,
+    "wof:lastmodified":1466503324,
     "wof:name":"Holiday Pet Retreat II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-87.078887,41.472658,-87.078887,41.472658],
-  "geometry": {"coordinates":[-87.078887,41.472658],"type":"Point"}
+  "bbox": [
+    -87.078887,
+    41.472658,
+    -87.078887,
+    41.472658
+],
+  "geometry": {"coordinates":[-87.07888699999999,41.472658],"type":"Point"}
 }

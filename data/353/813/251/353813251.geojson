@@ -2,13 +2,14 @@
   "id": 353813251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.148416,41.11582,-85.148416,41.11582",
     "geom:latitude":41.11582,
     "geom:longitude":-85.148416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4122 N Wells St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353813251,
-    "wof:lastmodified":1449018917,
+    "wof:lastmodified":1466503326,
     "wof:name":"E H Purcell Co",
     "wof:parent_id":85819467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.148416,41.11582,-85.148416,41.11582],
+  "bbox": [
+    -85.148416,
+    41.11582,
+    -85.148416,
+    41.11582
+],
   "geometry": {"coordinates":[-85.148416,41.11582],"type":"Point"}
 }

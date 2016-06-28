@@ -2,13 +2,14 @@
   "id": 320616701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843707,40.418103,-86.843707,40.418103",
     "geom:latitude":40.418103,
     "geom:longitude":-86.843707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Executive Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320616701,
-    "wof:lastmodified":1449014002,
+    "wof:lastmodified":1466503319,
     "wof:name":"Excise Police",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-86.843707,40.418103,-86.843707,40.418103],
-  "geometry": {"coordinates":[-86.843707,40.418103],"type":"Point"}
+  "bbox": [
+    -86.843707,
+    40.418103,
+    -86.843707,
+    40.418103
+],
+  "geometry": {"coordinates":[-86.84370699999999,40.418103],"type":"Point"}
 }

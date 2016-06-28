@@ -2,13 +2,14 @@
   "id": 370873843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.516934,37.955989,-87.516934,37.955989",
     "geom:latitude":37.955989,
     "geom:longitude":-87.516934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Ravenswood Ct",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370873843,
-    "wof:lastmodified":1449029798,
+    "wof:lastmodified":1466503674,
     "wof:name":"R C Cowe's Custom Sheet Htg",
     "wof:parent_id":85877275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.516934,37.955989,-87.516934,37.955989],
-  "geometry": {"coordinates":[-87.516934,37.955989],"type":"Point"}
+  "bbox": [
+    -87.516934,
+    37.955989,
+    -87.516934,
+    37.955989
+],
+  "geometry": {"coordinates":[-87.51693400000001,37.955989],"type":"Point"}
 }

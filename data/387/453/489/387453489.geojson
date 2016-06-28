@@ -2,13 +2,14 @@
   "id": 387453489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.673577,40.586356,-86.673577,40.586356",
     "geom:latitude":40.586356,
     "geom:longitude":-86.673577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Main St",
     "sg:city":"Delphi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387453489,
-    "wof:lastmodified":1449058967,
+    "wof:lastmodified":1466503517,
     "wof:name":"Hoosier High Risk Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.673577,40.586356,-86.673577,40.586356],
-  "geometry": {"coordinates":[-86.673577,40.586356],"type":"Point"}
+  "bbox": [
+    -86.673577,
+    40.586356,
+    -86.673577,
+    40.586356
+],
+  "geometry": {"coordinates":[-86.67357699999999,40.586356],"type":"Point"}
 }

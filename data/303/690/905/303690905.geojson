@@ -2,13 +2,14 @@
   "id": 303690905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.890639,38.959792,-85.890639,38.959792",
     "geom:latitude":38.959792,
     "geom:longitude":-85.890639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Chestnut St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303690905,
-    "wof:lastmodified":1448999416,
+    "wof:lastmodified":1466502976,
     "wof:name":"Jackson County Industrial Dev",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-85.890639,38.959792,-85.890639,38.959792],
-  "geometry": {"coordinates":[-85.890639,38.959792],"type":"Point"}
+  "bbox": [
+    -85.890639,
+    38.959792,
+    -85.890639,
+    38.959792
+],
+  "geometry": {"coordinates":[-85.89063899999999,38.959792],"type":"Point"}
 }

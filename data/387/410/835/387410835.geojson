@@ -2,13 +2,14 @@
   "id": 387410835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.071569,39.903177,-86.071569,39.903177",
     "geom:latitude":39.903177,
     "geom:longitude":-86.071569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5769 Ivy Knoll Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387410835,
-    "wof:lastmodified":1449056170,
+    "wof:lastmodified":1466503455,
     "wof:name":"Nelli's Nail Care",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-86.071569,39.903177,-86.071569,39.903177],
+  "bbox": [
+    -86.071569,
+    39.903177,
+    -86.071569,
+    39.903177
+],
   "geometry": {"coordinates":[-86.071569,39.903177],"type":"Point"}
 }

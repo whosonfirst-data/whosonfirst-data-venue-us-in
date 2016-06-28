@@ -2,13 +2,14 @@
   "id": 387821359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.238518,41.365818,-85.238518,41.365818",
     "geom:latitude":41.365818,
     "geom:longitude":-85.238518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 E Albion St",
     "sg:city":"Avilla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387821359,
-    "wof:lastmodified":1449058181,
+    "wof:lastmodified":1466504015,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.238518,41.365818,-85.238518,41.365818],
+  "bbox": [
+    -85.238518,
+    41.365818,
+    -85.238518,
+    41.365818
+],
   "geometry": {"coordinates":[-85.238518,41.365818],"type":"Point"}
 }

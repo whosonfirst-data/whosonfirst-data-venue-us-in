@@ -2,13 +2,14 @@
   "id": 404159419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.841382,40.782461,-85.841382,40.782461",
     "geom:latitude":40.782461,
     "geom:longitude":-85.841382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 Pike St",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404159419,
-    "wof:lastmodified":1449039165,
+    "wof:lastmodified":1466503099,
     "wof:name":"Gardner Tax & Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-85.841382,40.782461,-85.841382,40.782461],
+  "bbox": [
+    -85.841382,
+    40.782461,
+    -85.841382,
+    40.782461
+],
   "geometry": {"coordinates":[-85.841382,40.782461],"type":"Point"}
 }

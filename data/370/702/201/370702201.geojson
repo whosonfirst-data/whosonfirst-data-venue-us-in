@@ -2,13 +2,14 @@
   "id": 370702201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.014795,40.043187,-86.014795,40.043187",
     "geom:latitude":40.043187,
     "geom:longitude":-86.014795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 S 8th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370702201,
-    "wof:lastmodified":1449030771,
+    "wof:lastmodified":1466503493,
     "wof:name":"Accent Shop Inc",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.014795,40.043187,-86.014795,40.043187],
-  "geometry": {"coordinates":[-86.014795,40.043187],"type":"Point"}
+  "bbox": [
+    -86.014795,
+    40.043187,
+    -86.014795,
+    40.043187
+],
+  "geometry": {"coordinates":[-86.01479500000001,40.043187],"type":"Point"}
 }

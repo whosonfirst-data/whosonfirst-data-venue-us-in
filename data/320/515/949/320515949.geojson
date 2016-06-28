@@ -2,13 +2,14 @@
   "id": 320515949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.150914,41.105254,-85.150914,41.105254",
     "geom:latitude":41.105254,
     "geom:longitude":-85.150914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Franke Park Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320515949,
-    "wof:lastmodified":1449012129,
+    "wof:lastmodified":1466503193,
     "wof:name":"Swim Pools Inc",
     "wof:parent_id":85819467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-85.150914,41.105254,-85.150914,41.105254],
+  "bbox": [
+    -85.150914,
+    41.105254,
+    -85.150914,
+    41.105254
+],
   "geometry": {"coordinates":[-85.150914,41.105254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354009289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.544674,37.993949,-87.544674,37.993949",
     "geom:latitude":37.993949,
     "geom:longitude":-87.544674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Maxwell Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354009289,
-    "wof:lastmodified":1449067652,
+    "wof:lastmodified":1466502894,
     "wof:name":"Maxwell Avenue Mini Storage",
     "wof:parent_id":85877327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-87.544674,37.993949,-87.544674,37.993949],
+  "bbox": [
+    -87.544674,
+    37.993949,
+    -87.544674,
+    37.993949
+],
   "geometry": {"coordinates":[-87.544674,37.993949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336908121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.101068,41.090064,-85.101068,41.090064",
     "geom:latitude":41.090064,
     "geom:longitude":-85.101068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2927 Lake Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336908121,
-    "wof:lastmodified":1448997548,
+    "wof:lastmodified":1466503281,
     "wof:name":"Aging & In-Home Svc-Ne Indiana",
     "wof:parent_id":85877545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-85.101068,41.090064,-85.101068,41.090064],
+  "bbox": [
+    -85.101068,
+    41.090064,
+    -85.101068,
+    41.090064
+],
   "geometry": {"coordinates":[-85.101068,41.090064],"type":"Point"}
 }

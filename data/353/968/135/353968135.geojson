@@ -2,13 +2,14 @@
   "id": 353968135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652887,40.11109,-85.652887,40.11109",
     "geom:latitude":40.11109,
     "geom:longitude":-85.652887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353968135,
-    "wof:lastmodified":1449018415,
+    "wof:lastmodified":1466503508,
     "wof:name":"Gas America",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.652887,40.11109,-85.652887,40.11109],
-  "geometry": {"coordinates":[-85.652887,40.11109],"type":"Point"}
+  "bbox": [
+    -85.652887,
+    40.11109,
+    -85.652887,
+    40.11109
+],
+  "geometry": {"coordinates":[-85.65288700000001,40.11109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336654141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.137355,39.84426,-86.137355,39.84426",
     "geom:latitude":39.84426,
     "geom:longitude":-86.137355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5012 Lemans Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336654141,
-    "wof:lastmodified":1448997301,
+    "wof:lastmodified":1466502956,
     "wof:name":"Ross Lawn & Yard Care",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.137355,39.84426,-86.137355,39.84426],
+  "bbox": [
+    -86.137355,
+    39.84426,
+    -86.137355,
+    39.84426
+],
   "geometry": {"coordinates":[-86.137355,39.84426],"type":"Point"}
 }

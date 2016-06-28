@@ -2,13 +2,14 @@
   "id": 303995585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254177,39.751718,-86.254177,39.751718",
     "geom:latitude":39.751718,
     "geom:longitude":-86.254177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5514 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303995585,
-    "wof:lastmodified":1449000298,
+    "wof:lastmodified":1466503379,
     "wof:name":"Embroidery Plus",
     "wof:parent_id":85805707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-86.254177,39.751718,-86.254177,39.751718],
+  "bbox": [
+    -86.254177,
+    39.751718,
+    -86.254177,
+    39.751718
+],
   "geometry": {"coordinates":[-86.254177,39.751718],"type":"Point"}
 }

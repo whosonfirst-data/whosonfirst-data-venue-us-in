@@ -2,13 +2,14 @@
   "id": 353707257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.981233,40.171568,-84.981233,40.171568",
     "geom:latitude":40.171568,
     "geom:longitude":-84.981233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Main St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353707257,
-    "wof:lastmodified":1449020422,
+    "wof:lastmodified":1466503196,
     "wof:name":"Coy Lawson Hagan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.981233,40.171568,-84.981233,40.171568],
+  "bbox": [
+    -84.981233,
+    40.171568,
+    -84.981233,
+    40.171568
+],
   "geometry": {"coordinates":[-84.981233,40.171568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303668591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890472,41.700141,-86.890472,41.700141",
     "geom:latitude":41.700141,
     "geom:longitude":-86.890472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Harrison St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303668591,
-    "wof:lastmodified":1448999823,
+    "wof:lastmodified":1466502948,
     "wof:name":"MBE Auto Dealer Supplies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "detergent"
     ]
 },
-  "bbox": [-86.890472,41.700141,-86.890472,41.700141],
+  "bbox": [
+    -86.890472,
+    41.700141,
+    -86.890472,
+    41.700141
+],
   "geometry": {"coordinates":[-86.890472,41.700141],"type":"Point"}
 }

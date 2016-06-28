@@ -2,13 +2,14 @@
   "id": 303233987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173756,39.189529,-86.173756,39.189529",
     "geom:latitude":39.189529,
     "geom:longitude":-86.173756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 State Rd 46 E",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303233987,
-    "wof:lastmodified":1449000609,
+    "wof:lastmodified":1466503506,
     "wof:name":"Rick's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.173756,39.189529,-86.173756,39.189529],
+  "bbox": [
+    -86.173756,
+    39.189529,
+    -86.173756,
+    39.189529
+],
   "geometry": {"coordinates":[-86.173756,39.189529],"type":"Point"}
 }

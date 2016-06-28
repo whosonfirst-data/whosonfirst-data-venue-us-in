@@ -2,13 +2,14 @@
   "id": 354096479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.919156,41.634663,-85.919156,41.634663",
     "geom:latitude":41.634663,
     "geom:longitude":-85.919156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23631 US Hwy 33",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354096479,
-    "wof:lastmodified":1449066467,
+    "wof:lastmodified":1466502993,
     "wof:name":"Heart City Enterprises",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.919156,41.634663,-85.919156,41.634663],
+  "bbox": [
+    -85.919156,
+    41.634663,
+    -85.919156,
+    41.634663
+],
   "geometry": {"coordinates":[-85.919156,41.634663],"type":"Point"}
 }

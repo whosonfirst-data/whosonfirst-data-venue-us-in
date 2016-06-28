@@ -2,13 +2,14 @@
   "id": 303594887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.085685,39.977826,-85.085685,39.977826",
     "geom:latitude":39.977826,
     "geom:longitude":-85.085685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Main St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303594887,
-    "wof:lastmodified":1448998470,
+    "wof:lastmodified":1466503779,
     "wof:name":"City Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-85.085685,39.977826,-85.085685,39.977826],
+  "bbox": [
+    -85.085685,
+    39.977826,
+    -85.085685,
+    39.977826
+],
   "geometry": {"coordinates":[-85.085685,39.977826],"type":"Point"}
 }

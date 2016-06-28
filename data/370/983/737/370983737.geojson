@@ -2,13 +2,14 @@
   "id": 370983737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.056319,39.899614,-86.056319,39.899614",
     "geom:latitude":39.899614,
     "geom:longitude":-86.056319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8003 Castleway Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370983737,
-    "wof:lastmodified":1449032191,
+    "wof:lastmodified":1466503802,
     "wof:name":"Light Source Of Indiana Inc",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixture"
     ]
 },
-  "bbox": [-86.056319,39.899614,-86.056319,39.899614],
+  "bbox": [
+    -86.056319,
+    39.899614,
+    -86.056319,
+    39.899614
+],
   "geometry": {"coordinates":[-86.056319,39.899614],"type":"Point"}
 }

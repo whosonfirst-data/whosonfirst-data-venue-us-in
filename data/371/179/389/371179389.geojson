@@ -2,13 +2,14 @@
   "id": 371179389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.988449,41.484597,-86.988449,41.484597",
     "geom:latitude":41.484597,
     "geom:longitude":-86.988449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N 400 E",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371179389,
-    "wof:lastmodified":1449050029,
+    "wof:lastmodified":1466503103,
     "wof:name":"Fidone Trucking Inc",
     "wof:parent_id":85891195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-86.988449,41.484597,-86.988449,41.484597],
+  "bbox": [
+    -86.988449,
+    41.484597,
+    -86.988449,
+    41.484597
+],
   "geometry": {"coordinates":[-86.988449,41.484597],"type":"Point"}
 }

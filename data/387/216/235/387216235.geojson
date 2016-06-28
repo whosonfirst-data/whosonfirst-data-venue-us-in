@@ -2,13 +2,14 @@
   "id": 387216235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843757,39.461143,-85.843757,39.461143",
     "geom:latitude":39.461143,
     "geom:longitude":-85.843757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3453 W Smithland Freedom St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387216235,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1466503190,
     "wof:name":"Smithland Butchering Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "prepared"
     ]
 },
-  "bbox": [-85.843757,39.461143,-85.843757,39.461143],
+  "bbox": [
+    -85.843757,
+    39.461143,
+    -85.843757,
+    39.461143
+],
   "geometry": {"coordinates":[-85.843757,39.461143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303374563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.517671,39.096762,-86.517671,39.096762",
     "geom:latitude":39.096762,
     "geom:longitude":-86.517671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Linda Ln",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303374563,
-    "wof:lastmodified":1448999182,
+    "wof:lastmodified":1466503647,
     "wof:name":"Ratts Construction & Rental",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.517671,39.096762,-86.517671,39.096762],
-  "geometry": {"coordinates":[-86.517671,39.096762],"type":"Point"}
+  "bbox": [
+    -86.517671,
+    39.096762,
+    -86.517671,
+    39.096762
+],
+  "geometry": {"coordinates":[-86.51767100000001,39.096762],"type":"Point"}
 }

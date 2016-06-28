@@ -2,13 +2,14 @@
   "id": 320591993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215577,39.921546,-86.215577,39.921546",
     "geom:latitude":39.921546,
     "geom:longitude":-86.215577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 Albright Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320591993,
-    "wof:lastmodified":1449013260,
+    "wof:lastmodified":1466503291,
     "wof:name":"Allen E Hughes",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.215577,39.921546,-86.215577,39.921546],
+  "bbox": [
+    -86.215577,
+    39.921546,
+    -86.215577,
+    39.921546
+],
   "geometry": {"coordinates":[-86.215577,39.921546],"type":"Point"}
 }

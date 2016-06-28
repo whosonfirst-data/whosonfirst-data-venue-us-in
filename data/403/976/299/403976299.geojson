@@ -2,13 +2,14 @@
   "id": 403976299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.486047,37.962406,-87.486047,37.962406",
     "geom:latitude":37.962406,
     "geom:longitude":-87.486047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 Washington Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403976299,
-    "wof:lastmodified":1449055176,
+    "wof:lastmodified":1466503274,
     "wof:name":"Boone Funeral Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.486047,37.962406,-87.486047,37.962406],
+  "bbox": [
+    -87.486047,
+    37.962406,
+    -87.486047,
+    37.962406
+],
   "geometry": {"coordinates":[-87.486047,37.962406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387921845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.265148,39.798794,-86.265148,39.798794",
     "geom:latitude":39.798794,
     "geom:longitude":-86.265148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5822 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387921845,
-    "wof:lastmodified":1449058553,
+    "wof:lastmodified":1466504159,
     "wof:name":"Grindstone Charleys",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.265148,39.798794,-86.265148,39.798794],
+  "bbox": [
+    -86.265148,
+    39.798794,
+    -86.265148,
+    39.798794
+],
   "geometry": {"coordinates":[-86.265148,39.798794],"type":"Point"}
 }

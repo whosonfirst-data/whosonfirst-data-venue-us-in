@@ -2,13 +2,14 @@
   "id": 336744843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461563,41.589212,-87.461563,41.589212",
     "geom:latitude":41.589212,
     "geom:longitude":-87.461563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6831 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":336744843,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466503075,
     "wof:name":"Veterans Of Foreign Wars 7881",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-87.461563,41.589212,-87.461563,41.589212],
+  "bbox": [
+    -87.461563,
+    41.589212,
+    -87.461563,
+    41.589212
+],
   "geometry": {"coordinates":[-87.461563,41.589212],"type":"Point"}
 }

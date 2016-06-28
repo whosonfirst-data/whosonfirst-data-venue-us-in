@@ -2,13 +2,14 @@
   "id": 387205037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.960399,39.869772,-85.960399,39.869772",
     "geom:latitude":39.869772,
     "geom:longitude":-85.960399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11717 Pendleton Pike",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387205037,
-    "wof:lastmodified":1449058407,
+    "wof:lastmodified":1466503175,
     "wof:name":"Milestone Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.960399,39.869772,-85.960399,39.869772],
+  "bbox": [
+    -85.960399,
+    39.869772,
+    -85.960399,
+    39.869772
+],
   "geometry": {"coordinates":[-85.960399,39.869772],"type":"Point"}
 }

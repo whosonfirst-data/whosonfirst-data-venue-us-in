@@ -2,13 +2,14 @@
   "id": 370481983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610451,39.154148,-86.610451,39.154148",
     "geom:latitude":39.154148,
     "geom:longitude":-86.610451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"984 S Kirby Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370481983,
-    "wof:lastmodified":1449032040,
+    "wof:lastmodified":1466503257,
     "wof:name":"BMG Aviation",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-86.610451,39.154148,-86.610451,39.154148],
+  "bbox": [
+    -86.610451,
+    39.154148,
+    -86.610451,
+    39.154148
+],
   "geometry": {"coordinates":[-86.610451,39.154148],"type":"Point"}
 }

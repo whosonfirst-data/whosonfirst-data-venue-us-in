@@ -2,13 +2,14 @@
   "id": 387600735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.848069,40.070074,-85.848069,40.070074",
     "geom:latitude":40.070074,
     "geom:longitude":-85.848069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Main St",
     "sg:city":"Lapel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387600735,
-    "wof:lastmodified":1449056456,
+    "wof:lastmodified":1466503713,
     "wof:name":"Scott E Hersberger Funeral Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-85.848069,40.070074,-85.848069,40.070074],
+  "bbox": [
+    -85.848069,
+    40.070074,
+    -85.848069,
+    40.070074
+],
   "geometry": {"coordinates":[-85.848069,40.070074],"type":"Point"}
 }

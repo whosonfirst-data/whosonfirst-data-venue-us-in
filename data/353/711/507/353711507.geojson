@@ -2,13 +2,14 @@
   "id": 353711507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.403579,41.571902,-87.403579,41.571902",
     "geom:latitude":41.571902,
     "geom:longitude":-87.403579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Burr St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353711507,
-    "wof:lastmodified":1449020357,
+    "wof:lastmodified":1466503200,
     "wof:name":"Travel Centers Of America",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stops"
     ]
 },
-  "bbox": [-87.403579,41.571902,-87.403579,41.571902],
-  "geometry": {"coordinates":[-87.403579,41.571902],"type":"Point"}
+  "bbox": [
+    -87.403579,
+    41.571902,
+    -87.403579,
+    41.571902
+],
+  "geometry": {"coordinates":[-87.40357899999999,41.571902],"type":"Point"}
 }

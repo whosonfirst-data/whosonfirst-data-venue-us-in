@@ -2,13 +2,14 @@
   "id": 404109831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.462809,41.568362,-87.462809,41.568362",
     "geom:latitude":41.568362,
     "geom:longitude":-87.462809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9025 Richard St",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":404109831,
-    "wof:lastmodified":1449039430,
+    "wof:lastmodified":1466503039,
     "wof:name":"Orban Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.462809,41.568362,-87.462809,41.568362],
-  "geometry": {"coordinates":[-87.462809,41.568362],"type":"Point"}
+  "bbox": [
+    -87.462809,
+    41.568362,
+    -87.462809,
+    41.568362
+],
+  "geometry": {"coordinates":[-87.46280899999999,41.568362],"type":"Point"}
 }

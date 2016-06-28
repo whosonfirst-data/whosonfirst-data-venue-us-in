@@ -2,13 +2,14 @@
   "id": 387884049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.167651,38.823147,-86.167651,38.823147",
     "geom:latitude":38.823147,
     "geom:longitude":-86.167651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 S Mill St",
     "sg:city":"Medora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387884049,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1466504104,
     "wof:name":"A Ok Electric",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.167651,38.823147,-86.167651,38.823147],
-  "geometry": {"coordinates":[-86.167651,38.823147],"type":"Point"}
+  "bbox": [
+    -86.167651,
+    38.823147,
+    -86.167651,
+    38.823147
+],
+  "geometry": {"coordinates":[-86.16765100000001,38.823147],"type":"Point"}
 }

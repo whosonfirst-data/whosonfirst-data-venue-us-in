@@ -2,13 +2,14 @@
   "id": 336744415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.865787,38.422814,-85.865787,38.422814",
     "geom:latitude":38.422814,
     "geom:longitude":-85.865787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6522 Saint Johns Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336744415,
-    "wof:lastmodified":1448997323,
+    "wof:lastmodified":1466503075,
     "wof:name":"Innovative Industrial Solution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [-85.865787,38.422814,-85.865787,38.422814],
+  "bbox": [
+    -85.865787,
+    38.422814,
+    -85.865787,
+    38.422814
+],
   "geometry": {"coordinates":[-85.865787,38.422814],"type":"Point"}
 }

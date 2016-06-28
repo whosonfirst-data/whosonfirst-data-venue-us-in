@@ -2,13 +2,14 @@
   "id": 336932319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.529741,37.969051,-87.529741,37.969051",
     "geom:latitude":37.969051,
     "geom:longitude":-87.529741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 E Mulberry St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336932319,
-    "wof:lastmodified":1448997339,
+    "wof:lastmodified":1466503315,
     "wof:name":"Twenty First Century Scholars",
     "wof:parent_id":85877301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "scholarship"
     ]
 },
-  "bbox": [-87.529741,37.969051,-87.529741,37.969051],
+  "bbox": [
+    -87.529741,
+    37.969051,
+    -87.529741,
+    37.969051
+],
   "geometry": {"coordinates":[-87.529741,37.969051],"type":"Point"}
 }

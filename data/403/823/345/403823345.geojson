@@ -2,13 +2,14 @@
   "id": 403823345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108536,41.75999,-86.108536,41.75999",
     "geom:latitude":41.75999,
     "geom:longitude":-86.108536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50227 Bittersweet Trl",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403823345,
-    "wof:lastmodified":1449055945,
+    "wof:lastmodified":1466503055,
     "wof:name":"Direct Line Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.108536,41.75999,-86.108536,41.75999],
+  "bbox": [
+    -86.108536,
+    41.75999,
+    -86.108536,
+    41.75999
+],
   "geometry": {"coordinates":[-86.108536,41.75999],"type":"Point"}
 }

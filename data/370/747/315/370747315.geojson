@@ -2,13 +2,14 @@
   "id": 370747315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.615336,38.578661,-86.615336,38.578661",
     "geom:latitude":38.578661,
     "geom:longitude":-86.615336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8269 State Rd 56",
     "sg:city":"West Baden Spgs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370747315,
-    "wof:lastmodified":1449029711,
+    "wof:lastmodified":1466503537,
     "wof:name":"J A's Bird Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feeder"
     ]
 },
-  "bbox": [-86.615336,38.578661,-86.615336,38.578661],
+  "bbox": [
+    -86.615336,
+    38.578661,
+    -86.615336,
+    38.578661
+],
   "geometry": {"coordinates":[-86.615336,38.578661],"type":"Point"}
 }

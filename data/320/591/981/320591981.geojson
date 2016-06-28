@@ -2,13 +2,14 @@
   "id": 320591981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868658,39.634379,-86.868658,39.634379",
     "geom:latitude":39.634379,
     "geom:longitude":-86.868658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S Jackson St",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320591981,
-    "wof:lastmodified":1449013261,
+    "wof:lastmodified":1466503290,
     "wof:name":"Weddell Logging Inc",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-86.868658,39.634379,-86.868658,39.634379],
+  "bbox": [
+    -86.868658,
+    39.634379,
+    -86.868658,
+    39.634379
+],
   "geometry": {"coordinates":[-86.868658,39.634379],"type":"Point"}
 }

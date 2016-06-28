@@ -2,13 +2,14 @@
   "id": 303273721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.318415,41.629105,-86.318415,41.629105",
     "geom:latitude":41.629105,
     "geom:longitude":-86.318415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23421 State Rd 23",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303273721,
-    "wof:lastmodified":1448999389,
+    "wof:lastmodified":1466503554,
     "wof:name":"Hanley & Sons Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-86.318415,41.629105,-86.318415,41.629105],
+  "bbox": [
+    -86.318415,
+    41.629105,
+    -86.318415,
+    41.629105
+],
   "geometry": {"coordinates":[-86.318415,41.629105],"type":"Point"}
 }

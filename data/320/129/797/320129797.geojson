@@ -2,13 +2,14 @@
   "id": 320129797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280335,39.824964,-86.280335,39.824964",
     "geom:latitude":39.824964,
     "geom:longitude":-86.280335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Shore Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320129797,
-    "wof:lastmodified":1449014247,
+    "wof:lastmodified":1466503719,
     "wof:name":"Ob-Gyn Assoc",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.280335,39.824964,-86.280335,39.824964],
-  "geometry": {"coordinates":[-86.280335,39.824964],"type":"Point"}
+  "bbox": [
+    -86.280335,
+    39.824964,
+    -86.280335,
+    39.824964
+],
+  "geometry": {"coordinates":[-86.28033499999999,39.824964],"type":"Point"}
 }

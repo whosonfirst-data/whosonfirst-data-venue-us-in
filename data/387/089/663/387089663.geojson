@@ -2,13 +2,14 @@
   "id": 387089663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.896357,41.689026,-85.896357,41.689026",
     "geom:latitude":41.689026,
     "geom:longitude":-85.896357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Roske Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387089663,
-    "wof:lastmodified":1449056873,
+    "wof:lastmodified":1466503012,
     "wof:name":"Innovative Design Technologies",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-85.896357,41.689026,-85.896357,41.689026],
-  "geometry": {"coordinates":[-85.896357,41.689026],"type":"Point"}
+  "bbox": [
+    -85.896357,
+    41.689026,
+    -85.896357,
+    41.689026
+],
+  "geometry": {"coordinates":[-85.89635699999999,41.689026],"type":"Point"}
 }

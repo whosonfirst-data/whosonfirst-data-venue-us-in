@@ -2,13 +2,14 @@
   "id": 354361211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.541906,39.166575,-86.541906,39.166575",
     "geom:latitude":39.166575,
     "geom:longitude":-86.541906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 W Kirkwood Ave",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354361211,
-    "wof:lastmodified":1449067196,
+    "wof:lastmodified":1466503394,
     "wof:name":"Aunt Doozie's Flowers & Plants",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.541906,39.166575,-86.541906,39.166575],
+  "bbox": [
+    -86.541906,
+    39.166575,
+    -86.541906,
+    39.166575
+],
   "geometry": {"coordinates":[-86.541906,39.166575],"type":"Point"}
 }

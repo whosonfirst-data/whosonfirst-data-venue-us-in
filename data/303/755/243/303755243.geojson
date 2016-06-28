@@ -2,13 +2,14 @@
   "id": 303755243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.137488,38.179416,-86.137488,38.179416",
     "geom:latitude":38.179416,
     "geom:longitude":-86.137488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Shiloh Rd SW",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303755243,
-    "wof:lastmodified":1448998802,
+    "wof:lastmodified":1466503047,
     "wof:name":"Safe Haven Child Care Ministry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.137488,38.179416,-86.137488,38.179416],
+  "bbox": [
+    -86.137488,
+    38.179416,
+    -86.137488,
+    38.179416
+],
   "geometry": {"coordinates":[-86.137488,38.179416],"type":"Point"}
 }

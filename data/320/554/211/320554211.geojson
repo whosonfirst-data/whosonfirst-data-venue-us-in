@@ -2,13 +2,14 @@
   "id": 320554211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.137866,39.765885,-86.137866,39.765885",
     "geom:latitude":39.765885,
     "geom:longitude":-86.137866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Southeastern Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320554211,
-    "wof:lastmodified":1449012027,
+    "wof:lastmodified":1466503247,
     "wof:name":"Methodist Occupational Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-86.137866,39.765885,-86.137866,39.765885],
+  "bbox": [
+    -86.137866,
+    39.765885,
+    -86.137866,
+    39.765885
+],
   "geometry": {"coordinates":[-86.137866,39.765885],"type":"Point"}
 }

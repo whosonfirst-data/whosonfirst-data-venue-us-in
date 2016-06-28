@@ -2,13 +2,14 @@
   "id": 353534185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126043,39.63459,-86.126043,39.63459",
     "geom:latitude":39.63459,
     "geom:longitude":-86.126043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 US Hwy 31 N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353534185,
-    "wof:lastmodified":1449018921,
+    "wof:lastmodified":1466502991,
     "wof:name":"Blondie's Cookies",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.126043,39.63459,-86.126043,39.63459],
+  "bbox": [
+    -86.126043,
+    39.63459,
+    -86.126043,
+    39.63459
+],
   "geometry": {"coordinates":[-86.126043,39.63459],"type":"Point"}
 }

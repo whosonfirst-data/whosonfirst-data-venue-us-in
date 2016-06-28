@@ -2,13 +2,14 @@
   "id": 387451645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.402518,40.271811,-85.402518,40.271811",
     "geom:latitude":40.271811,
     "geom:longitude":-85.402518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 W Red Maple Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387451645,
-    "wof:lastmodified":1449057768,
+    "wof:lastmodified":1466503513,
     "wof:name":"Courtesy Services",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-85.402518,40.271811,-85.402518,40.271811],
+  "bbox": [
+    -85.402518,
+    40.271811,
+    -85.402518,
+    40.271811
+],
   "geometry": {"coordinates":[-85.402518,40.271811],"type":"Point"}
 }

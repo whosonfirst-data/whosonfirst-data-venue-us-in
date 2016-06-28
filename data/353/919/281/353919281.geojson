@@ -2,13 +2,14 @@
   "id": 353919281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.228359,39.818707,-86.228359,39.818707",
     "geom:latitude":39.818707,
     "geom:longitude":-86.228359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3651 Commercial Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353919281,
-    "wof:lastmodified":1449020185,
+    "wof:lastmodified":1466503448,
     "wof:name":"H H Gregg Appliances",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.228359,39.818707,-86.228359,39.818707],
+  "bbox": [
+    -86.228359,
+    39.818707,
+    -86.228359,
+    39.818707
+],
   "geometry": {"coordinates":[-86.228359,39.818707],"type":"Point"}
 }

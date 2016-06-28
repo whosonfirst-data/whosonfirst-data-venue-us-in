@@ -2,13 +2,14 @@
   "id": 336638723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.144012,41.550251,-87.144012,41.550251",
     "geom:latitude":41.550251,
     "geom:longitude":-87.144012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W US Hwy 6",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336638723,
-    "wof:lastmodified":1448996975,
+    "wof:lastmodified":1466502936,
     "wof:name":"D & M Motors Inc",
     "wof:parent_id":85891193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.144012,41.550251,-87.144012,41.550251],
+  "bbox": [
+    -87.144012,
+    41.550251,
+    -87.144012,
+    41.550251
+],
   "geometry": {"coordinates":[-87.144012,41.550251],"type":"Point"}
 }

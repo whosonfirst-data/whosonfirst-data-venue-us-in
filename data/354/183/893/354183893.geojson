@@ -2,13 +2,14 @@
   "id": 354183893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.096569,39.899775,-86.096569,39.899775",
     "geom:latitude":39.899775,
     "geom:longitude":-86.096569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 Wythe Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354183893,
-    "wof:lastmodified":1449066854,
+    "wof:lastmodified":1466503114,
     "wof:name":"Sycamore Springs Homeowners",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "association"
     ]
 },
-  "bbox": [-86.096569,39.899775,-86.096569,39.899775],
+  "bbox": [
+    -86.096569,
+    39.899775,
+    -86.096569,
+    39.899775
+],
   "geometry": {"coordinates":[-86.096569,39.899775],"type":"Point"}
 }

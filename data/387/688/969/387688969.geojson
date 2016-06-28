@@ -2,13 +2,14 @@
   "id": 387688969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.034848,38.283545,-87.034848,38.283545",
     "geom:latitude":38.283545,
     "geom:longitude":-87.034848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6758 W 650 S",
     "sg:city":"Huntingburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387688969,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1466504366,
     "wof:name":"Kahle Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.034848,38.283545,-87.034848,38.283545],
+  "bbox": [
+    -87.034848,
+    38.283545,
+    -87.034848,
+    38.283545
+],
   "geometry": {"coordinates":[-87.034848,38.283545],"type":"Point"}
 }

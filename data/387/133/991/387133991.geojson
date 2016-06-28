@@ -2,13 +2,14 @@
   "id": 387133991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.463627,39.579209,-87.463627,39.579209",
     "geom:latitude":39.579209,
     "geom:longitude":-87.463627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 N Beech Pl",
     "sg:city":"West Terre Haute",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387133991,
-    "wof:lastmodified":1449059264,
+    "wof:lastmodified":1466503076,
     "wof:name":"Fayette Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.463627,39.579209,-87.463627,39.579209],
+  "bbox": [
+    -87.463627,
+    39.579209,
+    -87.463627,
+    39.579209
+],
   "geometry": {"coordinates":[-87.463627,39.579209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320294935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.413681,40.197533,-85.413681,40.197533",
     "geom:latitude":40.197533,
     "geom:longitude":-85.413681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W University Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320294935,
-    "wof:lastmodified":1449013923,
+    "wof:lastmodified":1466502916,
     "wof:name":"Medicine Clinic",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-85.413681,40.197533,-85.413681,40.197533],
+  "bbox": [
+    -85.413681,
+    40.197533,
+    -85.413681,
+    40.197533
+],
   "geometry": {"coordinates":[-85.413681,40.197533],"type":"Point"}
 }

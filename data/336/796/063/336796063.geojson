@@ -2,13 +2,14 @@
   "id": 336796063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.410965,40.182747,-85.410965,40.182747",
     "geom:latitude":40.182747,
     "geom:longitude":-85.410965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 S Batavia Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336796063,
-    "wof:lastmodified":1448997457,
+    "wof:lastmodified":1466503140,
     "wof:name":"Mid America Fireworks",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-85.410965,40.182747,-85.410965,40.182747],
+  "bbox": [
+    -85.410965,
+    40.182747,
+    -85.410965,
+    40.182747
+],
   "geometry": {"coordinates":[-85.410965,40.182747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336770401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.907418,41.68533,-85.907418,41.68533",
     "geom:latitude":41.68533,
     "geom:longitude":-85.907418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Bullard Rd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336770401,
-    "wof:lastmodified":1448998039,
+    "wof:lastmodified":1466503107,
     "wof:name":"Crystal Valley Sales",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.907418,41.68533,-85.907418,41.68533],
-  "geometry": {"coordinates":[-85.907418,41.68533],"type":"Point"}
+  "bbox": [
+    -85.907418,
+    41.68533,
+    -85.907418,
+    41.68533
+],
+  "geometry": {"coordinates":[-85.90741800000001,41.68533],"type":"Point"}
 }

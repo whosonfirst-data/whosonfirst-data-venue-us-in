@@ -2,13 +2,14 @@
   "id": 370788549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.482688,37.987581,-87.482688,37.987581",
     "geom:latitude":37.987581,
     "geom:longitude":-87.482688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Vogel Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370788549,
-    "wof:lastmodified":1449030825,
+    "wof:lastmodified":1466503574,
     "wof:name":"Pella Window Store",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-87.482688,37.987581,-87.482688,37.987581],
+  "bbox": [
+    -87.482688,
+    37.987581,
+    -87.482688,
+    37.987581
+],
   "geometry": {"coordinates":[-87.482688,37.987581],"type":"Point"}
 }

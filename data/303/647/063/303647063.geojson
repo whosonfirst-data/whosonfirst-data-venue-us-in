@@ -2,13 +2,14 @@
   "id": 303647063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.455616,41.588766,-87.455616,41.588766",
     "geom:latitude":41.588766,
     "geom:longitude":-87.455616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6818 Colorado Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303647063,
-    "wof:lastmodified":1448999276,
+    "wof:lastmodified":1466502922,
     "wof:name":"Let It Shine Christian Clg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.455616,41.588766,-87.455616,41.588766],
-  "geometry": {"coordinates":[-87.455616,41.588766],"type":"Point"}
+  "bbox": [
+    -87.455616,
+    41.588766,
+    -87.455616,
+    41.588766
+],
+  "geometry": {"coordinates":[-87.45561600000001,41.588766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336736447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.168925,39.839622,-86.168925,39.839622",
     "geom:latitude":39.839622,
     "geom:longitude":-86.168925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Sunset Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336736447,
-    "wof:lastmodified":1448997988,
+    "wof:lastmodified":1466503062,
     "wof:name":"Mc Leod USA",
     "wof:parent_id":85870673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-86.168925,39.839622,-86.168925,39.839622],
+  "bbox": [
+    -86.168925,
+    39.839622,
+    -86.168925,
+    39.839622
+],
   "geometry": {"coordinates":[-86.168925,39.839622],"type":"Point"}
 }

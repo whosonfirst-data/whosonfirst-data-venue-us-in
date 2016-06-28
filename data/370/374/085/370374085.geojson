@@ -2,13 +2,14 @@
   "id": 370374085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.278612,41.569683,-87.278612,41.569683",
     "geom:latitude":41.569683,
     "geom:longitude":-87.278612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 Clay St",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370374085,
-    "wof:lastmodified":1449030563,
+    "wof:lastmodified":1466503154,
     "wof:name":"Alberts Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.278612,41.569683,-87.278612,41.569683],
+  "bbox": [
+    -87.278612,
+    41.569683,
+    -87.278612,
+    41.569683
+],
   "geometry": {"coordinates":[-87.278612,41.569683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354094985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.166607,40.879205,-85.166607,40.879205",
     "geom:latitude":40.879205,
     "geom:longitude":-85.166607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Jefferson St",
     "sg:city":"Ossian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354094985,
-    "wof:lastmodified":1449067022,
+    "wof:lastmodified":1466502990,
     "wof:name":"K & M Asphalt Sealing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-85.166607,40.879205,-85.166607,40.879205],
+  "bbox": [
+    -85.166607,
+    40.879205,
+    -85.166607,
+    40.879205
+],
   "geometry": {"coordinates":[-85.166607,40.879205],"type":"Point"}
 }

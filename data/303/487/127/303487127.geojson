@@ -2,13 +2,14 @@
   "id": 303487127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.206201,39.72915,-86.206201,39.72915",
     "geom:latitude":39.72915,
     "geom:longitude":-86.206201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2577 Kentucky Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303487127,
-    "wof:lastmodified":1448998916,
+    "wof:lastmodified":1466503713,
     "wof:name":"Indianapolis Stockyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "livestock"
     ]
 },
-  "bbox": [-86.206201,39.72915,-86.206201,39.72915],
-  "geometry": {"coordinates":[-86.206201,39.72915],"type":"Point"}
+  "bbox": [
+    -86.206201,
+    39.72915,
+    -86.206201,
+    39.72915
+],
+  "geometry": {"coordinates":[-86.20620099999999,39.72915],"type":"Point"}
 }

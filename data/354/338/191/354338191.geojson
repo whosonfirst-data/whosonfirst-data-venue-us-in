@@ -2,13 +2,14 @@
   "id": 354338191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.112902,41.033622,-85.112902,41.033622",
     "geom:latitude":41.033622,
     "geom:longitude":-85.112902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 S Anthony Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354338191,
-    "wof:lastmodified":1449066506,
+    "wof:lastmodified":1466503352,
     "wof:name":"South Anthony Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-85.112902,41.033622,-85.112902,41.033622],
-  "geometry": {"coordinates":[-85.112902,41.033622],"type":"Point"}
+  "bbox": [
+    -85.112902,
+    41.033622,
+    -85.112902,
+    41.033622
+],
+  "geometry": {"coordinates":[-85.11290200000001,41.033622],"type":"Point"}
 }

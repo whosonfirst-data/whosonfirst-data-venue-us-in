@@ -2,13 +2,14 @@
   "id": 387003751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.247553,39.973641,-86.247553,39.973641",
     "geom:latitude":39.973641,
     "geom:longitude":-86.247553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4721 Woods Edge Dr",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387003751,
-    "wof:lastmodified":1449059618,
+    "wof:lastmodified":1466502885,
     "wof:name":"H B Green Machinery Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tool"
     ]
 },
-  "bbox": [-86.247553,39.973641,-86.247553,39.973641],
+  "bbox": [
+    -86.247553,
+    39.973641,
+    -86.247553,
+    39.973641
+],
   "geometry": {"coordinates":[-86.247553,39.973641],"type":"Point"}
 }

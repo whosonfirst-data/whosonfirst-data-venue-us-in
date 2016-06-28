@@ -2,13 +2,14 @@
   "id": 370407719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.528524,38.900675,-86.528524,38.900675",
     "geom:latitude":38.900675,
     "geom:longitude":-86.528524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Main St",
     "sg:city":"Oolitic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370407719,
-    "wof:lastmodified":1449030942,
+    "wof:lastmodified":1466503180,
     "wof:name":"Hawkin's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.528524,38.900675,-86.528524,38.900675],
+  "bbox": [
+    -86.528524,
+    38.900675,
+    -86.528524,
+    38.900675
+],
   "geometry": {"coordinates":[-86.528524,38.900675],"type":"Point"}
 }

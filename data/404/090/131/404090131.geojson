@@ -2,13 +2,14 @@
   "id": 404090131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.502527,40.880942,-85.502527,40.880942",
     "geom:latitude":40.880942,
     "geom:longitude":-85.502527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 W Tipton St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404090131,
-    "wof:lastmodified":1449040038,
+    "wof:lastmodified":1466503012,
     "wof:name":"Maintenance More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-85.502527,40.880942,-85.502527,40.880942],
+  "bbox": [
+    -85.502527,
+    40.880942,
+    -85.502527,
+    40.880942
+],
   "geometry": {"coordinates":[-85.502527,40.880942],"type":"Point"}
 }

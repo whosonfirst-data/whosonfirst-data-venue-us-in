@@ -2,13 +2,14 @@
   "id": 354111243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.857826,40.39547,-86.857826,40.39547",
     "geom:latitude":40.39547,
     "geom:longitude":-86.857826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Teal Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354111243,
-    "wof:lastmodified":1449067707,
+    "wof:lastmodified":1466503011,
     "wof:name":"PTC",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.857826,40.39547,-86.857826,40.39547],
+  "bbox": [
+    -86.857826,
+    40.39547,
+    -86.857826,
+    40.39547
+],
   "geometry": {"coordinates":[-86.857826,40.39547],"type":"Point"}
 }

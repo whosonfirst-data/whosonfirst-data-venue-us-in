@@ -2,13 +2,14 @@
   "id": 336745795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964515,41.606591,-85.964515,41.606591",
     "geom:latitude":41.606591,
     "geom:longitude":-85.964515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61155 Co Rd 9",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336745795,
-    "wof:lastmodified":1448997955,
+    "wof:lastmodified":1466503077,
     "wof:name":"Clc Landscaping",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.964515,41.606591,-85.964515,41.606591],
-  "geometry": {"coordinates":[-85.964515,41.606591],"type":"Point"}
+  "bbox": [
+    -85.964515,
+    41.606591,
+    -85.964515,
+    41.606591
+],
+  "geometry": {"coordinates":[-85.96451500000001,41.606591],"type":"Point"}
 }

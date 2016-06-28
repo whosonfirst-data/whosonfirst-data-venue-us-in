@@ -2,13 +2,14 @@
   "id": 387737513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.426224,41.736985,-85.426224,41.736985",
     "geom:latitude":41.736985,
     "geom:longitude":-85.426224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 State Rd 9",
     "sg:city":"Howe",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387737513,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1466503892,
     "wof:name":"Multi-Plex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamping"
     ]
 },
-  "bbox": [-85.426224,41.736985,-85.426224,41.736985],
+  "bbox": [
+    -85.426224,
+    41.736985,
+    -85.426224,
+    41.736985
+],
   "geometry": {"coordinates":[-85.426224,41.736985],"type":"Point"}
 }

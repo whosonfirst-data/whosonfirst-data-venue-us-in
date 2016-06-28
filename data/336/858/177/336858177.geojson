@@ -2,13 +2,14 @@
   "id": 336858177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.344016,41.338634,-86.344016,41.338634",
     "geom:latitude":41.338634,
     "geom:longitude":-86.344016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9595 Deer Trl",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336858177,
-    "wof:lastmodified":1448997041,
+    "wof:lastmodified":1466503223,
     "wof:name":"Wenzel Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "home"
     ]
 },
-  "bbox": [-86.344016,41.338634,-86.344016,41.338634],
+  "bbox": [
+    -86.344016,
+    41.338634,
+    -86.344016,
+    41.338634
+],
   "geometry": {"coordinates":[-86.344016,41.338634],"type":"Point"}
 }

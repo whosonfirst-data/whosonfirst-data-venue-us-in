@@ -2,13 +2,14 @@
   "id": 371031673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481826,38.971221,-87.481826,38.971221",
     "geom:latitude":38.971221,
     "geom:longitude":-87.481826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7598 S Co Rd 400 W",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371031673,
-    "wof:lastmodified":1449049409,
+    "wof:lastmodified":1466502909,
     "wof:name":"Howard Unger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.481826,38.971221,-87.481826,38.971221],
+  "bbox": [
+    -87.481826,
+    38.971221,
+    -87.481826,
+    38.971221
+],
   "geometry": {"coordinates":[-87.481826,38.971221],"type":"Point"}
 }

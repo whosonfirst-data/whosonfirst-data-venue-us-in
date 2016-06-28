@@ -2,13 +2,14 @@
   "id": 336796825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.875955,39.236559,-85.875955,39.236559",
     "geom:latitude":39.236559,
     "geom:longitude":-85.875955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Chipper Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336796825,
-    "wof:lastmodified":1448997457,
+    "wof:lastmodified":1466503143,
     "wof:name":"Londeree Constr & Fencing",
     "wof:parent_id":85840693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.875955,39.236559,-85.875955,39.236559],
+  "bbox": [
+    -85.875955,
+    39.236559,
+    -85.875955,
+    39.236559
+],
   "geometry": {"coordinates":[-85.875955,39.236559],"type":"Point"}
 }

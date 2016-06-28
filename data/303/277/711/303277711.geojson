@@ -2,13 +2,14 @@
   "id": 303277711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119152,39.447436,-86.119152,39.447436",
     "geom:latitude":39.447436,
     "geom:longitude":-86.119152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 Co Rd 100 W",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303277711,
-    "wof:lastmodified":1448998397,
+    "wof:lastmodified":1466503561,
     "wof:name":"William F Nimmow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.119152,39.447436,-86.119152,39.447436],
+  "bbox": [
+    -86.119152,
+    39.447436,
+    -86.119152,
+    39.447436
+],
   "geometry": {"coordinates":[-86.119152,39.447436],"type":"Point"}
 }

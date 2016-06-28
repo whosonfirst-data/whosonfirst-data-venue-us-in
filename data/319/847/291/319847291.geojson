@@ -2,13 +2,14 @@
   "id": 319847291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.43722,39.407202,-86.43722,39.407202",
     "geom:latitude":39.407202,
     "geom:longitude":-86.43722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Burton Ln",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319847291,
-    "wof:lastmodified":1449024355,
+    "wof:lastmodified":1466503558,
     "wof:name":"Sgt Pepper Chicken",
     "wof:parent_id":85833227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.43722,39.407202,-86.43722,39.407202],
+  "bbox": [
+    -86.43722,
+    39.407202,
+    -86.43722,
+    39.407202
+],
   "geometry": {"coordinates":[-86.43722,39.407202],"type":"Point"}
 }

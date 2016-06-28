@@ -2,13 +2,14 @@
   "id": 370773215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.981333,41.693901,-85.981333,41.693901",
     "geom:latitude":41.693901,
     "geom:longitude":-85.981333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 Edwardsburg Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370773215,
-    "wof:lastmodified":1449029521,
+    "wof:lastmodified":1466503562,
     "wof:name":"Sam Winer & Co Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "iron"
     ]
 },
-  "bbox": [-85.981333,41.693901,-85.981333,41.693901],
-  "geometry": {"coordinates":[-85.981333,41.693901],"type":"Point"}
+  "bbox": [
+    -85.981333,
+    41.693901,
+    -85.981333,
+    41.693901
+],
+  "geometry": {"coordinates":[-85.98133300000001,41.693901],"type":"Point"}
 }

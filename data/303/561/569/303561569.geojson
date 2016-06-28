@@ -2,13 +2,14 @@
   "id": 303561569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.163866,41.120437,-85.163866,41.120437",
     "geom:latitude":41.120437,
     "geom:longitude":-85.163866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Production Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303561569,
-    "wof:lastmodified":1448999853,
+    "wof:lastmodified":1466503752,
     "wof:name":"Cirrus ABS Corp",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-85.163866,41.120437,-85.163866,41.120437],
+  "bbox": [
+    -85.163866,
+    41.120437,
+    -85.163866,
+    41.120437
+],
   "geometry": {"coordinates":[-85.163866,41.120437],"type":"Point"}
 }

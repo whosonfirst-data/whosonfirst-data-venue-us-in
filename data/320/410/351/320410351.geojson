@@ -2,13 +2,14 @@
   "id": 320410351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.466094,39.568039,-86.466094,39.568039",
     "geom:latitude":39.568039,
     "geom:longitude":-86.466094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9790 W Union Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320410351,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1466503066,
     "wof:name":"Grv Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.466094,39.568039,-86.466094,39.568039],
+  "bbox": [
+    -86.466094,
+    39.568039,
+    -86.466094,
+    39.568039
+],
   "geometry": {"coordinates":[-86.466094,39.568039],"type":"Point"}
 }

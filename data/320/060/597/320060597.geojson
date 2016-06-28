@@ -2,13 +2,14 @@
   "id": 320060597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.714783,38.33474,-85.714783,38.33474",
     "geom:latitude":38.33474,
     "geom:longitude":-85.714783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Forest Ct",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320060597,
-    "wof:lastmodified":1449014625,
+    "wof:lastmodified":1466503684,
     "wof:name":"A Rusty Mower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.714783,38.33474,-85.714783,38.33474],
+  "bbox": [
+    -85.714783,
+    38.33474,
+    -85.714783,
+    38.33474
+],
   "geometry": {"coordinates":[-85.714783,38.33474],"type":"Point"}
 }

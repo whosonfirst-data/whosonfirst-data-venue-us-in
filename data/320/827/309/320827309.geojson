@@ -2,13 +2,14 @@
   "id": 320827309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.03958,39.750307,-86.03958,39.750307",
     "geom:latitude":39.750307,
     "geom:longitude":-86.03958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Sadlier Circle W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320827309,
-    "wof:lastmodified":1449012615,
+    "wof:lastmodified":1466503532,
     "wof:name":"Conveyor Parts Specialist",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conveying"
     ]
 },
-  "bbox": [-86.03958,39.750307,-86.03958,39.750307],
+  "bbox": [
+    -86.03958,
+    39.750307,
+    -86.03958,
+    39.750307
+],
   "geometry": {"coordinates":[-86.03958,39.750307],"type":"Point"}
 }

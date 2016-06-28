@@ -2,13 +2,14 @@
   "id": 403721167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.868954,41.435363,-84.868954,41.435363",
     "geom:latitude":41.435363,
     "geom:longitude":-84.868954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Northcrest Trailer Ct",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403721167,
-    "wof:lastmodified":1449055960,
+    "wof:lastmodified":1466502907,
     "wof:name":"Northcrest Mobile Home Cmnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-84.868954,41.435363,-84.868954,41.435363],
+  "bbox": [
+    -84.868954,
+    41.435363,
+    -84.868954,
+    41.435363
+],
   "geometry": {"coordinates":[-84.868954,41.435363],"type":"Point"}
 }

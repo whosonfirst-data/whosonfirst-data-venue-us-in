@@ -2,13 +2,14 @@
   "id": 370892737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.243594,41.039157,-85.243594,41.039157",
     "geom:latitude":41.039157,
     "geom:longitude":-85.243594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7836 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370892737,
-    "wof:lastmodified":1449029586,
+    "wof:lastmodified":1466503697,
     "wof:name":"Lutheran Hospital Weight Mgmt",
     "wof:parent_id":85807473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [-85.243594,41.039157,-85.243594,41.039157],
+  "bbox": [
+    -85.243594,
+    41.039157,
+    -85.243594,
+    41.039157
+],
   "geometry": {"coordinates":[-85.243594,41.039157],"type":"Point"}
 }

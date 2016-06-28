@@ -2,13 +2,14 @@
   "id": 387061423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.155583,40.757061,-85.155583,40.757061",
     "geom:latitude":40.757061,
     "geom:longitude":-85.155583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 E Dustman Rd",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387061423,
-    "wof:lastmodified":1449058858,
+    "wof:lastmodified":1466502967,
     "wof:name":"Task Pro's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.155583,40.757061,-85.155583,40.757061],
-  "geometry": {"coordinates":[-85.155583,40.757061],"type":"Point"}
+  "bbox": [
+    -85.155583,
+    40.757061,
+    -85.155583,
+    40.757061
+],
+  "geometry": {"coordinates":[-85.15558299999999,40.757061],"type":"Point"}
 }

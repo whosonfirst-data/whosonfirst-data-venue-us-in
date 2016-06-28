@@ -2,13 +2,14 @@
   "id": 303651197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278705,39.940759,-86.278705,39.940759",
     "geom:latitude":39.940759,
     "geom:longitude":-86.278705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6905 S Ford Rd",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303651197,
-    "wof:lastmodified":1448998601,
+    "wof:lastmodified":1466502928,
     "wof:name":"Floral & Hardy",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.278705,39.940759,-86.278705,39.940759],
+  "bbox": [
+    -86.278705,
+    39.940759,
+    -86.278705,
+    39.940759
+],
   "geometry": {"coordinates":[-86.278705,39.940759],"type":"Point"}
 }

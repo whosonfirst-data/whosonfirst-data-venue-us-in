@@ -2,13 +2,14 @@
   "id": 336878331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.189377,41.661591,-86.189377,41.661591",
     "geom:latitude":41.661591,
     "geom:longitude":-86.189377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Center St",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336878331,
-    "wof:lastmodified":1448997516,
+    "wof:lastmodified":1466503246,
     "wof:name":"Theologys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-86.189377,41.661591,-86.189377,41.661591],
-  "geometry": {"coordinates":[-86.189377,41.661591],"type":"Point"}
+  "bbox": [
+    -86.189377,
+    41.661591,
+    -86.189377,
+    41.661591
+],
+  "geometry": {"coordinates":[-86.18937699999999,41.661591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319862163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.937034,39.025022,-86.937034,39.025022",
     "geom:latitude":39.025022,
     "geom:longitude":-86.937034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Mechanic St",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319862163,
-    "wof:lastmodified":1449024907,
+    "wof:lastmodified":1466503576,
     "wof:name":"Guys & Gals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.937034,39.025022,-86.937034,39.025022],
+  "bbox": [
+    -86.937034,
+    39.025022,
+    -86.937034,
+    39.025022
+],
   "geometry": {"coordinates":[-86.937034,39.025022],"type":"Point"}
 }

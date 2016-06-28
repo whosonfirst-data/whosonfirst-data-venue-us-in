@@ -2,13 +2,14 @@
   "id": 336709743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131577,39.912595,-86.131577,39.912595",
     "geom:latitude":39.912595,
     "geom:longitude":-86.131577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336709743,
-    "wof:lastmodified":1448997164,
+    "wof:lastmodified":1466503027,
     "wof:name":"David & Mary",
     "wof:parent_id":85848299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.131577,39.912595,-86.131577,39.912595],
-  "geometry": {"coordinates":[-86.131577,39.912595],"type":"Point"}
+  "bbox": [
+    -86.131577,
+    39.912595,
+    -86.131577,
+    39.912595
+],
+  "geometry": {"coordinates":[-86.13157699999999,39.912595],"type":"Point"}
 }

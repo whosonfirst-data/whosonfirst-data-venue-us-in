@@ -2,13 +2,14 @@
   "id": 354352511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569525,37.98031,-87.569525,37.98031",
     "geom:latitude":37.98031,
     "geom:longitude":-87.569525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W Franklin St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354352511,
-    "wof:lastmodified":1449066983,
+    "wof:lastmodified":1466503379,
     "wof:name":"Performance Refinish Supl Inc",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-87.569525,37.98031,-87.569525,37.98031],
+  "bbox": [
+    -87.569525,
+    37.98031,
+    -87.569525,
+    37.98031
+],
   "geometry": {"coordinates":[-87.569525,37.98031],"type":"Point"}
 }

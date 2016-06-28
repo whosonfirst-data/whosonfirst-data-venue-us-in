@@ -2,13 +2,14 @@
   "id": 320740379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471363,41.519343,-87.471363,41.519343",
     "geom:latitude":41.519343,
     "geom:longitude":-87.471363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 US Hwy 41",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320740379,
-    "wof:lastmodified":1449012948,
+    "wof:lastmodified":1466503447,
     "wof:name":"Town Square Shopping Ctr LLC",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-87.471363,41.519343,-87.471363,41.519343],
+  "bbox": [
+    -87.471363,
+    41.519343,
+    -87.471363,
+    41.519343
+],
   "geometry": {"coordinates":[-87.471363,41.519343],"type":"Point"}
 }

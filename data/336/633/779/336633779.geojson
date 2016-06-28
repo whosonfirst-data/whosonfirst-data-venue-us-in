@@ -2,13 +2,14 @@
   "id": 336633779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.886736,40.036622,-86.886736,40.036622",
     "geom:latitude":40.036622,
     "geom:longitude":-86.886736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Oak St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336633779,
-    "wof:lastmodified":1448997995,
+    "wof:lastmodified":1466502931,
     "wof:name":"Pamela A Burton",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-86.886736,40.036622,-86.886736,40.036622],
+  "bbox": [
+    -86.886736,
+    40.036622,
+    -86.886736,
+    40.036622
+],
   "geometry": {"coordinates":[-86.886736,40.036622],"type":"Point"}
 }

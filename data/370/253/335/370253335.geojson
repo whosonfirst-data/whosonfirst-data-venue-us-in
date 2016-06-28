@@ -2,13 +2,14 @@
   "id": 370253335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.548554,37.975549,-87.548554,37.975549",
     "geom:latitude":37.975549,
     "geom:longitude":-87.548554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 E Sycamore St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370253335,
-    "wof:lastmodified":1449032058,
+    "wof:lastmodified":1466503017,
     "wof:name":"Schweizer's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.548554,37.975549,-87.548554,37.975549],
+  "bbox": [
+    -87.548554,
+    37.975549,
+    -87.548554,
+    37.975549
+],
   "geometry": {"coordinates":[-87.548554,37.975549],"type":"Point"}
 }

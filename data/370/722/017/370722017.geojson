@@ -2,13 +2,14 @@
   "id": 370722017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.113449,41.020078,-87.113449,41.020078",
     "geom:latitude":41.020078,
     "geom:longitude":-87.113449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 N 350 W",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370722017,
-    "wof:lastmodified":1449030278,
+    "wof:lastmodified":1466503510,
     "wof:name":"Nuss Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.113449,41.020078,-87.113449,41.020078],
+  "bbox": [
+    -87.113449,
+    41.020078,
+    -87.113449,
+    41.020078
+],
   "geometry": {"coordinates":[-87.113449,41.020078],"type":"Point"}
 }

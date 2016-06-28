@@ -2,13 +2,14 @@
   "id": 387939945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.272498,41.569576,-87.272498,41.569576",
     "geom:latitude":41.569576,
     "geom:longitude":-87.272498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 Central Ave",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387939945,
-    "wof:lastmodified":1449057215,
+    "wof:lastmodified":1466504190,
     "wof:name":"Cash Indiana Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-87.272498,41.569576,-87.272498,41.569576],
+  "bbox": [
+    -87.272498,
+    41.569576,
+    -87.272498,
+    41.569576
+],
   "geometry": {"coordinates":[-87.272498,41.569576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303224151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.646371,40.105791,-85.646371,40.105791",
     "geom:latitude":40.105791,
     "geom:longitude":-85.646371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 E 10th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303224151,
-    "wof:lastmodified":1448999904,
+    "wof:lastmodified":1466503483,
     "wof:name":"Hollons Panorama Pharmacies",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-85.646371,40.105791,-85.646371,40.105791],
+  "bbox": [
+    -85.646371,
+    40.105791,
+    -85.646371,
+    40.105791
+],
   "geometry": {"coordinates":[-85.646371,40.105791],"type":"Point"}
 }

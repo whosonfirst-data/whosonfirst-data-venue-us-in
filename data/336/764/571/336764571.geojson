@@ -2,13 +2,14 @@
   "id": 336764571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.167264,39.010563,-85.167264,39.010563",
     "geom:latitude":39.010563,
     "geom:longitude":-85.167264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4852 S Friendship Rd",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336764571,
-    "wof:lastmodified":1448997954,
+    "wof:lastmodified":1466503101,
     "wof:name":"F & G Laughery Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hunting"
     ]
 },
-  "bbox": [-85.167264,39.010563,-85.167264,39.010563],
+  "bbox": [
+    -85.167264,
+    39.010563,
+    -85.167264,
+    39.010563
+],
   "geometry": {"coordinates":[-85.167264,39.010563],"type":"Point"}
 }

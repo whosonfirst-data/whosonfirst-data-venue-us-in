@@ -2,13 +2,14 @@
   "id": 387369143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.042728,39.892848,-85.042728,39.892848",
     "geom:latitude":39.892848,
     "geom:longitude":-85.042728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Pearl St",
     "sg:city":"Greens Fork",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387369143,
-    "wof:lastmodified":1449059724,
+    "wof:lastmodified":1466503398,
     "wof:name":"Greensfork Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-85.042728,39.892848,-85.042728,39.892848],
+  "bbox": [
+    -85.042728,
+    39.892848,
+    -85.042728,
+    39.892848
+],
   "geometry": {"coordinates":[-85.042728,39.892848],"type":"Point"}
 }

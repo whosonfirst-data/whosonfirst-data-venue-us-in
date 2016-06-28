@@ -2,13 +2,14 @@
   "id": 386999003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.772817,39.521981,-85.772817,39.521981",
     "geom:latitude":39.521981,
     "geom:longitude":-85.772817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Noble St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386999003,
-    "wof:lastmodified":1449028930,
+    "wof:lastmodified":1466502976,
     "wof:name":"Old Hickory Furniture Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [-85.772817,39.521981,-85.772817,39.521981],
+  "bbox": [
+    -85.772817,
+    39.521981,
+    -85.772817,
+    39.521981
+],
   "geometry": {"coordinates":[-85.772817,39.521981],"type":"Point"}
 }

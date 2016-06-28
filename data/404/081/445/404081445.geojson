@@ -2,13 +2,14 @@
   "id": 404081445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.130972,41.175558,-85.130972,41.175558",
     "geom:latitude":41.175558,
     "geom:longitude":-85.130972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10264 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404081445,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466502993,
     "wof:name":"City Super Buffet",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.130972,41.175558,-85.130972,41.175558],
+  "bbox": [
+    -85.130972,
+    41.175558,
+    -85.130972,
+    41.175558
+],
   "geometry": {"coordinates":[-85.130972,41.175558],"type":"Point"}
 }

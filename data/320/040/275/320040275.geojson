@@ -2,13 +2,14 @@
   "id": 320040275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.887755,40.419053,-86.887755,40.419053",
     "geom:latitude":40.419053,
     "geom:longitude":-86.887755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320040275,
-    "wof:lastmodified":1449014856,
+    "wof:lastmodified":1466503671,
     "wof:name":"Family Services Inc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-86.887755,40.419053,-86.887755,40.419053],
+  "bbox": [
+    -86.887755,
+    40.419053,
+    -86.887755,
+    40.419053
+],
   "geometry": {"coordinates":[-86.887755,40.419053],"type":"Point"}
 }

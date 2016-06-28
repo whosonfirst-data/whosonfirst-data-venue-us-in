@@ -2,13 +2,14 @@
   "id": 353516381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.15678,39.825643,-86.15678,39.825643",
     "geom:latitude":39.825643,
     "geom:longitude":-86.15678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353516381,
-    "wof:lastmodified":1449018744,
+    "wof:lastmodified":1466502968,
     "wof:name":"Pediatric Rehabilitation Of In",
     "wof:parent_id":85832319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-86.15678,39.825643,-86.15678,39.825643],
+  "bbox": [
+    -86.15678,
+    39.825643,
+    -86.15678,
+    39.825643
+],
   "geometry": {"coordinates":[-86.15678,39.825643],"type":"Point"}
 }

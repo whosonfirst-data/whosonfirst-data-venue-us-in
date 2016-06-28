@@ -2,13 +2,14 @@
   "id": 320124845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.210551,39.616601,-86.210551,39.616601",
     "geom:latitude":39.616601,
     "geom:longitude":-86.210551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Bluff Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320124845,
-    "wof:lastmodified":1449014676,
+    "wof:lastmodified":1466503715,
     "wof:name":"Hoosier Asbestos Abatement Inc",
     "wof:parent_id":85821965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [-86.210551,39.616601,-86.210551,39.616601],
+  "bbox": [
+    -86.210551,
+    39.616601,
+    -86.210551,
+    39.616601
+],
   "geometry": {"coordinates":[-86.210551,39.616601],"type":"Point"}
 }

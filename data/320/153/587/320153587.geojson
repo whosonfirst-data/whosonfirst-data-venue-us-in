@@ -2,13 +2,14 @@
   "id": 320153587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399557,39.763408,-86.399557,39.763408",
     "geom:latitude":39.763408,
     "geom:longitude":-86.399557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 State Rd 267",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320153587,
-    "wof:lastmodified":1449013845,
+    "wof:lastmodified":1466503736,
     "wof:name":"Suzy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.399557,39.763408,-86.399557,39.763408],
+  "bbox": [
+    -86.399557,
+    39.763408,
+    -86.399557,
+    39.763408
+],
   "geometry": {"coordinates":[-86.399557,39.763408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403797827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.651954,40.415677,-85.651954,40.415677",
     "geom:latitude":40.415677,
     "geom:longitude":-85.651954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Washington St",
     "sg:city":"Fairmount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403797827,
-    "wof:lastmodified":1449055837,
+    "wof:lastmodified":1466503013,
     "wof:name":"Fairmount Fire Dept",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.651954,40.415677,-85.651954,40.415677],
+  "bbox": [
+    -85.651954,
+    40.415677,
+    -85.651954,
+    40.415677
+],
   "geometry": {"coordinates":[-85.651954,40.415677],"type":"Point"}
 }

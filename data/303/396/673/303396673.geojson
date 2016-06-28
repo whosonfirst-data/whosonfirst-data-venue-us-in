@@ -2,13 +2,14 @@
   "id": 303396673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611885,39.048362,-86.611885,39.048362",
     "geom:latitude":39.048362,
     "geom:longitude":-86.611885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8135 S Rockport Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303396673,
-    "wof:lastmodified":1448999722,
+    "wof:lastmodified":1466503654,
     "wof:name":"Miller-Wear",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gay"
     ]
 },
-  "bbox": [-86.611885,39.048362,-86.611885,39.048362],
+  "bbox": [
+    -86.611885,
+    39.048362,
+    -86.611885,
+    39.048362
+],
   "geometry": {"coordinates":[-86.611885,39.048362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336925235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040791,39.899702,-86.040791,39.899702",
     "geom:latitude":39.899702,
     "geom:longitude":-86.040791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 Clearvista Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336925235,
-    "wof:lastmodified":1448996928,
+    "wof:lastmodified":1466503302,
     "wof:name":"Debra Havill",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-86.040791,39.899702,-86.040791,39.899702],
+  "bbox": [
+    -86.040791,
+    39.899702,
+    -86.040791,
+    39.899702
+],
   "geometry": {"coordinates":[-86.040791,39.899702],"type":"Point"}
 }

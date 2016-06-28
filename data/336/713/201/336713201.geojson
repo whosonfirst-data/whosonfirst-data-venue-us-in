@@ -2,13 +2,14 @@
   "id": 336713201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026235,40.050068,-86.026235,40.050068",
     "geom:latitude":40.050068,
     "geom:longitude":-86.026235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Sheridan Rd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336713201,
-    "wof:lastmodified":1448997920,
+    "wof:lastmodified":1466503033,
     "wof:name":"Deakyne Peggyy-Graves Realto",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.026235,40.050068,-86.026235,40.050068],
+  "bbox": [
+    -86.026235,
+    40.050068,
+    -86.026235,
+    40.050068
+],
   "geometry": {"coordinates":[-86.026235,40.050068],"type":"Point"}
 }

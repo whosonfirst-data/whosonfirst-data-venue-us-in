@@ -2,13 +2,14 @@
   "id": 404096523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.079423,39.994437,-86.079423,39.994437",
     "geom:latitude":39.994437,
     "geom:longitude":-86.079423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5291 Charles Ct",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404096523,
-    "wof:lastmodified":1449039401,
+    "wof:lastmodified":1466503020,
     "wof:name":"Clancy Fishero & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-86.079423,39.994437,-86.079423,39.994437],
-  "geometry": {"coordinates":[-86.079423,39.994437],"type":"Point"}
+  "bbox": [
+    -86.079423,
+    39.994437,
+    -86.079423,
+    39.994437
+],
+  "geometry": {"coordinates":[-86.07942300000001,39.994437],"type":"Point"}
 }

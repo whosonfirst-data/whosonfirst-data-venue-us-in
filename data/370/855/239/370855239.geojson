@@ -2,13 +2,14 @@
   "id": 370855239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005104,39.134982,-86.005104,39.134982",
     "geom:latitude":39.134982,
     "geom:longitude":-86.005104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6881 S 500 W",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370855239,
-    "wof:lastmodified":1449031587,
+    "wof:lastmodified":1466503648,
     "wof:name":"Pruitt Custome Homes",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.005104,39.134982,-86.005104,39.134982],
+  "bbox": [
+    -86.005104,
+    39.134982,
+    -86.005104,
+    39.134982
+],
   "geometry": {"coordinates":[-86.005104,39.134982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386952223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.340605,41.602122,-87.340605,41.602122",
     "geom:latitude":41.602122,
     "geom:longitude":-87.340605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W 5th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":386952223,
-    "wof:lastmodified":1449028854,
+    "wof:lastmodified":1466502916,
     "wof:name":"Gary Public Library",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.340605,41.602122,-87.340605,41.602122],
+  "bbox": [
+    -87.340605,
+    41.602122,
+    -87.340605,
+    41.602122
+],
   "geometry": {"coordinates":[-87.340605,41.602122],"type":"Point"}
 }

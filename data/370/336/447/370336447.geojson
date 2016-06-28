@@ -2,13 +2,14 @@
   "id": 370336447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.614015,37.976047,-87.614015,37.976047",
     "geom:latitude":37.976047,
     "geom:longitude":-87.614015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 Hillcrest Ter",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370336447,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1466503114,
     "wof:name":"St James West Umc Pre-School",
     "wof:parent_id":85877309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-87.614015,37.976047,-87.614015,37.976047],
-  "geometry": {"coordinates":[-87.614015,37.976047],"type":"Point"}
+  "bbox": [
+    -87.614015,
+    37.976047,
+    -87.614015,
+    37.976047
+],
+  "geometry": {"coordinates":[-87.61401499999999,37.976047],"type":"Point"}
 }

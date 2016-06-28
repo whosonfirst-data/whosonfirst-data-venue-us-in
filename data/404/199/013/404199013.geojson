@@ -2,13 +2,14 @@
   "id": 404199013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207174,39.807999,-86.207174,39.807999",
     "geom:latitude":39.807999,
     "geom:longitude":-86.207174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2931 N Warman Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":404199013,
-    "wof:lastmodified":1449039143,
+    "wof:lastmodified":1466503154,
     "wof:name":"Seven Flags Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207174,39.807999,-86.207174,39.807999],
-  "geometry": {"coordinates":[-86.207174,39.807999],"type":"Point"}
+  "bbox": [
+    -86.207174,
+    39.807999,
+    -86.207174,
+    39.807999
+],
+  "geometry": {"coordinates":[-86.20717399999999,39.807999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303946373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.852603,40.410312,-86.852603,40.410312",
     "geom:latitude":40.410312,
     "geom:longitude":-86.852603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 Kossuth St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303946373,
-    "wof:lastmodified":1449000273,
+    "wof:lastmodified":1466503303,
     "wof:name":"Illusion Motor Sports",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-86.852603,40.410312,-86.852603,40.410312],
+  "bbox": [
+    -86.852603,
+    40.410312,
+    -86.852603,
+    40.410312
+],
   "geometry": {"coordinates":[-86.852603,40.410312],"type":"Point"}
 }

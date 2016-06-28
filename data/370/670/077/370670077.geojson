@@ -2,13 +2,14 @@
   "id": 370670077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.534853,39.169495,-86.534853,39.169495",
     "geom:latitude":39.169495,
     "geom:longitude":-86.534853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N College Ave",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370670077,
-    "wof:lastmodified":1449029594,
+    "wof:lastmodified":1466503467,
     "wof:name":"Monroe County Circuit Ct Clerk",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-86.534853,39.169495,-86.534853,39.169495],
+  "bbox": [
+    -86.534853,
+    39.169495,
+    -86.534853,
+    39.169495
+],
   "geometry": {"coordinates":[-86.534853,39.169495],"type":"Point"}
 }

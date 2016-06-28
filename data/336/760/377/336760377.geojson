@@ -2,13 +2,14 @@
   "id": 336760377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.06665,39.646355,-86.06665,39.646355",
     "geom:latitude":39.646355,
     "geom:longitude":-86.06665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 Southern Springs Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336760377,
-    "wof:lastmodified":1448997958,
+    "wof:lastmodified":1466503095,
     "wof:name":"Heart To Home Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.06665,39.646355,-86.06665,39.646355],
+  "bbox": [
+    -86.06665,
+    39.646355,
+    -86.06665,
+    39.646355
+],
   "geometry": {"coordinates":[-86.06665,39.646355],"type":"Point"}
 }

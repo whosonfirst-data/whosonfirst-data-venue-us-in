@@ -2,13 +2,14 @@
   "id": 320211411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.210319,40.374151,-85.210319,40.374151",
     "geom:latitude":40.374151,
     "geom:longitude":-85.210319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Main St",
     "sg:city":"Dunkirk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320211411,
-    "wof:lastmodified":1449012179,
+    "wof:lastmodified":1466503763,
     "wof:name":"Dunkirk News & Sun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-85.210319,40.374151,-85.210319,40.374151],
+  "bbox": [
+    -85.210319,
+    40.374151,
+    -85.210319,
+    40.374151
+],
   "geometry": {"coordinates":[-85.210319,40.374151],"type":"Point"}
 }

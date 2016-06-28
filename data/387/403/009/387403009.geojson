@@ -2,13 +2,14 @@
   "id": 387403009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.850701,40.5177,-86.850701,40.5177",
     "geom:latitude":40.5177,
     "geom:longitude":-86.850701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 Baldwin Dr E",
     "sg:city":"Battle Ground",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387403009,
-    "wof:lastmodified":1449059392,
+    "wof:lastmodified":1466503442,
     "wof:name":"Colliver Heating & Cooling",
     "wof:parent_id":85843885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.850701,40.5177,-86.850701,40.5177],
+  "bbox": [
+    -86.850701,
+    40.5177,
+    -86.850701,
+    40.5177
+],
   "geometry": {"coordinates":[-86.850701,40.5177],"type":"Point"}
 }

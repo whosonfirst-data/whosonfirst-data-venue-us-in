@@ -2,13 +2,14 @@
   "id": 304063725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.480997,41.587186,-87.480997,41.587186",
     "geom:latitude":41.587186,
     "geom:longitude":-87.480997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6938 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":304063725,
-    "wof:lastmodified":1449043614,
+    "wof:lastmodified":1466503491,
     "wof:name":"Three Sisters Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.480997,41.587186,-87.480997,41.587186],
+  "bbox": [
+    -87.480997,
+    41.587186,
+    -87.480997,
+    41.587186
+],
   "geometry": {"coordinates":[-87.480997,41.587186],"type":"Point"}
 }

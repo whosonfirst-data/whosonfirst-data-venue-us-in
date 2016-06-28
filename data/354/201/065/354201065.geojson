@@ -2,13 +2,14 @@
   "id": 354201065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.159585,39.635011,-86.159585,39.635011",
     "geom:latitude":39.635011,
     "geom:longitude":-86.159585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 W County Line Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354201065,
-    "wof:lastmodified":1449067442,
+    "wof:lastmodified":1466503138,
     "wof:name":"Mike Duncan Real Estate Group",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.159585,39.635011,-86.159585,39.635011],
-  "geometry": {"coordinates":[-86.159585,39.635011],"type":"Point"}
+  "bbox": [
+    -86.159585,
+    39.635011,
+    -86.159585,
+    39.635011
+],
+  "geometry": {"coordinates":[-86.15958500000001,39.635011],"type":"Point"}
 }

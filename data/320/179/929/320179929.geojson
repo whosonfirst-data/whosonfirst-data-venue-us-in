@@ -2,13 +2,14 @@
   "id": 320179929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.000541,41.671157,-86.000541,41.671157",
     "geom:latitude":41.671157,
     "geom:longitude":-86.000541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 W Franklin St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320179929,
-    "wof:lastmodified":1449014579,
+    "wof:lastmodified":1466503748,
     "wof:name":"Presentations Casual Fine Dnng",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.000541,41.671157,-86.000541,41.671157],
+  "bbox": [
+    -86.000541,
+    41.671157,
+    -86.000541,
+    41.671157
+],
   "geometry": {"coordinates":[-86.000541,41.671157],"type":"Point"}
 }

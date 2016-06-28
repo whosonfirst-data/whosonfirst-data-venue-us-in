@@ -2,13 +2,14 @@
   "id": 387565593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.910358,38.279076,-85.910358,38.279076",
     "geom:latitude":38.279076,
     "geom:longitude":-85.910358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5228 State Rd 62",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387565593,
-    "wof:lastmodified":1449059582,
+    "wof:lastmodified":1466503669,
     "wof:name":"Fritz Trim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-85.910358,38.279076,-85.910358,38.279076],
+  "bbox": [
+    -85.910358,
+    38.279076,
+    -85.910358,
+    38.279076
+],
   "geometry": {"coordinates":[-85.910358,38.279076],"type":"Point"}
 }

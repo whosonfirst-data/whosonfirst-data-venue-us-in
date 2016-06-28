@@ -2,13 +2,14 @@
   "id": 403858005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.038626,39.469314,-86.038626,39.469314",
     "geom:latitude":39.469314,
     "geom:longitude":-86.038626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 State St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403858005,
-    "wof:lastmodified":1449054772,
+    "wof:lastmodified":1466503105,
     "wof:name":"Indiana Grand Chapter OES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.038626,39.469314,-86.038626,39.469314],
-  "geometry": {"coordinates":[-86.038626,39.469314],"type":"Point"}
+  "bbox": [
+    -86.038626,
+    39.469314,
+    -86.038626,
+    39.469314
+],
+  "geometry": {"coordinates":[-86.03862599999999,39.469314],"type":"Point"}
 }

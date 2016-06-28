@@ -2,13 +2,14 @@
   "id": 303965459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.044225,39.910063,-86.044225,39.910063",
     "geom:latitude":39.910063,
     "geom:longitude":-86.044225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8455 Castlewood Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303965459,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1466503332,
     "wof:name":"Greek Unlimited Inc",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.044225,39.910063,-86.044225,39.910063],
+  "bbox": [
+    -86.044225,
+    39.910063,
+    -86.044225,
+    39.910063
+],
   "geometry": {"coordinates":[-86.044225,39.910063],"type":"Point"}
 }

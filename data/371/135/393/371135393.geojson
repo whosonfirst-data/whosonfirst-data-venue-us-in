@@ -2,13 +2,14 @@
   "id": 371135393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.447955,41.567024,-87.447955,41.567024",
     "geom:latitude":41.567024,
     "geom:longitude":-87.447955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8042 North Dr",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":371135393,
-    "wof:lastmodified":1449049419,
+    "wof:lastmodified":1466503042,
     "wof:name":"Fly'd Pipers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.447955,41.567024,-87.447955,41.567024],
-  "geometry": {"coordinates":[-87.447955,41.567024],"type":"Point"}
+  "bbox": [
+    -87.447955,
+    41.567024,
+    -87.447955,
+    41.567024
+],
+  "geometry": {"coordinates":[-87.44795499999999,41.567024],"type":"Point"}
 }

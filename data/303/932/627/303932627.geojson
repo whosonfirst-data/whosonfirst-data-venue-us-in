@@ -2,13 +2,14 @@
   "id": 303932627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.078857,41.089714,-85.078857,41.089714",
     "geom:latitude":41.089714,
     "geom:longitude":-85.078857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Reed Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303932627,
-    "wof:lastmodified":1448999028,
+    "wof:lastmodified":1466503283,
     "wof:name":"Glazser Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.078857,41.089714,-85.078857,41.089714],
+  "bbox": [
+    -85.078857,
+    41.089714,
+    -85.078857,
+    41.089714
+],
   "geometry": {"coordinates":[-85.078857,41.089714],"type":"Point"}
 }

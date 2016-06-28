@@ -2,13 +2,14 @@
   "id": 319987597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.03166,41.144917,-85.03166,41.144917",
     "geom:latitude":41.144917,
     "geom:longitude":-85.03166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6719 Palmilla Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319987597,
-    "wof:lastmodified":1449024522,
+    "wof:lastmodified":1466503638,
     "wof:name":"Cardiovascular Associates",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.03166,41.144917,-85.03166,41.144917],
+  "bbox": [
+    -85.03166,
+    41.144917,
+    -85.03166,
+    41.144917
+],
   "geometry": {"coordinates":[-85.03166,41.144917],"type":"Point"}
 }

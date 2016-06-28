@@ -2,13 +2,14 @@
   "id": 320261971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.620738,41.288002,-86.620738,41.288002",
     "geom:latitude":41.288002,
     "geom:longitude":-86.620738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 S Heaton St",
     "sg:city":"Knox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320261971,
-    "wof:lastmodified":1449011318,
+    "wof:lastmodified":1466503784,
     "wof:name":"Ed's Auto Parts & Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-86.620738,41.288002,-86.620738,41.288002],
+  "bbox": [
+    -86.620738,
+    41.288002,
+    -86.620738,
+    41.288002
+],
   "geometry": {"coordinates":[-86.620738,41.288002],"type":"Point"}
 }

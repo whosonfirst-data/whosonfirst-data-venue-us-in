@@ -2,13 +2,14 @@
   "id": 354334803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.763948,40.744836,-86.763948,40.744836",
     "geom:latitude":40.744836,
     "geom:longitude":-86.763948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Broadway St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354334803,
-    "wof:lastmodified":1449066406,
+    "wof:lastmodified":1466503347,
     "wof:name":"Monticello Physicians Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.763948,40.744836,-86.763948,40.744836],
+  "bbox": [
+    -86.763948,
+    40.744836,
+    -86.763948,
+    40.744836
+],
   "geometry": {"coordinates":[-86.763948,40.744836],"type":"Point"}
 }

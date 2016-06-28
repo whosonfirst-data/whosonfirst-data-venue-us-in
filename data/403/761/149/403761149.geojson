@@ -2,13 +2,14 @@
   "id": 403761149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.141635,38.221046,-86.141635,38.221046",
     "geom:latitude":38.221046,
     "geom:longitude":-86.141635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 Hillview Dr",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403761149,
-    "wof:lastmodified":1449055643,
+    "wof:lastmodified":1466502962,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-86.141635,38.221046,-86.141635,38.221046],
-  "geometry": {"coordinates":[-86.141635,38.221046],"type":"Point"}
+  "bbox": [
+    -86.141635,
+    38.221046,
+    -86.141635,
+    38.221046
+],
+  "geometry": {"coordinates":[-86.14163499999999,38.221046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370332453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.105968,41.040241,-85.105968,41.040241",
     "geom:latitude":41.040241,
     "geom:longitude":-85.105968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Werling Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370332453,
-    "wof:lastmodified":1449030950,
+    "wof:lastmodified":1466503110,
     "wof:name":"Community Action Of Ne Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-85.105968,41.040241,-85.105968,41.040241],
+  "bbox": [
+    -85.105968,
+    41.040241,
+    -85.105968,
+    41.040241
+],
   "geometry": {"coordinates":[-85.105968,41.040241],"type":"Point"}
 }

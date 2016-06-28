@@ -2,13 +2,14 @@
   "id": 353964187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.188132,39.606105,-86.188132,39.606105",
     "geom:latitude":39.606105,
     "geom:longitude":-86.188132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4522 Annelo Cir",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353964187,
-    "wof:lastmodified":1449020175,
+    "wof:lastmodified":1466503505,
     "wof:name":"Stark Law Offices",
     "wof:parent_id":85821965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.188132,39.606105,-86.188132,39.606105],
+  "bbox": [
+    -86.188132,
+    39.606105,
+    -86.188132,
+    39.606105
+],
   "geometry": {"coordinates":[-86.188132,39.606105],"type":"Point"}
 }

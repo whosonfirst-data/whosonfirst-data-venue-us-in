@@ -2,13 +2,14 @@
   "id": 370330217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.58622,41.449982,-85.58622,41.449982",
     "geom:latitude":41.449982,
     "geom:longitude":-85.58622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1599 Lincolnway S",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370330217,
-    "wof:lastmodified":1449030768,
+    "wof:lastmodified":1466503107,
     "wof:name":"Community Foundation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "community"
     ]
 },
-  "bbox": [-85.58622,41.449982,-85.58622,41.449982],
+  "bbox": [
+    -85.58622,
+    41.449982,
+    -85.58622,
+    41.449982
+],
   "geometry": {"coordinates":[-85.58622,41.449982],"type":"Point"}
 }

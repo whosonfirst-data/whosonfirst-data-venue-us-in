@@ -2,13 +2,14 @@
   "id": 320248037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.769774,37.944046,-86.769774,37.944046",
     "geom:latitude":37.944046,
     "geom:longitude":-86.769774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Main St",
     "sg:city":"Tell City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320248037,
-    "wof:lastmodified":1449013316,
+    "wof:lastmodified":1466503776,
     "wof:name":"Crisis Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-86.769774,37.944046,-86.769774,37.944046],
+  "bbox": [
+    -86.769774,
+    37.944046,
+    -86.769774,
+    37.944046
+],
   "geometry": {"coordinates":[-86.769774,37.944046],"type":"Point"}
 }

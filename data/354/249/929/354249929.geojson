@@ -2,13 +2,14 @@
   "id": 354249929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.413838,39.490805,-86.413838,39.490805",
     "geom:latitude":39.490805,
     "geom:longitude":-86.413838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Blue Bluff Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354249929,
-    "wof:lastmodified":1449066036,
+    "wof:lastmodified":1466503210,
     "wof:name":"Ipl/AES Eagle Valley Plant",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.413838,39.490805,-86.413838,39.490805],
+  "bbox": [
+    -86.413838,
+    39.490805,
+    -86.413838,
+    39.490805
+],
   "geometry": {"coordinates":[-86.413838,39.490805],"type":"Point"}
 }

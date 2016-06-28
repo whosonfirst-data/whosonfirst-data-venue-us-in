@@ -2,13 +2,14 @@
   "id": 387119615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.776472,38.301664,-85.776472,38.301664",
     "geom:latitude":38.301664,
     "geom:longitude":-85.776472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Lincoln Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387119615,
-    "wof:lastmodified":1449058827,
+    "wof:lastmodified":1466503058,
     "wof:name":"Dennis Ott & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.776472,38.301664,-85.776472,38.301664],
+  "bbox": [
+    -85.776472,
+    38.301664,
+    -85.776472,
+    38.301664
+],
   "geometry": {"coordinates":[-85.776472,38.301664],"type":"Point"}
 }

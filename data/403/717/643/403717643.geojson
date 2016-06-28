@@ -2,13 +2,14 @@
   "id": 403717643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956561,38.393542,-86.956561,38.393542",
     "geom:latitude":38.393542,
     "geom:longitude":-86.956561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Lechner Ln",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403717643,
-    "wof:lastmodified":1449054656,
+    "wof:lastmodified":1466502902,
     "wof:name":"Lechner Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-86.956561,38.393542,-86.956561,38.393542],
-  "geometry": {"coordinates":[-86.956561,38.393542],"type":"Point"}
+  "bbox": [
+    -86.956561,
+    38.393542,
+    -86.956561,
+    38.393542
+],
+  "geometry": {"coordinates":[-86.95656099999999,38.393542],"type":"Point"}
 }

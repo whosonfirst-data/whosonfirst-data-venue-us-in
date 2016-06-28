@@ -2,13 +2,14 @@
   "id": 371108467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.035637,41.690777,-86.035637,41.690777",
     "geom:latitude":41.690777,
     "geom:longitude":-86.035637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Manchester Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371108467,
-    "wof:lastmodified":1449049092,
+    "wof:lastmodified":1466503011,
     "wof:name":"General Processing Corp",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cylinder"
     ]
 },
-  "bbox": [-86.035637,41.690777,-86.035637,41.690777],
-  "geometry": {"coordinates":[-86.035637,41.690777],"type":"Point"}
+  "bbox": [
+    -86.035637,
+    41.690777,
+    -86.035637,
+    41.690777
+],
+  "geometry": {"coordinates":[-86.03563699999999,41.690777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403996225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.917772,41.633784,-85.917772,41.633784",
     "geom:latitude":41.633784,
     "geom:longitude":-85.917772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23695 US Hwy 33",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403996225,
-    "wof:lastmodified":1449055004,
+    "wof:lastmodified":1466503305,
     "wof:name":"Bontrager Pools Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-85.917772,41.633784,-85.917772,41.633784],
+  "bbox": [
+    -85.917772,
+    41.633784,
+    -85.917772,
+    41.633784
+],
   "geometry": {"coordinates":[-85.917772,41.633784],"type":"Point"}
 }

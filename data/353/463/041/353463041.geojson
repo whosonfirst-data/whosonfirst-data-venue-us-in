@@ -2,13 +2,14 @@
   "id": 353463041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405755,40.227096,-85.405755,40.227096",
     "geom:latitude":40.227096,
     "geom:longitude":-85.405755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 N Rosewood Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353463041,
-    "wof:lastmodified":1449020016,
+    "wof:lastmodified":1466502919,
     "wof:name":"Hathaway Construction",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-85.405755,40.227096,-85.405755,40.227096],
+  "bbox": [
+    -85.405755,
+    40.227096,
+    -85.405755,
+    40.227096
+],
   "geometry": {"coordinates":[-85.405755,40.227096],"type":"Point"}
 }

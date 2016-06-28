@@ -2,13 +2,14 @@
   "id": 354118627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282764,39.805498,-86.282764,39.805498",
     "geom:latitude":39.805498,
     "geom:longitude":-86.282764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 Waterfront Pkwy West Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354118627,
-    "wof:lastmodified":1449067318,
+    "wof:lastmodified":1466503021,
     "wof:name":"Emerson Appliance Controls",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relay"
     ]
 },
-  "bbox": [-86.282764,39.805498,-86.282764,39.805498],
+  "bbox": [
+    -86.282764,
+    39.805498,
+    -86.282764,
+    39.805498
+],
   "geometry": {"coordinates":[-86.282764,39.805498],"type":"Point"}
 }

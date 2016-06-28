@@ -2,13 +2,14 @@
   "id": 320537825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.253467,39.25216,-86.253467,39.25216",
     "geom:latitude":39.25216,
     "geom:longitude":-86.253467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Whipporwill Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320537825,
-    "wof:lastmodified":1449012173,
+    "wof:lastmodified":1466503223,
     "wof:name":"Hilltop Cabin & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-86.253467,39.25216,-86.253467,39.25216],
+  "bbox": [
+    -86.253467,
+    39.25216,
+    -86.253467,
+    39.25216
+],
   "geometry": {"coordinates":[-86.253467,39.25216],"type":"Point"}
 }

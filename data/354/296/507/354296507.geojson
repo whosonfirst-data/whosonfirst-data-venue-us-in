@@ -2,13 +2,14 @@
   "id": 354296507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.393153,39.128154,-87.393153,39.128154",
     "geom:latitude":39.128154,
     "geom:longitude":-87.393153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 E Co Rd 300 N",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354296507,
-    "wof:lastmodified":1449067327,
+    "wof:lastmodified":1466503284,
     "wof:name":"Hunters Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-87.393153,39.128154,-87.393153,39.128154],
+  "bbox": [
+    -87.393153,
+    39.128154,
+    -87.393153,
+    39.128154
+],
   "geometry": {"coordinates":[-87.393153,39.128154],"type":"Point"}
 }

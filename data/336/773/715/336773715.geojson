@@ -2,13 +2,14 @@
   "id": 336773715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.142888,39.871219,-86.142888,39.871219",
     "geom:latitude":39.871219,
     "geom:longitude":-86.142888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6332 Guilford Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336773715,
-    "wof:lastmodified":1448997062,
+    "wof:lastmodified":1466503112,
     "wof:name":"Landford Realty",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.142888,39.871219,-86.142888,39.871219],
+  "bbox": [
+    -86.142888,
+    39.871219,
+    -86.142888,
+    39.871219
+],
   "geometry": {"coordinates":[-86.142888,39.871219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.044637,39.751115,-86.044637,39.751115",
     "geom:latitude":39.751115,
     "geom:longitude":-86.044637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Brookville Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387439509,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1466503497,
     "wof:name":"Midwest Voice & Data",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-86.044637,39.751115,-86.044637,39.751115],
-  "geometry": {"coordinates":[-86.044637,39.751115],"type":"Point"}
+  "bbox": [
+    -86.044637,
+    39.751115,
+    -86.044637,
+    39.751115
+],
+  "geometry": {"coordinates":[-86.04463699999999,39.751115],"type":"Point"}
 }

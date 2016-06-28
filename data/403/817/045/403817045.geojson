@@ -2,13 +2,14 @@
   "id": 403817045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.110329,41.626893,-86.110329,41.626893",
     "geom:latitude":41.626893,
     "geom:longitude":-86.110329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59750 Tyholland Ln",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403817045,
-    "wof:lastmodified":1449055700,
+    "wof:lastmodified":1466503045,
     "wof:name":"Woodcox Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-86.110329,41.626893,-86.110329,41.626893],
-  "geometry": {"coordinates":[-86.110329,41.626893],"type":"Point"}
+  "bbox": [
+    -86.110329,
+    41.626893,
+    -86.110329,
+    41.626893
+],
+  "geometry": {"coordinates":[-86.11032899999999,41.626893],"type":"Point"}
 }

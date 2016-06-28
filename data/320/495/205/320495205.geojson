@@ -2,13 +2,14 @@
   "id": 320495205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.637301,39.136986,-86.637301,39.136986",
     "geom:latitude":39.136986,
     "geom:longitude":-86.637301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7431 W Airport Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320495205,
-    "wof:lastmodified":1449012902,
+    "wof:lastmodified":1466503174,
     "wof:name":"Controlled Environments Htg",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.637301,39.136986,-86.637301,39.136986],
-  "geometry": {"coordinates":[-86.637301,39.136986],"type":"Point"}
+  "bbox": [
+    -86.637301,
+    39.136986,
+    -86.637301,
+    39.136986
+],
+  "geometry": {"coordinates":[-86.63730099999999,39.136986],"type":"Point"}
 }

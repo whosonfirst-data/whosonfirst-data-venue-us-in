@@ -2,13 +2,14 @@
   "id": 387471409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064225,39.786581,-86.064225,39.786581",
     "geom:latitude":39.786581,
     "geom:longitude":-86.064225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Arlington Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387471409,
-    "wof:lastmodified":1449057634,
+    "wof:lastmodified":1466503540,
     "wof:name":"Mercho-Roushdi-Dilley-Jacob",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.064225,39.786581,-86.064225,39.786581],
-  "geometry": {"coordinates":[-86.064225,39.786581],"type":"Point"}
+  "bbox": [
+    -86.064225,
+    39.786581,
+    -86.064225,
+    39.786581
+],
+  "geometry": {"coordinates":[-86.06422499999999,39.786581],"type":"Point"}
 }

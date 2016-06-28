@@ -2,13 +2,14 @@
   "id": 370773071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.616828,39.295453,-85.616828,39.295453",
     "geom:latitude":39.295453,
     "geom:longitude":-85.616828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7143 W State Rd 46",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370773071,
-    "wof:lastmodified":1449029521,
+    "wof:lastmodified":1466503561,
     "wof:name":"Tower Tree Travel & Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "airline"
     ]
 },
-  "bbox": [-85.616828,39.295453,-85.616828,39.295453],
+  "bbox": [
+    -85.616828,
+    39.295453,
+    -85.616828,
+    39.295453
+],
   "geometry": {"coordinates":[-85.616828,39.295453],"type":"Point"}
 }

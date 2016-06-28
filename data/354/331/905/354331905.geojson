@@ -2,13 +2,14 @@
   "id": 354331905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.878813,41.724357,-86.878813,41.724357",
     "geom:latitude":41.724357,
     "geom:longitude":-86.878813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 E US Hwy 12",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354331905,
-    "wof:lastmodified":1449066973,
+    "wof:lastmodified":1466503344,
     "wof:name":"Jayco Recycling Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-86.878813,41.724357,-86.878813,41.724357],
-  "geometry": {"coordinates":[-86.878813,41.724357],"type":"Point"}
+  "bbox": [
+    -86.878813,
+    41.724357,
+    -86.878813,
+    41.724357
+],
+  "geometry": {"coordinates":[-86.87881299999999,41.724357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320428415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.180793,39.758525,-86.180793,39.758525",
     "geom:latitude":39.758525,
     "geom:longitude":-86.180793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Oliver Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320428415,
-    "wof:lastmodified":1449014711,
+    "wof:lastmodified":1466503094,
     "wof:name":"Cornell Consultants Inc",
     "wof:parent_id":85805599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.180793,39.758525,-86.180793,39.758525],
-  "geometry": {"coordinates":[-86.180793,39.758525],"type":"Point"}
+  "bbox": [
+    -86.180793,
+    39.758525,
+    -86.180793,
+    39.758525
+],
+  "geometry": {"coordinates":[-86.18079299999999,39.758525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353518721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.139266,39.610253,-86.139266,39.610253",
     "geom:latitude":39.610253,
     "geom:longitude":-86.139266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1177 Pilgram Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353518721,
-    "wof:lastmodified":1449019702,
+    "wof:lastmodified":1466502971,
     "wof:name":"Komet Of America Inc",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-86.139266,39.610253,-86.139266,39.610253],
-  "geometry": {"coordinates":[-86.139266,39.610253],"type":"Point"}
+  "bbox": [
+    -86.139266,
+    39.610253,
+    -86.139266,
+    39.610253
+],
+  "geometry": {"coordinates":[-86.13926600000001,39.610253],"type":"Point"}
 }

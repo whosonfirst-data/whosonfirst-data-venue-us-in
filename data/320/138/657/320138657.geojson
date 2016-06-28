@@ -2,13 +2,14 @@
   "id": 320138657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.907798,39.848735,-84.907798,39.848735",
     "geom:latitude":39.848735,
     "geom:longitude":-84.907798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 NW 5th St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320138657,
-    "wof:lastmodified":1449012337,
+    "wof:lastmodified":1466503725,
     "wof:name":"Energy Plus 24",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.907798,39.848735,-84.907798,39.848735],
+  "bbox": [
+    -84.907798,
+    39.848735,
+    -84.907798,
+    39.848735
+],
   "geometry": {"coordinates":[-84.907798,39.848735],"type":"Point"}
 }

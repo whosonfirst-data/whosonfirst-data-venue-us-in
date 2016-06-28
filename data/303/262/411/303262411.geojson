@@ -2,13 +2,14 @@
   "id": 303262411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.050052,39.773553,-86.050052,39.773553",
     "geom:latitude":39.773553,
     "geom:longitude":-86.050052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 N Edmondson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303262411,
-    "wof:lastmodified":1448999633,
+    "wof:lastmodified":1466503534,
     "wof:name":"B & L Glass Co",
     "wof:parent_id":85870679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-86.050052,39.773553,-86.050052,39.773553],
-  "geometry": {"coordinates":[-86.050052,39.773553],"type":"Point"}
+  "bbox": [
+    -86.050052,
+    39.773553,
+    -86.050052,
+    39.773553
+],
+  "geometry": {"coordinates":[-86.05005199999999,39.773553],"type":"Point"}
 }

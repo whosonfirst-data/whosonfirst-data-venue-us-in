@@ -2,13 +2,14 @@
   "id": 387238591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.477458,37.977131,-87.477458,37.977131",
     "geom:latitude":37.977131,
     "geom:longitude":-87.477458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Kimber Ln",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387238591,
-    "wof:lastmodified":1449057531,
+    "wof:lastmodified":1466503222,
     "wof:name":"Kimber Green Apartments",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.477458,37.977131,-87.477458,37.977131],
+  "bbox": [
+    -87.477458,
+    37.977131,
+    -87.477458,
+    37.977131
+],
   "geometry": {"coordinates":[-87.477458,37.977131],"type":"Point"}
 }

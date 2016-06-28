@@ -2,13 +2,14 @@
   "id": 370940851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.94239,41.656462,-85.94239,41.656462",
     "geom:latitude":41.656462,
     "geom:longitude":-85.94239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3051 Hammond Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370940851,
-    "wof:lastmodified":1449029922,
+    "wof:lastmodified":1466503753,
     "wof:name":"Kan-Doo Manufacturing",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-85.94239,41.656462,-85.94239,41.656462],
+  "bbox": [
+    -85.94239,
+    41.656462,
+    -85.94239,
+    41.656462
+],
   "geometry": {"coordinates":[-85.94239,41.656462],"type":"Point"}
 }

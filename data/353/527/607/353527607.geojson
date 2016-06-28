@@ -2,13 +2,14 @@
   "id": 353527607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.000568,41.44464,-86.000568,41.44464",
     "geom:latitude":41.44464,
     "geom:longitude":-86.000568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 E Centennial St",
     "sg:city":"Nappanee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353527607,
-    "wof:lastmodified":1449020302,
+    "wof:lastmodified":1466502981,
     "wof:name":"Tony Ragland Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.000568,41.44464,-86.000568,41.44464],
+  "bbox": [
+    -86.000568,
+    41.44464,
+    -86.000568,
+    41.44464
+],
   "geometry": {"coordinates":[-86.000568,41.44464],"type":"Point"}
 }

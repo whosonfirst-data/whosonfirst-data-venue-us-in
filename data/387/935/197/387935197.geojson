@@ -2,13 +2,14 @@
   "id": 387935197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200923,39.814887,-86.200923,39.814887",
     "geom:latitude":39.814887,
     "geom:longitude":-86.200923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Cold Spring Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387935197,
-    "wof:lastmodified":1449059245,
+    "wof:lastmodified":1466504183,
     "wof:name":"Indianapolis Civic Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.200923,39.814887,-86.200923,39.814887],
+  "bbox": [
+    -86.200923,
+    39.814887,
+    -86.200923,
+    39.814887
+],
   "geometry": {"coordinates":[-86.200923,39.814887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336681291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.415949,39.425642,-87.415949,39.425642",
     "geom:latitude":39.425642,
     "geom:longitude":-87.415949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3187 S 3rd St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336681291,
-    "wof:lastmodified":1448997599,
+    "wof:lastmodified":1466502991,
     "wof:name":"Wabash Watch & Clock Company",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-87.415949,39.425642,-87.415949,39.425642],
+  "bbox": [
+    -87.415949,
+    39.425642,
+    -87.415949,
+    39.425642
+],
   "geometry": {"coordinates":[-87.415949,39.425642],"type":"Point"}
 }

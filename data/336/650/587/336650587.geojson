@@ -2,13 +2,14 @@
   "id": 336650587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.456772,41.637579,-87.456772,41.637579",
     "geom:latitude":41.637579,
     "geom:longitude":-87.456772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4117 Carey St",
     "sg:city":"East Chicago",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336650587,
-    "wof:lastmodified":1448997596,
+    "wof:lastmodified":1466502950,
     "wof:name":"V&M Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.456772,41.637579,-87.456772,41.637579],
+  "bbox": [
+    -87.456772,
+    41.637579,
+    -87.456772,
+    41.637579
+],
   "geometry": {"coordinates":[-87.456772,41.637579],"type":"Point"}
 }

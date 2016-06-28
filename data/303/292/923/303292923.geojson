@@ -2,13 +2,14 @@
   "id": 303292923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492683,37.966099,-87.492683,37.966099",
     "geom:latitude":37.966099,
     "geom:longitude":-87.492683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303292923,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466503571,
     "wof:name":"Thornton Oil Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-87.492683,37.966099,-87.492683,37.966099],
+  "bbox": [
+    -87.492683,
+    37.966099,
+    -87.492683,
+    37.966099
+],
   "geometry": {"coordinates":[-87.492683,37.966099],"type":"Point"}
 }

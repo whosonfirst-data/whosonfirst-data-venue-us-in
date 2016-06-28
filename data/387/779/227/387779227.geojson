@@ -2,13 +2,14 @@
   "id": 387779227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.253657,41.676065,-86.253657,41.676065",
     "geom:latitude":41.676065,
     "geom:longitude":-86.253657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 S Lafayette Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387779227,
-    "wof:lastmodified":1449056686,
+    "wof:lastmodified":1466503945,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-86.253657,41.676065,-86.253657,41.676065],
+  "bbox": [
+    -86.253657,
+    41.676065,
+    -86.253657,
+    41.676065
+],
   "geometry": {"coordinates":[-86.253657,41.676065],"type":"Point"}
 }

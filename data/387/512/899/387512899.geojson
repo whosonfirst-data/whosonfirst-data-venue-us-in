@@ -2,13 +2,14 @@
   "id": 387512899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282903,39.826284,-86.282903,39.826284",
     "geom:latitude":39.826284,
     "geom:longitude":-86.282903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Parkdale Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387512899,
-    "wof:lastmodified":1449058879,
+    "wof:lastmodified":1466503591,
     "wof:name":"John M Huse MD",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.282903,39.826284,-86.282903,39.826284],
+  "bbox": [
+    -86.282903,
+    39.826284,
+    -86.282903,
+    39.826284
+],
   "geometry": {"coordinates":[-86.282903,39.826284],"type":"Point"}
 }

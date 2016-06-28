@@ -2,13 +2,14 @@
   "id": 387404439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.121493,41.041936,-85.121493,41.041936",
     "geom:latitude":41.041936,
     "geom:longitude":-85.121493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 Smith St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387404439,
-    "wof:lastmodified":1449058637,
+    "wof:lastmodified":1466503445,
     "wof:name":"Summit City Sports & Rec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-85.121493,41.041936,-85.121493,41.041936],
+  "bbox": [
+    -85.121493,
+    41.041936,
+    -85.121493,
+    41.041936
+],
   "geometry": {"coordinates":[-85.121493,41.041936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320395091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481001,41.583688,-87.481001,41.583688",
     "geom:latitude":41.583688,
     "geom:longitude":-87.481001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7150 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320395091,
-    "wof:lastmodified":1449014423,
+    "wof:lastmodified":1466503048,
     "wof:name":"Bosch & Banasiak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.481001,41.583688,-87.481001,41.583688],
-  "geometry": {"coordinates":[-87.481001,41.583688],"type":"Point"}
+  "bbox": [
+    -87.481001,
+    41.583688,
+    -87.481001,
+    41.583688
+],
+  "geometry": {"coordinates":[-87.48100100000001,41.583688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387575425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.121699,39.818179,-86.121699,39.818179",
     "geom:latitude":39.818179,
     "geom:longitude":-86.121699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 E 34th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387575425,
-    "wof:lastmodified":1449057200,
+    "wof:lastmodified":1466503680,
     "wof:name":"D J Gus's Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.121699,39.818179,-86.121699,39.818179],
-  "geometry": {"coordinates":[-86.121699,39.818179],"type":"Point"}
+  "bbox": [
+    -86.121699,
+    39.818179,
+    -86.121699,
+    39.818179
+],
+  "geometry": {"coordinates":[-86.12169900000001,39.818179],"type":"Point"}
 }

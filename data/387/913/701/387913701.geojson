@@ -2,13 +2,14 @@
   "id": 387913701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.293609,40.763909,-87.293609,40.763909",
     "geom:latitude":40.763909,
     "geom:longitude":-87.293609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Newton St",
     "sg:city":"Goodland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387913701,
-    "wof:lastmodified":1449057577,
+    "wof:lastmodified":1466504148,
     "wof:name":"Main Source Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.293609,40.763909,-87.293609,40.763909],
+  "bbox": [
+    -87.293609,
+    40.763909,
+    -87.293609,
+    40.763909
+],
   "geometry": {"coordinates":[-87.293609,40.763909],"type":"Point"}
 }

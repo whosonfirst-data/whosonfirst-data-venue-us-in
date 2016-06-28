@@ -2,13 +2,14 @@
   "id": 370210351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.260609,41.588751,-86.260609,41.588751",
     "geom:latitude":41.588751,
     "geom:longitude":-86.260609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62337 US Hwy 31",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370210351,
-    "wof:lastmodified":1449030250,
+    "wof:lastmodified":1466502962,
     "wof:name":"Galloway Investigation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.260609,41.588751,-86.260609,41.588751],
+  "bbox": [
+    -86.260609,
+    41.588751,
+    -86.260609,
+    41.588751
+],
   "geometry": {"coordinates":[-86.260609,41.588751],"type":"Point"}
 }

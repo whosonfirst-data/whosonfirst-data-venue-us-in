@@ -2,13 +2,14 @@
   "id": 319852265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585602,39.729263,-86.585602,39.729263",
     "geom:latitude":39.729263,
     "geom:longitude":-86.585602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 S Co Rd 350 W",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319852265,
-    "wof:lastmodified":1449024753,
+    "wof:lastmodified":1466503563,
     "wof:name":"Harness Well Drilling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-86.585602,39.729263,-86.585602,39.729263],
-  "geometry": {"coordinates":[-86.585602,39.729263],"type":"Point"}
+  "bbox": [
+    -86.585602,
+    39.729263,
+    -86.585602,
+    39.729263
+],
+  "geometry": {"coordinates":[-86.58560199999999,39.729263],"type":"Point"}
 }

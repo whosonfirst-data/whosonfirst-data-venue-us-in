@@ -2,13 +2,14 @@
   "id": 320529993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281355,39.828163,-86.281355,39.828163",
     "geom:latitude":39.828163,
     "geom:longitude":-86.281355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6920 Eagle Highlands Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320529993,
-    "wof:lastmodified":1449012887,
+    "wof:lastmodified":1466503212,
     "wof:name":"Bronze One",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-86.281355,39.828163,-86.281355,39.828163],
+  "bbox": [
+    -86.281355,
+    39.828163,
+    -86.281355,
+    39.828163
+],
   "geometry": {"coordinates":[-86.281355,39.828163],"type":"Point"}
 }

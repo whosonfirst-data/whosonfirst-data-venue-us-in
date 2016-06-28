@@ -2,13 +2,14 @@
   "id": 387782277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.424725,40.236902,-85.424725,40.236902",
     "geom:latitude":40.236902,
     "geom:longitude":-85.424725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W Moore Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387782277,
-    "wof:lastmodified":1449056097,
+    "wof:lastmodified":1466503949,
     "wof:name":"People of Praise Muncie",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.424725,40.236902,-85.424725,40.236902],
+  "bbox": [
+    -85.424725,
+    40.236902,
+    -85.424725,
+    40.236902
+],
   "geometry": {"coordinates":[-85.424725,40.236902],"type":"Point"}
 }

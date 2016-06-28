@@ -2,13 +2,14 @@
   "id": 386991363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.140644,41.08132,-85.140644,41.08132",
     "geom:latitude":41.08132,
     "geom:longitude":-85.140644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Columbia St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386991363,
-    "wof:lastmodified":1449028714,
+    "wof:lastmodified":1466502965,
     "wof:name":"Club Inc",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-85.140644,41.08132,-85.140644,41.08132],
-  "geometry": {"coordinates":[-85.140644,41.08132],"type":"Point"}
+  "bbox": [
+    -85.140644,
+    41.08132,
+    -85.140644,
+    41.08132
+],
+  "geometry": {"coordinates":[-85.14064399999999,41.08132],"type":"Point"}
 }

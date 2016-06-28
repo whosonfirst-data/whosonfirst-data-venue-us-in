@@ -2,13 +2,14 @@
   "id": 320579437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.224899,39.787666,-86.224899,39.787666",
     "geom:latitude":39.787666,
     "geom:longitude":-86.224899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3737 W 16th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320579437,
-    "wof:lastmodified":1449012462,
+    "wof:lastmodified":1466503280,
     "wof:name":"Zoom Racing Displays",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.224899,39.787666,-86.224899,39.787666],
-  "geometry": {"coordinates":[-86.224899,39.787666],"type":"Point"}
+  "bbox": [
+    -86.224899,
+    39.787666,
+    -86.224899,
+    39.787666
+],
+  "geometry": {"coordinates":[-86.22489899999999,39.787666],"type":"Point"}
 }

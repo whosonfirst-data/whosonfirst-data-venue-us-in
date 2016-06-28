@@ -2,13 +2,14 @@
   "id": 353712691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.198671,41.593938,-87.198671,41.593938",
     "geom:latitude":41.593938,
     "geom:longitude":-87.198671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5591 Old Porter Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353712691,
-    "wof:lastmodified":1449019344,
+    "wof:lastmodified":1466503202,
     "wof:name":"Comprehensive Cleaning Svc",
     "wof:parent_id":85821229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.198671,41.593938,-87.198671,41.593938],
+  "bbox": [
+    -87.198671,
+    41.593938,
+    -87.198671,
+    41.593938
+],
   "geometry": {"coordinates":[-87.198671,41.593938],"type":"Point"}
 }

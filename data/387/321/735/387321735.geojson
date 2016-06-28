@@ -2,13 +2,14 @@
   "id": 387321735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.389547,39.346952,-87.389547,39.346952",
     "geom:latitude":39.346952,
     "geom:longitude":-87.389547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Harlan Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387321735,
-    "wof:lastmodified":1449056212,
+    "wof:lastmodified":1466503334,
     "wof:name":"South Heritage Animal Hospital",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-87.389547,39.346952,-87.389547,39.346952],
-  "geometry": {"coordinates":[-87.389547,39.346952],"type":"Point"}
+  "bbox": [
+    -87.389547,
+    39.346952,
+    -87.389547,
+    39.346952
+],
+  "geometry": {"coordinates":[-87.38954699999999,39.346952],"type":"Point"}
 }

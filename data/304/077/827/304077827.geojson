@@ -2,13 +2,14 @@
   "id": 304077827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.65728,39.930758,-86.65728,39.930758",
     "geom:latitude":39.930758,
     "geom:longitude":-86.65728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7479 S 1000 W",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304077827,
-    "wof:lastmodified":1449043643,
+    "wof:lastmodified":1466503501,
     "wof:name":"Wilburn's Collision Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-86.65728,39.930758,-86.65728,39.930758],
+  "bbox": [
+    -86.65728,
+    39.930758,
+    -86.65728,
+    39.930758
+],
   "geometry": {"coordinates":[-86.65728,39.930758],"type":"Point"}
 }

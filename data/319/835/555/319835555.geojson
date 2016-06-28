@@ -2,13 +2,14 @@
   "id": 319835555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.785094,38.71077,-85.785094,38.71077",
     "geom:latitude":38.71077,
     "geom:longitude":-85.785094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1558 N Gardner St",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319835555,
-    "wof:lastmodified":1449024211,
+    "wof:lastmodified":1466503545,
     "wof:name":"Sellersburg Volunteer Fire Dpt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.785094,38.71077,-85.785094,38.71077],
+  "bbox": [
+    -85.785094,
+    38.71077,
+    -85.785094,
+    38.71077
+],
   "geometry": {"coordinates":[-85.785094,38.71077],"type":"Point"}
 }

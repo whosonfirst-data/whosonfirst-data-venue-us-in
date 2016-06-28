@@ -2,13 +2,14 @@
   "id": 370850655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144599,39.873323,-86.144599,39.873323",
     "geom:latitude":39.873323,
     "geom:longitude":-86.144599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6419 Carrollton Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370850655,
-    "wof:lastmodified":1449031035,
+    "wof:lastmodified":1466503641,
     "wof:name":"Grant & Grant",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.144599,39.873323,-86.144599,39.873323],
+  "bbox": [
+    -86.144599,
+    39.873323,
+    -86.144599,
+    39.873323
+],
   "geometry": {"coordinates":[-86.144599,39.873323],"type":"Point"}
 }

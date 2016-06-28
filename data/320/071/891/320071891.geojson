@@ -2,13 +2,14 @@
   "id": 320071891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.326532,39.624962,-86.326532,39.624962",
     "geom:latitude":39.624962,
     "geom:longitude":-86.326532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4128 E Allison Rd",
     "sg:city":"Camby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320071891,
-    "wof:lastmodified":1449013605,
+    "wof:lastmodified":1466503688,
     "wof:name":"Automatic Door & Glass Spec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [-86.326532,39.624962,-86.326532,39.624962],
+  "bbox": [
+    -86.326532,
+    39.624962,
+    -86.326532,
+    39.624962
+],
   "geometry": {"coordinates":[-86.326532,39.624962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371094887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.915242,38.673093,-86.915242,38.673093",
     "geom:latitude":38.673093,
     "geom:longitude":-86.915242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 SW 1st St",
     "sg:city":"Loogootee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371094887,
-    "wof:lastmodified":1449049699,
+    "wof:lastmodified":1466502990,
     "wof:name":"Harriette's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.915242,38.673093,-86.915242,38.673093],
-  "geometry": {"coordinates":[-86.915242,38.673093],"type":"Point"}
+  "bbox": [
+    -86.915242,
+    38.673093,
+    -86.915242,
+    38.673093
+],
+  "geometry": {"coordinates":[-86.91524200000001,38.673093],"type":"Point"}
 }

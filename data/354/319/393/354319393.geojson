@@ -2,13 +2,14 @@
   "id": 354319393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.917894,41.633373,-85.917894,41.633373",
     "geom:latitude":41.633373,
     "geom:longitude":-85.917894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23702 Arlene Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354319393,
-    "wof:lastmodified":1449066611,
+    "wof:lastmodified":1466503324,
     "wof:name":"South Side Elementary School",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.917894,41.633373,-85.917894,41.633373],
+  "bbox": [
+    -85.917894,
+    41.633373,
+    -85.917894,
+    41.633373
+],
   "geometry": {"coordinates":[-85.917894,41.633373],"type":"Point"}
 }

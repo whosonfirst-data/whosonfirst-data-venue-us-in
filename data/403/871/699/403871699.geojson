@@ -2,13 +2,14 @@
   "id": 403871699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144294,39.904698,-86.144294,39.904698",
     "geom:latitude":39.904698,
     "geom:longitude":-86.144294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E 81st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403871699,
-    "wof:lastmodified":1449055059,
+    "wof:lastmodified":1466503122,
     "wof:name":"Dynamics Controls",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-86.144294,39.904698,-86.144294,39.904698],
+  "bbox": [
+    -86.144294,
+    39.904698,
+    -86.144294,
+    39.904698
+],
   "geometry": {"coordinates":[-86.144294,39.904698],"type":"Point"}
 }

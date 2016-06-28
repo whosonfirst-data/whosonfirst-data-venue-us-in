@@ -2,13 +2,14 @@
   "id": 370400311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.573078,38.018991,-87.573078,38.018991",
     "geom:latitude":38.018991,
     "geom:longitude":-87.573078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 Commerce St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370400311,
-    "wof:lastmodified":1449029415,
+    "wof:lastmodified":1466503174,
     "wof:name":"H & S Forrest Products",
     "wof:parent_id":85812503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skid"
     ]
 },
-  "bbox": [-87.573078,38.018991,-87.573078,38.018991],
+  "bbox": [
+    -87.573078,
+    38.018991,
+    -87.573078,
+    38.018991
+],
   "geometry": {"coordinates":[-87.573078,38.018991],"type":"Point"}
 }

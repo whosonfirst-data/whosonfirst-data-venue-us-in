@@ -2,13 +2,14 @@
   "id": 336850937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.001303,41.526161,-86.001303,41.526161",
     "geom:latitude":41.526161,
     "geom:longitude":-86.001303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66540 State Rd 19",
     "sg:city":"Wakarusa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336850937,
-    "wof:lastmodified":1448997558,
+    "wof:lastmodified":1466503214,
     "wof:name":"Millers Custom Hardwoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.001303,41.526161,-86.001303,41.526161],
-  "geometry": {"coordinates":[-86.001303,41.526161],"type":"Point"}
+  "bbox": [
+    -86.001303,
+    41.526161,
+    -86.001303,
+    41.526161
+],
+  "geometry": {"coordinates":[-86.00130299999999,41.526161],"type":"Point"}
 }

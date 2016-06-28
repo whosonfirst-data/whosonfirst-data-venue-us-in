@@ -2,13 +2,14 @@
   "id": 320608481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.831683,41.493273,-85.831683,41.493273",
     "geom:latitude":41.493273,
     "geom:longitude":-85.831683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19149 Co Rd 146",
     "sg:city":"New Paris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320608481,
-    "wof:lastmodified":1449012859,
+    "wof:lastmodified":1466503309,
     "wof:name":"Cutting Edge Machine & Tool",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-85.831683,41.493273,-85.831683,41.493273],
+  "bbox": [
+    -85.831683,
+    41.493273,
+    -85.831683,
+    41.493273
+],
   "geometry": {"coordinates":[-85.831683,41.493273],"type":"Point"}
 }

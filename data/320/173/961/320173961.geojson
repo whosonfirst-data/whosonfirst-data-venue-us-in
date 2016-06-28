@@ -2,13 +2,14 @@
   "id": 320173961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.896737,39.814653,-84.896737,39.814653",
     "geom:latitude":39.814653,
     "geom:longitude":-84.896737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 S 5th St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320173961,
-    "wof:lastmodified":1449011983,
+    "wof:lastmodified":1466503744,
     "wof:name":"Omni Maintenance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-84.896737,39.814653,-84.896737,39.814653],
+  "bbox": [
+    -84.896737,
+    39.814653,
+    -84.896737,
+    39.814653
+],
   "geometry": {"coordinates":[-84.896737,39.814653],"type":"Point"}
 }

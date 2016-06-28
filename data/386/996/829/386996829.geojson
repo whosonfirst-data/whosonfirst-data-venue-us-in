@@ -2,13 +2,14 @@
   "id": 386996829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.098402,39.579319,-86.098402,39.579319",
     "geom:latitude":39.579319,
     "geom:longitude":-86.098402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 US Hwy 31 S",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386996829,
-    "wof:lastmodified":1449028704,
+    "wof:lastmodified":1466502973,
     "wof:name":"Nichols Outdoor Power Equip Co",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-86.098402,39.579319,-86.098402,39.579319],
-  "geometry": {"coordinates":[-86.098402,39.579319],"type":"Point"}
+  "bbox": [
+    -86.098402,
+    39.579319,
+    -86.098402,
+    39.579319
+],
+  "geometry": {"coordinates":[-86.09840199999999,39.579319],"type":"Point"}
 }

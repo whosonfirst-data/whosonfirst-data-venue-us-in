@@ -2,13 +2,14 @@
   "id": 320647551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.118474,41.464916,-87.118474,41.464916",
     "geom:latitude":41.464916,
     "geom:longitude":-87.118474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 W US Hwy 30",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320647551,
-    "wof:lastmodified":1449013024,
+    "wof:lastmodified":1466503353,
     "wof:name":"Gilliana Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tub"
     ]
 },
-  "bbox": [-87.118474,41.464916,-87.118474,41.464916],
-  "geometry": {"coordinates":[-87.118474,41.464916],"type":"Point"}
+  "bbox": [
+    -87.118474,
+    41.464916,
+    -87.118474,
+    41.464916
+],
+  "geometry": {"coordinates":[-87.11847400000001,41.464916],"type":"Point"}
 }

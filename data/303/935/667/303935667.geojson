@@ -2,13 +2,14 @@
   "id": 303935667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.140011,41.095934,-85.140011,41.095934",
     "geom:latitude":41.095934,
     "geom:longitude":-85.140011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2239 N Clinton St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303935667,
-    "wof:lastmodified":1449000124,
+    "wof:lastmodified":1466503287,
     "wof:name":"Lassus Bros Handy Dandy Bp",
     "wof:parent_id":85877569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-85.140011,41.095934,-85.140011,41.095934],
+  "bbox": [
+    -85.140011,
+    41.095934,
+    -85.140011,
+    41.095934
+],
   "geometry": {"coordinates":[-85.140011,41.095934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387339619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.182913,41.108429,-85.182913,41.108429",
     "geom:latitude":41.108429,
     "geom:longitude":-85.182913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 Independence Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387339619,
-    "wof:lastmodified":1449057802,
+    "wof:lastmodified":1466503357,
     "wof:name":"Associated Material Handling",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [-85.182913,41.108429,-85.182913,41.108429],
+  "bbox": [
+    -85.182913,
+    41.108429,
+    -85.182913,
+    41.108429
+],
   "geometry": {"coordinates":[-85.182913,41.108429],"type":"Point"}
 }

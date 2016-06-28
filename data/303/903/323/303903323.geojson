@@ -2,13 +2,14 @@
   "id": 303903323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.686558,40.104946,-85.686558,40.104946",
     "geom:latitude":40.104946,
     "geom:longitude":-85.686558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W 11th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303903323,
-    "wof:lastmodified":1448998263,
+    "wof:lastmodified":1466503239,
     "wof:name":"Sowers Of Seeds Counseling",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-85.686558,40.104946,-85.686558,40.104946],
-  "geometry": {"coordinates":[-85.686558,40.104946],"type":"Point"}
+  "bbox": [
+    -85.686558,
+    40.104946,
+    -85.686558,
+    40.104946
+],
+  "geometry": {"coordinates":[-85.68655800000001,40.104946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403771593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.111872,39.288374,-87.111872,39.288374",
     "geom:latitude":39.288374,
     "geom:longitude":-87.111872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6784 State Rte 59",
     "sg:city":"Clay City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403771593,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466502977,
     "wof:name":"Schauwecker Carolyn Mary Kay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sales"
     ]
 },
-  "bbox": [-87.111872,39.288374,-87.111872,39.288374],
-  "geometry": {"coordinates":[-87.111872,39.288374],"type":"Point"}
+  "bbox": [
+    -87.111872,
+    39.288374,
+    -87.111872,
+    39.288374
+],
+  "geometry": {"coordinates":[-87.11187200000001,39.288374],"type":"Point"}
 }

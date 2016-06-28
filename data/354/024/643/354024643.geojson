@@ -2,13 +2,14 @@
   "id": 354024643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.64247,39.859875,-86.64247,39.859875",
     "geom:latitude":39.859875,
     "geom:longitude":-86.64247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 E Pearl St",
     "sg:city":"North Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354024643,
-    "wof:lastmodified":1449066733,
+    "wof:lastmodified":1466502911,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.64247,39.859875,-86.64247,39.859875],
+  "bbox": [
+    -86.64247,
+    39.859875,
+    -86.64247,
+    39.859875
+],
   "geometry": {"coordinates":[-86.64247,39.859875],"type":"Point"}
 }

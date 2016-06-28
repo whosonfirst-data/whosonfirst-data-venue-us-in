@@ -2,13 +2,14 @@
   "id": 336593581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.103926,39.613863,-86.103926,39.613863",
     "geom:latitude":39.613863,
     "geom:longitude":-86.103926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 E Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336593581,
-    "wof:lastmodified":1448997647,
+    "wof:lastmodified":1466503788,
     "wof:name":"AAA Smitty's Automatic Trans",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-86.103926,39.613863,-86.103926,39.613863],
+  "bbox": [
+    -86.103926,
+    39.613863,
+    -86.103926,
+    39.613863
+],
   "geometry": {"coordinates":[-86.103926,39.613863],"type":"Point"}
 }

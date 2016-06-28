@@ -2,13 +2,14 @@
   "id": 370326095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241665,41.6683,-86.241665,41.6683",
     "geom:latitude":41.6683,
     "geom:longitude":-86.241665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 E Bronson St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370326095,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466503103,
     "wof:name":"Weaver Boos Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.241665,41.6683,-86.241665,41.6683],
+  "bbox": [
+    -86.241665,
+    41.6683,
+    -86.241665,
+    41.6683
+],
   "geometry": {"coordinates":[-86.241665,41.6683],"type":"Point"}
 }

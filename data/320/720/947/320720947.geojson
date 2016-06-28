@@ -2,13 +2,14 @@
   "id": 320720947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.373792,40.219741,-85.373792,40.219741",
     "geom:latitude":40.219741,
     "geom:longitude":-85.373792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 N Granville Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320720947,
-    "wof:lastmodified":1449012159,
+    "wof:lastmodified":1466503430,
     "wof:name":"Andrews Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-85.373792,40.219741,-85.373792,40.219741],
-  "geometry": {"coordinates":[-85.373792,40.219741],"type":"Point"}
+  "bbox": [
+    -85.373792,
+    40.219741,
+    -85.373792,
+    40.219741
+],
+  "geometry": {"coordinates":[-85.37379199999999,40.219741],"type":"Point"}
 }

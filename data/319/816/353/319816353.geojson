@@ -2,13 +2,14 @@
   "id": 319816353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.352171,40.756367,-86.352171,40.756367",
     "geom:latitude":40.756367,
     "geom:longitude":-86.352171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E Broadway",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319816353,
-    "wof:lastmodified":1449024545,
+    "wof:lastmodified":1466503515,
     "wof:name":"Emmaus Mission Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-86.352171,40.756367,-86.352171,40.756367],
+  "bbox": [
+    -86.352171,
+    40.756367,
+    -86.352171,
+    40.756367
+],
   "geometry": {"coordinates":[-86.352171,40.756367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336956069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131767,39.832886,-86.131767,39.832886",
     "geom:latitude":39.832886,
     "geom:longitude":-86.131767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E 42nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336956069,
-    "wof:lastmodified":1448997125,
+    "wof:lastmodified":1466503346,
     "wof:name":"Vincennes University Extension",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-86.131767,39.832886,-86.131767,39.832886],
+  "bbox": [
+    -86.131767,
+    39.832886,
+    -86.131767,
+    39.832886
+],
   "geometry": {"coordinates":[-86.131767,39.832886],"type":"Point"}
 }

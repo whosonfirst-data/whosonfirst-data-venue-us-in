@@ -2,13 +2,14 @@
   "id": 403704881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.140138,39.912609,-86.140138,39.912609",
     "geom:latitude":39.912609,
     "geom:longitude":-86.140138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403704881,
-    "wof:lastmodified":1449054991,
+    "wof:lastmodified":1466502885,
     "wof:name":"Occupational Therapy Cnnctns",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapist"
     ]
 },
-  "bbox": [-86.140138,39.912609,-86.140138,39.912609],
-  "geometry": {"coordinates":[-86.140138,39.912609],"type":"Point"}
+  "bbox": [
+    -86.140138,
+    39.912609,
+    -86.140138,
+    39.912609
+],
+  "geometry": {"coordinates":[-86.14013799999999,39.912609],"type":"Point"}
 }

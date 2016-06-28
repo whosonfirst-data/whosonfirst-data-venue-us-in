@@ -2,13 +2,14 @@
   "id": 336625881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082521,39.696896,-86.082521,39.696896",
     "geom:latitude":39.696896,
     "geom:longitude":-86.082521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336625881,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466502920,
     "wof:name":"William Wiseman MD",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.082521,39.696896,-86.082521,39.696896],
+  "bbox": [
+    -86.082521,
+    39.696896,
+    -86.082521,
+    39.696896
+],
   "geometry": {"coordinates":[-86.082521,39.696896],"type":"Point"}
 }

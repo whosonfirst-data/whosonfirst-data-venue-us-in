@@ -2,13 +2,14 @@
   "id": 370785421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077987,39.520389,-86.077987,39.520389",
     "geom:latitude":39.520389,
     "geom:longitude":-86.077987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Eastpointe Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370785421,
-    "wof:lastmodified":1449031893,
+    "wof:lastmodified":1466503571,
     "wof:name":"Franklin Nazarene Youth Prsng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.077987,39.520389,-86.077987,39.520389],
-  "geometry": {"coordinates":[-86.077987,39.520389],"type":"Point"}
+  "bbox": [
+    -86.077987,
+    39.520389,
+    -86.077987,
+    39.520389
+],
+  "geometry": {"coordinates":[-86.07798699999999,39.520389],"type":"Point"}
 }

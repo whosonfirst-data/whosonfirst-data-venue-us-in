@@ -2,13 +2,14 @@
   "id": 320433917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.527596,37.955194,-87.527596,37.955194",
     "geom:latitude":37.955194,
     "geom:longitude":-87.527596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Covert Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320433917,
-    "wof:lastmodified":1449011677,
+    "wof:lastmodified":1466503100,
     "wof:name":"Walk In Closet",
     "wof:parent_id":85877321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-87.527596,37.955194,-87.527596,37.955194],
+  "bbox": [
+    -87.527596,
+    37.955194,
+    -87.527596,
+    37.955194
+],
   "geometry": {"coordinates":[-87.527596,37.955194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320484607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.177895,41.6914,-86.177895,41.6914",
     "geom:latitude":41.6914,
     "geom:longitude":-86.177895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Catalpa Dr E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320484607,
-    "wof:lastmodified":1449014742,
+    "wof:lastmodified":1466503164,
     "wof:name":"Psychology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-86.177895,41.6914,-86.177895,41.6914],
-  "geometry": {"coordinates":[-86.177895,41.6914],"type":"Point"}
+  "bbox": [
+    -86.177895,
+    41.6914,
+    -86.177895,
+    41.6914
+],
+  "geometry": {"coordinates":[-86.17789500000001,41.6914],"type":"Point"}
 }

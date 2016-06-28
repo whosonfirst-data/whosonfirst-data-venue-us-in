@@ -2,13 +2,14 @@
   "id": 336666401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.512034,40.28006,-86.512034,40.28006",
     "geom:latitude":40.28006,
     "geom:longitude":-86.512034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 S Main St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336666401,
-    "wof:lastmodified":1448997332,
+    "wof:lastmodified":1466502971,
     "wof:name":"Lincoln Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.512034,40.28006,-86.512034,40.28006],
+  "bbox": [
+    -86.512034,
+    40.28006,
+    -86.512034,
+    40.28006
+],
   "geometry": {"coordinates":[-86.512034,40.28006],"type":"Point"}
 }

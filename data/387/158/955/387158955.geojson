@@ -2,13 +2,14 @@
   "id": 387158955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.018762,39.842899,-86.018762,39.842899",
     "geom:latitude":39.842899,
     "geom:longitude":-86.018762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Industrial Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387158955,
-    "wof:lastmodified":1449058647,
+    "wof:lastmodified":1466503108,
     "wof:name":"Broadcast Services",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-86.018762,39.842899,-86.018762,39.842899],
+  "bbox": [
+    -86.018762,
+    39.842899,
+    -86.018762,
+    39.842899
+],
   "geometry": {"coordinates":[-86.018762,39.842899],"type":"Point"}
 }

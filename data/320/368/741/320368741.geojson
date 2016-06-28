@@ -2,13 +2,14 @@
   "id": 320368741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.18164,41.045719,-85.18164,41.045719",
     "geom:latitude":41.045719,
     "geom:longitude":-85.18164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 Engle Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320368741,
-    "wof:lastmodified":1449012118,
+    "wof:lastmodified":1466503010,
     "wof:name":"Indiana International Cllsn",
     "wof:parent_id":85877539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-85.18164,41.045719,-85.18164,41.045719],
+  "bbox": [
+    -85.18164,
+    41.045719,
+    -85.18164,
+    41.045719
+],
   "geometry": {"coordinates":[-85.18164,41.045719],"type":"Point"}
 }

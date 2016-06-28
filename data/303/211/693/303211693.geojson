@@ -2,13 +2,14 @@
   "id": 303211693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.492761,39.154047,-86.492761,39.154047",
     "geom:latitude":39.154047,
     "geom:longitude":-86.492761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3136 E Covenanter Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303211693,
-    "wof:lastmodified":1448998713,
+    "wof:lastmodified":1466503444,
     "wof:name":"Vurusic Gordan",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "reader"
     ]
 },
-  "bbox": [-86.492761,39.154047,-86.492761,39.154047],
+  "bbox": [
+    -86.492761,
+    39.154047,
+    -86.492761,
+    39.154047
+],
   "geometry": {"coordinates":[-86.492761,39.154047],"type":"Point"}
 }

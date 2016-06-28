@@ -2,13 +2,14 @@
   "id": 303256765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.000288,40.045533,-86.000288,40.045533",
     "geom:latitude":40.045533,
     "geom:longitude":-86.000288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Conner St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303256765,
-    "wof:lastmodified":1448999980,
+    "wof:lastmodified":1466503530,
     "wof:name":"Lehman & Co",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.000288,40.045533,-86.000288,40.045533],
+  "bbox": [
+    -86.000288,
+    40.045533,
+    -86.000288,
+    40.045533
+],
   "geometry": {"coordinates":[-86.000288,40.045533],"type":"Point"}
 }

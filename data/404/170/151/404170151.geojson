@@ -2,13 +2,14 @@
   "id": 404170151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.787936,40.011763,-85.787936,40.011763",
     "geom:latitude":40.011763,
     "geom:longitude":-85.787936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6038 S Hunters Run",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404170151,
-    "wof:lastmodified":1449039129,
+    "wof:lastmodified":1466503113,
     "wof:name":"Fall Creek Specialty Coffee LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-85.787936,40.011763,-85.787936,40.011763],
+  "bbox": [
+    -85.787936,
+    40.011763,
+    -85.787936,
+    40.011763
+],
   "geometry": {"coordinates":[-85.787936,40.011763],"type":"Point"}
 }

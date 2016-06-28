@@ -2,13 +2,14 @@
   "id": 387845303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.510759,39.759398,-86.510759,39.759398",
     "geom:latitude":39.759398,
     "geom:longitude":-86.510759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"998 E Main St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387845303,
-    "wof:lastmodified":1449056723,
+    "wof:lastmodified":1466504045,
     "wof:name":"Indo Indy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.510759,39.759398,-86.510759,39.759398],
-  "geometry": {"coordinates":[-86.510759,39.759398],"type":"Point"}
+  "bbox": [
+    -86.510759,
+    39.759398,
+    -86.510759,
+    39.759398
+],
+  "geometry": {"coordinates":[-86.51075899999999,39.759398],"type":"Point"}
 }

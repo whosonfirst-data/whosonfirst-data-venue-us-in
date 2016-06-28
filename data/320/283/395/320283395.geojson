@@ -2,13 +2,14 @@
   "id": 320283395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.251303,38.957462,-86.251303,38.957462",
     "geom:latitude":38.957462,
     "geom:longitude":-86.251303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11383 State Rd 58",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320283395,
-    "wof:lastmodified":1449012369,
+    "wof:lastmodified":1466502900,
     "wof:name":"George Fountain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-86.251303,38.957462,-86.251303,38.957462],
-  "geometry": {"coordinates":[-86.251303,38.957462],"type":"Point"}
+  "bbox": [
+    -86.251303,
+    38.957462,
+    -86.251303,
+    38.957462
+],
+  "geometry": {"coordinates":[-86.25130299999999,38.957462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354261521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.099051,39.915334,-86.099051,39.915334",
     "geom:latitude":39.915334,
     "geom:longitude":-86.099051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 River Crossing Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354261521,
-    "wof:lastmodified":1449065965,
+    "wof:lastmodified":1466503232,
     "wof:name":"Access Point",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-86.099051,39.915334,-86.099051,39.915334],
+  "bbox": [
+    -86.099051,
+    39.915334,
+    -86.099051,
+    39.915334
+],
   "geometry": {"coordinates":[-86.099051,39.915334],"type":"Point"}
 }

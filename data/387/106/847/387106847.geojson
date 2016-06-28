@@ -2,13 +2,14 @@
   "id": 387106847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789011,39.50322,-86.789011,39.50322",
     "geom:latitude":39.50322,
     "geom:longitude":-86.789011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Roosevelt St",
     "sg:city":"Cloverdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387106847,
-    "wof:lastmodified":1449056060,
+    "wof:lastmodified":1466503041,
     "wof:name":"Poindexter Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789011,39.50322,-86.789011,39.50322],
+  "bbox": [
+    -86.789011,
+    39.50322,
+    -86.789011,
+    39.50322
+],
   "geometry": {"coordinates":[-86.789011,39.50322],"type":"Point"}
 }

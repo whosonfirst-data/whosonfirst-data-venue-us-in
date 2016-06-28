@@ -2,13 +2,14 @@
   "id": 387478833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.167445,41.045182,-85.167445,41.045182",
     "geom:latitude":41.045182,
     "geom:longitude":-85.167445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 Bluffton Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387478833,
-    "wof:lastmodified":1449056243,
+    "wof:lastmodified":1466503550,
     "wof:name":"Econo Pro Quick Lube",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-85.167445,41.045182,-85.167445,41.045182],
+  "bbox": [
+    -85.167445,
+    41.045182,
+    -85.167445,
+    41.045182
+],
   "geometry": {"coordinates":[-85.167445,41.045182],"type":"Point"}
 }

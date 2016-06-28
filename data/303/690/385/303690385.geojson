@@ -2,13 +2,14 @@
   "id": 303690385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.995659,39.851598,-85.995659,39.851598",
     "geom:latitude":39.851598,
     "geom:longitude":-85.995659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9620 Pendleton Pike",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303690385,
-    "wof:lastmodified":1448999415,
+    "wof:lastmodified":1466502975,
     "wof:name":"Tobacco Plantation",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.995659,39.851598,-85.995659,39.851598],
+  "bbox": [
+    -85.995659,
+    39.851598,
+    -85.995659,
+    39.851598
+],
   "geometry": {"coordinates":[-85.995659,39.851598],"type":"Point"}
 }

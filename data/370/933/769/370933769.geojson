@@ -2,13 +2,14 @@
   "id": 370933769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.485893,41.573791,-87.485893,41.573791",
     "geom:latitude":41.573791,
     "geom:longitude":-87.485893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 177th St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370933769,
-    "wof:lastmodified":1449029786,
+    "wof:lastmodified":1466503744,
     "wof:name":"Ground Maintenance",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.485893,41.573791,-87.485893,41.573791],
+  "bbox": [
+    -87.485893,
+    41.573791,
+    -87.485893,
+    41.573791
+],
   "geometry": {"coordinates":[-87.485893,41.573791],"type":"Point"}
 }

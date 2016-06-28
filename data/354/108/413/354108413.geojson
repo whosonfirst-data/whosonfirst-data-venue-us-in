@@ -2,13 +2,14 @@
   "id": 354108413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.457157,41.483692,-87.457157,41.483692",
     "geom:latitude":41.483692,
     "geom:longitude":-87.457157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 W Elizabeth Dr",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354108413,
-    "wof:lastmodified":1449065965,
+    "wof:lastmodified":1466503008,
     "wof:name":"Mold Flow",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-87.457157,41.483692,-87.457157,41.483692],
+  "bbox": [
+    -87.457157,
+    41.483692,
+    -87.457157,
+    41.483692
+],
   "geometry": {"coordinates":[-87.457157,41.483692],"type":"Point"}
 }

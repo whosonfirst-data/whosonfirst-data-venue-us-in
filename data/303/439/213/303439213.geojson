@@ -2,13 +2,14 @@
   "id": 303439213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.41556,39.427728,-86.41556,39.427728",
     "geom:latitude":39.427728,
     "geom:longitude":-86.41556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 E Morgan St",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303439213,
-    "wof:lastmodified":1448998786,
+    "wof:lastmodified":1466503679,
     "wof:name":"Martinsville Family Eyecare",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.41556,39.427728,-86.41556,39.427728],
+  "bbox": [
+    -86.41556,
+    39.427728,
+    -86.41556,
+    39.427728
+],
   "geometry": {"coordinates":[-86.41556,39.427728],"type":"Point"}
 }

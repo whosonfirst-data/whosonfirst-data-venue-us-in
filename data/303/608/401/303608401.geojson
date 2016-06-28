@@ -2,13 +2,14 @@
   "id": 303608401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.774939,39.547555,-85.774939,39.547555",
     "geom:latitude":39.547555,
     "geom:longitude":-85.774939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E Rampart St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303608401,
-    "wof:lastmodified":1448999166,
+    "wof:lastmodified":1466502883,
     "wof:name":"Lazar Foot Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.774939,39.547555,-85.774939,39.547555],
+  "bbox": [
+    -85.774939,
+    39.547555,
+    -85.774939,
+    39.547555
+],
   "geometry": {"coordinates":[-85.774939,39.547555],"type":"Point"}
 }

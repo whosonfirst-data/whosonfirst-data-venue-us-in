@@ -2,13 +2,14 @@
   "id": 303264497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.8449,41.640171,-85.8449,41.640171",
     "geom:latitude":41.640171,
     "geom:longitude":-85.8449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58859 Sun Gold Blvd",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303264497,
-    "wof:lastmodified":1448999708,
+    "wof:lastmodified":1466503542,
     "wof:name":"Doug's Lawn Care",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-85.8449,41.640171,-85.8449,41.640171],
+  "bbox": [
+    -85.8449,
+    41.640171,
+    -85.8449,
+    41.640171
+],
   "geometry": {"coordinates":[-85.8449,41.640171],"type":"Point"}
 }

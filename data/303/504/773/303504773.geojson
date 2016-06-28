@@ -2,13 +2,14 @@
   "id": 303504773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.476833,41.707339,-86.476833,41.707339",
     "geom:latitude":41.707339,
     "geom:longitude":-86.476833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54300 Walnut Rd",
     "sg:city":"New Carlisle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303504773,
-    "wof:lastmodified":1448998544,
+    "wof:lastmodified":1466503721,
     "wof:name":"Lake's Farm Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "elevator"
     ]
 },
-  "bbox": [-86.476833,41.707339,-86.476833,41.707339],
+  "bbox": [
+    -86.476833,
+    41.707339,
+    -86.476833,
+    41.707339
+],
   "geometry": {"coordinates":[-86.476833,41.707339],"type":"Point"}
 }

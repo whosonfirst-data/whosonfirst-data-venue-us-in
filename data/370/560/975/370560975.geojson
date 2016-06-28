@@ -2,13 +2,14 @@
   "id": 370560975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.063624,39.905356,-86.063624,39.905356",
     "geom:latitude":39.905356,
     "geom:longitude":-86.063624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6024 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370560975,
-    "wof:lastmodified":1449031682,
+    "wof:lastmodified":1466503352,
     "wof:name":"Kristin Lee Designs Inc",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-86.063624,39.905356,-86.063624,39.905356],
+  "bbox": [
+    -86.063624,
+    39.905356,
+    -86.063624,
+    39.905356
+],
   "geometry": {"coordinates":[-86.063624,39.905356],"type":"Point"}
 }

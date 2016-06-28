@@ -2,13 +2,14 @@
   "id": 336684631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.826849,40.418956,-86.826849,40.418956",
     "geom:latitude":40.418956,
     "geom:longitude":-86.826849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Tonto Trl",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336684631,
-    "wof:lastmodified":1448997216,
+    "wof:lastmodified":1466502995,
     "wof:name":"Village Square Apartments",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.826849,40.418956,-86.826849,40.418956],
+  "bbox": [
+    -86.826849,
+    40.418956,
+    -86.826849,
+    40.418956
+],
   "geometry": {"coordinates":[-86.826849,40.418956],"type":"Point"}
 }

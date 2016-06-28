@@ -2,13 +2,14 @@
   "id": 354174677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.219375,41.067949,-85.219375,41.067949",
     "geom:latitude":41.067949,
     "geom:longitude":-85.219375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 Constitution Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354174677,
-    "wof:lastmodified":1449066162,
+    "wof:lastmodified":1466503096,
     "wof:name":"Mid West Title Corp Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-85.219375,41.067949,-85.219375,41.067949],
+  "bbox": [
+    -85.219375,
+    41.067949,
+    -85.219375,
+    41.067949
+],
   "geometry": {"coordinates":[-85.219375,41.067949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403961059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.458858,40.039918,-86.458858,40.039918",
     "geom:latitude":40.039918,
     "geom:longitude":-86.458858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 E Walnut St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403961059,
-    "wof:lastmodified":1449055923,
+    "wof:lastmodified":1466503246,
     "wof:name":"Fall Creek Enterprises",
     "wof:parent_id":85817903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-86.458858,40.039918,-86.458858,40.039918],
-  "geometry": {"coordinates":[-86.458858,40.039918],"type":"Point"}
+  "bbox": [
+    -86.458858,
+    40.039918,
+    -86.458858,
+    40.039918
+],
+  "geometry": {"coordinates":[-86.45885800000001,40.039918],"type":"Point"}
 }

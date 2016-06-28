@@ -2,13 +2,14 @@
   "id": 370438621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.908006,41.670747,-85.908006,41.670747",
     "geom:latitude":41.670747,
     "geom:longitude":-85.908006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56715 Bishop Ct",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370438621,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1466503212,
     "wof:name":"J R Farms Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-85.908006,41.670747,-85.908006,41.670747],
+  "bbox": [
+    -85.908006,
+    41.670747,
+    -85.908006,
+    41.670747
+],
   "geometry": {"coordinates":[-85.908006,41.670747],"type":"Point"}
 }

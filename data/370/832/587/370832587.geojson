@@ -2,13 +2,14 @@
   "id": 370832587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.747186,41.415075,-85.747186,41.415075",
     "geom:latitude":41.415075,
     "geom:longitude":-85.747186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 S Huntington St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370832587,
-    "wof:lastmodified":1449029076,
+    "wof:lastmodified":1466503622,
     "wof:name":"Knockers",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.747186,41.415075,-85.747186,41.415075],
+  "bbox": [
+    -85.747186,
+    41.415075,
+    -85.747186,
+    41.415075
+],
   "geometry": {"coordinates":[-85.747186,41.415075],"type":"Point"}
 }

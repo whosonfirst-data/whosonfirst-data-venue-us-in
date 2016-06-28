@@ -2,13 +2,14 @@
   "id": 320099099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481014,41.592545,-87.481014,41.592545",
     "geom:latitude":41.592545,
     "geom:longitude":-87.481014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6614 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320099099,
-    "wof:lastmodified":1449013697,
+    "wof:lastmodified":1466503702,
     "wof:name":"Edge Active Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-87.481014,41.592545,-87.481014,41.592545],
+  "bbox": [
+    -87.481014,
+    41.592545,
+    -87.481014,
+    41.592545
+],
   "geometry": {"coordinates":[-87.481014,41.592545],"type":"Point"}
 }

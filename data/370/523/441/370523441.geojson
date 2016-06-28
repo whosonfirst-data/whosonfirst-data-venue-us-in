@@ -2,13 +2,14 @@
   "id": 370523441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.866946,40.376333,-86.866946,40.376333",
     "geom:latitude":40.376333,
     "geom:longitude":-86.866946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Coldbrook Ct",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370523441,
-    "wof:lastmodified":1449031020,
+    "wof:lastmodified":1466503299,
     "wof:name":"Timmons Home Repair LLC",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-86.866946,40.376333,-86.866946,40.376333],
+  "bbox": [
+    -86.866946,
+    40.376333,
+    -86.866946,
+    40.376333
+],
   "geometry": {"coordinates":[-86.866946,40.376333],"type":"Point"}
 }

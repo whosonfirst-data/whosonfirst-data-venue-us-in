@@ -2,13 +2,14 @@
   "id": 336631105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.11927,39.842424,-86.11927,39.842424",
     "geom:latitude":39.842424,
     "geom:longitude":-86.11927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Willowbrook Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336631105,
-    "wof:lastmodified":1448997278,
+    "wof:lastmodified":1466502927,
     "wof:name":"KEY Consumer Organization",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-86.11927,39.842424,-86.11927,39.842424],
+  "bbox": [
+    -86.11927,
+    39.842424,
+    -86.11927,
+    39.842424
+],
   "geometry": {"coordinates":[-86.11927,39.842424],"type":"Point"}
 }

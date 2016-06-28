@@ -2,13 +2,14 @@
   "id": 336707131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.016235,39.857234,-86.016235,39.857234",
     "geom:latitude":39.857234,
     "geom:longitude":-86.016235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5845 Lawton Loop W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336707131,
-    "wof:lastmodified":1448997866,
+    "wof:lastmodified":1466503023,
     "wof:name":"Ultimate Video Pictures",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-86.016235,39.857234,-86.016235,39.857234],
-  "geometry": {"coordinates":[-86.016235,39.857234],"type":"Point"}
+  "bbox": [
+    -86.016235,
+    39.857234,
+    -86.016235,
+    39.857234
+],
+  "geometry": {"coordinates":[-86.01623499999999,39.857234],"type":"Point"}
 }

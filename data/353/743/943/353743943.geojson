@@ -2,13 +2,14 @@
   "id": 353743943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.394688,39.85223,-86.394688,39.85223",
     "geom:latitude":39.85223,
     "geom:longitude":-86.394688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 N Green St",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353743943,
-    "wof:lastmodified":1449020771,
+    "wof:lastmodified":1466503240,
     "wof:name":"Discount Sweeper World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-86.394688,39.85223,-86.394688,39.85223],
+  "bbox": [
+    -86.394688,
+    39.85223,
+    -86.394688,
+    39.85223
+],
   "geometry": {"coordinates":[-86.394688,39.85223],"type":"Point"}
 }

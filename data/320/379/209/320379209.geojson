@@ -2,13 +2,14 @@
   "id": 320379209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.124918,41.12427,-85.124918,41.12427",
     "geom:latitude":41.12427,
     "geom:longitude":-85.124918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Medical Park Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320379209,
-    "wof:lastmodified":1449013431,
+    "wof:lastmodified":1466503025,
     "wof:name":"Medical Payment Ctr",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-85.124918,41.12427,-85.124918,41.12427],
-  "geometry": {"coordinates":[-85.124918,41.12427],"type":"Point"}
+  "bbox": [
+    -85.124918,
+    41.12427,
+    -85.124918,
+    41.12427
+],
+  "geometry": {"coordinates":[-85.12491799999999,41.12427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320619081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.359257,41.502453,-87.359257,41.502453",
     "geom:latitude":41.502453,
     "geom:longitude":-87.359257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Arthur St",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320619081,
-    "wof:lastmodified":1449011925,
+    "wof:lastmodified":1466503325,
     "wof:name":"Heiny S Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.359257,41.502453,-87.359257,41.502453],
+  "bbox": [
+    -87.359257,
+    41.502453,
+    -87.359257,
+    41.502453
+],
   "geometry": {"coordinates":[-87.359257,41.502453],"type":"Point"}
 }

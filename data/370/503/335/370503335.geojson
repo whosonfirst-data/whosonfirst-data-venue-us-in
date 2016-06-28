@@ -2,13 +2,14 @@
   "id": 370503335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.500926,37.957639,-87.500926,37.957639",
     "geom:latitude":37.957639,
     "geom:longitude":-87.500926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Professional Blvd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370503335,
-    "wof:lastmodified":1449032480,
+    "wof:lastmodified":1466503275,
     "wof:name":"Nephrology Associates",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.500926,37.957639,-87.500926,37.957639],
-  "geometry": {"coordinates":[-87.500926,37.957639],"type":"Point"}
+  "bbox": [
+    -87.500926,
+    37.957639,
+    -87.500926,
+    37.957639
+],
+  "geometry": {"coordinates":[-87.50092600000001,37.957639],"type":"Point"}
 }

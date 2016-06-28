@@ -2,13 +2,14 @@
   "id": 336961255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.140282,41.079263,-85.140282,41.079263",
     "geom:latitude":41.079263,
     "geom:longitude":-85.140282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Berry St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336961255,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1466503352,
     "wof:name":"Charles D Holm Court Reporters",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-85.140282,41.079263,-85.140282,41.079263],
+  "bbox": [
+    -85.140282,
+    41.079263,
+    -85.140282,
+    41.079263
+],
   "geometry": {"coordinates":[-85.140282,41.079263],"type":"Point"}
 }

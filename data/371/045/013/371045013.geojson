@@ -2,13 +2,14 @@
   "id": 371045013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272963,39.745805,-86.272963,39.745805",
     "geom:latitude":39.745805,
     "geom:longitude":-86.272963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6441 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371045013,
-    "wof:lastmodified":1449050007,
+    "wof:lastmodified":1466502926,
     "wof:name":"Don Mitchell Pro Shops",
     "wof:parent_id":85805707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-86.272963,39.745805,-86.272963,39.745805],
+  "bbox": [
+    -86.272963,
+    39.745805,
+    -86.272963,
+    39.745805
+],
   "geometry": {"coordinates":[-86.272963,39.745805],"type":"Point"}
 }

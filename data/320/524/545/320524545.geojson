@@ -2,13 +2,14 @@
   "id": 320524545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482628,38.864842,-86.482628,38.864842",
     "geom:latitude":38.864842,
     "geom:longitude":-86.482628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 I St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320524545,
-    "wof:lastmodified":1449011222,
+    "wof:lastmodified":1466503204,
     "wof:name":"Dunn Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-86.482628,38.864842,-86.482628,38.864842],
-  "geometry": {"coordinates":[-86.482628,38.864842],"type":"Point"}
+  "bbox": [
+    -86.482628,
+    38.864842,
+    -86.482628,
+    38.864842
+],
+  "geometry": {"coordinates":[-86.48262800000001,38.864842],"type":"Point"}
 }

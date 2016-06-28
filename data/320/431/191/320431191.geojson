@@ -2,13 +2,14 @@
   "id": 320431191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.014389,39.855256,-86.014389,39.855256",
     "geom:latitude":39.855256,
     "geom:longitude":-86.014389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 E 56th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320431191,
-    "wof:lastmodified":1449011756,
+    "wof:lastmodified":1466503098,
     "wof:name":"US Defense Dept",
     "wof:parent_id":85852657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-86.014389,39.855256,-86.014389,39.855256],
-  "geometry": {"coordinates":[-86.014389,39.855256],"type":"Point"}
+  "bbox": [
+    -86.014389,
+    39.855256,
+    -86.014389,
+    39.855256
+],
+  "geometry": {"coordinates":[-86.01438899999999,39.855256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303456827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.246325,41.263748,-85.246325,41.263748",
     "geom:latitude":41.263748,
     "geom:longitude":-85.246325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7841 E 600 S-57",
     "sg:city":"Churubusco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303456827,
-    "wof:lastmodified":1448998842,
+    "wof:lastmodified":1466503690,
     "wof:name":"Gross Steve Farms",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-85.246325,41.263748,-85.246325,41.263748],
+  "bbox": [
+    -85.246325,
+    41.263748,
+    -85.246325,
+    41.263748
+],
   "geometry": {"coordinates":[-85.246325,41.263748],"type":"Point"}
 }

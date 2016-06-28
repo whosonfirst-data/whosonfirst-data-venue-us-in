@@ -2,13 +2,14 @@
   "id": 387052629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.928119,41.680582,-86.928119,41.680582",
     "geom:latitude":41.680582,
     "geom:longitude":-86.928119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8707 W US Hwy 20",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387052629,
-    "wof:lastmodified":1449057831,
+    "wof:lastmodified":1466502954,
     "wof:name":"Ace Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-86.928119,41.680582,-86.928119,41.680582],
+  "bbox": [
+    -86.928119,
+    41.680582,
+    -86.928119,
+    41.680582
+],
   "geometry": {"coordinates":[-86.928119,41.680582],"type":"Point"}
 }

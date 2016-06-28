@@ -2,13 +2,14 @@
   "id": 353410685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.038457,39.691508,-86.038457,39.691508",
     "geom:latitude":39.691508,
     "geom:longitude":-86.038457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7150 Tresa Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353410685,
-    "wof:lastmodified":1449018293,
+    "wof:lastmodified":1466502895,
     "wof:name":"ABR Diamonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-86.038457,39.691508,-86.038457,39.691508],
-  "geometry": {"coordinates":[-86.038457,39.691508],"type":"Point"}
+  "bbox": [
+    -86.038457,
+    39.691508,
+    -86.038457,
+    39.691508
+],
+  "geometry": {"coordinates":[-86.03845699999999,39.691508],"type":"Point"}
 }

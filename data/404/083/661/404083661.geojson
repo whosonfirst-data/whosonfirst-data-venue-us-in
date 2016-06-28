@@ -2,13 +2,14 @@
   "id": 404083661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.018024,39.816579,-86.018024,39.816579",
     "geom:latitude":39.816579,
     "geom:longitude":-86.018024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 E 33rd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404083661,
-    "wof:lastmodified":1449039583,
+    "wof:lastmodified":1466503001,
     "wof:name":"National Chemsearch Corp",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-86.018024,39.816579,-86.018024,39.816579],
+  "bbox": [
+    -86.018024,
+    39.816579,
+    -86.018024,
+    39.816579
+],
   "geometry": {"coordinates":[-86.018024,39.816579],"type":"Point"}
 }

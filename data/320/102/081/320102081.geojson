@@ -2,13 +2,14 @@
   "id": 320102081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.678076,40.032647,-85.678076,40.032647",
     "geom:latitude":40.032647,
     "geom:longitude":-85.678076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5447 S 50 W",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320102081,
-    "wof:lastmodified":1449014681,
+    "wof:lastmodified":1466503703,
     "wof:name":"Fugates Preferred",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.678076,40.032647,-85.678076,40.032647],
+  "bbox": [
+    -85.678076,
+    40.032647,
+    -85.678076,
+    40.032647
+],
   "geometry": {"coordinates":[-85.678076,40.032647],"type":"Point"}
 }

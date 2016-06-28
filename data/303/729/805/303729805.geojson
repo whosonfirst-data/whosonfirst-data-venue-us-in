@@ -2,13 +2,14 @@
   "id": 303729805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.53374,39.158613,-86.53374,39.158613",
     "geom:latitude":39.158613,
     "geom:longitude":-86.53374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 S Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303729805,
-    "wof:lastmodified":1448999350,
+    "wof:lastmodified":1466503022,
     "wof:name":"Wheels Auto Sales",
     "wof:parent_id":85832565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.53374,39.158613,-86.53374,39.158613],
-  "geometry": {"coordinates":[-86.53374,39.158613],"type":"Point"}
+  "bbox": [
+    -86.53374,
+    39.158613,
+    -86.53374,
+    39.158613
+],
+  "geometry": {"coordinates":[-86.53373999999999,39.158613],"type":"Point"}
 }

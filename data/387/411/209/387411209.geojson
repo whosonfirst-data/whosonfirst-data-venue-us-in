@@ -2,13 +2,14 @@
   "id": 387411209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.590884,39.220978,-86.590884,39.220978",
     "geom:latitude":39.220978,
     "geom:longitude":-86.590884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Maefield St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387411209,
-    "wof:lastmodified":1449056295,
+    "wof:lastmodified":1466503456,
     "wof:name":"Maefield Real Estate",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.590884,39.220978,-86.590884,39.220978],
+  "bbox": [
+    -86.590884,
+    39.220978,
+    -86.590884,
+    39.220978
+],
   "geometry": {"coordinates":[-86.590884,39.220978],"type":"Point"}
 }

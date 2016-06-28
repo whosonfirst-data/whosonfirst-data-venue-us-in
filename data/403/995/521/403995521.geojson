@@ -2,13 +2,14 @@
   "id": 403995521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.143477,41.091269,-85.143477,41.091269",
     "geom:latitude":41.091269,
     "geom:longitude":-85.143477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 N Harrison St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403995521,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1466503304,
     "wof:name":"A-1 Glass Works",
     "wof:parent_id":85877537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-85.143477,41.091269,-85.143477,41.091269],
+  "bbox": [
+    -85.143477,
+    41.091269,
+    -85.143477,
+    41.091269
+],
   "geometry": {"coordinates":[-85.143477,41.091269],"type":"Point"}
 }

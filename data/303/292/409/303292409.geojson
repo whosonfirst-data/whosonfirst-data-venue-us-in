@@ -2,13 +2,14 @@
   "id": 303292409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.826356,38.326826,-85.826356,38.326826",
     "geom:latitude":38.326826,
     "geom:longitude":-85.826356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Rolling Creek Dr",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303292409,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466503571,
     "wof:name":"Tim Jones Custom Home Design",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-85.826356,38.326826,-85.826356,38.326826],
+  "bbox": [
+    -85.826356,
+    38.326826,
+    -85.826356,
+    38.326826
+],
   "geometry": {"coordinates":[-85.826356,38.326826],"type":"Point"}
 }

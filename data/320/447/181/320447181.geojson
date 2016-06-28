@@ -2,13 +2,14 @@
   "id": 320447181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.038089,41.673413,-86.038089,41.673413",
     "geom:latitude":41.673413,
     "geom:longitude":-86.038089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29869 Cardinal Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320447181,
-    "wof:lastmodified":1449013891,
+    "wof:lastmodified":1466503116,
     "wof:name":"Midwest Corals",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-86.038089,41.673413,-86.038089,41.673413],
+  "bbox": [
+    -86.038089,
+    41.673413,
+    -86.038089,
+    41.673413
+],
   "geometry": {"coordinates":[-86.038089,41.673413],"type":"Point"}
 }

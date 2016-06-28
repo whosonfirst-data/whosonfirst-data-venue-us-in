@@ -2,13 +2,14 @@
   "id": 370170481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574345,38.006038,-87.574345,38.006038",
     "geom:latitude":38.006038,
     "geom:longitude":-87.574345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Lohoff Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370170481,
-    "wof:lastmodified":1449029407,
+    "wof:lastmodified":1466502910,
     "wof:name":"Agape Child Care",
     "wof:parent_id":85824193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.574345,38.006038,-87.574345,38.006038],
-  "geometry": {"coordinates":[-87.574345,38.006038],"type":"Point"}
+  "bbox": [
+    -87.574345,
+    38.006038,
+    -87.574345,
+    38.006038
+],
+  "geometry": {"coordinates":[-87.57434499999999,38.006038],"type":"Point"}
 }

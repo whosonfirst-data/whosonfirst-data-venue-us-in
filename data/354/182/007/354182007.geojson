@@ -2,13 +2,14 @@
   "id": 354182007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.373847,40.750902,-86.373847,40.750902",
     "geom:latitude":40.750902,
     "geom:longitude":-86.373847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Front St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354182007,
-    "wof:lastmodified":1449067043,
+    "wof:lastmodified":1466503111,
     "wof:name":"Montero's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.373847,40.750902,-86.373847,40.750902],
+  "bbox": [
+    -86.373847,
+    40.750902,
+    -86.373847,
+    40.750902
+],
   "geometry": {"coordinates":[-86.373847,40.750902],"type":"Point"}
 }

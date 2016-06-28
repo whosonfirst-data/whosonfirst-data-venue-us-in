@@ -2,13 +2,14 @@
   "id": 387455853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.482002,38.714235,-85.482002,38.714235",
     "geom:latitude":38.714235,
     "geom:longitude":-85.482002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Lagrange Rd",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387455853,
-    "wof:lastmodified":1449059318,
+    "wof:lastmodified":1466503519,
     "wof:name":"Pamela A Middleton MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.482002,38.714235,-85.482002,38.714235],
-  "geometry": {"coordinates":[-85.482002,38.714235],"type":"Point"}
+  "bbox": [
+    -85.482002,
+    38.714235,
+    -85.482002,
+    38.714235
+],
+  "geometry": {"coordinates":[-85.48200199999999,38.714235],"type":"Point"}
 }

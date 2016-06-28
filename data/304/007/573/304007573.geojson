@@ -2,13 +2,14 @@
   "id": 304007573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.214313,41.065857,-86.214313,41.065857",
     "geom:latitude":41.065857,
     "geom:longitude":-86.214313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Madison St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304007573,
-    "wof:lastmodified":1449044063,
+    "wof:lastmodified":1466503396,
     "wof:name":"County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-86.214313,41.065857,-86.214313,41.065857],
+  "bbox": [
+    -86.214313,
+    41.065857,
+    -86.214313,
+    41.065857
+],
   "geometry": {"coordinates":[-86.214313,41.065857],"type":"Point"}
 }

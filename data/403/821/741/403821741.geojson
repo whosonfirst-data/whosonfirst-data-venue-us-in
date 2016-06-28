@@ -2,13 +2,14 @@
   "id": 403821741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.209064,41.045527,-85.209064,41.045527",
     "geom:latitude":41.045527,
     "geom:longitude":-85.209064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 Engle Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403821741,
-    "wof:lastmodified":1449055359,
+    "wof:lastmodified":1466503054,
     "wof:name":"American Renovation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-85.209064,41.045527,-85.209064,41.045527],
+  "bbox": [
+    -85.209064,
+    41.045527,
+    -85.209064,
+    41.045527
+],
   "geometry": {"coordinates":[-85.209064,41.045527],"type":"Point"}
 }

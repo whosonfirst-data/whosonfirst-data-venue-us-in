@@ -2,13 +2,14 @@
   "id": 403911059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.777362,39.522848,-85.777362,39.522848",
     "geom:latitude":39.522848,
     "geom:longitude":-85.777362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Broadway St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403911059,
-    "wof:lastmodified":1449055754,
+    "wof:lastmodified":1466503176,
     "wof:name":"Adams Glass & Garage Doors",
     "wof:parent_id":85854263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-85.777362,39.522848,-85.777362,39.522848],
+  "bbox": [
+    -85.777362,
+    39.522848,
+    -85.777362,
+    39.522848
+],
   "geometry": {"coordinates":[-85.777362,39.522848],"type":"Point"}
 }

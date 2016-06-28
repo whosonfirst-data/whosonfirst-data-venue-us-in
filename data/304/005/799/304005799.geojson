@@ -2,13 +2,14 @@
   "id": 304005799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566807,39.164438,-86.566807,39.164438",
     "geom:latitude":39.164438,
     "geom:longitude":-86.566807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304005799,
-    "wof:lastmodified":1449044122,
+    "wof:lastmodified":1466503394,
     "wof:name":"BMB Heating & Cooling",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.566807,39.164438,-86.566807,39.164438],
+  "bbox": [
+    -86.566807,
+    39.164438,
+    -86.566807,
+    39.164438
+],
   "geometry": {"coordinates":[-86.566807,39.164438],"type":"Point"}
 }

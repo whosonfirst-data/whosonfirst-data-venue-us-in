@@ -2,13 +2,14 @@
   "id": 336669257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.974936,40.66575,-84.974936,40.66575",
     "geom:latitude":40.66575,
     "geom:longitude":-84.974936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5496 S 200 W",
     "sg:city":"Berne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336669257,
-    "wof:lastmodified":1448997053,
+    "wof:lastmodified":1466502974,
     "wof:name":"Swiss Craft Precision Grinding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maker"
     ]
 },
-  "bbox": [-84.974936,40.66575,-84.974936,40.66575],
+  "bbox": [
+    -84.974936,
+    40.66575,
+    -84.974936,
+    40.66575
+],
   "geometry": {"coordinates":[-84.974936,40.66575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303775565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.629577,37.987449,-87.629577,37.987449",
     "geom:latitude":37.987449,
     "geom:longitude":-87.629577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Upper Mount Vernon Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303775565,
-    "wof:lastmodified":1448999928,
+    "wof:lastmodified":1466503074,
     "wof:name":"Marsch Plumbing",
     "wof:parent_id":85877285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.629577,37.987449,-87.629577,37.987449],
+  "bbox": [
+    -87.629577,
+    37.987449,
+    -87.629577,
+    37.987449
+],
   "geometry": {"coordinates":[-87.629577,37.987449],"type":"Point"}
 }

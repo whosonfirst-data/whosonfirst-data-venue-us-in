@@ -2,13 +2,14 @@
   "id": 403998297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.773781,38.331646,-85.773781,38.331646",
     "geom:latitude":38.331646,
     "geom:longitude":-85.773781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Hazelwood Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403998297,
-    "wof:lastmodified":1449055066,
+    "wof:lastmodified":1466503308,
     "wof:name":"A Swimmer's Choice Spring Wtr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-85.773781,38.331646,-85.773781,38.331646],
+  "bbox": [
+    -85.773781,
+    38.331646,
+    -85.773781,
+    38.331646
+],
   "geometry": {"coordinates":[-85.773781,38.331646],"type":"Point"}
 }

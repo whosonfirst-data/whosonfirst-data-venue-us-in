@@ -2,13 +2,14 @@
   "id": 320796433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.959386,39.932708,-85.959386,39.932708",
     "geom:latitude":39.932708,
     "geom:longitude":-85.959386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11693 Fall Creek Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320796433,
-    "wof:lastmodified":1449013020,
+    "wof:lastmodified":1466503507,
     "wof:name":"Geist Personal Fitness Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-85.959386,39.932708,-85.959386,39.932708],
-  "geometry": {"coordinates":[-85.959386,39.932708],"type":"Point"}
+  "bbox": [
+    -85.959386,
+    39.932708,
+    -85.959386,
+    39.932708
+],
+  "geometry": {"coordinates":[-85.95938599999999,39.932708],"type":"Point"}
 }

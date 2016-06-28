@@ -2,13 +2,14 @@
   "id": 387950099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.349523,39.763439,-86.349523,39.763439",
     "geom:latitude":39.763439,
     "geom:longitude":-86.349523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9831 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387950099,
-    "wof:lastmodified":1449057588,
+    "wof:lastmodified":1466504200,
     "wof:name":"Lambert Excavating Inc",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.349523,39.763439,-86.349523,39.763439],
+  "bbox": [
+    -86.349523,
+    39.763439,
+    -86.349523,
+    39.763439
+],
   "geometry": {"coordinates":[-86.349523,39.763439],"type":"Point"}
 }

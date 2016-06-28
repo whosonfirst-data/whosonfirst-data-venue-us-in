@@ -2,13 +2,14 @@
   "id": 370697543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.547634,37.974628,-87.547634,37.974628",
     "geom:latitude":37.974628,
     "geom:longitude":-87.547634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Kentucky Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370697543,
-    "wof:lastmodified":1449031207,
+    "wof:lastmodified":1466503489,
     "wof:name":"Huff's Carpet Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-87.547634,37.974628,-87.547634,37.974628],
+  "bbox": [
+    -87.547634,
+    37.974628,
+    -87.547634,
+    37.974628
+],
   "geometry": {"coordinates":[-87.547634,37.974628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370259161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.498865,38.68569,-87.498865,38.68569",
     "geom:latitude":38.68569,
     "geom:longitude":-87.498865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Washington Ave",
     "sg:city":"Vincennes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370259161,
-    "wof:lastmodified":1449029863,
+    "wof:lastmodified":1466503023,
     "wof:name":"Select Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oxygen"
     ]
 },
-  "bbox": [-87.498865,38.68569,-87.498865,38.68569],
+  "bbox": [
+    -87.498865,
+    38.68569,
+    -87.498865,
+    38.68569
+],
   "geometry": {"coordinates":[-87.498865,38.68569],"type":"Point"}
 }

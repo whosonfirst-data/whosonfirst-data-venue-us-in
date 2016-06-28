@@ -2,13 +2,14 @@
   "id": 336912011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.255619,41.032503,-85.255619,41.032503",
     "geom:latitude":41.032503,
     "geom:longitude":-85.255619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8615 US Hwy 24 W",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336912011,
-    "wof:lastmodified":1448997489,
+    "wof:lastmodified":1466503286,
     "wof:name":"Hilton Garden Inn-Fort Wayne",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.255619,41.032503,-85.255619,41.032503],
+  "bbox": [
+    -85.255619,
+    41.032503,
+    -85.255619,
+    41.032503
+],
   "geometry": {"coordinates":[-85.255619,41.032503],"type":"Point"}
 }

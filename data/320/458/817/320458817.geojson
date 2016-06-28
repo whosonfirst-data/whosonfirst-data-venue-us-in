@@ -2,13 +2,14 @@
   "id": 320458817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.903192,39.849186,-84.903192,39.849186",
     "geom:latitude":39.849186,
     "geom:longitude":-84.903192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 Sheridan St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320458817,
-    "wof:lastmodified":1449013919,
+    "wof:lastmodified":1466503132,
     "wof:name":"Sanyo North America Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [-84.903192,39.849186,-84.903192,39.849186],
+  "bbox": [
+    -84.903192,
+    39.849186,
+    -84.903192,
+    39.849186
+],
   "geometry": {"coordinates":[-84.903192,39.849186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320220725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.30734,39.945892,-86.30734,39.945892",
     "geom:latitude":39.945892,
     "geom:longitude":-86.30734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 S 850 E",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320220725,
-    "wof:lastmodified":1449014830,
+    "wof:lastmodified":1466503767,
     "wof:name":"Grand Illusion Lighting & Grip",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.30734,39.945892,-86.30734,39.945892],
+  "bbox": [
+    -86.30734,
+    39.945892,
+    -86.30734,
+    39.945892
+],
   "geometry": {"coordinates":[-86.30734,39.945892],"type":"Point"}
 }

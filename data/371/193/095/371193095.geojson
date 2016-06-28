@@ -2,13 +2,14 @@
   "id": 371193095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.558701,37.95518,-87.558701,37.95518",
     "geom:latitude":37.95518,
     "geom:longitude":-87.558701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Riverside Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371193095,
-    "wof:lastmodified":1449049206,
+    "wof:lastmodified":1466503120,
     "wof:name":"Riverside Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.558701,37.95518,-87.558701,37.95518],
+  "bbox": [
+    -87.558701,
+    37.95518,
+    -87.558701,
+    37.95518
+],
   "geometry": {"coordinates":[-87.558701,37.95518],"type":"Point"}
 }

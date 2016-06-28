@@ -2,13 +2,14 @@
   "id": 303233369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.831799,38.297203,-85.831799,38.297203",
     "geom:latitude":38.297203,
     "geom:longitude":-85.831799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 State St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303233369,
-    "wof:lastmodified":1449000609,
+    "wof:lastmodified":1466503506,
     "wof:name":"Annex Business Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "answering"
     ]
 },
-  "bbox": [-85.831799,38.297203,-85.831799,38.297203],
+  "bbox": [
+    -85.831799,
+    38.297203,
+    -85.831799,
+    38.297203
+],
   "geometry": {"coordinates":[-85.831799,38.297203],"type":"Point"}
 }

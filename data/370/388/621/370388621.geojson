@@ -2,13 +2,14 @@
   "id": 370388621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83201,41.238966,-85.83201,41.238966",
     "geom:latitude":41.238966,
     "geom:longitude":-85.83201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Main St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370388621,
-    "wof:lastmodified":1449029195,
+    "wof:lastmodified":1466503165,
     "wof:name":"Church Of Christ-Warsaw",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.83201,41.238966,-85.83201,41.238966],
+  "bbox": [
+    -85.83201,
+    41.238966,
+    -85.83201,
+    41.238966
+],
   "geometry": {"coordinates":[-85.83201,41.238966],"type":"Point"}
 }

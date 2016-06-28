@@ -2,13 +2,14 @@
   "id": 319878013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.062647,41.142638,-85.062647,41.142638",
     "geom:latitude":41.142638,
     "geom:longitude":-85.062647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6332 Maplecrest Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319878013,
-    "wof:lastmodified":1449024497,
+    "wof:lastmodified":1466503813,
     "wof:name":"W C Borchelt & Sons Inc",
     "wof:parent_id":85822129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.062647,41.142638,-85.062647,41.142638],
+  "bbox": [
+    -85.062647,
+    41.142638,
+    -85.062647,
+    41.142638
+],
   "geometry": {"coordinates":[-85.062647,41.142638],"type":"Point"}
 }

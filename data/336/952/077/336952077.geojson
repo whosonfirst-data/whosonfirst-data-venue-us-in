@@ -2,13 +2,14 @@
   "id": 336952077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.139904,39.735473,-86.139904,39.735473",
     "geom:latitude":39.735473,
     "geom:longitude":-86.139904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Hervey St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336952077,
-    "wof:lastmodified":1448997707,
+    "wof:lastmodified":1466503338,
     "wof:name":"D & H Restaurant Consulting",
     "wof:parent_id":85866943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "engineer"
     ]
 },
-  "bbox": [-86.139904,39.735473,-86.139904,39.735473],
+  "bbox": [
+    -86.139904,
+    39.735473,
+    -86.139904,
+    39.735473
+],
   "geometry": {"coordinates":[-86.139904,39.735473],"type":"Point"}
 }

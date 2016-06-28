@@ -2,13 +2,14 @@
   "id": 303354353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.080381,39.875915,-86.080381,39.875915",
     "geom:latitude":39.875915,
     "geom:longitude":-86.080381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5153 E 65th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303354353,
-    "wof:lastmodified":1449000293,
+    "wof:lastmodified":1466503631,
     "wof:name":"M D Boats Inc",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.080381,39.875915,-86.080381,39.875915],
+  "bbox": [
+    -86.080381,
+    39.875915,
+    -86.080381,
+    39.875915
+],
   "geometry": {"coordinates":[-86.080381,39.875915],"type":"Point"}
 }

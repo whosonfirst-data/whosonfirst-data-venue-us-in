@@ -2,13 +2,14 @@
   "id": 370816051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.446777,40.561049,-85.446777,40.561049",
     "geom:latitude":40.561049,
     "geom:longitude":-85.446777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7588 N 400 W-5",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370816051,
-    "wof:lastmodified":1449031047,
+    "wof:lastmodified":1466503606,
     "wof:name":"Betty Boan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-85.446777,40.561049,-85.446777,40.561049],
+  "bbox": [
+    -85.446777,
+    40.561049,
+    -85.446777,
+    40.561049
+],
   "geometry": {"coordinates":[-85.446777,40.561049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387355789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039676,39.750132,-86.039676,39.750132",
     "geom:latitude":39.750132,
     "geom:longitude":-86.039676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 Sadlier Circle W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387355789,
-    "wof:lastmodified":1449057162,
+    "wof:lastmodified":1466503379,
     "wof:name":"Wheels Assured Logistics LLC",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cover"
     ]
 },
-  "bbox": [-86.039676,39.750132,-86.039676,39.750132],
+  "bbox": [
+    -86.039676,
+    39.750132,
+    -86.039676,
+    39.750132
+],
   "geometry": {"coordinates":[-86.039676,39.750132],"type":"Point"}
 }

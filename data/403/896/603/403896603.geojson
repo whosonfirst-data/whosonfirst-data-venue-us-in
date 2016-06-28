@@ -2,13 +2,14 @@
   "id": 403896603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.486898,37.967909,-87.486898,37.967909",
     "geom:latitude":37.967909,
     "geom:longitude":-87.486898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Cullen Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403896603,
-    "wof:lastmodified":1449055120,
+    "wof:lastmodified":1466503158,
     "wof:name":"Belle Manor Owners Assn",
     "wof:parent_id":85877313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-87.486898,37.967909,-87.486898,37.967909],
+  "bbox": [
+    -87.486898,
+    37.967909,
+    -87.486898,
+    37.967909
+],
   "geometry": {"coordinates":[-87.486898,37.967909],"type":"Point"}
 }

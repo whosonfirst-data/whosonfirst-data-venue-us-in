@@ -2,13 +2,14 @@
   "id": 370486743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.467418,39.761573,-86.467418,39.761573",
     "geom:latitude":39.761573,
     "geom:longitude":-86.467418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Co Rd 300 E",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370486743,
-    "wof:lastmodified":1449030955,
+    "wof:lastmodified":1466503263,
     "wof:name":"Danville Chrysler-Dodge-Jeep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.467418,39.761573,-86.467418,39.761573],
+  "bbox": [
+    -86.467418,
+    39.761573,
+    -86.467418,
+    39.761573
+],
   "geometry": {"coordinates":[-86.467418,39.761573],"type":"Point"}
 }

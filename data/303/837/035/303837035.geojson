@@ -2,13 +2,14 @@
   "id": 303837035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138966,39.658943,-85.138966,39.658943",
     "geom:latitude":39.658943,
     "geom:longitude":-85.138966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W 21st St",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303837035,
-    "wof:lastmodified":1448998501,
+    "wof:lastmodified":1466503151,
     "wof:name":"Indiana University East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-85.138966,39.658943,-85.138966,39.658943],
+  "bbox": [
+    -85.138966,
+    39.658943,
+    -85.138966,
+    39.658943
+],
   "geometry": {"coordinates":[-85.138966,39.658943],"type":"Point"}
 }

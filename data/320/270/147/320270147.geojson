@@ -2,13 +2,14 @@
   "id": 320270147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133635,40.466226,-86.133635,40.466226",
     "geom:latitude":40.466226,
     "geom:longitude":-86.133635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 S Washington St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320270147,
-    "wof:lastmodified":1449011923,
+    "wof:lastmodified":1466502883,
     "wof:name":"Gaffney Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.133635,40.466226,-86.133635,40.466226],
+  "bbox": [
+    -86.133635,
+    40.466226,
+    -86.133635,
+    40.466226
+],
   "geometry": {"coordinates":[-86.133635,40.466226],"type":"Point"}
 }

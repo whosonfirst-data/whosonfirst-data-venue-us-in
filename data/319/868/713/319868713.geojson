@@ -2,13 +2,14 @@
   "id": 319868713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.632348,40.175233,-85.632348,40.175233",
     "geom:latitude":40.175233,
     "geom:longitude":-85.632348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4541 N 200 E",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319868713,
-    "wof:lastmodified":1449024133,
+    "wof:lastmodified":1466503580,
     "wof:name":"Fraziers Heating & Cooling",
     "wof:parent_id":85837179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.632348,40.175233,-85.632348,40.175233],
-  "geometry": {"coordinates":[-85.632348,40.175233],"type":"Point"}
+  "bbox": [
+    -85.632348,
+    40.175233,
+    -85.632348,
+    40.175233
+],
+  "geometry": {"coordinates":[-85.63234799999999,40.175233],"type":"Point"}
 }

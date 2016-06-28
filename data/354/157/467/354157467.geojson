@@ -2,13 +2,14 @@
   "id": 354157467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.905988,41.695222,-86.905988,41.695222",
     "geom:latitude":41.695222,
     "geom:longitude":-86.905988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Bolka Ave",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354157467,
-    "wof:lastmodified":1449067421,
+    "wof:lastmodified":1466503072,
     "wof:name":"Knapp Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.905988,41.695222,-86.905988,41.695222],
-  "geometry": {"coordinates":[-86.905988,41.695222],"type":"Point"}
+  "bbox": [
+    -86.905988,
+    41.695222,
+    -86.905988,
+    41.695222
+],
+  "geometry": {"coordinates":[-86.90598799999999,41.695222],"type":"Point"}
 }

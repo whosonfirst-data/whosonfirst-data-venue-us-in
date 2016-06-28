@@ -2,13 +2,14 @@
   "id": 371131739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.831941,38.335572,-85.831941,38.335572",
     "geom:latitude":38.335572,
     "geom:longitude":-85.831941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 Progress Blvd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371131739,
-    "wof:lastmodified":1449049320,
+    "wof:lastmodified":1466503036,
     "wof:name":"Compass Group-Canteen",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-85.831941,38.335572,-85.831941,38.335572],
+  "bbox": [
+    -85.831941,
+    38.335572,
+    -85.831941,
+    38.335572
+],
   "geometry": {"coordinates":[-85.831941,38.335572],"type":"Point"}
 }

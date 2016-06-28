@@ -2,13 +2,14 @@
   "id": 353977541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.20521,41.137882,-85.20521,41.137882",
     "geom:latitude":41.137882,
     "geom:longitude":-85.20521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4931 US Hwy 33 N",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353977541,
-    "wof:lastmodified":1449020873,
+    "wof:lastmodified":1466503524,
     "wof:name":"Hughes 33 Auto Sales",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.20521,41.137882,-85.20521,41.137882],
-  "geometry": {"coordinates":[-85.20521,41.137882],"type":"Point"}
+  "bbox": [
+    -85.20521,
+    41.137882,
+    -85.20521,
+    41.137882
+],
+  "geometry": {"coordinates":[-85.20520999999999,41.137882],"type":"Point"}
 }

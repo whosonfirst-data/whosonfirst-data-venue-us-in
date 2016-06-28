@@ -2,13 +2,14 @@
   "id": 320117729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173749,41.661063,-86.173749,41.661063",
     "geom:latitude":41.661063,
     "geom:longitude":-86.173749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Lincoln Way E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320117729,
-    "wof:lastmodified":1449013813,
+    "wof:lastmodified":1466503711,
     "wof:name":"Dr Charles Shearer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173749,41.661063,-86.173749,41.661063],
+  "bbox": [
+    -86.173749,
+    41.661063,
+    -86.173749,
+    41.661063
+],
   "geometry": {"coordinates":[-86.173749,41.661063],"type":"Point"}
 }

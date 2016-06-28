@@ -2,13 +2,14 @@
   "id": 387252295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.150484,41.087766,-85.150484,41.087766",
     "geom:latitude":41.087766,
     "geom:longitude":-85.150484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 W 4th St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387252295,
-    "wof:lastmodified":1449056605,
+    "wof:lastmodified":1466503242,
     "wof:name":"Heartland After Market Auto",
     "wof:parent_id":85877537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-85.150484,41.087766,-85.150484,41.087766],
-  "geometry": {"coordinates":[-85.150484,41.087766],"type":"Point"}
+  "bbox": [
+    -85.150484,
+    41.087766,
+    -85.150484,
+    41.087766
+],
+  "geometry": {"coordinates":[-85.15048400000001,41.087766],"type":"Point"}
 }

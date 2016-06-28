@@ -2,13 +2,14 @@
   "id": 353518007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.377249,38.736269,-85.377249,38.736269",
     "geom:latitude":38.736269,
     "geom:longitude":-85.377249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353518007,
-    "wof:lastmodified":1449019697,
+    "wof:lastmodified":1466502970,
     "wof:name":"Good Samaritan Ministry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.377249,38.736269,-85.377249,38.736269],
-  "geometry": {"coordinates":[-85.377249,38.736269],"type":"Point"}
+  "bbox": [
+    -85.377249,
+    38.736269,
+    -85.377249,
+    38.736269
+],
+  "geometry": {"coordinates":[-85.37724900000001,38.736269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371159873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.145445,41.06955,-85.145445,41.06955",
     "geom:latitude":41.06955,
     "geom:longitude":-85.145445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Fairfield Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371159873,
-    "wof:lastmodified":1449049153,
+    "wof:lastmodified":1466503073,
     "wof:name":"Rolf & Griffin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-85.145445,41.06955,-85.145445,41.06955],
+  "bbox": [
+    -85.145445,
+    41.06955,
+    -85.145445,
+    41.06955
+],
   "geometry": {"coordinates":[-85.145445,41.06955],"type":"Point"}
 }

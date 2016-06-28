@@ -2,13 +2,14 @@
   "id": 354268807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.181433,41.698483,-86.181433,41.698483",
     "geom:latitude":41.698483,
     "geom:longitude":-86.181433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 E Day Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354268807,
-    "wof:lastmodified":1449066918,
+    "wof:lastmodified":1466503241,
     "wof:name":"David F Sonego & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.181433,41.698483,-86.181433,41.698483],
+  "bbox": [
+    -86.181433,
+    41.698483,
+    -86.181433,
+    41.698483
+],
   "geometry": {"coordinates":[-86.181433,41.698483],"type":"Point"}
 }

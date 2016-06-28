@@ -2,13 +2,14 @@
   "id": 370858433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.15832,41.091552,-85.15832,41.091552",
     "geom:latitude":41.091552,
     "geom:longitude":-85.15832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Putnam St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370858433,
-    "wof:lastmodified":1449029421,
+    "wof:lastmodified":1466503651,
     "wof:name":"Phil's Heating & Air Cond Inc",
     "wof:parent_id":85877551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.15832,41.091552,-85.15832,41.091552],
+  "bbox": [
+    -85.15832,
+    41.091552,
+    -85.15832,
+    41.091552
+],
   "geometry": {"coordinates":[-85.15832,41.091552],"type":"Point"}
 }

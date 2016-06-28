@@ -2,13 +2,14 @@
   "id": 303613669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.202954,39.902496,-86.202954,39.902496",
     "geom:latitude":39.902496,
     "geom:longitude":-86.202954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8091 Township Line Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303613669,
-    "wof:lastmodified":1448999257,
+    "wof:lastmodified":1466502888,
     "wof:name":"Marc Kappelman MD",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.202954,39.902496,-86.202954,39.902496],
-  "geometry": {"coordinates":[-86.202954,39.902496],"type":"Point"}
+  "bbox": [
+    -86.202954,
+    39.902496,
+    -86.202954,
+    39.902496
+],
+  "geometry": {"coordinates":[-86.20295400000001,39.902496],"type":"Point"}
 }

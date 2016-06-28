@@ -2,13 +2,14 @@
   "id": 336779389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.252478,39.752234,-86.252478,39.752234",
     "geom:latitude":39.752234,
     "geom:longitude":-86.252478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336779389,
-    "wof:lastmodified":1448997108,
+    "wof:lastmodified":1466503120,
     "wof:name":"My Fathers Discount Bedding",
     "wof:parent_id":85805707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-86.252478,39.752234,-86.252478,39.752234],
+  "bbox": [
+    -86.252478,
+    39.752234,
+    -86.252478,
+    39.752234
+],
   "geometry": {"coordinates":[-86.252478,39.752234],"type":"Point"}
 }

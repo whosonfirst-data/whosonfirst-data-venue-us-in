@@ -2,13 +2,14 @@
   "id": 320085255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.784817,39.514916,-85.784817,39.514916",
     "geom:latitude":39.514916,
     "geom:longitude":-85.784817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 S Miller St",
     "sg:city":"Fairland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320085255,
-    "wof:lastmodified":1449012196,
+    "wof:lastmodified":1466503695,
     "wof:name":"Robert's Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.784817,39.514916,-85.784817,39.514916],
+  "bbox": [
+    -85.784817,
+    39.514916,
+    -85.784817,
+    39.514916
+],
   "geometry": {"coordinates":[-85.784817,39.514916],"type":"Point"}
 }

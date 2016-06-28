@@ -2,13 +2,14 @@
   "id": 354014219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.961639,39.200255,-85.961639,39.200255",
     "geom:latitude":39.200255,
     "geom:longitude":-85.961639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 W Jonathan Moore Pike",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354014219,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466502900,
     "wof:name":"Sunset 46 Bar & Grill",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.961639,39.200255,-85.961639,39.200255],
-  "geometry": {"coordinates":[-85.961639,39.200255],"type":"Point"}
+  "bbox": [
+    -85.961639,
+    39.200255,
+    -85.961639,
+    39.200255
+],
+  "geometry": {"coordinates":[-85.96163900000001,39.200255],"type":"Point"}
 }

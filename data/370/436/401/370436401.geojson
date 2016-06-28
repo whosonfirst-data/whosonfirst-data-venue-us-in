@@ -2,13 +2,14 @@
   "id": 370436401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.856717,41.237932,-85.856717,41.237932",
     "geom:latitude":41.237932,
     "geom:longitude":-85.856717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Buffalo St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370436401,
-    "wof:lastmodified":1449032152,
+    "wof:lastmodified":1466503209,
     "wof:name":"Makit",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fiber"
     ]
 },
-  "bbox": [-85.856717,41.237932,-85.856717,41.237932],
+  "bbox": [
+    -85.856717,
+    41.237932,
+    -85.856717,
+    41.237932
+],
   "geometry": {"coordinates":[-85.856717,41.237932],"type":"Point"}
 }

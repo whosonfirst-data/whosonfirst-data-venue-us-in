@@ -2,13 +2,14 @@
   "id": 387789351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.788609,41.31829,-85.788609,41.31829",
     "geom:latitude":41.31829,
     "geom:longitude":-85.788609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N 1st St",
     "sg:city":"Pierceton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387789351,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1466503958,
     "wof:name":"Turn One Racing Collectibles",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-85.788609,41.31829,-85.788609,41.31829],
-  "geometry": {"coordinates":[-85.788609,41.31829],"type":"Point"}
+  "bbox": [
+    -85.788609,
+    41.31829,
+    -85.788609,
+    41.31829
+],
+  "geometry": {"coordinates":[-85.78860899999999,41.31829],"type":"Point"}
 }

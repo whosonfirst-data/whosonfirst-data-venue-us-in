@@ -2,13 +2,14 @@
   "id": 387823057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.172501,38.807557,-85.172501,38.807557",
     "geom:latitude":38.807557,
     "geom:longitude":-85.172501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 State Rd 129",
     "sg:city":"Vevay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387823057,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1466504514,
     "wof:name":"Caledonia Presbyterian Manse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.172501,38.807557,-85.172501,38.807557],
+  "bbox": [
+    -85.172501,
+    38.807557,
+    -85.172501,
+    38.807557
+],
   "geometry": {"coordinates":[-85.172501,38.807557],"type":"Point"}
 }

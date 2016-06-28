@@ -2,13 +2,14 @@
   "id": 387695357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.122445,41.096658,-85.122445,41.096658",
     "geom:latitude":41.096658,
     "geom:longitude":-85.122445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387695357,
-    "wof:lastmodified":1449057549,
+    "wof:lastmodified":1466503835,
     "wof:name":"Bair Payphones Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "pay"
     ]
 },
-  "bbox": [-85.122445,41.096658,-85.122445,41.096658],
+  "bbox": [
+    -85.122445,
+    41.096658,
+    -85.122445,
+    41.096658
+],
   "geometry": {"coordinates":[-85.122445,41.096658],"type":"Point"}
 }

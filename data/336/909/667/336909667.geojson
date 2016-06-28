@@ -2,13 +2,14 @@
   "id": 336909667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240371,41.586927,-87.240371,41.586927",
     "geom:latitude":41.586927,
     "geom:longitude":-87.240371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Ripley St",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336909667,
-    "wof:lastmodified":1448997753,
+    "wof:lastmodified":1466503282,
     "wof:name":"Preferred Carriers",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.240371,41.586927,-87.240371,41.586927],
+  "bbox": [
+    -87.240371,
+    41.586927,
+    -87.240371,
+    41.586927
+],
   "geometry": {"coordinates":[-87.240371,41.586927],"type":"Point"}
 }

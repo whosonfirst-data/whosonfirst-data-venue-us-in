@@ -2,13 +2,14 @@
   "id": 387026953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.137815,41.058843,-85.137815,41.058843",
     "geom:latitude":41.058843,
     "geom:longitude":-85.137815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387026953,
-    "wof:lastmodified":1449058351,
+    "wof:lastmodified":1466502915,
     "wof:name":"AWS Vending Svc",
     "wof:parent_id":85877553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-85.137815,41.058843,-85.137815,41.058843],
+  "bbox": [
+    -85.137815,
+    41.058843,
+    -85.137815,
+    41.058843
+],
   "geometry": {"coordinates":[-85.137815,41.058843],"type":"Point"}
 }

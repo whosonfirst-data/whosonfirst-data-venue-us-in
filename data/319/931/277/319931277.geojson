@@ -2,13 +2,14 @@
   "id": 319931277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16707,39.920895,-86.16707,39.920895",
     "geom:latitude":39.920895,
     "geom:longitude":-86.16707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W 92nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319931277,
-    "wof:lastmodified":1449024814,
+    "wof:lastmodified":1466503608,
     "wof:name":"No Limitations Power Wash",
     "wof:parent_id":85850589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-86.16707,39.920895,-86.16707,39.920895],
+  "bbox": [
+    -86.16707,
+    39.920895,
+    -86.16707,
+    39.920895
+],
   "geometry": {"coordinates":[-86.16707,39.920895],"type":"Point"}
 }

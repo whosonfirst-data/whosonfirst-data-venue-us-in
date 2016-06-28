@@ -2,13 +2,14 @@
   "id": 370849279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.172323,38.657758,-87.172323,38.657758",
     "geom:latitude":38.657758,
     "geom:longitude":-87.172323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Van Trees St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370849279,
-    "wof:lastmodified":1449029719,
+    "wof:lastmodified":1466503637,
     "wof:name":"Home Building Bancorp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.172323,38.657758,-87.172323,38.657758],
-  "geometry": {"coordinates":[-87.172323,38.657758],"type":"Point"}
+  "bbox": [
+    -87.172323,
+    38.657758,
+    -87.172323,
+    38.657758
+],
+  "geometry": {"coordinates":[-87.17232300000001,38.657758],"type":"Point"}
 }

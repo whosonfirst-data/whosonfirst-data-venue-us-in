@@ -2,13 +2,14 @@
   "id": 387753981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492604,37.981928,-87.492604,37.981928",
     "geom:latitude":37.981928,
     "geom:longitude":-87.492604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387753981,
-    "wof:lastmodified":1449056562,
+    "wof:lastmodified":1466503916,
     "wof:name":"Coconuts Music & Movies",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.492604,37.981928,-87.492604,37.981928],
+  "bbox": [
+    -87.492604,
+    37.981928,
+    -87.492604,
+    37.981928
+],
   "geometry": {"coordinates":[-87.492604,37.981928],"type":"Point"}
 }

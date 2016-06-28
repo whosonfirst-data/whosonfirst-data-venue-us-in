@@ -2,13 +2,14 @@
   "id": 336723653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.353531,40.192872,-85.353531,40.192872",
     "geom:latitude":40.192872,
     "geom:longitude":-85.353531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 E Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336723653,
-    "wof:lastmodified":1448997568,
+    "wof:lastmodified":1466503046,
     "wof:name":"Tim Clevenger Heating & Clng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.353531,40.192872,-85.353531,40.192872],
+  "bbox": [
+    -85.353531,
+    40.192872,
+    -85.353531,
+    40.192872
+],
   "geometry": {"coordinates":[-85.353531,40.192872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353417411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.161805,41.19333,-85.161805,41.19333",
     "geom:latitude":41.19333,
     "geom:longitude":-85.161805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Bear Claw Ln",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353417411,
-    "wof:lastmodified":1449019291,
+    "wof:lastmodified":1466502898,
     "wof:name":"Nichols Investigations",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "indiana"
     ]
 },
-  "bbox": [-85.161805,41.19333,-85.161805,41.19333],
+  "bbox": [
+    -85.161805,
+    41.19333,
+    -85.161805,
+    41.19333
+],
   "geometry": {"coordinates":[-85.161805,41.19333],"type":"Point"}
 }

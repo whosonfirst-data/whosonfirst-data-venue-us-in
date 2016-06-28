@@ -2,13 +2,14 @@
   "id": 387461573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026424,39.927352,-86.026424,39.927352",
     "geom:latitude":39.927352,
     "geom:longitude":-86.026424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9770 N by Northeast Blvd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387461573,
-    "wof:lastmodified":1449057539,
+    "wof:lastmodified":1466503529,
     "wof:name":"Bennigans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-86.026424,39.927352,-86.026424,39.927352],
-  "geometry": {"coordinates":[-86.026424,39.927352],"type":"Point"}
+  "bbox": [
+    -86.026424,
+    39.927352,
+    -86.026424,
+    39.927352
+],
+  "geometry": {"coordinates":[-86.02642400000001,39.927352],"type":"Point"}
 }

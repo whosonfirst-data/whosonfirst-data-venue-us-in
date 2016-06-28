@@ -2,13 +2,14 @@
   "id": 403779151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.150643,39.904938,-86.150643,39.904938",
     "geom:latitude":39.904938,
     "geom:longitude":-86.150643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Morningside Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403779151,
-    "wof:lastmodified":1449054829,
+    "wof:lastmodified":1466502986,
     "wof:name":"Kortepeter Investors LP",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.150643,39.904938,-86.150643,39.904938],
+  "bbox": [
+    -86.150643,
+    39.904938,
+    -86.150643,
+    39.904938
+],
   "geometry": {"coordinates":[-86.150643,39.904938],"type":"Point"}
 }

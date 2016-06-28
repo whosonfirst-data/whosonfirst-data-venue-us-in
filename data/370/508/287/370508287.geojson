@@ -2,13 +2,14 @@
   "id": 370508287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.671499,40.28327,-85.671499,40.28327",
     "geom:latitude":40.28327,
     "geom:longitude":-85.671499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12178 State Rd 9",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370508287,
-    "wof:lastmodified":1449030967,
+    "wof:lastmodified":1466503279,
     "wof:name":"Lovens Auto Sales",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.671499,40.28327,-85.671499,40.28327],
+  "bbox": [
+    -85.671499,
+    40.28327,
+    -85.671499,
+    40.28327
+],
   "geometry": {"coordinates":[-85.671499,40.28327],"type":"Point"}
 }

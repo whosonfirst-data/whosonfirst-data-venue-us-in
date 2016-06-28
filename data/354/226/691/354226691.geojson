@@ -2,13 +2,14 @@
   "id": 354226691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.958229,40.597059,-84.958229,40.597059",
     "geom:latitude":40.597059,
     "geom:longitude":-84.958229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 N Main St",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354226691,
-    "wof:lastmodified":1449067192,
+    "wof:lastmodified":1466503178,
     "wof:name":"Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-84.958229,40.597059,-84.958229,40.597059],
+  "bbox": [
+    -84.958229,
+    40.597059,
+    -84.958229,
+    40.597059
+],
   "geometry": {"coordinates":[-84.958229,40.597059],"type":"Point"}
 }

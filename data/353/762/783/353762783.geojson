@@ -2,13 +2,14 @@
   "id": 353762783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.367526,40.754337,-86.367526,40.754337",
     "geom:latitude":40.754337,
     "geom:longitude":-86.367526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Ct Park",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353762783,
-    "wof:lastmodified":1449020050,
+    "wof:lastmodified":1466503261,
     "wof:name":"Cass County E911 Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.367526,40.754337,-86.367526,40.754337],
+  "bbox": [
+    -86.367526,
+    40.754337,
+    -86.367526,
+    40.754337
+],
   "geometry": {"coordinates":[-86.367526,40.754337],"type":"Point"}
 }

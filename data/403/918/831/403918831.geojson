@@ -2,13 +2,14 @@
   "id": 403918831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.058388,41.140538,-85.058388,41.140538",
     "geom:latitude":41.140538,
     "geom:longitude":-85.058388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6528 Rockingham Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403918831,
-    "wof:lastmodified":1449055512,
+    "wof:lastmodified":1466503187,
     "wof:name":"Fort Wyne Resident Insptn Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-85.058388,41.140538,-85.058388,41.140538],
-  "geometry": {"coordinates":[-85.058388,41.140538],"type":"Point"}
+  "bbox": [
+    -85.058388,
+    41.140538,
+    -85.058388,
+    41.140538
+],
+  "geometry": {"coordinates":[-85.05838799999999,41.140538],"type":"Point"}
 }

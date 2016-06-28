@@ -2,13 +2,14 @@
   "id": 304044987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.249059,40.293641,-87.249059,40.293641",
     "geom:latitude":40.293641,
     "geom:longitude":-87.249059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Perry St",
     "sg:city":"Attica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304044987,
-    "wof:lastmodified":1449043882,
+    "wof:lastmodified":1466503462,
     "wof:name":"Trash To Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-87.249059,40.293641,-87.249059,40.293641],
+  "bbox": [
+    -87.249059,
+    40.293641,
+    -87.249059,
+    40.293641
+],
   "geometry": {"coordinates":[-87.249059,40.293641],"type":"Point"}
 }

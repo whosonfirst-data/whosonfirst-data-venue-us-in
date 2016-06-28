@@ -2,13 +2,14 @@
   "id": 387149419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.041769,39.856049,-86.041769,39.856049",
     "geom:latitude":39.856049,
     "geom:longitude":-86.041769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5640 Caito Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387149419,
-    "wof:lastmodified":1449056126,
+    "wof:lastmodified":1466503097,
     "wof:name":"Indesign LLC",
     "wof:parent_id":85807201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.041769,39.856049,-86.041769,39.856049],
+  "bbox": [
+    -86.041769,
+    39.856049,
+    -86.041769,
+    39.856049
+],
   "geometry": {"coordinates":[-86.041769,39.856049],"type":"Point"}
 }

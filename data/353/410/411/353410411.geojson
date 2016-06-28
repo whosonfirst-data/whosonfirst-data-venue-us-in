@@ -2,13 +2,14 @@
   "id": 353410411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240173,41.577587,-87.240173,41.577587",
     "geom:latitude":41.577587,
     "geom:longitude":-87.240173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Ripley St",
     "sg:city":"Lake Station",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353410411,
-    "wof:lastmodified":1449018292,
+    "wof:lastmodified":1466502895,
     "wof:name":"Lake Station Liquors Inc",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.240173,41.577587,-87.240173,41.577587],
+  "bbox": [
+    -87.240173,
+    41.577587,
+    -87.240173,
+    41.577587
+],
   "geometry": {"coordinates":[-87.240173,41.577587],"type":"Point"}
 }

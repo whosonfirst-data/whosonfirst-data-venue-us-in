@@ -2,13 +2,14 @@
   "id": 371191223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246869,39.207972,-86.246869,39.207972",
     "geom:latitude":39.207972,
     "geom:longitude":-86.246869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 N Van Buren St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371191223,
-    "wof:lastmodified":1449049661,
+    "wof:lastmodified":1466503116,
     "wof:name":"Alley Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.246869,39.207972,-86.246869,39.207972],
+  "bbox": [
+    -86.246869,
+    39.207972,
+    -86.246869,
+    39.207972
+],
   "geometry": {"coordinates":[-86.246869,39.207972],"type":"Point"}
 }

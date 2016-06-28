@@ -2,13 +2,14 @@
   "id": 303880687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.141452,41.121812,-85.141452,41.121812",
     "geom:latitude":41.121812,
     "geom:longitude":-85.141452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Collins Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303880687,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466503206,
     "wof:name":"CMM Corp",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.141452,41.121812,-85.141452,41.121812],
+  "bbox": [
+    -85.141452,
+    41.121812,
+    -85.141452,
+    41.121812
+],
   "geometry": {"coordinates":[-85.141452,41.121812],"type":"Point"}
 }

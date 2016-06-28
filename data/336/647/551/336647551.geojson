@@ -2,13 +2,14 @@
   "id": 336647551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.153156,41.752803,-86.153156,41.752803",
     "geom:latitude":41.752803,
     "geom:longitude":-86.153156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14633 Brandychase N",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336647551,
-    "wof:lastmodified":1448997460,
+    "wof:lastmodified":1466502947,
     "wof:name":"Burmeister Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.153156,41.752803,-86.153156,41.752803],
+  "bbox": [
+    -86.153156,
+    41.752803,
+    -86.153156,
+    41.752803
+],
   "geometry": {"coordinates":[-86.153156,41.752803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319875137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10271,39.61381,-86.10271,39.61381",
     "geom:latitude":39.61381,
     "geom:longitude":-86.10271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319875137,
-    "wof:lastmodified":1449024672,
+    "wof:lastmodified":1466503582,
     "wof:name":"J E Wilson & Assoc Inc",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.10271,39.61381,-86.10271,39.61381],
+  "bbox": [
+    -86.10271,
+    39.61381,
+    -86.10271,
+    39.61381
+],
   "geometry": {"coordinates":[-86.10271,39.61381],"type":"Point"}
 }

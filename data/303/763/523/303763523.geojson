@@ -2,13 +2,14 @@
   "id": 303763523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.833804,41.587909,-85.833804,41.587909",
     "geom:latitude":41.587909,
     "geom:longitude":-85.833804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Clinton St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303763523,
-    "wof:lastmodified":1449000557,
+    "wof:lastmodified":1466503059,
     "wof:name":"AAA Drug/Alcohol & Dna Testing",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drug"
     ]
 },
-  "bbox": [-85.833804,41.587909,-85.833804,41.587909],
+  "bbox": [
+    -85.833804,
+    41.587909,
+    -85.833804,
+    41.587909
+],
   "geometry": {"coordinates":[-85.833804,41.587909],"type":"Point"}
 }

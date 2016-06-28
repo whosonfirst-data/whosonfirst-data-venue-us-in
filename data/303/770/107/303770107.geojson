@@ -2,13 +2,14 @@
   "id": 303770107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.140487,41.081344,-85.140487,41.081344",
     "geom:latitude":41.081344,
     "geom:longitude":-85.140487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W Columbia St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303770107,
-    "wof:lastmodified":1449000612,
+    "wof:lastmodified":1466503065,
     "wof:name":"Samuel L Bolinger & Assoc",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-85.140487,41.081344,-85.140487,41.081344],
-  "geometry": {"coordinates":[-85.140487,41.081344],"type":"Point"}
+  "bbox": [
+    -85.140487,
+    41.081344,
+    -85.140487,
+    41.081344
+],
+  "geometry": {"coordinates":[-85.14048699999999,41.081344],"type":"Point"}
 }

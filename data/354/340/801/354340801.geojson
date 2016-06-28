@@ -2,13 +2,14 @@
   "id": 354340801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336209,41.517134,-87.336209,41.517134",
     "geom:latitude":41.517134,
     "geom:longitude":-87.336209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5544 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354340801,
-    "wof:lastmodified":1449067251,
+    "wof:lastmodified":1466503355,
     "wof:name":"William L Touchette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.336209,41.517134,-87.336209,41.517134],
+  "bbox": [
+    -87.336209,
+    41.517134,
+    -87.336209,
+    41.517134
+],
   "geometry": {"coordinates":[-87.336209,41.517134],"type":"Point"}
 }

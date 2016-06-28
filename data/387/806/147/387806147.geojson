@@ -2,13 +2,14 @@
   "id": 387806147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157542,39.954068,-86.157542,39.954068",
     "geom:latitude":39.954068,
     "geom:longitude":-86.157542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11455 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387806147,
-    "wof:lastmodified":1449056102,
+    "wof:lastmodified":1466503984,
     "wof:name":"Carmel Optical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.157542,39.954068,-86.157542,39.954068],
-  "geometry": {"coordinates":[-86.157542,39.954068],"type":"Point"}
+  "bbox": [
+    -86.157542,
+    39.954068,
+    -86.157542,
+    39.954068
+],
+  "geometry": {"coordinates":[-86.15754200000001,39.954068],"type":"Point"}
 }

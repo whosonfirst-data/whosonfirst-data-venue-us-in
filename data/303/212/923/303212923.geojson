@@ -2,13 +2,14 @@
   "id": 303212923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.129612,39.76747,-86.129612,39.76747",
     "geom:latitude":39.76747,
     "geom:longitude":-86.129612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303212923,
-    "wof:lastmodified":1448999702,
+    "wof:lastmodified":1466503448,
     "wof:name":"Will's Auto Sales",
     "wof:parent_id":85870633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.129612,39.76747,-86.129612,39.76747],
-  "geometry": {"coordinates":[-86.129612,39.76747],"type":"Point"}
+  "bbox": [
+    -86.129612,
+    39.76747,
+    -86.129612,
+    39.76747
+],
+  "geometry": {"coordinates":[-86.12961199999999,39.76747],"type":"Point"}
 }

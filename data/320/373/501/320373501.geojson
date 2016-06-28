@@ -2,13 +2,14 @@
   "id": 320373501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930727,38.393668,-86.930727,38.393668",
     "geom:latitude":38.393668,
     "geom:longitude":-86.930727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Main St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320373501,
-    "wof:lastmodified":1449013195,
+    "wof:lastmodified":1466503017,
     "wof:name":"Sweet Stuff & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-86.930727,38.393668,-86.930727,38.393668],
+  "bbox": [
+    -86.930727,
+    38.393668,
+    -86.930727,
+    38.393668
+],
   "geometry": {"coordinates":[-86.930727,38.393668],"type":"Point"}
 }

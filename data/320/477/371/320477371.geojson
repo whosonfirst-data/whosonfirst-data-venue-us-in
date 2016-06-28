@@ -2,13 +2,14 @@
   "id": 320477371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.921129,40.394746,-86.921129,40.394746",
     "geom:latitude":40.394746,
     "geom:longitude":-86.921129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 US Hwy 231 S",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320477371,
-    "wof:lastmodified":1449011894,
+    "wof:lastmodified":1466503155,
     "wof:name":"Bob Rohrman Honda Used Cars",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.921129,40.394746,-86.921129,40.394746],
-  "geometry": {"coordinates":[-86.921129,40.394746],"type":"Point"}
+  "bbox": [
+    -86.921129,
+    40.394746,
+    -86.921129,
+    40.394746
+],
+  "geometry": {"coordinates":[-86.92112899999999,40.394746],"type":"Point"}
 }

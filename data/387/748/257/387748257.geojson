@@ -2,13 +2,14 @@
   "id": 387748257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.084037,38.597686,-86.084037,38.597686",
     "geom:latitude":38.597686,
     "geom:longitude":-86.084037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 S Jackson St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387748257,
-    "wof:lastmodified":1449058961,
+    "wof:lastmodified":1466503907,
     "wof:name":"Salem Office Supplies & Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.084037,38.597686,-86.084037,38.597686],
+  "bbox": [
+    -86.084037,
+    38.597686,
+    -86.084037,
+    38.597686
+],
   "geometry": {"coordinates":[-86.084037,38.597686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370167605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.117865,40.042874,-86.117865,40.042874",
     "geom:latitude":40.042874,
     "geom:longitude":-86.117865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 State Rd 32 E",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370167605,
-    "wof:lastmodified":1449030841,
+    "wof:lastmodified":1466502902,
     "wof:name":"Waitt Farm Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-86.117865,40.042874,-86.117865,40.042874],
-  "geometry": {"coordinates":[-86.117865,40.042874],"type":"Point"}
+  "bbox": [
+    -86.117865,
+    40.042874,
+    -86.117865,
+    40.042874
+],
+  "geometry": {"coordinates":[-86.11786499999999,40.042874],"type":"Point"}
 }

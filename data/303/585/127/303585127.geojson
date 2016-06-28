@@ -2,13 +2,14 @@
   "id": 303585127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.393889,41.583045,-87.393889,41.583045",
     "geom:latitude":41.583045,
     "geom:longitude":-87.393889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1964 Clark Rd",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303585127,
-    "wof:lastmodified":1448999745,
+    "wof:lastmodified":1466503769,
     "wof:name":"Clark Nursing & Rehab Ctr",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-87.393889,41.583045,-87.393889,41.583045],
+  "bbox": [
+    -87.393889,
+    41.583045,
+    -87.393889,
+    41.583045
+],
   "geometry": {"coordinates":[-87.393889,41.583045],"type":"Point"}
 }

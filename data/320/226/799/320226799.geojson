@@ -2,13 +2,14 @@
   "id": 320226799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122279,39.861785,-86.122279,39.861785",
     "geom:latitude":39.861785,
     "geom:longitude":-86.122279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5890 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320226799,
-    "wof:lastmodified":1449013966,
+    "wof:lastmodified":1466503768,
     "wof:name":"Wine Art Indy",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.122279,39.861785,-86.122279,39.861785],
-  "geometry": {"coordinates":[-86.122279,39.861785],"type":"Point"}
+  "bbox": [
+    -86.122279,
+    39.861785,
+    -86.122279,
+    39.861785
+],
+  "geometry": {"coordinates":[-86.12227900000001,39.861785],"type":"Point"}
 }

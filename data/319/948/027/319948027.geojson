@@ -2,13 +2,14 @@
   "id": 319948027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.919986,38.672199,-86.919986,38.672199",
     "geom:latitude":38.672199,
     "geom:longitude":-86.919986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Washington St",
     "sg:city":"Loogootee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319948027,
-    "wof:lastmodified":1449024719,
+    "wof:lastmodified":1466503614,
     "wof:name":"Aleva's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.919986,38.672199,-86.919986,38.672199],
-  "geometry": {"coordinates":[-86.919986,38.672199],"type":"Point"}
+  "bbox": [
+    -86.919986,
+    38.672199,
+    -86.919986,
+    38.672199
+],
+  "geometry": {"coordinates":[-86.91998599999999,38.672199],"type":"Point"}
 }

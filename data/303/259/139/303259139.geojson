@@ -2,13 +2,14 @@
   "id": 303259139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.182042,41.229405,-85.182042,41.229405",
     "geom:latitude":41.229405,
     "geom:longitude":-85.182042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Warrior Way",
     "sg:city":"Huntertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303259139,
-    "wof:lastmodified":1448998669,
+    "wof:lastmodified":1466503531,
     "wof:name":"Rosewood Carriages",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carriage"
     ]
 },
-  "bbox": [-85.182042,41.229405,-85.182042,41.229405],
+  "bbox": [
+    -85.182042,
+    41.229405,
+    -85.182042,
+    41.229405
+],
   "geometry": {"coordinates":[-85.182042,41.229405],"type":"Point"}
 }

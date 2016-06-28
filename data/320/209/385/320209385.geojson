@@ -2,13 +2,14 @@
   "id": 320209385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.326648,39.624811,-86.326648,39.624811",
     "geom:latitude":39.624811,
     "geom:longitude":-86.326648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4213 E Allison Rd",
     "sg:city":"Camby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320209385,
-    "wof:lastmodified":1449014567,
+    "wof:lastmodified":1466503763,
     "wof:name":"Grace Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.326648,39.624811,-86.326648,39.624811],
-  "geometry": {"coordinates":[-86.326648,39.624811],"type":"Point"}
+  "bbox": [
+    -86.326648,
+    39.624811,
+    -86.326648,
+    39.624811
+],
+  "geometry": {"coordinates":[-86.32664800000001,39.624811],"type":"Point"}
 }

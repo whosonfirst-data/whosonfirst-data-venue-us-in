@@ -2,13 +2,14 @@
   "id": 320854341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461775,41.581819,-87.461775,41.581819",
     "geom:latitude":41.581819,
     "geom:longitude":-87.461775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7242 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320854341,
-    "wof:lastmodified":1449014830,
+    "wof:lastmodified":1466503564,
     "wof:name":"Sklarewitz Uniforms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-87.461775,41.581819,-87.461775,41.581819],
+  "bbox": [
+    -87.461775,
+    41.581819,
+    -87.461775,
+    41.581819
+],
   "geometry": {"coordinates":[-87.461775,41.581819],"type":"Point"}
 }

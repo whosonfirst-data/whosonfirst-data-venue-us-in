@@ -2,13 +2,14 @@
   "id": 320670259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.051954,41.138523,-85.051954,41.138523",
     "geom:latitude":41.138523,
     "geom:longitude":-85.051954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6016 Revere Pl",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320670259,
-    "wof:lastmodified":1449011813,
+    "wof:lastmodified":1466503380,
     "wof:name":"C & C Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.051954,41.138523,-85.051954,41.138523],
-  "geometry": {"coordinates":[-85.051954,41.138523],"type":"Point"}
+  "bbox": [
+    -85.051954,
+    41.138523,
+    -85.051954,
+    41.138523
+],
+  "geometry": {"coordinates":[-85.05195399999999,41.138523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353390475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.108269,39.564105,-86.108269,39.564105",
     "geom:latitude":39.564105,
     "geom:longitude":-86.108269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Tracy Rd",
     "sg:city":"Whiteland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353390475,
-    "wof:lastmodified":1449020826,
+    "wof:lastmodified":1466502884,
     "wof:name":"Beveridge Paper Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.108269,39.564105,-86.108269,39.564105],
-  "geometry": {"coordinates":[-86.108269,39.564105],"type":"Point"}
+  "bbox": [
+    -86.108269,
+    39.564105,
+    -86.108269,
+    39.564105
+],
+  "geometry": {"coordinates":[-86.10826900000001,39.564105],"type":"Point"}
 }

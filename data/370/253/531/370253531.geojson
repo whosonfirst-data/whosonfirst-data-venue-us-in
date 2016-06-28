@@ -2,13 +2,14 @@
   "id": 370253531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.111134,39.908079,-86.111134,39.908079",
     "geom:latitude":39.908079,
     "geom:longitude":-86.111134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8316 Seabridge Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370253531,
-    "wof:lastmodified":1449032056,
+    "wof:lastmodified":1466503017,
     "wof:name":"Data Systems Inc",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-86.111134,39.908079,-86.111134,39.908079],
-  "geometry": {"coordinates":[-86.111134,39.908079],"type":"Point"}
+  "bbox": [
+    -86.111134,
+    39.908079,
+    -86.111134,
+    39.908079
+],
+  "geometry": {"coordinates":[-86.11113400000001,39.908079],"type":"Point"}
 }

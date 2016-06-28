@@ -2,13 +2,14 @@
   "id": 303966251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.848082,41.235171,-85.848082,41.235171",
     "geom:latitude":41.235171,
     "geom:longitude":-85.848082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 E Winona Ave",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303966251,
-    "wof:lastmodified":1448998133,
+    "wof:lastmodified":1466503333,
     "wof:name":"E&C Auto Sales",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.848082,41.235171,-85.848082,41.235171],
-  "geometry": {"coordinates":[-85.848082,41.235171],"type":"Point"}
+  "bbox": [
+    -85.848082,
+    41.235171,
+    -85.848082,
+    41.235171
+],
+  "geometry": {"coordinates":[-85.84808200000001,41.235171],"type":"Point"}
 }

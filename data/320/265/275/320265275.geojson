@@ -2,13 +2,14 @@
   "id": 320265275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.484307,38.731576,-86.484307,38.731576",
     "geom:latitude":38.731576,
     "geom:longitude":-86.484307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1492 W Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320265275,
-    "wof:lastmodified":1449012548,
+    "wof:lastmodified":1466503783,
     "wof:name":"Mitchell Family Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-86.484307,38.731576,-86.484307,38.731576],
+  "bbox": [
+    -86.484307,
+    38.731576,
+    -86.484307,
+    38.731576
+],
   "geometry": {"coordinates":[-86.484307,38.731576],"type":"Point"}
 }

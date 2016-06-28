@@ -2,13 +2,14 @@
   "id": 387360763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144249,39.851006,-86.144249,39.851006",
     "geom:latitude":39.851006,
     "geom:longitude":-86.144249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E 54th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387360763,
-    "wof:lastmodified":1449059042,
+    "wof:lastmodified":1466503385,
     "wof:name":"Coffee & Tea House",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-86.144249,39.851006,-86.144249,39.851006],
+  "bbox": [
+    -86.144249,
+    39.851006,
+    -86.144249,
+    39.851006
+],
   "geometry": {"coordinates":[-86.144249,39.851006],"type":"Point"}
 }

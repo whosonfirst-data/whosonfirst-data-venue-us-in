@@ -2,13 +2,14 @@
   "id": 370881895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.04229,39.915311,-86.04229,39.915311",
     "geom:latitude":39.915311,
     "geom:longitude":-86.04229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 Bash St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370881895,
-    "wof:lastmodified":1449031038,
+    "wof:lastmodified":1466503681,
     "wof:name":"York International Corp",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-86.04229,39.915311,-86.04229,39.915311],
-  "geometry": {"coordinates":[-86.04229,39.915311],"type":"Point"}
+  "bbox": [
+    -86.04229,
+    39.915311,
+    -86.04229,
+    39.915311
+],
+  "geometry": {"coordinates":[-86.04228999999999,39.915311],"type":"Point"}
 }

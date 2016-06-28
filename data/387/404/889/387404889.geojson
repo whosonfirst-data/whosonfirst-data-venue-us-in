@@ -2,13 +2,14 @@
   "id": 387404889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482744,40.062288,-86.482744,40.062288",
     "geom:latitude":40.062288,
     "geom:longitude":-86.482744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Geri Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387404889,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466503446,
     "wof:name":"Knotty & Kneiss",
     "wof:parent_id":85807195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.482744,40.062288,-86.482744,40.062288],
+  "bbox": [
+    -86.482744,
+    40.062288,
+    -86.482744,
+    40.062288
+],
   "geometry": {"coordinates":[-86.482744,40.062288],"type":"Point"}
 }

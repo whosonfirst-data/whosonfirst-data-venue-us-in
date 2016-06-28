@@ -2,13 +2,14 @@
   "id": 387816229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.48152,40.261765,-85.48152,40.261765",
     "geom:latitude":40.261765,
     "geom:longitude":-85.48152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8009 N Co Rd 500 W",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387816229,
-    "wof:lastmodified":1449058320,
+    "wof:lastmodified":1466504387,
     "wof:name":"Corinth Cong Christian Church",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.48152,40.261765,-85.48152,40.261765],
+  "bbox": [
+    -85.48152,
+    40.261765,
+    -85.48152,
+    40.261765
+],
   "geometry": {"coordinates":[-85.48152,40.261765],"type":"Point"}
 }

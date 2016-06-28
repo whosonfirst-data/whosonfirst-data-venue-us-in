@@ -2,13 +2,14 @@
   "id": 387290297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.164614,39.767146,-86.164614,39.767146",
     "geom:latitude":39.767146,
     "geom:longitude":-86.164614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387290297,
-    "wof:lastmodified":1449057745,
+    "wof:lastmodified":1466503293,
     "wof:name":"Indiana Insolvency Inc",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.164614,39.767146,-86.164614,39.767146],
+  "bbox": [
+    -86.164614,
+    39.767146,
+    -86.164614,
+    39.767146
+],
   "geometry": {"coordinates":[-86.164614,39.767146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354166071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.21439,41.613729,-86.21439,41.613729",
     "geom:latitude":41.613729,
     "geom:longitude":-86.21439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17868 Bellows Falls Dr",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354166071,
-    "wof:lastmodified":1449066901,
+    "wof:lastmodified":1466503085,
     "wof:name":"Rx90 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-86.21439,41.613729,-86.21439,41.613729],
-  "geometry": {"coordinates":[-86.21439,41.613729],"type":"Point"}
+  "bbox": [
+    -86.21439,
+    41.613729,
+    -86.21439,
+    41.613729
+],
+  "geometry": {"coordinates":[-86.21438999999999,41.613729],"type":"Point"}
 }

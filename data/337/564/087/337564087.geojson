@@ -2,13 +2,14 @@
   "id": 337564087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.194355,39.911984,-86.194355,39.911984",
     "geom:latitude":39.911984,
     "geom:longitude":-86.194355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337564087,
-    "wof:lastmodified":1449027690,
+    "wof:lastmodified":1466502882,
     "wof:name":"Deborah Franzek MD",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.194355,39.911984,-86.194355,39.911984],
+  "bbox": [
+    -86.194355,
+    39.911984,
+    -86.194355,
+    39.911984
+],
   "geometry": {"coordinates":[-86.194355,39.911984],"type":"Point"}
 }

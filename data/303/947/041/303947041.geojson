@@ -2,13 +2,14 @@
   "id": 303947041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.936918,38.35076,-85.936918,38.35076",
     "geom:latitude":38.35076,
     "geom:longitude":-85.936918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6931 US Hwy 150",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303947041,
-    "wof:lastmodified":1448999889,
+    "wof:lastmodified":1466503304,
     "wof:name":"Quality Service Co",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-85.936918,38.35076,-85.936918,38.35076],
-  "geometry": {"coordinates":[-85.936918,38.35076],"type":"Point"}
+  "bbox": [
+    -85.936918,
+    38.35076,
+    -85.936918,
+    38.35076
+],
+  "geometry": {"coordinates":[-85.93691800000001,38.35076],"type":"Point"}
 }

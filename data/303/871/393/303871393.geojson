@@ -2,13 +2,14 @@
   "id": 303871393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.013413,40.044327,-86.013413,40.044327",
     "geom:latitude":40.044327,
     "geom:longitude":-86.013413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 S 9th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303871393,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466503196,
     "wof:name":"Steers Carr & Sullivan",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.013413,40.044327,-86.013413,40.044327],
+  "bbox": [
+    -86.013413,
+    40.044327,
+    -86.013413,
+    40.044327
+],
   "geometry": {"coordinates":[-86.013413,40.044327],"type":"Point"}
 }

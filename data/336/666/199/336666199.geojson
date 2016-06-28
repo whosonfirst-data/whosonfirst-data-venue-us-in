@@ -2,13 +2,14 @@
   "id": 336666199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.239869,39.339138,-87.239869,39.339138",
     "geom:latitude":39.339138,
     "geom:longitude":-87.239869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3591 S Co Rd 700 W",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336666199,
-    "wof:lastmodified":1448997330,
+    "wof:lastmodified":1466502970,
     "wof:name":"J B Concrete Walls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.239869,39.339138,-87.239869,39.339138],
+  "bbox": [
+    -87.239869,
+    39.339138,
+    -87.239869,
+    39.339138
+],
   "geometry": {"coordinates":[-87.239869,39.339138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387923537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.669842,39.687643,-86.669842,39.687643",
     "geom:latitude":39.687643,
     "geom:longitude":-86.669842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5047 Milton St",
     "sg:city":"Coatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387923537,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1466504164,
     "wof:name":"Coatesville Food Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-86.669842,39.687643,-86.669842,39.687643],
+  "bbox": [
+    -86.669842,
+    39.687643,
+    -86.669842,
+    39.687643
+],
   "geometry": {"coordinates":[-86.669842,39.687643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387329353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.08087,39.657913,-86.08087,39.657913",
     "geom:latitude":39.657913,
     "geom:longitude":-86.08087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 Rosegate Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387329353,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1466503343,
     "wof:name":"Rosegate Commons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-86.08087,39.657913,-86.08087,39.657913],
+  "bbox": [
+    -86.08087,
+    39.657913,
+    -86.08087,
+    39.657913
+],
   "geometry": {"coordinates":[-86.08087,39.657913],"type":"Point"}
 }

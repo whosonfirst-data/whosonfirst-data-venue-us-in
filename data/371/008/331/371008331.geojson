@@ -2,13 +2,14 @@
   "id": 371008331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.652724,40.109494,-85.652724,40.109494",
     "geom:latitude":40.109494,
     "geom:longitude":-85.652724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371008331,
-    "wof:lastmodified":1449049336,
+    "wof:lastmodified":1466503791,
     "wof:name":"New Breed",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-85.652724,40.109494,-85.652724,40.109494],
-  "geometry": {"coordinates":[-85.652724,40.109494],"type":"Point"}
+  "bbox": [
+    -85.652724,
+    40.109494,
+    -85.652724,
+    40.109494
+],
+  "geometry": {"coordinates":[-85.65272400000001,40.109494],"type":"Point"}
 }

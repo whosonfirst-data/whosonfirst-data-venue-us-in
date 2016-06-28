@@ -2,13 +2,14 @@
   "id": 336875843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774752,40.74505,-86.774752,40.74505",
     "geom:latitude":40.74505,
     "geom:longitude":-86.774752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 W Broadway St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336875843,
-    "wof:lastmodified":1448997738,
+    "wof:lastmodified":1466503241,
     "wof:name":"Lafayette Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774752,40.74505,-86.774752,40.74505],
-  "geometry": {"coordinates":[-86.774752,40.74505],"type":"Point"}
+  "bbox": [
+    -86.774752,
+    40.74505,
+    -86.774752,
+    40.74505
+],
+  "geometry": {"coordinates":[-86.77475200000001,40.74505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370352911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.602873,41.051299,-86.602873,41.051299",
     "geom:latitude":41.051299,
     "geom:longitude":-86.602873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Main St",
     "sg:city":"Winamac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370352911,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1466503131,
     "wof:name":"Pulaski County Community Fndtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-86.602873,41.051299,-86.602873,41.051299],
+  "bbox": [
+    -86.602873,
+    41.051299,
+    -86.602873,
+    41.051299
+],
   "geometry": {"coordinates":[-86.602873,41.051299],"type":"Point"}
 }

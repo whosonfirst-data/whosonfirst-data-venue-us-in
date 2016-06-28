@@ -2,13 +2,14 @@
   "id": 336668155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.541978,37.969992,-87.541978,37.969992",
     "geom:latitude":37.969992,
     "geom:longitude":-87.541978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Lincoln Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336668155,
-    "wof:lastmodified":1448997683,
+    "wof:lastmodified":1466502973,
     "wof:name":"WUEV",
     "wof:parent_id":85877301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-87.541978,37.969992,-87.541978,37.969992],
+  "bbox": [
+    -87.541978,
+    37.969992,
+    -87.541978,
+    37.969992
+],
   "geometry": {"coordinates":[-87.541978,37.969992],"type":"Point"}
 }

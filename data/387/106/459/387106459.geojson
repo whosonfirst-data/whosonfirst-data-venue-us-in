@@ -2,13 +2,14 @@
   "id": 387106459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574443,38.005017,-87.574443,38.005017",
     "geom:latitude":38.005017,
     "geom:longitude":-87.574443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 N 1st Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387106459,
-    "wof:lastmodified":1449056060,
+    "wof:lastmodified":1466503039,
     "wof:name":"Jerry W Babb DDS",
     "wof:parent_id":85824193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-87.574443,38.005017,-87.574443,38.005017],
+  "bbox": [
+    -87.574443,
+    38.005017,
+    -87.574443,
+    38.005017
+],
   "geometry": {"coordinates":[-87.574443,38.005017],"type":"Point"}
 }

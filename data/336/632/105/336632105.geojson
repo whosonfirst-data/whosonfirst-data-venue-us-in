@@ -2,13 +2,14 @@
   "id": 336632105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.012729,39.419557,-85.012729,39.419557",
     "geom:latitude":39.419557,
     "geom:longitude":-85.012729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"459 Main St",
     "sg:city":"Brookville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336632105,
-    "wof:lastmodified":1448997613,
+    "wof:lastmodified":1466502929,
     "wof:name":"Franklin County Clerk",
     "wof:parent_id":85850965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-85.012729,39.419557,-85.012729,39.419557],
-  "geometry": {"coordinates":[-85.012729,39.419557],"type":"Point"}
+  "bbox": [
+    -85.012729,
+    39.419557,
+    -85.012729,
+    39.419557
+],
+  "geometry": {"coordinates":[-85.01272899999999,39.419557],"type":"Point"}
 }

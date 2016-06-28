@@ -2,13 +2,14 @@
   "id": 387899805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.880883,40.439107,-86.880883,40.439107",
     "geom:latitude":40.439107,
     "geom:longitude":-86.880883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 Schuyler Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387899805,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1466504126,
     "wof:name":"Lafayette Auto Trim",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-86.880883,40.439107,-86.880883,40.439107],
+  "bbox": [
+    -86.880883,
+    40.439107,
+    -86.880883,
+    40.439107
+],
   "geometry": {"coordinates":[-86.880883,40.439107],"type":"Point"}
 }

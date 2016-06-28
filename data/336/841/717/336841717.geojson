@@ -2,13 +2,14 @@
   "id": 336841717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.255488,41.669467,-86.255488,41.669467",
     "geom:latitude":41.669467,
     "geom:longitude":-86.255488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 W South St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336841717,
-    "wof:lastmodified":1448997174,
+    "wof:lastmodified":1466503202,
     "wof:name":"Elantic Networks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-86.255488,41.669467,-86.255488,41.669467],
+  "bbox": [
+    -86.255488,
+    41.669467,
+    -86.255488,
+    41.669467
+],
   "geometry": {"coordinates":[-86.255488,41.669467],"type":"Point"}
 }

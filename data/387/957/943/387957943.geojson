@@ -2,13 +2,14 @@
   "id": 387957943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.62409,39.001984,-85.62409,39.001984",
     "geom:latitude":39.001984,
     "geom:longitude":-85.62409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Vernon St",
     "sg:city":"North Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387957943,
-    "wof:lastmodified":1449059356,
+    "wof:lastmodified":1466504210,
     "wof:name":"Park Theatre Civic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.62409,39.001984,-85.62409,39.001984],
+  "bbox": [
+    -85.62409,
+    39.001984,
+    -85.62409,
+    39.001984
+],
   "geometry": {"coordinates":[-85.62409,39.001984],"type":"Point"}
 }

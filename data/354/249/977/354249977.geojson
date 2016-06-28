@@ -2,13 +2,14 @@
   "id": 354249977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.329242,39.311289,-85.329242,39.311289",
     "geom:latitude":39.311289,
     "geom:longitude":-85.329242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8339 E State Rd 46",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354249977,
-    "wof:lastmodified":1449066039,
+    "wof:lastmodified":1466503210,
     "wof:name":"Wallpe & Trenkamp Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.329242,39.311289,-85.329242,39.311289],
-  "geometry": {"coordinates":[-85.329242,39.311289],"type":"Point"}
+  "bbox": [
+    -85.329242,
+    39.311289,
+    -85.329242,
+    39.311289
+],
+  "geometry": {"coordinates":[-85.32924199999999,39.311289],"type":"Point"}
 }

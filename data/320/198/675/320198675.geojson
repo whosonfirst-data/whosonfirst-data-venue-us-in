@@ -2,13 +2,14 @@
   "id": 320198675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.653018,40.056422,-85.653018,40.056422",
     "geom:latitude":40.056422,
     "geom:longitude":-85.653018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5411 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320198675,
-    "wof:lastmodified":1449012629,
+    "wof:lastmodified":1466503756,
     "wof:name":"Moorehead Communications Inc",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.653018,40.056422,-85.653018,40.056422],
+  "bbox": [
+    -85.653018,
+    40.056422,
+    -85.653018,
+    40.056422
+],
   "geometry": {"coordinates":[-85.653018,40.056422],"type":"Point"}
 }

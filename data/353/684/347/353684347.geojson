@@ -2,13 +2,14 @@
   "id": 353684347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.641759,38.07437,-87.641759,38.07437",
     "geom:latitude":38.07437,
     "geom:longitude":-87.641759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10410 Big Cynthiana Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353684347,
-    "wof:lastmodified":1449018898,
+    "wof:lastmodified":1466503171,
     "wof:name":"Hoefling Heirs Farms LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.641759,38.07437,-87.641759,38.07437],
-  "geometry": {"coordinates":[-87.641759,38.07437],"type":"Point"}
+  "bbox": [
+    -87.641759,
+    38.07437,
+    -87.641759,
+    38.07437
+],
+  "geometry": {"coordinates":[-87.64175899999999,38.07437],"type":"Point"}
 }

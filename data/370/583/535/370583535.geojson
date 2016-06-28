@@ -2,13 +2,14 @@
   "id": 370583535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.177001,41.661049,-86.177001,41.661049",
     "geom:latitude":41.661049,
     "geom:longitude":-86.177001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Lincoln Way E",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370583535,
-    "wof:lastmodified":1449031767,
+    "wof:lastmodified":1466503372,
     "wof:name":"Beiger Mansion Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-86.177001,41.661049,-86.177001,41.661049],
+  "bbox": [
+    -86.177001,
+    41.661049,
+    -86.177001,
+    41.661049
+],
   "geometry": {"coordinates":[-86.177001,41.661049],"type":"Point"}
 }

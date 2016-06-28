@@ -2,13 +2,14 @@
   "id": 370654721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80147,41.759385,-86.80147,41.759385",
     "geom:latitude":41.759385,
     "geom:longitude":-86.80147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10303 N US Hwy 12 E",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370654721,
-    "wof:lastmodified":1449030236,
+    "wof:lastmodified":1466503449,
     "wof:name":"Bennett's Hidden Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80147,41.759385,-86.80147,41.759385],
-  "geometry": {"coordinates":[-86.80147,41.759385],"type":"Point"}
+  "bbox": [
+    -86.80147,
+    41.759385,
+    -86.80147,
+    41.759385
+],
+  "geometry": {"coordinates":[-86.80146999999999,41.759385],"type":"Point"}
 }

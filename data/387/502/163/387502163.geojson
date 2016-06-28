@@ -2,13 +2,14 @@
   "id": 387502163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.945753,38.151132,-85.945753,38.151132",
     "geom:latitude":38.151132,
     "geom:longitude":-85.945753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 N Hwy 11 SE",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387502163,
-    "wof:lastmodified":1449057848,
+    "wof:lastmodified":1466503580,
     "wof:name":"D P Vending Company",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-85.945753,38.151132,-85.945753,38.151132],
+  "bbox": [
+    -85.945753,
+    38.151132,
+    -85.945753,
+    38.151132
+],
   "geometry": {"coordinates":[-85.945753,38.151132],"type":"Point"}
 }

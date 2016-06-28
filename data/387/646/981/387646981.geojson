@@ -2,13 +2,14 @@
   "id": 387646981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.206238,40.959424,-85.206238,40.959424",
     "geom:latitude":40.959424,
     "geom:longitude":-85.206238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13825 Smith Rd",
     "sg:city":"Yoder",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387646981,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1466503779,
     "wof:name":"Sorg Sons Enterprise",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.206238,40.959424,-85.206238,40.959424],
+  "bbox": [
+    -85.206238,
+    40.959424,
+    -85.206238,
+    40.959424
+],
   "geometry": {"coordinates":[-85.206238,40.959424],"type":"Point"}
 }

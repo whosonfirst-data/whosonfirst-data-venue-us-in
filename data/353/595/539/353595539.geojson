@@ -2,13 +2,14 @@
   "id": 353595539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.838462,40.393767,-86.838462,40.393767",
     "geom:latitude":40.393767,
     "geom:longitude":-86.838462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S Creasy Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353595539,
-    "wof:lastmodified":1449020564,
+    "wof:lastmodified":1466503071,
     "wof:name":"Tippecanoe Mortgage Corp",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-86.838462,40.393767,-86.838462,40.393767],
-  "geometry": {"coordinates":[-86.838462,40.393767],"type":"Point"}
+  "bbox": [
+    -86.838462,
+    40.393767,
+    -86.838462,
+    40.393767
+],
+  "geometry": {"coordinates":[-86.83846200000001,40.393767],"type":"Point"}
 }

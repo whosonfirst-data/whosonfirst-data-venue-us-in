@@ -2,13 +2,14 @@
   "id": 353986559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.129624,38.179227,-86.129624,38.179227",
     "geom:latitude":38.179227,
     "geom:longitude":-86.129624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Shiloh Rd SW",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353986559,
-    "wof:lastmodified":1449020330,
+    "wof:lastmodified":1466503537,
     "wof:name":"Shiloh Holiness Christian Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.129624,38.179227,-86.129624,38.179227],
-  "geometry": {"coordinates":[-86.129624,38.179227],"type":"Point"}
+  "bbox": [
+    -86.129624,
+    38.179227,
+    -86.129624,
+    38.179227
+],
+  "geometry": {"coordinates":[-86.12962400000001,38.179227],"type":"Point"}
 }

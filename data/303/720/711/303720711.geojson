@@ -2,13 +2,14 @@
   "id": 303720711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.393311,40.195428,-85.393311,40.195428",
     "geom:latitude":40.195428,
     "geom:longitude":-85.393311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 N Meeks Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303720711,
-    "wof:lastmodified":1448998696,
+    "wof:lastmodified":1466503013,
     "wof:name":"Village Edge",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.393311,40.195428,-85.393311,40.195428],
+  "bbox": [
+    -85.393311,
+    40.195428,
+    -85.393311,
+    40.195428
+],
   "geometry": {"coordinates":[-85.393311,40.195428],"type":"Point"}
 }

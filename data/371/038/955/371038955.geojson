@@ -2,13 +2,14 @@
   "id": 371038955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073702,39.785125,-86.073702,39.785125",
     "geom:latitude":39.785125,
     "geom:longitude":-86.073702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 N Ritter Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371038955,
-    "wof:lastmodified":1449049727,
+    "wof:lastmodified":1466502916,
     "wof:name":"Do Adams Consulting Services I",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.073702,39.785125,-86.073702,39.785125],
+  "bbox": [
+    -86.073702,
+    39.785125,
+    -86.073702,
+    39.785125
+],
   "geometry": {"coordinates":[-86.073702,39.785125],"type":"Point"}
 }

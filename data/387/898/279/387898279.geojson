@@ -2,13 +2,14 @@
   "id": 387898279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.25722,39.97019,-86.25722,39.97019",
     "geom:latitude":39.97019,
     "geom:longitude":-86.25722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11166 Clarkston Rd",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387898279,
-    "wof:lastmodified":1449056036,
+    "wof:lastmodified":1466504123,
     "wof:name":"Indiana Referral Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.25722,39.97019,-86.25722,39.97019],
+  "bbox": [
+    -86.25722,
+    39.97019,
+    -86.25722,
+    39.97019
+],
   "geometry": {"coordinates":[-86.25722,39.97019],"type":"Point"}
 }

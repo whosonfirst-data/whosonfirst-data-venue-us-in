@@ -2,13 +2,14 @@
   "id": 354311943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.501379,38.00924,-87.501379,38.00924",
     "geom:latitude":38.00924,
     "geom:longitude":-87.501379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 Shadwell Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354311943,
-    "wof:lastmodified":1449066328,
+    "wof:lastmodified":1466503310,
     "wof:name":"Jagoe Homes Inc",
     "wof:parent_id":85877323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-87.501379,38.00924,-87.501379,38.00924],
+  "bbox": [
+    -87.501379,
+    38.00924,
+    -87.501379,
+    38.00924
+],
   "geometry": {"coordinates":[-87.501379,38.00924],"type":"Point"}
 }

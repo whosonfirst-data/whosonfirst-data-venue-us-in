@@ -2,13 +2,14 @@
   "id": 319974337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.028616,39.892114,-86.028616,39.892114",
     "geom:latitude":39.892114,
     "geom:longitude":-86.028616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 Copperfield Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319974337,
-    "wof:lastmodified":1449024785,
+    "wof:lastmodified":1466503631,
     "wof:name":"Ketchum Consulting Group Inc",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "strategic"
     ]
 },
-  "bbox": [-86.028616,39.892114,-86.028616,39.892114],
+  "bbox": [
+    -86.028616,
+    39.892114,
+    -86.028616,
+    39.892114
+],
   "geometry": {"coordinates":[-86.028616,39.892114],"type":"Point"}
 }

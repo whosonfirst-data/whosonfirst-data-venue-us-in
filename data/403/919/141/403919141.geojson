@@ -2,13 +2,14 @@
   "id": 403919141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215239,39.821494,-86.215239,39.821494",
     "geom:latitude":39.821494,
     "geom:longitude":-86.215239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3222 Nobscot Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403919141,
-    "wof:lastmodified":1449055637,
+    "wof:lastmodified":1466503188,
     "wof:name":"Tommy Boy Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-86.215239,39.821494,-86.215239,39.821494],
+  "bbox": [
+    -86.215239,
+    39.821494,
+    -86.215239,
+    39.821494
+],
   "geometry": {"coordinates":[-86.215239,39.821494],"type":"Point"}
 }

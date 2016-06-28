@@ -2,13 +2,14 @@
   "id": 353548137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.02706,39.915334,-86.02706,39.915334",
     "geom:latitude":39.915334,
     "geom:longitude":-86.02706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8739 Castle Park Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353548137,
-    "wof:lastmodified":1449020009,
+    "wof:lastmodified":1466503008,
     "wof:name":"System Design Group",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-86.02706,39.915334,-86.02706,39.915334],
-  "geometry": {"coordinates":[-86.02706,39.915334],"type":"Point"}
+  "bbox": [
+    -86.02706,
+    39.915334,
+    -86.02706,
+    39.915334
+],
+  "geometry": {"coordinates":[-86.02706000000001,39.915334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303389639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261032,39.722851,-86.261032,39.722851",
     "geom:latitude":39.722851,
     "geom:longitude":-86.261032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Fortune Cir W",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303389639,
-    "wof:lastmodified":1449000067,
+    "wof:lastmodified":1466503652,
     "wof:name":"Nazdar Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "printing"
     ]
 },
-  "bbox": [-86.261032,39.722851,-86.261032,39.722851],
+  "bbox": [
+    -86.261032,
+    39.722851,
+    -86.261032,
+    39.722851
+],
   "geometry": {"coordinates":[-86.261032,39.722851],"type":"Point"}
 }

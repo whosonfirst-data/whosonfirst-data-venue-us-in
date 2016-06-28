@@ -2,13 +2,14 @@
   "id": 320294945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.679309,40.567259,-85.679309,40.567259",
     "geom:latitude":40.567259,
     "geom:longitude":-85.679309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 N Butler Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320294945,
-    "wof:lastmodified":1449013920,
+    "wof:lastmodified":1466502916,
     "wof:name":"Design Consultants Inc",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-85.679309,40.567259,-85.679309,40.567259],
+  "bbox": [
+    -85.679309,
+    40.567259,
+    -85.679309,
+    40.567259
+],
   "geometry": {"coordinates":[-85.679309,40.567259],"type":"Point"}
 }

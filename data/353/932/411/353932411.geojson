@@ -2,13 +2,14 @@
   "id": 353932411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461708,41.592437,-87.461708,41.592437",
     "geom:latitude":41.592437,
     "geom:longitude":-87.461708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6626 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353932411,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1466503468,
     "wof:name":"Pumpkin Hut Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-87.461708,41.592437,-87.461708,41.592437],
+  "bbox": [
+    -87.461708,
+    41.592437,
+    -87.461708,
+    41.592437
+],
   "geometry": {"coordinates":[-87.461708,41.592437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404211863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.202789,39.787898,-86.202789,39.787898",
     "geom:latitude":39.787898,
     "geom:longitude":-86.202789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 W 16th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404211863,
-    "wof:lastmodified":1449039340,
+    "wof:lastmodified":1466503169,
     "wof:name":"Speedway Car Sales & Svc",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.202789,39.787898,-86.202789,39.787898],
+  "bbox": [
+    -86.202789,
+    39.787898,
+    -86.202789,
+    39.787898
+],
   "geometry": {"coordinates":[-86.202789,39.787898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353826749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156786,39.826158,-86.156786,39.826158",
     "geom:latitude":39.826158,
     "geom:longitude":-86.156786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3921 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353826749,
-    "wof:lastmodified":1449020095,
+    "wof:lastmodified":1466503339,
     "wof:name":"Indianapolis Black Chamber",
     "wof:parent_id":85832319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-86.156786,39.826158,-86.156786,39.826158],
+  "bbox": [
+    -86.156786,
+    39.826158,
+    -86.156786,
+    39.826158
+],
   "geometry": {"coordinates":[-86.156786,39.826158],"type":"Point"}
 }

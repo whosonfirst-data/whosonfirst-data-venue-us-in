@@ -2,13 +2,14 @@
   "id": 336808921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.096019,39.905371,-86.096019,39.905371",
     "geom:latitude":39.905371,
     "geom:longitude":-86.096019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 Heyward Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336808921,
-    "wof:lastmodified":1448996963,
+    "wof:lastmodified":1466503160,
     "wof:name":"Van Huss Media Svc Inc",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-86.096019,39.905371,-86.096019,39.905371],
+  "bbox": [
+    -86.096019,
+    39.905371,
+    -86.096019,
+    39.905371
+],
   "geometry": {"coordinates":[-86.096019,39.905371],"type":"Point"}
 }

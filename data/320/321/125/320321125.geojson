@@ -2,13 +2,14 @@
   "id": 320321125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.168309,41.024895,-85.168309,41.024895",
     "geom:latitude":41.024895,
     "geom:longitude":-85.168309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 Bluffton Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320321125,
-    "wof:lastmodified":1449011346,
+    "wof:lastmodified":1466502946,
     "wof:name":"Sunsation",
     "wof:parent_id":85829207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-85.168309,41.024895,-85.168309,41.024895],
-  "geometry": {"coordinates":[-85.168309,41.024895],"type":"Point"}
+  "bbox": [
+    -85.168309,
+    41.024895,
+    -85.168309,
+    41.024895
+],
+  "geometry": {"coordinates":[-85.16830899999999,41.024895],"type":"Point"}
 }

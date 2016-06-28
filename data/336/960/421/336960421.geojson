@@ -2,13 +2,14 @@
   "id": 336960421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.415095,41.221654,-86.415095,41.221654",
     "geom:latitude":41.221654,
     "geom:longitude":-86.415095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Lake Shore Dr",
     "sg:city":"Culver",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336960421,
-    "wof:lastmodified":1448997703,
+    "wof:lastmodified":1466503351,
     "wof:name":"Culver Park Beach Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-86.415095,41.221654,-86.415095,41.221654],
-  "geometry": {"coordinates":[-86.415095,41.221654],"type":"Point"}
+  "bbox": [
+    -86.415095,
+    41.221654,
+    -86.415095,
+    41.221654
+],
+  "geometry": {"coordinates":[-86.41509499999999,41.221654],"type":"Point"}
 }

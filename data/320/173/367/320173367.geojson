@@ -2,13 +2,14 @@
   "id": 320173367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.563504,38.478023,-85.563504,38.478023",
     "geom:latitude":38.478023,
     "geom:longitude":-85.563504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6721 Bull Creek Rd",
     "sg:city":"Charlestown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320173367,
-    "wof:lastmodified":1449011979,
+    "wof:lastmodified":1466503744,
     "wof:name":"Martin's Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.563504,38.478023,-85.563504,38.478023],
-  "geometry": {"coordinates":[-85.563504,38.478023],"type":"Point"}
+  "bbox": [
+    -85.563504,
+    38.478023,
+    -85.563504,
+    38.478023
+],
+  "geometry": {"coordinates":[-85.56350399999999,38.478023],"type":"Point"}
 }

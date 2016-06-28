@@ -2,13 +2,14 @@
   "id": 354110155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.181937,41.132057,-85.181937,41.132057",
     "geom:latitude":41.132057,
     "geom:longitude":-85.181937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2737 W Washington Center Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354110155,
-    "wof:lastmodified":1449066477,
+    "wof:lastmodified":1466503010,
     "wof:name":"Valley Hills Mobile Home Park",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-85.181937,41.132057,-85.181937,41.132057],
+  "bbox": [
+    -85.181937,
+    41.132057,
+    -85.181937,
+    41.132057
+],
   "geometry": {"coordinates":[-85.181937,41.132057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353783203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.348519,41.510724,-87.348519,41.510724",
     "geom:latitude":41.510724,
     "geom:longitude":-87.348519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 W 59th Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353783203,
-    "wof:lastmodified":1449018324,
+    "wof:lastmodified":1466503289,
     "wof:name":"Ebod Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-87.348519,41.510724,-87.348519,41.510724],
+  "bbox": [
+    -87.348519,
+    41.510724,
+    -87.348519,
+    41.510724
+],
   "geometry": {"coordinates":[-87.348519,41.510724],"type":"Point"}
 }

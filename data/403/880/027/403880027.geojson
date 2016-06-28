@@ -2,13 +2,14 @@
   "id": 403880027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.361224,41.592842,-87.361224,41.592842",
     "geom:latitude":41.592842,
     "geom:longitude":-87.361224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1953 W 10th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403880027,
-    "wof:lastmodified":1449055974,
+    "wof:lastmodified":1466503136,
     "wof:name":"Sherrod S Auto Body Repair",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-87.361224,41.592842,-87.361224,41.592842],
-  "geometry": {"coordinates":[-87.361224,41.592842],"type":"Point"}
+  "bbox": [
+    -87.361224,
+    41.592842,
+    -87.361224,
+    41.592842
+],
+  "geometry": {"coordinates":[-87.36122400000001,41.592842],"type":"Point"}
 }

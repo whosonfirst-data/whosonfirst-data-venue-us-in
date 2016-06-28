@@ -2,13 +2,14 @@
   "id": 370987115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893151,40.419739,-86.893151,40.419739",
     "geom:latitude":40.419739,
     "geom:longitude":-86.893151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 N 4th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370987115,
-    "wof:lastmodified":1449030961,
+    "wof:lastmodified":1466503806,
     "wof:name":"Energy Management System",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-86.893151,40.419739,-86.893151,40.419739],
+  "bbox": [
+    -86.893151,
+    40.419739,
+    -86.893151,
+    40.419739
+],
   "geometry": {"coordinates":[-86.893151,40.419739],"type":"Point"}
 }

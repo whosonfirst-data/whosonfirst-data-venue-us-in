@@ -2,13 +2,14 @@
   "id": 404091957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039569,39.750278,-86.039569,39.750278",
     "geom:latitude":39.750278,
     "geom:longitude":-86.039569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Sadlier Circle W Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404091957,
-    "wof:lastmodified":1449039139,
+    "wof:lastmodified":1466503014,
     "wof:name":"PSV Sales & Svc",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-86.039569,39.750278,-86.039569,39.750278],
+  "bbox": [
+    -86.039569,
+    39.750278,
+    -86.039569,
+    39.750278
+],
   "geometry": {"coordinates":[-86.039569,39.750278],"type":"Point"}
 }

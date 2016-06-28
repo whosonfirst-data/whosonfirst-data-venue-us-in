@@ -2,13 +2,14 @@
   "id": 320175755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.675808,40.55786,-85.675808,40.55786",
     "geom:latitude":40.55786,
     "geom:longitude":-85.675808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Baldwin Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320175755,
-    "wof:lastmodified":1449013859,
+    "wof:lastmodified":1466503744,
     "wof:name":"Melvin Frecker OD",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.675808,40.55786,-85.675808,40.55786],
+  "bbox": [
+    -85.675808,
+    40.55786,
+    -85.675808,
+    40.55786
+],
   "geometry": {"coordinates":[-85.675808,40.55786],"type":"Point"}
 }

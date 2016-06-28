@@ -2,13 +2,14 @@
   "id": 303334133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.505988,40.312165,-86.505988,40.312165",
     "geom:latitude":40.312165,
     "geom:longitude":-86.505988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1681 N Co Rd 0 Ew",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303334133,
-    "wof:lastmodified":1448998830,
+    "wof:lastmodified":1466503609,
     "wof:name":"Crews Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.505988,40.312165,-86.505988,40.312165],
+  "bbox": [
+    -86.505988,
+    40.312165,
+    -86.505988,
+    40.312165
+],
   "geometry": {"coordinates":[-86.505988,40.312165],"type":"Point"}
 }

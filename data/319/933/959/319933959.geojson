@@ -2,13 +2,14 @@
   "id": 319933959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.828259,41.503928,-85.828259,41.503928",
     "geom:latitude":41.503928,
     "geom:longitude":-85.828259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68137 Co Rd 23",
     "sg:city":"New Paris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319933959,
-    "wof:lastmodified":1449024254,
+    "wof:lastmodified":1466503609,
     "wof:name":"New Paris Lions Ball Park",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stadium"
     ]
 },
-  "bbox": [-85.828259,41.503928,-85.828259,41.503928],
+  "bbox": [
+    -85.828259,
+    41.503928,
+    -85.828259,
+    41.503928
+],
   "geometry": {"coordinates":[-85.828259,41.503928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387250871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.023501,39.796569,-86.023501,39.796569",
     "geom:latitude":39.796569,
     "geom:longitude":-86.023501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8101 E 21st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387250871,
-    "wof:lastmodified":1449058274,
+    "wof:lastmodified":1466503239,
     "wof:name":"V-H-One Video Inc",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.023501,39.796569,-86.023501,39.796569],
+  "bbox": [
+    -86.023501,
+    39.796569,
+    -86.023501,
+    39.796569
+],
   "geometry": {"coordinates":[-86.023501,39.796569],"type":"Point"}
 }

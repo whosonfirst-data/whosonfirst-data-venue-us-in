@@ -2,13 +2,14 @@
   "id": 303829403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.776784,38.683859,-85.776784,38.683859",
     "geom:latitude":38.683859,
     "geom:longitude":-85.776784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 W Cherry St",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303829403,
-    "wof:lastmodified":1449000405,
+    "wof:lastmodified":1466503140,
     "wof:name":"Ace's Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-85.776784,38.683859,-85.776784,38.683859],
-  "geometry": {"coordinates":[-85.776784,38.683859],"type":"Point"}
+  "bbox": [
+    -85.776784,
+    38.683859,
+    -85.776784,
+    38.683859
+],
+  "geometry": {"coordinates":[-85.77678400000001,38.683859],"type":"Point"}
 }

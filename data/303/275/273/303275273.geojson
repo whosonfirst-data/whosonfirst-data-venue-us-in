@@ -2,13 +2,14 @@
   "id": 303275273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.633704,40.120474,-85.633704,40.120474",
     "geom:latitude":40.120474,
     "geom:longitude":-85.633704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Lindberg Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303275273,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466503554,
     "wof:name":"Dolphin Club",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-85.633704,40.120474,-85.633704,40.120474],
-  "geometry": {"coordinates":[-85.633704,40.120474],"type":"Point"}
+  "bbox": [
+    -85.633704,
+    40.120474,
+    -85.633704,
+    40.120474
+],
+  "geometry": {"coordinates":[-85.63370399999999,40.120474],"type":"Point"}
 }

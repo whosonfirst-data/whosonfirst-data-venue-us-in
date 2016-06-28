@@ -2,13 +2,14 @@
   "id": 354040705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.138102,41.065447,-85.138102,41.065447",
     "geom:latitude":41.065447,
     "geom:longitude":-85.138102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354040705,
-    "wof:lastmodified":1449067636,
+    "wof:lastmodified":1466502930,
     "wof:name":"Fort Wayne Crime Stopper",
     "wof:parent_id":85877553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crime"
     ]
 },
-  "bbox": [-85.138102,41.065447,-85.138102,41.065447],
+  "bbox": [
+    -85.138102,
+    41.065447,
+    -85.138102,
+    41.065447
+],
   "geometry": {"coordinates":[-85.138102,41.065447],"type":"Point"}
 }

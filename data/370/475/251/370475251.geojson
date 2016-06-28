@@ -2,13 +2,14 @@
   "id": 370475251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.344412,38.335295,-87.344412,38.335295",
     "geom:latitude":38.335295,
     "geom:longitude":-87.344412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Jackson St",
     "sg:city":"Oakland City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370475251,
-    "wof:lastmodified":1449030488,
+    "wof:lastmodified":1466503248,
     "wof:name":"First Church Of Nazarene",
     "wof:parent_id":85822653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.344412,38.335295,-87.344412,38.335295],
-  "geometry": {"coordinates":[-87.344412,38.335295],"type":"Point"}
+  "bbox": [
+    -87.344412,
+    38.335295,
+    -87.344412,
+    38.335295
+],
+  "geometry": {"coordinates":[-87.34441200000001,38.335295],"type":"Point"}
 }

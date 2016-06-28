@@ -2,13 +2,14 @@
   "id": 354274547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131954,41.67234,-86.131954,41.67234",
     "geom:latitude":41.67234,
     "geom:longitude":-86.131954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56575 Twin Branch Dr",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354274547,
-    "wof:lastmodified":1449066144,
+    "wof:lastmodified":1466503250,
     "wof:name":"Shambaugh & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.131954,41.67234,-86.131954,41.67234],
-  "geometry": {"coordinates":[-86.131954,41.67234],"type":"Point"}
+  "bbox": [
+    -86.131954,
+    41.67234,
+    -86.131954,
+    41.67234
+],
+  "geometry": {"coordinates":[-86.13195399999999,41.67234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354362457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.951014,39.898457,-85.951014,39.898457",
     "geom:latitude":39.898457,
     "geom:longitude":-85.951014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12111 E 79th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354362457,
-    "wof:lastmodified":1449067070,
+    "wof:lastmodified":1466503395,
     "wof:name":"Solar Concepts Inc",
     "wof:parent_id":85821387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-85.951014,39.898457,-85.951014,39.898457],
+  "bbox": [
+    -85.951014,
+    39.898457,
+    -85.951014,
+    39.898457
+],
   "geometry": {"coordinates":[-85.951014,39.898457],"type":"Point"}
 }

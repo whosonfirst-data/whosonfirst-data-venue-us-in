@@ -2,13 +2,14 @@
   "id": 403781983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.230706,39.913151,-86.230706,39.913151",
     "geom:latitude":39.913151,
     "geom:longitude":-86.230706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8765 Guion Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403781983,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1466502990,
     "wof:name":"Ocimum Biosolutions LLC",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-86.230706,39.913151,-86.230706,39.913151],
+  "bbox": [
+    -86.230706,
+    39.913151,
+    -86.230706,
+    39.913151
+],
   "geometry": {"coordinates":[-86.230706,39.913151],"type":"Point"}
 }

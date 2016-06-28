@@ -2,13 +2,14 @@
   "id": 354251029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.996561,38.379517,-85.996561,38.379517",
     "geom:latitude":38.379517,
     "geom:longitude":-85.996561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7204 Whirlaway Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354251029,
-    "wof:lastmodified":1449065971,
+    "wof:lastmodified":1466503213,
     "wof:name":"J Cubed Investments",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.996561,38.379517,-85.996561,38.379517],
+  "bbox": [
+    -85.996561,
+    38.379517,
+    -85.996561,
+    38.379517
+],
   "geometry": {"coordinates":[-85.996561,38.379517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336843173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.099397,41.108859,-85.099397,41.108859",
     "geom:latitude":41.108859,
     "geom:longitude":-85.099397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Hobson Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336843173,
-    "wof:lastmodified":1448997022,
+    "wof:lastmodified":1466503204,
     "wof:name":"Indiana Postal & Federal Cu",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.099397,41.108859,-85.099397,41.108859],
+  "bbox": [
+    -85.099397,
+    41.108859,
+    -85.099397,
+    41.108859
+],
   "geometry": {"coordinates":[-85.099397,41.108859],"type":"Point"}
 }

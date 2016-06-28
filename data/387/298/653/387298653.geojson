@@ -2,13 +2,14 @@
   "id": 387298653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156096,39.773669,-86.156096,39.773669",
     "geom:latitude":39.773669,
     "geom:longitude":-86.156096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 N Pennsylvania St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387298653,
-    "wof:lastmodified":1449057125,
+    "wof:lastmodified":1466503305,
     "wof:name":"US Labor Dept",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-86.156096,39.773669,-86.156096,39.773669],
-  "geometry": {"coordinates":[-86.156096,39.773669],"type":"Point"}
+  "bbox": [
+    -86.156096,
+    39.773669,
+    -86.156096,
+    39.773669
+],
+  "geometry": {"coordinates":[-86.15609600000001,39.773669],"type":"Point"}
 }

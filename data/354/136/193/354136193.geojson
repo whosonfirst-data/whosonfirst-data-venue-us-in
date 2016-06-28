@@ -2,13 +2,14 @@
   "id": 354136193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.15774,39.926553,-86.15774,39.926553",
     "geom:latitude":39.926553,
     "geom:longitude":-86.15774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9333 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354136193,
-    "wof:lastmodified":1449067653,
+    "wof:lastmodified":1466503042,
     "wof:name":"Oldcastle Services",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.15774,39.926553,-86.15774,39.926553],
+  "bbox": [
+    -86.15774,
+    39.926553,
+    -86.15774,
+    39.926553
+],
   "geometry": {"coordinates":[-86.15774,39.926553],"type":"Point"}
 }

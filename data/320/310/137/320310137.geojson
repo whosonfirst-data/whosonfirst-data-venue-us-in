@@ -2,13 +2,14 @@
   "id": 320310137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.600687,39.021273,-86.600687,39.021273",
     "geom:latitude":39.021273,
     "geom:longitude":-86.600687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8635 S Rockport Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320310137,
-    "wof:lastmodified":1449013555,
+    "wof:lastmodified":1466502934,
     "wof:name":"Loogootee Leasing Co",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-86.600687,39.021273,-86.600687,39.021273],
-  "geometry": {"coordinates":[-86.600687,39.021273],"type":"Point"}
+  "bbox": [
+    -86.600687,
+    39.021273,
+    -86.600687,
+    39.021273
+],
+  "geometry": {"coordinates":[-86.60068699999999,39.021273],"type":"Point"}
 }

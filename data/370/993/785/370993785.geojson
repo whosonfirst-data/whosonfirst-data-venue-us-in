@@ -2,13 +2,14 @@
   "id": 370993785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.552319,38.102336,-87.552319,38.102336",
     "geom:latitude":38.102336,
     "geom:longitude":-87.552319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13725 Old State Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370993785,
-    "wof:lastmodified":1449030595,
+    "wof:lastmodified":1466503838,
     "wof:name":"Niethammer's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-87.552319,38.102336,-87.552319,38.102336],
+  "bbox": [
+    -87.552319,
+    38.102336,
+    -87.552319,
+    38.102336
+],
   "geometry": {"coordinates":[-87.552319,38.102336],"type":"Point"}
 }

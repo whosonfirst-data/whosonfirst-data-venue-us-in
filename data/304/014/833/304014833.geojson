@@ -2,13 +2,14 @@
   "id": 304014833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.58516,39.651546,-86.58516,39.651546",
     "geom:latitude":39.651546,
     "geom:longitude":-86.58516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 S Co Rd 350 W",
     "sg:city":"Stilesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304014833,
-    "wof:lastmodified":1449043843,
+    "wof:lastmodified":1466503411,
     "wof:name":"Hunter Agri Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fertilizing"
     ]
 },
-  "bbox": [-86.58516,39.651546,-86.58516,39.651546],
+  "bbox": [
+    -86.58516,
+    39.651546,
+    -86.58516,
+    39.651546
+],
   "geometry": {"coordinates":[-86.58516,39.651546],"type":"Point"}
 }

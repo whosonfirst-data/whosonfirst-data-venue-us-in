@@ -2,13 +2,14 @@
   "id": 387177717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.902814,40.042679,-86.902814,40.042679",
     "geom:latitude":40.042679,
     "geom:longitude":-86.902814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Walnut St",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387177717,
-    "wof:lastmodified":1449059916,
+    "wof:lastmodified":1466503134,
     "wof:name":"Rubin's Radiators & Repairs",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-86.902814,40.042679,-86.902814,40.042679],
-  "geometry": {"coordinates":[-86.902814,40.042679],"type":"Point"}
+  "bbox": [
+    -86.902814,
+    40.042679,
+    -86.902814,
+    40.042679
+],
+  "geometry": {"coordinates":[-86.90281400000001,40.042679],"type":"Point"}
 }

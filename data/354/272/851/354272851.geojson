@@ -2,13 +2,14 @@
   "id": 354272851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803576,38.443779,-86.803576,38.443779",
     "geom:latitude":38.443779,
     "geom:longitude":-86.803576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5464 E Jackson St",
     "sg:city":"Dubois",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354272851,
-    "wof:lastmodified":1449067564,
+    "wof:lastmodified":1466503247,
     "wof:name":"Terry Neukam Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-86.803576,38.443779,-86.803576,38.443779],
-  "geometry": {"coordinates":[-86.803576,38.443779],"type":"Point"}
+  "bbox": [
+    -86.803576,
+    38.443779,
+    -86.803576,
+    38.443779
+],
+  "geometry": {"coordinates":[-86.80357600000001,38.443779],"type":"Point"}
 }

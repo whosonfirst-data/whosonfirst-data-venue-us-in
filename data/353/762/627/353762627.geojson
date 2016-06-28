@@ -2,13 +2,14 @@
   "id": 353762627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.992732,41.673355,-85.992732,41.673355",
     "geom:latitude":41.673355,
     "geom:longitude":-85.992732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 W Franklin St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353762627,
-    "wof:lastmodified":1449020057,
+    "wof:lastmodified":1466503260,
     "wof:name":"G M Race Car Trlrs & Hobby Str",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.992732,41.673355,-85.992732,41.673355],
+  "bbox": [
+    -85.992732,
+    41.673355,
+    -85.992732,
+    41.673355
+],
   "geometry": {"coordinates":[-85.992732,41.673355],"type":"Point"}
 }

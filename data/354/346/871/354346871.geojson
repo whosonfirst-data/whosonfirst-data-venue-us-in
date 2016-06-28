@@ -2,13 +2,14 @@
   "id": 354346871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156527,39.639904,-86.156527,39.639904",
     "geom:latitude":39.639904,
     "geom:longitude":-86.156527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 E Stop 13 Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354346871,
-    "wof:lastmodified":1449065918,
+    "wof:lastmodified":1466503368,
     "wof:name":"Patricia Small",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetologist"
     ]
 },
-  "bbox": [-86.156527,39.639904,-86.156527,39.639904],
+  "bbox": [
+    -86.156527,
+    39.639904,
+    -86.156527,
+    39.639904
+],
   "geometry": {"coordinates":[-86.156527,39.639904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387902325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.835952,40.514675,-86.835952,40.514675",
     "geom:latitude":40.514675,
     "geom:longitude":-86.835952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Railroad St",
     "sg:city":"Battle Ground",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387902325,
-    "wof:lastmodified":1449058922,
+    "wof:lastmodified":1466504133,
     "wof:name":"Farmers State Bank",
     "wof:parent_id":85843885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.835952,40.514675,-86.835952,40.514675],
-  "geometry": {"coordinates":[-86.835952,40.514675],"type":"Point"}
+  "bbox": [
+    -86.835952,
+    40.514675,
+    -86.835952,
+    40.514675
+],
+  "geometry": {"coordinates":[-86.83595200000001,40.514675],"type":"Point"}
 }

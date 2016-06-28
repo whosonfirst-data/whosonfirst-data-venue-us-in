@@ -2,13 +2,14 @@
   "id": 370336997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.370322,39.932977,-85.370322,39.932977",
     "geom:latitude":39.932977,
     "geom:longitude":-85.370322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Main St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370336997,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1466503115,
     "wof:name":"New Castle City Clerk-Treasure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-85.370322,39.932977,-85.370322,39.932977],
+  "bbox": [
+    -85.370322,
+    39.932977,
+    -85.370322,
+    39.932977
+],
   "geometry": {"coordinates":[-85.370322,39.932977],"type":"Point"}
 }

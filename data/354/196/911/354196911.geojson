@@ -2,13 +2,14 @@
   "id": 354196911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.743996,39.987767,-85.743996,39.987767",
     "geom:latitude":39.987767,
     "geom:longitude":-85.743996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6869 State Rd 67",
     "sg:city":"Pendleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354196911,
-    "wof:lastmodified":1449066309,
+    "wof:lastmodified":1466503131,
     "wof:name":"Seedy Sally's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "feeder"
     ]
 },
-  "bbox": [-85.743996,39.987767,-85.743996,39.987767],
+  "bbox": [
+    -85.743996,
+    39.987767,
+    -85.743996,
+    39.987767
+],
   "geometry": {"coordinates":[-85.743996,39.987767],"type":"Point"}
 }

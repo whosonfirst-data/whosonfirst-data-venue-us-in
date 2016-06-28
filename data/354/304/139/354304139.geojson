@@ -2,13 +2,14 @@
   "id": 354304139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.799818,38.775526,-85.799818,38.775526",
     "geom:latitude":38.775526,
     "geom:longitude":-85.799818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5783 N Water Tower Rd",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354304139,
-    "wof:lastmodified":1449067223,
+    "wof:lastmodified":1466503293,
     "wof:name":"Stucker Fork Water Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sewage"
     ]
 },
-  "bbox": [-85.799818,38.775526,-85.799818,38.775526],
+  "bbox": [
+    -85.799818,
+    38.775526,
+    -85.799818,
+    38.775526
+],
   "geometry": {"coordinates":[-85.799818,38.775526],"type":"Point"}
 }

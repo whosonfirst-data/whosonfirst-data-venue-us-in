@@ -2,13 +2,14 @@
   "id": 387862369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.463481,41.377417,-87.463481,41.377417",
     "geom:latitude":41.377417,
     "geom:longitude":-87.463481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10630 W 133rd Ave",
     "sg:city":"Cedar Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387862369,
-    "wof:lastmodified":1449060014,
+    "wof:lastmodified":1466504070,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85812123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.463481,41.377417,-87.463481,41.377417],
+  "bbox": [
+    -87.463481,
+    41.377417,
+    -87.463481,
+    41.377417
+],
   "geometry": {"coordinates":[-87.463481,41.377417],"type":"Point"}
 }

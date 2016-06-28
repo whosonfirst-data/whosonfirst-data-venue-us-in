@@ -2,13 +2,14 @@
   "id": 320349867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.427073,40.684936,-85.427073,40.684936",
     "geom:latitude":40.684936,
     "geom:longitude":-85.427073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 W 4th St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320349867,
-    "wof:lastmodified":1449012694,
+    "wof:lastmodified":1466502989,
     "wof:name":"Warren Health & Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "fitness"
     ]
 },
-  "bbox": [-85.427073,40.684936,-85.427073,40.684936],
-  "geometry": {"coordinates":[-85.427073,40.684936],"type":"Point"}
+  "bbox": [
+    -85.427073,
+    40.684936,
+    -85.427073,
+    40.684936
+],
+  "geometry": {"coordinates":[-85.42707299999999,40.684936],"type":"Point"}
 }

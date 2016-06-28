@@ -2,13 +2,14 @@
   "id": 387335881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.289931,39.789178,-86.289931,39.789178",
     "geom:latitude":39.789178,
     "geom:longitude":-86.289931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1758 Catalano Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387335881,
-    "wof:lastmodified":1449058619,
+    "wof:lastmodified":1466503352,
     "wof:name":"CD Excel Inc",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.289931,39.789178,-86.289931,39.789178],
+  "bbox": [
+    -86.289931,
+    39.789178,
+    -86.289931,
+    39.789178
+],
   "geometry": {"coordinates":[-86.289931,39.789178],"type":"Point"}
 }

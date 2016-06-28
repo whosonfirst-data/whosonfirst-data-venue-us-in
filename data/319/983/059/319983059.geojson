@@ -2,13 +2,14 @@
   "id": 319983059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.098302,40.793083,-86.098302,40.793083",
     "geom:latitude":40.793083,
     "geom:longitude":-86.098302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 W 200 N",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319983059,
-    "wof:lastmodified":1449024818,
+    "wof:lastmodified":1466503634,
     "wof:name":"Jim's Garage & Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-86.098302,40.793083,-86.098302,40.793083],
+  "bbox": [
+    -86.098302,
+    40.793083,
+    -86.098302,
+    40.793083
+],
   "geometry": {"coordinates":[-86.098302,40.793083],"type":"Point"}
 }

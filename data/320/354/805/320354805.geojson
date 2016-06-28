@@ -2,13 +2,14 @@
   "id": 320354805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956256,38.315023,-86.956256,38.315023",
     "geom:latitude":38.315023,
     "geom:longitude":-86.956256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Medical Arts Dr",
     "sg:city":"Huntingburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320354805,
-    "wof:lastmodified":1449014541,
+    "wof:lastmodified":1466502994,
     "wof:name":"Occucare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapist"
     ]
 },
-  "bbox": [-86.956256,38.315023,-86.956256,38.315023],
+  "bbox": [
+    -86.956256,
+    38.315023,
+    -86.956256,
+    38.315023
+],
   "geometry": {"coordinates":[-86.956256,38.315023],"type":"Point"}
 }

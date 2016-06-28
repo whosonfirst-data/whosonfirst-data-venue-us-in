@@ -2,13 +2,14 @@
   "id": 320414821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241974,39.940755,-86.241974,39.940755",
     "geom:latitude":39.940755,
     "geom:longitude":-86.241974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5078 W 106th St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320414821,
-    "wof:lastmodified":1449013003,
+    "wof:lastmodified":1466503071,
     "wof:name":"Floor Mart & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "carpet"
     ]
 },
-  "bbox": [-86.241974,39.940755,-86.241974,39.940755],
+  "bbox": [
+    -86.241974,
+    39.940755,
+    -86.241974,
+    39.940755
+],
   "geometry": {"coordinates":[-86.241974,39.940755],"type":"Point"}
 }

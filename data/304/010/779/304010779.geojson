@@ -2,13 +2,14 @@
   "id": 304010779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.743128,39.792469,-86.743128,39.792469",
     "geom:latitude":39.792469,
     "geom:longitude":-86.743128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9875 N Co Rd 600 E",
     "sg:city":"Roachdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304010779,
-    "wof:lastmodified":1449043955,
+    "wof:lastmodified":1466503401,
     "wof:name":"Robertson Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-86.743128,39.792469,-86.743128,39.792469],
+  "bbox": [
+    -86.743128,
+    39.792469,
+    -86.743128,
+    39.792469
+],
   "geometry": {"coordinates":[-86.743128,39.792469],"type":"Point"}
 }

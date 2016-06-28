@@ -2,13 +2,14 @@
   "id": 370734751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.021648,41.668108,-86.021648,41.668108",
     "geom:latitude":41.668108,
     "geom:longitude":-86.021648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29235 US Hwy 33",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370734751,
-    "wof:lastmodified":1449032042,
+    "wof:lastmodified":1466503523,
     "wof:name":"Alco Tool Supply Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-86.021648,41.668108,-86.021648,41.668108],
+  "bbox": [
+    -86.021648,
+    41.668108,
+    -86.021648,
+    41.668108
+],
   "geometry": {"coordinates":[-86.021648,41.668108],"type":"Point"}
 }

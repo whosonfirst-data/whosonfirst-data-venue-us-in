@@ -2,13 +2,14 @@
   "id": 387550861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161721,39.767162,-86.161721,39.767162",
     "geom:latitude":39.767162,
     "geom:longitude":-86.161721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387550861,
-    "wof:lastmodified":1449058171,
+    "wof:lastmodified":1466503642,
     "wof:name":"CHRISTOPHER B Burke Engrg LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.161721,39.767162,-86.161721,39.767162],
+  "bbox": [
+    -86.161721,
+    39.767162,
+    -86.161721,
+    39.767162
+],
   "geometry": {"coordinates":[-86.161721,39.767162],"type":"Point"}
 }

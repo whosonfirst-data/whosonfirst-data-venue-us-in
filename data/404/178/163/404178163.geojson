@@ -2,13 +2,14 @@
   "id": 404178163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250884,41.675097,-86.250884,41.675097",
     "geom:latitude":41.675097,
     "geom:longitude":-86.250884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Jefferson Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404178163,
-    "wof:lastmodified":1449039988,
+    "wof:lastmodified":1466503125,
     "wof:name":"Avant Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.250884,41.675097,-86.250884,41.675097],
+  "bbox": [
+    -86.250884,
+    41.675097,
+    -86.250884,
+    41.675097
+],
   "geometry": {"coordinates":[-86.250884,41.675097],"type":"Point"}
 }

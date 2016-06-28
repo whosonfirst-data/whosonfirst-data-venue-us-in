@@ -2,13 +2,14 @@
   "id": 370910923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.342641,40.619125,-87.342641,40.619125",
     "geom:latitude":40.619125,
     "geom:longitude":-87.342641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1358 N 100 W",
     "sg:city":"Fowler",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370910923,
-    "wof:lastmodified":1449030495,
+    "wof:lastmodified":1466503718,
     "wof:name":"Castongia's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-87.342641,40.619125,-87.342641,40.619125],
+  "bbox": [
+    -87.342641,
+    40.619125,
+    -87.342641,
+    40.619125
+],
   "geometry": {"coordinates":[-87.342641,40.619125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387317507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246029,39.99872,-86.246029,39.99872",
     "geom:latitude":39.99872,
     "geom:longitude":-86.246029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11823 E 300 S",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387317507,
-    "wof:lastmodified":1449057841,
+    "wof:lastmodified":1466503325,
     "wof:name":"Gregg H Montgomery Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.246029,39.99872,-86.246029,39.99872],
-  "geometry": {"coordinates":[-86.246029,39.99872],"type":"Point"}
+  "bbox": [
+    -86.246029,
+    39.99872,
+    -86.246029,
+    39.99872
+],
+  "geometry": {"coordinates":[-86.24602899999999,39.99872],"type":"Point"}
 }

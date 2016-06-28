@@ -2,13 +2,14 @@
   "id": 320645767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.955533,40.669774,-84.955533,40.669774",
     "geom:latitude":40.669774,
     "geom:longitude":-84.955533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 US Hwy 27 N",
     "sg:city":"Berne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320645767,
-    "wof:lastmodified":1449011616,
+    "wof:lastmodified":1466503351,
     "wof:name":"Bernhaus Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.955533,40.669774,-84.955533,40.669774],
+  "bbox": [
+    -84.955533,
+    40.669774,
+    -84.955533,
+    40.669774
+],
   "geometry": {"coordinates":[-84.955533,40.669774],"type":"Point"}
 }

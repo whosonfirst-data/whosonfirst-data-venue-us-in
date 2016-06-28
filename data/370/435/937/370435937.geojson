@@ -2,13 +2,14 @@
   "id": 370435937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569338,37.988517,-87.569338,37.988517",
     "geom:latitude":37.988517,
     "geom:longitude":-87.569338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 W Louisiana St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370435937,
-    "wof:lastmodified":1449032161,
+    "wof:lastmodified":1466503209,
     "wof:name":"Gilham Funeral Svc",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-87.569338,37.988517,-87.569338,37.988517],
+  "bbox": [
+    -87.569338,
+    37.988517,
+    -87.569338,
+    37.988517
+],
   "geometry": {"coordinates":[-87.569338,37.988517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387903081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.128361,39.637656,-86.128361,39.637656",
     "geom:latitude":39.637656,
     "geom:longitude":-86.128361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8820 US Hwy 31 S",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387903081,
-    "wof:lastmodified":1449056339,
+    "wof:lastmodified":1466504135,
     "wof:name":"Lone Star Steakhouse & Saloon",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.128361,39.637656,-86.128361,39.637656],
+  "bbox": [
+    -86.128361,
+    39.637656,
+    -86.128361,
+    39.637656
+],
   "geometry": {"coordinates":[-86.128361,39.637656],"type":"Point"}
 }

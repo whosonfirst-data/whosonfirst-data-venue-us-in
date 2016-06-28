@@ -2,13 +2,14 @@
   "id": 336961371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.136854,39.808024,-86.136854,39.808024",
     "geom:latitude":39.808024,
     "geom:longitude":-86.136854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Columbia Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336961371,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1466503352,
     "wof:name":"Sealcoat Supply Of Indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-86.136854,39.808024,-86.136854,39.808024],
+  "bbox": [
+    -86.136854,
+    39.808024,
+    -86.136854,
+    39.808024
+],
   "geometry": {"coordinates":[-86.136854,39.808024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404205135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.924005,41.637658,-85.924005,41.637658",
     "geom:latitude":41.637658,
     "geom:longitude":-85.924005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23821 US Hwy 33",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404205135,
-    "wof:lastmodified":1449039830,
+    "wof:lastmodified":1466503160,
     "wof:name":"Astrobowl",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-85.924005,41.637658,-85.924005,41.637658],
-  "geometry": {"coordinates":[-85.924005,41.637658],"type":"Point"}
+  "bbox": [
+    -85.924005,
+    41.637658,
+    -85.924005,
+    41.637658
+],
+  "geometry": {"coordinates":[-85.92400499999999,41.637658],"type":"Point"}
 }

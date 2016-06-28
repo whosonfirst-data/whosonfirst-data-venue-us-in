@@ -2,13 +2,14 @@
   "id": 320055415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.217547,41.065059,-86.217547,41.065059",
     "geom:latitude":41.065059,
     "geom:longitude":-86.217547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 9th St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320055415,
-    "wof:lastmodified":1449012099,
+    "wof:lastmodified":1466503679,
     "wof:name":"Barbara Lutterbein PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.217547,41.065059,-86.217547,41.065059],
+  "bbox": [
+    -86.217547,
+    41.065059,
+    -86.217547,
+    41.065059
+],
   "geometry": {"coordinates":[-86.217547,41.065059],"type":"Point"}
 }

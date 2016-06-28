@@ -2,13 +2,14 @@
   "id": 403755015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.219669,41.597419,-87.219669,41.597419",
     "geom:latitude":41.597419,
     "geom:longitude":-87.219669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Stagecoach Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403755015,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466502955,
     "wof:name":"Aqua Land Communications Inc",
     "wof:parent_id":85821229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-87.219669,41.597419,-87.219669,41.597419],
+  "bbox": [
+    -87.219669,
+    41.597419,
+    -87.219669,
+    41.597419
+],
   "geometry": {"coordinates":[-87.219669,41.597419],"type":"Point"}
 }

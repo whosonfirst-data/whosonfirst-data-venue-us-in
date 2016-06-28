@@ -2,13 +2,14 @@
   "id": 303346489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.910412,39.535219,-84.910412,39.535219",
     "geom:latitude":39.535219,
     "geom:longitude":-84.910412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6770 S Liberty Pike",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303346489,
-    "wof:lastmodified":1448998103,
+    "wof:lastmodified":1466503624,
     "wof:name":"Stout Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.910412,39.535219,-84.910412,39.535219],
-  "geometry": {"coordinates":[-84.910412,39.535219],"type":"Point"}
+  "bbox": [
+    -84.910412,
+    39.535219,
+    -84.910412,
+    39.535219
+],
+  "geometry": {"coordinates":[-84.91041199999999,39.535219],"type":"Point"}
 }

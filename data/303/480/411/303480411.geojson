@@ -2,13 +2,14 @@
   "id": 303480411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.900108,39.056341,-84.900108,39.056341",
     "geom:latitude":39.056341,
     "geom:longitude":-84.900108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 2nd St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303480411,
-    "wof:lastmodified":1448998913,
+    "wof:lastmodified":1466503708,
     "wof:name":"After Hours",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-84.900108,39.056341,-84.900108,39.056341],
+  "bbox": [
+    -84.900108,
+    39.056341,
+    -84.900108,
+    39.056341
+],
   "geometry": {"coordinates":[-84.900108,39.056341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320145711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.14804,39.640997,-86.14804,39.640997",
     "geom:latitude":39.640997,
     "geom:longitude":-86.14804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Buffalo Ridge Cir",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320145711,
-    "wof:lastmodified":1449012406,
+    "wof:lastmodified":1466503730,
     "wof:name":"Subway",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-86.14804,39.640997,-86.14804,39.640997],
-  "geometry": {"coordinates":[-86.14804,39.640997],"type":"Point"}
+  "bbox": [
+    -86.14804,
+    39.640997,
+    -86.14804,
+    39.640997
+],
+  "geometry": {"coordinates":[-86.14803999999999,39.640997],"type":"Point"}
 }

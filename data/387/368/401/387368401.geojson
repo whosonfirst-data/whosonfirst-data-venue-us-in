@@ -2,13 +2,14 @@
   "id": 387368401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.386419,39.484739,-87.386419,39.484739",
     "geom:latitude":39.484739,
     "geom:longitude":-87.386419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 8th Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387368401,
-    "wof:lastmodified":1449056979,
+    "wof:lastmodified":1466503397,
     "wof:name":"Sugar & Spice Daycare",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.386419,39.484739,-87.386419,39.484739],
+  "bbox": [
+    -87.386419,
+    39.484739,
+    -87.386419,
+    39.484739
+],
   "geometry": {"coordinates":[-87.386419,39.484739],"type":"Point"}
 }

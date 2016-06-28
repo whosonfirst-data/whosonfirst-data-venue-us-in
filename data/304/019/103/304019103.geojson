@@ -2,13 +2,14 @@
   "id": 304019103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.127136,39.862412,-86.127136,39.862412",
     "geom:latitude":39.862412,
     "geom:longitude":-86.127136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Kessler Blvd East Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304019103,
-    "wof:lastmodified":1449043933,
+    "wof:lastmodified":1466503419,
     "wof:name":"Christine Gentry Design",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-86.127136,39.862412,-86.127136,39.862412],
-  "geometry": {"coordinates":[-86.127136,39.862412],"type":"Point"}
+  "bbox": [
+    -86.127136,
+    39.862412,
+    -86.127136,
+    39.862412
+],
+  "geometry": {"coordinates":[-86.12713599999999,39.862412],"type":"Point"}
 }

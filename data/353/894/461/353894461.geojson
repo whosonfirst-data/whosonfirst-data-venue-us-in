@@ -2,13 +2,14 @@
   "id": 353894461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.378862,38.73647,-85.378862,38.73647",
     "geom:latitude":38.73647,
     "geom:longitude":-85.378862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Mulberry St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353894461,
-    "wof:lastmodified":1449019298,
+    "wof:lastmodified":1466503419,
     "wof:name":"Antiques On Main",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-85.378862,38.73647,-85.378862,38.73647],
+  "bbox": [
+    -85.378862,
+    38.73647,
+    -85.378862,
+    38.73647
+],
   "geometry": {"coordinates":[-85.378862,38.73647],"type":"Point"}
 }

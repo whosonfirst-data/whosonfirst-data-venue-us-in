@@ -2,13 +2,14 @@
   "id": 354356643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.008863,40.039035,-86.008863,40.039035",
     "geom:latitude":40.039035,
     "geom:longitude":-86.008863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 S 13th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354356643,
-    "wof:lastmodified":1449067339,
+    "wof:lastmodified":1466503385,
     "wof:name":"Candal Industrial Supply",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-86.008863,40.039035,-86.008863,40.039035],
-  "geometry": {"coordinates":[-86.008863,40.039035],"type":"Point"}
+  "bbox": [
+    -86.008863,
+    40.039035,
+    -86.008863,
+    40.039035
+],
+  "geometry": {"coordinates":[-86.00886300000001,40.039035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.282415,40.756427,-85.282415,40.756427",
     "geom:latitude":40.756427,
     "geom:longitude":-85.282415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 W 100 N",
     "sg:city":"Bluffton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387725843,
-    "wof:lastmodified":1449057027,
+    "wof:lastmodified":1466503878,
     "wof:name":"Precision Soya Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "seed"
     ]
 },
-  "bbox": [-85.282415,40.756427,-85.282415,40.756427],
+  "bbox": [
+    -85.282415,
+    40.756427,
+    -85.282415,
+    40.756427
+],
   "geometry": {"coordinates":[-85.282415,40.756427],"type":"Point"}
 }

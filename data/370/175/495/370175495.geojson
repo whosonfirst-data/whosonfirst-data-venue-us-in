@@ -2,13 +2,14 @@
   "id": 370175495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.292949,39.133074,-85.292949,39.133074",
     "geom:latitude":39.133074,
     "geom:longitude":-85.292949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 N Buckeye St",
     "sg:city":"Osgood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370175495,
-    "wof:lastmodified":1449031426,
+    "wof:lastmodified":1466502917,
     "wof:name":"Day-Nite Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.292949,39.133074,-85.292949,39.133074],
-  "geometry": {"coordinates":[-85.292949,39.133074],"type":"Point"}
+  "bbox": [
+    -85.292949,
+    39.133074,
+    -85.292949,
+    39.133074
+],
+  "geometry": {"coordinates":[-85.29294899999999,39.133074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319834893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.134811,39.635469,-86.134811,39.635469",
     "geom:latitude":39.635469,
     "geom:longitude":-86.134811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 E County Line Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319834893,
-    "wof:lastmodified":1449024181,
+    "wof:lastmodified":1466503544,
     "wof:name":"Cardiac & Vascular Physicians",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.134811,39.635469,-86.134811,39.635469],
+  "bbox": [
+    -86.134811,
+    39.635469,
+    -86.134811,
+    39.635469
+],
   "geometry": {"coordinates":[-86.134811,39.635469],"type":"Point"}
 }

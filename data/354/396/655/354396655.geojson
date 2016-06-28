@@ -2,13 +2,14 @@
   "id": 354396655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.971254,39.93969,-85.971254,39.93969",
     "geom:latitude":39.93969,
     "geom:longitude":-85.971254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10520 Inverness Ct",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354396655,
-    "wof:lastmodified":1449067089,
+    "wof:lastmodified":1466503442,
     "wof:name":"Children's Professional Speech",
     "wof:parent_id":85824301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-85.971254,39.93969,-85.971254,39.93969],
+  "bbox": [
+    -85.971254,
+    39.93969,
+    -85.971254,
+    39.93969
+],
   "geometry": {"coordinates":[-85.971254,39.93969],"type":"Point"}
 }

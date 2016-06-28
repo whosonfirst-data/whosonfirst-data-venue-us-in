@@ -2,13 +2,14 @@
   "id": 303743047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471113,41.501022,-87.471113,41.501022",
     "geom:latitude":41.501022,
     "geom:longitude":-87.471113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 US Hwy 41",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303743047,
-    "wof:lastmodified":1449000551,
+    "wof:lastmodified":1466503035,
     "wof:name":"MBC Mortgage Corp",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.471113,41.501022,-87.471113,41.501022],
+  "bbox": [
+    -87.471113,
+    41.501022,
+    -87.471113,
+    41.501022
+],
   "geometry": {"coordinates":[-87.471113,41.501022],"type":"Point"}
 }

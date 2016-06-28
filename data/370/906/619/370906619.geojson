@@ -2,13 +2,14 @@
   "id": 370906619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.679071,40.095627,-85.679071,40.095627",
     "geom:latitude":40.095627,
     "geom:longitude":-85.679071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Meridian St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370906619,
-    "wof:lastmodified":1449030370,
+    "wof:lastmodified":1466503716,
     "wof:name":"Central Indiana Gastro Group",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.679071,40.095627,-85.679071,40.095627],
-  "geometry": {"coordinates":[-85.679071,40.095627],"type":"Point"}
+  "bbox": [
+    -85.679071,
+    40.095627,
+    -85.679071,
+    40.095627
+],
+  "geometry": {"coordinates":[-85.67907099999999,40.095627],"type":"Point"}
 }

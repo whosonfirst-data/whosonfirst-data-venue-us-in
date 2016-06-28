@@ -2,13 +2,14 @@
   "id": 387541175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.334794,39.295517,-86.334794,39.295517",
     "geom:latitude":39.295517,
     "geom:longitude":-86.334794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Bear Creek Church Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387541175,
-    "wof:lastmodified":1449056532,
+    "wof:lastmodified":1466503629,
     "wof:name":"Twelve Stones Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.334794,39.295517,-86.334794,39.295517],
+  "bbox": [
+    -86.334794,
+    39.295517,
+    -86.334794,
+    39.295517
+],
   "geometry": {"coordinates":[-86.334794,39.295517],"type":"Point"}
 }

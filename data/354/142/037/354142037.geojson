@@ -2,13 +2,14 @@
   "id": 354142037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.381229,38.738191,-85.381229,38.738191",
     "geom:latitude":38.738191,
     "geom:longitude":-85.381229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Presbyterian Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354142037,
-    "wof:lastmodified":1449067296,
+    "wof:lastmodified":1466503053,
     "wof:name":"Scalo House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-85.381229,38.738191,-85.381229,38.738191],
+  "bbox": [
+    -85.381229,
+    38.738191,
+    -85.381229,
+    38.738191
+],
   "geometry": {"coordinates":[-85.381229,38.738191],"type":"Point"}
 }

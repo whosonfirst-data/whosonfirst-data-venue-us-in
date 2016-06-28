@@ -2,13 +2,14 @@
   "id": 387829293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.505867,39.160878,-86.505867,39.160878",
     "geom:latitude":39.160878,
     "geom:longitude":-86.505867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 E 2nd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387829293,
-    "wof:lastmodified":1449059669,
+    "wof:lastmodified":1466504399,
     "wof:name":"E & E Performance",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.505867,39.160878,-86.505867,39.160878],
-  "geometry": {"coordinates":[-86.505867,39.160878],"type":"Point"}
+  "bbox": [
+    -86.505867,
+    39.160878,
+    -86.505867,
+    39.160878
+],
+  "geometry": {"coordinates":[-86.50586699999999,39.160878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403810477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.115788,41.106879,-85.115788,41.106879",
     "geom:latitude":41.106879,
     "geom:longitude":-85.115788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 N Anthony Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403810477,
-    "wof:lastmodified":1449055030,
+    "wof:lastmodified":1466503036,
     "wof:name":"North Anthony Discount Tobacco",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.115788,41.106879,-85.115788,41.106879],
-  "geometry": {"coordinates":[-85.115788,41.106879],"type":"Point"}
+  "bbox": [
+    -85.115788,
+    41.106879,
+    -85.115788,
+    41.106879
+],
+  "geometry": {"coordinates":[-85.11578799999999,41.106879],"type":"Point"}
 }

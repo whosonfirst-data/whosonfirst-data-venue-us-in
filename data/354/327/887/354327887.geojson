@@ -2,13 +2,14 @@
   "id": 354327887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.322168,41.668585,-86.322168,41.668585",
     "geom:latitude":41.668585,
     "geom:longitude":-86.322168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56673 S Mayflower Rd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354327887,
-    "wof:lastmodified":1449066058,
+    "wof:lastmodified":1466503334,
     "wof:name":"Certified TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "radio"
     ]
 },
-  "bbox": [-86.322168,41.668585,-86.322168,41.668585],
+  "bbox": [
+    -86.322168,
+    41.668585,
+    -86.322168,
+    41.668585
+],
   "geometry": {"coordinates":[-86.322168,41.668585],"type":"Point"}
 }

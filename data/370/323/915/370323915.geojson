@@ -2,13 +2,14 @@
   "id": 370323915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.523769,40.866286,-85.523769,40.866286",
     "geom:latitude":40.866286,
     "geom:longitude":-85.523769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 Riverfork Dr",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370323915,
-    "wof:lastmodified":1449029382,
+    "wof:lastmodified":1466503099,
     "wof:name":"Huntington Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sheet"
     ]
 },
-  "bbox": [-85.523769,40.866286,-85.523769,40.866286],
+  "bbox": [
+    -85.523769,
+    40.866286,
+    -85.523769,
+    40.866286
+],
   "geometry": {"coordinates":[-85.523769,40.866286],"type":"Point"}
 }

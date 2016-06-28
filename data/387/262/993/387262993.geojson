@@ -2,13 +2,14 @@
   "id": 387262993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.483272,37.987587,-87.483272,37.987587",
     "geom:latitude":37.987587,
     "geom:longitude":-87.483272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Vogel Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387262993,
-    "wof:lastmodified":1449058459,
+    "wof:lastmodified":1466503253,
     "wof:name":"Oasis Church",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.483272,37.987587,-87.483272,37.987587],
+  "bbox": [
+    -87.483272,
+    37.987587,
+    -87.483272,
+    37.987587
+],
   "geometry": {"coordinates":[-87.483272,37.987587],"type":"Point"}
 }

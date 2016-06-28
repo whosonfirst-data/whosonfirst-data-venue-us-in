@@ -2,13 +2,14 @@
   "id": 404108463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781994,40.109717,-86.781994,40.109717",
     "geom:latitude":40.109717,
     "geom:longitude":-86.781994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 W Main St",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404108463,
-    "wof:lastmodified":1449039110,
+    "wof:lastmodified":1466503038,
     "wof:name":"L J Fidler Svc & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.781994,40.109717,-86.781994,40.109717],
+  "bbox": [
+    -86.781994,
+    40.109717,
+    -86.781994,
+    40.109717
+],
   "geometry": {"coordinates":[-86.781994,40.109717],"type":"Point"}
 }

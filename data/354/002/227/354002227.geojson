@@ -2,13 +2,14 @@
   "id": 354002227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.210892,39.604863,-86.210892,39.604863",
     "geom:latitude":39.604863,
     "geom:longitude":-86.210892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5759 W Smith Valley Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354002227,
-    "wof:lastmodified":1449067335,
+    "wof:lastmodified":1466502884,
     "wof:name":"Lynns Beauty Boutique",
     "wof:parent_id":85821965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.210892,39.604863,-86.210892,39.604863],
+  "bbox": [
+    -86.210892,
+    39.604863,
+    -86.210892,
+    39.604863
+],
   "geometry": {"coordinates":[-86.210892,39.604863],"type":"Point"}
 }

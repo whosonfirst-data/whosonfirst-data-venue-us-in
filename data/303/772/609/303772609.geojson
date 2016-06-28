@@ -2,13 +2,14 @@
   "id": 303772609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.05193,41.090715,-85.05193,41.090715",
     "geom:latitude":41.090715,
     "geom:longitude":-85.05193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Lake Forest Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303772609,
-    "wof:lastmodified":1448999216,
+    "wof:lastmodified":1466503069,
     "wof:name":"Lake Forest Swim & Tennis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.05193,41.090715,-85.05193,41.090715],
+  "bbox": [
+    -85.05193,
+    41.090715,
+    -85.05193,
+    41.090715
+],
   "geometry": {"coordinates":[-85.05193,41.090715],"type":"Point"}
 }

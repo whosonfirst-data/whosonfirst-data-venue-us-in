@@ -2,13 +2,14 @@
   "id": 387073087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073268,39.5502,-86.073268,39.5502",
     "geom:latitude":39.5502,
     "geom:longitude":-86.073268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 E 500 N",
     "sg:city":"Whiteland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387073087,
-    "wof:lastmodified":1449056630,
+    "wof:lastmodified":1466502982,
     "wof:name":"Hoosier Lawn Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.073268,39.5502,-86.073268,39.5502],
+  "bbox": [
+    -86.073268,
+    39.5502,
+    -86.073268,
+    39.5502
+],
   "geometry": {"coordinates":[-86.073268,39.5502],"type":"Point"}
 }

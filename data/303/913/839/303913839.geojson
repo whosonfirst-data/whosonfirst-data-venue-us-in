@@ -2,13 +2,14 @@
   "id": 303913839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.45259,40.181126,-85.45259,40.181126",
     "geom:latitude":40.181126,
     "geom:longitude":-85.45259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5790 W Kilgore Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303913839,
-    "wof:lastmodified":1448999064,
+    "wof:lastmodified":1466503256,
     "wof:name":"Muncie Street Dept",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-85.45259,40.181126,-85.45259,40.181126],
+  "bbox": [
+    -85.45259,
+    40.181126,
+    -85.45259,
+    40.181126
+],
   "geometry": {"coordinates":[-85.45259,40.181126],"type":"Point"}
 }

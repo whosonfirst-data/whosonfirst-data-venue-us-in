@@ -2,13 +2,14 @@
   "id": 387424723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.42345,39.412156,-86.42345,39.412156",
     "geom:latitude":39.412156,
     "geom:longitude":-86.42345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 S Ohio St",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387424723,
-    "wof:lastmodified":1449059683,
+    "wof:lastmodified":1466503480,
     "wof:name":"No 1 Chinese Restaurant",
     "wof:parent_id":85833227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-86.42345,39.412156,-86.42345,39.412156],
+  "bbox": [
+    -86.42345,
+    39.412156,
+    -86.42345,
+    39.412156
+],
   "geometry": {"coordinates":[-86.42345,39.412156],"type":"Point"}
 }

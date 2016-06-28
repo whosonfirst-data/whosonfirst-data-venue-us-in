@@ -2,13 +2,14 @@
   "id": 320235887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057536,39.84724,-86.057536,39.84724",
     "geom:latitude":39.84724,
     "geom:longitude":-86.057536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5027 N Kenmore Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320235887,
-    "wof:lastmodified":1449011901,
+    "wof:lastmodified":1466503774,
     "wof:name":"Painting By Electrostatic",
     "wof:parent_id":85807201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-86.057536,39.84724,-86.057536,39.84724],
+  "bbox": [
+    -86.057536,
+    39.84724,
+    -86.057536,
+    39.84724
+],
   "geometry": {"coordinates":[-86.057536,39.84724],"type":"Point"}
 }

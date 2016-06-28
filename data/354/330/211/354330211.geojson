@@ -2,13 +2,14 @@
   "id": 354330211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.923833,39.634448,-84.923833,39.634448",
     "geom:latitude":39.634448,
     "geom:longitude":-84.923833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Seminary St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354330211,
-    "wof:lastmodified":1449066779,
+    "wof:lastmodified":1466503339,
     "wof:name":"Renovation Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-84.923833,39.634448,-84.923833,39.634448],
+  "bbox": [
+    -84.923833,
+    39.634448,
+    -84.923833,
+    39.634448
+],
   "geometry": {"coordinates":[-84.923833,39.634448],"type":"Point"}
 }

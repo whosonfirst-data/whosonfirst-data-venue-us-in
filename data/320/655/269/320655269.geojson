@@ -2,13 +2,14 @@
   "id": 320655269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.516422,37.962513,-87.516422,37.962513",
     "geom:latitude":37.962513,
     "geom:longitude":-87.516422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Washington Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320655269,
-    "wof:lastmodified":1449013410,
+    "wof:lastmodified":1466503362,
     "wof:name":"Wilfred C Bussing III Attorney",
     "wof:parent_id":85877275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.516422,37.962513,-87.516422,37.962513],
-  "geometry": {"coordinates":[-87.516422,37.962513],"type":"Point"}
+  "bbox": [
+    -87.516422,
+    37.962513,
+    -87.516422,
+    37.962513
+],
+  "geometry": {"coordinates":[-87.51642200000001,37.962513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353908101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073049,39.796346,-86.073049,39.796346",
     "geom:latitude":39.796346,
     "geom:longitude":-86.073049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5514 E 21st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353908101,
-    "wof:lastmodified":1449019706,
+    "wof:lastmodified":1466503436,
     "wof:name":"D & R Medical",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.073049,39.796346,-86.073049,39.796346],
+  "bbox": [
+    -86.073049,
+    39.796346,
+    -86.073049,
+    39.796346
+],
   "geometry": {"coordinates":[-86.073049,39.796346],"type":"Point"}
 }

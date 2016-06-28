@@ -2,13 +2,14 @@
   "id": 320210237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.248995,41.244564,-86.248995,41.244564",
     "geom:latitude":41.244564,
     "geom:longitude":-86.248995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 16th Rd",
     "sg:city":"Argos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320210237,
-    "wof:lastmodified":1449012541,
+    "wof:lastmodified":1466503762,
     "wof:name":"Argos Garden Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.248995,41.244564,-86.248995,41.244564],
-  "geometry": {"coordinates":[-86.248995,41.244564],"type":"Point"}
+  "bbox": [
+    -86.248995,
+    41.244564,
+    -86.248995,
+    41.244564
+],
+  "geometry": {"coordinates":[-86.24899499999999,41.244564],"type":"Point"}
 }

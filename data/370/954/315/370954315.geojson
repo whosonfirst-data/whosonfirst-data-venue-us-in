@@ -2,13 +2,14 @@
   "id": 370954315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.904436,41.716603,-86.904436,41.716603",
     "geom:latitude":41.716603,
     "geom:longitude":-86.904436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W 5th St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370954315,
-    "wof:lastmodified":1449032037,
+    "wof:lastmodified":1466503773,
     "wof:name":"Tobacco Valley Cigarette Outl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.904436,41.716603,-86.904436,41.716603],
+  "bbox": [
+    -86.904436,
+    41.716603,
+    -86.904436,
+    41.716603
+],
   "geometry": {"coordinates":[-86.904436,41.716603],"type":"Point"}
 }

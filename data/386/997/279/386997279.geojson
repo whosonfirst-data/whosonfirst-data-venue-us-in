@@ -2,13 +2,14 @@
   "id": 386997279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250138,41.636916,-86.250138,41.636916",
     "geom:latitude":41.636916,
     "geom:longitude":-86.250138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 S Michigan St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386997279,
-    "wof:lastmodified":1449028899,
+    "wof:lastmodified":1466502974,
     "wof:name":"Sonlight Fellowship Wesleyan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.250138,41.636916,-86.250138,41.636916],
-  "geometry": {"coordinates":[-86.250138,41.636916],"type":"Point"}
+  "bbox": [
+    -86.250138,
+    41.636916,
+    -86.250138,
+    41.636916
+],
+  "geometry": {"coordinates":[-86.25013800000001,41.636916],"type":"Point"}
 }

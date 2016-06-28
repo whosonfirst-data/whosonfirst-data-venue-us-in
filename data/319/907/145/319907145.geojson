@@ -2,13 +2,14 @@
   "id": 319907145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.288851,39.762051,-86.288851,39.762051",
     "geom:latitude":39.762051,
     "geom:longitude":-86.288851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7148 Dalegard St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319907145,
-    "wof:lastmodified":1449024826,
+    "wof:lastmodified":1466503596,
     "wof:name":"AA-1 Key Masters 24 Hr Safe",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-86.288851,39.762051,-86.288851,39.762051],
-  "geometry": {"coordinates":[-86.288851,39.762051],"type":"Point"}
+  "bbox": [
+    -86.288851,
+    39.762051,
+    -86.288851,
+    39.762051
+],
+  "geometry": {"coordinates":[-86.28885099999999,39.762051],"type":"Point"}
 }

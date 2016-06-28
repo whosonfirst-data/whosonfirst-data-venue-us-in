@@ -2,13 +2,14 @@
   "id": 319960531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.328879,41.355125,-86.328879,41.355125",
     "geom:latitude":41.355125,
     "geom:longitude":-86.328879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 N Oak Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319960531,
-    "wof:lastmodified":1449024640,
+    "wof:lastmodified":1466503621,
     "wof:name":"BPC Mfg Operations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.328879,41.355125,-86.328879,41.355125],
+  "bbox": [
+    -86.328879,
+    41.355125,
+    -86.328879,
+    41.355125
+],
   "geometry": {"coordinates":[-86.328879,41.355125],"type":"Point"}
 }

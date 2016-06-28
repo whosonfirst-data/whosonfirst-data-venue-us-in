@@ -2,13 +2,14 @@
   "id": 403753451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.853662,38.317198,-85.853662,38.317198",
     "geom:latitude":38.317198,
     "geom:longitude":-85.853662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 Paoli Pike",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403753451,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1466502952,
     "wof:name":"Design Printing & Specialities",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-85.853662,38.317198,-85.853662,38.317198],
+  "bbox": [
+    -85.853662,
+    38.317198,
+    -85.853662,
+    38.317198
+],
   "geometry": {"coordinates":[-85.853662,38.317198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371015573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.822302,41.720904,-85.822302,41.720904",
     "geom:latitude":41.720904,
     "geom:longitude":-85.822302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W Vistula St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371015573,
-    "wof:lastmodified":1449049284,
+    "wof:lastmodified":1466502888,
     "wof:name":"Bristol Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.822302,41.720904,-85.822302,41.720904],
-  "geometry": {"coordinates":[-85.822302,41.720904],"type":"Point"}
+  "bbox": [
+    -85.822302,
+    41.720904,
+    -85.822302,
+    41.720904
+],
+  "geometry": {"coordinates":[-85.82230199999999,41.720904],"type":"Point"}
 }

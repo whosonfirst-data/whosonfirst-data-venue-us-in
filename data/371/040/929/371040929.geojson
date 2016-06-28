@@ -2,13 +2,14 @@
   "id": 371040929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278539,39.825672,-86.278539,39.825672",
     "geom:latitude":39.825672,
     "geom:longitude":-86.278539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6620 Parkdale Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371040929,
-    "wof:lastmodified":1449050103,
+    "wof:lastmodified":1466502919,
     "wof:name":"I U Medical Group",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.278539,39.825672,-86.278539,39.825672],
-  "geometry": {"coordinates":[-86.278539,39.825672],"type":"Point"}
+  "bbox": [
+    -86.278539,
+    39.825672,
+    -86.278539,
+    39.825672
+],
+  "geometry": {"coordinates":[-86.27853899999999,39.825672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387287601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.088962,40.401959,-86.088962,40.401959",
     "geom:latitude":40.401959,
     "geom:longitude":-86.088962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 N 400 W",
     "sg:city":"Sharpsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387287601,
-    "wof:lastmodified":1449056342,
+    "wof:lastmodified":1466503289,
     "wof:name":"SOS Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drapery"
     ]
 },
-  "bbox": [-86.088962,40.401959,-86.088962,40.401959],
+  "bbox": [
+    -86.088962,
+    40.401959,
+    -86.088962,
+    40.401959
+],
   "geometry": {"coordinates":[-86.088962,40.401959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387869807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.165749,41.115028,-87.165749,41.115028",
     "geom:latitude":41.115028,
     "geom:longitude":-87.165749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6787 W 700 N",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387869807,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1466504081,
     "wof:name":"Shady K's Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-87.165749,41.115028,-87.165749,41.115028],
-  "geometry": {"coordinates":[-87.165749,41.115028],"type":"Point"}
+  "bbox": [
+    -87.165749,
+    41.115028,
+    -87.165749,
+    41.115028
+],
+  "geometry": {"coordinates":[-87.16574900000001,41.115028],"type":"Point"}
 }

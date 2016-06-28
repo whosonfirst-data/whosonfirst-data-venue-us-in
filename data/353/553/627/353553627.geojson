@@ -2,13 +2,14 @@
   "id": 353553627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.147168,41.131371,-85.147168,41.131371",
     "geom:latitude":41.131371,
     "geom:longitude":-85.147168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5730 Industrial Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353553627,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466503011,
     "wof:name":"WYNN Wire Die Svc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drawing"
     ]
 },
-  "bbox": [-85.147168,41.131371,-85.147168,41.131371],
-  "geometry": {"coordinates":[-85.147168,41.131371],"type":"Point"}
+  "bbox": [
+    -85.147168,
+    41.131371,
+    -85.147168,
+    41.131371
+],
+  "geometry": {"coordinates":[-85.14716799999999,41.131371],"type":"Point"}
 }

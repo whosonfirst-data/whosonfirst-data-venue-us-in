@@ -2,13 +2,14 @@
   "id": 303854449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.402489,38.637804,-86.402489,38.637804",
     "geom:latitude":38.637804,
     "geom:longitude":-86.402489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5239 N Co Rd 300 E",
     "sg:city":"Orleans",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303854449,
-    "wof:lastmodified":1449000475,
+    "wof:lastmodified":1466503173,
     "wof:name":"Harold Tritle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-86.402489,38.637804,-86.402489,38.637804],
+  "bbox": [
+    -86.402489,
+    38.637804,
+    -86.402489,
+    38.637804
+],
   "geometry": {"coordinates":[-86.402489,38.637804],"type":"Point"}
 }

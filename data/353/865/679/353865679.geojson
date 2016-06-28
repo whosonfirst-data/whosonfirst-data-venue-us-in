@@ -2,13 +2,14 @@
   "id": 353865679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.537464,39.169606,-86.537464,39.169606",
     "geom:latitude":39.169606,
     "geom:longitude":-86.537464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W 8th St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353865679,
-    "wof:lastmodified":1449020182,
+    "wof:lastmodified":1466503381,
     "wof:name":"Physicians Practice Management",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.537464,39.169606,-86.537464,39.169606],
+  "bbox": [
+    -86.537464,
+    39.169606,
+    -86.537464,
+    39.169606
+],
   "geometry": {"coordinates":[-86.537464,39.169606],"type":"Point"}
 }

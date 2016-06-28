@@ -2,13 +2,14 @@
   "id": 371018717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.092024,39.906352,-86.092024,39.906352",
     "geom:latitude":39.906352,
     "geom:longitude":-86.092024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4351 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371018717,
-    "wof:lastmodified":1449049552,
+    "wof:lastmodified":1466502893,
     "wof:name":"Leslie M De Voe Co",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-86.092024,39.906352,-86.092024,39.906352],
-  "geometry": {"coordinates":[-86.092024,39.906352],"type":"Point"}
+  "bbox": [
+    -86.092024,
+    39.906352,
+    -86.092024,
+    39.906352
+],
+  "geometry": {"coordinates":[-86.09202399999999,39.906352],"type":"Point"}
 }

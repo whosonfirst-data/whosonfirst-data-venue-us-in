@@ -2,13 +2,14 @@
   "id": 320219957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.517752,39.096917,-86.517752,39.096917",
     "geom:latitude":39.096917,
     "geom:longitude":-86.517752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Linda Ln",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320219957,
-    "wof:lastmodified":1449014808,
+    "wof:lastmodified":1466503766,
     "wof:name":"Terra-Dome Of Indiana",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-86.517752,39.096917,-86.517752,39.096917],
+  "bbox": [
+    -86.517752,
+    39.096917,
+    -86.517752,
+    39.096917
+],
   "geometry": {"coordinates":[-86.517752,39.096917],"type":"Point"}
 }

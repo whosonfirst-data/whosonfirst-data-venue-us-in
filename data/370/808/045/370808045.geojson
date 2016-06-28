@@ -2,13 +2,14 @@
   "id": 370808045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.885171,39.210071,-85.885171,39.210071",
     "geom:latitude":39.210071,
     "geom:longitude":-85.885171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 N Marr Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370808045,
-    "wof:lastmodified":1449029236,
+    "wof:lastmodified":1466503593,
     "wof:name":"Bar-Cons Credit Union",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.885171,39.210071,-85.885171,39.210071],
+  "bbox": [
+    -85.885171,
+    39.210071,
+    -85.885171,
+    39.210071
+],
   "geometry": {"coordinates":[-85.885171,39.210071],"type":"Point"}
 }

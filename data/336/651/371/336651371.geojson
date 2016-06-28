@@ -2,13 +2,14 @@
   "id": 336651371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.836781,38.356634,-85.836781,38.356634",
     "geom:latitude":38.356634,
     "geom:longitude":-85.836781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6459 Moser Knob Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336651371,
-    "wof:lastmodified":1448997161,
+    "wof:lastmodified":1466502952,
     "wof:name":"Southern In Contractor Svc Inc",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.836781,38.356634,-85.836781,38.356634],
+  "bbox": [
+    -85.836781,
+    38.356634,
+    -85.836781,
+    38.356634
+],
   "geometry": {"coordinates":[-85.836781,38.356634],"type":"Point"}
 }

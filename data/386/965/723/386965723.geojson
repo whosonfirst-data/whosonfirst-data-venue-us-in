@@ -2,13 +2,14 @@
   "id": 386965723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.516322,41.551832,-87.516322,41.551832",
     "geom:latitude":41.551832,
     "geom:longitude":-87.516322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Fisher St",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386965723,
-    "wof:lastmodified":1449028842,
+    "wof:lastmodified":1466502935,
     "wof:name":"RMC Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-87.516322,41.551832,-87.516322,41.551832],
+  "bbox": [
+    -87.516322,
+    41.551832,
+    -87.516322,
+    41.551832
+],
   "geometry": {"coordinates":[-87.516322,41.551832],"type":"Point"}
 }

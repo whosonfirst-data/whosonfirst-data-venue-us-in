@@ -2,13 +2,14 @@
   "id": 387165579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.063558,39.905357,-86.063558,39.905357",
     "geom:latitude":39.905357,
     "geom:longitude":-86.063558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387165579,
-    "wof:lastmodified":1449059926,
+    "wof:lastmodified":1466503115,
     "wof:name":"Proactiv Solution Skin Care",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-86.063558,39.905357,-86.063558,39.905357],
+  "bbox": [
+    -86.063558,
+    39.905357,
+    -86.063558,
+    39.905357
+],
   "geometry": {"coordinates":[-86.063558,39.905357],"type":"Point"}
 }

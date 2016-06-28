@@ -2,13 +2,14 @@
   "id": 336687043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.182585,39.912177,-86.182585,39.912177",
     "geom:latitude":39.912177,
     "geom:longitude":-86.182585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336687043,
-    "wof:lastmodified":1448997248,
+    "wof:lastmodified":1466502998,
     "wof:name":"Greenbriar Athletic Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-86.182585,39.912177,-86.182585,39.912177],
+  "bbox": [
+    -86.182585,
+    39.912177,
+    -86.182585,
+    39.912177
+],
   "geometry": {"coordinates":[-86.182585,39.912177],"type":"Point"}
 }

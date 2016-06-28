@@ -2,13 +2,14 @@
   "id": 370687713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.33719,41.595928,-87.33719,41.595928",
     "geom:latitude":41.595928,
     "geom:longitude":-87.33719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370687713,
-    "wof:lastmodified":1449030056,
+    "wof:lastmodified":1466503481,
     "wof:name":"Northern Indiana Public Svc Co",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-87.33719,41.595928,-87.33719,41.595928],
-  "geometry": {"coordinates":[-87.33719,41.595928],"type":"Point"}
+  "bbox": [
+    -87.33719,
+    41.595928,
+    -87.33719,
+    41.595928
+],
+  "geometry": {"coordinates":[-87.33719000000001,41.595928],"type":"Point"}
 }

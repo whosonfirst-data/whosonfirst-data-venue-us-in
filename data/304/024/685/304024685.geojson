@@ -2,13 +2,14 @@
   "id": 304024685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10798,39.909583,-86.10798,39.909583",
     "geom:latitude":39.909583,
     "geom:longitude":-86.10798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8487 Union Chapel Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304024685,
-    "wof:lastmodified":1449043829,
+    "wof:lastmodified":1466503429,
     "wof:name":"Mc Alister's Deli",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-86.10798,39.909583,-86.10798,39.909583],
+  "bbox": [
+    -86.10798,
+    39.909583,
+    -86.10798,
+    39.909583
+],
   "geometry": {"coordinates":[-86.10798,39.909583],"type":"Point"}
 }

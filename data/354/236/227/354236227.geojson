@@ -2,13 +2,14 @@
   "id": 354236227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.192614,39.682068,-86.192614,39.682068",
     "geom:latitude":39.682068,
     "geom:longitude":-86.192614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 Kopetsky Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354236227,
-    "wof:lastmodified":1449066116,
+    "wof:lastmodified":1466503193,
     "wof:name":"GE Supply Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sample"
     ]
 },
-  "bbox": [-86.192614,39.682068,-86.192614,39.682068],
-  "geometry": {"coordinates":[-86.192614,39.682068],"type":"Point"}
+  "bbox": [
+    -86.192614,
+    39.682068,
+    -86.192614,
+    39.682068
+],
+  "geometry": {"coordinates":[-86.19261400000001,39.682068],"type":"Point"}
 }

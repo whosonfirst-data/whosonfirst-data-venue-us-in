@@ -2,13 +2,14 @@
   "id": 303632445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.45806,41.594699,-87.45806,41.594699",
     "geom:latitude":41.594699,
     "geom:longitude":-87.45806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Arkansas Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303632445,
-    "wof:lastmodified":1448999678,
+    "wof:lastmodified":1466502908,
     "wof:name":"Steve's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-87.45806,41.594699,-87.45806,41.594699],
+  "bbox": [
+    -87.45806,
+    41.594699,
+    -87.45806,
+    41.594699
+],
   "geometry": {"coordinates":[-87.45806,41.594699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320223511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.000769,41.657127,-85.000769,41.657127",
     "geom:latitude":41.657127,
     "geom:longitude":-85.000769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Harcourt Rd",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320223511,
-    "wof:lastmodified":1449011502,
+    "wof:lastmodified":1466503768,
     "wof:name":"Du-Mor Water Systems/Kinetico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-85.000769,41.657127,-85.000769,41.657127],
-  "geometry": {"coordinates":[-85.000769,41.657127],"type":"Point"}
+  "bbox": [
+    -85.000769,
+    41.657127,
+    -85.000769,
+    41.657127
+],
+  "geometry": {"coordinates":[-85.00076900000001,41.657127],"type":"Point"}
 }

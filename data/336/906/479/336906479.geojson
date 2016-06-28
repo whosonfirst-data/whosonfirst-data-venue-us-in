@@ -2,13 +2,14 @@
   "id": 336906479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.003471,41.683988,-86.003471,41.683988",
     "geom:latitude":41.683988,
     "geom:longitude":-86.003471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Nappanee St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336906479,
-    "wof:lastmodified":1448997353,
+    "wof:lastmodified":1466503278,
     "wof:name":"Elkhart Oral & Maxillofacial",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-86.003471,41.683988,-86.003471,41.683988],
+  "bbox": [
+    -86.003471,
+    41.683988,
+    -86.003471,
+    41.683988
+],
   "geometry": {"coordinates":[-86.003471,41.683988],"type":"Point"}
 }

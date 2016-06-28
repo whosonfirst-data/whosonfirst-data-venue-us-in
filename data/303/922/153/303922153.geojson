@@ -2,13 +2,14 @@
   "id": 303922153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823657,38.285859,-85.823657,38.285859",
     "geom:latitude":38.285859,
     "geom:longitude":-85.823657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Spring St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303922153,
-    "wof:lastmodified":1448998342,
+    "wof:lastmodified":1466503267,
     "wof:name":"Momentum Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.823657,38.285859,-85.823657,38.285859],
+  "bbox": [
+    -85.823657,
+    38.285859,
+    -85.823657,
+    38.285859
+],
   "geometry": {"coordinates":[-85.823657,38.285859],"type":"Point"}
 }

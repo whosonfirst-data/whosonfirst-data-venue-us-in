@@ -2,13 +2,14 @@
   "id": 320823071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.163427,41.719159,-86.163427,41.719159",
     "geom:latitude":41.719159,
     "geom:longitude":-86.163427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53631 Fir Rd",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320823071,
-    "wof:lastmodified":1449014930,
+    "wof:lastmodified":1466503529,
     "wof:name":"Inspirational Water Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.163427,41.719159,-86.163427,41.719159],
+  "bbox": [
+    -86.163427,
+    41.719159,
+    -86.163427,
+    41.719159
+],
   "geometry": {"coordinates":[-86.163427,41.719159],"type":"Point"}
 }

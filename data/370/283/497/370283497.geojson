@@ -2,13 +2,14 @@
   "id": 370283497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.364909,41.471677,-87.364909,41.471677",
     "geom:latitude":41.471677,
     "geom:longitude":-87.364909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7805 Taft St",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370283497,
-    "wof:lastmodified":1449030108,
+    "wof:lastmodified":1466503055,
     "wof:name":"Addiction Behavioral Counsel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-87.364909,41.471677,-87.364909,41.471677],
+  "bbox": [
+    -87.364909,
+    41.471677,
+    -87.364909,
+    41.471677
+],
   "geometry": {"coordinates":[-87.364909,41.471677],"type":"Point"}
 }

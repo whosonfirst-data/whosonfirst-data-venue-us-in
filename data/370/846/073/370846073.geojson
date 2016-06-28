@@ -2,13 +2,14 @@
   "id": 370846073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.407468,39.412462,-87.407468,39.412462",
     "geom:latitude":39.412462,
     "geom:longitude":-87.407468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 E Springhill Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370846073,
-    "wof:lastmodified":1449031723,
+    "wof:lastmodified":1466503634,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-87.407468,39.412462,-87.407468,39.412462],
-  "geometry": {"coordinates":[-87.407468,39.412462],"type":"Point"}
+  "bbox": [
+    -87.407468,
+    39.412462,
+    -87.407468,
+    39.412462
+],
+  "geometry": {"coordinates":[-87.40746799999999,39.412462],"type":"Point"}
 }

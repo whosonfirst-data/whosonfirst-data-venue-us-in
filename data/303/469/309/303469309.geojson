@@ -2,13 +2,14 @@
   "id": 303469309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.152268,40.935627,-87.152268,40.935627",
     "geom:latitude":40.935627,
     "geom:longitude":-87.152268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Washington St",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303469309,
-    "wof:lastmodified":1449000629,
+    "wof:lastmodified":1466503697,
     "wof:name":"Remember This",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-87.152268,40.935627,-87.152268,40.935627],
-  "geometry": {"coordinates":[-87.152268,40.935627],"type":"Point"}
+  "bbox": [
+    -87.152268,
+    40.935627,
+    -87.152268,
+    40.935627
+],
+  "geometry": {"coordinates":[-87.15226800000001,40.935627],"type":"Point"}
 }

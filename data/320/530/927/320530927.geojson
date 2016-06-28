@@ -2,13 +2,14 @@
   "id": 320530927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.876336,40.385663,-86.876336,40.385663",
     "geom:latitude":40.385663,
     "geom:longitude":-86.876336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 S 18th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320530927,
-    "wof:lastmodified":1449013252,
+    "wof:lastmodified":1466503214,
     "wof:name":"Edgelea Elementary School",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.876336,40.385663,-86.876336,40.385663],
-  "geometry": {"coordinates":[-86.876336,40.385663],"type":"Point"}
+  "bbox": [
+    -86.876336,
+    40.385663,
+    -86.876336,
+    40.385663
+],
+  "geometry": {"coordinates":[-86.87633599999999,40.385663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303525411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.477845,37.955753,-87.477845,37.955753",
     "geom:latitude":37.955753,
     "geom:longitude":-87.477845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Thompson Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303525411,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466503732,
     "wof:name":"A Little Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "general"
     ]
 },
-  "bbox": [-87.477845,37.955753,-87.477845,37.955753],
+  "bbox": [
+    -87.477845,
+    37.955753,
+    -87.477845,
+    37.955753
+],
   "geometry": {"coordinates":[-87.477845,37.955753],"type":"Point"}
 }

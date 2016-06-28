@@ -2,13 +2,14 @@
   "id": 303651929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.213828,38.511009,-86.213828,38.511009",
     "geom:latitude":38.511009,
     "geom:longitude":-86.213828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6851 W Morgan Ln",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303651929,
-    "wof:lastmodified":1448998600,
+    "wof:lastmodified":1466502929,
     "wof:name":"Richardson's Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.213828,38.511009,-86.213828,38.511009],
-  "geometry": {"coordinates":[-86.213828,38.511009],"type":"Point"}
+  "bbox": [
+    -86.213828,
+    38.511009,
+    -86.213828,
+    38.511009
+],
+  "geometry": {"coordinates":[-86.21382800000001,38.511009],"type":"Point"}
 }

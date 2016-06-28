@@ -2,13 +2,14 @@
   "id": 353657009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.122167,39.883223,-86.122167,39.883223",
     "geom:latitude":39.883223,
     "geom:longitude":-86.122167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7002 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353657009,
-    "wof:lastmodified":1449018544,
+    "wof:lastmodified":1466503142,
     "wof:name":"Lee's Custom Tailoring",
     "wof:parent_id":85812803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-86.122167,39.883223,-86.122167,39.883223],
+  "bbox": [
+    -86.122167,
+    39.883223,
+    -86.122167,
+    39.883223
+],
   "geometry": {"coordinates":[-86.122167,39.883223],"type":"Point"}
 }

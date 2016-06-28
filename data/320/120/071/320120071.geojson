@@ -2,13 +2,14 @@
   "id": 320120071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.337653,41.493297,-87.337653,41.493297",
     "geom:latitude":41.493297,
     "geom:longitude":-87.337653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 W 68th Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320120071,
-    "wof:lastmodified":1449014438,
+    "wof:lastmodified":1466503711,
     "wof:name":"Credit Care Assn Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "card"
     ]
 },
-  "bbox": [-87.337653,41.493297,-87.337653,41.493297],
+  "bbox": [
+    -87.337653,
+    41.493297,
+    -87.337653,
+    41.493297
+],
   "geometry": {"coordinates":[-87.337653,41.493297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353643281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.217199,40.365556,-85.217199,40.365556",
     "geom:latitude":40.365556,
     "geom:longitude":-85.217199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 S Main St",
     "sg:city":"Dunkirk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353643281,
-    "wof:lastmodified":1449020468,
+    "wof:lastmodified":1466503126,
     "wof:name":"Bluffton Regl West Jay Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.217199,40.365556,-85.217199,40.365556],
-  "geometry": {"coordinates":[-85.217199,40.365556],"type":"Point"}
+  "bbox": [
+    -85.217199,
+    40.365556,
+    -85.217199,
+    40.365556
+],
+  "geometry": {"coordinates":[-85.21719899999999,40.365556],"type":"Point"}
 }

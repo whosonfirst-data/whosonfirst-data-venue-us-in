@@ -2,13 +2,14 @@
   "id": 303980853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.173317,38.65701,-87.173317,38.65701",
     "geom:latitude":38.65701,
     "geom:longitude":-87.173317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Main St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303980853,
-    "wof:lastmodified":1448998282,
+    "wof:lastmodified":1466503359,
     "wof:name":"Dailys Furniture & Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.173317,38.65701,-87.173317,38.65701],
+  "bbox": [
+    -87.173317,
+    38.65701,
+    -87.173317,
+    38.65701
+],
   "geometry": {"coordinates":[-87.173317,38.65701],"type":"Point"}
 }

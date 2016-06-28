@@ -2,13 +2,14 @@
   "id": 303801177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.480927,41.582536,-87.480927,41.582536",
     "geom:latitude":41.582536,
     "geom:longitude":-87.480927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303801177,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466503106,
     "wof:name":"ICI Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-87.480927,41.582536,-87.480927,41.582536],
-  "geometry": {"coordinates":[-87.480927,41.582536],"type":"Point"}
+  "bbox": [
+    -87.480927,
+    41.582536,
+    -87.480927,
+    41.582536
+],
+  "geometry": {"coordinates":[-87.48092699999999,41.582536],"type":"Point"}
 }

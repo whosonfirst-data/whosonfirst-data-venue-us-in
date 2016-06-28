@@ -2,13 +2,14 @@
   "id": 303759517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.013843,39.95672,-86.013843,39.95672",
     "geom:latitude":39.95672,
     "geom:longitude":-86.013843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8775 E 116th St",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303759517,
-    "wof:lastmodified":1449000602,
+    "wof:lastmodified":1466503053,
     "wof:name":"Collectors Friend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-86.013843,39.95672,-86.013843,39.95672],
-  "geometry": {"coordinates":[-86.013843,39.95672],"type":"Point"}
+  "bbox": [
+    -86.013843,
+    39.95672,
+    -86.013843,
+    39.95672
+],
+  "geometry": {"coordinates":[-86.01384299999999,39.95672],"type":"Point"}
 }

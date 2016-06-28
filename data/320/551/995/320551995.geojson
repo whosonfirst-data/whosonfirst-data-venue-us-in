@@ -2,13 +2,14 @@
   "id": 320551995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.116192,41.296295,-86.116192,41.296295",
     "geom:latitude":41.296295,
     "geom:longitude":-86.116192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Main St",
     "sg:city":"Bourbon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320551995,
-    "wof:lastmodified":1449012015,
+    "wof:lastmodified":1466503244,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.116192,41.296295,-86.116192,41.296295],
+  "bbox": [
+    -86.116192,
+    41.296295,
+    -86.116192,
+    41.296295
+],
   "geometry": {"coordinates":[-86.116192,41.296295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353796823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.679581,41.372577,-85.679581,41.372577",
     "geom:latitude":41.372577,
     "geom:longitude":-85.679581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8734 E Koher Rd S",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353796823,
-    "wof:lastmodified":1449019466,
+    "wof:lastmodified":1466503308,
     "wof:name":"Terry's Maintenance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-85.679581,41.372577,-85.679581,41.372577],
+  "bbox": [
+    -85.679581,
+    41.372577,
+    -85.679581,
+    41.372577
+],
   "geometry": {"coordinates":[-85.679581,41.372577],"type":"Point"}
 }

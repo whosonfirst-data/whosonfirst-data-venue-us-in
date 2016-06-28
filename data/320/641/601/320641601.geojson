@@ -2,13 +2,14 @@
   "id": 320641601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.124481,39.851368,-86.124481,39.851368",
     "geom:latitude":39.851368,
     "geom:longitude":-86.124481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2374 E 54th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320641601,
-    "wof:lastmodified":1449014072,
+    "wof:lastmodified":1466503347,
     "wof:name":"Backyard Birds",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.124481,39.851368,-86.124481,39.851368],
+  "bbox": [
+    -86.124481,
+    39.851368,
+    -86.124481,
+    39.851368
+],
   "geometry": {"coordinates":[-86.124481,39.851368],"type":"Point"}
 }

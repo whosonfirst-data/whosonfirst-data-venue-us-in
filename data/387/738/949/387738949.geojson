@@ -2,13 +2,14 @@
   "id": 387738949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.891553,39.834492,-84.891553,39.834492",
     "geom:latitude":39.834492,
     "geom:longitude":-84.891553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 N 8th St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387738949,
-    "wof:lastmodified":1449058899,
+    "wof:lastmodified":1466503893,
     "wof:name":"Wayne Machine Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-84.891553,39.834492,-84.891553,39.834492],
+  "bbox": [
+    -84.891553,
+    39.834492,
+    -84.891553,
+    39.834492
+],
   "geometry": {"coordinates":[-84.891553,39.834492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371146989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.156129,40.929219,-87.156129,40.929219",
     "geom:latitude":40.929219,
     "geom:longitude":-87.156129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 S College Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371146989,
-    "wof:lastmodified":1449049458,
+    "wof:lastmodified":1466503058,
     "wof:name":"Anders Water Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-87.156129,40.929219,-87.156129,40.929219],
-  "geometry": {"coordinates":[-87.156129,40.929219],"type":"Point"}
+  "bbox": [
+    -87.156129,
+    40.929219,
+    -87.156129,
+    40.929219
+],
+  "geometry": {"coordinates":[-87.15612900000001,40.929219],"type":"Point"}
 }

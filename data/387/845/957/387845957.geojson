@@ -2,13 +2,14 @@
   "id": 387845957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843233,40.030996,-85.843233,40.030996",
     "geom:latitude":40.030996,
     "geom:longitude":-85.843233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5264 State Rd 13",
     "sg:city":"Lapel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387845957,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1466504047,
     "wof:name":"TAW Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.843233,40.030996,-85.843233,40.030996],
+  "bbox": [
+    -85.843233,
+    40.030996,
+    -85.843233,
+    40.030996
+],
   "geometry": {"coordinates":[-85.843233,40.030996],"type":"Point"}
 }

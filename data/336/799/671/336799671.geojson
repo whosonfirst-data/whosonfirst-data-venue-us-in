@@ -2,13 +2,14 @@
   "id": 336799671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.274986,41.452292,-85.274986,41.452292",
     "geom:latitude":41.452292,
     "geom:longitude":-85.274986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 W North St",
     "sg:city":"Kendallville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336799671,
-    "wof:lastmodified":1448998014,
+    "wof:lastmodified":1466503147,
     "wof:name":"Kendallville Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-85.274986,41.452292,-85.274986,41.452292],
+  "bbox": [
+    -85.274986,
+    41.452292,
+    -85.274986,
+    41.452292
+],
   "geometry": {"coordinates":[-85.274986,41.452292],"type":"Point"}
 }

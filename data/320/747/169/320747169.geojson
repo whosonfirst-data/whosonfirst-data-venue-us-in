@@ -2,13 +2,14 @@
   "id": 320747169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461711,41.590999,-87.461711,41.590999",
     "geom:latitude":41.590999,
     "geom:longitude":-87.461711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6730 Kennedy Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320747169,
-    "wof:lastmodified":1449011936,
+    "wof:lastmodified":1466503455,
     "wof:name":"Electronic Document Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-87.461711,41.590999,-87.461711,41.590999],
-  "geometry": {"coordinates":[-87.461711,41.590999],"type":"Point"}
+  "bbox": [
+    -87.461711,
+    41.590999,
+    -87.461711,
+    41.590999
+],
+  "geometry": {"coordinates":[-87.46171099999999,41.590999],"type":"Point"}
 }

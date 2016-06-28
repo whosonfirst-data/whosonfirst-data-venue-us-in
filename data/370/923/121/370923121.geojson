@@ -2,13 +2,14 @@
   "id": 370923121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.200022,41.323468,-87.200022,41.323468",
     "geom:latitude":41.323468,
     "geom:longitude":-87.200022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Main St",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370923121,
-    "wof:lastmodified":1449032356,
+    "wof:lastmodified":1466503732,
     "wof:name":"Head Start Xxi At Geninus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-87.200022,41.323468,-87.200022,41.323468],
+  "bbox": [
+    -87.200022,
+    41.323468,
+    -87.200022,
+    41.323468
+],
   "geometry": {"coordinates":[-87.200022,41.323468],"type":"Point"}
 }

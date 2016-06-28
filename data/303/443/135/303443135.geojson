@@ -2,13 +2,14 @@
   "id": 303443135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.024101,41.038223,-86.024101,41.038223",
     "geom:latitude":41.038223,
     "geom:longitude":-86.024101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 E Rochester St",
     "sg:city":"Akron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303443135,
-    "wof:lastmodified":1449000114,
+    "wof:lastmodified":1466503681,
     "wof:name":"Down To Earth Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.024101,41.038223,-86.024101,41.038223],
+  "bbox": [
+    -86.024101,
+    41.038223,
+    -86.024101,
+    41.038223
+],
   "geometry": {"coordinates":[-86.024101,41.038223],"type":"Point"}
 }

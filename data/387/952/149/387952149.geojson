@@ -2,13 +2,14 @@
   "id": 387952149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200746,41.655461,-86.200746,41.655461",
     "geom:latitude":41.655461,
     "geom:longitude":-86.200746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Milburn Blvd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387952149,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1466504203,
     "wof:name":"Ken Ward Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.200746,41.655461,-86.200746,41.655461],
+  "bbox": [
+    -86.200746,
+    41.655461,
+    -86.200746,
+    41.655461
+],
   "geometry": {"coordinates":[-86.200746,41.655461],"type":"Point"}
 }

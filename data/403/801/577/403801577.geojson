@@ -2,13 +2,14 @@
   "id": 403801577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.873823,40.748093,-86.873823,40.748093",
     "geom:latitude":40.748093,
     "geom:longitude":-86.873823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Washington St",
     "sg:city":"Reynolds",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403801577,
-    "wof:lastmodified":1449055743,
+    "wof:lastmodified":1466503017,
     "wof:name":"Reynolds Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-86.873823,40.748093,-86.873823,40.748093],
+  "bbox": [
+    -86.873823,
+    40.748093,
+    -86.873823,
+    40.748093
+],
   "geometry": {"coordinates":[-86.873823,40.748093],"type":"Point"}
 }

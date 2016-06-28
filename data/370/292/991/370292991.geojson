@@ -2,13 +2,14 @@
   "id": 370292991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.132388,41.094516,-85.132388,41.094516",
     "geom:latitude":41.094516,
     "geom:longitude":-85.132388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Pleasant Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370292991,
-    "wof:lastmodified":1449029372,
+    "wof:lastmodified":1466503063,
     "wof:name":"Dwd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.132388,41.094516,-85.132388,41.094516],
-  "geometry": {"coordinates":[-85.132388,41.094516],"type":"Point"}
+  "bbox": [
+    -85.132388,
+    41.094516,
+    -85.132388,
+    41.094516
+],
+  "geometry": {"coordinates":[-85.13238800000001,41.094516],"type":"Point"}
 }

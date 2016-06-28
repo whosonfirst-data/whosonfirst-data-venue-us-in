@@ -2,13 +2,14 @@
   "id": 371127431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.301759,41.149891,-87.301759,41.149891",
     "geom:latitude":41.149891,
     "geom:longitude":-87.301759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4618 E 1040 N",
     "sg:city":"Demotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371127431,
-    "wof:lastmodified":1449050048,
+    "wof:lastmodified":1466503030,
     "wof:name":"Jeffs Building & Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.301759,41.149891,-87.301759,41.149891],
+  "bbox": [
+    -87.301759,
+    41.149891,
+    -87.301759,
+    41.149891
+],
   "geometry": {"coordinates":[-87.301759,41.149891],"type":"Point"}
 }

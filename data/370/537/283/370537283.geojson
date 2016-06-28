@@ -2,13 +2,14 @@
   "id": 370537283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.142168,41.078954,-85.142168,41.078954",
     "geom:latitude":41.078954,
     "geom:longitude":-85.142168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Berry St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370537283,
-    "wof:lastmodified":1449029924,
+    "wof:lastmodified":1466503319,
     "wof:name":"Bkd LLP",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-85.142168,41.078954,-85.142168,41.078954],
+  "bbox": [
+    -85.142168,
+    41.078954,
+    -85.142168,
+    41.078954
+],
   "geometry": {"coordinates":[-85.142168,41.078954],"type":"Point"}
 }

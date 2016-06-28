@@ -2,13 +2,14 @@
   "id": 303795815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496232,39.871657,-86.496232,39.871657",
     "geom:latitude":39.871657,
     "geom:longitude":-86.496232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 N Co Rd 150 E",
     "sg:city":"Pittsboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303795815,
-    "wof:lastmodified":1448999568,
+    "wof:lastmodified":1466503097,
     "wof:name":"Conti Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.496232,39.871657,-86.496232,39.871657],
-  "geometry": {"coordinates":[-86.496232,39.871657],"type":"Point"}
+  "bbox": [
+    -86.496232,
+    39.871657,
+    -86.496232,
+    39.871657
+],
+  "geometry": {"coordinates":[-86.49623200000001,39.871657],"type":"Point"}
 }

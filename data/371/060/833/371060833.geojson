@@ -2,13 +2,14 @@
   "id": 371060833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.29436,38.488386,-87.29436,38.488386",
     "geom:latitude":38.488386,
     "geom:longitude":-87.29436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 N Arrowhead Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371060833,
-    "wof:lastmodified":1449050040,
+    "wof:lastmodified":1466502942,
     "wof:name":"Corn Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.29436,38.488386,-87.29436,38.488386],
+  "bbox": [
+    -87.29436,
+    38.488386,
+    -87.29436,
+    38.488386
+],
   "geometry": {"coordinates":[-87.29436,38.488386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403967183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.149485,39.781475,-86.149485,39.781475",
     "geom:latitude":39.781475,
     "geom:longitude":-86.149485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Central Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403967183,
-    "wof:lastmodified":1449055866,
+    "wof:lastmodified":1466503257,
     "wof:name":"Central Restaurant Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.149485,39.781475,-86.149485,39.781475],
+  "bbox": [
+    -86.149485,
+    39.781475,
+    -86.149485,
+    39.781475
+],
   "geometry": {"coordinates":[-86.149485,39.781475],"type":"Point"}
 }

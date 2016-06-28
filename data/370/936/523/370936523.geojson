@@ -2,13 +2,14 @@
   "id": 370936523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.981438,41.733105,-85.981438,41.733105",
     "geom:latitude":41.733105,
     "geom:longitude":-85.981438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52428 Winding Waters Ln",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370936523,
-    "wof:lastmodified":1449030224,
+    "wof:lastmodified":1466503746,
     "wof:name":"Michiana Region Volleyball",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.981438,41.733105,-85.981438,41.733105],
+  "bbox": [
+    -85.981438,
+    41.733105,
+    -85.981438,
+    41.733105
+],
   "geometry": {"coordinates":[-85.981438,41.733105],"type":"Point"}
 }

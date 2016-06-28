@@ -2,13 +2,14 @@
   "id": 370793541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.373094,39.669309,-86.373094,39.669309",
     "geom:latitude":39.669309,
     "geom:longitude":-86.373094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 Gateway Dr",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370793541,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466503578,
     "wof:name":"Midwest Dvlopement Super 8 Mtl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-86.373094,39.669309,-86.373094,39.669309],
-  "geometry": {"coordinates":[-86.373094,39.669309],"type":"Point"}
+  "bbox": [
+    -86.373094,
+    39.669309,
+    -86.373094,
+    39.669309
+],
+  "geometry": {"coordinates":[-86.37309399999999,39.669309],"type":"Point"}
 }

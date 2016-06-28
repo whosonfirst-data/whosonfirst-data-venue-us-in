@@ -2,13 +2,14 @@
   "id": 370455711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12872,39.78299,-86.12872,39.78299",
     "geom:latitude":39.78299,
     "geom:longitude":-86.12872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Sterling St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370455711,
-    "wof:lastmodified":1449031927,
+    "wof:lastmodified":1466503229,
     "wof:name":"Biodot Co",
     "wof:parent_id":85858937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paper"
     ]
 },
-  "bbox": [-86.12872,39.78299,-86.12872,39.78299],
+  "bbox": [
+    -86.12872,
+    39.78299,
+    -86.12872,
+    39.78299
+],
   "geometry": {"coordinates":[-86.12872,39.78299],"type":"Point"}
 }

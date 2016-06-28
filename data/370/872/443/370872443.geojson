@@ -2,13 +2,14 @@
   "id": 370872443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.995944,40.139748,-85.995944,40.139748",
     "geom:latitude":40.139748,
     "geom:longitude":-85.995944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10111 E 241st St",
     "sg:city":"Cicero",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370872443,
-    "wof:lastmodified":1449029390,
+    "wof:lastmodified":1466503672,
     "wof:name":"Gene Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-85.995944,40.139748,-85.995944,40.139748],
-  "geometry": {"coordinates":[-85.995944,40.139748],"type":"Point"}
+  "bbox": [
+    -85.995944,
+    40.139748,
+    -85.995944,
+    40.139748
+],
+  "geometry": {"coordinates":[-85.99594399999999,40.139748],"type":"Point"}
 }

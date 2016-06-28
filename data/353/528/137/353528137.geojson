@@ -2,13 +2,14 @@
   "id": 353528137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.504377,40.268886,-86.504377,40.268886",
     "geom:latitude":40.268886,
     "geom:longitude":-86.504377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Elmwood Dr",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353528137,
-    "wof:lastmodified":1449018953,
+    "wof:lastmodified":1466502982,
     "wof:name":"Mobecs Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-86.504377,40.268886,-86.504377,40.268886],
-  "geometry": {"coordinates":[-86.504377,40.268886],"type":"Point"}
+  "bbox": [
+    -86.504377,
+    40.268886,
+    -86.504377,
+    40.268886
+],
+  "geometry": {"coordinates":[-86.50437700000001,40.268886],"type":"Point"}
 }

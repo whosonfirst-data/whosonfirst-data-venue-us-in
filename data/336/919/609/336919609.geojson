@@ -2,13 +2,14 @@
   "id": 336919609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.492761,37.967465,-87.492761,37.967465",
     "geom:latitude":37.967465,
     "geom:longitude":-87.492761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336919609,
-    "wof:lastmodified":1448997761,
+    "wof:lastmodified":1466503295,
     "wof:name":"Goldworks Studio",
     "wof:parent_id":85877275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.492761,37.967465,-87.492761,37.967465],
+  "bbox": [
+    -87.492761,
+    37.967465,
+    -87.492761,
+    37.967465
+],
   "geometry": {"coordinates":[-87.492761,37.967465],"type":"Point"}
 }

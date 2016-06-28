@@ -2,13 +2,14 @@
   "id": 303365665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.808181,38.308998,-85.808181,38.308998",
     "geom:latitude":38.308998,
     "geom:longitude":-85.808181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Charlestown Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303365665,
-    "wof:lastmodified":1448998510,
+    "wof:lastmodified":1466503642,
     "wof:name":"J B & H Home Improvements Inc",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-85.808181,38.308998,-85.808181,38.308998],
+  "bbox": [
+    -85.808181,
+    38.308998,
+    -85.808181,
+    38.308998
+],
   "geometry": {"coordinates":[-85.808181,38.308998],"type":"Point"}
 }

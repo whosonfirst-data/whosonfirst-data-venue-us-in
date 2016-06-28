@@ -2,13 +2,14 @@
   "id": 370264551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133758,40.510621,-86.133758,40.510621",
     "geom:latitude":40.510621,
     "geom:longitude":-86.133758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 N Washington St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370264551,
-    "wof:lastmodified":1449031274,
+    "wof:lastmodified":1466503030,
     "wof:name":"J & L Transmission Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-86.133758,40.510621,-86.133758,40.510621],
+  "bbox": [
+    -86.133758,
+    40.510621,
+    -86.133758,
+    40.510621
+],
   "geometry": {"coordinates":[-86.133758,40.510621],"type":"Point"}
 }

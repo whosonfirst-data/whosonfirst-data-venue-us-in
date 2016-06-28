@@ -2,13 +2,14 @@
   "id": 320244445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.997847,41.427542,-85.997847,41.427542",
     "geom:latitude":41.427542,
     "geom:longitude":-85.997847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13653 N Ashbury Ct",
     "sg:city":"Nappanee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320244445,
-    "wof:lastmodified":1449012750,
+    "wof:lastmodified":1466503775,
     "wof:name":"Mikel PHC Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.997847,41.427542,-85.997847,41.427542],
-  "geometry": {"coordinates":[-85.997847,41.427542],"type":"Point"}
+  "bbox": [
+    -85.997847,
+    41.427542,
+    -85.997847,
+    41.427542
+],
+  "geometry": {"coordinates":[-85.99784699999999,41.427542],"type":"Point"}
 }

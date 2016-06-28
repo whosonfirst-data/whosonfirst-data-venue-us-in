@@ -2,13 +2,14 @@
   "id": 303742799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.185117,41.694776,-86.185117,41.694776",
     "geom:latitude":41.694776,
     "geom:longitude":-86.185117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 W Edison Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303742799,
-    "wof:lastmodified":1448998282,
+    "wof:lastmodified":1466503034,
     "wof:name":"Robert Thomas Securities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-86.185117,41.694776,-86.185117,41.694776],
-  "geometry": {"coordinates":[-86.185117,41.694776],"type":"Point"}
+  "bbox": [
+    -86.185117,
+    41.694776,
+    -86.185117,
+    41.694776
+],
+  "geometry": {"coordinates":[-86.18511700000001,41.694776],"type":"Point"}
 }

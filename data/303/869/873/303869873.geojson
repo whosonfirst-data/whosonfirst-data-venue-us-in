@@ -2,13 +2,14 @@
   "id": 303869873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.702726,41.682477,-85.702726,41.682477",
     "geom:latitude":41.682477,
     "geom:longitude":-85.702726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Main St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303869873,
-    "wof:lastmodified":1449000371,
+    "wof:lastmodified":1466503192,
     "wof:name":"Syndicate Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sheet"
     ]
 },
-  "bbox": [-85.702726,41.682477,-85.702726,41.682477],
+  "bbox": [
+    -85.702726,
+    41.682477,
+    -85.702726,
+    41.682477
+],
   "geometry": {"coordinates":[-85.702726,41.682477],"type":"Point"}
 }

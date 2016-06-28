@@ -2,13 +2,14 @@
   "id": 320455655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.967626,39.347201,-85.967626,39.347201",
     "geom:latitude":39.347201,
     "geom:longitude":-85.967626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Main St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320455655,
-    "wof:lastmodified":1449014373,
+    "wof:lastmodified":1466503127,
     "wof:name":"Ditech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-85.967626,39.347201,-85.967626,39.347201],
+  "bbox": [
+    -85.967626,
+    39.347201,
+    -85.967626,
+    39.347201
+],
   "geometry": {"coordinates":[-85.967626,39.347201],"type":"Point"}
 }

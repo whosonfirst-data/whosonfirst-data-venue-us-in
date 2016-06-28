@@ -2,13 +2,14 @@
   "id": 320697203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.467134,41.446017,-87.467134,41.446017",
     "geom:latitude":41.446017,
     "geom:longitude":-87.467134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 Joliet St",
     "sg:city":"St John",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320697203,
-    "wof:lastmodified":1449013614,
+    "wof:lastmodified":1466503410,
     "wof:name":"M & D Auto Dealer Supply Inc",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.467134,41.446017,-87.467134,41.446017],
+  "bbox": [
+    -87.467134,
+    41.446017,
+    -87.467134,
+    41.446017
+],
   "geometry": {"coordinates":[-87.467134,41.446017],"type":"Point"}
 }

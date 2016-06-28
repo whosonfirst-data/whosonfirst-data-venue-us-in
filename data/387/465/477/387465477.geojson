@@ -2,13 +2,14 @@
   "id": 387465477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.722454,41.023063,-85.722454,41.023063",
     "geom:latitude":41.023063,
     "geom:longitude":-85.722454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13234 N 400 E",
     "sg:city":"North Manchester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387465477,
-    "wof:lastmodified":1449058665,
+    "wof:lastmodified":1466503534,
     "wof:name":"Nrv Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.722454,41.023063,-85.722454,41.023063],
+  "bbox": [
+    -85.722454,
+    41.023063,
+    -85.722454,
+    41.023063
+],
   "geometry": {"coordinates":[-85.722454,41.023063],"type":"Point"}
 }

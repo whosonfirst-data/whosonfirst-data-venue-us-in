@@ -2,13 +2,14 @@
   "id": 370737791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.973899,40.4469,-84.973899,40.4469",
     "geom:latitude":40.4469,
     "geom:longitude":-84.973899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 E Lincoln St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370737791,
-    "wof:lastmodified":1449029856,
+    "wof:lastmodified":1466503527,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mutual"
     ]
 },
-  "bbox": [-84.973899,40.4469,-84.973899,40.4469],
+  "bbox": [
+    -84.973899,
+    40.4469,
+    -84.973899,
+    40.4469
+],
   "geometry": {"coordinates":[-84.973899,40.4469],"type":"Point"}
 }

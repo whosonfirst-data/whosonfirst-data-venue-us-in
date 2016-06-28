@@ -2,13 +2,14 @@
   "id": 370717747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.529246,37.991437,-87.529246,37.991437",
     "geom:latitude":37.991437,
     "geom:longitude":-87.529246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 N Weinbach Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370717747,
-    "wof:lastmodified":1449029151,
+    "wof:lastmodified":1466503507,
     "wof:name":"Sundance Yoga Studio",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-87.529246,37.991437,-87.529246,37.991437],
+  "bbox": [
+    -87.529246,
+    37.991437,
+    -87.529246,
+    37.991437
+],
   "geometry": {"coordinates":[-87.529246,37.991437],"type":"Point"}
 }

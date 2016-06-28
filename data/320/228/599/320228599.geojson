@@ -2,13 +2,14 @@
   "id": 320228599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.335907,41.476383,-87.335907,41.476383",
     "geom:latitude":41.476383,
     "geom:longitude":-87.335907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7863 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320228599,
-    "wof:lastmodified":1449012439,
+    "wof:lastmodified":1466503770,
     "wof:name":"Premium Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.335907,41.476383,-87.335907,41.476383],
-  "geometry": {"coordinates":[-87.335907,41.476383],"type":"Point"}
+  "bbox": [
+    -87.335907,
+    41.476383,
+    -87.335907,
+    41.476383
+],
+  "geometry": {"coordinates":[-87.33590700000001,41.476383],"type":"Point"}
 }

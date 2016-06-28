@@ -2,13 +2,14 @@
   "id": 353407957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.764515,37.94226,-86.764515,37.94226",
     "geom:latitude":37.94226,
     "geom:longitude":-86.764515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 US Hwy 66 E",
     "sg:city":"Tell City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353407957,
-    "wof:lastmodified":1449019673,
+    "wof:lastmodified":1466502893,
     "wof:name":"Cutting Edge Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.764515,37.94226,-86.764515,37.94226],
+  "bbox": [
+    -86.764515,
+    37.94226,
+    -86.764515,
+    37.94226
+],
   "geometry": {"coordinates":[-86.764515,37.94226],"type":"Point"}
 }

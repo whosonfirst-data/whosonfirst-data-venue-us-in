@@ -2,13 +2,14 @@
   "id": 303306733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.834029,41.752244,-86.834029,41.752244",
     "geom:latitude":41.752244,
     "geom:longitude":-86.834029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Overhill Trl",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303306733,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466503578,
     "wof:name":"Michiana Lock Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-86.834029,41.752244,-86.834029,41.752244],
+  "bbox": [
+    -86.834029,
+    41.752244,
+    -86.834029,
+    41.752244
+],
   "geometry": {"coordinates":[-86.834029,41.752244],"type":"Point"}
 }

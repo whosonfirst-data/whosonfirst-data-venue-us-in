@@ -2,13 +2,14 @@
   "id": 387713153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.054536,39.752531,-86.054536,39.752531",
     "geom:latitude":39.752531,
     "geom:longitude":-86.054536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 S Kitley Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387713153,
-    "wof:lastmodified":1449059561,
+    "wof:lastmodified":1466503860,
     "wof:name":"Precast Concrete Systems Inc",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.054536,39.752531,-86.054536,39.752531],
+  "bbox": [
+    -86.054536,
+    39.752531,
+    -86.054536,
+    39.752531
+],
   "geometry": {"coordinates":[-86.054536,39.752531],"type":"Point"}
 }

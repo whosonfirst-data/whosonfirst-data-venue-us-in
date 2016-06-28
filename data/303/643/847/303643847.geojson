@@ -2,13 +2,14 @@
   "id": 303643847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.164077,39.722468,-86.164077,39.722468",
     "geom:latitude":39.722468,
     "geom:longitude":-86.164077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 W Troy Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303643847,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1466502918,
     "wof:name":"Auto Paintworks",
     "wof:parent_id":85870639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "auto"
     ]
 },
-  "bbox": [-86.164077,39.722468,-86.164077,39.722468],
-  "geometry": {"coordinates":[-86.164077,39.722468],"type":"Point"}
+  "bbox": [
+    -86.164077,
+    39.722468,
+    -86.164077,
+    39.722468
+],
+  "geometry": {"coordinates":[-86.16407700000001,39.722468],"type":"Point"}
 }

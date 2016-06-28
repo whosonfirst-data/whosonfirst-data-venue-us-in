@@ -2,13 +2,14 @@
   "id": 387921221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.389534,40.105085,-85.389534,40.105085",
     "geom:latitude":40.105085,
     "geom:longitude":-85.389534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9801 S Grant St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387921221,
-    "wof:lastmodified":1449058554,
+    "wof:lastmodified":1466504156,
     "wof:name":"Fun Country Marine Industries",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-85.389534,40.105085,-85.389534,40.105085],
+  "bbox": [
+    -85.389534,
+    40.105085,
+    -85.389534,
+    40.105085
+],
   "geometry": {"coordinates":[-85.389534,40.105085],"type":"Point"}
 }

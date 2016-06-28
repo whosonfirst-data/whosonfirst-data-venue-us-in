@@ -2,13 +2,14 @@
   "id": 319956317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.203012,39.931021,-86.203012,39.931021",
     "geom:latitude":39.931021,
     "geom:longitude":-86.203012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9919 Towne Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319956317,
-    "wof:lastmodified":1449024224,
+    "wof:lastmodified":1466503621,
     "wof:name":"Circle City Equestrian 500",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-86.203012,39.931021,-86.203012,39.931021],
+  "bbox": [
+    -86.203012,
+    39.931021,
+    -86.203012,
+    39.931021
+],
   "geometry": {"coordinates":[-86.203012,39.931021],"type":"Point"}
 }

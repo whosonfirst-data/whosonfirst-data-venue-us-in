@@ -2,13 +2,14 @@
   "id": 387095291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.784538,39.900973,-85.784538,39.900973",
     "geom:latitude":39.900973,
     "geom:longitude":-85.784538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 E State Rd 234",
     "sg:city":"Fortville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387095291,
-    "wof:lastmodified":1449058043,
+    "wof:lastmodified":1466503023,
     "wof:name":"T R Beechler Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.784538,39.900973,-85.784538,39.900973],
+  "bbox": [
+    -85.784538,
+    39.900973,
+    -85.784538,
+    39.900973
+],
   "geometry": {"coordinates":[-85.784538,39.900973],"type":"Point"}
 }

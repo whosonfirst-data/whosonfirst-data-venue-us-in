@@ -2,13 +2,14 @@
   "id": 387126849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.070693,41.472308,-87.070693,41.472308",
     "geom:latitude":41.472308,
     "geom:longitude":-87.070693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Elmhurst Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387126849,
-    "wof:lastmodified":1449057504,
+    "wof:lastmodified":1466503065,
     "wof:name":"Ebrandsforless com Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "furnishing"
     ]
 },
-  "bbox": [-87.070693,41.472308,-87.070693,41.472308],
-  "geometry": {"coordinates":[-87.070693,41.472308],"type":"Point"}
+  "bbox": [
+    -87.070693,
+    41.472308,
+    -87.070693,
+    41.472308
+],
+  "geometry": {"coordinates":[-87.07069300000001,41.472308],"type":"Point"}
 }

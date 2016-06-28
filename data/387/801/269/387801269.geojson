@@ -2,13 +2,14 @@
   "id": 387801269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.443676,39.597681,-85.443676,39.597681",
     "geom:latitude":39.597681,
     "geom:longitude":-85.443676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 S State Rd 3",
     "sg:city":"Rushville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387801269,
-    "wof:lastmodified":1449059253,
+    "wof:lastmodified":1466503977,
     "wof:name":"French Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.443676,39.597681,-85.443676,39.597681],
+  "bbox": [
+    -85.443676,
+    39.597681,
+    -85.443676,
+    39.597681
+],
   "geometry": {"coordinates":[-85.443676,39.597681],"type":"Point"}
 }

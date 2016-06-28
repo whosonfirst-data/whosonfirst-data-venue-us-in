@@ -2,13 +2,14 @@
   "id": 320004957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.499329,39.672914,-86.499329,39.672914",
     "geom:latitude":39.672914,
     "geom:longitude":-86.499329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5964 S Co Rd 121 E",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320004957,
-    "wof:lastmodified":1449012641,
+    "wof:lastmodified":1466503657,
     "wof:name":"Kyler Brothers Heating & A/C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.499329,39.672914,-86.499329,39.672914],
+  "bbox": [
+    -86.499329,
+    39.672914,
+    -86.499329,
+    39.672914
+],
   "geometry": {"coordinates":[-86.499329,39.672914],"type":"Point"}
 }

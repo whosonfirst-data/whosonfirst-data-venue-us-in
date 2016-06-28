@@ -2,13 +2,14 @@
   "id": 370602735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.514483,38.89628,-85.514483,38.89628",
     "geom:latitude":38.89628,
     "geom:longitude":-85.514483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10911 N Reynolds Rd",
     "sg:city":"Dupont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370602735,
-    "wof:lastmodified":1449030686,
+    "wof:lastmodified":1466503394,
     "wof:name":"Honey Do Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-85.514483,38.89628,-85.514483,38.89628],
+  "bbox": [
+    -85.514483,
+    38.89628,
+    -85.514483,
+    38.89628
+],
   "geometry": {"coordinates":[-85.514483,38.89628],"type":"Point"}
 }

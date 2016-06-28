@@ -2,13 +2,14 @@
   "id": 387450033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.467759,41.581541,-87.467759,41.581541",
     "geom:latitude":41.581541,
     "geom:longitude":-87.467759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7126 Lindberg Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387450033,
-    "wof:lastmodified":1449059341,
+    "wof:lastmodified":1466503510,
     "wof:name":"Susan Anglin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-87.467759,41.581541,-87.467759,41.581541],
+  "bbox": [
+    -87.467759,
+    41.581541,
+    -87.467759,
+    41.581541
+],
   "geometry": {"coordinates":[-87.467759,41.581541],"type":"Point"}
 }

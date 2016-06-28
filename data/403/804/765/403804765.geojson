@@ -2,13 +2,14 @@
   "id": 403804765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.96842,39.79294,-85.96842,39.79294",
     "geom:latitude":39.79294,
     "geom:longitude":-85.96842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1744 Fogelson Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403804765,
-    "wof:lastmodified":1449055536,
+    "wof:lastmodified":1466503024,
     "wof:name":"C & H Heating and Cooling",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-85.96842,39.79294,-85.96842,39.79294],
-  "geometry": {"coordinates":[-85.96842,39.79294],"type":"Point"}
+  "bbox": [
+    -85.96842,
+    39.79294,
+    -85.96842,
+    39.79294
+],
+  "geometry": {"coordinates":[-85.96841999999999,39.79294],"type":"Point"}
 }

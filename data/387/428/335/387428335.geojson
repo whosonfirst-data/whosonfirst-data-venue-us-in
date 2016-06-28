@@ -2,13 +2,14 @@
   "id": 387428335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.156106,40.932645,-87.156106,40.932645",
     "geom:latitude":40.932645,
     "geom:longitude":-87.156106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 S College Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387428335,
-    "wof:lastmodified":1449059663,
+    "wof:lastmodified":1466503485,
     "wof:name":"Wagon Wheel Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.156106,40.932645,-87.156106,40.932645],
-  "geometry": {"coordinates":[-87.156106,40.932645],"type":"Point"}
+  "bbox": [
+    -87.156106,
+    40.932645,
+    -87.156106,
+    40.932645
+],
+  "geometry": {"coordinates":[-87.15610599999999,40.932645],"type":"Point"}
 }

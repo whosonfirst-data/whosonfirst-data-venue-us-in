@@ -2,13 +2,14 @@
   "id": 371086663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.13,38.221788,-86.13,38.221788",
     "geom:latitude":38.221788,
     "geom:longitude":-86.13,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 McGrain St",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371086663,
-    "wof:lastmodified":1449049762,
+    "wof:lastmodified":1466502978,
     "wof:name":"Judy Raes Beauty Salon",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.13,38.221788,-86.13,38.221788],
+  "bbox": [
+    -86.13,
+    38.221788,
+    -86.13,
+    38.221788
+],
   "geometry": {"coordinates":[-86.13,38.221788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336949585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.824387,38.285713,-85.824387,38.285713",
     "geom:latitude":38.285713,
     "geom:longitude":-85.824387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Spring St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336949585,
-    "wof:lastmodified":1448997603,
+    "wof:lastmodified":1466503333,
     "wof:name":"Frost Brown Todd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-85.824387,38.285713,-85.824387,38.285713],
+  "bbox": [
+    -85.824387,
+    38.285713,
+    -85.824387,
+    38.285713
+],
   "geometry": {"coordinates":[-85.824387,38.285713],"type":"Point"}
 }

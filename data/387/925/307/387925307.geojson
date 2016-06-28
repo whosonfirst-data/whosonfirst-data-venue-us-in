@@ -2,13 +2,14 @@
   "id": 387925307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.493927,41.629018,-87.493927,41.629018",
     "geom:latitude":41.629018,
     "geom:longitude":-87.493927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Chicago St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387925307,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466504168,
     "wof:name":"Woody's Mini Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-87.493927,41.629018,-87.493927,41.629018],
+  "bbox": [
+    -87.493927,
+    41.629018,
+    -87.493927,
+    41.629018
+],
   "geometry": {"coordinates":[-87.493927,41.629018],"type":"Point"}
 }

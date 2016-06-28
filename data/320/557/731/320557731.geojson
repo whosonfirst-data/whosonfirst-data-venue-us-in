@@ -2,13 +2,14 @@
   "id": 320557731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.464051,41.591961,-87.464051,41.591961",
     "geom:latitude":41.591961,
     "geom:longitude":-87.464051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2631 167th St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320557731,
-    "wof:lastmodified":1449013931,
+    "wof:lastmodified":1466503253,
     "wof:name":"Mikson's Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnace"
     ]
 },
-  "bbox": [-87.464051,41.591961,-87.464051,41.591961],
+  "bbox": [
+    -87.464051,
+    41.591961,
+    -87.464051,
+    41.591961
+],
   "geometry": {"coordinates":[-87.464051,41.591961],"type":"Point"}
 }

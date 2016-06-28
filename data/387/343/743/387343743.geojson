@@ -2,13 +2,14 @@
   "id": 387343743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.20081,40.693055,-86.20081,40.693055",
     "geom:latitude":40.693055,
     "geom:longitude":-86.20081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8905 E Co Rd 500 S",
     "sg:city":"Walton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387343743,
-    "wof:lastmodified":1449058812,
+    "wof:lastmodified":1466503361,
     "wof:name":"Lewis Cass Babe Ruth Parents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.20081,40.693055,-86.20081,40.693055],
+  "bbox": [
+    -86.20081,
+    40.693055,
+    -86.20081,
+    40.693055
+],
   "geometry": {"coordinates":[-86.20081,40.693055],"type":"Point"}
 }

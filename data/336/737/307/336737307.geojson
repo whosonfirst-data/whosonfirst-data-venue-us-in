@@ -2,13 +2,14 @@
   "id": 336737307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.8755,38.958184,-85.8755,38.958184",
     "geom:latitude":38.958184,
     "geom:longitude":-85.8755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 E Tipton St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336737307,
-    "wof:lastmodified":1448997192,
+    "wof:lastmodified":1466503063,
     "wof:name":"Busy Bee Liquors",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.8755,38.958184,-85.8755,38.958184],
+  "bbox": [
+    -85.8755,
+    38.958184,
+    -85.8755,
+    38.958184
+],
   "geometry": {"coordinates":[-85.8755,38.958184],"type":"Point"}
 }

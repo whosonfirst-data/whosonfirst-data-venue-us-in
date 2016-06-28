@@ -2,13 +2,14 @@
   "id": 320293065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.210109,39.997105,-87.210109,39.997105",
     "geom:latitude":39.997105,
     "geom:longitude":-87.210109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3392 S 270 E",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320293065,
-    "wof:lastmodified":1449011994,
+    "wof:lastmodified":1466502914,
     "wof:name":"Jeremy Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-87.210109,39.997105,-87.210109,39.997105],
+  "bbox": [
+    -87.210109,
+    39.997105,
+    -87.210109,
+    39.997105
+],
   "geometry": {"coordinates":[-87.210109,39.997105],"type":"Point"}
 }

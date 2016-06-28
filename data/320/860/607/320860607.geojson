@@ -2,13 +2,14 @@
   "id": 320860607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.885894,40.389694,-86.885894,40.389694",
     "geom:latitude":40.389694,
     "geom:longitude":-86.885894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 S 9th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320860607,
-    "wof:lastmodified":1449012912,
+    "wof:lastmodified":1466503569,
     "wof:name":"Lafeyette Schools",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "church"
     ]
 },
-  "bbox": [-86.885894,40.389694,-86.885894,40.389694],
-  "geometry": {"coordinates":[-86.885894,40.389694],"type":"Point"}
+  "bbox": [
+    -86.885894,
+    40.389694,
+    -86.885894,
+    40.389694
+],
+  "geometry": {"coordinates":[-86.88589399999999,40.389694],"type":"Point"}
 }

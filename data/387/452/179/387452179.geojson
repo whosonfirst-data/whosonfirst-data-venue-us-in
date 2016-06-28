@@ -2,13 +2,14 @@
   "id": 387452179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.84655,39.789332,-85.84655,39.789332",
     "geom:latitude":39.789332,
     "geom:longitude":-85.84655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Wayne Dr",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387452179,
-    "wof:lastmodified":1449057003,
+    "wof:lastmodified":1466503514,
     "wof:name":"Avert Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-85.84655,39.789332,-85.84655,39.789332],
-  "geometry": {"coordinates":[-85.84655,39.789332],"type":"Point"}
+  "bbox": [
+    -85.84655,
+    39.789332,
+    -85.84655,
+    39.789332
+],
+  "geometry": {"coordinates":[-85.84654999999999,39.789332],"type":"Point"}
 }

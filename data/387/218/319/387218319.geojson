@@ -2,13 +2,14 @@
   "id": 387218319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764457,38.302698,-85.764457,38.302698",
     "geom:latitude":38.302698,
     "geom:longitude":-85.764457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Eastern Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387218319,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1466503192,
     "wof:name":"Evergreen Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-85.764457,38.302698,-85.764457,38.302698],
-  "geometry": {"coordinates":[-85.764457,38.302698],"type":"Point"}
+  "bbox": [
+    -85.764457,
+    38.302698,
+    -85.764457,
+    38.302698
+],
+  "geometry": {"coordinates":[-85.76445699999999,38.302698],"type":"Point"}
 }

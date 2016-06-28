@@ -2,13 +2,14 @@
   "id": 353828983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.076958,38.740347,-85.076958,38.740347",
     "geom:latitude":38.740347,
     "geom:longitude":-85.076958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Ogle Ln",
     "sg:city":"Vevay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353828983,
-    "wof:lastmodified":1449019565,
+    "wof:lastmodified":1466503344,
     "wof:name":"Martin's Farm Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-85.076958,38.740347,-85.076958,38.740347],
+  "bbox": [
+    -85.076958,
+    38.740347,
+    -85.076958,
+    38.740347
+],
   "geometry": {"coordinates":[-85.076958,38.740347],"type":"Point"}
 }

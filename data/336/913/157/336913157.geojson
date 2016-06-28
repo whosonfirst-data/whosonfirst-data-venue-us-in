@@ -2,13 +2,14 @@
   "id": 336913157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.472689,38.011396,-87.472689,38.011396",
     "geom:latitude":38.011396,
     "geom:longitude":-87.472689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Interstate Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336913157,
-    "wof:lastmodified":1448997367,
+    "wof:lastmodified":1466503288,
     "wof:name":"American Freight Of Ohio",
     "wof:parent_id":85877323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.472689,38.011396,-87.472689,38.011396],
+  "bbox": [
+    -87.472689,
+    38.011396,
+    -87.472689,
+    38.011396
+],
   "geometry": {"coordinates":[-87.472689,38.011396],"type":"Point"}
 }

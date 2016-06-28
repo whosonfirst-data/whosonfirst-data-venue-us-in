@@ -2,13 +2,14 @@
   "id": 386935961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.143569,41.079668,-85.143569,41.079668",
     "geom:latitude":41.079668,
     "geom:longitude":-85.143569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 W Main St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386935961,
-    "wof:lastmodified":1449028898,
+    "wof:lastmodified":1466502887,
     "wof:name":"Allen County Council On Aging",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-85.143569,41.079668,-85.143569,41.079668],
+  "bbox": [
+    -85.143569,
+    41.079668,
+    -85.143569,
+    41.079668
+],
   "geometry": {"coordinates":[-85.143569,41.079668],"type":"Point"}
 }

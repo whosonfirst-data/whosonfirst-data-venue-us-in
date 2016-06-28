@@ -2,13 +2,14 @@
   "id": 354121093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.092402,39.79538,-86.092402,39.79538",
     "geom:latitude":39.79538,
     "geom:longitude":-86.092402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2042 Glenridge Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354121093,
-    "wof:lastmodified":1449067260,
+    "wof:lastmodified":1466503024,
     "wof:name":"Keller Photos",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-86.092402,39.79538,-86.092402,39.79538],
-  "geometry": {"coordinates":[-86.092402,39.79538],"type":"Point"}
+  "bbox": [
+    -86.092402,
+    39.79538,
+    -86.092402,
+    39.79538
+],
+  "geometry": {"coordinates":[-86.09240200000001,39.79538],"type":"Point"}
 }

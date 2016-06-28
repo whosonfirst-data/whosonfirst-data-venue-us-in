@@ -2,13 +2,14 @@
   "id": 403988367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.906052,39.840683,-84.906052,39.840683",
     "geom:latitude":39.840683,
     "geom:longitude":-84.906052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 NW J St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403988367,
-    "wof:lastmodified":1449055088,
+    "wof:lastmodified":1466503293,
     "wof:name":"A-1 Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.906052,39.840683,-84.906052,39.840683],
+  "bbox": [
+    -84.906052,
+    39.840683,
+    -84.906052,
+    39.840683
+],
   "geometry": {"coordinates":[-84.906052,39.840683],"type":"Point"}
 }

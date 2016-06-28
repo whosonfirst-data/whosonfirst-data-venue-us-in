@@ -2,13 +2,14 @@
   "id": 370714677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543069,37.984963,-87.543069,37.984963",
     "geom:latitude":37.984963,
     "geom:longitude":-87.543069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 N Fares Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370714677,
-    "wof:lastmodified":1449030750,
+    "wof:lastmodified":1466503505,
     "wof:name":"Rick-A-Jay Cleaners",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-87.543069,37.984963,-87.543069,37.984963],
+  "bbox": [
+    -87.543069,
+    37.984963,
+    -87.543069,
+    37.984963
+],
   "geometry": {"coordinates":[-87.543069,37.984963],"type":"Point"}
 }

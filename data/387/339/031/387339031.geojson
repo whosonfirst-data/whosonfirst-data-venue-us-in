@@ -2,13 +2,14 @@
   "id": 387339031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.865614,40.046934,-86.865614,40.046934",
     "geom:latitude":40.046934,
     "geom:longitude":-86.865614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 Lebanon Rd",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387339031,
-    "wof:lastmodified":1449057802,
+    "wof:lastmodified":1466503356,
     "wof:name":"Eastside Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.865614,40.046934,-86.865614,40.046934],
-  "geometry": {"coordinates":[-86.865614,40.046934],"type":"Point"}
+  "bbox": [
+    -86.865614,
+    40.046934,
+    -86.865614,
+    40.046934
+],
+  "geometry": {"coordinates":[-86.86561399999999,40.046934],"type":"Point"}
 }

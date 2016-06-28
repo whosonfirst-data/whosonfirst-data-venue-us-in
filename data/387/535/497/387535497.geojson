@@ -2,13 +2,14 @@
   "id": 387535497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.411494,39.48621,-87.411494,39.48621",
     "geom:latitude":39.48621,
     "geom:longitude":-87.411494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 N 5th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387535497,
-    "wof:lastmodified":1449056790,
+    "wof:lastmodified":1466503619,
     "wof:name":"Physical Therapy Svc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-87.411494,39.48621,-87.411494,39.48621],
+  "bbox": [
+    -87.411494,
+    39.48621,
+    -87.411494,
+    39.48621
+],
   "geometry": {"coordinates":[-87.411494,39.48621],"type":"Point"}
 }

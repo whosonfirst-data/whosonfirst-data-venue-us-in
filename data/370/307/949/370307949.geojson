@@ -2,13 +2,14 @@
   "id": 370307949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.071317,41.742385,-86.071317,41.742385",
     "geom:latitude":41.742385,
     "geom:longitude":-86.071317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10490 Glen Lee Trl",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370307949,
-    "wof:lastmodified":1449029973,
+    "wof:lastmodified":1466503082,
     "wof:name":"First Steps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.071317,41.742385,-86.071317,41.742385],
-  "geometry": {"coordinates":[-86.071317,41.742385],"type":"Point"}
+  "bbox": [
+    -86.071317,
+    41.742385,
+    -86.071317,
+    41.742385
+],
+  "geometry": {"coordinates":[-86.07131699999999,41.742385],"type":"Point"}
 }

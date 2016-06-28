@@ -2,13 +2,14 @@
   "id": 336766829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.140254,41.079116,-85.140254,41.079116",
     "geom:latitude":41.079116,
     "geom:longitude":-85.140254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Berry St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336766829,
-    "wof:lastmodified":1448996909,
+    "wof:lastmodified":1466503104,
     "wof:name":"One Eleven Design",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-85.140254,41.079116,-85.140254,41.079116],
+  "bbox": [
+    -85.140254,
+    41.079116,
+    -85.140254,
+    41.079116
+],
   "geometry": {"coordinates":[-85.140254,41.079116],"type":"Point"}
 }

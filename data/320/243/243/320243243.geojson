@@ -2,13 +2,14 @@
   "id": 320243243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.109777,39.934819,-86.109777,39.934819",
     "geom:latitude":39.934819,
     "geom:longitude":-86.109777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9920 Chinquapin Ct",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320243243,
-    "wof:lastmodified":1449012483,
+    "wof:lastmodified":1466503775,
     "wof:name":"Momentum Consultin LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.109777,39.934819,-86.109777,39.934819],
-  "geometry": {"coordinates":[-86.109777,39.934819],"type":"Point"}
+  "bbox": [
+    -86.109777,
+    39.934819,
+    -86.109777,
+    39.934819
+],
+  "geometry": {"coordinates":[-86.10977699999999,39.934819],"type":"Point"}
 }

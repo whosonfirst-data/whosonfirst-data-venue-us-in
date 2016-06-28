@@ -2,13 +2,14 @@
   "id": 387865279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.327184,39.817662,-86.327184,39.817662",
     "geom:latitude":39.817662,
     "geom:longitude":-86.327184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9235 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387865279,
-    "wof:lastmodified":1449058978,
+    "wof:lastmodified":1466504072,
     "wof:name":"Edy's Barber & Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.327184,39.817662,-86.327184,39.817662],
+  "bbox": [
+    -86.327184,
+    39.817662,
+    -86.327184,
+    39.817662
+],
   "geometry": {"coordinates":[-86.327184,39.817662],"type":"Point"}
 }

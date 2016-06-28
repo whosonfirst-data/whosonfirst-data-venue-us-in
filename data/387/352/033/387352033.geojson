@@ -2,13 +2,14 @@
   "id": 387352033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077703,39.711313,-86.077703,39.711313",
     "geom:latitude":39.711313,
     "geom:longitude":-86.077703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5334 Hornet Ave",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387352033,
-    "wof:lastmodified":1449058440,
+    "wof:lastmodified":1466503372,
     "wof:name":"Beech Grove City Schools",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institute"
     ]
 },
-  "bbox": [-86.077703,39.711313,-86.077703,39.711313],
+  "bbox": [
+    -86.077703,
+    39.711313,
+    -86.077703,
+    39.711313
+],
   "geometry": {"coordinates":[-86.077703,39.711313],"type":"Point"}
 }

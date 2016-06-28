@@ -2,13 +2,14 @@
   "id": 353967971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893071,40.419132,-86.893071,40.419132",
     "geom:latitude":40.419132,
     "geom:longitude":-86.893071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353967971,
-    "wof:lastmodified":1449020613,
+    "wof:lastmodified":1466503507,
     "wof:name":"R E Research Assoc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.893071,40.419132,-86.893071,40.419132],
-  "geometry": {"coordinates":[-86.893071,40.419132],"type":"Point"}
+  "bbox": [
+    -86.893071,
+    40.419132,
+    -86.893071,
+    40.419132
+],
+  "geometry": {"coordinates":[-86.89307100000001,40.419132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336601569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.726534,38.295413,-85.726534,38.295413",
     "geom:latitude":38.295413,
     "geom:longitude":-85.726534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336601569,
-    "wof:lastmodified":1448997433,
+    "wof:lastmodified":1466502882,
     "wof:name":"Burns Lawn Svc",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.726534,38.295413,-85.726534,38.295413],
+  "bbox": [
+    -85.726534,
+    38.295413,
+    -85.726534,
+    38.295413
+],
   "geometry": {"coordinates":[-85.726534,38.295413],"type":"Point"}
 }

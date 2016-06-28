@@ -2,13 +2,14 @@
   "id": 303266901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.324276,39.850345,-86.324276,39.850345",
     "geom:latitude":39.850345,
     "geom:longitude":-86.324276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9110 Woodacre Boulevard N Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303266901,
-    "wof:lastmodified":1448998195,
+    "wof:lastmodified":1466503544,
     "wof:name":"Girlfriend Getaway Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "travel"
     ]
 },
-  "bbox": [-86.324276,39.850345,-86.324276,39.850345],
+  "bbox": [
+    -86.324276,
+    39.850345,
+    -86.324276,
+    39.850345
+],
   "geometry": {"coordinates":[-86.324276,39.850345],"type":"Point"}
 }

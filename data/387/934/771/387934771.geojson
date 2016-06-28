@@ -2,13 +2,14 @@
   "id": 387934771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.850061,40.287231,-85.850061,40.287231",
     "geom:latitude":40.287231,
     "geom:longitude":-85.850061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 N 9th St",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387934771,
-    "wof:lastmodified":1449056302,
+    "wof:lastmodified":1466504182,
     "wof:name":"Dickey Nursing Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-85.850061,40.287231,-85.850061,40.287231],
+  "bbox": [
+    -85.850061,
+    40.287231,
+    -85.850061,
+    40.287231
+],
   "geometry": {"coordinates":[-85.850061,40.287231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303632183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.547617,37.979861,-87.547617,37.979861",
     "geom:latitude":37.979861,
     "geom:longitude":-87.547617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 N Kentucky Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303632183,
-    "wof:lastmodified":1448999679,
+    "wof:lastmodified":1466502907,
     "wof:name":"Comtech Plastics Inc",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "custom"
     ]
 },
-  "bbox": [-87.547617,37.979861,-87.547617,37.979861],
+  "bbox": [
+    -87.547617,
+    37.979861,
+    -87.547617,
+    37.979861
+],
   "geometry": {"coordinates":[-87.547617,37.979861],"type":"Point"}
 }

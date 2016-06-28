@@ -2,13 +2,14 @@
   "id": 319995379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.370162,39.931135,-85.370162,39.931135",
     "geom:latitude":39.931135,
     "geom:longitude":-85.370162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Broad St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319995379,
-    "wof:lastmodified":1449024800,
+    "wof:lastmodified":1466503641,
     "wof:name":"Ameriana Bank & Trust",
     "wof:parent_id":85805591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.370162,39.931135,-85.370162,39.931135],
-  "geometry": {"coordinates":[-85.370162,39.931135],"type":"Point"}
+  "bbox": [
+    -85.370162,
+    39.931135,
+    -85.370162,
+    39.931135
+],
+  "geometry": {"coordinates":[-85.37016199999999,39.931135],"type":"Point"}
 }

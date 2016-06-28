@@ -2,13 +2,14 @@
   "id": 320845105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.111011,39.902894,-86.111011,39.902894",
     "geom:latitude":39.902894,
     "geom:longitude":-86.111011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3067 River Bay Dr N",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320845105,
-    "wof:lastmodified":1449011866,
+    "wof:lastmodified":1466503552,
     "wof:name":"Ethicize Consulting LLC",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.111011,39.902894,-86.111011,39.902894],
+  "bbox": [
+    -86.111011,
+    39.902894,
+    -86.111011,
+    39.902894
+],
   "geometry": {"coordinates":[-86.111011,39.902894],"type":"Point"}
 }

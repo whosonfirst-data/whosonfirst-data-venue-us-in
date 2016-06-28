@@ -2,13 +2,14 @@
   "id": 370236305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.840238,40.278621,-85.840238,40.278621",
     "geom:latitude":40.278621,
     "geom:longitude":-85.840238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N 16th St",
     "sg:city":"Elwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370236305,
-    "wof:lastmodified":1449029449,
+    "wof:lastmodified":1466502995,
     "wof:name":"Alternator Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "generator"
     ]
 },
-  "bbox": [-85.840238,40.278621,-85.840238,40.278621],
+  "bbox": [
+    -85.840238,
+    40.278621,
+    -85.840238,
+    40.278621
+],
   "geometry": {"coordinates":[-85.840238,40.278621],"type":"Point"}
 }

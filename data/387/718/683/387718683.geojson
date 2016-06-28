@@ -2,13 +2,14 @@
   "id": 387718683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.472225,41.522942,-87.472225,41.522942",
     "geom:latitude":41.522942,
     "geom:longitude":-87.472225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Main St",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387718683,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1466503869,
     "wof:name":"White Cleaners & Laundrys",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.472225,41.522942,-87.472225,41.522942],
-  "geometry": {"coordinates":[-87.472225,41.522942],"type":"Point"}
+  "bbox": [
+    -87.472225,
+    41.522942,
+    -87.472225,
+    41.522942
+],
+  "geometry": {"coordinates":[-87.47222499999999,41.522942],"type":"Point"}
 }

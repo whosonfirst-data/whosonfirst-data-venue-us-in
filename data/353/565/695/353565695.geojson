@@ -2,13 +2,14 @@
   "id": 353565695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.335475,41.423176,-87.335475,41.423176",
     "geom:latitude":41.423176,
     "geom:longitude":-87.335475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10732 Broadway",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353565695,
-    "wof:lastmodified":1449020578,
+    "wof:lastmodified":1466503031,
     "wof:name":"Lake Shore Floor Covering Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-87.335475,41.423176,-87.335475,41.423176],
+  "bbox": [
+    -87.335475,
+    41.423176,
+    -87.335475,
+    41.423176
+],
   "geometry": {"coordinates":[-87.335475,41.423176],"type":"Point"}
 }

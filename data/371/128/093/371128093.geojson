@@ -2,13 +2,14 @@
   "id": 371128093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.150089,41.448232,-86.150089,41.448232",
     "geom:latitude":41.448232,
     "geom:longitude":-86.150089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Whitlock St",
     "sg:city":"Bremen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371128093,
-    "wof:lastmodified":1449049425,
+    "wof:lastmodified":1466503030,
     "wof:name":"J D Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "award"
     ]
 },
-  "bbox": [-86.150089,41.448232,-86.150089,41.448232],
-  "geometry": {"coordinates":[-86.150089,41.448232],"type":"Point"}
+  "bbox": [
+    -86.150089,
+    41.448232,
+    -86.150089,
+    41.448232
+],
+  "geometry": {"coordinates":[-86.15008899999999,41.448232],"type":"Point"}
 }

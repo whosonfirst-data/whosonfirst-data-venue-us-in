@@ -2,13 +2,14 @@
   "id": 336842557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.968518,41.17259,-86.968518,41.17259",
     "geom:latitude":41.17259,
     "geom:longitude":-86.968518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11942 Co Rd 400",
     "sg:city":"Wheatfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336842557,
-    "wof:lastmodified":1448997008,
+    "wof:lastmodified":1466503203,
     "wof:name":"Tim's Computer Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.968518,41.17259,-86.968518,41.17259],
+  "bbox": [
+    -86.968518,
+    41.17259,
+    -86.968518,
+    41.17259
+],
   "geometry": {"coordinates":[-86.968518,41.17259],"type":"Point"}
 }

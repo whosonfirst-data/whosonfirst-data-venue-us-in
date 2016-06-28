@@ -2,13 +2,14 @@
   "id": 371100499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040537,39.776162,-86.040537,39.776162",
     "geom:latitude":39.776162,
     "geom:longitude":-86.040537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Shortridge Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371100499,
-    "wof:lastmodified":1449049820,
+    "wof:lastmodified":1466503000,
     "wof:name":"A W Schmadeke Insurance",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.040537,39.776162,-86.040537,39.776162],
+  "bbox": [
+    -86.040537,
+    39.776162,
+    -86.040537,
+    39.776162
+],
   "geometry": {"coordinates":[-86.040537,39.776162],"type":"Point"}
 }

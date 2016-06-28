@@ -2,13 +2,14 @@
   "id": 354404959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.33854,41.524245,-87.33854,41.524245",
     "geom:latitude":41.524245,
     "geom:longitude":-87.33854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Adams St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354404959,
-    "wof:lastmodified":1449067105,
+    "wof:lastmodified":1466503458,
     "wof:name":"Edgewater Systems For Balance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.33854,41.524245,-87.33854,41.524245],
-  "geometry": {"coordinates":[-87.33854,41.524245],"type":"Point"}
+  "bbox": [
+    -87.33854,
+    41.524245,
+    -87.33854,
+    41.524245
+],
+  "geometry": {"coordinates":[-87.33853999999999,41.524245],"type":"Point"}
 }

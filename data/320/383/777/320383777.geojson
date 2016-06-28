@@ -2,13 +2,14 @@
   "id": 320383777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.336159,41.473216,-87.336159,41.473216",
     "geom:latitude":41.473216,
     "geom:longitude":-87.336159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 W 80th Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320383777,
-    "wof:lastmodified":1449012843,
+    "wof:lastmodified":1466503032,
     "wof:name":"Calories Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-87.336159,41.473216,-87.336159,41.473216],
-  "geometry": {"coordinates":[-87.336159,41.473216],"type":"Point"}
+  "bbox": [
+    -87.336159,
+    41.473216,
+    -87.336159,
+    41.473216
+],
+  "geometry": {"coordinates":[-87.33615899999999,41.473216],"type":"Point"}
 }

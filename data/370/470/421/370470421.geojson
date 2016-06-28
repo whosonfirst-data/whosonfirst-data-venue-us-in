@@ -2,13 +2,14 @@
   "id": 370470421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.298128,40.193362,-85.298128,40.193362",
     "geom:latitude":40.193362,
     "geom:longitude":-85.298128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7524 E Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370470421,
-    "wof:lastmodified":1449029912,
+    "wof:lastmodified":1466503242,
     "wof:name":"Willowbend Living Ctr",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rest"
     ]
 },
-  "bbox": [-85.298128,40.193362,-85.298128,40.193362],
-  "geometry": {"coordinates":[-85.298128,40.193362],"type":"Point"}
+  "bbox": [
+    -85.298128,
+    40.193362,
+    -85.298128,
+    40.193362
+],
+  "geometry": {"coordinates":[-85.29812800000001,40.193362],"type":"Point"}
 }

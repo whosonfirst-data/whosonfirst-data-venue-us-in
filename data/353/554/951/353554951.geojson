@@ -2,13 +2,14 @@
   "id": 353554951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.162266,41.172691,-85.162266,41.172691",
     "geom:latitude":41.172691,
     "geom:longitude":-85.162266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Lima Meadow Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353554951,
-    "wof:lastmodified":1449018781,
+    "wof:lastmodified":1466503013,
     "wof:name":"Flat-Works Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-85.162266,41.172691,-85.162266,41.172691],
+  "bbox": [
+    -85.162266,
+    41.172691,
+    -85.162266,
+    41.172691
+],
   "geometry": {"coordinates":[-85.162266,41.172691],"type":"Point"}
 }

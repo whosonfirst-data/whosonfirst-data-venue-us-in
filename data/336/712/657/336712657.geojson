@@ -2,13 +2,14 @@
   "id": 336712657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.194564,39.882888,-86.194564,39.882888",
     "geom:latitude":39.882888,
     "geom:longitude":-86.194564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7135 Warrior Trl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336712657,
-    "wof:lastmodified":1448997409,
+    "wof:lastmodified":1466503031,
     "wof:name":"Arrow Woods Apartments",
     "wof:parent_id":85803951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.194564,39.882888,-86.194564,39.882888],
+  "bbox": [
+    -86.194564,
+    39.882888,
+    -86.194564,
+    39.882888
+],
   "geometry": {"coordinates":[-86.194564,39.882888],"type":"Point"}
 }

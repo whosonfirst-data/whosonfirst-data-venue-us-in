@@ -2,13 +2,14 @@
   "id": 387633241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.312178,41.343414,-86.312178,41.343414",
     "geom:latitude":41.343414,
     "geom:longitude":-86.312178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 W Jefferson St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387633241,
-    "wof:lastmodified":1449059894,
+    "wof:lastmodified":1466503758,
     "wof:name":"Eric Foster Counseling Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-86.312178,41.343414,-86.312178,41.343414],
+  "bbox": [
+    -86.312178,
+    41.343414,
+    -86.312178,
+    41.343414
+],
   "geometry": {"coordinates":[-86.312178,41.343414],"type":"Point"}
 }

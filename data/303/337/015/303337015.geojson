@@ -2,13 +2,14 @@
   "id": 303337015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.206369,39.645899,-85.206369,39.645899",
     "geom:latitude":39.645899,
     "geom:longitude":-85.206369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3651 W Griener Rd",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303337015,
-    "wof:lastmodified":1448999264,
+    "wof:lastmodified":1466503615,
     "wof:name":"Shawn-Ran Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-85.206369,39.645899,-85.206369,39.645899],
+  "bbox": [
+    -85.206369,
+    39.645899,
+    -85.206369,
+    39.645899
+],
   "geometry": {"coordinates":[-85.206369,39.645899],"type":"Point"}
 }

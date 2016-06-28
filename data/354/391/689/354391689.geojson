@@ -2,13 +2,14 @@
   "id": 354391689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.168634,39.649041,-85.168634,39.649041",
     "geom:latitude":39.649041,
     "geom:longitude":-85.168634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 N Golf Manor Rd",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354391689,
-    "wof:lastmodified":1449067058,
+    "wof:lastmodified":1466503433,
     "wof:name":"Henry Orschell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-85.168634,39.649041,-85.168634,39.649041],
+  "bbox": [
+    -85.168634,
+    39.649041,
+    -85.168634,
+    39.649041
+],
   "geometry": {"coordinates":[-85.168634,39.649041],"type":"Point"}
 }

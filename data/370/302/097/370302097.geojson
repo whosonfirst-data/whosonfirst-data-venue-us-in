@@ -2,13 +2,14 @@
   "id": 370302097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.352157,40.99791,-87.352157,40.99791",
     "geom:latitude":40.99791,
     "geom:longitude":-87.352157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 S 200 E",
     "sg:city":"Fair Oaks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370302097,
-    "wof:lastmodified":1449030241,
+    "wof:lastmodified":1466503072,
     "wof:name":"Stansu Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-87.352157,40.99791,-87.352157,40.99791],
-  "geometry": {"coordinates":[-87.352157,40.99791],"type":"Point"}
+  "bbox": [
+    -87.352157,
+    40.99791,
+    -87.352157,
+    40.99791
+],
+  "geometry": {"coordinates":[-87.35215700000001,40.99791],"type":"Point"}
 }

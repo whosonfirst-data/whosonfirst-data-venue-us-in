@@ -2,13 +2,14 @@
   "id": 303541601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471246,41.510137,-87.471246,41.510137",
     "geom:latitude":41.510137,
     "geom:longitude":-87.471246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Indianapolis Blvd",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303541601,
-    "wof:lastmodified":1448998391,
+    "wof:lastmodified":1466503738,
     "wof:name":"United Overhead Doors Inc",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-87.471246,41.510137,-87.471246,41.510137],
-  "geometry": {"coordinates":[-87.471246,41.510137],"type":"Point"}
+  "bbox": [
+    -87.471246,
+    41.510137,
+    -87.471246,
+    41.510137
+],
+  "geometry": {"coordinates":[-87.47124599999999,41.510137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370523807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.886605,41.700839,-86.886605,41.700839",
     "geom:latitude":41.700839,
     "geom:longitude":-86.886605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Arthur St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370523807,
-    "wof:lastmodified":1449031020,
+    "wof:lastmodified":1466503299,
     "wof:name":"Sisters Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-86.886605,41.700839,-86.886605,41.700839],
+  "bbox": [
+    -86.886605,
+    41.700839,
+    -86.886605,
+    41.700839
+],
   "geometry": {"coordinates":[-86.886605,41.700839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336637459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.067118,41.098617,-85.067118,41.098617",
     "geom:latitude":41.098617,
     "geom:longitude":-85.067118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5927 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336637459,
-    "wof:lastmodified":1448996918,
+    "wof:lastmodified":1466502934,
     "wof:name":"Agapeland Daycare Ministries",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.067118,41.098617,-85.067118,41.098617],
-  "geometry": {"coordinates":[-85.067118,41.098617],"type":"Point"}
+  "bbox": [
+    -85.067118,
+    41.098617,
+    -85.067118,
+    41.098617
+],
+  "geometry": {"coordinates":[-85.06711799999999,41.098617],"type":"Point"}
 }

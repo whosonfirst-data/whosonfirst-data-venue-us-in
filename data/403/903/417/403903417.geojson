@@ -2,13 +2,14 @@
   "id": 403903417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.8647,41.600101,-85.8647,41.600101",
     "geom:latitude":41.600101,
     "geom:longitude":-85.8647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Elkhart Rd",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403903417,
-    "wof:lastmodified":1449054704,
+    "wof:lastmodified":1466503165,
     "wof:name":"Perry Personnel Plus",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.8647,41.600101,-85.8647,41.600101],
+  "bbox": [
+    -85.8647,
+    41.600101,
+    -85.8647,
+    41.600101
+],
   "geometry": {"coordinates":[-85.8647,41.600101],"type":"Point"}
 }

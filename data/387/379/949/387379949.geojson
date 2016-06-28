@@ -2,13 +2,14 @@
   "id": 387379949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.155144,39.980663,-86.155144,39.980663",
     "geom:latitude":39.980663,
     "geom:longitude":-86.155144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13450 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387379949,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1466503415,
     "wof:name":"St Vincent Primary Care Netwrk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.155144,39.980663,-86.155144,39.980663],
-  "geometry": {"coordinates":[-86.155144,39.980663],"type":"Point"}
+  "bbox": [
+    -86.155144,
+    39.980663,
+    -86.155144,
+    39.980663
+],
+  "geometry": {"coordinates":[-86.15514400000001,39.980663],"type":"Point"}
 }

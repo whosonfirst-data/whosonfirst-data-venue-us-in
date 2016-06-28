@@ -2,13 +2,14 @@
   "id": 387958873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.872122,38.441774,-85.872122,38.441774",
     "geom:latitude":38.441774,
     "geom:longitude":-85.872122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16011 State Rd 60",
     "sg:city":"Borden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387958873,
-    "wof:lastmodified":1449059072,
+    "wof:lastmodified":1466504406,
     "wof:name":"Miss Marguerite's Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.872122,38.441774,-85.872122,38.441774],
+  "bbox": [
+    -85.872122,
+    38.441774,
+    -85.872122,
+    38.441774
+],
   "geometry": {"coordinates":[-85.872122,38.441774],"type":"Point"}
 }

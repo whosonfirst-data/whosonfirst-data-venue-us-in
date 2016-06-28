@@ -2,13 +2,14 @@
   "id": 320151967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.674494,40.261594,-85.674494,40.261594",
     "geom:latitude":40.261594,
     "geom:longitude":-85.674494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Harrison St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320151967,
-    "wof:lastmodified":1449011298,
+    "wof:lastmodified":1466503736,
     "wof:name":"Alexandria Fire Dept",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-85.674494,40.261594,-85.674494,40.261594],
+  "bbox": [
+    -85.674494,
+    40.261594,
+    -85.674494,
+    40.261594
+],
   "geometry": {"coordinates":[-85.674494,40.261594],"type":"Point"}
 }

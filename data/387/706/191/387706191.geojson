@@ -2,13 +2,14 @@
   "id": 387706191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.485993,37.977409,-87.485993,37.977409",
     "geom:latitude":37.977409,
     "geom:longitude":-87.485993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 E Indiana St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387706191,
-    "wof:lastmodified":1449056383,
+    "wof:lastmodified":1466503852,
     "wof:name":"Tri State Benefits Admin",
     "wof:parent_id":85891111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-87.485993,37.977409,-87.485993,37.977409],
-  "geometry": {"coordinates":[-87.485993,37.977409],"type":"Point"}
+  "bbox": [
+    -87.485993,
+    37.977409,
+    -87.485993,
+    37.977409
+],
+  "geometry": {"coordinates":[-87.48599299999999,37.977409],"type":"Point"}
 }

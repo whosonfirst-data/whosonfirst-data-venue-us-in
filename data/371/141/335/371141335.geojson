@@ -2,13 +2,14 @@
   "id": 371141335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.931235,38.395584,-86.931235,38.395584",
     "geom:latitude":38.395584,
     "geom:longitude":-86.931235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W 12th St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371141335,
-    "wof:lastmodified":1449049376,
+    "wof:lastmodified":1466503052,
     "wof:name":"Connie's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.931235,38.395584,-86.931235,38.395584],
+  "bbox": [
+    -86.931235,
+    38.395584,
+    -86.931235,
+    38.395584
+],
   "geometry": {"coordinates":[-86.931235,38.395584],"type":"Point"}
 }

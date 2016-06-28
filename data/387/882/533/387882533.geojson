@@ -2,13 +2,14 @@
   "id": 387882533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258267,41.68276,-86.258267,41.68276",
     "geom:latitude":41.68276,
     "geom:longitude":-86.258267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Leland Ave",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387882533,
-    "wof:lastmodified":1449056780,
+    "wof:lastmodified":1466504100,
     "wof:name":"Atlas Electric Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.258267,41.68276,-86.258267,41.68276],
+  "bbox": [
+    -86.258267,
+    41.68276,
+    -86.258267,
+    41.68276
+],
   "geometry": {"coordinates":[-86.258267,41.68276],"type":"Point"}
 }

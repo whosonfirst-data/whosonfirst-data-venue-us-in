@@ -2,13 +2,14 @@
   "id": 320662309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.012079,39.787794,-86.012079,39.787794",
     "geom:latitude":39.787794,
     "geom:longitude":-86.012079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 N Bazil Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320662309,
-    "wof:lastmodified":1449013795,
+    "wof:lastmodified":1466503369,
     "wof:name":"Greentree At Post Patio Homes",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rest"
     ]
 },
-  "bbox": [-86.012079,39.787794,-86.012079,39.787794],
+  "bbox": [
+    -86.012079,
+    39.787794,
+    -86.012079,
+    39.787794
+],
   "geometry": {"coordinates":[-86.012079,39.787794],"type":"Point"}
 }

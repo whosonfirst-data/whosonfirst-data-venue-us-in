@@ -2,13 +2,14 @@
   "id": 303602115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.182789,41.045714,-85.182789,41.045714",
     "geom:latitude":41.045714,
     "geom:longitude":-85.182789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Engle Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303602115,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466503784,
     "wof:name":"Accur-C Tool Corp",
     "wof:parent_id":85877539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "special"
     ]
 },
-  "bbox": [-85.182789,41.045714,-85.182789,41.045714],
+  "bbox": [
+    -85.182789,
+    41.045714,
+    -85.182789,
+    41.045714
+],
   "geometry": {"coordinates":[-85.182789,41.045714],"type":"Point"}
 }

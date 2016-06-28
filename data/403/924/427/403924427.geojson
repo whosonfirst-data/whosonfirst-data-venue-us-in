@@ -2,13 +2,14 @@
   "id": 403924427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.038664,39.772502,-86.038664,39.772502",
     "geom:latitude":39.772502,
     "geom:longitude":-86.038664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403924427,
-    "wof:lastmodified":1449055010,
+    "wof:lastmodified":1466503193,
     "wof:name":"Brown Kingry & Co",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.038664,39.772502,-86.038664,39.772502],
+  "bbox": [
+    -86.038664,
+    39.772502,
+    -86.038664,
+    39.772502
+],
   "geometry": {"coordinates":[-86.038664,39.772502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386932593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.416614,41.64499,-85.416614,41.64499",
     "geom:latitude":41.64499,
     "geom:longitude":-85.416614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Michigan St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386932593,
-    "wof:lastmodified":1449028742,
+    "wof:lastmodified":1466502883,
     "wof:name":"Lagrange Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-85.416614,41.64499,-85.416614,41.64499],
+  "bbox": [
+    -85.416614,
+    41.64499,
+    -85.416614,
+    41.64499
+],
   "geometry": {"coordinates":[-85.416614,41.64499],"type":"Point"}
 }

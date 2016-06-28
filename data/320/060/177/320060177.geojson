@@ -2,13 +2,14 @@
   "id": 320060177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.908835,38.948367,-85.908835,38.948367",
     "geom:latitude":38.948367,
     "geom:longitude":-85.908835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 Corporate Way",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320060177,
-    "wof:lastmodified":1449014626,
+    "wof:lastmodified":1466503683,
     "wof:name":"Mark Dennis & Co",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-85.908835,38.948367,-85.908835,38.948367],
+  "bbox": [
+    -85.908835,
+    38.948367,
+    -85.908835,
+    38.948367
+],
   "geometry": {"coordinates":[-85.908835,38.948367],"type":"Point"}
 }

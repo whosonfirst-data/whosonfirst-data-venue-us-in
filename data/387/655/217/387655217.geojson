@@ -2,13 +2,14 @@
   "id": 387655217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.507986,41.38748,-87.507986,41.38748",
     "geom:latitude":41.38748,
     "geom:longitude":-87.507986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12949 Calumet Ave",
     "sg:city":"Cedar Lake",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387655217,
-    "wof:lastmodified":1449058296,
+    "wof:lastmodified":1466503790,
     "wof:name":"Classic Journeys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bureau"
     ]
 },
-  "bbox": [-87.507986,41.38748,-87.507986,41.38748],
+  "bbox": [
+    -87.507986,
+    41.38748,
+    -87.507986,
+    41.38748
+],
   "geometry": {"coordinates":[-87.507986,41.38748],"type":"Point"}
 }

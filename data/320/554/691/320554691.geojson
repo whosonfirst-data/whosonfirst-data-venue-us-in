@@ -2,13 +2,14 @@
   "id": 320554691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250517,39.779611,-86.250517,39.779611",
     "geom:latitude":39.779611,
     "geom:longitude":-86.250517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 N Lynhurst Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320554691,
-    "wof:lastmodified":1449012028,
+    "wof:lastmodified":1466503249,
     "wof:name":"Mower Zone",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-86.250517,39.779611,-86.250517,39.779611],
+  "bbox": [
+    -86.250517,
+    39.779611,
+    -86.250517,
+    39.779611
+],
   "geometry": {"coordinates":[-86.250517,39.779611],"type":"Point"}
 }

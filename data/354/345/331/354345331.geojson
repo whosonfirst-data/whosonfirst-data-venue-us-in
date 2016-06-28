@@ -2,13 +2,14 @@
   "id": 354345331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.887042,40.428846,-86.887042,40.428846",
     "geom:latitude":40.428846,
     "geom:longitude":-86.887042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N 9th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354345331,
-    "wof:lastmodified":1449067535,
+    "wof:lastmodified":1466503364,
     "wof:name":"Precision Media Inc",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-86.887042,40.428846,-86.887042,40.428846],
-  "geometry": {"coordinates":[-86.887042,40.428846],"type":"Point"}
+  "bbox": [
+    -86.887042,
+    40.428846,
+    -86.887042,
+    40.428846
+],
+  "geometry": {"coordinates":[-86.88704199999999,40.428846],"type":"Point"}
 }

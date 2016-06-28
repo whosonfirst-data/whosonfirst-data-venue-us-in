@@ -2,13 +2,14 @@
   "id": 303884215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.857961,41.238098,-85.857961,41.238098",
     "geom:latitude":41.238098,
     "geom:longitude":-85.857961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Center St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303884215,
-    "wof:lastmodified":1449000093,
+    "wof:lastmodified":1466503212,
     "wof:name":"Kosciusko County Co-Op Ext Svc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.857961,41.238098,-85.857961,41.238098],
+  "bbox": [
+    -85.857961,
+    41.238098,
+    -85.857961,
+    41.238098
+],
   "geometry": {"coordinates":[-85.857961,41.238098],"type":"Point"}
 }
