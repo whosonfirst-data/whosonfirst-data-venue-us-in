@@ -2,9 +2,14 @@
   "id": 773669821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 W 65th Ave Merrillville IN 46410",
+    "addr:housenumber":"2525",
+    "addr:postcode":"46410",
+    "addr:street":"W 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.367916,41.500213,-87.367916,41.500213",
     "geom:latitude":41.500213,
     "geom:longitude":-87.367916,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KpPwljwBM4C8kWC6LCZFZ_41.500213_-87.367916@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587465,
     "wof:geomhash":"b049578c6cdf91bbc52230608ce9e9c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773669821
+        }
+    ],
     "wof:id":773669821,
-    "wof:lastmodified":1466516849,
+    "wof:lastmodified":1492091782,
     "wof:name":"Northwstrn In Roofing Ind",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

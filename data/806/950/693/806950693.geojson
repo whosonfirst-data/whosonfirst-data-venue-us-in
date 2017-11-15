@@ -2,14 +2,20 @@
   "id": 806950693,
   "type": "Feature",
   "properties": {
+    "addr:full":"10110 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"10110",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.988132,39.775063,-85.988132,39.775063",
     "geom:latitude":39.775063,
     "geom:longitude":-85.988132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10110 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NhW6OROF0HvPihQ0maSjC_39.775063_-85.988132@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602444,
-    "wof:geomhash":"f5fd875b611a3e5e16fe90e622ef07f7",
+    "wof:geomhash":"3160a77a8c71a9a7f445bf137153be3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":806950693,
-    "wof:lastmodified":1466518327,
+    "wof:lastmodified":1510693937,
     "wof:name":"Aspen Dental",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

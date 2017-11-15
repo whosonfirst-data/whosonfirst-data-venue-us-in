@@ -2,9 +2,14 @@
   "id": 353980263,
   "type": "Feature",
   "properties": {
+    "addr:full":"5172 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"5172",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893915,41.671989,-86.893915,41.671989",
     "geom:latitude":41.671989,
     "geom:longitude":-86.893915,
@@ -46,7 +51,6 @@
     "wof:geomhash":"a2152600f1e7269db0e3ecadccd04677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941911,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":353980263,
-    "wof:lastmodified":1466503528,
+    "wof:lastmodified":1492092062,
     "wof:name":"Hollywood Video",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

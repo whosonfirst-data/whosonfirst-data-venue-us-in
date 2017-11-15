@@ -2,9 +2,14 @@
   "id": 773034189,
   "type": "Feature",
   "properties": {
+    "addr:full":"5971 N 525 W Michigan City IN 46360",
+    "addr:housenumber":"5971",
+    "addr:postcode":"46360",
+    "addr:street":"N 525 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800353,41.697482,-86.800353,41.697482",
     "geom:latitude":41.697482,
     "geom:longitude":-86.800353,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b0REVifcSap4GJl662nfO_41.697482_-86.800353@1294102998"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462582614,
     "wof:geomhash":"79da79edd1a02dcdcfd1efa2f15a7ab0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773034189
+        }
+    ],
     "wof:id":773034189,
-    "wof:lastmodified":1466504513,
+    "wof:lastmodified":1492097359,
     "wof:name":"Stueck's Heating & Air Cond",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

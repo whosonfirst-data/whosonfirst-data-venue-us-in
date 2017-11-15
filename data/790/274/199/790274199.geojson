@@ -2,9 +2,14 @@
   "id": 790274199,
   "type": "Feature",
   "properties": {
+    "addr:full":"6020 S Range Rd North Judson IN 46366",
+    "addr:housenumber":"6020",
+    "addr:postcode":"in 46366",
+    "addr:street":"S Range Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698277,41.215233,-86.698277,41.215233",
     "geom:latitude":41.215233,
     "geom:longitude":-86.698277,
@@ -28,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501487,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qPfPBY893r2qLBT4Ix01m_41.215233_-86.698277@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462594539,
     "wof:geomhash":"c0cef43d4930a59cd9baad0b0d1bb528",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501487,
+            "region_id":85688709,
+            "venue_id":790274199
+        }
+    ],
     "wof:id":790274199,
-    "wof:lastmodified":1466506756,
+    "wof:lastmodified":1492093702,
     "wof:name":"Roy Shepherd Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

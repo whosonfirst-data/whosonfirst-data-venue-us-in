@@ -2,9 +2,14 @@
   "id": 773829483,
   "type": "Feature",
   "properties": {
+    "addr:full":"7605 W 400 N Wolcott IN 47995",
+    "addr:housenumber":"7605",
+    "addr:postcode":"47995",
+    "addr:street":"W 400 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.015721,40.80864,-87.015721,40.80864",
     "geom:latitude":40.80864,
     "geom:longitude":-87.015721,
@@ -24,7 +29,13 @@
     "sg:postcode":"47995",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501995,
+        85633793,
+        102087133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aog8RBnKxdSNiisObF6N2_40.808640_-87.015721@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462588716,
     "wof:geomhash":"0ffaefab61a45706084acd69877517bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087133,
+            "localadmin_id":404501995,
+            "region_id":85688709,
+            "venue_id":773829483
+        }
+    ],
     "wof:id":773829483,
-    "wof:lastmodified":1466518994,
+    "wof:lastmodified":1492095730,
     "wof:name":"Life Gaps Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

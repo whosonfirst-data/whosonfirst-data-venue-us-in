@@ -2,9 +2,14 @@
   "id": 773009581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1605",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355912,41.548378,-87.355912,41.548378",
     "geom:latitude":41.548378,
     "geom:longitude":-87.355912,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2azJn6cwL4MmnUJcSeyI4s_41.548378_-87.355912@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462582299,
     "wof:geomhash":"f6c7f6529202e43cc38c5d94ee1b241b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773009581
+        }
+    ],
     "wof:id":773009581,
-    "wof:lastmodified":1466503725,
+    "wof:lastmodified":1492104791,
     "wof:name":"A & A Auto Sales",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789894899,
   "type": "Feature",
   "properties": {
+    "addr:full":"5943 Tanana Dr Carmel IN 46033",
+    "addr:housenumber":"5943",
+    "addr:postcode":"46033",
+    "addr:street":"Tanana Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.067545,39.989589,-86.067545,39.989589",
     "geom:latitude":39.989589,
     "geom:longitude":-86.067545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5943 Tanana Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MpkEOolARedgGtDwk4aFo_39.989589_-86.067545@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591404,
-    "wof:geomhash":"fe20e5c022ba993060af5a7599d989a8",
+    "wof:geomhash":"d7fcfc098e3417c016a23803000c5e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789894899,
-    "wof:lastmodified":1466507387,
+    "wof:lastmodified":1510698743,
     "wof:name":"Interiors By Decorating Den",
     "wof:parent_id":420519631,
     "wof:placetype":"venue",

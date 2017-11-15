@@ -2,9 +2,14 @@
   "id": 303500953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Roosevelt Ave Indianapolis IN 46218",
+    "addr:housenumber":"2801",
+    "addr:postcode":"46218",
+    "addr:street":"Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.115202,39.795738,-86.115202,39.795738",
     "geom:latitude":39.795738,
     "geom:longitude":-86.115202,
@@ -29,11 +34,13 @@
     "sg:website":"www.capitalmachineco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85807573,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85807573
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"82bd686121f38e974ac36f259d23cb51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85807573,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":303500953,
-    "wof:lastmodified":1466503720,
+    "wof:lastmodified":1491912352,
     "wof:name":"Capital Machine Co",
     "wof:parent_id":85807573,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790365057,
   "type": "Feature",
   "properties": {
+    "addr:full":"6965 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"6965",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.281926,39.823275,-86.281926,39.823275",
     "geom:latitude":39.823275,
     "geom:longitude":-86.281926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6965 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lwMWD6Nol1yqSrwgX3wFd_39.823275_-86.281926@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595266,
-    "wof:geomhash":"0739f250b45642df32266f94f686aa33",
+    "wof:geomhash":"600aca76b136bdd4d97986481d46a0ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790365057,
-    "wof:lastmodified":1466507618,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

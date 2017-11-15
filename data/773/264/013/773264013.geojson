@@ -2,14 +2,20 @@
   "id": 773264013,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 Division St Noblesville IN 46060",
+    "addr:housenumber":"925",
+    "addr:postcode":"46060",
+    "addr:street":"Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.013236,40.042235,-86.013236,40.042235",
     "geom:latitude":40.042235,
     "geom:longitude":-86.013236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 Division St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67d4HOnBDsLXPyvcwkmeu1_40.042235_-86.013236@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584390,
-    "wof:geomhash":"79cf4a3d42de339244169aee38df4072",
+    "wof:geomhash":"82d7ea3b96c6d83a7889719c24bdd71d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773264013,
-    "wof:lastmodified":1466506828,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

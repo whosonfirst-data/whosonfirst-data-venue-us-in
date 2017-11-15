@@ -2,9 +2,14 @@
   "id": 773324221,
   "type": "Feature",
   "properties": {
+    "addr:full":"7503 W 100 N Winamac IN 46996",
+    "addr:housenumber":"7503",
+    "addr:postcode":"46996",
+    "addr:street":"W 100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.753148,41.0707,-86.753148,41.0707",
     "geom:latitude":41.0707,
     "geom:longitude":-86.753148,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501667,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FCDizHwP989MJOJnDLb3w_41.070700_-86.753148@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462584869,
     "wof:geomhash":"4923255ab9d0fb27f49f1f521711ac74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501667,
+            "region_id":85688709,
+            "venue_id":773324221
+        }
+    ],
     "wof:id":773324221,
-    "wof:lastmodified":1466507648,
+    "wof:lastmodified":1492091653,
     "wof:name":"Jh Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

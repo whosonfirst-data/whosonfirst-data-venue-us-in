@@ -2,9 +2,14 @@
   "id": 403821661,
   "type": "Feature",
   "properties": {
+    "addr:full":"5246 Hohman Ave Hammond IN 46320",
+    "addr:housenumber":"5246",
+    "addr:postcode":"46320",
+    "addr:street":"Hohman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.521826,41.618428,-87.521826,41.618428",
     "geom:latitude":41.618428,
     "geom:longitude":-87.521826,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149
@@ -43,17 +50,17 @@
     "wof:geomhash":"17e8a2fc0f9fa211b55bf5f1fba01faa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":403821661
         }
     ],
     "wof:id":403821661,
-    "wof:lastmodified":1466503053,
+    "wof:lastmodified":1492102213,
     "wof:name":"Ideations & Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

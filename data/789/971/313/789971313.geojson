@@ -2,9 +2,14 @@
   "id": 789971313,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 E 200 S Knox IN 46534",
+    "addr:housenumber":"3100",
+    "addr:postcode":"46534",
+    "addr:street":"E 200 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.638116,41.273659,-86.638116,41.273659",
     "geom:latitude":41.273659,
     "geom:longitude":-86.638116,
@@ -27,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZR9Vv23MeqMpHfqsRqoSJ_41.273659_-86.638116@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462592091,
     "wof:geomhash":"049995032e618f6cf96d7349b4a10c1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "region_id":85688709,
+            "venue_id":789971313
+        }
+    ],
     "wof:id":789971313,
-    "wof:lastmodified":1466509426,
+    "wof:lastmodified":1492095717,
     "wof:name":"Thomas Balje",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806801613,
   "type": "Feature",
   "properties": {
+    "addr:full":"12590 N Meridian St Carmel IN 46032",
+    "addr:housenumber":"12590",
+    "addr:postcode":"46032",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157951,39.972365,-86.157951,39.972365",
     "geom:latitude":39.972365,
     "geom:longitude":-86.157951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12590 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jppJ8urC1jFVc6zxKOAKh_39.972365_-86.157951@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601197,
-    "wof:geomhash":"e7aacde274abeee9e12fbda9ffa5dbb3",
+    "wof:geomhash":"c19e557299edb78b7b2070e3d7ea5891",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806801613,
-    "wof:lastmodified":1466514910,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85891103,
     "wof:placetype":"venue",

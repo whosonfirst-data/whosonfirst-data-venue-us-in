@@ -2,9 +2,14 @@
   "id": 789794733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 E Michigan Blvd Michigan City IN 46360",
+    "addr:housenumber":"1020",
+    "addr:postcode":"46360",
+    "addr:street":"E Michigan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887234,41.713308,-86.887234,41.713308",
     "geom:latitude":41.713308,
     "geom:longitude":-86.887234,
@@ -24,7 +29,14 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sYJ7x2vH7lek73YWDHxmi_41.713308_-86.887234@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462590603,
     "wof:geomhash":"7f7c425715be5adbfe68ed13565fe35f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":789794733
+        }
+    ],
     "wof:id":789794733,
-    "wof:lastmodified":1466506321,
+    "wof:lastmodified":1492102312,
     "wof:name":"Flamingo Music Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790024053,
   "type": "Feature",
   "properties": {
+    "addr:full":"8105 E 93rd Ave Crown Point IN 46307",
+    "addr:housenumber":"8105",
+    "addr:postcode":"46307",
+    "addr:street":"E 93Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.232949,41.449011,-87.232949,41.449011",
     "geom:latitude":41.449011,
     "geom:longitude":-87.232949,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r3Rk0qqe3STcW0mLO50j0_41.449011_-87.232949@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462592522,
     "wof:geomhash":"83d93dbdd66fd4c9231f774c4a53f0c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "region_id":85688709,
+            "venue_id":790024053
+        }
+    ],
     "wof:id":790024053,
-    "wof:lastmodified":1466504244,
+    "wof:lastmodified":1492091693,
     "wof:name":"Kenneth Hayes Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

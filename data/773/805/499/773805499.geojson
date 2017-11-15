@@ -2,9 +2,14 @@
   "id": 773805499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"1",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.068512,41.549929,-87.068512,41.549929",
     "geom:latitude":41.549929,
     "geom:longitude":-87.068512,
@@ -27,7 +32,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ex297xwkpCzkvfgvze3Ac_41.549929_-87.068512@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588517,
     "wof:geomhash":"46c4b0e914a936cf7ea5a9eac340b235",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773805499
+        }
+    ],
     "wof:id":773805499,
-    "wof:lastmodified":1466519251,
+    "wof:lastmodified":1492101505,
     "wof:name":"Trux's R Us",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

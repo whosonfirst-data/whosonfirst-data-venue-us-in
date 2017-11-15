@@ -2,9 +2,14 @@
   "id": 773196085,
   "type": "Feature",
   "properties": {
+    "addr:full":"390 E US Hwy 6 Valparaiso IN 46383",
+    "addr:housenumber":"390",
+    "addr:postcode":"46383",
+    "addr:street":"E Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.987596,41.549046,-86.987596,41.549046",
     "geom:latitude":41.549046,
     "geom:longitude":-86.987596,
@@ -27,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cPdrYX1j2tkQEFAUh8l23_41.549046_-86.987596@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462583899,
     "wof:geomhash":"e734661aa654ee6abfb4f0e1aaec5b19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":773196085
+        }
+    ],
     "wof:id":773196085,
-    "wof:lastmodified":1466506365,
+    "wof:lastmodified":1492101503,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

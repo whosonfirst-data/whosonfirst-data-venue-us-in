@@ -2,9 +2,14 @@
   "id": 807049937,
   "type": "Feature",
   "properties": {
+    "addr:full":"3982 Van Buren St Gary IN 46408",
+    "addr:housenumber":"3982",
+    "addr:postcode":"46408",
+    "addr:street":"Van Buren St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.344901,41.545345,-87.344901,41.545345",
     "geom:latitude":41.545345,
     "geom:longitude":-87.344901,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00rvbaR5mkrhptOkMEaKtm_41.545345_-87.344901@1303262771"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462603287,
     "wof:geomhash":"47a8e62852ba62c9a8d34c8cfd84d09b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049937
+        }
+    ],
     "wof:id":807049937,
-    "wof:lastmodified":1466504204,
+    "wof:lastmodified":1492093642,
     "wof:name":"Perrotta Interiors, Inc.",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

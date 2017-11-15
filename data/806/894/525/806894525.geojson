@@ -2,14 +2,20 @@
   "id": 806894525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3520 Commerce Crsg Indianapolis IN 46201",
+    "addr:housenumber":"3520",
+    "addr:postcode":"46201",
+    "addr:street":"Commerce Crsg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.10777,39.916469,-86.10777,39.916469",
     "geom:latitude":39.916469,
     "geom:longitude":-86.10777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3520 Commerce Crsg",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aWa1QgGoHebXiFjvpb8ZN_39.916469_-86.107770@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601971,
-    "wof:geomhash":"3e95e94014930d3100e57a76bf052cd3",
+    "wof:geomhash":"94f02b0081559e1cee9bbc9a4bdb58e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806894525,
-    "wof:lastmodified":1466517189,
+    "wof:lastmodified":1510696922,
     "wof:name":"Nextel Communications",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

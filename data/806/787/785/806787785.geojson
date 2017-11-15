@@ -2,6 +2,10 @@
   "id": 806787785,
   "type": "Feature",
   "properties": {
+    "addr:full":"4012 S 100 W Lafayette IN 47909",
+    "addr:housenumber":"4012;100",
+    "addr:postcode":"47909",
+    "addr:street":"S;W Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":806787785,
-    "wof:lastmodified":1466513925,
+    "wof:lastmodified":1472622910,
     "wof:name":"K Gustafson",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",

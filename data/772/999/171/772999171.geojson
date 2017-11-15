@@ -2,9 +2,14 @@
   "id": 772999171,
   "type": "Feature",
   "properties": {
+    "addr:full":"865 Crown Ct Crown Point IN 46307",
+    "addr:housenumber":"865",
+    "addr:postcode":"46307",
+    "addr:street":"Crown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353126,41.431126,-87.353126,41.431126",
     "geom:latitude":41.431126,
     "geom:longitude":-87.353126,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.awin.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dsBYxJxegHuS3qCxSGqc5_41.431126_-87.353126@1294102998"
@@ -37,9 +50,20 @@
     "wof:country":"US",
     "wof:created":1462582083,
     "wof:geomhash":"440fdc37607019ec09ef833ba8fb31e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":772999171
+        }
+    ],
     "wof:id":772999171,
-    "wof:lastmodified":1466503675,
+    "wof:lastmodified":1492104791,
     "wof:name":"Illiana Disposal & Recycling",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

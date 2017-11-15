@@ -2,14 +2,20 @@
   "id": 806603147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2287 Hwy 337 NW Corydon IN 47112",
+    "addr:housenumber":"2287",
+    "addr:postcode":"47112",
+    "addr:street":"Hwy 337 Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.147323,38.232495,-86.147323,38.232495",
     "geom:latitude":38.232495,
     "geom:longitude":-86.147323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2287 Hwy 337 NW",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125158773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oFyCbUc8AJ6s0Zug1bWmE_38.232495_-86.147323@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599514,
-    "wof:geomhash":"c2876da2b3bce06b3f9c1de71dbbb8a9",
+    "wof:geomhash":"294d6cd33105d0197d12b45d0b03f9ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806603147,
-    "wof:lastmodified":1466507446,
+    "wof:lastmodified":1510697490,
     "wof:name":"First Baptist Church Parsonage",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

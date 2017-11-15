@@ -2,14 +2,20 @@
   "id": 807008507,
   "type": "Feature",
   "properties": {
+    "addr:full":"5025 W 71st St Indianapolis IN 46268",
+    "addr:housenumber":"5025",
+    "addr:postcode":"46268",
+    "addr:street":"W 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.245596,39.881981,-86.245596,39.881981",
     "geom:latitude":39.881981,
     "geom:longitude":-86.245596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5025 W 71st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kHi0s5CUfl7VxLSrv7lbk_39.881981_-86.245596@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602931,
-    "wof:geomhash":"17e2a48c55183b16869d47c8d4470d8f",
+    "wof:geomhash":"22590e99838ed2fb629121df2d8692b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807008507,
-    "wof:lastmodified":1466503686,
+    "wof:lastmodified":1510699721,
     "wof:name":"Kroger Pharmacy",
     "wof:parent_id":420519805,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790178219,
   "type": "Feature",
   "properties": {
+    "addr:full":"671 N 36th St Lafayette IN 47905",
+    "addr:housenumber":"671",
+    "addr:postcode":"47905",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.85083,40.423957,-86.85083,40.423957",
     "geom:latitude":40.423957,
     "geom:longitude":-86.85083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"671 N 36th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J72WowKzMBH2ZJ4RFV3Ox_40.423957_-86.850830@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593759,
-    "wof:geomhash":"225e751521c4de696d86ca56cab23bfc",
+    "wof:geomhash":"01e358a2dc17116a2c05c56654dc9964",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790178219,
-    "wof:lastmodified":1466505778,
+    "wof:lastmodified":1510694212,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

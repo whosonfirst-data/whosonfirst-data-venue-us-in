@@ -2,6 +2,10 @@
   "id": 789970829,
   "type": "Feature",
   "properties": {
+    "addr:full":"13924 Co Rd 20 Middlebury IN 46540",
+    "addr:housenumber":"13924;20",
+    "addr:postcode":"46540",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789970829,
-    "wof:lastmodified":1466509905,
+    "wof:lastmodified":1472622845,
     "wof:name":"Home Energy",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807009835,
   "type": "Feature",
   "properties": {
+    "addr:full":"7940 Zionsville Rd Indianapolis IN 46268",
+    "addr:housenumber":"7940",
+    "addr:postcode":"46268",
+    "addr:street":"Zionsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.25982,39.897338,-86.25982,39.897338",
     "geom:latitude":39.897338,
     "geom:longitude":-86.25982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7940 Zionsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55NEXqDIOIt4yajEMOaJpo_39.897338_-86.259820@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602942,
-    "wof:geomhash":"a89133e3dfe99ad2409e031141ac77ca",
+    "wof:geomhash":"c5fa8daede54f65509be5904f6b1cb56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807009835,
-    "wof:lastmodified":1466503739,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",

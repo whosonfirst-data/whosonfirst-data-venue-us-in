@@ -2,9 +2,14 @@
   "id": 806564499,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 S 200 W Valparaiso IN 46385",
+    "addr:housenumber":"103;200",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104392,41.419861,-87.104392,41.419861",
     "geom:latitude":41.419861,
     "geom:longitude":-87.104392,
@@ -29,7 +34,10 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z6y5ddmmspcZayNCwRNgv_41.419861_-87.104392@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462599162,
     "wof:geomhash":"7eacd1edf8769a6574c8ba8dde21c913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806564499
+        }
+    ],
     "wof:id":806564499,
-    "wof:lastmodified":1466507060,
+    "wof:lastmodified":1492097558,
     "wof:name":"Millers Enterprises",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

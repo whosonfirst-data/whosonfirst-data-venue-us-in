@@ -2,14 +2,20 @@
   "id": 773398633,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 Nurrenbern Rd Evansville IN 47712",
+    "addr:housenumber":"6901",
+    "addr:postcode":"47712",
+    "addr:street":"Nurrenbern Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.658979,37.952026,-87.658979,37.952026",
     "geom:latitude":37.952026,
     "geom:longitude":-87.658979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6901 Nurrenbern Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85843997
     ],
+    "wof:brand_id":1125157373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IPfh5FAi1jhgiXnUq3gju_37.952026_-87.658979@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585389,
-    "wof:geomhash":"69de64bef1770dc66ca3cf9b2abb3186",
+    "wof:geomhash":"d43a1ad6b46d6089c3e677ac5a6744e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773398633,
-    "wof:lastmodified":1466510330,
+    "wof:lastmodified":1510698649,
     "wof:name":"Dr Vinyl",
     "wof:parent_id":85843997,
     "wof:placetype":"venue",

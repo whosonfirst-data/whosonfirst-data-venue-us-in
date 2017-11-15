@@ -2,9 +2,14 @@
   "id": 320022357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 W 65th Ave Merrillville IN 46410",
+    "addr:housenumber":"2525",
+    "addr:postcode":"46410",
+    "addr:street":"W 65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.367916,41.500213,-87.367916,41.500213",
     "geom:latitude":41.500213,
     "geom:longitude":-87.367916,
@@ -29,10 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85941829,
-        102087149
+        420519685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,15 @@
     "wof:geomhash":"b049578c6cdf91bbc52230608ce9e9c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102087149,
-            "locality_id":85941829,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519685,
             "venue_id":320022357
         }
     ],
     "wof:id":320022357,
-    "wof:lastmodified":1466503664,
+    "wof:lastmodified":1492091781,
     "wof:name":"Roof Tech Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 807018365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 N Main St Crown Point IN 46307",
+    "addr:housenumber":"1120",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364403,41.431499,-87.364403,41.431499",
     "geom:latitude":41.431499,
     "geom:longitude":-87.364403,
@@ -27,7 +32,15 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FcBfecqrz6d4aSKBCxtO3_41.431499_-87.364403@1303262769"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462603016,
     "wof:geomhash":"6a6f5c3eab16442b407a56b0f9c873bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807018365
+        }
+    ],
     "wof:id":807018365,
-    "wof:lastmodified":1466504080,
+    "wof:lastmodified":1492094838,
     "wof:name":"Wheeler Chuck Take Home Restaurants",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

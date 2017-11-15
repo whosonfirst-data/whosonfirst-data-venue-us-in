@@ -2,14 +2,20 @@
   "id": 789881511,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Jackson St Columbus IN 47201",
+    "addr:housenumber":"1033",
+    "addr:postcode":"47201",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.92264,39.208734,-85.92264,39.208734",
     "geom:latitude":39.208734,
     "geom:longitude":-85.92264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1033 Jackson St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iD0e5eJIT4e2Npf014ItT_39.208734_-85.922640@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591301,
-    "wof:geomhash":"8923571714354bbe363c989e77cbdcc5",
+    "wof:geomhash":"91fdcf58c355aad04931099b79b2fab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789881511,
-    "wof:lastmodified":1466507336,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

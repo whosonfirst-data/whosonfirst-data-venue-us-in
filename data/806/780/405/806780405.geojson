@@ -2,9 +2,14 @@
   "id": 806780405,
   "type": "Feature",
   "properties": {
+    "addr:full":"12626 W 100 N Medaryville IN 47957",
+    "addr:housenumber":"12626",
+    "addr:postcode":"47957",
+    "addr:street":"W 100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.851942,41.070589,-86.851942,41.070589",
     "geom:latitude":41.070589,
     "geom:longitude":-86.851942,
@@ -23,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P9LV1gLorzarN0iyiphyG_41.070589_-86.851942@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462601018,
     "wof:geomhash":"398a6144a5f1411dfdc0a0d3388b6593",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":806780405
+        }
+    ],
     "wof:id":806780405,
-    "wof:lastmodified":1466513980,
+    "wof:lastmodified":1492093283,
     "wof:name":"Howard Cords",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

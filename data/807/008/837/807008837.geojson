@@ -2,14 +2,20 @@
   "id": 807008837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 Lake Circle Dr Indianapolis IN 46268",
+    "addr:housenumber":"2433",
+    "addr:postcode":"46268",
+    "addr:street":"Lake Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.203697,39.9128,-86.203697,39.9128",
     "geom:latitude":39.9128,
     "geom:longitude":-86.203697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2433 Lake Circle Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C2VTMyHVHOIknSR5qoR5B_39.912800_-86.203697@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602933,
-    "wof:geomhash":"b451de8db872fb1cd3beaae97c166a45",
+    "wof:geomhash":"8a3a5dcd8214e4dbaba2bdb4bb6899c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807008837,
-    "wof:lastmodified":1466503698,
+    "wof:lastmodified":1510696945,
     "wof:name":"Keybank",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",

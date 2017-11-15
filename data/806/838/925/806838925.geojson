@@ -2,14 +2,20 @@
   "id": 806838925,
   "type": "Feature",
   "properties": {
+    "addr:full":"14550 Clay Terrace Blvd Carmel IN 46032",
+    "addr:housenumber":"14550",
+    "addr:postcode":"46032",
+    "addr:street":"Clay Terrace Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.130104,39.999199,-86.130104,39.999199",
     "geom:latitude":39.999199,
     "geom:longitude":-86.130104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14550 Clay Terrace Blvd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125159329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vnYXHBeAzMFGZnx81XLx5_39.999273_-86.130023@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601501,
-    "wof:geomhash":"c4fd50c74b7f360ec768408567e3feaa",
+    "wof:geomhash":"34ee639b84c759f99108845d7c03b198",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":806838925,
-    "wof:lastmodified":1466515985,
+    "wof:lastmodified":1510697463,
     "wof:name":"Paradise Bakery & Cafe",
     "wof:parent_id":85896545,
     "wof:placetype":"venue",

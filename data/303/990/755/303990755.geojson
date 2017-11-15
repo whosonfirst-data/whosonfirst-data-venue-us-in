@@ -2,14 +2,20 @@
   "id": 303990755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 N Broadway Ave Muncie IN 47303",
+    "addr:housenumber":"3310",
+    "addr:postcode":"47303",
+    "addr:street":"N Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.372875,40.219956,-85.372875,40.219956",
     "geom:latitude":40.219956,
     "geom:longitude":-85.372875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3310 N Broadway Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85941463,
         102087155
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D7FsMrvtETzWEkoug4ndS_40.219956_-85.372875@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac3e49afb73cf257e1c8ff597f514fdc",
+    "wof:geomhash":"0daeec866913bda0c4e29987161c2df0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303990755,
-    "wof:lastmodified":1466503371,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

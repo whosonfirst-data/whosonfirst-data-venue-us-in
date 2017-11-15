@@ -2,9 +2,14 @@
   "id": 353753911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 W 19th Pl Gary IN 46404",
+    "addr:housenumber":"2545",
+    "addr:postcode":"46404",
+    "addr:street":"W 19Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.372675,41.583268,-87.372675,41.583268",
     "geom:latitude":41.583268,
     "geom:longitude":-87.372675,
@@ -26,11 +31,13 @@
     "sg:website":"www.garycsc.k12.in.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85806281,
+        102191575,
+        404501857,
         85633793,
         85941813,
         102087149,
-        85806281
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"71b2690e4a115a0a9eda82bf9461d451",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941813,
             "neighbourhood_id":85806281,
             "region_id":85688709,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":353753911,
-    "wof:lastmodified":1466503250,
+    "wof:lastmodified":1492090434,
     "wof:name":"Ernie Pyle Elementary School",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",

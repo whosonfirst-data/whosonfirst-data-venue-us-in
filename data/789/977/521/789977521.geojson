@@ -2,9 +2,14 @@
   "id": 789977521,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 N 250 W Valparaiso IN 46385",
+    "addr:housenumber":"218",
+    "addr:postcode":"46385",
+    "addr:street":"N 250 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.114275,41.466054,-87.114275,41.466054",
     "geom:latitude":41.466054,
     "geom:longitude":-87.114275,
@@ -29,7 +34,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xX5rXc1epHJsKWunLWkaf_41.466054_-87.114275@1294102998"
@@ -37,9 +50,20 @@
     "wof:country":"US",
     "wof:created":1462592148,
     "wof:geomhash":"bb93924a0747d2f8beed2c7097ee1af6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":789977521
+        }
+    ],
     "wof:id":789977521,
-    "wof:lastmodified":1466509687,
+    "wof:lastmodified":1492095861,
     "wof:name":"Dupont",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

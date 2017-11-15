@@ -2,14 +2,20 @@
   "id": 806811407,
   "type": "Feature",
   "properties": {
+    "addr:full":"7435 N Keystone Ave Indianapolis IN 46240",
+    "addr:housenumber":"7435",
+    "addr:postcode":"46240",
+    "addr:street":"N Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.120945,39.889752,-86.120945,39.889752",
     "geom:latitude":39.889752,
     "geom:longitude":-86.120945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7435 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pbWnlMLU96ow51tQM5h8N_39.889752_-86.120945@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601275,
-    "wof:geomhash":"98e07fd6db8a4c833a3df027ea17113e",
+    "wof:geomhash":"d162cee7e2e2ebfc2ec3534aff1abc69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806811407,
-    "wof:lastmodified":1466515153,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":420519751,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807010819,
   "type": "Feature",
   "properties": {
+    "addr:full":"7555 Woodland Dr Indianapolis IN 46278",
+    "addr:housenumber":"7555",
+    "addr:postcode":"46278",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.266967,39.887583,-86.266967,39.887583",
     "geom:latitude":39.887583,
     "geom:longitude":-86.266967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7555 Woodland Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fu6hg65rgzKr65yj2B6uA_39.887583_-86.266967@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602950,
-    "wof:geomhash":"4093b8fcf732bbc0306c3f52ee87c10e",
+    "wof:geomhash":"62d28bc3cfb6113a5094e1f8dc306f45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807010819,
-    "wof:lastmodified":1466503780,
+    "wof:lastmodified":1510696914,
     "wof:name":"Hat World",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",

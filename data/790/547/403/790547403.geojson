@@ -2,9 +2,14 @@
   "id": 790547403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 N McKinley Ave Rensselaer IN 47978",
+    "addr:housenumber":"1250",
+    "addr:postcode":"47978",
+    "addr:street":"N Mckinley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.151316,40.947302,-87.151316,40.947302",
     "geom:latitude":40.947302,
     "geom:longitude":-87.151316,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.midwaynet.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5euFb3xTDzDvMaIY7XWeSU_40.947302_-87.151316@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462596761,
     "wof:geomhash":"365bf3242c8cdb5b12e1b5915e54659a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790547403
+        }
+    ],
     "wof:id":790547403,
-    "wof:lastmodified":1466513040,
+    "wof:lastmodified":1492090927,
     "wof:name":"Midway Electronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

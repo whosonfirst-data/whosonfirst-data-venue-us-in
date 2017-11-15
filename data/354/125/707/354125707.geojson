@@ -2,9 +2,14 @@
   "id": 354125707,
   "type": "Feature",
   "properties": {
+    "addr:full":"1842 US Hwy 421 Francesville IN 47946",
+    "addr:housenumber":"1842",
+    "addr:postcode":"47946",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891872,41.041564,-86.891872,41.041564",
     "geom:latitude":41.041564,
     "geom:longitude":-86.891872,
@@ -25,8 +30,11 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
         85633793,
-        85688709
+        102086331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +44,16 @@
     "wof:geomhash":"16ad19a78611d578b10de486897084fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086331,
+            "localadmin_id":404501675,
             "region_id":85688709,
             "venue_id":354125707
         }
     ],
     "wof:id":354125707,
-    "wof:lastmodified":1466503028,
+    "wof:lastmodified":1492091606,
     "wof:name":"West Central Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

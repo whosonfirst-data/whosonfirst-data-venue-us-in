@@ -2,9 +2,14 @@
   "id": 773593063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 S State Rd 39 North Judson IN 46366",
+    "addr:housenumber":"2835;39",
+    "addr:postcode":"in 46366",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.736884,41.261479,-86.736884,41.261479",
     "geom:latitude":41.261479,
     "geom:longitude":-86.736884,
@@ -27,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501491,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QSK0IGyhqkogzyGLZaMKw_41.261479_-86.736884@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462586896,
     "wof:geomhash":"d446a4908e65753d50d3c09e47a823d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501491,
+            "region_id":85688709,
+            "venue_id":773593063
+        }
+    ],
     "wof:id":773593063,
-    "wof:lastmodified":1466516084,
+    "wof:lastmodified":1492091654,
     "wof:name":"Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

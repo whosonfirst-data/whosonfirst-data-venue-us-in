@@ -2,14 +2,20 @@
   "id": 773172677,
   "type": "Feature",
   "properties": {
+    "addr:full":"3015 E State Blvd Fort Wayne IN 46805",
+    "addr:housenumber":"3015",
+    "addr:postcode":"46805",
+    "addr:street":"E State Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.098734,41.097415,-85.098734,41.097415",
     "geom:latitude":41.097415,
     "geom:longitude":-85.098734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3015 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CmwoZBhxtjsJyp5wOd98o_41.097415_-85.098734@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583685,
-    "wof:geomhash":"913c34933d9da31c4d716074290c52a0",
+    "wof:geomhash":"66a8757760ce4b6966986984cc968761",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773172677,
-    "wof:lastmodified":1466505952,
+    "wof:lastmodified":1510696910,
     "wof:name":"Frank's Barber Shop",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",

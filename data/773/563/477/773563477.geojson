@@ -2,9 +2,14 @@
   "id": 773563477,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 S Heaton St Knox IN 46534",
+    "addr:housenumber":"601",
+    "addr:postcode":"46534",
+    "addr:street":"S Heaton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.620685,41.292145,-86.620685,41.292145",
     "geom:latitude":41.292145,
     "geom:longitude":-86.620685,
@@ -24,7 +29,14 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        85941553,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KdUoHTugpsTph03CVKqqH_41.292145_-86.620685@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462586677,
     "wof:geomhash":"06f6c0e0542438dee9606ff70d3ef45f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "locality_id":85941553,
+            "region_id":85688709,
+            "venue_id":773563477
+        }
+    ],
     "wof:id":773563477,
-    "wof:lastmodified":1466515615,
+    "wof:lastmodified":1492091654,
     "wof:name":"Preferred Group Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

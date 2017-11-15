@@ -2,9 +2,14 @@
   "id": 353696079,
   "type": "Feature",
   "properties": {
+    "addr:full":"5012 Lemans Dr Indianapolis IN 46205",
+    "addr:housenumber":"5012",
+    "addr:postcode":"46205",
+    "addr:street":"Lemans Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.137355,39.84426,-86.137355,39.84426",
     "geom:latitude":39.84426,
     "geom:longitude":-86.137355,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870655,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870655
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"0de9a093e8a5c1a7e3235176729fe91b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870655,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":353696079,
-    "wof:lastmodified":1466503184,
+    "wof:lastmodified":1491906622,
     "wof:name":"Jay's Fashions",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

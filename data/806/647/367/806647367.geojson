@@ -2,9 +2,14 @@
   "id": 806647367,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Michigan St Indianapolis IN 46204",
+    "addr:housenumber":"101",
+    "addr:postcode":"46204",
+    "addr:street":"E Michigan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.155104,39.774042,-86.155104,39.774042",
     "geom:latitude":39.774042,
     "geom:longitude":-86.155104,
@@ -34,7 +39,8 @@
         85633793,
         85942569,
         102087201,
-        85688709
+        85688709,
+        85866951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85891147,
             "region_id":85688709,
             "venue_id":806647367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85866951,
+            "region_id":85688709,
+            "venue_id":806647367
         }
     ],
     "wof:id":806647367,
-    "wof:lastmodified":1466508859,
+    "wof:lastmodified":1491894454,
     "wof:name":"Fileengine Servers",
-    "wof:parent_id":85891147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

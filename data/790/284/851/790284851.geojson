@@ -2,9 +2,14 @@
   "id": 790284851,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 W Seymour St Kentland IN 47951",
+    "addr:housenumber":"306",
+    "addr:postcode":"47951",
+    "addr:street":"W Seymour St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.457037,40.768471,-87.457037,40.768471",
     "geom:latitude":40.768471,
     "geom:longitude":-87.457037,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20ronKy138IDp2UAkC7o38_40.768471_-87.457037@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462594646,
     "wof:geomhash":"5bcf41a176a1e9abb5c91b21c9867354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790284851
+        }
+    ],
     "wof:id":790284851,
-    "wof:lastmodified":1466506660,
+    "wof:lastmodified":1492092204,
     "wof:name":"El Bravo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

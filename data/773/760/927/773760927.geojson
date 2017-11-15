@@ -2,9 +2,14 @@
   "id": 773760927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Capitol Rd Valparaiso IN 46385",
+    "addr:housenumber":"1",
+    "addr:postcode":"46385",
+    "addr:street":"Capitol Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.127754,41.542032,-87.127754,41.542032",
     "geom:latitude":41.542032,
     "geom:longitude":-87.127754,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4upqVWValEQQzEE15EfoHI_41.542032_-87.127754@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588177,
     "wof:geomhash":"9243a966ac76702f1e053071b7144fbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773760927
+        }
+    ],
     "wof:id":773760927,
-    "wof:lastmodified":1466518466,
+    "wof:lastmodified":1492097509,
     "wof:name":"Targgart Enterprises",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

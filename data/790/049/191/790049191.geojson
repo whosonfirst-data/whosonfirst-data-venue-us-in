@@ -2,9 +2,14 @@
   "id": 790049191,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 Waite St Merrillville IN 46410",
+    "addr:housenumber":"5901",
+    "addr:postcode":"46410",
+    "addr:street":"Waite St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.375938,41.510082,-87.375938,41.510082",
     "geom:latitude":41.510082,
     "geom:longitude":-87.375938,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RQnVcgspPc2tJwYGLJzFG_41.510082_-87.375938@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592712,
     "wof:geomhash":"bed86a81190ff9166a8131a06155d5a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790049191
+        }
+    ],
     "wof:id":790049191,
-    "wof:lastmodified":1466504367,
+    "wof:lastmodified":1492103068,
     "wof:name":"Miller Elementary School",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

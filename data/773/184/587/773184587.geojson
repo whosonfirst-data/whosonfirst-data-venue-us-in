@@ -2,14 +2,20 @@
   "id": 773184587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Central Ave Anderson IN 46016",
+    "addr:housenumber":"1002",
+    "addr:postcode":"46016",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.676795,40.105131,-85.676795,40.105131",
     "geom:latitude":40.105131,
     "geom:longitude":-85.676795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1002 Central Ave",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q4xHoHkYbqWUUSl9nteiI_40.105131_-85.676795@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583796,
-    "wof:geomhash":"5755f97314b1a3d4a749685a04d06c38",
+    "wof:geomhash":"c5e136542b800d5d4684e94d54db96f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773184587,
-    "wof:lastmodified":1466506165,
+    "wof:lastmodified":1510693872,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806804003,
   "type": "Feature",
   "properties": {
+    "addr:full":"10299 E US-36 Avon IN 46123",
+    "addr:housenumber":"10299",
+    "addr:postcode":"46123",
+    "addr:street":"E Us-36",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.340238,39.763711,-86.340238,39.763711",
     "geom:latitude":39.763711,
     "geom:longitude":-86.340238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10299 E US-36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125151697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nsgqk6dOyal9FktcT667Z_39.763711_-86.340238@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601220,
-    "wof:geomhash":"e7961d6877fe14b03a48d7f201d21099",
+    "wof:geomhash":"8dade5eb284b9df6ced655130c8fe1f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806804003,
-    "wof:lastmodified":1466515312,
+    "wof:lastmodified":1510693896,
     "wof:name":"On The Border",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

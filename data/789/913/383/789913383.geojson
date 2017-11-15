@@ -2,14 +2,20 @@
   "id": 789913383,
   "type": "Feature",
   "properties": {
+    "addr:full":"6608 Olive Branch Ln Indianapolis IN 46237",
+    "addr:housenumber":"6608",
+    "addr:postcode":"46237",
+    "addr:street":"Olive Branch Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.052171,39.684528,-86.052171,39.684528",
     "geom:latitude":39.684528,
     "geom:longitude":-86.052171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6608 Olive Branch Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AJ7qeh8C2jniJHKEN9BPQ_39.684528_-86.052171@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591568,
-    "wof:geomhash":"2c428deaaad47714284537d47bbf7f0e",
+    "wof:geomhash":"e648d9a3471e5aa597f6f977a8a06765",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789913383,
-    "wof:lastmodified":1466507674,
+    "wof:lastmodified":1510602598,
     "wof:name":"Ryland Homes",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",

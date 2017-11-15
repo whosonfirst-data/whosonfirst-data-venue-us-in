@@ -2,9 +2,14 @@
   "id": 790040105,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"800",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826003,41.721911,-86.826003,41.721911",
     "geom:latitude":41.721911,
     "geom:longitude":-86.826003,
@@ -30,7 +35,10 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q6rnp78iLOJvlXYHF2yPv_41.721911_-86.826003@1294102998"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462592645,
     "wof:geomhash":"e36fba9bcf27089ccbb17e2c9df0ca91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790040105
+        }
+    ],
     "wof:id":790040105,
-    "wof:lastmodified":1466504312,
+    "wof:lastmodified":1492101256,
     "wof:name":"Kahn's Sewer Svc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

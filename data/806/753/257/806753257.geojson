@@ -2,9 +2,14 @@
   "id": 806753257,
   "type": "Feature",
   "properties": {
+    "addr:full":"2862 N 600 W Morocco IN 47963",
+    "addr:housenumber":"2862",
+    "addr:postcode":"47963",
+    "addr:street":"N 600 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.507126,41.041603,-87.507126,41.041603",
     "geom:latitude":41.041603,
     "geom:longitude":-87.507126,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500271,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_330iH4504GiTI1eOMpnChM_41.041603_-87.507126@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600790,
     "wof:geomhash":"e881763dd26457d1ec67383aae88cb8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500271,
+            "region_id":85688709,
+            "venue_id":806753257
+        }
+    ],
     "wof:id":806753257,
-    "wof:lastmodified":1466512596,
+    "wof:lastmodified":1492093655,
     "wof:name":"Donald Jarvis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

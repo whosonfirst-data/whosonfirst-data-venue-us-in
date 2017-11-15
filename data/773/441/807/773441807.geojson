@@ -2,9 +2,14 @@
   "id": 773441807,
   "type": "Feature",
   "properties": {
+    "addr:full":"595 Keldon Ct Valparaiso IN 46385",
+    "addr:housenumber":"595",
+    "addr:postcode":"46385",
+    "addr:street":"Keldon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.082366,41.518339,-87.082366,41.518339",
     "geom:latitude":41.518339,
     "geom:longitude":-87.082366,
@@ -27,7 +32,10 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LI9hImzmoA6o3cV1E5uJ0_41.518339_-87.082366@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585772,
     "wof:geomhash":"d087813f2d176bf1a60b8a3370bd0cd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773441807
+        }
+    ],
     "wof:id":773441807,
-    "wof:lastmodified":1466511051,
+    "wof:lastmodified":1492100622,
     "wof:name":"AER Appraisal Group",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789664225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 Scott St Lafayette IN 47904",
+    "addr:housenumber":"1915",
+    "addr:postcode":"47904",
+    "addr:street":"Scott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.869949,40.416825,-86.869949,40.416825",
     "geom:latitude":40.416825,
     "geom:longitude":-86.869949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 Scott St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sw8qtCPRFyImIUO8sDYnu_40.416825_-86.869949@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589586,
-    "wof:geomhash":"9c263bae359c4d743b727602f067febd",
+    "wof:geomhash":"20ab0f80b57970057fbf0522aba412d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789664225,
-    "wof:lastmodified":1466504884,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

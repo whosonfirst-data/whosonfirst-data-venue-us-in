@@ -2,6 +2,10 @@
   "id": 789942833,
   "type": "Feature",
   "properties": {
+    "addr:full":"15734 Co Rd 50 Syracuse IN 46567",
+    "addr:housenumber":"15734;50",
+    "addr:postcode":"46567",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789942833,
-    "wof:lastmodified":1466508423,
+    "wof:lastmodified":1472622795,
     "wof:name":"CCS Drywall",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

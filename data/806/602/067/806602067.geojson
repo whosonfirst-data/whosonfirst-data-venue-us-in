@@ -2,9 +2,14 @@
   "id": 806602067,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Kincraig Ct Valparaiso IN 46385",
+    "addr:housenumber":"31",
+    "addr:postcode":"46385",
+    "addr:street":"Kincraig Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.118,41.438812,-87.118,41.438812",
     "geom:latitude":41.438812,
     "geom:longitude":-87.118,
@@ -27,7 +32,10 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BiH7yrehLODKY1ORJR3w8_41.438812_-87.118000@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599507,
     "wof:geomhash":"eef9b4a1f97ac980fcc57d510ae98433",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806602067
+        }
+    ],
     "wof:id":806602067,
-    "wof:lastmodified":1466507425,
+    "wof:lastmodified":1492103142,
     "wof:name":"Talon Mortgage",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

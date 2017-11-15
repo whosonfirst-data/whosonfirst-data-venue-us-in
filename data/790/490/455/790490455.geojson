@@ -2,9 +2,14 @@
   "id": 790490455,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Alene Dr Valparaiso IN 46385",
+    "addr:housenumber":"12",
+    "addr:postcode":"46385",
+    "addr:street":"Alene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107387,41.432535,-87.107387,41.432535",
     "geom:latitude":41.432535,
     "geom:longitude":-87.107387,
@@ -28,7 +33,10 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bfEG8NBXDzWISiDQFCAbv_41.432535_-87.107387@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596293,
     "wof:geomhash":"664bb2c78583a5705c9eef4929e40b40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790490455
+        }
+    ],
     "wof:id":790490455,
-    "wof:lastmodified":1466511811,
+    "wof:lastmodified":1492097557,
     "wof:name":"Lights & Things",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773001413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2626 Eastbrook Plz Columbus IN 47201",
+    "addr:housenumber":"2626",
+    "addr:postcode":"47201",
+    "addr:street":"Eastbrook Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.894757,39.224081,-85.894757,39.224081",
     "geom:latitude":39.224081,
     "geom:longitude":-85.894757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2626 Eastbrook Plz",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125155755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f7gWHwCdJhW5OACLpyYnA_39.224081_-85.894757@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582151,
-    "wof:geomhash":"ea75f64df3833ca076649ce65962c06b",
+    "wof:geomhash":"7e0157e542b44872ba4f6b2005caa91d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773001413,
-    "wof:lastmodified":1466503038,
+    "wof:lastmodified":1510613240,
     "wof:name":"Gingerbread House",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

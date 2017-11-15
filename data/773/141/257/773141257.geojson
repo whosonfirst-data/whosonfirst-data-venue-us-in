@@ -2,9 +2,14 @@
   "id": 773141257,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Norbeh Dr Hebron IN 46341",
+    "addr:housenumber":"701",
+    "addr:postcode":"46341",
+    "addr:street":"Norbeh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.192072,41.322219,-87.192072,41.322219",
     "geom:latitude":41.322219,
     "geom:longitude":-87.192072,
@@ -28,7 +33,14 @@
         "customizing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        85942381,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SuShyqqf5TBHb0ugQR3iu_41.322219_-87.192072@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462583444,
     "wof:geomhash":"26fe4f9c3e9d417543c3093f834eaa13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "locality_id":85942381,
+            "region_id":85688709,
+            "venue_id":773141257
+        }
+    ],
     "wof:id":773141257,
-    "wof:lastmodified":1466505829,
+    "wof:lastmodified":1492104791,
     "wof:name":"Dave's Roarin Rod Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

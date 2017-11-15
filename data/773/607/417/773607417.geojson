@@ -2,9 +2,14 @@
   "id": 773607417,
   "type": "Feature",
   "properties": {
+    "addr:full":"11342 N 500 E Demotte IN 46310",
+    "addr:housenumber":"11342",
+    "addr:postcode":"46310",
+    "addr:street":"N 500 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.295316,41.160195,-87.295316,41.160195",
     "geom:latitude":41.160195,
     "geom:longitude":-87.295316,
@@ -29,7 +34,14 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0evxySMufgAXkX7gtsyJmX_41.160195_-87.295316@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462586991,
     "wof:geomhash":"3eeebcf50e3aff8a684bcffa864caa91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773607417
+        }
+    ],
     "wof:id":773607417,
-    "wof:lastmodified":1466516324,
+    "wof:lastmodified":1492097216,
     "wof:name":"Allen Health Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

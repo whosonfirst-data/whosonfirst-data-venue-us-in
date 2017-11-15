@@ -2,14 +2,20 @@
   "id": 806745409,
   "type": "Feature",
   "properties": {
+    "addr:full":"5128 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5128",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.084,39.904999,-86.084,39.904999",
     "geom:latitude":39.904999,
     "geom:longitude":-86.084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5128 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dTMHUOYEdWr94IbiuJ0YQ_39.905161_-86.084439@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600726,
-    "wof:geomhash":"000f593368d112bfda7299e2d1cfa78a",
+    "wof:geomhash":"7e11d5cbcea45e04a2b3958be0d5f112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806745409,
-    "wof:lastmodified":1466512688,
+    "wof:lastmodified":1510695963,
     "wof:name":"Calico Corners",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806980793,
   "type": "Feature",
   "properties": {
+    "addr:full":"6505 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"6505",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.055044,39.905094,-86.055044,39.905094",
     "geom:latitude":39.905094,
     "geom:longitude":-86.055044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6505 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QeiKUXYWlvJP8DQ6VHos8_39.905094_-86.055044@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602696,
-    "wof:geomhash":"c7252e4953c6abc2011d7e034bddfa99",
+    "wof:geomhash":"6291119173d3cb3e0054bc2dbad5473a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806980793,
-    "wof:lastmodified":1466518818,
+    "wof:lastmodified":1510693914,
     "wof:name":"Always AAA Locksmith",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

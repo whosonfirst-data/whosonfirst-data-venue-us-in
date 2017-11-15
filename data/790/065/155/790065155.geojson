@@ -2,9 +2,14 @@
   "id": 790065155,
   "type": "Feature",
   "properties": {
+    "addr:full":"3981 E 82nd St Indianapolis IN 46240",
+    "addr:housenumber":"3981",
+    "addr:postcode":"46240",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.10081,39.908606,-86.10081,39.908606",
     "geom:latitude":39.908606,
     "geom:longitude":-86.10081,
@@ -26,13 +31,14 @@
     "sg:website":"www.expressionsfurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870669,
+        85802863,
         102191575,
         404502029,
         85633793,
         85942569,
         102087201,
-        85688709
+        85688709,
+        85870669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,25 @@
             "county_id":102087201,
             "localadmin_id":404502029,
             "locality_id":85942569,
+            "neighbourhood_id":85802863,
+            "region_id":85688709,
+            "venue_id":790065155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
             "neighbourhood_id":85870669,
             "region_id":85688709,
             "venue_id":790065155
         }
     ],
     "wof:id":790065155,
-    "wof:lastmodified":1466504431,
+    "wof:lastmodified":1491885532,
     "wof:name":"Expressions Custom Furniture",
-    "wof:parent_id":85870669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

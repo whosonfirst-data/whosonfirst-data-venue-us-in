@@ -2,14 +2,20 @@
   "id": 806762305,
   "type": "Feature",
   "properties": {
+    "addr:full":"5955 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5955",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.065697,39.9053,-86.065697,39.9053",
     "geom:latitude":39.9053,
     "geom:longitude":-86.065697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5955 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wi13YTgEcctqOEJeGeUWp_39.905181_-86.066064@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600861,
-    "wof:geomhash":"19e5eac54e69c57a839964f6f26f9dbc",
+    "wof:geomhash":"e92feba0fb25050f20d232fdb42cf514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806762305,
-    "wof:lastmodified":1466512985,
+    "wof:lastmodified":1510604929,
     "wof:name":"Picture Perfect",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

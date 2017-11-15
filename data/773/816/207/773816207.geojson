@@ -2,9 +2,14 @@
   "id": 773816207,
   "type": "Feature",
   "properties": {
+    "addr:full":"5305 W Main St Lowell IN 46356",
+    "addr:housenumber":"5305",
+    "addr:postcode":"46356",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3973,41.326122,-87.3973,41.326122",
     "geom:latitude":41.326122,
     "geom:longitude":-87.3973,
@@ -28,7 +33,13 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oQdbtdb8KwJyAei33ayH8_41.326122_-87.397300@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588600,
     "wof:geomhash":"21cb193e9dfd7c3c704c4cb1f94b3d9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "region_id":85688709,
+            "venue_id":773816207
+        }
+    ],
     "wof:id":773816207,
-    "wof:lastmodified":1466519114,
+    "wof:lastmodified":1492096179,
     "wof:name":"Elmer J Glade Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

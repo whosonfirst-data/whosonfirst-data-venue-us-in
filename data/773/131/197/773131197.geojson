@@ -2,14 +2,20 @@
   "id": 773131197,
   "type": "Feature",
   "properties": {
+    "addr:full":"3538 Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"3538",
+    "addr:postcode":"46383",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.041179,41.500914,-87.041179,41.500914",
     "geom:latitude":41.500914,
     "geom:longitude":-87.041179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3538 Calumet Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125156063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DwcFxycQ5WTKm0ZUUkHSB_41.500914_-87.041179@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583367,
-    "wof:geomhash":"1b39697bcfaf1d50e38ac7e099f15f92",
+    "wof:geomhash":"35932258e353e64abb545d4d369873da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773131197,
-    "wof:lastmodified":1466505755,
+    "wof:lastmodified":1510696902,
     "wof:name":"Crown Cleaners",
     "wof:parent_id":85891199,
     "wof:placetype":"venue",

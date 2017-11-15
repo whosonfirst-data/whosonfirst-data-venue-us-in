@@ -2,14 +2,20 @@
   "id": 789671095,
   "type": "Feature",
   "properties": {
+    "addr:full":"3458 Stellhorn Rd Fort Wayne IN 46815",
+    "addr:housenumber":"3458",
+    "addr:postcode":"46815",
+    "addr:street":"Stellhorn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.097871,41.119185,-85.097871,41.119185",
     "geom:latitude":41.119185,
     "geom:longitude":-85.097871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3458 Stellhorn Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cm2GEgVZoBXeJaRukOswq_41.119185_-85.097871@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589634,
-    "wof:geomhash":"0359b9c4ab9bbc35e30b18587d591606",
+    "wof:geomhash":"8a388ca688732ce43acae30c46f3df01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789671095,
-    "wof:lastmodified":1466505086,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":420519405,
     "wof:placetype":"venue",

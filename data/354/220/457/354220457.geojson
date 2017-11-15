@@ -2,14 +2,20 @@
   "id": 354220457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 E 10th St Jeffersonville IN 47130",
+    "addr:housenumber":"1401",
+    "addr:postcode":"47130",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.729649,38.288021,-85.729649,38.288021",
     "geom:latitude":38.288021,
     "geom:longitude":-85.729649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086421,
         85842775
     ],
+    "wof:brand_id":1125155137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72w9GWjDHkurs4fTTyvuzM_38.288021_-85.729649@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"60641d13ebb624bd4972a83a8297a9e9",
+    "wof:geomhash":"c69af5695ae936dd48a0ab09140da55c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":354220457,
-    "wof:lastmodified":1466503168,
+    "wof:lastmodified":1510699325,
     "wof:name":"Guardian Auto Glass",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",

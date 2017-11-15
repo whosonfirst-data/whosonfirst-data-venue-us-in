@@ -2,14 +2,20 @@
   "id": 790324963,
   "type": "Feature",
   "properties": {
+    "addr:full":"6121 Plantation Ln Fort Wayne IN 46815",
+    "addr:housenumber":"6121",
+    "addr:postcode":"46815",
+    "addr:street":"Plantation Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.062468,41.119365,-85.062468,41.119365",
     "geom:latitude":41.119365,
     "geom:longitude":-85.062468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6121 Plantation Ln",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":1125155159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iQjdv99mSpNKT8czvyD1c_41.119365_-85.062468@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594955,
-    "wof:geomhash":"93c4771fb12aee72d3d3def0bece2f72",
+    "wof:geomhash":"67dfb2728705c7987d6353815f1928e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790324963,
-    "wof:lastmodified":1466507188,
+    "wof:lastmodified":1510697624,
     "wof:name":"Master Cleaners",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773668933,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 S 275 W Valparaiso IN 46385",
+    "addr:housenumber":"90;275",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.119151,41.42183,-87.119151,41.42183",
     "geom:latitude":41.42183,
     "geom:longitude":-87.119151,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dqBDPRW5UrenheuUczvHx_41.421830_-87.119151@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462587459,
     "wof:geomhash":"f4ae8a1958add4c348960a9243969591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773668933
+        }
+    ],
     "wof:id":773668933,
-    "wof:lastmodified":1466517402,
+    "wof:lastmodified":1492103081,
     "wof:name":"Buju Enterprises Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

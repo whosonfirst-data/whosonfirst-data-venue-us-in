@@ -2,14 +2,20 @@
   "id": 773686633,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Millersburg Rd Evansville IN 47725",
+    "addr:housenumber":"",
+    "addr:postcode":"4100;47725",
+    "addr:street":"Millersburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.503968,38.049794,-87.503968,38.049794",
     "geom:latitude":38.049794,
     "geom:longitude":-87.503968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 Millersburg Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85877283,
         102087105
     ],
+    "wof:brand_id":1125157575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WEK02OEWZx2rPj61zxkNW_38.049794_-87.503968@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587591,
-    "wof:geomhash":"c16a0e7459edca047cefcb0e9504e0e2",
+    "wof:geomhash":"91f65d0c862c4db5600078a497a48e19",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773686633,
-    "wof:lastmodified":1466517461,
+    "wof:lastmodified":1510699458,
     "wof:name":"Christian Fellowship Church",
     "wof:parent_id":85877283,
     "wof:placetype":"venue",

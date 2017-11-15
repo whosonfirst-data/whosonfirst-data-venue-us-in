@@ -2,9 +2,14 @@
   "id": 806477007,
   "type": "Feature",
   "properties": {
+    "addr:full":"5321 E Honor Ave Demotte IN 46310",
+    "addr:housenumber":"5321",
+    "addr:postcode":"46310",
+    "addr:street":"E Honor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.289216,41.139846,-87.289216,41.139846",
     "geom:latitude":41.139846,
     "geom:longitude":-87.289216,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RqUjQXgJb6v4OlMII6Jqq_41.139846_-87.289216@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462598437,
     "wof:geomhash":"482b7ea76ddc70d75a2caef3a7620fe1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":806477007
+        }
+    ],
     "wof:id":806477007,
-    "wof:lastmodified":1466505712,
+    "wof:lastmodified":1492105021,
     "wof:name":"K V Construction Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790148415,
   "type": "Feature",
   "properties": {
+    "addr:full":"5270 Bayview Dr Syracuse IN 46567",
+    "addr:housenumber":"5270",
+    "addr:postcode":"46567",
+    "addr:street":"Bayview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.744451,41.40375,-85.744451,41.40375",
     "geom:latitude":41.40375,
     "geom:longitude":-85.744451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5270 Bayview Dr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125156165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aE691NFPSBUZajHskN1Sj_41.403750_-85.744451@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593495,
-    "wof:geomhash":"b4c6c2e6051890d083d105e88bc11f80",
+    "wof:geomhash":"fb04d56e266971353b68490807cd4f35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790148415,
-    "wof:lastmodified":1466505381,
+    "wof:lastmodified":1510613144,
     "wof:name":"Vital Signs",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

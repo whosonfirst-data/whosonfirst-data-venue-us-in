@@ -2,6 +2,10 @@
   "id": 790394257,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 N Co Rd 650 W Yorktown IN 47396",
+    "addr:housenumber":"625;650",
+    "addr:postcode":"47396",
+    "addr:street":"N Co Rd;W Yorktown",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":790394257,
-    "wof:lastmodified":1466508168,
+    "wof:lastmodified":1472622817,
     "wof:name":"Abel Consulting",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

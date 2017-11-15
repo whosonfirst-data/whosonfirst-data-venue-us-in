@@ -2,14 +2,20 @@
   "id": 806985175,
   "type": "Feature",
   "properties": {
+    "addr:full":"Located in Castleton Square Mall 6020 East 82nd Street Suite LL02 Indianapolis IN 46250",
+    "addr:housenumber":"6020",
+    "addr:postcode":"46250",
+    "addr:street":"In Castleton Square;East 82Nd Street Suite Ll02",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.065236,39.906433,-86.065236,39.906433",
     "geom:latitude":39.906433,
     "geom:longitude":-86.065236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Located in Castleton Square Mall 6020 East 82nd Street Suite LL02",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KUGLEUVhmU93105C0nb5F_39.906433_-86.065236@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602738,
-    "wof:geomhash":"72716a9ace64af62e518c3f82b7bf9a0",
+    "wof:geomhash":"4ddca7b56ff13f3dfab9a8979bc9ef26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806985175,
-    "wof:lastmodified":1466518936,
+    "wof:lastmodified":1510696064,
     "wof:name":"Houlihan's",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

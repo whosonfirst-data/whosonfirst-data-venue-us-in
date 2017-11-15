@@ -2,14 +2,20 @@
   "id": 806662883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2580 E 79th Ave Merrillville IN 46410",
+    "addr:housenumber":"2580",
+    "addr:postcode":"46410",
+    "addr:street":"E 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.302224,41.474585,-87.302224,41.474585",
     "geom:latitude":41.474585,
     "geom:longitude":-87.302224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2580 E 79th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125157747,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kUDLq7OY1TFRZZUj6fIaU_41.474585_-87.302224@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600025,
-    "wof:geomhash":"d7646abe15e3d4251656a79c867b8a85",
+    "wof:geomhash":"50e878f1b729a8f220d1326b52404cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806662883,
-    "wof:lastmodified":1466509229,
+    "wof:lastmodified":1510699018,
     "wof:name":"Value City Furniture",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",

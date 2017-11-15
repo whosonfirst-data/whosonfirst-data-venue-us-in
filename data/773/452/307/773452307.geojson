@@ -2,9 +2,14 @@
   "id": 773452307,
   "type": "Feature",
   "properties": {
+    "addr:full":"4230 S 250 W North Judson IN 46366",
+    "addr:housenumber":"4230;250",
+    "addr:postcode":"46366",
+    "addr:street":"S;W North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.746885,41.240324,-86.746885,41.240324",
     "geom:latitude":41.240324,
     "geom:longitude":-86.746885,
@@ -24,7 +29,13 @@
     "sg:postcode":"46366",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500337,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EBFyr6crTUPI4lcVFySjG_41.240324_-86.746885@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462585856,
     "wof:geomhash":"366f55428c39fd0603a91e787315faa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500337,
+            "region_id":85688709,
+            "venue_id":773452307
+        }
+    ],
     "wof:id":773452307,
-    "wof:lastmodified":1466511508,
+    "wof:lastmodified":1492095714,
     "wof:name":"Practical Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

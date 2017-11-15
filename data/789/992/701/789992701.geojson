@@ -2,14 +2,20 @@
   "id": 789992701,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 N Sonntag Ave Evansville IN 47712",
+    "addr:housenumber":"706",
+    "addr:postcode":"47712",
+    "addr:street":"N Sonntag Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.60811,37.983407,-87.60811,37.983407",
     "geom:latitude":37.983407,
     "geom:longitude":-87.60811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"706 N Sonntag Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85877285
     ],
+    "wof:brand_id":1125152785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d1OMcrsQv72auzrJPNWFe_37.983407_-87.608110@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592271,
-    "wof:geomhash":"514aa71269e34adc1b442435642b7a53",
+    "wof:geomhash":"185dc82c4a2e5b9a852ee87399975be2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789992701,
-    "wof:lastmodified":1466510300,
+    "wof:lastmodified":1510697423,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85877285,
     "wof:placetype":"venue",

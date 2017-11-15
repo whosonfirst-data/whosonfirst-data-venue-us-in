@@ -2,9 +2,14 @@
   "id": 807050497,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 Harrison St Ste 255 Merrillville IN 46410",
+    "addr:housenumber":"6111",
+    "addr:postcode":"46410",
+    "addr:street":"Harrison St Ste 255",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345782,41.507324,-87.345782,41.507324",
     "geom:latitude":41.507324,
     "geom:longitude":-87.345782,
@@ -32,7 +37,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b8vkvkzNKHLFgvnIkyEkJ_41.507324_-87.345782@1303262771"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1462603291,
     "wof:geomhash":"681c6ba707009180f4fb5f9f958d1c7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807050497
+        }
+    ],
     "wof:id":807050497,
-    "wof:lastmodified":1466504412,
+    "wof:lastmodified":1492091327,
     "wof:name":"Renaissance Womens Center",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

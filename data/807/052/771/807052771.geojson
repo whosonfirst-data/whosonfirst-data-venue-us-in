@@ -2,6 +2,10 @@
   "id": 807052771,
   "type": "Feature",
   "properties": {
+    "addr:full":"4784 S 450 W Claypool IN 46510",
+    "addr:housenumber":"4784;450",
+    "addr:postcode":"46510",
+    "addr:street":"S;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":807052771,
-    "wof:lastmodified":1466504296,
+    "wof:lastmodified":1472622409,
     "wof:name":"Boggs Dan & Tammy",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

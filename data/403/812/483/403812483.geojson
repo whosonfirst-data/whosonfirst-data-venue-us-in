@@ -2,9 +2,14 @@
   "id": 403812483,
   "type": "Feature",
   "properties": {
+    "addr:full":"8250 Utah St Merrillville IN 46410",
+    "addr:housenumber":"8250",
+    "addr:postcode":"46410",
+    "addr:street":"Utah St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.291028,41.469202,-87.291028,41.469202",
     "geom:latitude":41.469202,
     "geom:longitude":-87.291028,
@@ -30,11 +35,13 @@
     "sg:website":"www.southlakeavr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891165,
+        102191575,
+        404501871,
         85633793,
-        85941823,
+        85941829,
         102087149,
-        85891165
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"454ac0e244eaa42ee1b7fe10c16ce4ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
-            "locality_id":85941823,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85891165,
             "region_id":85688709,
             "venue_id":403812483
         }
     ],
     "wof:id":403812483,
-    "wof:lastmodified":1466503038,
+    "wof:lastmodified":1492098346,
     "wof:name":"South Lake AVR",
     "wof:parent_id":85891165,
     "wof:placetype":"venue",

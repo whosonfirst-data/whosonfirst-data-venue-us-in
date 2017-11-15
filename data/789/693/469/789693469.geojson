@@ -2,9 +2,14 @@
   "id": 789693469,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Halleck St Demotte IN 46310",
+    "addr:housenumber":"101",
+    "addr:postcode":"46310",
+    "addr:street":"S Halleck St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.198764,41.202622,-87.198764,41.202622",
     "geom:latitude":41.202622,
     "geom:longitude":-87.198764,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        85941679,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vVHOCCq8Izazf8X3vaQ3E_41.202622_-87.198764@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462589806,
     "wof:geomhash":"775648e7118265986de6622cca716ef2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "locality_id":85941679,
+            "region_id":85688709,
+            "venue_id":789693469
+        }
+    ],
     "wof:id":789693469,
-    "wof:lastmodified":1466505490,
+    "wof:lastmodified":1492091614,
     "wof:name":"Snyder's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

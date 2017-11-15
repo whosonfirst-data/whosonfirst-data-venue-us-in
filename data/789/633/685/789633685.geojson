@@ -2,9 +2,14 @@
   "id": 789633685,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 E 650 N Valparaiso IN 46383",
+    "addr:housenumber":"255;650",
+    "addr:postcode":"46383",
+    "addr:street":"E;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.008569,41.5277,-87.008569,41.5277",
     "geom:latitude":41.5277,
     "geom:longitude":-87.008569,
@@ -27,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33KaheLaxrmfyqSfHxC68f_41.527700_-87.008569@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462589327,
     "wof:geomhash":"af478d9695fc6e4ebec7e10a2111b81c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":789633685
+        }
+    ],
     "wof:id":789633685,
-    "wof:lastmodified":1466504501,
+    "wof:lastmodified":1492103215,
     "wof:name":"Jerry Grieger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

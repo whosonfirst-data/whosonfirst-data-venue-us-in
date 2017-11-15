@@ -2,9 +2,14 @@
   "id": 773784137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3242 E State Rd 14 Fair Oaks IN 47963",
+    "addr:housenumber":"3242;14",
+    "addr:postcode":"47963",
+    "addr:street":"E State Rd;Oaks",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.332792,41.013422,-87.332792,41.013422",
     "geom:latitude":41.013422,
     "geom:longitude":-87.332792,
@@ -28,7 +33,13 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501333,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Omz8EKzy4BNouMhAG5WWg_41.013422_-87.332792@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588348,
     "wof:geomhash":"856afa8856b481c008f091cbd3b873e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501333,
+            "region_id":85688709,
+            "venue_id":773784137
+        }
+    ],
     "wof:id":773784137,
-    "wof:lastmodified":1466518748,
+    "wof:lastmodified":1492095767,
     "wof:name":"New Horizons Hunt Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

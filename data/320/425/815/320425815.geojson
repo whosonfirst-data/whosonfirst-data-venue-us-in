@@ -2,14 +2,20 @@
   "id": 320425815,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Harris Rd Fort Wayne IN 46808",
+    "addr:housenumber":"3535",
+    "addr:postcode":"46808",
+    "addr:street":"Harris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.168497,41.108103,-85.168497,41.108103",
     "geom:latitude":41.108103,
     "geom:longitude":-85.168497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3535 Harris Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087177,
         85877563
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bgmnrHB73Vh4qehEO90az_41.108103_-85.168497@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"847e0e8d3b01b78435bcdf5dc4373d9c",
+    "wof:geomhash":"1dd39c086aa38ad7fb977fbedfeefbb1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":320425815,
-    "wof:lastmodified":1466503088,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

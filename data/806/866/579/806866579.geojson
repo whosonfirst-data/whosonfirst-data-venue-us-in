@@ -2,14 +2,20 @@
   "id": 806866579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 E 146th St Carmel IN 46033",
+    "addr:housenumber":"2520",
+    "addr:postcode":"46033",
+    "addr:street":"E 146Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.116807,40.002041,-86.116807,40.002041",
     "geom:latitude":40.002041,
     "geom:longitude":-86.116807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 E 146th St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f18EWmPTal2rmuvt87F3w_40.002041_-86.116807@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601745,
-    "wof:geomhash":"14bb32cddcf64a56177e901bcac93490",
+    "wof:geomhash":"ab47889e1c760f217f3f6629de7dd018",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806866579,
-    "wof:lastmodified":1466516677,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":420519525,
     "wof:placetype":"venue",

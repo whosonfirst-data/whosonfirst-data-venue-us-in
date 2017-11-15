@@ -2,14 +2,20 @@
   "id": 806759189,
   "type": "Feature",
   "properties": {
+    "addr:full":"2970 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2970",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.494219,39.164187,-86.494219,39.164187",
     "geom:latitude":39.164187,
     "geom:longitude":-86.494219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2970 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oTU83pwOhB867HsHk96Wn_39.164135_-86.493653@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600843,
-    "wof:geomhash":"bba2bcef7ce0f79fb1ad3874a188139b",
+    "wof:geomhash":"d951920f17615016ee4136f520521767",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806759189,
-    "wof:lastmodified":1466513574,
+    "wof:lastmodified":1510699753,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

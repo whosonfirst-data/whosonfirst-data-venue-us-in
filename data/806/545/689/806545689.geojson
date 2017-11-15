@@ -2,14 +2,20 @@
   "id": 806545689,
   "type": "Feature",
   "properties": {
+    "addr:full":"5705 Park Plaza Ct Indianapolis IN 46220",
+    "addr:housenumber":"5705",
+    "addr:postcode":"46220",
+    "addr:street":"Park Plaza Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.073122,39.879527,-86.073122,39.879527",
     "geom:latitude":39.879527,
     "geom:longitude":-86.073122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5705 Park Plaza Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6woJ4ebKNs2Xu6qcdyWZsB_39.879527_-86.073122@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599002,
-    "wof:geomhash":"b122f00df946eb272a5f028ddc437536",
+    "wof:geomhash":"ad9e569e5795d9287c2decd0a28e254f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806545689,
-    "wof:lastmodified":1466506663,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806545783,
   "type": "Feature",
   "properties": {
+    "addr:full":"8635 River Crossing Blvd Indianapolis IN 46240",
+    "addr:housenumber":"8635",
+    "addr:postcode":"46240",
+    "addr:street":"River Crossing Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.106474,39.912151,-86.106474,39.912151",
     "geom:latitude":39.912151,
     "geom:longitude":-86.106474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8635 River Crossing Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U6KoctJoGZ1w9sc2vV7A4_39.912151_-86.106474@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599003,
-    "wof:geomhash":"921cb724be076d0f1135fef57bc54434",
+    "wof:geomhash":"5580657252e255573e6e071bfcec5a78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806545783,
-    "wof:lastmodified":1466506543,
+    "wof:lastmodified":1510694028,
     "wof:name":"Claire's Boutiques",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

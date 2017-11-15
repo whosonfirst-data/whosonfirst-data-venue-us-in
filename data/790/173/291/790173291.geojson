@@ -2,6 +2,10 @@
   "id": 790173291,
   "type": "Feature",
   "properties": {
+    "addr:full":"7766 W State Rd 45 Bloomington IN 47403",
+    "addr:housenumber":"7766;45",
+    "addr:postcode":"47403",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790173291,
-    "wof:lastmodified":1466505590,
+    "wof:lastmodified":1472622540,
     "wof:name":"Erwin's Drywall Inc",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789727651,
   "type": "Feature",
   "properties": {
+    "addr:full":"6635 Hohman Ave Hammond IN 46324",
+    "addr:housenumber":"6635",
+    "addr:postcode":"46324",
+    "addr:street":"Hohman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.521892,41.592521,-87.521892,41.592521",
     "geom:latitude":41.592521,
     "geom:longitude":-87.521892,
@@ -24,7 +29,14 @@
     "sg:postcode":"46324",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C0FUXwRjrY9DVbfUSi83h_41.592521_-87.521892@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462590087,
     "wof:geomhash":"8c9e8efc8301350498b8a80eb6e53bf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":789727651
+        }
+    ],
     "wof:id":789727651,
-    "wof:lastmodified":1466505625,
+    "wof:lastmodified":1492096215,
     "wof:name":"Grace Yeagle Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

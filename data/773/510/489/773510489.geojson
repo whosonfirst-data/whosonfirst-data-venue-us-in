@@ -2,14 +2,20 @@
   "id": 773510489,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 Dupont Commerce Ct Fort Wayne IN 46825",
+    "addr:housenumber":"2720",
+    "addr:postcode":"46825",
+    "addr:street":"Dupont Commerce Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.104883,41.175808,-85.104883,41.175808",
     "geom:latitude":41.175808,
     "geom:longitude":-85.104883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2720 Dupont Commerce Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125156977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kvl30pTgV9r57iVhWDY2S_41.175808_-85.104883@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586275,
-    "wof:geomhash":"4ec89a57738fe794dad96dfca3e06861",
+    "wof:geomhash":"f9a1799dd4d1e6674b7d8f691ceb1cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773510489,
-    "wof:lastmodified":1466513521,
+    "wof:lastmodified":1510699774,
     "wof:name":"IBM Corp",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

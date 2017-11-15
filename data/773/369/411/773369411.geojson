@@ -2,9 +2,14 @@
   "id": 773369411,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 W 100 S Valparaiso IN 46385",
+    "addr:housenumber":"245",
+    "addr:postcode":"46385",
+    "addr:street":"W 100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.114626,41.420575,-87.114626,41.420575",
     "geom:latitude":41.420575,
     "geom:longitude":-87.114626,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BAaaRDdEF16kdNE2P0kmQ_41.420575_-87.114626@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462585177,
     "wof:geomhash":"c74ff3c887f869045267d2f59f9a6f78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773369411
+        }
+    ],
     "wof:id":773369411,
-    "wof:lastmodified":1466509260,
+    "wof:lastmodified":1492094831,
     "wof:name":"Steve Gutt",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

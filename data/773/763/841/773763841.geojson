@@ -2,14 +2,20 @@
   "id": 773763841,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 N Meridian St Indianapolis IN 46202",
+    "addr:housenumber":"137",
+    "addr:postcode":"46202",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157913,39.769851,-86.157913,39.769851",
     "geom:latitude":39.769851,
     "geom:longitude":-86.157913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"137 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rz4CL8S3G86FXZagfPu5I_39.769851_-86.157913@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588198,
-    "wof:geomhash":"83a2e0b0097f1feb83218d25792ff512",
+    "wof:geomhash":"76e3cbaf75e6aa9b70fe844480683551",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773763841,
-    "wof:lastmodified":1466518560,
+    "wof:lastmodified":1510695180,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

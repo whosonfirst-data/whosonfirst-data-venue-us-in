@@ -2,9 +2,14 @@
   "id": 319956089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1093 Lombardi Ct Chesterton IN 46304",
+    "addr:housenumber":"1093",
+    "addr:postcode":"46304",
+    "addr:street":"Lombardi Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.051083,41.586967,-87.051083,41.586967",
     "geom:latitude":41.586967,
     "geom:longitude":-87.051083,
@@ -42,7 +47,6 @@
     "wof:geomhash":"5734be2e365b4222c26e3cfaf20fc917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
             "locality_id":85942375,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":319956089,
-    "wof:lastmodified":1466503620,
+    "wof:lastmodified":1492106552,
     "wof:name":"212 Park LLC",
     "wof:parent_id":85856849,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773541091,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Campbell St Valparaiso IN 46385",
+    "addr:housenumber":"4700",
+    "addr:postcode":"46385",
+    "addr:street":"Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.065949,41.511101,-87.065949,41.511101",
     "geom:latitude":41.511101,
     "geom:longitude":-87.065949,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X3Bwuui8ggmiUG4HVK1G9_41.511101_-87.065949@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586485,
     "wof:geomhash":"33247567ca26acafd353db461e35e2c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773541091
+        }
+    ],
     "wof:id":773541091,
-    "wof:lastmodified":1466514145,
+    "wof:lastmodified":1492097584,
     "wof:name":"Andover Park",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789647773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2990 W 950 N Lake Village IN 46349",
+    "addr:housenumber":"2990",
+    "addr:postcode":"46349",
+    "addr:street":"W 950 N Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.446989,41.137635,-87.446989,41.137635",
     "geom:latitude":41.137635,
     "geom:longitude":-87.446989,
@@ -24,7 +29,14 @@
     "sg:postcode":"46349",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p8TvJnb9bb98mE0dZbMlc_41.137635_-87.446989@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462589434,
     "wof:geomhash":"9ab00bbf2ce71d97e9fbbb13715fdb1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":789647773
+        }
+    ],
     "wof:id":789647773,
-    "wof:lastmodified":1466504691,
+    "wof:lastmodified":1492095780,
     "wof:name":"Pizza Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

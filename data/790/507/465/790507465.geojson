@@ -2,9 +2,14 @@
   "id": 790507465,
   "type": "Feature",
   "properties": {
+    "addr:full":"5905 N US Hwy 35 Laporte IN 46350",
+    "addr:housenumber":"5905",
+    "addr:postcode":"46350",
+    "addr:street":"N Us Hwy 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.803755,41.690989,-86.803755,41.690989",
     "geom:latitude":41.690989,
     "geom:longitude":-86.803755,
@@ -27,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T043EKDtGgYQufEhGXxjd_41.690989_-86.803755@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462596430,
     "wof:geomhash":"bf270a24c500d2dbae3c713a61427c0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790507465
+        }
+    ],
     "wof:id":790507465,
-    "wof:lastmodified":1466511919,
+    "wof:lastmodified":1492097419,
     "wof:name":"Speedway",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

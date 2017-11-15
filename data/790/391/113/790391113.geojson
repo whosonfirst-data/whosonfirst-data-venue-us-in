@@ -2,6 +2,10 @@
   "id": 790391113,
   "type": "Feature",
   "properties": {
+    "addr:full":"11389 Co Rd 44 Millersburg IN 46543",
+    "addr:housenumber":"11389;44",
+    "addr:postcode":"46543",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790391113,
-    "wof:lastmodified":1466507866,
+    "wof:lastmodified":1472622811,
     "wof:name":"Beechy Enterprises Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

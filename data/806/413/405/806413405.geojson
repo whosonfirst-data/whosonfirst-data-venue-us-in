@@ -2,14 +2,20 @@
   "id": 806413405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3429 S East St Indianapolis IN 46227",
+    "addr:housenumber":"3429",
+    "addr:postcode":"46227",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.148872,39.715513,-86.148872,39.715513",
     "geom:latitude":39.715513,
     "geom:longitude":-86.148872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3429 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RxdUUVvUdkgJgqnK59VXR_39.715513_-86.148872@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597962,
-    "wof:geomhash":"11974c2d3ed7a1ec158cab43c9293b83",
+    "wof:geomhash":"04a022e1fe009e19ee561b5873ad3a50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806413405,
-    "wof:lastmodified":1466504958,
+    "wof:lastmodified":1510699953,
     "wof:name":"Golden Wok",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

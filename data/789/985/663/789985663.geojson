@@ -2,9 +2,14 @@
   "id": 789985663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2599 S 1300 W Francesville IN 47946",
+    "addr:housenumber":"2599",
+    "addr:postcode":"47946",
+    "addr:street":"S 1300 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853543,41.015325,-86.853543,41.015325",
     "geom:latitude":41.015325,
     "geom:longitude":-86.853543,
@@ -28,7 +33,13 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lg6IQqZmzT0L2fUBD0bte_41.015325_-86.853543@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462592214,
     "wof:geomhash":"6b3a783b3a55cd3463ff3e6f7d920507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":789985663
+        }
+    ],
     "wof:id":789985663,
-    "wof:lastmodified":1466510072,
+    "wof:lastmodified":1492091607,
     "wof:name":"Herd Health Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

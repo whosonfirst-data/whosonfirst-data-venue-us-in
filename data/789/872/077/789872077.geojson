@@ -2,9 +2,14 @@
   "id": 789872077,
   "type": "Feature",
   "properties": {
+    "addr:full":"4875 Taft St Gary IN 46408",
+    "addr:housenumber":"4875",
+    "addr:postcode":"46408",
+    "addr:street":"Taft St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.365201,41.5305,-87.365201,41.5305",
     "geom:latitude":41.5305,
     "geom:longitude":-87.365201,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pjVBKGRE3MSKelxO15Q5T_41.530500_-87.365201@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591203,
     "wof:geomhash":"e2f59beb8282a36c730468892f084961",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789872077
+        }
+    ],
     "wof:id":789872077,
-    "wof:lastmodified":1466507267,
+    "wof:lastmodified":1492102374,
     "wof:name":"Jane Strickland Cosmotologist",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

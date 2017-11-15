@@ -2,14 +2,20 @@
   "id": 807004957,
   "type": "Feature",
   "properties": {
+    "addr:full":"2915 W 75th St Indianapolis IN 46268",
+    "addr:housenumber":"2915",
+    "addr:postcode":"46268",
+    "addr:street":"W 75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.21081,39.889294,-86.21081,39.889294",
     "geom:latitude":39.889294,
     "geom:longitude":-86.21081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2915 W 75th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c137E17Nv8n8l5bAfSFiX_39.889294_-86.210810@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602898,
-    "wof:geomhash":"6323f637e5e0e7abd02656ad2ee88080",
+    "wof:geomhash":"ab771b4149ffde8d30177b2149d2d1f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807004957,
-    "wof:lastmodified":1466503522,
+    "wof:lastmodified":1510697536,
     "wof:name":"M/I Homes",
     "wof:parent_id":85803951,
     "wof:placetype":"venue",

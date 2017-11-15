@@ -2,6 +2,10 @@
   "id": 790620105,
   "type": "Feature",
   "properties": {
+    "addr:full":"4902 State Rd 25 W Lafayette IN 47909",
+    "addr:housenumber":"4902;25",
+    "addr:postcode":"47909",
+    "addr:street":"State Rd;W Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790620105,
-    "wof:lastmodified":1466515793,
+    "wof:lastmodified":1472623030,
     "wof:name":"Bellingers Professional Mntnc",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",

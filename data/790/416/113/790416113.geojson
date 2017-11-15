@@ -2,9 +2,14 @@
   "id": 790416113,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Edinburgh St Valparaiso IN 46385",
+    "addr:housenumber":"42",
+    "addr:postcode":"46385",
+    "addr:street":"Edinburgh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.109465,41.439431,-87.109465,41.439431",
     "geom:latitude":41.439431,
     "geom:longitude":-87.109465,
@@ -25,7 +30,10 @@
     "sg:province":"IN",
     "sg:website":"www.classicdesignbuilder.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33x6zY1YV7ANGAFKZWqPQt_41.439431_-87.109465@1294102998"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1462595652,
     "wof:geomhash":"341067c5da75e3f1cc7bbc3334fca528",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790416113
+        }
+    ],
     "wof:id":790416113,
-    "wof:lastmodified":1466508467,
+    "wof:lastmodified":1492092101,
     "wof:name":"Classic Designs",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

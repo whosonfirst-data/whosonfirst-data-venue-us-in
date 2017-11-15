@@ -2,9 +2,14 @@
   "id": 806706809,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 S 200 W Valparaiso IN 46385",
+    "addr:housenumber":"119;200",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104371,41.417603,-87.104371,41.417603",
     "geom:latitude":41.417603,
     "geom:longitude":-87.104371,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xHNPv05TiPO5cDaYkgZsI_41.417603_-87.104371@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462600394,
     "wof:geomhash":"4c5bba2bdf4559b13791f16df8b65f18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806706809
+        }
+    ],
     "wof:id":806706809,
-    "wof:lastmodified":1466510871,
+    "wof:lastmodified":1492097558,
     "wof:name":"R O Minder Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

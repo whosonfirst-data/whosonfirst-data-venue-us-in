@@ -2,9 +2,14 @@
   "id": 387104675,
   "type": "Feature",
   "properties": {
+    "addr:full":"17401 Morse St Lowell IN 46356",
+    "addr:housenumber":"17401",
+    "addr:postcode":"46356",
+    "addr:street":"Morse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420721,41.306272,-87.420721,41.306272",
     "geom:latitude":41.306272,
     "geom:longitude":-87.420721,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501861,
         85633793,
         85941827,
         102087149
@@ -42,17 +49,17 @@
     "wof:geomhash":"fa966b8b802bcaa3ce71ff5e29fa5e5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501861,
             "locality_id":85941827,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":387104675
         }
     ],
     "wof:id":387104675,
-    "wof:lastmodified":1466503038,
+    "wof:lastmodified":1492091593,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

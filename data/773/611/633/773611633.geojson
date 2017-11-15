@@ -2,14 +2,20 @@
   "id": 773611633,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 Allisonville Rd Indianapolis IN 46250",
+    "addr:housenumber":"7900",
+    "addr:postcode":"46250",
+    "addr:street":"Allisonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.081654,39.899469,-86.081654,39.899469",
     "geom:latitude":39.899469,
     "geom:longitude":-86.081654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7900 Allisonville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57RYsQrCZyX3HIqVkxU5Gg_39.899469_-86.081654@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587024,
-    "wof:geomhash":"753ac324c8994eaa988198c1a9235e47",
+    "wof:geomhash":"62c335ba32e9d6a757d264cd6a5671d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773611633,
-    "wof:lastmodified":1466516365,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",

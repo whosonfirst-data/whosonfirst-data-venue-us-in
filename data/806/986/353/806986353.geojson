@@ -2,14 +2,20 @@
   "id": 806986353,
   "type": "Feature",
   "properties": {
+    "addr:full":"6450 Gateway Dr Indianapolis IN 46254",
+    "addr:housenumber":"6450",
+    "addr:postcode":"46254",
+    "addr:street":"Gateway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.273582,39.828542,-86.273582,39.828542",
     "geom:latitude":39.828542,
     "geom:longitude":-86.273582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6450 Gateway Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -59,13 +65,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K3OPuND6vERgIc48mdGi2_39.828542_-86.273582@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602747,
-    "wof:geomhash":"ec4c54df1546c88a8a03c6e29ab1596e",
+    "wof:geomhash":"060bb95a8e0c5fa8cb17b6b84aacff7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":806986353,
-    "wof:lastmodified":1466518947,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",

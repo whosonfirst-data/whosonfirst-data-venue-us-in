@@ -2,9 +2,14 @@
   "id": 773224387,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Tayside St Valparaiso IN 46385",
+    "addr:housenumber":"35",
+    "addr:postcode":"46385",
+    "addr:street":"Tayside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.106202,41.439447,-87.106202,41.439447",
     "geom:latitude":41.439447,
     "geom:longitude":-87.106202,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kamZt3iGdo0tBTJNCkYA2_41.439447_-87.106202@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462584104,
     "wof:geomhash":"a6ea87aab74d976102e38a5d5da23f9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773224387
+        }
+    ],
     "wof:id":773224387,
-    "wof:lastmodified":1466506540,
+    "wof:lastmodified":1492098929,
     "wof:name":"Woody'z Hot Cuts",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806628547,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 W 700 N Valparaiso IN 46385",
+    "addr:housenumber":"305",
+    "addr:postcode":"46385",
+    "addr:street":"W 700 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.12948,41.535847,-87.12948,41.535847",
     "geom:latitude":41.535847,
     "geom:longitude":-87.12948,
@@ -31,7 +36,10 @@
     ],
     "sg:website":"www.utilityservicescorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f410tVWuZqIRk2XNenUVl_41.535847_-87.129480@1294102998"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1462599724,
     "wof:geomhash":"fd7df4a4b65f7c3e8afe96352b904fce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806628547
+        }
+    ],
     "wof:id":806628547,
-    "wof:lastmodified":1466507703,
+    "wof:lastmodified":1492102377,
     "wof:name":"Utility Services Corp",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

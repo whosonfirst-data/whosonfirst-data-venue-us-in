@@ -2,9 +2,14 @@
   "id": 807016823,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Main St Crown Point IN 46307",
+    "addr:housenumber":"301",
+    "addr:postcode":"46307",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364197,41.414902,-87.364197,41.414902",
     "geom:latitude":41.414902,
     "geom:longitude":-87.364197,
@@ -25,7 +30,15 @@
     "sg:province":"IN",
     "sg:website":"www.crownpointlawyers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0klUPqhr4tYjOo0UA9ckJi_41.414902_-87.364197@1303262769"
@@ -33,9 +46,20 @@
     "wof:country":"US",
     "wof:created":1462603001,
     "wof:geomhash":"3d398d5ec5c9e9ebad65ec49ff29d0ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807016823
+        }
+    ],
     "wof:id":807016823,
-    "wof:lastmodified":1466504074,
+    "wof:lastmodified":1492094660,
     "wof:name":"Gasparis & Zembillas Attorneys At Law",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

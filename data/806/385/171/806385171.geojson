@@ -2,14 +2,20 @@
   "id": 806385171,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 2nd St Aurora IN 47001",
+    "addr:housenumber":"408",
+    "addr:postcode":"47001",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.901303,39.056825,-84.901303,39.056825",
     "geom:latitude":39.056825,
     "geom:longitude":-84.901303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"408 2nd St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85857149,
         102087067
     ],
+    "wof:brand_id":1125151393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tRjBAdZQIiMJcCSb5bQNd_39.056825_-84.901303@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597719,
-    "wof:geomhash":"5df3a567a870410f40dee14f872bcc86",
+    "wof:geomhash":"7470b429c64d60c69a4cc8a8bb265bd5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806385171,
-    "wof:lastmodified":1466504260,
+    "wof:lastmodified":1510613540,
     "wof:name":"Styles Unlimited",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",

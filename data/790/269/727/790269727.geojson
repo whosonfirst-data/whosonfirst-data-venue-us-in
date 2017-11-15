@@ -2,14 +2,20 @@
   "id": 790269727,
   "type": "Feature",
   "properties": {
+    "addr:full":"5671 W 73rd St Indianapolis IN 46278",
+    "addr:housenumber":"5671",
+    "addr:postcode":"46278",
+    "addr:street":"W 73Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.266125,39.884782,-86.266125,39.884782",
     "geom:latitude":39.884782,
     "geom:longitude":-86.266125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5671 W 73rd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZH0HlsuYbjPmrwq0wzNgY_39.884782_-86.266125@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594498,
-    "wof:geomhash":"93eb65a5ddcafc2046165cab513baa67",
+    "wof:geomhash":"dcd091e7d1ba75a235a89e4c8df32d18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790269727,
-    "wof:lastmodified":1466506517,
+    "wof:lastmodified":1510695913,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",

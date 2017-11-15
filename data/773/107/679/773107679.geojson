@@ -2,9 +2,14 @@
   "id": 773107679,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Warren Dr Valparaiso IN 46385",
+    "addr:housenumber":"42",
+    "addr:postcode":"46385",
+    "addr:street":"Warren Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.072751,41.516931,-87.072751,41.516931",
     "geom:latitude":41.516931,
     "geom:longitude":-87.072751,
@@ -27,7 +32,10 @@
         "locomotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fclA0z9VWpeTNppbwMzur_41.516931_-87.072751@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583206,
     "wof:geomhash":"32d0381de7335b8cb46e2a470eb61c7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773107679
+        }
+    ],
     "wof:id":773107679,
-    "wof:lastmodified":1466505504,
+    "wof:lastmodified":1492095700,
     "wof:name":"Railway Equipment Assoc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

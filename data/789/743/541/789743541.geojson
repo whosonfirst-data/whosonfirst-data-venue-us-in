@@ -2,6 +2,10 @@
   "id": 789743541,
   "type": "Feature",
   "properties": {
+    "addr:full":"7339 State Rd 28 E Clarks Hill IN 47930",
+    "addr:housenumber":"7339;28 e",
+    "addr:postcode":"47930",
+    "addr:street":"State Rd;Clarks Hill",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789743541,
-    "wof:lastmodified":1466505910,
+    "wof:lastmodified":1472622586,
     "wof:name":"Advanced Design & Machine",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

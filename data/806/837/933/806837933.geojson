@@ -2,14 +2,20 @@
   "id": 806837933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 Win Hentschel Blvd West Lafayette IN 47906",
+    "addr:housenumber":"1510",
+    "addr:postcode":"47906",
+    "addr:street":"Win Hentschel Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.934296,40.464479,-86.934296,40.464479",
     "geom:latitude":40.464479,
     "geom:longitude":-86.934296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1510 Win Hentschel Blvd",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85813095
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M6slnWcoMooblTLrYSLa9_40.464479_-86.934296@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601490,
-    "wof:geomhash":"6778fedc11e4ae0856a678a39d659d3d",
+    "wof:geomhash":"468570a868df5386e7614a1f1d7ed7e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806837933,
-    "wof:lastmodified":1466515783,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85813095,
     "wof:placetype":"venue",

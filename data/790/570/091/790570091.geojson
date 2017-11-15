@@ -2,9 +2,14 @@
   "id": 790570091,
   "type": "Feature",
   "properties": {
+    "addr:full":"6352 Grand Blvd Hobart IN 46342",
+    "addr:housenumber":"6352",
+    "addr:postcode":"46342",
+    "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.258708,41.499871,-87.258708,41.499871",
     "geom:latitude":41.499871,
     "geom:longitude":-87.258708,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420519709,
+        420519695,
         102191575,
         404501867,
         85633793,
         85941823,
         102087149,
-        85688709
+        85688709,
+        420519709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102087149,
             "localadmin_id":404501867,
             "locality_id":85941823,
+            "neighbourhood_id":420519695,
+            "region_id":85688709,
+            "venue_id":790570091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941823,
             "neighbourhood_id":420519709,
             "region_id":85688709,
             "venue_id":790570091
         }
     ],
     "wof:id":790570091,
-    "wof:lastmodified":1466514406,
+    "wof:lastmodified":1492097458,
     "wof:name":"Cam's Firewood",
-    "wof:parent_id":420519709,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387513701,
   "type": "Feature",
   "properties": {
+    "addr:full":"3991 Cleveland St Gary IN 46408",
+    "addr:housenumber":"3991",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360532,41.548135,-87.360532,41.548135",
     "geom:latitude":41.548135,
     "geom:longitude":-87.360532,
@@ -30,7 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,15 @@
     "wof:geomhash":"9a9b8f4686fe7981f74049d53cdd6d89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519685,
             "venue_id":387513701
         }
     ],
     "wof:id":387513701,
-    "wof:lastmodified":1466503593,
+    "wof:lastmodified":1492090435,
     "wof:name":"Complete Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

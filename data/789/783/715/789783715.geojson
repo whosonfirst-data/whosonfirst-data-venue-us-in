@@ -2,9 +2,14 @@
   "id": 789783715,
   "type": "Feature",
   "properties": {
+    "addr:full":"4316 Grant St Gary IN 46408",
+    "addr:housenumber":"4316",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355706,41.54048,-87.355706,41.54048",
     "geom:latitude":41.54048,
     "geom:longitude":-87.355706,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aepcdYxAgVKLrM1Gd70ul_41.540480_-87.355706@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462590519,
     "wof:geomhash":"3e23c62b945d1769e4b157ec42289648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789783715
+        }
+    ],
     "wof:id":789783715,
-    "wof:lastmodified":1466506306,
+    "wof:lastmodified":1492100592,
     "wof:name":"Jiminy's Pizza",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

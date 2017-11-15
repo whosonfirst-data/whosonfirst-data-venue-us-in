@@ -2,6 +2,10 @@
   "id": 773505731,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 S State Rd 101 Woodburn IN 46797",
+    "addr:housenumber":"2225;101",
+    "addr:postcode":"46797",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773505731,
-    "wof:lastmodified":1466513256,
+    "wof:lastmodified":1472623147,
     "wof:name":"Carl Frecker",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

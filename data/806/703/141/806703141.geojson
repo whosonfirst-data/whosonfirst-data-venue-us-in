@@ -2,14 +2,20 @@
   "id": 806703141,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 S Meridian St Indianapolis IN 46225",
+    "addr:housenumber":"130",
+    "addr:postcode":"46225",
+    "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158266,39.764337,-86.158266,39.764337",
     "geom:latitude":39.764337,
     "geom:longitude":-86.158266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bOnyV3Bz25is7U0M0YZNE_39.764337_-86.158266@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600362,
-    "wof:geomhash":"d649e4f9557e882ecdbd79c9ac17ecae",
+    "wof:geomhash":"80973738264eaeed17fef092eaefd42b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806703141,
-    "wof:lastmodified":1466511183,
+    "wof:lastmodified":1510695324,
     "wof:name":"Nordstrom",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

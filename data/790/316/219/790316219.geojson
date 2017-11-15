@@ -2,14 +2,20 @@
   "id": 790316219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 W Gump Rd Huntertown IN 46748",
+    "addr:housenumber":"1615",
+    "addr:postcode":"46748",
+    "addr:street":"W Gump Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.165645,41.224473,-85.165645,41.224473",
     "geom:latitude":41.224473,
     "geom:longitude":-85.165645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1615 W Gump Rd",
     "sg:city":"Huntertown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UgKzrJjs2OOWbjH0MiKl8_41.224473_-85.165645@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594890,
-    "wof:geomhash":"ee529e78422df845d5b72bc0c861a06d",
+    "wof:geomhash":"90180e9240ff5b191bca9c024bb3ad4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790316219,
-    "wof:lastmodified":1466507051,
+    "wof:lastmodified":1510697468,
     "wof:name":"Farmers & Merchants Bank",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

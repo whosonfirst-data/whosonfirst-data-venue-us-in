@@ -2,14 +2,20 @@
   "id": 806805223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1691 W Curry Rd Greenwood IN 46143",
+    "addr:housenumber":"1691",
+    "addr:postcode":"46143",
+    "addr:street":"W Curry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.143785,39.599719,-86.143785,39.599719",
     "geom:latitude":39.599719,
     "geom:longitude":-86.143785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1691 W Curry Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086239,
         85826767
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XwgAYMi7hyoetcAiaZneQ_39.599719_-86.143785@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601229,
-    "wof:geomhash":"83f08f316df8a280d760a49863edd128",
+    "wof:geomhash":"d084409147fe2e98bdd24d3a93ea9a1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806805223,
-    "wof:lastmodified":1466514988,
+    "wof:lastmodified":1510695873,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773203281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 Dividend Rd Fort Wayne IN 46808",
+    "addr:housenumber":"1710",
+    "addr:postcode":"46808",
+    "addr:street":"Dividend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.161574,41.124438,-85.161574,41.124438",
     "geom:latitude":41.124438,
     "geom:longitude":-85.161574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1710 Dividend Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2heB0Ijac9eArWSoQ8jCML_41.124438_-85.161574@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583953,
-    "wof:geomhash":"66463f55a1df243a4dfda30ef2907318",
+    "wof:geomhash":"8dfa7c831e26dd0850b25c2c8b540ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773203281,
-    "wof:lastmodified":1466506313,
+    "wof:lastmodified":1510696059,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

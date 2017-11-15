@@ -2,14 +2,20 @@
   "id": 773535049,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 Shelby St Indianapolis IN 46227",
+    "addr:housenumber":"6111",
+    "addr:postcode":"46227",
+    "addr:street":"Shelby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.139383,39.678107,-86.139383,39.678107",
     "geom:latitude":39.678107,
     "geom:longitude":-86.139383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6111 Shelby St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GxlxGmutngKcx9TtMQkEv_39.678107_-86.139383@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586446,
-    "wof:geomhash":"db32eeb4bbbc8040925aa88769bc90a6",
+    "wof:geomhash":"c0b743a75a2a218450ab9f23311d9058",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773535049,
-    "wof:lastmodified":1466514253,
+    "wof:lastmodified":1510699535,
     "wof:name":"Calvary Lutheran Church",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",

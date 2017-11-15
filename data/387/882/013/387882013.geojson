@@ -2,9 +2,14 @@
   "id": 387882013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 S Woodland Ave Michigan City IN 46360",
+    "addr:housenumber":"1401",
+    "addr:postcode":"46360",
+    "addr:street":"S Woodland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.874466,41.689102,-86.874466,41.689102",
     "geom:latitude":41.689102,
     "geom:longitude":-86.874466,
@@ -39,7 +44,6 @@
     "wof:geomhash":"e918a9816fd4cb1ceea1824164eaaabf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387882013,
-    "wof:lastmodified":1466504099,
+    "wof:lastmodified":1492094841,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807009779,
   "type": "Feature",
   "properties": {
+    "addr:full":"7988 Michigan Rd Indianapolis IN 46268",
+    "addr:housenumber":"7988",
+    "addr:postcode":"46268",
+    "addr:street":"Michigan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.21697,39.899371,-86.21697,39.899371",
     "geom:latitude":39.899371,
     "geom:longitude":-86.21697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7988 Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gSAri1wjTJKWlmqoILKLI_39.899371_-86.216970@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602942,
-    "wof:geomhash":"a14ff01241d566fcc4b1b557af4845ee",
+    "wof:geomhash":"cc2363fde6c0d07ceddff174d984c060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807009779,
-    "wof:lastmodified":1466503737,
+    "wof:lastmodified":1510697206,
     "wof:name":"123 24 7 Locksmith",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

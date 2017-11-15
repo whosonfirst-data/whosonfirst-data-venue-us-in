@@ -2,14 +2,20 @@
   "id": 387163383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3007 25th St Columbus IN 47203",
+    "addr:housenumber":"3007",
+    "addr:postcode":"47203",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.885301,39.223264,-85.885301,39.223264",
     "geom:latitude":39.223264,
     "geom:longitude":-85.885301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3007 25th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85941361,
         102087181
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yYppRAQQvEbuhQvotOOlz_39.223264_-85.885301@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"44e0122c9504b253ff2daa5f08707a65",
+    "wof:geomhash":"f8e0924c66623d6877d2730a5a737df2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387163383,
-    "wof:lastmodified":1466503113,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

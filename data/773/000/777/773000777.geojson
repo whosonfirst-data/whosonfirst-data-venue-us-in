@@ -2,14 +2,20 @@
   "id": 773000777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1655 Hawthorne Dr Plainfield IN 46168",
+    "addr:housenumber":"1655",
+    "addr:postcode":"46168",
+    "addr:street":"Hawthorne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.379712,39.711156,-86.379712,39.711156",
     "geom:latitude":39.711156,
     "geom:longitude":-86.379712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1655 Hawthorne Dr",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125156085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YVlT3RjvLlEuuXzFSQLPl_39.711156_-86.379712@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582128,
-    "wof:geomhash":"8802259671232528b910b591ce9b86af",
+    "wof:geomhash":"56d552ea67076d785558607e2502590e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773000777,
-    "wof:lastmodified":1466503865,
+    "wof:lastmodified":1510699298,
     "wof:name":"Grace Fellowship Church",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

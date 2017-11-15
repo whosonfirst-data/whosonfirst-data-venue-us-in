@@ -2,9 +2,14 @@
   "id": 807031829,
   "type": "Feature",
   "properties": {
+    "addr:full":"8036 Jefferson Avenue Hammond IN 46321",
+    "addr:housenumber":"8036",
+    "addr:postcode":"46321",
+    "addr:street":"Jefferson Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.510149,41.567446,-87.510149,41.567446",
     "geom:latitude":41.567446,
     "geom:longitude":-87.510149,
@@ -27,7 +32,14 @@
         "dj"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wGvDSUMelByfuTMrFOH2h_41.567446_-87.510149@1303262770"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603137,
     "wof:geomhash":"91a9dbd3c4cbf73bab0ffb53e7075827",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807031829
+        }
+    ],
     "wof:id":807031829,
-    "wof:lastmodified":1466504189,
+    "wof:lastmodified":1492092110,
     "wof:name":"Catalyst Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

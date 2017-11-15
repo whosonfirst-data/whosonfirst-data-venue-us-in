@@ -2,9 +2,14 @@
   "id": 773439659,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Cattail Ln Valparaiso IN 46385",
+    "addr:housenumber":"160",
+    "addr:postcode":"46385",
+    "addr:street":"Cattail Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.0979,41.547302,-87.0979,41.547302",
     "geom:latitude":41.547302,
     "geom:longitude":-87.0979,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78vXkS9wMMTBM8bN6WQldU_41.547302_-87.097900@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462585756,
     "wof:geomhash":"62ba42d3429e6055117a647b12c8313c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773439659
+        }
+    ],
     "wof:id":773439659,
-    "wof:lastmodified":1466511878,
+    "wof:lastmodified":1492092139,
     "wof:name":"E J Bennett Afassco",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

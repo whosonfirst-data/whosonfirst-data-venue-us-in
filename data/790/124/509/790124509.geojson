@@ -2,9 +2,14 @@
   "id": 790124509,
   "type": "Feature",
   "properties": {
+    "addr:full":"3950 Marquette Rd Lake Station IN 46405",
+    "addr:housenumber":"3950",
+    "addr:postcode":"46405",
+    "addr:street":"Marquette Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.232111,41.577965,-87.232111,41.577965",
     "geom:latitude":41.577965,
     "geom:longitude":-87.232111,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501867,
+        85633793,
+        85941825,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60QTgvNJB7Cj1XV0wvCDQ4_41.577965_-87.232111@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462593324,
     "wof:geomhash":"a68a317095d68c4ff742ebb1ddde811d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941825,
+            "region_id":85688709,
+            "venue_id":790124509
+        }
+    ],
     "wof:id":790124509,
-    "wof:lastmodified":1466505138,
+    "wof:lastmodified":1492097300,
     "wof:name":"Latin Pentecostal Church God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

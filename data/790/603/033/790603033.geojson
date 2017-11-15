@@ -2,9 +2,14 @@
   "id": 790603033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 Dunes Meadows Dr Chesterton IN 46304",
+    "addr:housenumber":"1135",
+    "addr:postcode":"46304",
+    "addr:street":"Dunes Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.073061,41.630897,-87.073061,41.630897",
     "geom:latitude":41.630897,
     "geom:longitude":-87.073061,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501725,
+        85633793,
+        85942397,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g7OX3e2B8jpYQmfevc4Rd_41.630897_-87.073061@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597249,
     "wof:geomhash":"eb0b3ab08cabcba297909bff57b2a1f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501725,
+            "locality_id":85942397,
+            "region_id":85688709,
+            "venue_id":790603033
+        }
+    ],
     "wof:id":790603033,
-    "wof:lastmodified":1466515068,
+    "wof:lastmodified":1492102935,
     "wof:name":"C J Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

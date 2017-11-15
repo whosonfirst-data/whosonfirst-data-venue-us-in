@@ -2,14 +2,20 @@
   "id": 773589507,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 S Walker St Bloomington IN 47403",
+    "addr:housenumber":"620",
+    "addr:postcode":"47403",
+    "addr:street":"S Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.546103,39.15987,-86.546103,39.15987",
     "geom:latitude":39.15987,
     "geom:longitude":-86.546103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 S Walker St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125157993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jxbFZNQH1EwtuXpIN99m8_39.159870_-86.546103@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586868,
-    "wof:geomhash":"bb4bef5c97c053acb0d303deb2c7b002",
+    "wof:geomhash":"d287c0f321c012e9453d4da6f59d143e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773589507,
-    "wof:lastmodified":1466515996,
+    "wof:lastmodified":1510693782,
     "wof:name":"US Fish & Wildlife Dept Svc",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

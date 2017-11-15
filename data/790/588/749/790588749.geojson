@@ -2,9 +2,14 @@
   "id": 790588749,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 E State Rd 8 Kouts IN 46347",
+    "addr:housenumber":"402",
+    "addr:postcode":"46347",
+    "addr:street":"E State Rd 8",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.987107,41.317769,-86.987107,41.317769",
     "geom:latitude":41.317769,
     "geom:longitude":-86.987107,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2as2nkrmZrvlq4CcMVjNt5_41.317769_-86.987107@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597114,
     "wof:geomhash":"150e52e6521e30cf9c2dd3ad5482a792",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":790588749
+        }
+    ],
     "wof:id":790588749,
-    "wof:lastmodified":1466515033,
+    "wof:lastmodified":1492092194,
     "wof:name":"St Mary's Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

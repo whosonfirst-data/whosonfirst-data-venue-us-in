@@ -2,9 +2,14 @@
   "id": 303232927,
   "type": "Feature",
   "properties": {
+    "addr:full":"975 S Carroll Ave Michigan City IN 46360",
+    "addr:housenumber":"975",
+    "addr:postcode":"46360",
+    "addr:street":"S Carroll Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86968,41.698872,-86.86968,41.698872",
     "geom:latitude":41.698872,
     "geom:longitude":-86.86968,
@@ -43,7 +48,6 @@
     "wof:geomhash":"2d9a7664d492845ec55ad7667f673b26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303232927,
-    "wof:lastmodified":1466503506,
+    "wof:lastmodified":1492097357,
     "wof:name":"Swanson Center",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

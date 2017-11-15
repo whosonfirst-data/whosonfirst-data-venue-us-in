@@ -2,14 +2,20 @@
   "id": 807075831,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 N Jacob Dr Bloomington IN 47404",
+    "addr:housenumber":"330",
+    "addr:postcode":"47404",
+    "addr:street":"N Jacob Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.572843,39.169825,-86.572843,39.169825",
     "geom:latitude":39.169825,
     "geom:longitude":-86.572843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 N Jacob Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":1125152569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wWwvAiTCQfoxEHK8853oB_39.169825_-86.572843@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603501,
-    "wof:geomhash":"6bc2730e811da61ae41b26976aaeb0ce",
+    "wof:geomhash":"b83b0d03cc9efe1d3cbe12629fab6226",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807075831,
-    "wof:lastmodified":1466504850,
+    "wof:lastmodified":1510693937,
     "wof:name":"Aspen Dental",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

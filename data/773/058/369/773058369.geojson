@@ -2,9 +2,14 @@
   "id": 773058369,
   "type": "Feature",
   "properties": {
+    "addr:full":"4609 Thornbury Dr E Valparaiso IN 46383",
+    "addr:housenumber":"4609",
+    "addr:postcode":"46383",
+    "addr:street":"Thornbury Dr E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.047686,41.510329,-87.047686,41.510329",
     "geom:latitude":41.510329,
     "geom:longitude":-87.047686,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L7gBvTfI34HknNec7gR3Z_41.510329_-87.047686@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462582830,
     "wof:geomhash":"51c45440460a050d2eb214f235ea612e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773058369
+        }
+    ],
     "wof:id":773058369,
-    "wof:lastmodified":1466504743,
+    "wof:lastmodified":1492097583,
     "wof:name":"Healthcare Management LLC",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

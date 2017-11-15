@@ -2,9 +2,14 @@
   "id": 773546105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2051 Tryon Rd Michigan City IN 46360",
+    "addr:housenumber":"2051",
+    "addr:postcode":"46360",
+    "addr:street":"Tryon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.83081,41.723648,-86.83081,41.723648",
     "geom:latitude":41.723648,
     "geom:longitude":-86.83081,
@@ -27,7 +32,10 @@
         "forming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76vQPqlg24EZl69Ii8fyuC_41.723648_-86.830810@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586537,
     "wof:geomhash":"30faec8f066bed2e2c715f27a6ad943d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773546105
+        }
+    ],
     "wof:id":773546105,
-    "wof:lastmodified":1466515013,
+    "wof:lastmodified":1492105964,
     "wof:name":"Central States Mfg",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

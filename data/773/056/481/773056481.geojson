@@ -2,9 +2,14 @@
   "id": 773056481,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 S Dickson St Michigan City IN 46360",
+    "addr:housenumber":"529",
+    "addr:postcode":"46360",
+    "addr:street":"S Dickson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878596,41.705047,-86.878596,41.705047",
     "geom:latitude":41.705047,
     "geom:longitude":-86.878596,
@@ -24,7 +29,14 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V9kFw3Orf2j7ZoVS3Qadj_41.705047_-86.878596@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462582816,
     "wof:geomhash":"f0df47f5c8b11a0e29e58b638028055d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":773056481
+        }
+    ],
     "wof:id":773056481,
-    "wof:lastmodified":1466504478,
+    "wof:lastmodified":1492106691,
     "wof:name":"Pamco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806485825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Broadway Gary IN 46407",
+    "addr:housenumber":"1",
+    "addr:postcode":"46407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337207,41.608314,-87.337207,41.608314",
     "geom:latitude":41.608314,
     "geom:longitude":-87.337207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125154633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dF0a4XNxi8y8W7vB4vz91_41.608314_-87.337207@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598513,
-    "wof:geomhash":"638679b78dcf1d6577418df2f1e42a58",
+    "wof:geomhash":"a1d8dbdde75b22b109a6cb33fd7b9317",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806485825,
-    "wof:lastmodified":1466505749,
+    "wof:lastmodified":1510697731,
     "wof:name":"Earth Tech Inc",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

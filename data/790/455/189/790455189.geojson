@@ -2,14 +2,20 @@
   "id": 790455189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1532 Standish Ave Indianapolis IN 46227",
+    "addr:housenumber":"1532",
+    "addr:postcode":"46227",
+    "addr:street":"Standish Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.131372,39.713011,-86.131372,39.713011",
     "geom:latitude":39.713011,
     "geom:longitude":-86.131372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1532 Standish Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153839,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b4zIJ5ny2rOJ4peyZQJYm_39.713011_-86.131372@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595960,
-    "wof:geomhash":"b7b30bd7f1c08fa71eb04282e6c1ed1a",
+    "wof:geomhash":"66e94f785795dc07a87bdbb1a60a48e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790455189,
-    "wof:lastmodified":1466509848,
+    "wof:lastmodified":1510696920,
     "wof:name":"Apostolic Christian Church",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

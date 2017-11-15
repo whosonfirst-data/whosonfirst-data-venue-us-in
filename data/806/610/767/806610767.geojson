@@ -2,9 +2,14 @@
   "id": 806610767,
   "type": "Feature",
   "properties": {
+    "addr:full":"2723 E 1500 N Wheatfield IN 46392",
+    "addr:housenumber":"2723",
+    "addr:postcode":"46392",
+    "addr:street":"E 1500 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.008252,41.230009,-87.008252,41.230009",
     "geom:latitude":41.230009,
     "geom:longitude":-87.008252,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500999,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OG1xT8BecnE3CnWP6B6WI_41.230009_-87.008252@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462599571,
     "wof:geomhash":"f1f60ec2406b04008e6c8f1b63a9c97e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500999,
+            "region_id":85688709,
+            "venue_id":806610767
+        }
+    ],
     "wof:id":806610767,
-    "wof:lastmodified":1466507463,
+    "wof:lastmodified":1492093704,
     "wof:name":"Mead Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

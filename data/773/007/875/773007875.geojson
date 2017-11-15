@@ -2,9 +2,14 @@
   "id": 773007875,
   "type": "Feature",
   "properties": {
+    "addr:full":"8218 N 279 W Lake Village IN 46349",
+    "addr:housenumber":"8218",
+    "addr:postcode":"46349",
+    "addr:street":"N 279 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.444787,41.117635,-87.444787,41.117635",
     "geom:latitude":41.117635,
     "geom:longitude":-87.444787,
@@ -28,7 +33,14 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RKqiaCsvyW3b8fSGXeiiT_41.117635_-87.444787@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462582267,
     "wof:geomhash":"647531ad0f5f4ee183fd33c72c284d47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":773007875
+        }
+    ],
     "wof:id":773007875,
-    "wof:lastmodified":1466503578,
+    "wof:lastmodified":1492090301,
     "wof:name":"World Wide Door Components Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

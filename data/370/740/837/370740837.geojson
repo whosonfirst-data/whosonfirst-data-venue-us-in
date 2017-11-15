@@ -2,14 +2,20 @@
   "id": 370740837,
   "type": "Feature",
   "properties": {
+    "addr:full":"6241 E Washington St Indianapolis IN 46219",
+    "addr:housenumber":"6241",
+    "addr:postcode":"46219",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.059164,39.771295,-86.059164,39.771295",
     "geom:latitude":39.771295,
     "geom:longitude":-86.059164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6241 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85870679
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Fp9FxbcQc0x3X2s99bTcN_39.771295_-86.059164@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc2877f29853507048ebac84a9894aa1",
+    "wof:geomhash":"aaad88ff71266a2c2902ec66dcde77e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":370740837,
-    "wof:lastmodified":1466503528,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85870679,
     "wof:placetype":"venue",

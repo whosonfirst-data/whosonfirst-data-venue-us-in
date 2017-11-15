@@ -2,9 +2,14 @@
   "id": 806729271,
   "type": "Feature",
   "properties": {
+    "addr:full":"8769 S 1300 W Francesville IN 47946",
+    "addr:housenumber":"8769",
+    "addr:postcode":"47946",
+    "addr:street":"S 1300 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853687,40.927065,-86.853687,40.927065",
     "geom:latitude":40.927065,
     "geom:longitude":-86.853687,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501671,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qhZDDOcPPXK0DNPihstO0_40.927065_-86.853687@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600576,
     "wof:geomhash":"12089404f6add75accd31aafccc52347",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501671,
+            "region_id":85688709,
+            "venue_id":806729271
+        }
+    ],
     "wof:id":806729271,
-    "wof:lastmodified":1466512218,
+    "wof:lastmodified":1492103020,
     "wof:name":"Robert Federer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

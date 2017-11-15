@@ -2,14 +2,20 @@
   "id": 806460735,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 N 2nd St Terre Haute IN 47807",
+    "addr:housenumber":"422",
+    "addr:postcode":"47807",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.415637,39.471221,-87.415637,39.471221",
     "geom:latitude":39.471221,
     "geom:longitude":-87.415637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"422 N 2nd St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J0YFRl03ux8lSFkuX6N4M_39.471221_-87.415637@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598317,
-    "wof:geomhash":"da92aa655387e2c9edacfb963524c3e2",
+    "wof:geomhash":"2e28befb16c501cad4cef6c3f6352c38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806460735,
-    "wof:lastmodified":1466505542,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387679087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Alene Dr Valparaiso IN 46385",
+    "addr:housenumber":"1",
+    "addr:postcode":"46385",
+    "addr:street":"Alene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107314,41.43196,-87.107314,41.43196",
     "geom:latitude":41.43196,
     "geom:longitude":-87.107314,
@@ -30,7 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,15 @@
     "wof:geomhash":"22a52670fb78237f6a61044bb42ea2ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519837,
             "venue_id":387679087
         }
     ],
     "wof:id":387679087,
-    "wof:lastmodified":1466503816,
+    "wof:lastmodified":1492105118,
     "wof:name":"Landscape Enhancements",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

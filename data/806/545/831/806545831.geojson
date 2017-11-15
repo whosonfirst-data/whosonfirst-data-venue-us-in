@@ -2,9 +2,14 @@
   "id": 806545831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4769 Broadway Gary IN 46409",
+    "addr:housenumber":"4769",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336165,41.532556,-87.336165,41.532556",
     "geom:latitude":41.532556,
     "geom:longitude":-87.336165,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L3K5p5Xu6OdMNfolH2ivv_41.532556_-87.336165@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599003,
     "wof:geomhash":"b67def23367b984944c873a710b3d578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806545831
+        }
+    ],
     "wof:id":806545831,
-    "wof:lastmodified":1466506545,
+    "wof:lastmodified":1492091996,
     "wof:name":"Stiles Properties",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

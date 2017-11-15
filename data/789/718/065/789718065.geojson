@@ -2,6 +2,10 @@
   "id": 789718065,
   "type": "Feature",
   "properties": {
+    "addr:full":"6287 N State Rd 15 Leesburg IN 46538",
+    "addr:housenumber":"6287;15",
+    "addr:postcode":"46538",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789718065,
-    "wof:lastmodified":1466505506,
+    "wof:lastmodified":1472622550,
     "wof:name":"Gilsinger Implement Co Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

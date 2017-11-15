@@ -2,6 +2,10 @@
   "id": 806665283,
   "type": "Feature",
   "properties": {
+    "addr:full":"4239 E Co Rd 700 S Mooresville IN 46158",
+    "addr:housenumber":"4239;700",
+    "addr:postcode":"46158",
+    "addr:street":"E Co Rd;S Mooresville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806665283,
-    "wof:lastmodified":1466508844,
+    "wof:lastmodified":1472622743,
     "wof:name":"Phillip Wilson",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

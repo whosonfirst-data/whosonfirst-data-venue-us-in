@@ -2,9 +2,14 @@
   "id": 353992361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 US Hwy 30 Valparaiso IN 46383",
+    "addr:housenumber":"2005",
+    "addr:postcode":"46383",
+    "addr:street":"Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.036546,41.460323,-87.036546,41.460323",
     "geom:latitude":41.460323,
     "geom:longitude":-87.036546,
@@ -40,7 +45,6 @@
     "wof:geomhash":"6e4b98fd874fc6a71b3eb057ce4dd206",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
             "locality_id":85942401,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":353992361,
-    "wof:lastmodified":1466503545,
+    "wof:lastmodified":1492102949,
     "wof:name":"KFC",
     "wof:parent_id":85891195,
     "wof:placetype":"venue",

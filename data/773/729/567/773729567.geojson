@@ -2,9 +2,14 @@
   "id": 773729567,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 W 890 N Wheatfield IN 46392",
+    "addr:housenumber":"217",
+    "addr:postcode":"46392",
+    "addr:street":"W 890 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.0463,41.142507,-87.0463,41.142507",
     "geom:latitude":41.142507,
     "geom:longitude":-87.0463,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501007,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c3nj7Vku2BlkHwPYbibbC_41.142507_-87.046300@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462587945,
     "wof:geomhash":"720ada2071e6ac07b139d953536f33a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501007,
+            "region_id":85688709,
+            "venue_id":773729567
+        }
+    ],
     "wof:id":773729567,
-    "wof:lastmodified":1466518031,
+    "wof:lastmodified":1492091776,
     "wof:name":"Dek Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

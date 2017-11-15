@@ -2,9 +2,14 @@
   "id": 806669715,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 Lincoln St Gary IN 46408",
+    "addr:housenumber":"4408",
+    "addr:postcode":"46408",
+    "addr:street":"Lincoln St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353312,41.537019,-87.353312,41.537019",
     "geom:latitude":41.537019,
     "geom:longitude":-87.353312,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zD6GwBJh6g5OQWGTNf06V_41.537019_-87.353312@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462600077,
     "wof:geomhash":"4a6d814f490d11dde24d408550267b37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806669715
+        }
+    ],
     "wof:id":806669715,
-    "wof:lastmodified":1466509171,
+    "wof:lastmodified":1492097512,
     "wof:name":"Amber Fluids LP",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

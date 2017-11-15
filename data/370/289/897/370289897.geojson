@@ -2,14 +2,20 @@
   "id": 370289897,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 W 1st Rd Lapaz IN 46537",
+    "addr:housenumber":"321",
+    "addr:postcode":"46537",
+    "addr:street":"W 1St Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.313489,41.462292,-86.313489,41.462292",
     "geom:latitude":41.462292,
     "geom:longitude":-86.313489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 W 1st Rd",
     "sg:city":"Lapaz",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688709
     ],
+    "wof:brand_id":1125156201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hx5eB3s9m8X33kAs98KGN_41.462292_-86.313489@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"531642e78aa834d3d83da63121d78c93",
+    "wof:geomhash":"8a0501d0c11e1c8845cefc4aec37cf6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":370289897,
-    "wof:lastmodified":1466503061,
+    "wof:lastmodified":1510698948,
     "wof:name":"Cargill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

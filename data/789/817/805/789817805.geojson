@@ -2,9 +2,14 @@
   "id": 789817805,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 W Washington St Rensselaer IN 47978",
+    "addr:housenumber":"214",
+    "addr:postcode":"47978",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.15206,40.935942,-87.15206,40.935942",
     "geom:latitude":40.935942,
     "geom:longitude":-87.15206,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y6X73wpyq8sZDzSaGDqIH_40.935942_-87.152060@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462590771,
     "wof:geomhash":"5c23408a9b6f2eeebceb910df6668b0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":789817805
+        }
+    ],
     "wof:id":789817805,
-    "wof:lastmodified":1466506719,
+    "wof:lastmodified":1492093877,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

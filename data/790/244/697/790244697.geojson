@@ -2,6 +2,10 @@
   "id": 790244697,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 E 650 S Anderson IN 46013",
+    "addr:housenumber":"333;650",
+    "addr:postcode":"46013",
+    "addr:street":"E;S Anderson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":790244697,
-    "wof:lastmodified":1466506406,
+    "wof:lastmodified":1472622649,
     "wof:name":"Music Express Dj S",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

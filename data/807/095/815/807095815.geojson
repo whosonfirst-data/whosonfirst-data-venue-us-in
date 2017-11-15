@@ -2,9 +2,14 @@
   "id": 807095815,
   "type": "Feature",
   "properties": {
+    "addr:full":"511 S Lincoln St Morocco IN 47963",
+    "addr:housenumber":"511",
+    "addr:postcode":"47963",
+    "addr:street":"S Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.451842,40.941804,-87.451842,40.941804",
     "geom:latitude":40.941804,
     "geom:longitude":-87.451842,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zq5aGvoh7SQpWhcsW5jsG_40.941804_-87.451842@1303262773"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603673,
     "wof:geomhash":"b14bcdbddda98b4d0b5d28255d82e8ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":807095815
+        }
+    ],
     "wof:id":807095815,
-    "wof:lastmodified":1466505073,
+    "wof:lastmodified":1492103023,
     "wof:name":"It In Put Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

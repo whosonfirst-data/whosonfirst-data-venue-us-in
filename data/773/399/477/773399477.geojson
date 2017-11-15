@@ -2,14 +2,20 @@
   "id": 773399477,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Enterprise Dr Warsaw IN 46580",
+    "addr:housenumber":"129",
+    "addr:postcode":"46580",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.855383,41.258981,-85.855383,41.258981",
     "geom:latitude":41.258981,
     "geom:longitude":-85.855383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Enterprise Dr",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PgZ9pAtbrEEmBox5GuRvY_41.258981_-85.855383@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585395,
-    "wof:geomhash":"ad6998f7fd255867f29e26c1627ee6ff",
+    "wof:geomhash":"49c0fefabd7f0dd19cbbdd03d72ab9b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773399477,
-    "wof:lastmodified":1466509911,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

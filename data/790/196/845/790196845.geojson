@@ -2,14 +2,20 @@
   "id": 790196845,
   "type": "Feature",
   "properties": {
+    "addr:full":"7673 Shelby St Indianapolis IN 46227",
+    "addr:housenumber":"7673",
+    "addr:postcode":"46227",
+    "addr:street":"Shelby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.139356,39.655836,-86.139356,39.655836",
     "geom:latitude":39.655836,
     "geom:longitude":-86.139356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7673 Shelby St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35SxwWTvDLRp9BfhERIWJg_39.655836_-86.139356@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593920,
-    "wof:geomhash":"8922fc204fad6bf835c26599b060b6b0",
+    "wof:geomhash":"96ba8bd14d0a5e482c408bec532b2b63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790196845,
-    "wof:lastmodified":1466505876,
+    "wof:lastmodified":1510601946,
     "wof:name":"Leslie's Swimming Pool Supply",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

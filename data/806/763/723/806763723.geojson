@@ -2,14 +2,20 @@
   "id": 806763723,
   "type": "Feature",
   "properties": {
+    "addr:full":"8708 Castle Creek Parkway East Dr Indianapolis IN 46250",
+    "addr:housenumber":"8708",
+    "addr:postcode":"46250",
+    "addr:street":"Castle Creek Parkway East Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.06867,39.914265,-86.06867,39.914265",
     "geom:latitude":39.914265,
     "geom:longitude":-86.06867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8708 Castle Creek Parkway East Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zWVw6PsC4Wd1UB305R9SQ_39.914035_-86.068819@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600876,
-    "wof:geomhash":"2c46d69c1d409055d3d5bab2b6f68dea",
+    "wof:geomhash":"8e786ca7c7dc47d93c3891c79a5f4193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806763723,
-    "wof:lastmodified":1466513417,
+    "wof:lastmodified":1510694681,
     "wof:name":"Thomasville Home Furnishings",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

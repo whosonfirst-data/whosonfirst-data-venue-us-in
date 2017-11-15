@@ -2,9 +2,14 @@
   "id": 806762905,
   "type": "Feature",
   "properties": {
+    "addr:full":"54850 County Line Rd New Carlisle IN 46552",
+    "addr:housenumber":"54850",
+    "addr:postcode":"46552",
+    "addr:street":"County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.525275,41.697651,-86.525275,41.697651",
     "geom:latitude":41.697651,
     "geom:longitude":-86.525275,
@@ -23,7 +28,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501467,
+        85633793,
+        102086969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XWnjfmlZ4doTkIw7MzRlG_41.697651_-86.525275@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600870,
     "wof:geomhash":"ed136ffd777fce52d7e9bd0b1194e82a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086969,
+            "localadmin_id":404501467,
+            "region_id":85688709,
+            "venue_id":806762905
+        }
+    ],
     "wof:id":806762905,
-    "wof:lastmodified":1466513316,
+    "wof:lastmodified":1492097581,
     "wof:name":"Harry Dudeck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

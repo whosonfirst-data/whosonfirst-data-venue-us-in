@@ -2,14 +2,20 @@
   "id": 773782159,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 S Girls School Rd Indianapolis IN 46231",
+    "addr:housenumber":"77",
+    "addr:postcode":"46231",
+    "addr:street":"S Girls School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.288955,39.763372,-86.288955,39.763372",
     "geom:latitude":39.763372,
     "geom:longitude":-86.288955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77 S Girls School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09yJoYcMdB1ONEc8T0HrSR_39.763372_-86.288955@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588333,
-    "wof:geomhash":"f1be0aa32b981001e870ef88e3ad482d",
+    "wof:geomhash":"77fb824f020dae281b5cfebda7672ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773782159,
-    "wof:lastmodified":1466518682,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",

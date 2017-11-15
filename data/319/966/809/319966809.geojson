@@ -2,14 +2,20 @@
   "id": 319966809,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 I St Bedford IN 47421",
+    "addr:housenumber":"1410",
+    "addr:postcode":"47421",
+    "addr:street":"I St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.482626,38.863209,-86.482626,38.863209",
     "geom:latitude":38.863209,
     "geom:longitude":-86.482626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1410 I St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85941593,
         102087141
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hzx53P6YvdD2Jy8Ha7FxU_38.863209_-86.482626@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"0517c1ed4cd5d60f3e1506ba01591e97",
+    "wof:geomhash":"500a95dc28575ed51d18b579f09f2c7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":319966809,
-    "wof:lastmodified":1466503625,
+    "wof:lastmodified":1510693941,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

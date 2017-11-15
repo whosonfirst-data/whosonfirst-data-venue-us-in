@@ -2,14 +2,20 @@
   "id": 790420751,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 W Superior St Fort Wayne IN 46802",
+    "addr:housenumber":"102",
+    "addr:postcode":"46802",
+    "addr:street":"W Superior St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.14134,41.082304,-85.14134,41.082304",
     "geom:latitude":41.082304,
     "geom:longitude":-85.14134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 W Superior St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NuXd94WzgvFDPcU8IyYhV_41.082304_-85.141340@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595684,
-    "wof:geomhash":"aef718d21cac951ea9682c584f8afec7",
+    "wof:geomhash":"f28a22ddb626d6a45b3f7a7626c51ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790420751,
-    "wof:lastmodified":1466508292,
+    "wof:lastmodified":1510695893,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789991795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"2711",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.368766,41.507188,-87.368766,41.507188",
     "geom:latitude":41.507188,
     "geom:longitude":-87.368766,
@@ -29,7 +34,10 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lZgKIIQpyzJI7MBQFNh7t_41.507188_-87.368766@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462592264,
     "wof:geomhash":"a59924dc7ed16dd1b10017a9fec7324f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789991795
+        }
+    ],
     "wof:id":789991795,
-    "wof:lastmodified":1466509872,
+    "wof:lastmodified":1492101418,
     "wof:name":"Indiana High Speed Rail Assoc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

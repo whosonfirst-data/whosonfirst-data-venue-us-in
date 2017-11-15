@@ -2,14 +2,20 @@
   "id": 790484425,
   "type": "Feature",
   "properties": {
+    "addr:full":"2424 Bremer Rd Fort Wayne IN 46803",
+    "addr:housenumber":"2424",
+    "addr:postcode":"46803",
+    "addr:street":"Bremer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.074938,41.066506,-85.074938,41.066506",
     "geom:latitude":41.066506,
     "geom:longitude":-85.074938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2424 Bremer Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AM8G810cqczjazlLNPE6R_41.066506_-85.074938@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596228,
-    "wof:geomhash":"3288c2d74b680b658a90f7470290915d",
+    "wof:geomhash":"7b93c73317414521e923e13c1db82a26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790484425,
-    "wof:lastmodified":1466511590,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":420519441,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773585321,
   "type": "Feature",
   "properties": {
+    "addr:full":"951 Dresser Dr Terre Haute IN 47807",
+    "addr:housenumber":"951",
+    "addr:postcode":"47807",
+    "addr:street":"Dresser Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.418228,39.45665,-87.418228,39.45665",
     "geom:latitude":39.45665,
     "geom:longitude":-87.418228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"951 Dresser Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":420575737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TFheLJhP6SXo39DwlHEhg_39.456650_-87.418228@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586839,
-    "wof:geomhash":"e00802657037abc572bcdf6b409276c1",
+    "wof:geomhash":"8f32896abf3455b260ae18e54a241f55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773585321,
-    "wof:lastmodified":1466515709,
+    "wof:lastmodified":1510602696,
     "wof:name":"YWCA",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403828221,
   "type": "Feature",
   "properties": {
+    "addr:full":"186 Royal Rd Beech Grove IN 46107",
+    "addr:housenumber":"186",
+    "addr:postcode":"46107",
+    "addr:street":"Royal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.108269,39.725638,-86.108269,39.725638",
     "geom:latitude":39.725638,
     "geom:longitude":-86.108269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"186 Royal Rd",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85851503
     ],
+    "wof:brand_id":1125155605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H7fKYnk21Li6KTidc41zY_39.725638_-86.108269@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ac37b6a88c08eb36deda42d4a23e056",
+    "wof:geomhash":"9cc25dba31c943741a20e02b3cac9374",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403828221,
-    "wof:lastmodified":1466503061,
+    "wof:lastmodified":1510613383,
     "wof:name":"Faith Assembly Of God",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",

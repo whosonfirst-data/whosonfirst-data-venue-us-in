@@ -2,9 +2,14 @@
   "id": 806665011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2953 Arran Quay Ter Valparaiso IN 46385",
+    "addr:housenumber":"",
+    "addr:postcode":"2953;46385",
+    "addr:street":"Arran Quay Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.089275,41.442093,-87.089275,41.442093",
     "geom:latitude":41.442093,
     "geom:longitude":-87.089275,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09LwRlpgsW5kl6HG56ix6X_41.442093_-87.089275@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600040,
     "wof:geomhash":"586b267d0037d03444047b211796900a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806665011
+        }
+    ],
     "wof:id":806665011,
-    "wof:lastmodified":1466508831,
+    "wof:lastmodified":1492091399,
     "wof:name":"Rockville Development & Co",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

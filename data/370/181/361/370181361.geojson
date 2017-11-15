@@ -2,9 +2,14 @@
   "id": 370181361,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 E 300 N Valparaiso IN 46383",
+    "addr:housenumber":"370",
+    "addr:postcode":"46383",
+    "addr:street":"E 300 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.994025,41.478004,-86.994025,41.478004",
     "geom:latitude":41.478004,
     "geom:longitude":-86.994025,
@@ -39,7 +44,6 @@
     "wof:geomhash":"c808e02abf8cfea9757347f6a9506825",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
             "locality_id":85942401,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":370181361,
-    "wof:lastmodified":1466502924,
+    "wof:lastmodified":1492098304,
     "wof:name":"K T Chiropractic",
     "wof:parent_id":85891195,
     "wof:placetype":"venue",

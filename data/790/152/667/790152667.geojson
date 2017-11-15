@@ -2,14 +2,20 @@
   "id": 790152667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 Winsted Dr Goshen IN 46526",
+    "addr:housenumber":"1615",
+    "addr:postcode":"46526",
+    "addr:street":"Winsted Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.812909,41.566516,-85.812909,41.566516",
     "geom:latitude":41.566516,
     "geom:longitude":-85.812909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1615 Winsted Dr",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125152789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rgKIRkg5zuNVHCYjmjgJt_41.566516_-85.812909@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593526,
-    "wof:geomhash":"0ff598c7bc8ad9d5e7bc54fafcc3c6f4",
+    "wof:geomhash":"21b95df3acbe6114316b4ebfd2e323fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790152667,
-    "wof:lastmodified":1466505437,
+    "wof:lastmodified":1510697427,
     "wof:name":"LCA",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

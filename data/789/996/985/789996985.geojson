@@ -2,14 +2,20 @@
   "id": 789996985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 W Broadway St Princeton IN 47670",
+    "addr:housenumber":"2801",
+    "addr:postcode":"47670",
+    "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.592966,38.355335,-87.592966,38.355335",
     "geom:latitude":38.355335,
     "geom:longitude":-87.592966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 W Broadway St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086375,
         85804327
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J06eQSNixgcYKnZFKe5ze_38.355335_-87.592966@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592304,
-    "wof:geomhash":"ab647f790ed5f6938fdf372b45e427a8",
+    "wof:geomhash":"e9ec906250b09ba0b1060e67e7a5841f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789996985,
-    "wof:lastmodified":1466510574,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85804327,
     "wof:placetype":"venue",

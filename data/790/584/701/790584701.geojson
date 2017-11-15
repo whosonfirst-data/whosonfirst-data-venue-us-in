@@ -2,9 +2,14 @@
   "id": 790584701,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"304",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.127356,41.550176,-87.127356,41.550176",
     "geom:latitude":41.550176,
     "geom:longitude":-87.127356,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eJJf3Tt1TBOp1jzlbHrhl_41.550176_-87.127356@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462597082,
     "wof:geomhash":"65f0afaf52e4d7c4510e0155f50b60f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790584701
+        }
+    ],
     "wof:id":790584701,
-    "wof:lastmodified":1466514395,
+    "wof:lastmodified":1492092141,
     "wof:name":"Harpernet Investigative Svc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790159375,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Railroad St Wheatfield IN 46392",
+    "addr:housenumber":"35",
+    "addr:postcode":"46392",
+    "addr:street":"Railroad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.05453,41.193762,-87.05453,41.193762",
     "geom:latitude":41.193762,
     "geom:longitude":-87.05453,
@@ -24,7 +29,14 @@
     "sg:postcode":"46392",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501009,
+        85633793,
+        85941491,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69sfdmVsyoZZ1N4tE1nWHU_41.193762_-87.054530@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462593588,
     "wof:geomhash":"451d04cdf8a1eedd04e5f6ad788922fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501009,
+            "locality_id":85941491,
+            "region_id":85688709,
+            "venue_id":790159375
+        }
+    ],
     "wof:id":790159375,
-    "wof:lastmodified":1466505483,
+    "wof:lastmodified":1492091617,
     "wof:name":"Wheatfield Beauty Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

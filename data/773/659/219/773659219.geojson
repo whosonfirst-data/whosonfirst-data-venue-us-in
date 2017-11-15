@@ -2,9 +2,14 @@
   "id": 773659219,
   "type": "Feature",
   "properties": {
+    "addr:full":"5503 Emerald Ln Valparaiso IN 46383",
+    "addr:housenumber":"5503",
+    "addr:postcode":"46383",
+    "addr:street":"Emerald Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.039844,41.517768,-87.039844,41.517768",
     "geom:latitude":41.517768,
     "geom:longitude":-87.039844,
@@ -27,7 +32,10 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vc31LmPs1OUJPZiozdpa6_41.517768_-87.039844@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587387,
     "wof:geomhash":"94804a3eb9ab9003217be73142ace037",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773659219
+        }
+    ],
     "wof:id":773659219,
-    "wof:lastmodified":1466517086,
+    "wof:lastmodified":1492102373,
     "wof:name":"Central Services",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

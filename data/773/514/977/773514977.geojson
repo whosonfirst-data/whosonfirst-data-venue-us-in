@@ -2,9 +2,14 @@
   "id": 773514977,
   "type": "Feature",
   "properties": {
+    "addr:full":"10544 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"10544;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.723081,41.757995,-86.723081,41.757995",
     "geom:latitude":41.757995,
     "geom:longitude":-86.723081,
@@ -31,7 +36,13 @@
     ],
     "sg:website":"www.iattrans.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mk7lnm4QrQCFmtiQ8sC3d_41.757995_-86.723081@1294102998"
@@ -39,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1462586309,
     "wof:geomhash":"9df1fdb4f2f30b9a37439db8ebcd5552",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":773514977
+        }
+    ],
     "wof:id":773514977,
-    "wof:lastmodified":1466513370,
+    "wof:lastmodified":1492101252,
     "wof:name":"Interstate Auto Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

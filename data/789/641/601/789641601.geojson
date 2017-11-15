@@ -2,9 +2,14 @@
   "id": 789641601,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 W Oakley Ave Lowell IN 46356",
+    "addr:housenumber":"510",
+    "addr:postcode":"46356",
+    "addr:street":"W Oakley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.433598,41.288705,-87.433598,41.288705",
     "geom:latitude":41.288705,
     "geom:longitude":-87.433598,
@@ -24,7 +29,14 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iiioCj7C5kLqnHbbBjRVB_41.288705_-87.433598@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462589386,
     "wof:geomhash":"aaa14f3048f67238360b438309c4d34f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":789641601
+        }
+    ],
     "wof:id":789641601,
-    "wof:lastmodified":1466504738,
+    "wof:lastmodified":1492095779,
     "wof:name":"Dm Luckel Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

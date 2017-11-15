@@ -2,9 +2,14 @@
   "id": 806402109,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 W Allen St Kentland IN 47951",
+    "addr:housenumber":"201",
+    "addr:postcode":"47951",
+    "addr:street":"W Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454877,40.766442,-87.454877,40.766442",
     "geom:latitude":40.766442,
     "geom:longitude":-87.454877,
@@ -24,7 +29,14 @@
     "sg:postcode":"47951",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dH6iDrYHkkUNjETpZ3ghR_40.766442_-87.454877@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462597854,
     "wof:geomhash":"05d1da43d929b9b9e4b4c27c51445e83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":806402109
+        }
+    ],
     "wof:id":806402109,
-    "wof:lastmodified":1466504573,
+    "wof:lastmodified":1492092206,
     "wof:name":"Miller's Appliance Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

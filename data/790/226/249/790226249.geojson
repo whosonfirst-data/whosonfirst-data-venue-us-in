@@ -2,6 +2,10 @@
   "id": 790226249,
   "type": "Feature",
   "properties": {
+    "addr:full":"22280 Co Rd 32 Goshen IN 46526",
+    "addr:housenumber":"22280;32",
+    "addr:postcode":"46526",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790226249,
-    "wof:lastmodified":1466506058,
+    "wof:lastmodified":1472622617,
     "wof:name":"Hershberger Heating",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

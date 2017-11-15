@@ -2,14 +2,20 @@
   "id": 807064469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 S Walnut St Bloomington IN 47401",
+    "addr:housenumber":"1616",
+    "addr:postcode":"47401",
+    "addr:street":"S Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.533481,39.149636,-86.533481,39.149636",
     "geom:latitude":39.149636,
     "geom:longitude":-86.533481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1616 S Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":420575289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GWhMrlXWLJluex1nFoY0w_39.149636_-86.533481@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603404,
-    "wof:geomhash":"b435310dc058b257b45ebbb9c3092d77",
+    "wof:geomhash":"24650bb00502553a8395d208ed9716d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807064469,
-    "wof:lastmodified":1466504649,
+    "wof:lastmodified":1510603007,
     "wof:name":"National Car Rental",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",

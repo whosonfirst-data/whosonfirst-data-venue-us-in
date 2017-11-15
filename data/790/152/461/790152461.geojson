@@ -2,14 +2,20 @@
   "id": 790152461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1414 S West St Indianapolis IN 46225",
+    "addr:housenumber":"1414",
+    "addr:postcode":"46225",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.167704,39.748878,-86.167704,39.748878",
     "geom:latitude":39.748878,
     "geom:longitude":-86.167704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1414 S West St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Jj0WueVBB7chxXKVL2gL6_39.748878_-86.167704@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593524,
-    "wof:geomhash":"3039c754fb998e1be946b0b42189421a",
+    "wof:geomhash":"8c578fd11d90348f380eb07e6211a989",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790152461,
-    "wof:lastmodified":1466505432,
+    "wof:lastmodified":1510602498,
     "wof:name":"Pep Boys Supercenter",
     "wof:parent_id":85866943,
     "wof:placetype":"venue",

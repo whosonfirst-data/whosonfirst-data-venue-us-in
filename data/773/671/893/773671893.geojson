@@ -2,14 +2,20 @@
   "id": 773671893,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Thorneybrook Dr Columbus IN 47203",
+    "addr:housenumber":"2350",
+    "addr:postcode":"47203",
+    "addr:street":"Thorneybrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.871416,39.22203,-85.871416,39.22203",
     "geom:latitude":39.22203,
     "geom:longitude":-85.871416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 Thorneybrook Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087181,
         85816163
     ],
+    "wof:brand_id":1125159171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LOOWNZnpD8BGzBCZ9xfyt_39.222030_-85.871416@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587479,
-    "wof:geomhash":"68c406b15d5e15548443dc945fe6a4ea",
+    "wof:geomhash":"cb8235dd7e892505ec7d9db06d13ad52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773671893,
-    "wof:lastmodified":1466517289,
+    "wof:lastmodified":1510694039,
     "wof:name":"Briarwood Apartments",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",

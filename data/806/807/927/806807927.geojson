@@ -2,14 +2,20 @@
   "id": 806807927,
   "type": "Feature",
   "properties": {
+    "addr:full":"6990e E 21st St Indianapolis IN 46219",
+    "addr:housenumber":"6990e",
+    "addr:postcode":"46219",
+    "addr:street":"E 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.045461,39.796407,-86.045461,39.796407",
     "geom:latitude":39.796407,
     "geom:longitude":-86.045461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6990e E 21st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a1qBKVveY5sffoQeQRYO2_39.796407_-86.045461@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601249,
-    "wof:geomhash":"0a4490fd41e05fdbd7e598095a46cb3f",
+    "wof:geomhash":"c536f731e441f86c82b85b86fb9e046e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806807927,
-    "wof:lastmodified":1466515055,
+    "wof:lastmodified":1510695872,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806829951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 W Mcgalliard Rd Muncie IN 47303",
+    "addr:housenumber":"1101",
+    "addr:postcode":"47303",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.398238,40.218951,-85.398238,40.218951",
     "geom:latitude":40.218951,
     "geom:longitude":-85.398238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 W Mcgalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LMRkSKgWRFEDoM0jdeOC2_40.218951_-85.398238@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601424,
-    "wof:geomhash":"8c36f78795c0f94126a76133a1a66d59",
+    "wof:geomhash":"9d6fd17e5b92f3b64fcb4adef59858c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806829951,
-    "wof:lastmodified":1466515974,
+    "wof:lastmodified":1510697326,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

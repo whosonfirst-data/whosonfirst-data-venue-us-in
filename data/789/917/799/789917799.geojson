@@ -2,6 +2,10 @@
   "id": 789917799,
   "type": "Feature",
   "properties": {
+    "addr:full":"5447 S 50 W Anderson IN 46013",
+    "addr:housenumber":"5447;50",
+    "addr:postcode":"46013",
+    "addr:street":"S;W Anderson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789917799,
-    "wof:lastmodified":1466507741,
+    "wof:lastmodified":1472622771,
     "wof:name":"Fugate's Collision Repair",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

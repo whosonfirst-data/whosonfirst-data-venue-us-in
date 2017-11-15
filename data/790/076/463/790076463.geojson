@@ -2,9 +2,14 @@
   "id": 790076463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3965 Harrison St Gary IN 46408",
+    "addr:housenumber":"3965",
+    "addr:postcode":"46408",
+    "addr:street":"Harrison St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.346102,41.545889,-87.346102,41.545889",
     "geom:latitude":41.545889,
     "geom:longitude":-87.346102,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l6mWb0V9nPV01yI0Eh7FL_41.545889_-87.346102@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462592947,
     "wof:geomhash":"995f2bcc3352708fc9df0efa4f3f1d8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790076463
+        }
+    ],
     "wof:id":790076463,
-    "wof:lastmodified":1466504542,
+    "wof:lastmodified":1492093633,
     "wof:name":"Gariup Construction Co",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

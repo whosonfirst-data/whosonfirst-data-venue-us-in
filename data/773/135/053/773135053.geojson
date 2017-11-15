@@ -2,14 +2,20 @@
   "id": 773135053,
   "type": "Feature",
   "properties": {
+    "addr:full":"935 Gardengate Pl Indianapolis IN 46202",
+    "addr:housenumber":"935",
+    "addr:postcode":"46202",
+    "addr:street":"Gardengate Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.166241,39.780259,-86.166241,39.780259",
     "geom:latitude":39.780259,
     "geom:longitude":-86.166241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"935 Gardengate Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EhbmKXbqGRD9rTmfZm6Uz_39.780259_-86.166241@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583397,
-    "wof:geomhash":"07ef574e95f07f6319629b980bbafeda",
+    "wof:geomhash":"5a4da43f4b10be0763a5d94225e3ba51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773135053,
-    "wof:lastmodified":1466505720,
+    "wof:lastmodified":1510697049,
     "wof:name":"Cort Furniture Rental",
     "wof:parent_id":85870649,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790039355,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Roslyn Trl Michigan City IN 46360",
+    "addr:housenumber":"2501",
+    "addr:postcode":"46360",
+    "addr:street":"Roslyn Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.847248,41.747406,-86.847248,41.747406",
     "geom:latitude":41.747406,
     "geom:longitude":-86.847248,
@@ -28,7 +33,13 @@
         "soil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        85633793,
+        85941905,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RF2yLAYmUdgiswMR3YY7B_41.747406_-86.847248@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462592636,
     "wof:geomhash":"986cdd888e3ad6db8c9935ef7196791a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941905,
+            "region_id":85688709,
+            "venue_id":790039355
+        }
+    ],
     "wof:id":790039355,
-    "wof:lastmodified":1466504319,
+    "wof:lastmodified":1492090630,
     "wof:name":"Triple S Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

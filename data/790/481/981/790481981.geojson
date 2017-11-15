@@ -2,9 +2,14 @@
   "id": 790481981,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 S State Rd 2 Valparaiso IN 46385",
+    "addr:housenumber":"239",
+    "addr:postcode":"46385",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.139082,41.409085,-87.139082,41.409085",
     "geom:latitude":41.409085,
     "geom:longitude":-87.139082,
@@ -28,7 +33,10 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YJgG2X2NPESHGhjCOxFCJ_41.409085_-87.139082@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596209,
     "wof:geomhash":"ceb64fee29f6d984e1d886301885f07f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790481981
+        }
+    ],
     "wof:id":790481981,
-    "wof:lastmodified":1466511102,
+    "wof:lastmodified":1492094623,
     "wof:name":"Beach Drilling",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

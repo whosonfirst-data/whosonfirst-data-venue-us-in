@@ -2,6 +2,10 @@
   "id": 789891197,
   "type": "Feature",
   "properties": {
+    "addr:full":"16840 State Rd 37 Harlan IN 46788",
+    "addr:housenumber":"16840;37",
+    "addr:postcode":"46788",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789891197,
-    "wof:lastmodified":1466507442,
+    "wof:lastmodified":1472622730,
     "wof:name":"Transformations By Wieland",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

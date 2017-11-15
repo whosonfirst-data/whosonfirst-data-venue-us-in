@@ -2,14 +2,20 @@
   "id": 336685169,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 W Berry St Fort Wayne IN 46802",
+    "addr:housenumber":"110",
+    "addr:postcode":"46802",
+    "addr:street":"W Berry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.140282,41.079263,-85.140282,41.079263",
     "geom:latitude":41.079263,
     "geom:longitude":-85.140282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 W Berry St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087177,
         85877543
     ],
+    "wof:brand_id":1125151833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jkXSnFIDcea5LP1uEonm2_41.079263_-85.140282@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"37d589e9756db5be329d5de3e2753478",
+    "wof:geomhash":"493ae1db4fd2df3109eeb74e032a13e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":336685169,
-    "wof:lastmodified":1466502996,
+    "wof:lastmodified":1510700055,
     "wof:name":"Ernst & Young",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",

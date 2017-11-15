@@ -2,9 +2,14 @@
   "id": 806499735,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 S 250 W Morocco IN 47963",
+    "addr:housenumber":"823;250",
+    "addr:postcode":"47963",
+    "addr:street":"S;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.440411,40.986899,-87.440411,40.986899",
     "geom:latitude":40.986899,
     "geom:longitude":-87.440411,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KjZfEk4sUF21s9PA8oHcT_40.986899_-87.440411@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462598620,
     "wof:geomhash":"0c018b342255ad9906bdd69d0d632ea2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":806499735
+        }
+    ],
     "wof:id":806499735,
-    "wof:lastmodified":1466505950,
+    "wof:lastmodified":1492102169,
     "wof:name":"Morgan Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

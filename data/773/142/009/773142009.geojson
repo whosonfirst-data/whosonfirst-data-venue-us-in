@@ -2,14 +2,20 @@
   "id": 773142009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3488 Stellhorn Rd Fort Wayne IN 46815",
+    "addr:housenumber":"3488",
+    "addr:postcode":"46815",
+    "addr:street":"Stellhorn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.098115,41.119174,-85.098115,41.119174",
     "geom:latitude":41.119174,
     "geom:longitude":-85.098115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3488 Stellhorn Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44OojtqRn5frHCJfLL5dgB_41.119174_-85.098115@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583449,
-    "wof:geomhash":"32f86857d281caebd73de9bfce1afca9",
+    "wof:geomhash":"860c44d6ec1873247f1284e09ee1e3e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773142009,
-    "wof:lastmodified":1466505827,
+    "wof:lastmodified":1510613257,
     "wof:name":"GAB Robins",
     "wof:parent_id":420519405,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807020517,
   "type": "Feature",
   "properties": {
+    "addr:full":"11735 N State Road 55 Demotte IN 46310",
+    "addr:housenumber":"11735",
+    "addr:postcode":"46310",
+    "addr:street":"N State Road 55",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.333692,41.168207,-87.333692,41.168207",
     "geom:latitude":41.168207,
     "geom:longitude":-87.333692,
@@ -37,7 +42,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_348nwsdvltEI9FSnfuWTRB_41.168207_-87.333692@1303262769"
@@ -45,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1462603043,
     "wof:geomhash":"cee262612c5d9d69f60b9aece0663aa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":807020517
+        }
+    ],
     "wof:id":807020517,
-    "wof:lastmodified":1466504087,
+    "wof:lastmodified":1492093667,
     "wof:name":"Mr Heat Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

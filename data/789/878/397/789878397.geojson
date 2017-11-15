@@ -2,14 +2,20 @@
   "id": 789878397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4233 Lafayette Rd Indianapolis IN 46254",
+    "addr:housenumber":"4233",
+    "addr:postcode":"46254",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.244379,39.833618,-86.244379,39.833618",
     "geom:latitude":39.833618,
     "geom:longitude":-86.244379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4233 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157747,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XlJshrgDPm4KWeFD2lVM8_39.833618_-86.244379@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591273,
-    "wof:geomhash":"7952d9118ef2f38a48eafb87f66d733a",
+    "wof:geomhash":"070fe46a23eece49831b601e687c3699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789878397,
-    "wof:lastmodified":1466507302,
+    "wof:lastmodified":1510699018,
     "wof:name":"Value City Furniture",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",

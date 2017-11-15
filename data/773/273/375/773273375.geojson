@@ -2,14 +2,20 @@
   "id": 773273375,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Cypress Dr Schererville IN 46375",
+    "addr:housenumber":"127",
+    "addr:postcode":"46375",
+    "addr:street":"Cypress Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480773,41.519015,-87.480773,41.519015",
     "geom:latitude":41.519015,
     "geom:longitude":-87.480773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 Cypress Dr",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WmqsBfII46BY9MchGieRh_41.519015_-87.480773@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584466,
-    "wof:geomhash":"40fc0039e0ebcd06d6e44fbf493aa656",
+    "wof:geomhash":"26017853e3199708600c0703deef203b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773273375,
-    "wof:lastmodified":1466506887,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

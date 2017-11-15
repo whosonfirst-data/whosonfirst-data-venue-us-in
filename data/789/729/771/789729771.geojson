@@ -2,6 +2,10 @@
   "id": 789729771,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 S 650 E Zionsville IN 46077",
+    "addr:housenumber":"5555;650 e",
+    "addr:postcode":"46077",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789729771,
-    "wof:lastmodified":1466505769,
+    "wof:lastmodified":1472622578,
     "wof:name":"Stonegate Elementary School",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",

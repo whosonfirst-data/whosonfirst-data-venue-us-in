@@ -2,9 +2,14 @@
   "id": 773788357,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 E Culver Rd Knox IN 46534",
+    "addr:housenumber":"315",
+    "addr:postcode":"46534",
+    "addr:street":"E Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.61928,41.288136,-86.61928,41.288136",
     "geom:latitude":41.288136,
     "geom:longitude":-86.61928,
@@ -24,7 +29,14 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        85941553,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZTfj6biP1igY9JqO2eknV_41.288136_-86.619280@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462588376,
     "wof:geomhash":"218d600809aab60795e4312f700a0093",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "locality_id":85941553,
+            "region_id":85688709,
+            "venue_id":773788357
+        }
+    ],
     "wof:id":773788357,
-    "wof:lastmodified":1466518801,
+    "wof:lastmodified":1492091655,
     "wof:name":"Insurance Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 336860441,
   "type": "Feature",
   "properties": {
+    "addr:full":"5831 N State Rd 25 Rochester IN 46975",
+    "addr:housenumber":"5831;25",
+    "addr:postcode":"46975",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":336860441,
-    "wof:lastmodified":1466503225,
+    "wof:lastmodified":1472622399,
     "wof:name":"Snipes Mobile Feed Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

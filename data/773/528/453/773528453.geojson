@@ -2,9 +2,14 @@
   "id": 773528453,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Blaine St Michigan City IN 46360",
+    "addr:housenumber":"500",
+    "addr:postcode":"46360",
+    "addr:street":"Blaine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.894633,41.724364,-86.894633,41.724364",
     "geom:latitude":41.724364,
     "geom:longitude":-86.894633,
@@ -28,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00tqcrFKYoymWwT5SlY49B_41.724364_-86.894633@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462586400,
     "wof:geomhash":"773ee2bd6a5e762ed788aa757294541e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":773528453
+        }
+    ],
     "wof:id":773528453,
-    "wof:lastmodified":1466513581,
+    "wof:lastmodified":1492092226,
     "wof:name":"Weil-Mclain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

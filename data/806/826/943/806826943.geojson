@@ -2,14 +2,20 @@
   "id": 806826943,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Landmark Ave NE Corydon IN 47112",
+    "addr:housenumber":"2350",
+    "addr:postcode":"47112",
+    "addr:street":"Landmark Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.126882,38.236054,-86.126882,38.236054",
     "geom:latitude":38.236054,
     "geom:longitude":-86.126882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 Landmark Ave NE",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aCcrtNKktI6VxJw6kzWWR_38.236054_-86.126882@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601397,
-    "wof:geomhash":"2f76256723e88c54235de59e45789e4a",
+    "wof:geomhash":"b2973edf9200f28648a210d5ad9c2e28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806826943,
-    "wof:lastmodified":1466515717,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

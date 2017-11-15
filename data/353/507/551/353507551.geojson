@@ -2,9 +2,14 @@
   "id": 353507551,
   "type": "Feature",
   "properties": {
+    "addr:full":"6340 Indianapolis Blvd Hammond IN 46320",
+    "addr:housenumber":"6340",
+    "addr:postcode":"46320",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480977,41.598238,-87.480977,41.598238",
     "geom:latitude":41.598238,
     "geom:longitude":-87.480977,
@@ -29,11 +34,13 @@
     "sg:website":"www.htaluminum.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891109,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149,
-        85891109
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"0cacd3efc67f6f42f90853b0dc444a92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
             "neighbourhood_id":85891109,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":353507551,
-    "wof:lastmodified":1466502957,
+    "wof:lastmodified":1492098365,
     "wof:name":"H T Aluminum Specialties Inc",
     "wof:parent_id":85891109,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773544903,
   "type": "Feature",
   "properties": {
+    "addr:full":"9043 Deodor St Saint John IN 46373",
+    "addr:housenumber":"",
+    "addr:postcode":"9043;in 46373",
+    "addr:street":"Deodor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.452838,41.456711,-87.452838,41.456711",
     "geom:latitude":41.456711,
     "geom:longitude":-87.452838,
@@ -24,7 +29,13 @@
     "sg:postcode":"46373",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D9Kaj6Xn4TcO38VjmmLUF_41.456711_-87.452838@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462586522,
     "wof:geomhash":"2ef7f5dde088cf69b55a13d66062390e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "region_id":85688709,
+            "venue_id":773544903
+        }
+    ],
     "wof:id":773544903,
-    "wof:lastmodified":1466514541,
+    "wof:lastmodified":1492087996,
     "wof:name":"Nickelby Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

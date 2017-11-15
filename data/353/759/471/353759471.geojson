@@ -2,14 +2,20 @@
   "id": 353759471,
   "type": "Feature",
   "properties": {
+    "addr:full":"5875 Castle Creek Parkway North Dr Indianapolis IN 46250",
+    "addr:housenumber":"5875",
+    "addr:postcode":"46250",
+    "addr:street":"Castle Creek Parkway North Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.070308,39.915617,-86.070308,39.915617",
     "geom:latitude":39.915617,
     "geom:longitude":-86.070308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5875 Castle Creek Parkway North Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087201,
         85802863
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fl6lUZqpY6T3ZoAM2GIg0_39.915617_-86.070308@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"164d2fc3fc6460cf4362bc7f71ee9438",
+    "wof:geomhash":"83a18763da74c36a6cd54057f0fb1564",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":353759471,
-    "wof:lastmodified":1466503256,
+    "wof:lastmodified":1510697386,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

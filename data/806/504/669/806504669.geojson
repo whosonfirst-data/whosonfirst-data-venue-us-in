@@ -2,9 +2,14 @@
   "id": 806504669,
   "type": "Feature",
   "properties": {
+    "addr:full":"13221 Iowa St Crown Point IN 46307",
+    "addr:housenumber":"13221",
+    "addr:postcode":"46307",
+    "addr:street":"Iowa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.306437,41.379889,-87.306437,41.379889",
     "geom:latitude":41.379889,
     "geom:longitude":-87.306437,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85854185,
+        102191575,
+        404500429,
         85633793,
         85941787,
         102087149,
-        85854185
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"27e03721cf557179753083325290579b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404500429,
             "locality_id":85941787,
             "neighbourhood_id":85854185,
             "region_id":85688709,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":806504669,
-    "wof:lastmodified":1466506121,
+    "wof:lastmodified":1492095633,
     "wof:name":"Ryco Roofing Inc",
     "wof:parent_id":85854185,
     "wof:placetype":"venue",

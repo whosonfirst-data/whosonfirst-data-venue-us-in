@@ -2,14 +2,20 @@
   "id": 773040517,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 S Clarizz Blvd Bloomington IN 47401",
+    "addr:housenumber":"525",
+    "addr:postcode":"47401",
+    "addr:street":"S Clarizz Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.490628,39.1604,-86.490628,39.1604",
     "geom:latitude":39.1604,
     "geom:longitude":-86.490628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 S Clarizz Blvd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125158155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rQ353qsT4D4TYeurBYMw4_39.160400_-86.490628@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582668,
-    "wof:geomhash":"694ceb30b67dcbdd7c72732d661950d2",
+    "wof:geomhash":"f8fc5a9916a3eec94c5e5ba8f32af252",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773040517,
-    "wof:lastmodified":1466504182,
+    "wof:lastmodified":1510697478,
     "wof:name":"Peoples State Bank",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

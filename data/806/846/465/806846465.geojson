@@ -2,14 +2,20 @@
   "id": 806846465,
   "type": "Feature",
   "properties": {
+    "addr:full":"3840 State Road 26 E Lafayette IN 47905",
+    "addr:housenumber":"3840",
+    "addr:postcode":"47905",
+    "addr:street":"State Road 26 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.836739,40.417721,-86.836739,40.417721",
     "geom:latitude":40.417721,
     "geom:longitude":-86.836739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3840 State Road 26 E",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DU9R6Yt83E6Dj40SjFRcP_40.417715_-86.836654@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601575,
-    "wof:geomhash":"72c16182fd0a097b242d9fc378551084",
+    "wof:geomhash":"388d86ca9277b85f0c1ffcf7eccee964",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806846465,
-    "wof:lastmodified":1466515969,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

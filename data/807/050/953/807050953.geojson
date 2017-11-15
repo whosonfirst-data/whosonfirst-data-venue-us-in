@@ -2,14 +2,20 @@
   "id": 807050953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2138 Southlake Mall Merrillville IN 46410",
+    "addr:housenumber":"2138",
+    "addr:postcode":"46410",
+    "addr:street":"Southlake Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.310997,41.470469,-87.310997,41.470469",
     "geom:latitude":41.470469,
     "geom:longitude":-87.310997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2138 Southlake Mall",
     "sg:city":"Merrillville",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125153003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TKQ86I12sBwtglx3C0lbF_41.470469_-87.310997@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603294,
-    "wof:geomhash":"95fa19c02aa9631bed41a290861d8165",
+    "wof:geomhash":"839c3c635b1bf977112d7242fc890dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807050953,
-    "wof:lastmodified":1466504235,
+    "wof:lastmodified":1510698727,
     "wof:name":"Build-A-Bear Workshop",
     "wof:parent_id":85891165,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806558111,
   "type": "Feature",
   "properties": {
+    "addr:full":"12668 Crescent Dr Carmel IN 46032",
+    "addr:housenumber":"12668",
+    "addr:postcode":"46032",
+    "addr:street":"Crescent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.134961,39.971296,-86.134961,39.971296",
     "geom:latitude":39.971296,
     "geom:longitude":-86.134961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12668 Crescent Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125157843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hXtXDw2QmkG5GwvIyeWRh_39.971296_-86.134961@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599105,
-    "wof:geomhash":"7b42962fe4a5fa8517a50c604863f05f",
+    "wof:geomhash":"ca5a015736e93319a072012f2183d39c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806558111,
-    "wof:lastmodified":1466506857,
+    "wof:lastmodified":1510699507,
     "wof:name":"Erie Insurance Group",
     "wof:parent_id":420519539,
     "wof:placetype":"venue",

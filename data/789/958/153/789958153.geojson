@@ -2,6 +2,10 @@
   "id": 789958153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 S 13th St Terre Haute IN 47802",
+    "addr:housenumber":"2345",
+    "addr:postcode":"47802",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":789958153,
-    "wof:lastmodified":1466508692,
+    "wof:lastmodified":1472622807,
     "wof:name":"C C Midwest",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

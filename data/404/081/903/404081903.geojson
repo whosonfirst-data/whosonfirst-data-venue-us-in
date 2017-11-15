@@ -2,9 +2,14 @@
   "id": 404081903,
   "type": "Feature",
   "properties": {
+    "addr:full":"17644 Morse St Lowell IN 46356",
+    "addr:housenumber":"17644",
+    "addr:postcode":"46356",
+    "addr:street":"Morse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420844,41.304931,-87.420844,41.304931",
     "geom:latitude":41.304931,
     "geom:longitude":-87.420844,
@@ -28,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
         85633793,
-        85688709
+        102087149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +47,16 @@
     "wof:geomhash":"b396f53e8470f490be163ecfd70e1bc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087149,
+            "localadmin_id":404501861,
             "region_id":85688709,
             "venue_id":404081903
         }
     ],
     "wof:id":404081903,
-    "wof:lastmodified":1466502995,
+    "wof:lastmodified":1492098285,
     "wof:name":"Belinda Hubert PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

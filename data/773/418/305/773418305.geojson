@@ -2,9 +2,14 @@
   "id": 773418305,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Cleveland St Gary IN 46408",
+    "addr:housenumber":"5001",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360391,41.527755,-87.360391,41.527755",
     "geom:latitude":41.527755,
     "geom:longitude":-87.360391,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AD70FZB9BxtXHE8a6UJ1T_41.527755_-87.360391@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462585561,
     "wof:geomhash":"5d9846d4ce055b8b9c7e0fe4f38b1c07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773418305
+        }
+    ],
     "wof:id":773418305,
-    "wof:lastmodified":1466510676,
+    "wof:lastmodified":1492091781,
     "wof:name":"Stanson Realty Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

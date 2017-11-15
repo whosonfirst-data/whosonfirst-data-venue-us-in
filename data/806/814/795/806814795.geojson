@@ -2,14 +2,20 @@
   "id": 806814795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2074 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"2074",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.391679,41.289828,-87.391679,41.289828",
     "geom:latitude":41.289828,
     "geom:longitude":-87.391679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2074 E Commercial Ave",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -31,17 +37,35 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tiKNuj9sZKELkhFWpkW28_41.289828_-87.391679@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601301,
-    "wof:geomhash":"a643003a47c69d6ce61892f4ba35e455",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a37909bcf74afb6ddeb3fe2a621d202d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":806814795
+        }
+    ],
     "wof:id":806814795,
-    "wof:lastmodified":1466514949,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

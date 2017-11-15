@@ -2,9 +2,14 @@
   "id": 807018877,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 N Main St Crown Point IN 46307",
+    "addr:housenumber":"602",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364304,41.424599,-87.364304,41.424599",
     "geom:latitude":41.424599,
     "geom:longitude":-87.364304,
@@ -25,7 +30,15 @@
     "sg:province":"IN",
     "sg:website":"www.crowntuxedos.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wQDa2iZvJ8gpllfVw2dPN_41.424599_-87.364304@1303262769"
@@ -33,9 +46,20 @@
     "wof:country":"US",
     "wof:created":1462603025,
     "wof:geomhash":"d34a88cc5b2c2437d14bcda87534428f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807018877
+        }
+    ],
     "wof:id":807018877,
-    "wof:lastmodified":1466504101,
+    "wof:lastmodified":1492094625,
     "wof:name":"Crown Point Cleaners & Launderers",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

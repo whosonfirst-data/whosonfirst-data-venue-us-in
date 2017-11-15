@@ -2,14 +2,20 @@
   "id": 789820729,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Creekview Dr Columbus IN 47201",
+    "addr:housenumber":"711",
+    "addr:postcode":"47201",
+    "addr:street":"Creekview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.883844,39.204799,-85.883844,39.204799",
     "geom:latitude":39.204799,
     "geom:longitude":-85.883844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 Creekview Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087181,
         85816163
     ],
+    "wof:brand_id":420575041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vV6N7E5JflAltCMlmvcOE_39.204799_-85.883844@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590794,
-    "wof:geomhash":"9a2c3b52fb246f40634665d23b6bf5d0",
+    "wof:geomhash":"69f12e26925fb3acd472a04e6e2d79c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789820729,
-    "wof:lastmodified":1466506736,
+    "wof:lastmodified":1510602995,
     "wof:name":"Kohl's",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",

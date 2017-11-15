@@ -2,14 +2,20 @@
   "id": 806751377,
   "type": "Feature",
   "properties": {
+    "addr:full":"5435 W Pike Plaza Rd Indianapolis IN 46254",
+    "addr:housenumber":"5435",
+    "addr:postcode":"46254",
+    "addr:street":"W Pike Plaza Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.255081,39.828991,-86.255081,39.828991",
     "geom:latitude":39.828991,
     "geom:longitude":-86.255081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5435 W Pike Plaza Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VX4ePahd4i3xakhvhnAGE_39.829080_-86.254826@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600777,
-    "wof:geomhash":"37c375a2194369ae6c02e1879e894d48",
+    "wof:geomhash":"23c0f51deb2c72f4085bc13ecd7688e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806751377,
-    "wof:lastmodified":1466512941,
+    "wof:lastmodified":1510602974,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

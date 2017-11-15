@@ -2,14 +2,20 @@
   "id": 790385953,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 Main St Lafayette IN 47901",
+    "addr:housenumber":"731",
+    "addr:postcode":"47901",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887755,40.419053,-86.887755,40.419053",
     "geom:latitude":40.419053,
     "geom:longitude":-86.887755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"731 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27uokwZ3dm0uTVI9WTNr0H_40.419053_-86.887755@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595429,
-    "wof:geomhash":"9cffbe074ab4885f0837b2936f3441db",
+    "wof:geomhash":"fb642a7e533f5faebaa30c7f28629923",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790385953,
-    "wof:lastmodified":1466508004,
+    "wof:lastmodified":1510607658,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

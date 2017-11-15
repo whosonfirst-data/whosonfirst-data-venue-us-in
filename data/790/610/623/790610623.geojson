@@ -2,9 +2,14 @@
   "id": 790610623,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Sable Dr Valparaiso IN 46385",
+    "addr:housenumber":"400",
+    "addr:postcode":"46385",
+    "addr:street":"Sable Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.143436,41.509495,-87.143436,41.509495",
     "geom:latitude":41.509495,
     "geom:longitude":-87.143436,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ylpgR0BkT1neZevYXkO3V_41.509495_-87.143436@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462597309,
     "wof:geomhash":"071cfd7aab7a4fff884794f136284fc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790610623
+        }
+    ],
     "wof:id":790610623,
-    "wof:lastmodified":1466515665,
+    "wof:lastmodified":1492102352,
     "wof:name":"Hildreth Construction Company",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

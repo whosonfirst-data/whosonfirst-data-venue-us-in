@@ -2,9 +2,14 @@
   "id": 807030875,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"609",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.513954,41.56198,-87.513954,41.56198",
     "geom:latitude":41.56198,
     "geom:longitude":-87.513954,
@@ -24,7 +29,14 @@
     "sg:postcode":"46321",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J0f6I6zSf5l0Q12wTotJj_41.561980_-87.513954@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603130,
     "wof:geomhash":"a9012f7a6564b87466802f3466409d59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807030875
+        }
+    ],
     "wof:id":807030875,
-    "wof:lastmodified":1466504184,
+    "wof:lastmodified":1492103076,
     "wof:name":"Hodges Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

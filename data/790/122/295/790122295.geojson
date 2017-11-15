@@ -2,9 +2,14 @@
   "id": 790122295,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4660",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360544,41.534416,-87.360544,41.534416",
     "geom:latitude":41.534416,
     "geom:longitude":-87.360544,
@@ -27,7 +32,10 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GpVWaDSPuz0JsOgTB6Czd_41.534416_-87.360544@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462593305,
     "wof:geomhash":"717d0a8c7c86eeac951354d7dac552ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790122295
+        }
+    ],
     "wof:id":790122295,
-    "wof:lastmodified":1466505132,
+    "wof:lastmodified":1492102374,
     "wof:name":"Ridge Home Equipment Co",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

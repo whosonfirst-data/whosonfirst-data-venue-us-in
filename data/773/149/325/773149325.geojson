@@ -2,14 +2,20 @@
   "id": 773149325,
   "type": "Feature",
   "properties": {
+    "addr:full":"5423 Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"5423",
+    "addr:postcode":"46013",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.653018,40.056533,-85.653018,40.056533",
     "geom:latitude":40.056533,
     "geom:longitude":-85.653018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5423 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cLACRcNmcSypKpr8euTnO_40.056533_-85.653018@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583499,
-    "wof:geomhash":"25887954e0993f3e78b6bea6cf28bc09",
+    "wof:geomhash":"ab08eecca26095821840f81498716ef3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773149325,
-    "wof:lastmodified":1466505734,
+    "wof:lastmodified":1510602694,
     "wof:name":"Household Finance",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

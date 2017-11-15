@@ -2,14 +2,20 @@
   "id": 789820787,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 Lake Ave Fort Wayne IN 46805",
+    "addr:housenumber":"2250",
+    "addr:postcode":"46805",
+    "addr:street":"Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.107852,41.089712,-85.107852,41.089712",
     "geom:latitude":41.089712,
     "geom:longitude":-85.107852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2250 Lake Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cMBeFn774HiSxB0ufuRYA_41.089712_-85.107852@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590795,
-    "wof:geomhash":"07c0cea33bd4c6516347f7a8abf0f074",
+    "wof:geomhash":"40009cf5d5a8519e99b12ce0849cf949",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789820787,
-    "wof:lastmodified":1466506738,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85877545,
     "wof:placetype":"venue",

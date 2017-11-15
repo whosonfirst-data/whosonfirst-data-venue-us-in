@@ -2,9 +2,14 @@
   "id": 773701145,
   "type": "Feature",
   "properties": {
+    "addr:full":"3885 Broadway Gary IN 46409",
+    "addr:housenumber":"3885",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.33643,41.549466,-87.33643,41.549466",
     "geom:latitude":41.549466,
     "geom:longitude":-87.33643,
@@ -27,7 +32,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g6NjdG0lrUeBMNkArlq9V_41.549466_-87.336430@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587734,
     "wof:geomhash":"a7c241efa3a592300ccd1d1de52466ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773701145
+        }
+    ],
     "wof:id":773701145,
-    "wof:lastmodified":1466517584,
+    "wof:lastmodified":1492097607,
     "wof:name":"Bible Book Ctr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

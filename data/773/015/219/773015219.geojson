@@ -2,14 +2,20 @@
   "id": 773015219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1280 E Morgan Ave Evansville IN 47711",
+    "addr:housenumber":"1280",
+    "addr:postcode":"47711",
+    "addr:street":"E Morgan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.539526,37.99187,-87.539526,37.99187",
     "geom:latitude":37.99187,
     "geom:longitude":-87.539526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1280 E Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125155243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JWHhABJ4k3gkDOXEV09Fq_37.991870_-87.539526@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582401,
-    "wof:geomhash":"0ab2bc71bd2cfe3f1d5b352e0893a94f",
+    "wof:geomhash":"5f0fe678671fb55eb3d6d3c699052ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773015219,
-    "wof:lastmodified":1466503860,
+    "wof:lastmodified":1510697008,
     "wof:name":"Creative Interiors",
     "wof:parent_id":420519887,
     "wof:placetype":"venue",

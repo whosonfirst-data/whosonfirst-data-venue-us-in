@@ -2,9 +2,14 @@
   "id": 806755309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1488 E 1400 S Kentland IN 47951",
+    "addr:housenumber":"1488",
+    "addr:postcode":"47951",
+    "addr:street":"E 1400 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360999,40.794464,-87.360999,40.794464",
     "geom:latitude":40.794464,
     "geom:longitude":-87.360999,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DGa8ahmp8zPFBtb1StBJw_40.794464_-87.360999@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600806,
     "wof:geomhash":"622e7edbaef97f29bb58f6236985cac3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "region_id":85688709,
+            "venue_id":806755309
+        }
+    ],
     "wof:id":806755309,
-    "wof:lastmodified":1466513091,
+    "wof:lastmodified":1492101869,
     "wof:name":"Edward Sego",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

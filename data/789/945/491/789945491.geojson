@@ -2,14 +2,20 @@
   "id": 789945491,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 E Main St Lebanon IN 46052",
+    "addr:housenumber":"311",
+    "addr:postcode":"46052",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.465862,40.047477,-86.465862,40.047477",
     "geom:latitude":40.047477,
     "geom:longitude":-86.465862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 E Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086453,
         85817903
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ku3manMeT0IsQD63nlBgM_40.047477_-86.465862@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591845,
-    "wof:geomhash":"64ed41e9067c61891558893a22ea4543",
+    "wof:geomhash":"39b3b03ce417e2ebb02db32319e0324e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789945491,
-    "wof:lastmodified":1466508552,
+    "wof:lastmodified":1510696079,
     "wof:name":"Central Christian Church",
     "wof:parent_id":85817903,
     "wof:placetype":"venue",

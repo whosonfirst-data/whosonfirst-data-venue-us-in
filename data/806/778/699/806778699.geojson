@@ -2,6 +2,10 @@
   "id": 806778699,
   "type": "Feature",
   "properties": {
+    "addr:full":"10040 N Co Rd 375 E Seymour IN 47274",
+    "addr:housenumber":"10040;375 e",
+    "addr:postcode":"47274",
+    "addr:street":"N Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":806778699,
-    "wof:lastmodified":1466514036,
+    "wof:lastmodified":1472622902,
     "wof:name":"Arnold Rotert",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

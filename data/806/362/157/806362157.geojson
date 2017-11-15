@@ -2,14 +2,20 @@
   "id": 806362157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5926 Cross Creek Blvd Fort Wayne IN 46818",
+    "addr:housenumber":"5926",
+    "addr:postcode":"46818",
+    "addr:street":"Cross Creek Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.165056,41.131485,-85.165056,41.131485",
     "geom:latitude":41.131485,
     "geom:longitude":-85.165056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5926 Cross Creek Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bL0aLDAN95cvsxP7AY7yx_41.131485_-85.165056@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597521,
-    "wof:geomhash":"71846b37d077af56ad9c30dee224da24",
+    "wof:geomhash":"e1bca3852375dad3a6da0560948c0fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806362157,
-    "wof:lastmodified":1466503570,
+    "wof:lastmodified":1510695715,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

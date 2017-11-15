@@ -2,9 +2,14 @@
   "id": 790271249,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 E Beaver St Morocco IN 47963",
+    "addr:housenumber":"503",
+    "addr:postcode":"47963",
+    "addr:street":"E Beaver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.447692,40.947926,-87.447692,40.947926",
     "geom:latitude":40.947926,
     "geom:longitude":-87.447692,
@@ -24,7 +29,14 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XrzjtX4mRNs0b9hAphUtQ_40.947926_-87.447692@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462594511,
     "wof:geomhash":"786e0187ba249d89b9386f1ccd1952ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":790271249
+        }
+    ],
     "wof:id":790271249,
-    "wof:lastmodified":1466506626,
+    "wof:lastmodified":1492091840,
     "wof:name":"Cornoer Assembly of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

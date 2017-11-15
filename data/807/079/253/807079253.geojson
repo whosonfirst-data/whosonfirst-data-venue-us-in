@@ -2,14 +2,20 @@
   "id": 807079253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 W 3rd St Bloomington IN 47404",
+    "addr:housenumber":"1610",
+    "addr:postcode":"47404",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.553902,39.164501,-86.553902,39.164501",
     "geom:latitude":39.164501,
     "geom:longitude":-86.553902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1610 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125150875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52CNIi1JVioT9XXULp1H6E_39.164501_-86.553902@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603526,
-    "wof:geomhash":"7d749e269025147b4c2aec5829ddd51f",
+    "wof:geomhash":"bd59f7596310d5559f263af80ed9e437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807079253,
-    "wof:lastmodified":1466504888,
+    "wof:lastmodified":1510613210,
     "wof:name":"Pizza Express",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370796987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1676 E North St Crown Point IN 46307",
+    "addr:housenumber":"1676",
+    "addr:postcode":"46307",
+    "addr:street":"E North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348225,41.420276,-87.348225,41.420276",
     "geom:latitude":41.420276,
     "geom:longitude":-87.348225,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891105,
+        102191575,
+        404500429,
         85633793,
         85941787,
         102087149,
-        85891105
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"e4572bc8ec2ee623d13c58d86e9a4711",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404500429,
             "locality_id":85941787,
             "neighbourhood_id":85891105,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":370796987,
-    "wof:lastmodified":1466503581,
+    "wof:lastmodified":1492102949,
     "wof:name":"A Deal Auto Sales",
     "wof:parent_id":85891105,
     "wof:placetype":"venue",

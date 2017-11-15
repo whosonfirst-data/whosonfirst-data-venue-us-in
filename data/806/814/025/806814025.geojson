@@ -2,14 +2,20 @@
   "id": 806814025,
   "type": "Feature",
   "properties": {
+    "addr:full":"883 Joliet St Dyer IN 46311",
+    "addr:housenumber":"883",
+    "addr:postcode":"46311",
+    "addr:street":"Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.505645,41.492559,-87.505645,41.492559",
     "geom:latitude":41.492559,
     "geom:longitude":-87.505645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"883 Joliet St",
     "sg:city":"Dyer",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nATKTqpq7G9WhFzDyAYlT_41.492559_-87.505645@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601296,
-    "wof:geomhash":"ca73a36d946fad7502e6d70c97a3f617",
+    "wof:geomhash":"f7a495e2434682f3277ec4c07d417a90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806814025,
-    "wof:lastmodified":1466514874,
+    "wof:lastmodified":1510601934,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

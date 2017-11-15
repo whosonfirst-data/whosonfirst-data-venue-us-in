@@ -2,9 +2,14 @@
   "id": 790097657,
   "type": "Feature",
   "properties": {
+    "addr:full":"3065 Springland Ave Michigan City IN 46360",
+    "addr:housenumber":"3065",
+    "addr:postcode":"46360",
+    "addr:street":"Springland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.829263,41.718558,-86.829263,41.718558",
     "geom:latitude":41.718558,
     "geom:longitude":-86.829263,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15nvTO8ZQ0f2nMKHuGIwaT_41.718558_-86.829263@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462593107,
     "wof:geomhash":"8cdd7a6f7571528c5b0ab46d41ea4488",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790097657
+        }
+    ],
     "wof:id":790097657,
-    "wof:lastmodified":1466504649,
+    "wof:lastmodified":1492092227,
     "wof:name":"Tall Timbers Townhouses",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

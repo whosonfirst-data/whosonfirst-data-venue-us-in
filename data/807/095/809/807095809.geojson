@@ -2,9 +2,14 @@
   "id": 807095809,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 E State St Morocco IN 47963",
+    "addr:housenumber":"124",
+    "addr:postcode":"47963",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.455064,40.946123,-87.455064,40.946123",
     "geom:latitude":40.946123,
     "geom:longitude":-87.455064,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.blaneyandwalton.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fcvbdwMJJUB0wb8y7ghg4_40.946123_-87.455064@1303262773"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462603673,
     "wof:geomhash":"28342af9af7aaec8eb77c29730739806",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":807095809
+        }
+    ],
     "wof:id":807095809,
-    "wof:lastmodified":1466505072,
+    "wof:lastmodified":1492090548,
     "wof:name":"Blaney & Walton Attorney at Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

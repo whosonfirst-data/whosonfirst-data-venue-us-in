@@ -2,9 +2,14 @@
   "id": 320417815,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N White River Pkwy W Dr Indianapolis IN 46222",
+    "addr:housenumber":"110",
+    "addr:postcode":"46222",
+    "addr:street":"N White River Pkwy W Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.183553,39.76864,-86.183553,39.76864",
     "geom:latitude":39.76864,
     "geom:longitude":-86.183553,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891133,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891133
+        85688709
     ],
     "wof:brand_id":420573799,
     "wof:breaches":[],
@@ -43,9 +50,10 @@
     "wof:geomhash":"c8c89f0a74ab81b328ea9095a4d93309",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891133,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":320417815,
-    "wof:lastmodified":1466503075,
+    "wof:lastmodified":1491933596,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85891133,
     "wof:placetype":"venue",

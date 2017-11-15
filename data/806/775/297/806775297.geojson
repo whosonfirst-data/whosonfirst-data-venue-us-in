@@ -2,6 +2,10 @@
   "id": 806775297,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 E State Rd 44 Shelbyville IN 46176",
+    "addr:housenumber":"2350;44",
+    "addr:postcode":"46176",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":806775297,
-    "wof:lastmodified":1466513804,
+    "wof:lastmodified":1472622895,
     "wof:name":"Fuel Oil Sales",
     "wof:parent_id":85855029,
     "wof:placetype":"venue",

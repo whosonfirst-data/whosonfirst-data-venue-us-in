@@ -2,9 +2,14 @@
   "id": 807024575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 E Glen Park Ave Griffith IN 46319",
+    "addr:housenumber":"1235",
+    "addr:postcode":"46319",
+    "addr:street":"E Glen Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.413637,41.537232,-87.413637,41.537232",
     "geom:latitude":41.537232,
     "geom:longitude":-87.413637,
@@ -45,7 +50,10 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-007877.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nEarSU5hhffZOQMUUYIXS_41.537232_-87.413637@1303262769"
@@ -53,9 +61,15 @@
     "wof:country":"US",
     "wof:created":1462603073,
     "wof:geomhash":"cd09b7125f8cf3de2b75923528ce7827",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807024575
+        }
+    ],
     "wof:id":807024575,
-    "wof:lastmodified":1466504130,
+    "wof:lastmodified":1492100590,
     "wof:name":"Terpstra's",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

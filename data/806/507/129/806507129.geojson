@@ -2,14 +2,20 @@
   "id": 806507129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1775 W 41st Ave Gary IN 46408",
+    "addr:housenumber":"1775",
+    "addr:postcode":"46408",
+    "addr:street":"W 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.359998,41.544126,-87.359998,41.544126",
     "geom:latitude":41.544126,
     "geom:longitude":-87.359998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1775 W 41st Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -27,17 +33,27 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
+    "wof:brand_id":1125158243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71bmc2ZIAsqg9ueF12jsYA_41.544126_-87.359998@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598688,
-    "wof:geomhash":"7aac87f89b18134def49b676e0ff8246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84af5ea46d008e44450d1e58b0a894c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806507129
+        }
+    ],
     "wof:id":806507129,
-    "wof:lastmodified":1466506115,
+    "wof:lastmodified":1510697793,
     "wof:name":"Blessed Sacrament Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

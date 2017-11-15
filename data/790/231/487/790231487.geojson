@@ -2,14 +2,20 @@
   "id": 790231487,
   "type": "Feature",
   "properties": {
+    "addr:full":"3646 Commerce Dr Warsaw IN 46580",
+    "addr:housenumber":"3646",
+    "addr:postcode":"46580",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.80309,41.231172,-85.80309,41.231172",
     "geom:latitude":41.231172,
     "geom:longitude":-85.80309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3646 Commerce Dr",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125154615,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rXW5bzKe4mYOajaVV4RU4_41.231172_-85.803090@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594183,
-    "wof:geomhash":"879687831e38cdfee250d96044181a13",
+    "wof:geomhash":"36beefc1e7ebbd804756e998c66d7ca9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790231487,
-    "wof:lastmodified":1466506309,
+    "wof:lastmodified":1510698973,
     "wof:name":"Centennial Wireless",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

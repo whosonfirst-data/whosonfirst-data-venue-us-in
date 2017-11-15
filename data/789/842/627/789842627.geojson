@@ -2,6 +2,10 @@
   "id": 789842627,
   "type": "Feature",
   "properties": {
+    "addr:full":"695 S State Rd 135 Greenwood IN 46142",
+    "addr:housenumber":"695;135",
+    "addr:postcode":"46142",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789842627,
-    "wof:lastmodified":1466507012,
+    "wof:lastmodified":1472622701,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

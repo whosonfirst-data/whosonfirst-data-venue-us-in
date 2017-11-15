@@ -2,14 +2,20 @@
   "id": 404206991,
   "type": "Feature",
   "properties": {
+    "addr:full":"257 W Lincoln Hwy Merrillville IN 46410",
+    "addr:housenumber":"257",
+    "addr:postcode":"46410",
+    "addr:street":"W Lincoln Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.338633,41.471011,-87.338633,41.471011",
     "geom:latitude":41.471011,
     "geom:longitude":-87.338633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"257 W Lincoln Hwy",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85941829,
         102087149
     ],
+    "wof:brand_id":1125151031,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hdrz8na4VgeFOpkL6FZFe_41.471011_-87.338633@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f1b30aa693d4fb5c0cd4fd054e4fb2e",
+    "wof:geomhash":"66b9a4c44fde18a00aca38cac3813f6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404206991,
-    "wof:lastmodified":1466503165,
+    "wof:lastmodified":1510697383,
     "wof:name":"Bo Rics Haircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

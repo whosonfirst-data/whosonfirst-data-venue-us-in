@@ -2,14 +2,20 @@
   "id": 807020017,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 N Main St Crown Point IN 46307",
+    "addr:housenumber":"524",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364304,41.423698,-87.364304,41.423698",
     "geom:latitude":41.423698,
     "geom:longitude":-87.364304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"524 N Main St",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -25,17 +31,37 @@
     "sg:province":"IN",
     "sg:website":"www.whitehen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
+    "wof:brand_id":1125152385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07rNHTAK6F0C1gH5D0A9ZA_41.423698_-87.364304@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462603039,
-    "wof:geomhash":"25b8623e8599546c386b9a7d8b7f017d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df65fb4d9246dad84e213d91ca8fbd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807020017
+        }
+    ],
     "wof:id":807020017,
-    "wof:lastmodified":1466504067,
+    "wof:lastmodified":1510699979,
     "wof:name":"White Hen Pantry",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

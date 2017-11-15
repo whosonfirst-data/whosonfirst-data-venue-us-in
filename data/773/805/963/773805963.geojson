@@ -2,14 +2,20 @@
   "id": 773805963,
   "type": "Feature",
   "properties": {
+    "addr:full":"6117 Guilford Ave Indianapolis IN 46220",
+    "addr:housenumber":"6117",
+    "addr:postcode":"46220",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.14322,39.866347,-86.14322,39.866347",
     "geom:latitude":39.866347,
     "geom:longitude":-86.14322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6117 Guilford Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aPAMtfVTxSS6959b9uB1G_39.866347_-86.143220@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588520,
-    "wof:geomhash":"f340398af6f385798a989c7f65cf2630",
+    "wof:geomhash":"6a5e4beec83561b2dc3c9c710607a56c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773805963,
-    "wof:lastmodified":1466519051,
+    "wof:lastmodified":1510699016,
     "wof:name":"Premier Mortgage Funding Inc",
     "wof:parent_id":85807675,
     "wof:placetype":"venue",

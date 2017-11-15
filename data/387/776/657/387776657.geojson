@@ -2,9 +2,14 @@
   "id": 387776657,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Newton Ave Indianapolis IN 46201",
+    "addr:housenumber":"3401",
+    "addr:postcode":"46201",
+    "addr:street":"Newton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109079,39.764975,-86.109079,39.764975",
     "geom:latitude":39.764975,
     "geom:longitude":-86.109079,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870659,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870659
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"ae2b5fd8a61cef943a67f5cc2a60d8ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870659,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":387776657,
-    "wof:lastmodified":1466503943,
+    "wof:lastmodified":1491918297,
     "wof:name":"Gorilla Plastic Rbr Group LLC",
     "wof:parent_id":85870659,
     "wof:placetype":"venue",

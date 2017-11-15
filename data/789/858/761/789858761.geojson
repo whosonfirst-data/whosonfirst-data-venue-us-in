@@ -2,9 +2,14 @@
   "id": 789858761,
   "type": "Feature",
   "properties": {
+    "addr:full":"11800 N 1200 W Demotte IN 46310",
+    "addr:housenumber":"11800",
+    "addr:postcode":"46310",
+    "addr:street":"N 1200 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.275635,41.185153,-87.275635,41.185153",
     "geom:latitude":41.185153,
     "geom:longitude":-87.275635,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xIRWYnLqu0200GJtJ4KBX_41.185153_-87.275635@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462591094,
     "wof:geomhash":"26f4c67b13908c64394b0636a2a9b476",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":789858761
+        }
+    ],
     "wof:id":789858761,
-    "wof:lastmodified":1466507151,
+    "wof:lastmodified":1492106681,
     "wof:name":"Tri Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

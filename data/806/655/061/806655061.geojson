@@ -2,9 +2,14 @@
   "id": 806655061,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Aberdeen Dr Valparaiso IN 46385",
+    "addr:housenumber":"225",
+    "addr:postcode":"46385",
+    "addr:street":"Aberdeen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107944,41.43917,-87.107944,41.43917",
     "geom:latitude":41.43917,
     "geom:longitude":-87.107944,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71UFreoRZopLfeFyftc8LM_41.439170_-87.107944@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599950,
     "wof:geomhash":"8cc8b5b53900ec6bb9b4cbe41e43a273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806655061
+        }
+    ],
     "wof:id":806655061,
-    "wof:lastmodified":1466508596,
+    "wof:lastmodified":1492098932,
     "wof:name":"Advanced Cosmetic Dermatology",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

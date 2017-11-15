@@ -2,14 +2,20 @@
   "id": 790114063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1804 Scatterfield Rd Anderson IN 46016",
+    "addr:housenumber":"1804",
+    "addr:postcode":"46016",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652483,40.097705,-85.652483,40.097705",
     "geom:latitude":40.097705,
     "geom:longitude":-85.652483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1804 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tlGicAjxjIWInkNphGc88_40.097705_-85.652483@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593246,
-    "wof:geomhash":"4d748d6ce643780db677507230b8a155",
+    "wof:geomhash":"d54f44b98a6f114d8df66566156bc73e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790114063,
-    "wof:lastmodified":1466505026,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85823225,
     "wof:placetype":"venue",

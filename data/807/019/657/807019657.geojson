@@ -2,9 +2,14 @@
   "id": 807019657,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 N Main St Crown Point IN 46307",
+    "addr:housenumber":"616",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364304,41.424702,-87.364304,41.424702",
     "geom:latitude":41.424702,
     "geom:longitude":-87.364304,
@@ -25,7 +30,15 @@
     "sg:province":"IN",
     "sg:website":"www.wendys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01xAkWGW2J2dgvNrqsm6lU_41.424702_-87.364304@1303262769"
@@ -33,9 +46,20 @@
     "wof:country":"US",
     "wof:created":1462603036,
     "wof:geomhash":"9220e367ebc13196839f7fe057059c7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807019657
+        }
+    ],
     "wof:id":807019657,
-    "wof:lastmodified":1466504093,
+    "wof:lastmodified":1492101999,
     "wof:name":"Wendy's",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806568823,
   "type": "Feature",
   "properties": {
+    "addr:full":"4213 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4213",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360472,41.541355,-87.360472,41.541355",
     "geom:latitude":41.541355,
     "geom:longitude":-87.360472,
@@ -27,7 +32,10 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28nDESbdJlLHplCyKuMU7h_41.541355_-87.360472@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599196,
     "wof:geomhash":"9f61a682c3780e66e8a423baa59ea5c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806568823
+        }
+    ],
     "wof:id":806568823,
-    "wof:lastmodified":1466506994,
+    "wof:lastmodified":1492100594,
     "wof:name":"Action Appliance Svc Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773599051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4140 Harrison St Gary IN 46408",
+    "addr:housenumber":"4140",
+    "addr:postcode":"46408",
+    "addr:street":"Harrison St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.346148,41.543906,-87.346148,41.543906",
     "geom:latitude":41.543906,
     "geom:longitude":-87.346148,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dOMQf2ElD0QKHvXRg1yOn_41.543906_-87.346148@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586937,
     "wof:geomhash":"e21f589223624e48b8b06dd90f502929",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773599051
+        }
+    ],
     "wof:id":773599051,
-    "wof:lastmodified":1466516085,
+    "wof:lastmodified":1492100660,
     "wof:name":"Church Of Gary",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

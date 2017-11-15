@@ -2,14 +2,20 @@
   "id": 789748581,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 State Rd 38 E Lafayette IN 47905",
+    "addr:housenumber":"3500;38 e",
+    "addr:postcode":"47905",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.850481,40.395635,-86.850481,40.395635",
     "geom:latitude":40.395635,
     "geom:longitude":-86.850481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500 State Rd 38 E",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kvzjolMwWUkW5ZzuWWh8s_40.395635_-86.850481@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590243,
-    "wof:geomhash":"af8a26adb5faf115ed3804b07008f8f6",
+    "wof:geomhash":"f7d7c214665347a577682cde8223db29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789748581,
-    "wof:lastmodified":1466505829,
+    "wof:lastmodified":1510603988,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

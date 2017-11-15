@@ -2,9 +2,14 @@
   "id": 789749495,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N Benton St Goodland IN 47948",
+    "addr:housenumber":"110",
+    "addr:postcode":"47948",
+    "addr:street":"N Benton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.29049,40.767268,-87.29049,40.767268",
     "geom:latitude":40.767268,
     "geom:longitude":-87.29049,
@@ -29,7 +34,14 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OzfCwPJJRKC3DVQ6qedCS_40.767268_-87.290490@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462590250,
     "wof:geomhash":"9c5380f9344f54579b31443d8c4ec1c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":789749495
+        }
+    ],
     "wof:id":789749495,
-    "wof:lastmodified":1466506017,
+    "wof:lastmodified":1492103012,
     "wof:name":"Kirpc Head Start At Goodland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

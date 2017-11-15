@@ -2,9 +2,14 @@
   "id": 773421711,
   "type": "Feature",
   "properties": {
+    "addr:full":"7210 W 132nd Ave Cedar Lake IN 46303",
+    "addr:housenumber":"7210",
+    "addr:postcode":"46303",
+    "addr:street":"W 132Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420935,41.379454,-87.420935,41.379454",
     "geom:latitude":41.379454,
     "geom:longitude":-87.420935,
@@ -27,7 +32,14 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DfybZb3nIBftsTkRAVPHs_41.379454_-87.420935@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585587,
     "wof:geomhash":"e3a2a54e208d0f9729a5a9cd6c4775d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":773421711
+        }
+    ],
     "wof:id":773421711,
-    "wof:lastmodified":1466510827,
+    "wof:lastmodified":1492093272,
     "wof:name":"Cash In A Flash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

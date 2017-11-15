@@ -2,14 +2,20 @@
   "id": 790515555,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Executive Dr Lafayette IN 47905",
+    "addr:housenumber":"34",
+    "addr:postcode":"47905",
+    "addr:street":"Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.843858,40.418085,-86.843858,40.418085",
     "geom:latitude":40.418085,
     "geom:longitude":-86.843858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Executive Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tu2RTi3z8HeiAaJ2PKnmD_40.418085_-86.843858@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596494,
-    "wof:geomhash":"122c42474a9bcdb4bd75f5d70fabba1e",
+    "wof:geomhash":"9bb7147e050fe1ec9eee53463ca896d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790515555,
-    "wof:lastmodified":1466512470,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

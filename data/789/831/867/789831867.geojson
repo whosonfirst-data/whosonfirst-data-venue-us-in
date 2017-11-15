@@ -2,9 +2,14 @@
   "id": 789831867,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 W 100 S Valparaiso IN 46385",
+    "addr:housenumber":"213",
+    "addr:postcode":"46385",
+    "addr:street":"W 100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.106521,41.420619,-87.106521,41.420619",
     "geom:latitude":41.420619,
     "geom:longitude":-87.106521,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F9RnjySvQNB1mKgf8hDmR_41.420619_-87.106521@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590884,
     "wof:geomhash":"382f647239535500eb0e11608eedde78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":789831867
+        }
+    ],
     "wof:id":789831867,
-    "wof:lastmodified":1466506826,
+    "wof:lastmodified":1492094832,
     "wof:name":"M & K Concrete-Poured Walls",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

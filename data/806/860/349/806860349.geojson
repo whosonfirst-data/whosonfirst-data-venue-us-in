@@ -2,14 +2,20 @@
   "id": 806860349,
   "type": "Feature",
   "properties": {
+    "addr:full":"11450 N Meridian St Carmel IN 46032",
+    "addr:housenumber":"11450",
+    "addr:postcode":"46032",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157799,39.953201,-86.157799,39.953201",
     "geom:latitude":39.953201,
     "geom:longitude":-86.157799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11450 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125157511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w66LXZ49brHEOsNAAZwEC_39.953201_-86.157799@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601693,
-    "wof:geomhash":"1ffaef1615b9ec40ecd38e2030acf744",
+    "wof:geomhash":"447422b8adb938047b2df4d73bca5a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806860349,
-    "wof:lastmodified":1466516028,
+    "wof:lastmodified":1510613274,
     "wof:name":"Sunrise Cafe",
     "wof:parent_id":420519561,
     "wof:placetype":"venue",

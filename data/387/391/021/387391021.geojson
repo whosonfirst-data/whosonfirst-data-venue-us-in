@@ -2,14 +2,20 @@
   "id": 387391021,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Chapel Hill Rd Indianapolis IN 46214",
+    "addr:housenumber":"650",
+    "addr:postcode":"46214",
+    "addr:street":"Chapel Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.282829,39.775614,-86.282829,39.775614",
     "geom:latitude":39.775614,
     "geom:longitude":-86.282829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Chapel Hill Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85810395,
         85818927
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QCXioUt5NBoswWpGOl9ck_39.775614_-86.282829@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"73c501c9d960f24e7923ddf8b45717ed",
+    "wof:geomhash":"9f6fbc6262d9a936d4e811beb95e3b1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":387391021,
-    "wof:lastmodified":1466503427,
+    "wof:lastmodified":1510613522,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

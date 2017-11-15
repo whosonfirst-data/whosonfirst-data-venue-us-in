@@ -2,14 +2,20 @@
   "id": 789960115,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 South St Greencastle IN 46135",
+    "addr:housenumber":"126",
+    "addr:postcode":"46135",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845276,39.631622,-86.845276,39.631622",
     "geom:latitude":39.631622,
     "geom:longitude":-86.845276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 South St",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087217,
         85688709
     ],
+    "wof:brand_id":1125154753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kQdCIowhPeSSsVG0HhZZE_39.631622_-86.845276@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591997,
-    "wof:geomhash":"6c1f949e7a5f207e23c5675f462ad274",
+    "wof:geomhash":"67860c9b359e129e39679ae28c9ccd23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789960115,
-    "wof:lastmodified":1466509541,
+    "wof:lastmodified":1510697726,
     "wof:name":"Groomingdales",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",

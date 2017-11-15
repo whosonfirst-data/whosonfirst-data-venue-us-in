@@ -2,14 +2,20 @@
   "id": 806996191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1138 W 86th St Indianapolis IN 46260",
+    "addr:housenumber":"1138",
+    "addr:postcode":"46260",
+    "addr:street":"W 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.178322,39.912386,-86.178322,39.912386",
     "geom:latitude":39.912386,
     "geom:longitude":-86.178322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1138 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":420573881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wCVhJ1JKgFXXvVkxSU2em_39.912386_-86.178322@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602822,
-    "wof:geomhash":"7e90485b7ce51d0a5b1970e1aac72324",
+    "wof:geomhash":"9ec29d525e82beb3d1dff6118ffe297b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806996191,
-    "wof:lastmodified":1466519008,
+    "wof:lastmodified":1510603413,
     "wof:name":"Supercuts",
     "wof:parent_id":420519785,
     "wof:placetype":"venue",

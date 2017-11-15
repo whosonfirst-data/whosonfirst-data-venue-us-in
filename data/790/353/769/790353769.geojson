@@ -2,14 +2,20 @@
   "id": 790353769,
   "type": "Feature",
   "properties": {
+    "addr:full":"4443 S US Hwy 41 Terre Haute IN 47802",
+    "addr:housenumber":"4443",
+    "addr:postcode":"47802",
+    "addr:street":"S Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.414497,39.412759,-87.414497,39.412759",
     "geom:latitude":39.412759,
     "geom:longitude":-87.414497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4443 S US Hwy 41",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16g6hIjcIUo6eaWPnDXHAc_39.412759_-87.414497@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595166,
-    "wof:geomhash":"c0ada304eeec313efd9220984c5e6d14",
+    "wof:geomhash":"5a4f534a7c09cb10de608e751ad7b439",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790353769,
-    "wof:lastmodified":1466507373,
+    "wof:lastmodified":1510696827,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

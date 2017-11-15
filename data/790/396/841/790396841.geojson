@@ -2,9 +2,14 @@
   "id": 790396841,
   "type": "Feature",
   "properties": {
+    "addr:full":"295 N 475 W Valparaiso IN 46385",
+    "addr:housenumber":"295",
+    "addr:postcode":"46385",
+    "addr:street":"N 475 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.157656,41.478362,-87.157656,41.478362",
     "geom:latitude":41.478362,
     "geom:longitude":-87.157656,
@@ -28,7 +33,10 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h18Lx07DQPQCF9AL41MJr_41.478362_-87.157656@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595513,
     "wof:geomhash":"a52199aa88b78d8bc730be4e06e93277",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790396841
+        }
+    ],
     "wof:id":790396841,
-    "wof:lastmodified":1466507939,
+    "wof:lastmodified":1492102411,
     "wof:name":"3-D Material Handleing Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

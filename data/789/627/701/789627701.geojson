@@ -2,6 +2,10 @@
   "id": 789627701,
   "type": "Feature",
   "properties": {
+    "addr:full":"3658 S State Rd 15 Warsaw IN 46580",
+    "addr:housenumber":"3658;15",
+    "addr:postcode":"46580",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789627701,
-    "wof:lastmodified":1466504414,
+    "wof:lastmodified":1472622459,
     "wof:name":"Bullock Garages",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

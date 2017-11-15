@@ -2,9 +2,14 @@
   "id": 806816193,
   "type": "Feature",
   "properties": {
+    "addr:full":"3516 Broadway Gary IN 46408",
+    "addr:housenumber":"3516",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336606,41.554588,-87.336606,41.554588",
     "geom:latitude":41.554588,
     "geom:longitude":-87.336606,
@@ -29,7 +34,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YJaqTpeqfthwzjmLbVOOh_41.554588_-87.336606@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462601312,
     "wof:geomhash":"cd601416613726d2475549a1b11454d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806816193
+        }
+    ],
     "wof:id":806816193,
-    "wof:lastmodified":1466515411,
+    "wof:lastmodified":1492097614,
     "wof:name":"Dairy Queen",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789997679,
   "type": "Feature",
   "properties": {
+    "addr:full":"4795 Broadway Gary IN 46409",
+    "addr:housenumber":"4795",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336168,41.533037,-87.336168,41.533037",
     "geom:latitude":41.533037,
     "geom:longitude":-87.336168,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bD0zhgJ7cD5LMQfSfcwTo_41.533037_-87.336168@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592313,
     "wof:geomhash":"1368e19297b72b3c71bcde516a893bc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789997679
+        }
+    ],
     "wof:id":789997679,
-    "wof:lastmodified":1466510648,
+    "wof:lastmodified":1492102953,
     "wof:name":"New Horizons Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

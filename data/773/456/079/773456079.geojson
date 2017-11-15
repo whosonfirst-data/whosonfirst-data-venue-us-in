@@ -2,9 +2,14 @@
   "id": 773456079,
   "type": "Feature",
   "properties": {
+    "addr:full":"858 S 500 E Kouts IN 46347",
+    "addr:housenumber":"858;500 e",
+    "addr:postcode":"46347",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.968117,41.309527,-86.968117,41.309527",
     "geom:latitude":41.309527,
     "geom:longitude":-86.968117,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xKodkkzhVfwUze3heX8TI_41.309527_-86.968117@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462585885,
     "wof:geomhash":"b923d9035367362900cc53f4780188f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":773456079
+        }
+    ],
     "wof:id":773456079,
-    "wof:lastmodified":1466511972,
+    "wof:lastmodified":1492093699,
     "wof:name":"Glen Olsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

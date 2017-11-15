@@ -2,9 +2,14 @@
   "id": 773825001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2154 Churchhill Ct Valparaiso IN 46385",
+    "addr:housenumber":"2154",
+    "addr:postcode":"46385",
+    "addr:street":"Churchhill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.086409,41.441402,-87.086409,41.441402",
     "geom:latitude":41.441402,
     "geom:longitude":-87.086409,
@@ -29,7 +34,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24y80LS4HWluBM4JNl2RC2_41.441402_-87.086409@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462588679,
     "wof:geomhash":"cda4a622b9c992002876e3ee48945511",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773825001
+        }
+    ],
     "wof:id":773825001,
-    "wof:lastmodified":1466519286,
+    "wof:lastmodified":1492101015,
     "wof:name":"Martin Security Systems Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

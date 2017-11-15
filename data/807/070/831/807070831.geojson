@@ -2,14 +2,20 @@
   "id": 807070831,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 S College Mall Rd Bloomington IN 47401",
+    "addr:housenumber":"424",
+    "addr:postcode":"47401",
+    "addr:street":"S College Mall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.498044,39.162911,-86.498044,39.162911",
     "geom:latitude":39.162911,
     "geom:longitude":-86.498044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"424 S College Mall Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":420575845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v77CHSMGL17Kz4wNDCj4f_39.162911_-86.498044@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603452,
-    "wof:geomhash":"269c293949caa6252dccc28645b033a5",
+    "wof:geomhash":"a1d5cbfcf151e4397469b0f354136717",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807070831,
-    "wof:lastmodified":1466504748,
+    "wof:lastmodified":1510614609,
     "wof:name":"Baha'i Faith",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

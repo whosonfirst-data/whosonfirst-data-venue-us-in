@@ -2,9 +2,14 @@
   "id": 807050155,
   "type": "Feature",
   "properties": {
+    "addr:full":"3729 Broadway Gary IN 46409",
+    "addr:housenumber":"3729",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336502,41.550695,-87.336502,41.550695",
     "geom:latitude":41.550695,
     "geom:longitude":-87.336502,
@@ -28,7 +33,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nQ8sk0dGmNJjCFZyAKpgh_41.550695_-87.336502@1303262771"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462603289,
     "wof:geomhash":"fa19528a5ee8568b19e02a6c9d2ab703",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807050155
+        }
+    ],
     "wof:id":807050155,
-    "wof:lastmodified":1466504211,
+    "wof:lastmodified":1492102075,
     "wof:name":"One Love Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

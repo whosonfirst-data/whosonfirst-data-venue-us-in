@@ -2,9 +2,14 @@
   "id": 789811609,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Brandonburry Dr Valparaiso IN 46383",
+    "addr:housenumber":"710",
+    "addr:postcode":"46383",
+    "addr:street":"Brandonburry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.052928,41.512193,-87.052928,41.512193",
     "geom:latitude":41.512193,
     "geom:longitude":-87.052928,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SpaOxbIp2JstSFRWENVox_41.512193_-87.052928@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462590728,
     "wof:geomhash":"4b30d3edaa271901e7e6a083af0de00d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789811609
+        }
+    ],
     "wof:id":789811609,
-    "wof:lastmodified":1466506631,
+    "wof:lastmodified":1492102374,
     "wof:name":"PVS Technologies",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806732161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 N Pennsylvania St Indianapolis IN 46202",
+    "addr:housenumber":"1234",
+    "addr:postcode":"46202",
+    "addr:street":"N Pennsylvania St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":806732161,
-    "wof:lastmodified":1466512552,
+    "wof:lastmodified":1472622838,
     "wof:name":"Townsend Business Forms",
     "wof:parent_id":85866951,
     "wof:placetype":"venue",

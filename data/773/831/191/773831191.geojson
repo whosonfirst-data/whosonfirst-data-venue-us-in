@@ -2,9 +2,14 @@
   "id": 773831191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1055 Coolwood Dr Valparaiso IN 46385",
+    "addr:housenumber":"1055",
+    "addr:postcode":"46385",
+    "addr:street":"Coolwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.086812,41.459952,-87.086812,41.459952",
     "geom:latitude":41.459952,
     "geom:longitude":-87.086812,
@@ -27,7 +32,10 @@
         "breeder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14KBqLdawSqNVCIRUhSpAR_41.459952_-87.086812@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588730,
     "wof:geomhash":"0d99e368f3c589f5a5da9fd0b1e11385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":773831191
+        }
+    ],
     "wof:id":773831191,
-    "wof:lastmodified":1466519327,
+    "wof:lastmodified":1492091317,
     "wof:name":"Peridot Weimaraners",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790570365,
   "type": "Feature",
   "properties": {
+    "addr:full":"10761 Co Rd 900 Demotte IN 46310",
+    "addr:housenumber":"10761",
+    "addr:postcode":"900;46310",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.218071,41.170226,-87.218071,41.170226",
     "geom:latitude":41.170226,
     "geom:longitude":-87.218071,
@@ -27,7 +32,13 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Kmz8gfaJN6S7tIlWtJwg_41.170226_-87.218071@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462596963,
     "wof:geomhash":"0a0d4a7523b4f13bdfc66c229a45744d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":790570365
+        }
+    ],
     "wof:id":790570365,
-    "wof:lastmodified":1466514159,
+    "wof:lastmodified":1492091622,
     "wof:name":"D & D Ulock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

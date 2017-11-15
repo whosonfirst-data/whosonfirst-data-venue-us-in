@@ -2,14 +2,20 @@
   "id": 773013877,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 E 86th St Indianapolis IN 46240",
+    "addr:housenumber":"30",
+    "addr:postcode":"46240",
+    "addr:street":"E 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.155942,39.912544,-86.155942,39.912544",
     "geom:latitude":39.912544,
     "geom:longitude":-86.155942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67LWuvc2pUsPut7b0VR7vT_39.912544_-86.155942@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582378,
-    "wof:geomhash":"933561fb39df253f01a3686697ea0852",
+    "wof:geomhash":"95fa3a6e6a4389c77a34ae7afa4723e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773013877,
-    "wof:lastmodified":1466503903,
+    "wof:lastmodified":1510602599,
     "wof:name":"Ryland Homes",
     "wof:parent_id":85850623,
     "wof:placetype":"venue",

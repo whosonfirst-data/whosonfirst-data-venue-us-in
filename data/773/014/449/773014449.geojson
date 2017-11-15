@@ -2,9 +2,14 @@
   "id": 773014449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 Buchanan St Gary IN 46408",
+    "addr:housenumber":"4800",
+    "addr:postcode":"46408",
+    "addr:street":"Buchanan St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35205,41.53224,-87.35205,41.53224",
     "geom:latitude":41.53224,
     "geom:longitude":-87.35205,
@@ -27,7 +32,10 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FZH208dw1Y5PISwAA02Rn_41.532240_-87.352050@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462582386,
     "wof:geomhash":"403b9375a3639316f6110fe198dcb378",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773014449
+        }
+    ],
     "wof:id":773014449,
-    "wof:lastmodified":1466503867,
+    "wof:lastmodified":1492101502,
     "wof:name":"Antonio Godinez",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

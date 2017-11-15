@@ -2,14 +2,20 @@
   "id": 790412335,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 N Nebo Rd Muncie IN 47304",
+    "addr:housenumber":"3401",
+    "addr:postcode":"47304",
+    "addr:street":"N Nebo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.461847,40.228241,-85.461847,40.228241",
     "geom:latitude":40.228241,
     "geom:longitude":-85.461847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 N Nebo Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rldGXWKFYczgrybClocMD_40.228241_-85.461847@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595628,
-    "wof:geomhash":"fe780147ba8eb1f7b0e5cd4378d0be7b",
+    "wof:geomhash":"b1451d9861016d7e6d5edcd7b70a00b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790412335,
-    "wof:lastmodified":1466508080,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790155091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 E Dupont Rd Fort Wayne IN 46825",
+    "addr:housenumber":"2801",
+    "addr:postcode":"46825",
+    "addr:street":"E Dupont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.104783,41.178864,-85.104783,41.178864",
     "geom:latitude":41.178864,
     "geom:longitude":-85.104783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 E Dupont Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vtXS1scDui78rjfWNMhCk_41.178864_-85.104783@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593551,
-    "wof:geomhash":"ad2bdf472093f72e078bbca8ab9092ef",
+    "wof:geomhash":"11e6e30d2550837148733de81de89969",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790155091,
-    "wof:lastmodified":1466505443,
+    "wof:lastmodified":1510697508,
     "wof:name":"Irwin Mortgage",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

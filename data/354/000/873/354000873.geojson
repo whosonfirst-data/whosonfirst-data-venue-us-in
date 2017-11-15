@@ -2,9 +2,14 @@
   "id": 354000873,
   "type": "Feature",
   "properties": {
+    "addr:full":"8834 W US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"8834",
+    "addr:postcode":"46360",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.928119,41.680582,-86.928119,41.680582",
     "geom:latitude":41.680582,
     "geom:longitude":-86.928119,
@@ -32,7 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +47,15 @@
     "wof:geomhash":"6c64ad5be2401c6aca2aee4f5d429b49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519859,
             "venue_id":354000873
         }
     ],
     "wof:id":354000873,
-    "wof:lastmodified":1466502882,
+    "wof:lastmodified":1492091210,
     "wof:name":"Merc's Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

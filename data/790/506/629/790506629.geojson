@@ -2,9 +2,14 @@
   "id": 790506629,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 Oriole Trl Michigan City IN 46360",
+    "addr:housenumber":"2009",
+    "addr:postcode":"46360",
+    "addr:street":"Oriole Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.860833,41.739753,-86.860833,41.739753",
     "geom:latitude":41.739753,
     "geom:longitude":-86.860833,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        85633793,
+        85941905,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EqVch3IDEMsGH7CNG0U61_41.739753_-86.860833@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462596423,
     "wof:geomhash":"400ca65b884b53214b7b82a776eeba5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941905,
+            "region_id":85688709,
+            "venue_id":790506629
+        }
+    ],
     "wof:id":790506629,
-    "wof:lastmodified":1466512346,
+    "wof:lastmodified":1492092097,
     "wof:name":"Eastleigh Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

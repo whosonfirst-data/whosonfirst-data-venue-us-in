@@ -2,9 +2,14 @@
   "id": 789701003,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Sassafras Dr Valparaiso IN 46385",
+    "addr:housenumber":"406",
+    "addr:postcode":"46385",
+    "addr:street":"Sassafras Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.14373,41.51243,-87.14373,41.51243",
     "geom:latitude":41.51243,
     "geom:longitude":-87.14373,
@@ -27,7 +32,10 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rg4vcu6Etv319lFOXP6A5_41.512430_-87.143730@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589865,
     "wof:geomhash":"347c0223d3208d62b67fe792e4952317",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789701003
+        }
+    ],
     "wof:id":789701003,
-    "wof:lastmodified":1466505528,
+    "wof:lastmodified":1492097585,
     "wof:name":"Amy C Rogers",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

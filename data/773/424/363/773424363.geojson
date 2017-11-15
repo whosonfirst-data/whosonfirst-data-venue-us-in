@@ -2,14 +2,20 @@
   "id": 773424363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 E Main St Plainfield IN 46168",
+    "addr:housenumber":"1720",
+    "addr:postcode":"46168",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.3774,39.710424,-86.3774,39.710424",
     "geom:latitude":39.710424,
     "geom:longitude":-86.3774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 E Main St",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MjwtvAdvjLnsAj7ATpWqo_39.710424_-86.377400@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585612,
-    "wof:geomhash":"4b514e2cb3e9c6d3e2f8d230b2bc3169",
+    "wof:geomhash":"83cdead482b7b448227e914bc0062528",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773424363,
-    "wof:lastmodified":1466510642,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85807409,
     "wof:placetype":"venue",

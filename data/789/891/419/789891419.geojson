@@ -2,9 +2,14 @@
   "id": 789891419,
   "type": "Feature",
   "properties": {
+    "addr:full":"491 W Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"491",
+    "addr:postcode":"46356",
+    "addr:street":"W Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.431464,41.289835,-87.431464,41.289835",
     "geom:latitude":41.289835,
     "geom:longitude":-87.431464,
@@ -27,7 +32,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z4ovzs509UUtfL8Z4TGSc_41.289835_-87.431464@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462591381,
     "wof:geomhash":"a923458adaebb3fdb71d425fcc764069",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":789891419
+        }
+    ],
     "wof:id":789891419,
-    "wof:lastmodified":1466507445,
+    "wof:lastmodified":1492090541,
     "wof:name":"Floraland Of Lowell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

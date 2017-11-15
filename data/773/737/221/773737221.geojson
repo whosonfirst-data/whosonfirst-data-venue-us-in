@@ -2,9 +2,14 @@
   "id": 773737221,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Holley Dr Kentland IN 47951",
+    "addr:housenumber":"300",
+    "addr:postcode":"47951",
+    "addr:street":"E Holley Dr Kentland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.44533,40.778052,-87.44533,40.778052",
     "geom:latitude":40.778052,
     "geom:longitude":-87.44533,
@@ -27,7 +32,14 @@
         "bean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fCxpURu9sQskohmugKlkb_40.778052_-87.445330@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462588002,
     "wof:geomhash":"0c04fa6421615835d2c30f818a3147a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773737221
+        }
+    ],
     "wof:id":773737221,
-    "wof:lastmodified":1466518149,
+    "wof:lastmodified":1492091552,
     "wof:name":"Tim Glasgow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

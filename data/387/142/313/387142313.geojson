@@ -2,14 +2,20 @@
   "id": 387142313,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Wabash Ave Terre Haute IN 47803",
+    "addr:housenumber":"2501",
+    "addr:postcode":"47803",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.376534,39.471257,-87.376534,39.471257",
     "geom:latitude":39.471257,
     "geom:longitude":-87.376534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 Wabash Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69AOOLwjLA4roBE6mqrNyV_39.471257_-87.376534@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f38bedfa4fafbae00f698caa527d510a",
+    "wof:geomhash":"4147fabc0eec349c8500bb437ee7adfd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387142313,
-    "wof:lastmodified":1466503087,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387553587,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Greensburg Commons Shopping Center Greensburg IN 47240",
+    "addr:housenumber":"650",
+    "addr:postcode":"47240",
+    "addr:street":"Greensburg Commons Shopping",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.481367,39.357152,-85.481367,39.357152",
     "geom:latitude":39.357152,
     "geom:longitude":-85.481367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Greensburg Commons Shopping Center",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85941735,
         102087125
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26aSkFF3YcvwqGyKaLpbOr_39.357152_-85.481367@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"67ca199eeb799f923a544b9b5774e4aa",
+    "wof:geomhash":"1e7685f09a10fa4ae68ddd929815f964",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387553587,
-    "wof:lastmodified":1466503648,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

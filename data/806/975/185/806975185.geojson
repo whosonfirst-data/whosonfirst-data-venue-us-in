@@ -2,14 +2,20 @@
   "id": 806975185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 S Mickley Ave Indianapolis IN 46241",
+    "addr:housenumber":"1401",
+    "addr:postcode":"46241",
+    "addr:street":"S Mickley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.26001,39.747162,-86.26001,39.747162",
     "geom:latitude":39.747162,
     "geom:longitude":-86.26001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 S Mickley Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6av23fPJLbJKhMjCwRdOWX_39.747162_-86.260010@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602650,
-    "wof:geomhash":"7205c19e1d817a509167994fde779e5f",
+    "wof:geomhash":"dd00aeae85c60d5ae3f5e6b5b4e64f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806975185,
-    "wof:lastmodified":1466518621,
+    "wof:lastmodified":1510695326,
     "wof:name":"American Airlines",
     "wof:parent_id":85805707,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790437931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1789 E Bristol St Elkhart IN 46514",
+    "addr:housenumber":"1789",
+    "addr:postcode":"46514",
+    "addr:street":"E Bristol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.952068,41.702529,-85.952068,41.702529",
     "geom:latitude":41.702529,
     "geom:longitude":-85.952068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1789 E Bristol St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CpGAlb02EySMAZT0HMWvf_41.702529_-85.952068@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595827,
-    "wof:geomhash":"a0e5351ecb10603be16fafdc4d686d94",
+    "wof:geomhash":"44b7c49423f0c2b15da5e5278216b9ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790437931,
-    "wof:lastmodified":1466509051,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

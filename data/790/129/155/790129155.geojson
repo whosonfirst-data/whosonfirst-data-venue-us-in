@@ -2,6 +2,10 @@
   "id": 790129155,
   "type": "Feature",
   "properties": {
+    "addr:full":"8795 E Co Rd 600 N Brownsburg IN 46112",
+    "addr:housenumber":"8795;600",
+    "addr:postcode":"46112",
+    "addr:street":"E Co Rd;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790129155,
-    "wof:lastmodified":1466505065,
+    "wof:lastmodified":1472622492,
     "wof:name":"Service Plus Heating & A/C",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",

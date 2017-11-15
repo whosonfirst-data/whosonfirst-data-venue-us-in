@@ -2,14 +2,20 @@
   "id": 790462005,
   "type": "Feature",
   "properties": {
+    "addr:full":"2390 N National Rd Columbus IN 47201",
+    "addr:housenumber":"2390",
+    "addr:postcode":"47201",
+    "addr:street":"N National Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.889823,39.221883,-85.889823,39.221883",
     "geom:latitude":39.221883,
     "geom:longitude":-85.889823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2390 N National Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YuLbnCf5zizFs3zOJLSTf_39.221883_-85.889823@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596027,
-    "wof:geomhash":"ba32fb6759987eb300e8ee59c2e907ea",
+    "wof:geomhash":"21ab3e57b7ba0267e000e906d9e41dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790462005,
-    "wof:lastmodified":1466510210,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

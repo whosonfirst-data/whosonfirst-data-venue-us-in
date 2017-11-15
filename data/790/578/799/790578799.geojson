@@ -2,14 +2,20 @@
   "id": 790578799,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 Lafayette Ave Terre Haute IN 47805",
+    "addr:housenumber":"2151",
+    "addr:postcode":"47805",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.384608,39.509529,-87.384608,39.509529",
     "geom:latitude":39.509529,
     "geom:longitude":-87.384608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2151 Lafayette Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814437
     ],
+    "wof:brand_id":1125159339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09vfDD2TJt4ghygU7rUirm_39.509529_-87.384608@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597028,
-    "wof:geomhash":"a1f8bcb27324ce70c6bd114dfdcd7b0a",
+    "wof:geomhash":"c6e2b2cf013d53a7e46e589a81edc1c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790578799,
-    "wof:lastmodified":1466514399,
+    "wof:lastmodified":1510695228,
     "wof:name":"Prints Plus",
     "wof:parent_id":85814437,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790397549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 Fairhill Rd Fort Wayne IN 46808",
+    "addr:housenumber":"1811",
+    "addr:postcode":"46808",
+    "addr:street":"Fairhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.162999,41.092376,-85.162999,41.092376",
     "geom:latitude":41.092376,
     "geom:longitude":-85.162999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1811 Fairhill Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LptNF7q3mWZBRpLMu6uLu_41.092376_-85.162999@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595518,
-    "wof:geomhash":"e113294406189156356affa135eeac46",
+    "wof:geomhash":"86c0ecde4d86b06465b8285d0828e515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790397549,
-    "wof:lastmodified":1466507970,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85877551,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789696181,
   "type": "Feature",
   "properties": {
+    "addr:full":"3631 N State Rd 19 Etna Green IN 46524",
+    "addr:housenumber":"3631;19",
+    "addr:postcode":"46524",
+    "addr:street":"N State Rd;Etna Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789696181,
-    "wof:lastmodified":1466505352,
+    "wof:lastmodified":1472622535,
     "wof:name":"Nineteen & Thirty Autobody",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

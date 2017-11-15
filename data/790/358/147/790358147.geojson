@@ -2,14 +2,20 @@
   "id": 790358147,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Sagamore Pkwy N Lafayette IN 47904",
+    "addr:housenumber":"311",
+    "addr:postcode":"47904",
+    "addr:street":"Sagamore Pkwy N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858087,40.418184,-86.858087,40.418184",
     "geom:latitude":40.418184,
     "geom:longitude":-86.858087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Sagamore Pkwy N",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125155021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jcuDWJ4o6iPTcnDnojifo_40.418184_-86.858087@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595210,
-    "wof:geomhash":"faec78ea3a79400ec2d83bdf0ba842a5",
+    "wof:geomhash":"356918b15517e4195b6d80e93ac0619d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790358147,
-    "wof:lastmodified":1466507593,
+    "wof:lastmodified":1510686297,
     "wof:name":"King Buffet",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

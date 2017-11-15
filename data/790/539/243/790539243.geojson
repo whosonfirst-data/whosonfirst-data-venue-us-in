@@ -2,9 +2,14 @@
   "id": 790539243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Clay St Lake Station IN 46405",
+    "addr:housenumber":"2401",
+    "addr:postcode":"46405",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.278696,41.573358,-87.278696,41.573358",
     "geom:latitude":41.573358,
     "geom:longitude":-87.278696,
@@ -31,7 +36,10 @@
         85633793,
         85941833,
         102087149,
-        85688709
+        85688709,
+        85802467,
+        404501857,
+        85941813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":420519677,
             "region_id":85688709,
             "venue_id":790539243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
+            "neighbourhood_id":85802467,
+            "region_id":85688709,
+            "venue_id":790539243
         }
     ],
     "wof:id":790539243,
-    "wof:lastmodified":1466512733,
+    "wof:lastmodified":1492091430,
     "wof:name":"Randy Seabolt",
-    "wof:parent_id":420519677,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 773693291,
   "type": "Feature",
   "properties": {
+    "addr:full":"6620 Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"",
+    "addr:postcode":"6620;46013",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652707,40.049,-85.652707,40.049",
     "geom:latitude":40.049,
     "geom:longitude":-85.652707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6620 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":420575055,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aLmQzYZ5CKccNjO6fYG3m_40.049000_-85.652707@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587647,
-    "wof:geomhash":"84677131d1acff7bf8e62b15351d80da",
+    "wof:geomhash":"f5131aca441767028c681e7760614839",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773693291,
-    "wof:lastmodified":1466517545,
+    "wof:lastmodified":1510602784,
     "wof:name":"A & W Family Restaurant",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

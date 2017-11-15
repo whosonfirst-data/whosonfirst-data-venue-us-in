@@ -2,14 +2,20 @@
   "id": 806409845,
   "type": "Feature",
   "properties": {
+    "addr:full":"753 W 350 S Hebron IN 46341",
+    "addr:housenumber":"753",
+    "addr:postcode":"46341",
+    "addr:street":"W 350 S Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.209412,41.383771,-87.209412,41.383771",
     "geom:latitude":41.383771,
     "geom:longitude":-87.209412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"753 W 350 S",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85813921,
         102087191
     ],
+    "wof:brand_id":1125154081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qIuoVnI9zibyhFwGS68EZ_41.383771_-87.209412@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597926,
-    "wof:geomhash":"ee884cc68e7ae995ed69feebab4c5cea",
+    "wof:geomhash":"412ae9421e62f0f5ba5953332bd916fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806409845,
-    "wof:lastmodified":1466504859,
+    "wof:lastmodified":1510613293,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

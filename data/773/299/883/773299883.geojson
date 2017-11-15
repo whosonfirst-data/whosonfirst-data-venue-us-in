@@ -2,9 +2,14 @@
   "id": 773299883,
   "type": "Feature",
   "properties": {
+    "addr:full":"5444 Harrison St Merrillville IN 46410",
+    "addr:housenumber":"5444",
+    "addr:postcode":"46410",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345842,41.519445,-87.345842,41.519445",
     "geom:latitude":41.519445,
     "geom:longitude":-87.345842,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oX4UwbDzMu8Gw6I5kgW7Z_41.519445_-87.345842@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584678,
     "wof:geomhash":"3cbff304123fbc5b6c64e296d856305c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773299883
+        }
+    ],
     "wof:id":773299883,
-    "wof:lastmodified":1466507354,
+    "wof:lastmodified":1492090439,
     "wof:name":"St Clement American Macedonian",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

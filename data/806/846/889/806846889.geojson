@@ -2,14 +2,20 @@
   "id": 806846889,
   "type": "Feature",
   "properties": {
+    "addr:full":"6325 S Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"6325",
+    "addr:postcode":"46013",
+    "addr:street":"S Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652969,40.050516,-85.652969,40.050516",
     "geom:latitude":40.050516,
     "geom:longitude":-85.652969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6325 S Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":1125158749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_727LGxKB8Jvo94vpuoeS2n_40.050516_-85.652969@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601578,
-    "wof:geomhash":"d8b64cb94c5d947457de1dbdcfefefe0",
+    "wof:geomhash":"81702e1912b2eac7b35013d550e6cc1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806846889,
-    "wof:lastmodified":1466516190,
+    "wof:lastmodified":1510697765,
     "wof:name":"Deluxe Inn",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

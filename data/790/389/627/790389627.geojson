@@ -2,9 +2,14 @@
   "id": 790389627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1064 S State Rd 49 Kouts IN 46347",
+    "addr:housenumber":"1064;49",
+    "addr:postcode":"kouts;46347",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.025697,41.279778,-87.025697,41.279778",
     "geom:latitude":41.279778,
     "geom:longitude":-87.025697,
@@ -28,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yiWulRT9K1W8aA7xkFPEO_41.279778_-87.025697@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595460,
     "wof:geomhash":"97bacb48194fe89dac40338b083e5866",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":790389627
+        }
+    ],
     "wof:id":790389627,
-    "wof:lastmodified":1466507759,
+    "wof:lastmodified":1492103978,
     "wof:name":"Platinum Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

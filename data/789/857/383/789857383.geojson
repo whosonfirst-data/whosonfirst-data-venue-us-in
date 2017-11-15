@@ -2,6 +2,10 @@
   "id": 789857383,
   "type": "Feature",
   "properties": {
+    "addr:full":"12230 Co Rd 30 Middlebury IN 46540",
+    "addr:housenumber":"12230;30",
+    "addr:postcode":"46540",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789857383,
-    "wof:lastmodified":1466507052,
+    "wof:lastmodified":1472622691,
     "wof:name":"Troyer Enterprises",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

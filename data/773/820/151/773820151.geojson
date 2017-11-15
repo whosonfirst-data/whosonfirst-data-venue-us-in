@@ -2,14 +2,20 @@
   "id": 773820151,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Indian Boundary Rd Chesterton IN 46304",
+    "addr:housenumber":"560",
+    "addr:postcode":"46304",
+    "addr:street":"Indian Boundary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.043494,41.616764,-87.043494,41.616764",
     "geom:latitude":41.616764,
     "geom:longitude":-87.043494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"560 Indian Boundary Rd",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85852597,
         102087191
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09QoTvD9awUekJUE9OATJW_41.616764_-87.043494@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588634,
-    "wof:geomhash":"aa3694990e0b422cdcc8144a44fb28d2",
+    "wof:geomhash":"cc9bbef0896e6765644bf44697d85fe0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":773820151,
-    "wof:lastmodified":1466519105,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790475359,
   "type": "Feature",
   "properties": {
+    "addr:full":"5591 W 1000 N Michigan City IN 46360",
+    "addr:housenumber":"5591",
+    "addr:postcode":"46360",
+    "addr:street":"W 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807055,41.752762,-86.807055,41.752762",
     "geom:latitude":41.752762,
     "geom:longitude":-86.807055,
@@ -24,7 +29,13 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fGmQ1nFYJpaffkXLs7FUt_41.752762_-86.807055@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462596153,
     "wof:geomhash":"20c7166b8fd6986f69d983b7a166a9aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":790475359
+        }
+    ],
     "wof:id":790475359,
-    "wof:lastmodified":1466511119,
+    "wof:lastmodified":1492090630,
     "wof:name":"J B Industrial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

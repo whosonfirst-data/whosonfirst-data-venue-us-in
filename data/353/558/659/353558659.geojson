@@ -2,9 +2,14 @@
   "id": 353558659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 W 250 N Morocco IN 47963",
+    "addr:housenumber":"1641",
+    "addr:postcode":"47963",
+    "addr:street":"W 250 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.424879,41.035638,-87.424879,41.035638",
     "geom:latitude":41.035638,
     "geom:longitude":-87.424879,
@@ -29,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404500271,
         85633793,
-        85688709
+        102086363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +48,16 @@
     "wof:geomhash":"0dbc004bbefecb5efa58ccc44dccce13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086363,
+            "localadmin_id":404500271,
             "region_id":85688709,
             "venue_id":353558659
         }
     ],
     "wof:id":353558659,
-    "wof:lastmodified":1466503019,
+    "wof:lastmodified":1492090298,
     "wof:name":"WLQI Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806552647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 E US Hwy 30 Hamlet IN 46532",
+    "addr:housenumber":"2340",
+    "addr:postcode":"46532",
+    "addr:street":"E Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.652847,41.394021,-86.652847,41.394021",
     "geom:latitude":41.394021,
     "geom:longitude":-86.652847,
@@ -24,7 +29,13 @@
     "sg:postcode":"46532",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501489,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YD7VQiBgqJVgdjPeWT3WL_41.394021_-86.652847@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599053,
     "wof:geomhash":"63938372872cbf0f488a960785aff8ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501489,
+            "region_id":85688709,
+            "venue_id":806552647
+        }
+    ],
     "wof:id":806552647,
-    "wof:lastmodified":1466506644,
+    "wof:lastmodified":1492092005,
     "wof:name":"Holloway Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

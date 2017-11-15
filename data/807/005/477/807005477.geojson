@@ -2,14 +2,20 @@
   "id": 807005477,
   "type": "Feature",
   "properties": {
+    "addr:full":"8752 Michigan Rd Indianapolis IN 46268",
+    "addr:housenumber":"8752",
+    "addr:postcode":"46268",
+    "addr:street":"Michigan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.223644,39.913526,-86.223644,39.913526",
     "geom:latitude":39.913526,
     "geom:longitude":-86.223644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8752 Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YkQCrnHr6CeLNWkigBKhZ_39.913526_-86.223644@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602902,
-    "wof:geomhash":"5b9969840da7e0992041652d881bbc76",
+    "wof:geomhash":"bfcad650bdff13901d074a0edd8bb1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807005477,
-    "wof:lastmodified":1466503543,
+    "wof:lastmodified":1510697711,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

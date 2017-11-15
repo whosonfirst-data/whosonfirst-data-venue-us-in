@@ -2,14 +2,20 @@
   "id": 806807163,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 W Maryland St Indianapolis IN 46204",
+    "addr:housenumber":"49",
+    "addr:postcode":"46204",
+    "addr:street":"W Maryland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159053,39.765667,-86.159053,39.765667",
     "geom:latitude":39.765667,
     "geom:longitude":-86.159053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49 W Maryland St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AHlWaZfA0MGXPgvujqlFW_39.765667_-86.159053@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601243,
-    "wof:geomhash":"d88c74ac21b494f83650b8b5a3708004",
+    "wof:geomhash":"627ddb5e386b02f27d2eb022fde1be46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806807163,
-    "wof:lastmodified":1466514975,
+    "wof:lastmodified":1510698920,
     "wof:name":"Dickey's Barbecue Pit",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

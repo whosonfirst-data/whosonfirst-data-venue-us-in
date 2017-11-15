@@ -2,9 +2,14 @@
   "id": 789675101,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 W 30th Ave Gary IN 46408",
+    "addr:housenumber":"301",
+    "addr:postcode":"46408",
+    "addr:street":"W 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34273,41.563824,-87.34273,41.563824",
     "geom:latitude":41.563824,
     "geom:longitude":-87.34273,
@@ -29,7 +34,10 @@
         "stadium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cRJ8IurMvW0JaJPhSkuWx_41.563824_-87.342730@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462589663,
     "wof:geomhash":"eaa0e9878419840d4d7d8750622d0839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789675101
+        }
+    ],
     "wof:id":789675101,
-    "wof:lastmodified":1466505035,
+    "wof:lastmodified":1492100598,
     "wof:name":"Gilroy Stadium",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

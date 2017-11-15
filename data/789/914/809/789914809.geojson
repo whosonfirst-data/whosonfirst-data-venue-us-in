@@ -2,14 +2,20 @@
   "id": 789914809,
   "type": "Feature",
   "properties": {
+    "addr:full":"5914 Crawfordsville Rd Indianapolis IN 46224",
+    "addr:housenumber":"",
+    "addr:postcode":"5914;46224",
+    "addr:street":"Crawfordsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.265148,39.798794,-86.265148,39.798794",
     "geom:latitude":39.798794,
     "geom:longitude":-86.265148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5914 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SqkmtfUpHC0RJU4QOmyWh_39.798794_-86.265148@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591579,
-    "wof:geomhash":"c9d9c24d939fdc2016f26e8cba35c0a2",
+    "wof:geomhash":"ad4844dfc04d6cb48bac7388a7637885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789914809,
-    "wof:lastmodified":1466507595,
+    "wof:lastmodified":1510604814,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790274937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2764 Willowdale Rd Portage IN 46368",
+    "addr:housenumber":"2764",
+    "addr:postcode":"46368",
+    "addr:street":"Willowdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.202445,41.574232,-87.202445,41.574232",
     "geom:latitude":41.574232,
     "geom:longitude":-87.202445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2764 Willowdale Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33BpyJ25Lz2DOjjEIEz9mF_41.574232_-87.202445@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594549,
-    "wof:geomhash":"cfba92ba6aa3ee4b14afb15a2a543805",
+    "wof:geomhash":"7044c6c0be1d65f0788f2072def1d8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790274937,
-    "wof:lastmodified":1466506670,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85821229,
     "wof:placetype":"venue",

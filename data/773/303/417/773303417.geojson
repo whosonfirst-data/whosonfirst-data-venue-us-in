@@ -2,14 +2,20 @@
   "id": 773303417,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Washington St Columbus IN 47201",
+    "addr:housenumber":"546",
+    "addr:postcode":"47201",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.921238,39.20413,-85.921238,39.20413",
     "geom:latitude":39.20413,
     "geom:longitude":-85.921238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"546 Washington St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85821009,
         102087181
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l7DI9farxWQ86wjOQO7gS_39.204130_-85.921238@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584710,
-    "wof:geomhash":"963ada4bf0db40599c00899b2fc3234c",
+    "wof:geomhash":"7c9cfbb65096ab56d135c5a462107f73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773303417,
-    "wof:lastmodified":1466507402,
+    "wof:lastmodified":1510694571,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

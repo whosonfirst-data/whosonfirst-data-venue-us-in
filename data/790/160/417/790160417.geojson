@@ -2,6 +2,10 @@
   "id": 790160417,
   "type": "Feature",
   "properties": {
+    "addr:full":"11003 Co Rd 42 Millersburg IN 46543",
+    "addr:housenumber":"11003;42",
+    "addr:postcode":"46543",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":790160417,
-    "wof:lastmodified":1466505359,
+    "wof:lastmodified":1472622536,
     "wof:name":"Sweet Corn Charlie Produce",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

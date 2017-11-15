@@ -2,14 +2,20 @@
   "id": 806715139,
   "type": "Feature",
   "properties": {
+    "addr:full":"2623 E 80th Ave Merrillville IN 46410",
+    "addr:housenumber":"2623",
+    "addr:postcode":"46410",
+    "addr:street":"E 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.308101,41.473559,-87.308101,41.473559",
     "geom:latitude":41.473559,
     "geom:longitude":-87.308101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2623 E 80th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TgC7y6fQVW4uzSdCKriNv_41.473559_-87.308101@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600461,
-    "wof:geomhash":"c10a027fb9d9a3daa7159f8217d70711",
+    "wof:geomhash":"0afe09278308e29fe551377888ca1d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806715139,
-    "wof:lastmodified":1466512203,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",

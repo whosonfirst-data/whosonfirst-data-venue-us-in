@@ -2,14 +2,20 @@
   "id": 371174129,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 State Rd 67 Mooresville IN 46158",
+    "addr:housenumber":"580;67",
+    "addr:postcode":"46158",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.358086,39.610809,-86.358086,39.610809",
     "geom:latitude":39.610809,
     "geom:longitude":-86.358086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"580 State Rd 67",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087091,
         85859409
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nBbrCzQuGTSSJrgPrcgt7_39.610809_-86.358086@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f41dc40455a27cd085933f3d148cdf70",
+    "wof:geomhash":"4bbf9efd9f780005ad37855287cb2089",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371174129,
-    "wof:lastmodified":1466503096,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",

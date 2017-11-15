@@ -2,6 +2,10 @@
   "id": 773143609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4646 E State Rd 45 Bloomington IN 47408",
+    "addr:housenumber":"4646;45",
+    "addr:postcode":"47408",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773143609,
-    "wof:lastmodified":1466505760,
+    "wof:lastmodified":1472622775,
     "wof:name":"Academic Edge",
     "wof:parent_id":85816979,
     "wof:placetype":"venue",

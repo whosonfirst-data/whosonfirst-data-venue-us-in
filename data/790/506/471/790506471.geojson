@@ -2,14 +2,20 @@
   "id": 790506471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 South St Noblesville IN 46060",
+    "addr:housenumber":"1150",
+    "addr:postcode":"46060",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.010577,40.034617,-86.010577,40.034617",
     "geom:latitude":40.034617,
     "geom:longitude":-86.010577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 South St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125156795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rd1VQAS7ijimAH0AYXkPl_40.034617_-86.010577@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596423,
-    "wof:geomhash":"1bfaff7111fd88e7888f56c41f77488e",
+    "wof:geomhash":"8018a6bc2b419fba2ed0cb57635630ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790506471,
-    "wof:lastmodified":1466512342,
+    "wof:lastmodified":1510695701,
     "wof:name":"Novastar Home Mortgage Inc",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

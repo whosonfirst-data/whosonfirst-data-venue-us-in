@@ -2,14 +2,20 @@
   "id": 790241339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Girl Scout Ln Terre Haute IN 47807",
+    "addr:housenumber":"1100",
+    "addr:postcode":"47807",
+    "addr:street":"Girl Scout Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420709,39.452356,-87.420709,39.452356",
     "geom:latitude":39.452356,
     "geom:longitude":-87.420709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Girl Scout Ln",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":420575443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wFWkvwkGyKCKwLmnCnMHg_39.452356_-87.420709@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594257,
-    "wof:geomhash":"276a0e3157583685b4a9e9a395817b75",
+    "wof:geomhash":"e3dae1ec94a3bab5809f9caacec9a52f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790241339,
-    "wof:lastmodified":1466506266,
+    "wof:lastmodified":1510602513,
     "wof:name":"Girl Scouts",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

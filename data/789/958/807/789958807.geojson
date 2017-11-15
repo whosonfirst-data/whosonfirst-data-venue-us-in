@@ -2,14 +2,20 @@
   "id": 789958807,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Prairie St Warsaw IN 46580",
+    "addr:housenumber":"300",
+    "addr:postcode":"46580",
+    "addr:street":"E Prairie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.854396,41.233111,-85.854396,41.233111",
     "geom:latitude":41.233111,
     "geom:longitude":-85.854396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Prairie St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RdTYh8AwW8GZpulm6clvO_41.233111_-85.854396@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591987,
-    "wof:geomhash":"3f219cb5cedc87c625da42217fa623b6",
+    "wof:geomhash":"6e19f3a80bfc5d2142efef0144a210b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789958807,
-    "wof:lastmodified":1466509058,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

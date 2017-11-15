@@ -2,14 +2,20 @@
   "id": 773515193,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 N Keystone Ave Indianapolis IN 46220",
+    "addr:housenumber":"6111",
+    "addr:postcode":"46220",
+    "addr:street":"N Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.122153,39.866642,-86.122153,39.866642",
     "geom:latitude":39.866642,
     "geom:longitude":-86.122153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6111 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z6XS8XeFohvmnpSpIEfaf_39.866642_-86.122153@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586312,
-    "wof:geomhash":"19fbe5f81b47f82df93e357b7208b3a4",
+    "wof:geomhash":"58975ada6a1badac456e1877c8cd78f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773515193,
-    "wof:lastmodified":1466513407,
+    "wof:lastmodified":1510694751,
     "wof:name":"O'Charley's",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",

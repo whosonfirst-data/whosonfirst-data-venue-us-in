@@ -2,9 +2,14 @@
   "id": 789589603,
   "type": "Feature",
   "properties": {
+    "addr:full":"687 S State Rd 2 Hebron IN 46341",
+    "addr:housenumber":"687",
+    "addr:postcode":"46341",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.162144,41.399193,-87.162144,41.399193",
     "geom:latitude":41.399193,
     "geom:longitude":-87.162144,
@@ -28,7 +33,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501719,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HqmIO8cJwuv3rWdDrooBn_41.399193_-87.162144@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588983,
     "wof:geomhash":"3dc8956d4eee546b82e84e23de5c3cc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501719,
+            "region_id":85688709,
+            "venue_id":789589603
+        }
+    ],
     "wof:id":789589603,
-    "wof:lastmodified":1466503482,
+    "wof:lastmodified":1492101015,
     "wof:name":"David L Mlechick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

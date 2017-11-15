@@ -2,9 +2,14 @@
   "id": 790238091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2619 W 47th Ave Gary IN 46408",
+    "addr:housenumber":"2619",
+    "addr:postcode":"46408",
+    "addr:street":"W 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.369611,41.533312,-87.369611,41.533312",
     "geom:latitude":41.533312,
     "geom:longitude":-87.369611,
@@ -29,7 +34,10 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K3A5EnA8kDm0H0uRDPo2r_41.533312_-87.369611@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462594235,
     "wof:geomhash":"75ecb69bfa3e0f832bac1d2f01a9bf1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790238091
+        }
+    ],
     "wof:id":790238091,
-    "wof:lastmodified":1466506306,
+    "wof:lastmodified":1492103005,
     "wof:name":"Ross Mobile Home Court",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

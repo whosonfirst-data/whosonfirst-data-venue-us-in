@@ -2,9 +2,14 @@
   "id": 336910729,
   "type": "Feature",
   "properties": {
+    "addr:full":"5638 Hohman Ave Hammond IN 46320",
+    "addr:housenumber":"5638",
+    "addr:postcode":"46320",
+    "addr:street":"Hohman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.522063,41.610411,-87.522063,41.610411",
     "geom:latitude":41.610411,
     "geom:longitude":-87.522063,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149
@@ -42,17 +49,17 @@
     "wof:geomhash":"24a38a54a01910d0ca5026c501403504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":336910729
         }
     ],
     "wof:id":336910729,
-    "wof:lastmodified":1466503285,
+    "wof:lastmodified":1492106551,
     "wof:name":"Photography By Allan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

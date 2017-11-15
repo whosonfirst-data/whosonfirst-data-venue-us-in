@@ -2,9 +2,14 @@
   "id": 806789985,
   "type": "Feature",
   "properties": {
+    "addr:full":"473 Southfield Ln Valparaiso IN 46385",
+    "addr:housenumber":"473",
+    "addr:postcode":"46385",
+    "addr:street":"Southfield Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.137595,41.396341,-87.137595,41.396341",
     "geom:latitude":41.396341,
     "geom:longitude":-87.137595,
@@ -23,7 +28,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qpou3kyJhtuvpUN2s1Wso_41.396341_-87.137595@1294102998"
@@ -31,9 +39,15 @@
     "wof:country":"US",
     "wof:created":1462601104,
     "wof:geomhash":"7c486760541208673edb81dea00cb0b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806789985
+        }
+    ],
     "wof:id":806789985,
-    "wof:lastmodified":1466514511,
+    "wof:lastmodified":1492093278,
     "wof:name":"Larry Shurr",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

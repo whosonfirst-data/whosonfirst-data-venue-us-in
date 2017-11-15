@@ -2,14 +2,20 @@
   "id": 806533205,
   "type": "Feature",
   "properties": {
+    "addr:full":"11595 N Meridian St Carmel IN 46032",
+    "addr:housenumber":"11595",
+    "addr:postcode":"46032",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157553,39.956188,-86.157553,39.956188",
     "geom:latitude":39.956188,
     "geom:longitude":-86.157553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11595 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1izIv2f04dyy2DZTCe6bkS_39.956188_-86.157553@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598894,
-    "wof:geomhash":"cc4e384835c87d85e90df5a7d7dc75fd",
+    "wof:geomhash":"7b8b914a78145344bef720ab198cb3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806533205,
-    "wof:lastmodified":1466506386,
+    "wof:lastmodified":1510613551,
     "wof:name":"Lucent Technologies",
     "wof:parent_id":420519561,
     "wof:placetype":"venue",

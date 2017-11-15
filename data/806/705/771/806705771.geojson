@@ -2,14 +2,20 @@
   "id": 806705771,
   "type": "Feature",
   "properties": {
+    "addr:full":"13228 Hazelwood Dr Carmel IN 46033",
+    "addr:housenumber":"13228",
+    "addr:postcode":"46033",
+    "addr:street":"Hazelwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.092471,39.979954,-86.092471,39.979954",
     "geom:latitude":39.979954,
     "geom:longitude":-86.092471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13228 Hazelwood Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00lq1oIXJHOT6DUPq6LwsL_39.979954_-86.092471@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600386,
-    "wof:geomhash":"85b2d353f323f89b471d0544255d5392",
+    "wof:geomhash":"564c311bc2c591ac13210b4c8ec89c96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806705771,
-    "wof:lastmodified":1466511783,
+    "wof:lastmodified":1510608457,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":420519551,
     "wof:placetype":"venue",

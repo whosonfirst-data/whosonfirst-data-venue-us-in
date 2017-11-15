@@ -2,14 +2,20 @@
   "id": 773252949,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E Pettit Ave Fort Wayne IN 46806",
+    "addr:housenumber":"420",
+    "addr:postcode":"46806",
+    "addr:street":"E Pettit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.131082,41.038818,-85.131082,41.038818",
     "geom:latitude":41.038818,
     "geom:longitude":-85.131082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 E Pettit Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125156927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wegV7eJ775Ol0gdDsfCgx_41.038818_-85.131082@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584315,
-    "wof:geomhash":"e80bb01413d7e674f4044b434b327563",
+    "wof:geomhash":"2ec42ea0eb691318ef86c051d763c414",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773252949,
-    "wof:lastmodified":1466506789,
+    "wof:lastmodified":1510695437,
     "wof:name":"Cali Nails",
     "wof:parent_id":420519423,
     "wof:placetype":"venue",

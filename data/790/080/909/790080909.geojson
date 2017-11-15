@@ -2,14 +2,20 @@
   "id": 790080909,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 E Main St Muncie IN 47305",
+    "addr:housenumber":"308",
+    "addr:postcode":"47305",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.385106,40.193721,-85.385106,40.193721",
     "geom:latitude":40.193721,
     "geom:longitude":-85.385106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 E Main St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bjupC5BiCzX6drnfIHBB1_40.193721_-85.385106@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592977,
-    "wof:geomhash":"cf536b3079133e7f4df861fb74a976dc",
+    "wof:geomhash":"e0fba64fb2345df5788a96892cacda1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790080909,
-    "wof:lastmodified":1466504704,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

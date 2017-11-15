@@ -2,9 +2,14 @@
   "id": 806597393,
   "type": "Feature",
   "properties": {
+    "addr:full":"649 N 175 W Valparaiso IN 46385",
+    "addr:housenumber":"649",
+    "addr:postcode":"46385",
+    "addr:street":"N 175 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.099821,41.526612,-87.099821,41.526612",
     "geom:latitude":41.526612,
     "geom:longitude":-87.099821,
@@ -27,7 +32,10 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iJRFTdN4yrL7ngv90fAy2_41.526612_-87.099821@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599466,
     "wof:geomhash":"6614c2d69faad593ebc2879b4fafe586",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806597393
+        }
+    ],
     "wof:id":806597393,
-    "wof:lastmodified":1466507241,
+    "wof:lastmodified":1492100594,
     "wof:name":"Perpetual Promotions",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

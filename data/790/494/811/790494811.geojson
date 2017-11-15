@@ -2,9 +2,14 @@
   "id": 790494811,
   "type": "Feature",
   "properties": {
+    "addr:full":"3865 Fillmore St Gary IN 46408",
+    "addr:housenumber":"3865",
+    "addr:postcode":"46408",
+    "addr:street":"Fillmore St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.349688,41.548338,-87.349688,41.548338",
     "geom:latitude":41.548338,
     "geom:longitude":-87.349688,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IdkA4XAEyn7mCCJIBZgXL_41.548338_-87.349688@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596329,
     "wof:geomhash":"6b3ab6065b3f0ac26f68ef098db9a852",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790494811
+        }
+    ],
     "wof:id":790494811,
-    "wof:lastmodified":1466511738,
+    "wof:lastmodified":1492100669,
     "wof:name":"C C Voluntary Service",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

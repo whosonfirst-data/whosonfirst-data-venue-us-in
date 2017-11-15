@@ -2,6 +2,10 @@
   "id": 387485255,
   "type": "Feature",
   "properties": {
+    "addr:full":"14108 State Rd 101 Brookville IN 47012",
+    "addr:housenumber":"14108;101",
+    "addr:postcode":"47012",
+    "addr:street":"State Rd;Brookville In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387485255,
-    "wof:lastmodified":1466503559,
+    "wof:lastmodified":1472622543,
     "wof:name":"Natural Resources-Svc Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 336948679,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 Coliseum Blvd E Fort Wayne IN 46805",
+    "addr:housenumber":"529",
+    "addr:postcode":"46805",
+    "addr:street":"Coliseum Blvd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.135252,41.118252,-85.135252,41.118252",
     "geom:latitude":41.118252,
     "geom:longitude":-85.135252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"529 Coliseum Blvd E",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087177,
         85838221
     ],
+    "wof:brand_id":1125151987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RG2FI5QjOx3gtKj9guFUY_41.118252_-85.135252@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"97cad30388cf7ea17f9b9c04a15afc75",
+    "wof:geomhash":"4e432ac2b4cf731070a3b767c975a13c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":336948679,
-    "wof:lastmodified":1466503332,
+    "wof:lastmodified":1510700133,
     "wof:name":"Foot Solutions",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

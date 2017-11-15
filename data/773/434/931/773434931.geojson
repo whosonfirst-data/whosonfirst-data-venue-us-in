@@ -2,6 +2,10 @@
   "id": 773434931,
   "type": "Feature",
   "properties": {
+    "addr:full":"57607 State Rd 19 Elkhart IN 46517",
+    "addr:housenumber":"57607;19",
+    "addr:postcode":"46517",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773434931,
-    "wof:lastmodified":1466511389,
+    "wof:lastmodified":1472623126,
     "wof:name":"Ewing's Outpost RV LTD",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

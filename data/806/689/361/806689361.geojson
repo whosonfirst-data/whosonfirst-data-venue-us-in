@@ -2,9 +2,14 @@
   "id": 806689361,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 S 200 W Valparaiso IN 46385",
+    "addr:housenumber":"147;200",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104357,41.415366,-87.104357,41.415366",
     "geom:latitude":41.415366,
     "geom:longitude":-87.104357,
@@ -27,7 +32,10 @@
         "tent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JYA982ZOdCHtfnAG4pKSo_41.415366_-87.104357@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462600249,
     "wof:geomhash":"7b2d90561da7b1382f88adfeeb18b2df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806689361
+        }
+    ],
     "wof:id":806689361,
-    "wof:lastmodified":1466510606,
+    "wof:lastmodified":1492088101,
     "wof:name":"DND Canopy's Rental",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

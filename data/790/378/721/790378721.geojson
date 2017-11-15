@@ -2,9 +2,14 @@
   "id": 790378721,
   "type": "Feature",
   "properties": {
+    "addr:full":"3723 Garfield St Gary IN 46408",
+    "addr:housenumber":"3723",
+    "addr:postcode":"46408",
+    "addr:street":"Garfield St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.358143,41.550028,-87.358143,41.550028",
     "geom:latitude":41.550028,
     "geom:longitude":-87.358143,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GHYTyWYWwKZM1O8J9cPwt_41.550028_-87.358143@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595372,
     "wof:geomhash":"741c98965d5e2196290b5b13b87ecd48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790378721
+        }
+    ],
     "wof:id":790378721,
-    "wof:lastmodified":1466507714,
+    "wof:lastmodified":1492088032,
     "wof:name":"A & L Roofing Co",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

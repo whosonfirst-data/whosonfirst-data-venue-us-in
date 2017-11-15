@@ -2,6 +2,10 @@
   "id": 789721469,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 Co Rd 17 Elkhart IN 46516",
+    "addr:housenumber":"655;17",
+    "addr:postcode":"46516",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789721469,
-    "wof:lastmodified":1466505775,
+    "wof:lastmodified":1472622559,
     "wof:name":"Paradise Pools Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 303464231,
   "type": "Feature",
   "properties": {
+    "addr:full":"14578 State Rd 4 Goshen IN 46528",
+    "addr:housenumber":"14578;4",
+    "addr:postcode":"46528",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":303464231,
-    "wof:lastmodified":1466503693,
+    "wof:lastmodified":1472622458,
     "wof:name":"TMI",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

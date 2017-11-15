@@ -2,14 +2,20 @@
   "id": 806869473,
   "type": "Feature",
   "properties": {
+    "addr:full":"9742 Olympia Dr Fishers IN 46037",
+    "addr:housenumber":"9742",
+    "addr:postcode":"46037",
+    "addr:street":"Olympia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.983276,39.929166,-85.983276,39.929166",
     "geom:latitude":39.929166,
     "geom:longitude":-85.983276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9742 Olympia Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zB5adenCVQzO2DF4rOlw1_39.929166_-85.983276@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601767,
-    "wof:geomhash":"54cc283d4b63e813fcbb1c79b82370b8",
+    "wof:geomhash":"8ecff546e9e7e9ae18c99b5d9884b375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":806869473,
-    "wof:lastmodified":1466516712,
+    "wof:lastmodified":1510696095,
     "wof:name":"Orkin Pest & Termite Control",
     "wof:parent_id":420519579,
     "wof:placetype":"venue",

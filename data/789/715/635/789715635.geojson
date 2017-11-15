@@ -2,9 +2,14 @@
   "id": 789715635,
   "type": "Feature",
   "properties": {
+    "addr:full":"2070 E 600 N Fowler IN 47944",
+    "addr:housenumber":"2070",
+    "addr:postcode":"47944",
+    "addr:street":"E 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.285997,40.693232,-87.285997,40.693232",
     "geom:latitude":40.693232,
     "geom:longitude":-87.285997,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500147,
+        85633793,
+        102087193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gFF3i09KRLI1LllET8RbG_40.693232_-87.285997@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589979,
     "wof:geomhash":"681f5156a3a9f0d52db3bf77d288d1b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087193,
+            "localadmin_id":404500147,
+            "region_id":85688709,
+            "venue_id":789715635
+        }
+    ],
     "wof:id":789715635,
-    "wof:lastmodified":1466505457,
+    "wof:lastmodified":1492106203,
     "wof:name":"L & D Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

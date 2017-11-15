@@ -2,14 +2,20 @@
   "id": 806990611,
   "type": "Feature",
   "properties": {
+    "addr:full":"7250 Clearvista Dr Ste 375 Indianapolis IN 46256",
+    "addr:housenumber":"7250",
+    "addr:postcode":"46256",
+    "addr:street":"Clearvista Dr Ste 375",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.039192,39.900191,-86.039192,39.900191",
     "geom:latitude":39.900191,
     "geom:longitude":-86.039192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7250 Clearvista Dr Ste 375",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ofR7fXAN2nV4mjZnlmuF0_39.900191_-86.039192@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602779,
-    "wof:geomhash":"e1110909ddd3eca19437e742d06194c7",
+    "wof:geomhash":"cb2fd0de003249d818c0e398fa41ca9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806990611,
-    "wof:lastmodified":1466518966,
+    "wof:lastmodified":1510604934,
     "wof:name":"Gastroenterology Consultants",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",

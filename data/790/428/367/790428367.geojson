@@ -2,9 +2,14 @@
   "id": 790428367,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 Millpond Rd N Valparaiso IN 46385",
+    "addr:housenumber":"970",
+    "addr:postcode":"46385",
+    "addr:street":"Millpond Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.083795,41.459939,-87.083795,41.459939",
     "geom:latitude":41.459939,
     "geom:longitude":-87.083795,
@@ -27,7 +32,10 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SEr03eWtVyQGYe8CXQYLz_41.459939_-87.083795@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595758,
     "wof:geomhash":"fdf49b5d749a2e2a5ab7b4017d6a9803",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":790428367
+        }
+    ],
     "wof:id":790428367,
-    "wof:lastmodified":1466508973,
+    "wof:lastmodified":1492092193,
     "wof:name":"Kaper C Counseling",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790385587,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Main St Beech Grove IN 46107",
+    "addr:housenumber":"711",
+    "addr:postcode":"46107",
+    "addr:street":"Main St Beech Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.090872,39.721604,-86.090872,39.721604",
     "geom:latitude":39.721604,
     "geom:longitude":-86.090872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 Main St",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f0exbC83NZEkc63XK2Knp_39.721604_-86.090872@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595426,
-    "wof:geomhash":"941f7595c4816914fff4a7e58d5d03d2",
+    "wof:geomhash":"5635d540ec2b7f97c33fb347dde031e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790385587,
-    "wof:lastmodified":1466507997,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",

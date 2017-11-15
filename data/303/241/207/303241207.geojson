@@ -2,9 +2,14 @@
   "id": 303241207,
   "type": "Feature",
   "properties": {
+    "addr:full":"9571 Wicker Ave St John IN 46373",
+    "addr:housenumber":"9571",
+    "addr:postcode":"john;46373",
+    "addr:street":"Wicker Ave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.469914,41.446448,-87.469914,41.446448",
     "geom:latitude":41.446448,
     "geom:longitude":-87.469914,
@@ -31,11 +36,13 @@
     "sg:website":"www.stjohnpools.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85824159,
+        102191575,
+        404501873,
         85633793,
         85941841,
         102087149,
-        85824159
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"282054d2c70e0b1d79259d52211fb727",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501873,
             "locality_id":85941841,
             "neighbourhood_id":85824159,
             "region_id":85688709,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":303241207,
-    "wof:lastmodified":1466503513,
+    "wof:lastmodified":1492097553,
     "wof:name":"St John Pool & Home Ctr",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

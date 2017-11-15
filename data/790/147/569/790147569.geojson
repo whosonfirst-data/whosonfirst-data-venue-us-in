@@ -2,9 +2,14 @@
   "id": 790147569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3891 Adams St Gary IN 46408",
+    "addr:housenumber":"3891",
+    "addr:postcode":"46408",
+    "addr:street":"Adams St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.338813,41.549427,-87.338813,41.549427",
     "geom:latitude":41.549427,
     "geom:longitude":-87.338813,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GXCQ8I3wlazioU17SEmsz_41.549427_-87.338813@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462593489,
     "wof:geomhash":"d63a0e1a197e1d07d0e317b3d4823947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790147569
+        }
+    ],
     "wof:id":790147569,
-    "wof:lastmodified":1466505511,
+    "wof:lastmodified":1492091595,
     "wof:name":"Royalty Day Care Home",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

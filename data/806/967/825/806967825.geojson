@@ -2,14 +2,20 @@
   "id": 806967825,
   "type": "Feature",
   "properties": {
+    "addr:full":"8702 Keystone Xing Indianapolis IN 46240",
+    "addr:housenumber":"8702",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109488,39.913441,-86.109488,39.913441",
     "geom:latitude":39.913441,
     "geom:longitude":-86.109488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8702 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M2butPe2oCVJfscEYeB06_39.913441_-86.109488@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602589,
-    "wof:geomhash":"994a0fe743945bdc5cdfda8dfb520a07",
+    "wof:geomhash":"5c1412bd21d696d1baf9093f6baaa9a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806967825,
-    "wof:lastmodified":1466518539,
+    "wof:lastmodified":1510695240,
     "wof:name":"Anthropologie",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790053955,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 N Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"731",
+    "addr:postcode":"46383",
+    "addr:street":"N Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.036873,41.538235,-87.036873,41.538235",
     "geom:latitude":41.538235,
     "geom:longitude":-87.036873,
@@ -25,8 +30,9 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
+        420519863,
+        85688709,
         85829239,
         102087191
     ],
@@ -40,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790053955
+        },
+        {
+            "country_id":85633793,
             "county_id":102087191,
             "neighbourhood_id":85829239,
             "region_id":85688709,
@@ -47,9 +58,9 @@
         }
     ],
     "wof:id":790053955,
-    "wof:lastmodified":1466503908,
+    "wof:lastmodified":1492095712,
     "wof:name":"Indiana Trotting Bred Breeders",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

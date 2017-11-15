@@ -2,6 +2,10 @@
   "id": 773732757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1079 S 550 W Warsaw IN 46580",
+    "addr:housenumber":"1079;550",
+    "addr:postcode":"46580",
+    "addr:street":"S;W Warsaw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773732757,
-    "wof:lastmodified":1466518084,
+    "wof:lastmodified":1472623218,
     "wof:name":"Elite Contracting Svc Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

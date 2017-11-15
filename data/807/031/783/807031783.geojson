@@ -2,9 +2,14 @@
   "id": 807031783,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 45th Ave Munster IN 46321",
+    "addr:housenumber":"101",
+    "addr:postcode":"46321",
+    "addr:street":"45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.52353,41.542927,-87.52353,41.542927",
     "geom:latitude":41.542927,
     "geom:longitude":-87.52353,
@@ -28,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A99k6a04BHiWYeoRy5EPp_41.542927_-87.523530@1303262770"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462603137,
     "wof:geomhash":"0a926338858b61844874e722ef9b03c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807031783
+        }
+    ],
     "wof:id":807031783,
-    "wof:lastmodified":1466504187,
+    "wof:lastmodified":1492102072,
     "wof:name":"Svt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790550983,
   "type": "Feature",
   "properties": {
+    "addr:full":"3835 E 250 N Knox IN 46534",
+    "addr:housenumber":"3835",
+    "addr:postcode":"46534",
+    "addr:street":"E 250 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.623943,41.338723,-86.623943,41.338723",
     "geom:latitude":41.338723,
     "geom:longitude":-86.623943,
@@ -24,7 +29,13 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WNmPAsPwr3x3NhwPwmuji_41.338723_-86.623943@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462596803,
     "wof:geomhash":"25a2c4ca1088cdf07e2b9b20a5bbe0ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "region_id":85688709,
+            "venue_id":790550983
+        }
+    ],
     "wof:id":790550983,
-    "wof:lastmodified":1466513456,
+    "wof:lastmodified":1492097682,
     "wof:name":"Starke County Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

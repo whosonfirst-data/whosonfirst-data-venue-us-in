@@ -2,14 +2,20 @@
   "id": 806627561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 W McGalliard Rd Muncie IN 47304",
+    "addr:housenumber":"1801",
+    "addr:postcode":"47304",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.408621,40.218852,-85.408621,40.218852",
     "geom:latitude":40.218852,
     "geom:longitude":-85.408621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WxiW32wb6og6lVpEZ42zD_40.218852_-85.408621@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599717,
-    "wof:geomhash":"03ca2950b327c7d91e1642fa6f29db97",
+    "wof:geomhash":"b171ac06b1f7b31cd9f91c05cadda294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806627561,
-    "wof:lastmodified":1466507990,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

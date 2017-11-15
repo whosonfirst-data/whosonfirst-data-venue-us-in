@@ -2,9 +2,14 @@
   "id": 807020529,
   "type": "Feature",
   "properties": {
+    "addr:full":"4651 E 1010 N Demotte IN 46310",
+    "addr:housenumber":"4651",
+    "addr:postcode":"46310",
+    "addr:street":"E 1010 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.302871,41.146176,-87.302871,41.146176",
     "geom:latitude":41.146176,
     "geom:longitude":-87.302871,
@@ -80,7 +85,14 @@
     ],
     "sg:website":"http://www.mrheatinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DaTnGD4VTOCJb7EPvj3lH_41.146176_-87.302871@1303262769"
@@ -88,9 +100,19 @@
     "wof:country":"US",
     "wof:created":1462603043,
     "wof:geomhash":"4bd0c34aaed13999eb03f78644882951",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":807020529
+        }
+    ],
     "wof:id":807020529,
-    "wof:lastmodified":1466504087,
+    "wof:lastmodified":1492093667,
     "wof:name":"Mr. Heat, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

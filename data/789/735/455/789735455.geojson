@@ -2,6 +2,10 @@
   "id": 789735455,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N High St Muncie IN 47305",
+    "addr:housenumber":"300",
+    "addr:postcode":"47305",
+    "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789735455,
-    "wof:lastmodified":1466505826,
+    "wof:lastmodified":1472622571,
     "wof:name":"Code Enforcement",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

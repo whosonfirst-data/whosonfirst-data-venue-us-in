@@ -2,9 +2,14 @@
   "id": 790208495,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"809",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826562,41.70033,-86.826562,41.70033",
     "geom:latitude":41.70033,
     "geom:longitude":-86.826562,
@@ -27,7 +32,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KOZNkmuNtgvZglK1hdFBl_41.700330_-86.826562@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594017,
     "wof:geomhash":"c4d2df9803d2839d91289b9aad79e983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790208495
+        }
+    ],
     "wof:id":790208495,
-    "wof:lastmodified":1466505804,
+    "wof:lastmodified":1492100148,
     "wof:name":"R & B Truck Svc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806823105,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 W Coliseum Blvd Fort Wayne IN 46805",
+    "addr:housenumber":"407",
+    "addr:postcode":"46805",
+    "addr:street":"W Coliseum Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.146965,41.117945,-85.146965,41.117945",
     "geom:latitude":41.117945,
     "geom:longitude":-85.146965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 W Coliseum Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20PVtukC1sL1ODY4LYpg0D_41.117945_-85.146965@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601367,
-    "wof:geomhash":"ab043cbba8362787e562ed647cde8eef",
+    "wof:geomhash":"9387c7c3bcd44e81634b189fdeecce1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806823105,
-    "wof:lastmodified":1466515510,
+    "wof:lastmodified":1510695738,
     "wof:name":"Don Pablo's",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

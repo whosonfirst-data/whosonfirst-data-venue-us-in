@@ -2,9 +2,14 @@
   "id": 806732589,
   "type": "Feature",
   "properties": {
+    "addr:full":"4755 Broadway Gary IN 46409",
+    "addr:housenumber":"4755",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3362,41.532097,-87.3362,41.532097",
     "geom:latitude":41.532097,
     "geom:longitude":-87.3362,
@@ -30,7 +35,10 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_108UGuhgLIaZjYiNSF3tvU_41.532296_-87.336164@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462600606,
     "wof:geomhash":"0ce6547011e9cd4e5abd5bc9d25f83a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806732589
+        }
+    ],
     "wof:id":806732589,
-    "wof:lastmodified":1466512565,
+    "wof:lastmodified":1492100624,
     "wof:name":"47th & Broadway Currency Exchange",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

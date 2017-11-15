@@ -2,9 +2,14 @@
   "id": 790122979,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"1330",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.406744,41.2898,-87.406744,41.2898",
     "geom:latitude":41.2898,
     "geom:longitude":-87.406744,
@@ -24,7 +29,14 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07ORoDRbPNAFFuvzcjvKJT_41.289800_-87.406744@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462593313,
     "wof:geomhash":"a413a9bc1c0ac3487176bcbacdb152e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":790122979
+        }
+    ],
     "wof:id":790122979,
-    "wof:lastmodified":1466505161,
+    "wof:lastmodified":1492091554,
     "wof:name":"Hitzeman-Roberts Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

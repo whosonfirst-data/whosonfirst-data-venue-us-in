@@ -2,9 +2,14 @@
   "id": 790245823,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Crown Ct Crown Point IN 46307",
+    "addr:housenumber":"811",
+    "addr:postcode":"46307",
+    "addr:street":"Crown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.352531,41.431124,-87.352531,41.431124",
     "geom:latitude":41.431124,
     "geom:longitude":-87.352531,
@@ -27,7 +32,15 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TyEMP9J0XKzNvgESUxZYK_41.431124_-87.352531@1294102998"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462594293,
     "wof:geomhash":"e9736e2e5ad730eb05012ba5cd2b3074",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":790245823
+        }
+    ],
     "wof:id":790245823,
-    "wof:lastmodified":1466506307,
+    "wof:lastmodified":1492092006,
     "wof:name":"J C Licht Co",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

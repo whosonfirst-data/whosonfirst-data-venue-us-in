@@ -2,14 +2,20 @@
   "id": 806389747,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Middleton Run Rd Elkhart IN 46516",
+    "addr:housenumber":"131",
+    "addr:postcode":"46516",
+    "addr:street":"Middleton Run Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.91741,41.691361,-85.91741,41.691361",
     "geom:latitude":41.691361,
     "geom:longitude":-85.91741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131 Middleton Run Rd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125156973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ah9TBxVyeb6RKKCz8IGnL_41.691361_-85.917410@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597751,
-    "wof:geomhash":"b5893cbda7c78ebcd992c8f5b5ef7b41",
+    "wof:geomhash":"9c86b71609ab19961306a18bd99d6649",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806389747,
-    "wof:lastmodified":1466504501,
+    "wof:lastmodified":1510699775,
     "wof:name":"Hair Biz",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806575107,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 E 45th Ave Gary IN 46409",
+    "addr:housenumber":"715",
+    "addr:postcode":"46409",
+    "addr:street":"E 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.326669,41.536588,-87.326669,41.536588",
     "geom:latitude":41.536588,
     "geom:longitude":-87.326669,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VMLuGmRdjXTtxlLyvxngi_41.536588_-87.326669@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599273,
     "wof:geomhash":"5b29e22e521916c73873ed1062991352",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806575107
+        }
+    ],
     "wof:id":806575107,
-    "wof:lastmodified":1466506915,
+    "wof:lastmodified":1492105328,
     "wof:name":"Freeman Temple",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

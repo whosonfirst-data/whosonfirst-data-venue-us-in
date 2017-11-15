@@ -2,14 +2,20 @@
   "id": 789880047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3752 N Fruitridge Ave Terre Haute IN 47804",
+    "addr:housenumber":"3752",
+    "addr:postcode":"47804",
+    "addr:street":"N Fruitridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360197,39.509756,-87.360197,39.509756",
     "geom:latitude":39.509756,
     "geom:longitude":-87.360197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3752 N Fruitridge Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087183,
         85814437
     ],
+    "wof:brand_id":1125153501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3803DmfDVS5P1wcYcUR3pq_39.509756_-87.360197@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591291,
-    "wof:geomhash":"3cdf24309d15de1d1fd87de3771b82a9",
+    "wof:geomhash":"bcdeb8b735c50fc9fd9e19ffa47a6be1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789880047,
-    "wof:lastmodified":1466507221,
+    "wof:lastmodified":1510696031,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":85814437,
     "wof:placetype":"venue",

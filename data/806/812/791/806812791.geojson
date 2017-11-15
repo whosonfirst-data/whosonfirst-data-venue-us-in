@@ -2,14 +2,20 @@
   "id": 806812791,
   "type": "Feature",
   "properties": {
+    "addr:full":"4820 W 57th St Indianapolis IN 46254",
+    "addr:housenumber":"4820",
+    "addr:postcode":"46254",
+    "addr:street":"W 57Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.241673,39.856525,-86.241673,39.856525",
     "geom:latitude":39.856525,
     "geom:longitude":-86.241673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4820 W 57th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BskMA05h6KEK6191KMxCg_39.856525_-86.241673@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601286,
-    "wof:geomhash":"583a7ff882802824b47e8990284edf3a",
+    "wof:geomhash":"0fe2636ec4ec5c72e7d31aeacbedb94b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806812791,
-    "wof:lastmodified":1466515495,
+    "wof:lastmodified":1510697658,
     "wof:name":"Penn Station",
     "wof:parent_id":85807693,
     "wof:placetype":"venue",

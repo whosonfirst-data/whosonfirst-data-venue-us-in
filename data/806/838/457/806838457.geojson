@@ -2,9 +2,14 @@
   "id": 806838457,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 N 7th St Kentland IN 47951",
+    "addr:housenumber":"402",
+    "addr:postcode":"47951",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.438712,40.77093,-87.438712,40.77093",
     "geom:latitude":40.77093,
     "geom:longitude":-87.438712,
@@ -29,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kYyq5cZOTKqLNo7F1ALc4_40.770930_-87.438712@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601497,
     "wof:geomhash":"dfdf0cb0ab153d5ba2f2c029dcb63fa8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":806838457
+        }
+    ],
     "wof:id":806838457,
-    "wof:lastmodified":1466515974,
+    "wof:lastmodified":1492090544,
     "wof:name":"Monicals Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

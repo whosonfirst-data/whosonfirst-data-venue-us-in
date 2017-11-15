@@ -2,9 +2,14 @@
   "id": 806446433,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 E 600 N Valparaiso IN 46383",
+    "addr:housenumber":"13",
+    "addr:postcode":"46383",
+    "addr:street":"E 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.064821,41.521089,-87.064821,41.521089",
     "geom:latitude":41.521089,
     "geom:longitude":-87.064821,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71A6X0mJAWGi0DiF3NLxmL_41.521089_-87.064821@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598221,
     "wof:geomhash":"4da1dd1ed740c6cae96ac873a139248f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806446433
+        }
+    ],
     "wof:id":806446433,
-    "wof:lastmodified":1466505349,
+    "wof:lastmodified":1492094629,
     "wof:name":"Spagna & Sons",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806600431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2224 W 59th Ave Merrillville IN 46410",
+    "addr:housenumber":"2224",
+    "addr:postcode":"46410",
+    "addr:street":"W 59Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.36397,41.510153,-87.36397,41.510153",
     "geom:latitude":41.510153,
     "geom:longitude":-87.36397,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_598vog9uwbqDwdfB2DLLNQ_41.510153_-87.363970@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599494,
     "wof:geomhash":"155984e95b158619ce6ec6e2da885d80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806600431
+        }
+    ],
     "wof:id":806600431,
-    "wof:lastmodified":1466507483,
+    "wof:lastmodified":1492092767,
     "wof:name":"Katcol Engineering & Construct",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

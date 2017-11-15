@@ -2,9 +2,14 @@
   "id": 371170595,
   "type": "Feature",
   "properties": {
+    "addr:full":"4318 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"4318",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783664,41.690099,-86.783664,41.690099",
     "geom:latitude":41.690099,
     "geom:longitude":-86.783664,
@@ -26,7 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +41,15 @@
     "wof:geomhash":"7386455a9f5c2577b56e11a6beb469cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519723,
             "venue_id":371170595
         }
     ],
     "wof:id":371170595,
-    "wof:lastmodified":1466503088,
+    "wof:lastmodified":1492091482,
     "wof:name":"Holy Macaroni Cafe Pizzaria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 790326929,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 State Rd 267 Plainfield IN 46168",
+    "addr:housenumber":"3306;267",
+    "addr:postcode":"46168",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790326929,
-    "wof:lastmodified":1466507188,
+    "wof:lastmodified":1472622749,
     "wof:name":"Daum Trucking Inc",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790410189,
   "type": "Feature",
   "properties": {
+    "addr:full":"3849 Broadway Gary IN 46409",
+    "addr:housenumber":"3849",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336413,41.548684,-87.336413,41.548684",
     "geom:latitude":41.548684,
     "geom:longitude":-87.336413,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PaFxd8KRRgdTd0cHPLkp6_41.548684_-87.336413@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462595614,
     "wof:geomhash":"8e367517f9fee3c44428f5c0ae4c3717",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790410189
+        }
+    ],
     "wof:id":790410189,
-    "wof:lastmodified":1466508763,
+    "wof:lastmodified":1492097609,
     "wof:name":"Roy Boy S Place Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

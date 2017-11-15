@@ -2,14 +2,20 @@
   "id": 806823807,
   "type": "Feature",
   "properties": {
+    "addr:full":"10365 Illinois Rd Fort Wayne IN 46814",
+    "addr:housenumber":"10365",
+    "addr:postcode":"46814",
+    "addr:street":"Illinois Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.277596,41.074181,-85.277596,41.074181",
     "geom:latitude":41.074181,
     "geom:longitude":-85.277596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10365 Illinois Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125155013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TdfkVNt7POcucKCzzA0aU_41.074181_-85.277596@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601373,
-    "wof:geomhash":"63589d2a03e7dab828b2f508ec3b0060",
+    "wof:geomhash":"975eaec71bc53081ef483cdf22c12e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806823807,
-    "wof:lastmodified":1466515297,
+    "wof:lastmodified":1510700058,
     "wof:name":"Hong Kong",
     "wof:parent_id":85807473,
     "wof:placetype":"venue",

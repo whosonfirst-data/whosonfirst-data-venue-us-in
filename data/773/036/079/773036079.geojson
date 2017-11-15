@@ -2,14 +2,20 @@
   "id": 773036079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Kelsey Ct Fort Wayne IN 46818",
+    "addr:housenumber":"2020",
+    "addr:postcode":"46818",
+    "addr:street":"Kelsey Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.168155,41.136352,-85.168155,41.136352",
     "geom:latitude":41.136352,
     "geom:longitude":-85.168155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2020 Kelsey Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vDzRxC19m7SnhXx8PFszx_41.136352_-85.168155@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582629,
-    "wof:geomhash":"442096a3a2cb1b7ee23d13d5b9ef47fe",
+    "wof:geomhash":"088192643896f7206ddbba681e7b015a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773036079,
-    "wof:lastmodified":1466504393,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

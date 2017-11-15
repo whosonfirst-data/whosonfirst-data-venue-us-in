@@ -2,14 +2,20 @@
   "id": 806588977,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 4th St Aurora IN 47001",
+    "addr:housenumber":"211",
+    "addr:postcode":"47001",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.899498,39.054128,-84.899498,39.054128",
     "geom:latitude":39.054128,
     "geom:longitude":-84.899498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 4th St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087067,
         85851977
     ],
+    "wof:brand_id":1125151093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gHgKkgGDCWmCqnAu2t07b_39.054128_-84.899498@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599391,
-    "wof:geomhash":"e9a021ad3ccdab6ed89581271f2223ec",
+    "wof:geomhash":"82e00c810d385583981a61c1fe26b59e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806588977,
-    "wof:lastmodified":1466507158,
+    "wof:lastmodified":1510699974,
     "wof:name":"St Mary's School",
     "wof:parent_id":85851977,
     "wof:placetype":"venue",

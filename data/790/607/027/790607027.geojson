@@ -2,9 +2,14 @@
   "id": 790607027,
   "type": "Feature",
   "properties": {
+    "addr:full":"5298 W 1275 S Kentland IN 47951",
+    "addr:housenumber":"5298",
+    "addr:postcode":"47951",
+    "addr:street":"W 1275 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.501305,40.813347,-87.501305,40.813347",
     "geom:latitude":40.813347,
     "geom:longitude":-87.501305,
@@ -28,7 +33,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zn8hr8qY8SgP8LXwOhaRn_40.813347_-87.501305@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462597279,
     "wof:geomhash":"455fa1273ebecbbc0d577a28b4772f9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "region_id":85688709,
+            "venue_id":790607027
+        }
+    ],
     "wof:id":790607027,
-    "wof:lastmodified":1466515482,
+    "wof:lastmodified":1492107748,
     "wof:name":"Jonathan Shick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

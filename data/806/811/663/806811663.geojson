@@ -2,6 +2,10 @@
   "id": 806811663,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 S High School Rd Indianapolis IN 46241",
+    "addr:housenumber":"25",
+    "addr:postcode":"46241",
+    "addr:street":"S;School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806811663,
-    "wof:lastmodified":1466514669,
+    "wof:lastmodified":1472622930,
     "wof:name":"Bob Evans",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789640309,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 E Centennial Ave Muncie IN 47303",
+    "addr:housenumber":"4400",
+    "addr:postcode":"47303",
+    "addr:street":"E Centennial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.330611,40.207429,-85.330611,40.207429",
     "geom:latitude":40.207429,
     "geom:longitude":-85.330611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 E Centennial Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85827089
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wp1qPE8kspvBVEWqzHDfu_40.207429_-85.330611@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589377,
-    "wof:geomhash":"5e98da578842efc6ec3f8ab35f3d3d5c",
+    "wof:geomhash":"e61dfc5d090b3495ba2004a40d269d3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789640309,
-    "wof:lastmodified":1466504619,
+    "wof:lastmodified":1510694790,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",

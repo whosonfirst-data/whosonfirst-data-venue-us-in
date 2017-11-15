@@ -2,14 +2,20 @@
   "id": 789633123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1252 E Tipton St Seymour IN 47274",
+    "addr:housenumber":"1252",
+    "addr:postcode":"47274",
+    "addr:street":"E Tipton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.871386,38.958015,-85.871386,38.958015",
     "geom:latitude":38.958015,
     "geom:longitude":-85.871386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1252 E Tipton St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CHnZMXzdg388Kg0IkHCEr_38.958015_-85.871386@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589324,
-    "wof:geomhash":"43455af2e21908770a3ad90b79ee6bb7",
+    "wof:geomhash":"ffc23f459d387a42c9b58d035f4e8c91",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789633123,
-    "wof:lastmodified":1466504484,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

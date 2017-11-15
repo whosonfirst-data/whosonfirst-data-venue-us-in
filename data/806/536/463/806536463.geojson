@@ -2,9 +2,14 @@
   "id": 806536463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3243 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"3243",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.759632,41.687168,-86.759632,41.687168",
     "geom:latitude":41.687168,
     "geom:longitude":-86.759632,
@@ -27,7 +32,10 @@
         "saw"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07TaUZt8asSUMKlhO8VNZH_41.687168_-86.759632@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598927,
     "wof:geomhash":"4adcd6f059c392349efb54c78f50b88b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806536463
+        }
+    ],
     "wof:id":806536463,
-    "wof:lastmodified":1466506417,
+    "wof:lastmodified":1492103976,
     "wof:name":"Country Saw Sales & Rpr",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

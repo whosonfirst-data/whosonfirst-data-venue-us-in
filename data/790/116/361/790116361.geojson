@@ -2,9 +2,14 @@
   "id": 790116361,
   "type": "Feature",
   "properties": {
+    "addr:full":"4360 Washington St Gary IN 46408",
+    "addr:housenumber":"4360",
+    "addr:postcode":"46408",
+    "addr:street":"Washington St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337564,41.539684,-87.337564,41.539684",
     "geom:latitude":41.539684,
     "geom:longitude":-87.337564,
@@ -28,7 +33,10 @@
         "made"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_267pJ7kHv90Dsm9VVMi8n1_41.539684_-87.337564@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462593262,
     "wof:geomhash":"b6332e9949c6188caaa68d535a9b2401",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790116361
+        }
+    ],
     "wof:id":790116361,
-    "wof:lastmodified":1466504927,
+    "wof:lastmodified":1492100593,
     "wof:name":"Designer Glass",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

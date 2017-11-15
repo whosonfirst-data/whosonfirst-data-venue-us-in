@@ -2,14 +2,20 @@
   "id": 772996863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 Profit Dr Fort Wayne IN 46808",
+    "addr:housenumber":"1520",
+    "addr:postcode":"46808",
+    "addr:street":"Profit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.165451,41.126316,-85.165451,41.126316",
     "geom:latitude":41.126316,
     "geom:longitude":-85.165451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1520 Profit Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CPGCdG2pzJ3xmXTtHnSZu_41.126316_-85.165451@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462581973,
-    "wof:geomhash":"787434f5adf0a5c5464d1c477d314cee",
+    "wof:geomhash":"35383548b1210be4102c76abb584d058",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":772996863,
-    "wof:lastmodified":1466503257,
+    "wof:lastmodified":1510697718,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

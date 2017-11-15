@@ -2,14 +2,20 @@
   "id": 806620193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 W 8th St Muncie IN 47302",
+    "addr:housenumber":"1401",
+    "addr:postcode":"47302",
+    "addr:street":"W 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.403404,40.181985,-85.403404,40.181985",
     "geom:latitude":40.181985,
     "geom:longitude":-85.403404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 W 8th St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lJDVbX40WjurHqvq6GK0b_40.181985_-85.403404@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599654,
-    "wof:geomhash":"423720eefb4c347c8568bd48d800199b",
+    "wof:geomhash":"b9041dee57f14da354e5ca81b7ac5dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806620193,
-    "wof:lastmodified":1466507687,
+    "wof:lastmodified":1510697979,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

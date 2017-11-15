@@ -2,14 +2,20 @@
   "id": 319903169,
   "type": "Feature",
   "properties": {
+    "addr:full":"10100 US Hwy 36 Avon IN 46123",
+    "addr:housenumber":"10100",
+    "addr:postcode":"46123",
+    "addr:street":"Us Hwy 36",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.346291,39.76374,-86.346291,39.76374",
     "geom:latitude":39.76374,
     "geom:longitude":-86.346291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10100 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086423,
         85852591
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LPTt5jvCcbiyA9X4MtuqA_39.763740_-86.346291@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f06bcc813a278fb2054f3b7ec27dba7e",
+    "wof:geomhash":"d68aa5d61e3f67c210cb0be39fe9a804",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":319903169,
-    "wof:lastmodified":1466503594,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790467955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 S Nappanee St Elkhart IN 46516",
+    "addr:housenumber":"1712",
+    "addr:postcode":"46516",
+    "addr:street":"S Nappanee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.00312,41.6705,-86.00312,41.6705",
     "geom:latitude":41.6705,
     "geom:longitude":-86.00312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1712 S Nappanee St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HHnjBLInn5ZoGWUDRPcm4_41.670500_-86.003120@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596074,
-    "wof:geomhash":"07b97afeef7781abbcced6fbefd3c1c5",
+    "wof:geomhash":"e0e609a64712cc49f19ce22a17e75c78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790467955,
-    "wof:lastmodified":1466510429,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

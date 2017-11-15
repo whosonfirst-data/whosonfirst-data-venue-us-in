@@ -2,9 +2,14 @@
   "id": 773420223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3710 Van Buren St Gary IN 46408",
+    "addr:housenumber":"3710",
+    "addr:postcode":"46408",
+    "addr:street":"Van Buren St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345014,41.549368,-87.345014,41.549368",
     "geom:latitude":41.549368,
     "geom:longitude":-87.345014,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3J4Pb0StXiaZPw9NkBIcgK_41.549368_-87.345014@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462585576,
     "wof:geomhash":"5627a5bb1f4ea84550c65b2950a4d138",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773420223
+        }
+    ],
     "wof:id":773420223,
-    "wof:lastmodified":1466510706,
+    "wof:lastmodified":1492089450,
     "wof:name":"Ashanti C Sabree Dr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

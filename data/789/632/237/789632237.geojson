@@ -2,9 +2,14 @@
   "id": 789632237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 S Meer Rd Michigan City IN 46360",
+    "addr:housenumber":"1503",
+    "addr:postcode":"46360",
+    "addr:street":"S Meer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816272,41.695285,-86.816272,41.695285",
     "geom:latitude":41.695285,
     "geom:longitude":-86.816272,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.harborcountry-in.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lMD69PaETzDTebUZQxxCF_41.695285_-86.816272@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462589312,
     "wof:geomhash":"fd362b6c587e2ab7a63033f6e491631a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789632237
+        }
+    ],
     "wof:id":789632237,
-    "wof:lastmodified":1466504464,
+    "wof:lastmodified":1492093838,
     "wof:name":"LA Porte County Convention",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

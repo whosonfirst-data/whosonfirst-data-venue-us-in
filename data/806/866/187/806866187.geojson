@@ -2,14 +2,20 @@
   "id": 806866187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Hillcrest Dr Carmel IN 46033",
+    "addr:housenumber":"1205",
+    "addr:postcode":"46033",
+    "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.107354,39.973608,-86.107354,39.973608",
     "geom:latitude":39.973608,
     "geom:longitude":-86.107354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Hillcrest Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125159761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RSW69QV5f0mpIBRLf5HeJ_39.973608_-86.107354@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601742,
-    "wof:geomhash":"902f7d2ea38f24b8c6f0dc5653b640fd",
+    "wof:geomhash":"65a39cd7fbeddfd96f99c748bde6023a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806866187,
-    "wof:lastmodified":1466516664,
+    "wof:lastmodified":1510697206,
     "wof:name":"123 24 7 Locksmith",
     "wof:parent_id":420519517,
     "wof:placetype":"venue",

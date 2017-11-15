@@ -2,6 +2,10 @@
   "id": 790001959,
   "type": "Feature",
   "properties": {
+    "addr:full":"3919 S 175 W Lafayette IN 47909",
+    "addr:housenumber":"3919;175",
+    "addr:postcode":"47909",
+    "addr:street":"S;W Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790001959,
-    "wof:lastmodified":1466503246,
+    "wof:lastmodified":1472622278,
     "wof:name":"Pendleton Farms",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",

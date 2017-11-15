@@ -2,9 +2,14 @@
   "id": 807021247,
   "type": "Feature",
   "properties": {
+    "addr:full":"10715 Stateline Rd Dyer IN 46311",
+    "addr:housenumber":"10715",
+    "addr:postcode":"46311",
+    "addr:street":"Stateline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.515198,41.421101,-87.515198,41.421101",
     "geom:latitude":41.421101,
     "geom:longitude":-87.515198,
@@ -29,7 +34,13 @@
         "musical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iQhrZhWr8fUrxAWUvYWtp_41.421101_-87.515198@1303262769"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462603048,
     "wof:geomhash":"0cccb9e3fdccd8ce2142ec942f5dcd4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":807021247
+        }
+    ],
     "wof:id":807021247,
-    "wof:lastmodified":1466504081,
+    "wof:lastmodified":1492094661,
     "wof:name":"Piano's To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790265137,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 W 84th Dr Merrillville IN 46410",
+    "addr:housenumber":"521",
+    "addr:postcode":"46410",
+    "addr:street":"W 84Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.340938,41.464976,-87.340938,41.464976",
     "geom:latitude":41.464976,
     "geom:longitude":-87.340938,
@@ -29,7 +34,14 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eDX8TPxCdlKW8GII11fkD_41.464976_-87.340938@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462594461,
     "wof:geomhash":"55bd6388fc83008eb170d78a7552af21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "region_id":85688709,
+            "venue_id":790265137
+        }
+    ],
     "wof:id":790265137,
-    "wof:lastmodified":1466506718,
+    "wof:lastmodified":1492094991,
     "wof:name":"Chiabai Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

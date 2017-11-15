@@ -2,9 +2,14 @@
   "id": 789623229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1950 W Bunkum Rd Rensselaer IN 47978",
+    "addr:housenumber":"1950",
+    "addr:postcode":"47978",
+    "addr:street":"W Bunkum Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.173965,40.932012,-87.173965,40.932012",
     "geom:latitude":40.932012,
     "geom:longitude":-87.173965,
@@ -28,7 +33,13 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OeTcm7WJFpdlVWaudwt1n_40.932012_-87.173965@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589244,
     "wof:geomhash":"6dcf9863c6ae61b76cc6b1e6abb26693",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "region_id":85688709,
+            "venue_id":789623229
+        }
+    ],
     "wof:id":789623229,
-    "wof:lastmodified":1466504460,
+    "wof:lastmodified":1492101266,
     "wof:name":"Diana L Dewey Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

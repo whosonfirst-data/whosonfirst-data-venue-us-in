@@ -2,14 +2,20 @@
   "id": 370883075,
   "type": "Feature",
   "properties": {
+    "addr:full":"9100 Keystone Xing Indianapolis IN 46240",
+    "addr:housenumber":"9100",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109442,39.918008,-86.109442,39.918008",
     "geom:latitude":39.918008,
     "geom:longitude":-86.109442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9100 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -30,23 +36,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870669,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870669
+        85688709
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ym23vCmNokBwTuwRGrDus_39.918008_-86.109442@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6f731d0e6608d4bd94b7457d8d8bcd0",
+    "wof:geomhash":"aaa71933a349b94e9b40cbb4ecda5a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870669,
             "region_id":85688709,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":370883075,
-    "wof:lastmodified":1466503684,
+    "wof:lastmodified":1510694096,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

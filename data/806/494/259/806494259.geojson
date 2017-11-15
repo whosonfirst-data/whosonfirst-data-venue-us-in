@@ -2,9 +2,14 @@
   "id": 806494259,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 S 300 W Valparaiso IN 46385",
+    "addr:housenumber":"206;300",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.123874,41.403289,-87.123874,41.403289",
     "geom:latitude":41.403289,
     "geom:longitude":-87.123874,
@@ -27,7 +32,10 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eyLyey6rQaMXqh0FjVAWU_41.403289_-87.123874@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598573,
     "wof:geomhash":"89b8a455e63a0cca38ff14cf62a739c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806494259
+        }
+    ],
     "wof:id":806494259,
-    "wof:lastmodified":1466506076,
+    "wof:lastmodified":1492094659,
     "wof:name":"Shelton Tank Cleaning",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

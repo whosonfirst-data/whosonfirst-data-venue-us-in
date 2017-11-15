@@ -2,9 +2,14 @@
   "id": 806786851,
   "type": "Feature",
   "properties": {
+    "addr:full":"9414 W 181st Ave Lowell IN 46356",
+    "addr:housenumber":"9414",
+    "addr:postcode":"46356",
+    "addr:street":"W 181St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.447368,41.290009,-87.447368,41.290009",
     "geom:latitude":41.290009,
     "geom:longitude":-87.447368,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"http://www.hiratamotorsports.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FuZ12KHdHY1s0GHZf4SSE_41.290057_-87.446569@1293134755"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462601075,
     "wof:geomhash":"941993a8d4dd1658b4e4ee0ccbaff015",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":806786851
+        }
+    ],
     "wof:id":806786851,
-    "wof:lastmodified":1466514368,
+    "wof:lastmodified":1492102391,
     "wof:name":"Hirata's Lowell Automotive & Radiator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773787905,
   "type": "Feature",
   "properties": {
+    "addr:full":"1749 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"1749",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.399302,41.289968,-87.399302,41.289968",
     "geom:latitude":41.289968,
     "geom:longitude":-87.399302,
@@ -28,7 +33,14 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cdZw83ID2mg89G6OmGgAd_41.289968_-87.399302@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462588373,
     "wof:geomhash":"e169531e332c68ae9091cbfb98d05175",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":773787905
+        }
+    ],
     "wof:id":773787905,
-    "wof:lastmodified":1466518567,
+    "wof:lastmodified":1492093598,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

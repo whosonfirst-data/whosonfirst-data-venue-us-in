@@ -2,14 +2,20 @@
   "id": 773242979,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 S 3rd St Terre Haute IN 47807",
+    "addr:housenumber":"129",
+    "addr:postcode":"47807",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.445988,39.464963,-87.445988,39.464963",
     "geom:latitude":39.464963,
     "geom:longitude":-87.445988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 S 3rd St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37utlVOVPLEwYQJlfXZfYv_39.464963_-87.445988@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584236,
-    "wof:geomhash":"2d17f19164256517789b1b1d5c6a11a1",
+    "wof:geomhash":"7ba66470abf075a8ff9d841b1b089d38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773242979,
-    "wof:lastmodified":1466506783,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303801177,
   "type": "Feature",
   "properties": {
+    "addr:full":"7101 Indianapolis Blvd Hammond IN 46324",
+    "addr:housenumber":"7101",
+    "addr:postcode":"46324",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480927,41.582536,-87.480927,41.582536",
     "geom:latitude":41.582536,
     "geom:longitude":-87.480927,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85839875,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149,
-        85858873,
-        85839875
+        85688709,
+        85858873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"15c0a0a9c7a73b8bc01e459bbcc1edf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85858873,
+            "neighbourhood_id":85839875,
             "region_id":85688709,
             "venue_id":303801177
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85839875,
+            "neighbourhood_id":85858873,
             "region_id":85688709,
             "venue_id":303801177
         }
     ],
     "wof:id":303801177,
-    "wof:lastmodified":1466503106,
+    "wof:lastmodified":1492104735,
     "wof:name":"ICI Paints",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

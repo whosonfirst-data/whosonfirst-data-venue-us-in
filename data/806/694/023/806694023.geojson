@@ -2,9 +2,14 @@
   "id": 806694023,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 E 1100 S Brook IN 47922",
+    "addr:housenumber":"4600",
+    "addr:postcode":"47922",
+    "addr:street":"E 1100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.300197,40.836665,-87.300197,40.836665",
     "geom:latitude":40.836665,
     "geom:longitude":-87.300197,
@@ -24,7 +29,13 @@
     "sg:postcode":"47922",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gwg75GgpNh9Wx19Z4tqvQ_40.836665_-87.300197@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462600288,
     "wof:geomhash":"fc00ce6aeced615454607e72f5681153",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "region_id":85688709,
+            "venue_id":806694023
+        }
+    ],
     "wof:id":806694023,
-    "wof:lastmodified":1466510275,
+    "wof:lastmodified":1492093877,
     "wof:name":"Blue Directory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

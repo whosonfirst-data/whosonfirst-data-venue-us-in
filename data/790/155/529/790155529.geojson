@@ -2,6 +2,10 @@
   "id": 790155529,
   "type": "Feature",
   "properties": {
+    "addr:full":"11374 N State Rd 13 Syracuse IN 46567",
+    "addr:housenumber":"11374;13",
+    "addr:postcode":"46567",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":790155529,
-    "wof:lastmodified":1466505454,
+    "wof:lastmodified":1472622533,
     "wof:name":"Sleepy Owl Supper Club",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

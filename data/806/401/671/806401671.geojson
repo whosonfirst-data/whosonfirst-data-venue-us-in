@@ -2,9 +2,14 @@
   "id": 806401671,
   "type": "Feature",
   "properties": {
+    "addr:full":"7015 W 148th Ave Cedar Lake IN 46303",
+    "addr:housenumber":"7015",
+    "addr:postcode":"46303",
+    "addr:street":"W 148Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.418459,41.350167,-87.418459,41.350167",
     "geom:latitude":41.350167,
     "geom:longitude":-87.418459,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50f63wLCUBvDPmp6YBazlC_41.350167_-87.418459@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597851,
     "wof:geomhash":"49cf37bdf1bf8d9799225459c069af07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":806401671
+        }
+    ],
     "wof:id":806401671,
-    "wof:lastmodified":1466504559,
+    "wof:lastmodified":1492097682,
     "wof:name":"Paul's Tree & Evergreen Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

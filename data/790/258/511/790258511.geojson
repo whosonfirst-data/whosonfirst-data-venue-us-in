@@ -2,9 +2,14 @@
   "id": 790258511,
   "type": "Feature",
   "properties": {
+    "addr:full":"4365 Carolina St Gary IN 46409",
+    "addr:housenumber":"4365",
+    "addr:postcode":"46409",
+    "addr:street":"Carolina St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.327733,41.539684,-87.327733,41.539684",
     "geom:latitude":41.539684,
     "geom:longitude":-87.327733,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mgndAp3ldbA1b90w10ik0_41.539684_-87.327733@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462594410,
     "wof:geomhash":"6a5c163f11ed0e91abe86cf864186a40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790258511
+        }
+    ],
     "wof:id":790258511,
-    "wof:lastmodified":1466506552,
+    "wof:lastmodified":1492100593,
     "wof:name":"Kiddie Club Child Care II",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790584221,
   "type": "Feature",
   "properties": {
+    "addr:full":"4039 Moss Creek Ln West Lafayette IN 47906",
+    "addr:housenumber":"4039",
+    "addr:postcode":"47906",
+    "addr:street":"Moss Creek Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.981777,40.457644,-86.981777,40.457644",
     "geom:latitude":40.457644,
     "geom:longitude":-86.981777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4039 Moss Creek Ln",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85813095
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NVq73UCsaRG4nBXMHct7F_40.457644_-86.981777@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597078,
-    "wof:geomhash":"143e6583aaff81a1a560bedb45681911",
+    "wof:geomhash":"24577253cf05e399715e8441fbd5b6c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790584221,
-    "wof:lastmodified":1466514683,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85813095,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 353617665,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 N 4th St Lafayette IN 47901",
+    "addr:housenumber":"232",
+    "addr:postcode":"47901",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893151,40.419739,-86.893151,40.419739",
     "geom:latitude":40.419739,
     "geom:longitude":-86.893151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 N 4th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37SZihWHre8lK8w4bCBd7b_40.419739_-86.893151@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"17f69aed38b5cd3b8556a5995d55e62d",
+    "wof:geomhash":"d70dbc9f402381018885bd476ea62c34",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353617665,
-    "wof:lastmodified":1466503094,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

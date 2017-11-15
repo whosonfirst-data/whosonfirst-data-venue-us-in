@@ -2,14 +2,20 @@
   "id": 789583133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4630 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"4630",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.200984,41.066558,-85.200984,41.066558",
     "geom:latitude":41.066558,
     "geom:longitude":-85.200984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4630 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_594WdgGcbLEDL7XDk4TGjq_41.066558_-85.200984@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588933,
-    "wof:geomhash":"34a6e376b5db471d35e2d141cde67eac",
+    "wof:geomhash":"84e03d82cc86fde22b53e6d6b6501b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789583133,
-    "wof:lastmodified":1466503284,
+    "wof:lastmodified":1510697428,
     "wof:name":"LCA",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",

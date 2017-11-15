@@ -2,9 +2,14 @@
   "id": 789881605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4050 Millersville Rd Indianapolis IN 46205",
+    "addr:housenumber":"4050",
+    "addr:postcode":"46205",
+    "addr:street":"Millersville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.121792,39.829814,-86.121792,39.829814",
     "geom:latitude":39.829814,
     "geom:longitude":-86.121792,
@@ -34,7 +39,8 @@
         85633793,
         85942569,
         102087201,
-        85688709
+        85688709,
+        85870655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85868441,
             "region_id":85688709,
             "venue_id":789881605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870655,
+            "region_id":85688709,
+            "venue_id":789881605
         }
     ],
     "wof:id":789881605,
-    "wof:lastmodified":1466507240,
+    "wof:lastmodified":1491906629,
     "wof:name":"True Vine Missionary Baptist",
-    "wof:parent_id":85868441,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

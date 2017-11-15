@@ -2,14 +2,20 @@
   "id": 789705111,
   "type": "Feature",
   "properties": {
+    "addr:full":"5365 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5365",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.076376,39.905057,-86.076376,39.905057",
     "geom:latitude":39.905057,
     "geom:longitude":-86.076376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5365 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P9yxzrlInMzalh6Od5QNW_39.905057_-86.076376@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589893,
-    "wof:geomhash":"adc6eda7d7b5b6cd71b86ae2bfa349bf",
+    "wof:geomhash":"b6bc279515b5c19a151258edfec25eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789705111,
-    "wof:lastmodified":1466505564,
+    "wof:lastmodified":1510693909,
     "wof:name":"Heavenly Ham",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",

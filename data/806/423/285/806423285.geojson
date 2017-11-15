@@ -2,9 +2,14 @@
   "id": 806423285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1601",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355918,41.548453,-87.355918,41.548453",
     "geom:latitude":41.548453,
     "geom:longitude":-87.355918,
@@ -27,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SYt3ZJp8O8KCMr5Xqi85q_41.548453_-87.355918@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598030,
     "wof:geomhash":"070e56f468401d37010c9e6d1c3322f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806423285
+        }
+    ],
     "wof:id":806423285,
-    "wof:lastmodified":1466504910,
+    "wof:lastmodified":1492095592,
     "wof:name":"Marathon Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

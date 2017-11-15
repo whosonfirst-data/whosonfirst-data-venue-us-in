@@ -2,9 +2,14 @@
   "id": 807043489,
   "type": "Feature",
   "properties": {
+    "addr:full":"10909 W 157th Ave Lowell IN 46356",
+    "addr:housenumber":"10909",
+    "addr:postcode":"46356",
+    "addr:street":"W 157Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.4702,41.3339,-87.4702,41.3339",
     "geom:latitude":41.3339,
     "geom:longitude":-87.4702,
@@ -24,7 +29,13 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kQkLefEbGhv9IKxNCiDCR_41.333900_-87.470200@1303262771"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462603239,
     "wof:geomhash":"2a094f7e6f09a4bb56d5e39b10604d3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807043489
+        }
+    ],
     "wof:id":807043489,
-    "wof:lastmodified":1466503953,
+    "wof:lastmodified":1492101873,
     "wof:name":"Advanced Auto & Trans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

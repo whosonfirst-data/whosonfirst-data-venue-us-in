@@ -2,9 +2,14 @@
   "id": 790244183,
   "type": "Feature",
   "properties": {
+    "addr:full":"3814 Grant St Gary IN 46408",
+    "addr:housenumber":"3814",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355896,41.548778,-87.355896,41.548778",
     "geom:latitude":41.548778,
     "geom:longitude":-87.355896,
@@ -27,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NiiHEi8EeEP98L1K1edLd_41.548778_-87.355896@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594277,
     "wof:geomhash":"3b9b859198a4aadad06b1edab5bfc502",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790244183
+        }
+    ],
     "wof:id":790244183,
-    "wof:lastmodified":1466506291,
+    "wof:lastmodified":1492100668,
     "wof:name":"Geoffrey Onyeukwu MD",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

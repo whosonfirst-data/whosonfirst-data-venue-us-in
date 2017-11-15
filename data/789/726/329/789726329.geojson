@@ -2,6 +2,10 @@
   "id": 789726329,
   "type": "Feature",
   "properties": {
+    "addr:full":"13120 S 250 W Columbus IN 47201",
+    "addr:housenumber":"13120;250",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789726329,
-    "wof:lastmodified":1466505598,
+    "wof:lastmodified":1472622562,
     "wof:name":"Claycamp Construction",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

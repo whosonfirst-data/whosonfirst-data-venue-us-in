@@ -2,9 +2,14 @@
   "id": 790535811,
   "type": "Feature",
   "properties": {
+    "addr:full":"3555 Boone Grove Rd Valparaiso IN 46385",
+    "addr:housenumber":"3555",
+    "addr:postcode":"46385",
+    "addr:street":"Boone Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.10458,41.434633,-87.10458,41.434633",
     "geom:latitude":41.434633,
     "geom:longitude":-87.10458,
@@ -28,7 +33,10 @@
         "wall"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H6IjSmpQWPPE1KS16MxVj_41.434633_-87.104580@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596668,
     "wof:geomhash":"c551c5662b6b032d285311b3a2e00492",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790535811
+        }
+    ],
     "wof:id":790535811,
-    "wof:lastmodified":1466513037,
+    "wof:lastmodified":1492102264,
     "wof:name":"Landscape Enhancements",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

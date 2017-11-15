@@ -2,14 +2,20 @@
   "id": 790120243,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 W 17th St Bloomington IN 47404",
+    "addr:housenumber":"820",
+    "addr:postcode":"47404",
+    "addr:street":"W 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.54304,39.179102,-86.54304,39.179102",
     "geom:latitude":39.179102,
     "geom:longitude":-86.54304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 W 17th St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01EYEtWI8n2HYxBMBbz10l_39.179102_-86.543040@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593292,
-    "wof:geomhash":"1f939e567915f85a856caaf67906e4a0",
+    "wof:geomhash":"539668bcf41196765ee1c0c3de9a5700",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790120243,
-    "wof:lastmodified":1466504966,
+    "wof:lastmodified":1510613256,
     "wof:name":"GAB Robins",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

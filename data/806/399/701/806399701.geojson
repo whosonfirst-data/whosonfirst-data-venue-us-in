@@ -2,9 +2,14 @@
   "id": 806399701,
   "type": "Feature",
   "properties": {
+    "addr:full":"5928 E State Rd 10 Roselawn IN 46310",
+    "addr:housenumber":"5928;10",
+    "addr:postcode":"roselawn;46310",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.277236,41.144477,-87.277236,41.144477",
     "geom:latitude":41.144477,
     "geom:longitude":-87.277236,
@@ -29,7 +34,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZUPjVWWtRqZVbGHphPt08_41.144477_-87.277236@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462597838,
     "wof:geomhash":"5155e122cd8461725f54d73aebd1b47e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":806399701
+        }
+    ],
     "wof:id":806399701,
-    "wof:lastmodified":1466504657,
+    "wof:lastmodified":1492097219,
     "wof:name":"Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

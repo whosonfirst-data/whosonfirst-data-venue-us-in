@@ -2,6 +2,10 @@
   "id": 354021321,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 Park 800 Dr Greenwood IN 46143",
+    "addr:housenumber":"499;800",
+    "addr:postcode":"46143",
+    "addr:street":"Park;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354021321,
-    "wof:lastmodified":1466502907,
+    "wof:lastmodified":1472622272,
     "wof:name":"Finish Consulting & Instlln",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

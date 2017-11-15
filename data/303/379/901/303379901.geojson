@@ -2,14 +2,20 @@
   "id": 303379901,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 E Main St Madison IN 47250",
+    "addr:housenumber":"301",
+    "addr:postcode":"47250",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.377249,38.736269,-85.377249,38.736269",
     "geom:latitude":38.736269,
     "geom:longitude":-85.377249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 E Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85941853,
         102087103
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qv0gP1kD7fbcgGR6HOETk_38.736269_-85.377249@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"122a19ef37ff301986796dec28401aaf",
+    "wof:geomhash":"480ffaa85fbc944bb7ad37a1eaca509d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303379901,
-    "wof:lastmodified":1466503651,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

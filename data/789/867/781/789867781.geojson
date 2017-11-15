@@ -2,9 +2,14 @@
   "id": 789867781,
   "type": "Feature",
   "properties": {
+    "addr:full":"4507 Rutland Rd Valparaiso IN 46383",
+    "addr:housenumber":"4507",
+    "addr:postcode":"46383",
+    "addr:street":"Rutland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.061598,41.509337,-87.061598,41.509337",
     "geom:latitude":41.509337,
     "geom:longitude":-87.061598,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55PL413JDUNlXiP5VH8M6B_41.509337_-87.061598@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462591166,
     "wof:geomhash":"a21f32dc8cbd040023ad3b8179c68c84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789867781
+        }
+    ],
     "wof:id":789867781,
-    "wof:lastmodified":1466507237,
+    "wof:lastmodified":1492097585,
     "wof:name":"Essential Pleasures",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

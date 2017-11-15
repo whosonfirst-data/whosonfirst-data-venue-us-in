@@ -2,6 +2,10 @@
   "id": 790468051,
   "type": "Feature",
   "properties": {
+    "addr:full":"25270 Co Rd 126 Elkhart IN 46517",
+    "addr:housenumber":"25270;126",
+    "addr:postcode":"46517",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790468051,
-    "wof:lastmodified":1466510439,
+    "wof:lastmodified":1472622876,
     "wof:name":"Rassi Sales & Svc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

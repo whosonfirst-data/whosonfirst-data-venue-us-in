@@ -2,14 +2,20 @@
   "id": 773090627,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N 13th St Terre Haute IN 47807",
+    "addr:housenumber":"700",
+    "addr:postcode":"47807",
+    "addr:street":"N 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397742,39.475829,-87.397742,39.475829",
     "geom:latitude":39.475829,
     "geom:longitude":-87.397742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 N 13th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125151959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rnFbiZXeaMDpNOibhgcVG_39.475829_-87.397742@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583084,
-    "wof:geomhash":"94610befca27b98de1abcc820e5a1fb8",
+    "wof:geomhash":"5bbee784f830cd05c558ffa1bfd8d2a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773090627,
-    "wof:lastmodified":1466505001,
+    "wof:lastmodified":1510699564,
     "wof:name":"Praxair Inc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

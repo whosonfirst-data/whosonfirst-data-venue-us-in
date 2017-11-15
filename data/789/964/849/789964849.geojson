@@ -2,14 +2,20 @@
   "id": 789964849,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 4th St Columbus IN 47201",
+    "addr:housenumber":"923",
+    "addr:postcode":"47201",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.914209,39.202602,-85.914209,39.202602",
     "geom:latitude":39.202602,
     "geom:longitude":-85.914209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"923 4th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85821009,
         102087181
     ],
+    "wof:brand_id":420574787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HWk8AxynsYmZ2yiQi5mCd_39.202602_-85.914209@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592036,
-    "wof:geomhash":"2eea2a7ea15daebc906ba48f13a0a0fd",
+    "wof:geomhash":"c8ddefb1b2472cac09f5dec7a6b1a49b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789964849,
-    "wof:lastmodified":1466509250,
+    "wof:lastmodified":1510603992,
     "wof:name":"American Cancer Society",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773058971,
   "type": "Feature",
   "properties": {
+    "addr:full":"484 Co Rd 1400 Wheatfield IN 46392",
+    "addr:housenumber":"484;1400",
+    "addr:postcode":"46392",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.036313,41.216027,-87.036313,41.216027",
     "geom:latitude":41.216027,
     "geom:longitude":-87.036313,
@@ -29,7 +34,13 @@
         "unloading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500999,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Hlct4ImN24tYnDTFaxlLl_41.216027_-87.036313@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462582835,
     "wof:geomhash":"c5469322b65247ed01f36877d26bb861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500999,
+            "region_id":85688709,
+            "venue_id":773058971
+        }
+    ],
     "wof:id":773058971,
-    "wof:lastmodified":1466504758,
+    "wof:lastmodified":1492092186,
     "wof:name":"Wheatfield Loading Service LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

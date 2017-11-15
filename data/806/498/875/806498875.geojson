@@ -2,14 +2,20 @@
   "id": 806498875,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"606",
+    "addr:postcode":"46383",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.058023,41.47354,-87.058023,41.47354",
     "geom:latitude":41.47354,
     "geom:longitude":-87.058023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 Calumet Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6avrKU54haRFZ2HkQU2pMg_41.473540_-87.058023@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598614,
-    "wof:geomhash":"55c97e1ba5bbdcff8a7116ec6077a130",
+    "wof:geomhash":"8c70aa58d764d1bfcd6a0a7a8713b785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806498875,
-    "wof:lastmodified":1466505919,
+    "wof:lastmodified":1510697515,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":420519839,
     "wof:placetype":"venue",

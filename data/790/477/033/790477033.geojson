@@ -2,6 +2,10 @@
   "id": 790477033,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 N Co Rd 1050 E Brownsburg IN 46112",
+    "addr:housenumber":"8601;1050 e",
+    "addr:postcode":"46112",
+    "addr:street":"N Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":790477033,
-    "wof:lastmodified":1466511716,
+    "wof:lastmodified":1472622886,
     "wof:name":"Minkis Construction Corp",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",

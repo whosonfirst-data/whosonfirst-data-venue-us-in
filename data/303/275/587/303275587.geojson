@@ -2,14 +2,20 @@
   "id": 303275587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 W McGalliard Rd Muncie IN 47303",
+    "addr:housenumber":"1007",
+    "addr:postcode":"47303",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.398173,40.218861,-85.398173,40.218861",
     "geom:latitude":40.218861,
     "geom:longitude":-85.398173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1007 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087155,
         85815231
     ],
+    "wof:brand_id":1125152743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27yN3KE8Q0cgStlMShIILf_40.218861_-85.398173@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"075a5c9a02f48d7292b82a145de80b86",
+    "wof:geomhash":"9cdff8bb756fb127d19ac27b2c7be852",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303275587,
-    "wof:lastmodified":1466503554,
+    "wof:lastmodified":1510613102,
     "wof:name":"Super Nails",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

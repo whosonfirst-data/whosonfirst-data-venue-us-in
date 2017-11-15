@@ -2,14 +2,20 @@
   "id": 789610591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2909 Grant Line Rd New Albany IN 47150",
+    "addr:housenumber":"2909",
+    "addr:postcode":"47150",
+    "addr:street":"Grant Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.820786,38.31603,-85.820786,38.31603",
     "geom:latitude":38.31603,
     "geom:longitude":-85.820786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2909 Grant Line Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087137,
         85846703
     ],
+    "wof:brand_id":1125152567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TqlPqkRmtKlnSUYP5wBo2_38.316030_-85.820786@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589142,
-    "wof:geomhash":"75789e85fe8dfe8523bc28efbfb30e89",
+    "wof:geomhash":"94db95295fa644537c115d51b46d55bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789610591,
-    "wof:lastmodified":1466504008,
+    "wof:lastmodified":1510693933,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773387859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 E 350 S Knox IN 46534",
+    "addr:housenumber":"1915",
+    "addr:postcode":"46534",
+    "addr:street":"E 350 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.661362,41.251115,-86.661362,41.251115",
     "geom:latitude":41.251115,
     "geom:longitude":-86.661362,
@@ -29,7 +34,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501487,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jcjjmRJJhEHGB1vC6nX51_41.251115_-86.661362@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462585308,
     "wof:geomhash":"0682c9d8a37fefe1db2a27b45b5b1f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501487,
+            "region_id":85688709,
+            "venue_id":773387859
+        }
+    ],
     "wof:id":773387859,
-    "wof:lastmodified":1466509633,
+    "wof:lastmodified":1492093598,
     "wof:name":"San Pierre Auto Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

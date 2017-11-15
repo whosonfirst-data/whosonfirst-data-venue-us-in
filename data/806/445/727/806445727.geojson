@@ -2,6 +2,10 @@
   "id": 806445727,
   "type": "Feature",
   "properties": {
+    "addr:full":"16580 Co Rd 46 New Paris IN 46553",
+    "addr:housenumber":"16580;46",
+    "addr:postcode":"in 46553",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806445727,
-    "wof:lastmodified":1466505328,
+    "wof:lastmodified":1472622419,
     "wof:name":"Yoder Accounting & Tax Svc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

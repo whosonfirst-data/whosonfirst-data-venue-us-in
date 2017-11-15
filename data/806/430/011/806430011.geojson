@@ -2,9 +2,14 @@
   "id": 806430011,
   "type": "Feature",
   "properties": {
+    "addr:full":"4469 Broadway Gary IN 46409",
+    "addr:housenumber":"4469",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336211,41.53801,-87.336211,41.53801",
     "geom:latitude":41.53801,
     "geom:longitude":-87.336211,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q67x7nGSIZbpQSFOJiWvz_41.538010_-87.336211@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598088,
     "wof:geomhash":"27a43cf1f71411e38a6eeece4fec8d4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806430011
+        }
+    ],
     "wof:id":806430011,
-    "wof:lastmodified":1466505051,
+    "wof:lastmodified":1492103218,
     "wof:name":"Variety Lounge",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

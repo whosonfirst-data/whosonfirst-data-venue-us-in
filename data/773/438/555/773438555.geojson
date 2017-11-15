@@ -2,9 +2,14 @@
   "id": 773438555,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Cori Ct Valparaiso IN 46383",
+    "addr:housenumber":"251",
+    "addr:postcode":"46383",
+    "addr:street":"Cori Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.064798,41.502894,-87.064798,41.502894",
     "geom:latitude":41.502894,
     "geom:longitude":-87.064798,
@@ -29,7 +34,10 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66a3JvHpr13sYy7fnYa9cD_41.502894_-87.064798@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462585748,
     "wof:geomhash":"cbc4a89ec178604a16893c0f9994a664",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773438555
+        }
+    ],
     "wof:id":773438555,
-    "wof:lastmodified":1466511883,
+    "wof:lastmodified":1492092766,
     "wof:name":"Discount Carpet Cleaning",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

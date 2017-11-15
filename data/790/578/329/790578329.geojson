@@ -2,6 +2,10 @@
   "id": 790578329,
   "type": "Feature",
   "properties": {
+    "addr:full":"7898 W State Rd 45 Bloomington IN 47403",
+    "addr:housenumber":"7898;45",
+    "addr:postcode":"47403",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790578329,
-    "wof:lastmodified":1466514072,
+    "wof:lastmodified":1472623003,
     "wof:name":"Allen Langley Concrete",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

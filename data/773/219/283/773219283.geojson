@@ -2,9 +2,14 @@
   "id": 773219283,
   "type": "Feature",
   "properties": {
+    "addr:full":"4443 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4443",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360417,41.537705,-87.360417,41.537705",
     "geom:latitude":41.537705,
     "geom:longitude":-87.360417,
@@ -27,7 +32,10 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SgM56zjrWVCpNmT447npE_41.537705_-87.360417@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584069,
     "wof:geomhash":"73b5874cd843a288909ba6acc84d5084",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773219283
+        }
+    ],
     "wof:id":773219283,
-    "wof:lastmodified":1466506482,
+    "wof:lastmodified":1492090439,
     "wof:name":"Lake County Music & Vending",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

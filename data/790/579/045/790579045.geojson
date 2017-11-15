@@ -2,9 +2,14 @@
   "id": 790579045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 E 1000 N Laporte IN 46350",
+    "addr:housenumber":"2003",
+    "addr:postcode":"46350",
+    "addr:street":"E 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.656068,41.752899,-86.656068,41.752899",
     "geom:latitude":41.752899,
     "geom:longitude":-86.656068,
@@ -25,7 +30,13 @@
     "sg:province":"IN",
     "sg:website":"www.hestoninc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500435,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DuPvFRkdzXb1lsxY6BgqX_41.752899_-86.656068@1294102998"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1462597030,
     "wof:geomhash":"430702f18763900a4896cb2949a7b086",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404500435,
+            "region_id":85688709,
+            "venue_id":790579045
+        }
+    ],
     "wof:id":790579045,
-    "wof:lastmodified":1466514800,
+    "wof:lastmodified":1492097602,
     "wof:name":"Heston Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

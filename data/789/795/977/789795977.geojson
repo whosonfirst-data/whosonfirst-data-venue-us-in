@@ -2,14 +2,20 @@
   "id": 789795977,
   "type": "Feature",
   "properties": {
+    "addr:full":"10009 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"10009",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.987414,39.77495,-85.987414,39.77495",
     "geom:latitude":39.77495,
     "geom:longitude":-85.987414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10009 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jmj7ZcobdEsJSOHk8gLFz_39.774950_-85.987414@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590612,
-    "wof:geomhash":"85429eccc9404fb0fceb08d2735772fe",
+    "wof:geomhash":"fd8f1af6665cc44e338a65073083bda8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789795977,
-    "wof:lastmodified":1466506336,
+    "wof:lastmodified":1510693723,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

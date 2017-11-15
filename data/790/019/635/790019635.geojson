@@ -2,14 +2,20 @@
   "id": 790019635,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 S Huntington St Syracuse IN 46567",
+    "addr:housenumber":"507",
+    "addr:postcode":"46567",
+    "addr:street":"S Huntington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.74755,41.417143,-85.74755,41.417143",
     "geom:latitude":41.417143,
     "geom:longitude":-85.74755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 S Huntington St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MvgC8kYDgKbYj9DN0ZG6D_41.417143_-85.747550@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592488,
-    "wof:geomhash":"d885d2b90f8cbadde2e75a327c12d6b4",
+    "wof:geomhash":"cdc2df8cede580cab07c73976b435ddb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790019635,
-    "wof:lastmodified":1466503808,
+    "wof:lastmodified":1510695340,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773462653,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 W US Hwy 30 Valparaiso IN 46385",
+    "addr:housenumber":"718",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.20413,41.4706,-87.20413,41.4706",
     "geom:latitude":41.4706,
     "geom:longitude":-87.20413,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
-        85633793,
         85813921,
-        102087191
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"b602a28b9b93bf099ff5783f66b71958",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087191,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85813921,
             "region_id":85688709,
             "venue_id":773462653
         }
     ],
     "wof:id":773462653,
-    "wof:lastmodified":1466512149,
+    "wof:lastmodified":1492095860,
     "wof:name":"Johnson's Farm Produce",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

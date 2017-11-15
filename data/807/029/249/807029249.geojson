@@ -2,9 +2,14 @@
   "id": 807029249,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"110",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.523306,41.563199,-87.523306,41.563199",
     "geom:latitude":41.563199,
     "geom:longitude":-87.523306,
@@ -24,7 +29,14 @@
     "sg:postcode":"46321",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DNcDql0g7I0v4HMllaPKK_41.563199_-87.523306@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603118,
     "wof:geomhash":"9d52c85b48d4d1234b384cfa52630cb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807029249
+        }
+    ],
     "wof:id":807029249,
-    "wof:lastmodified":1466504134,
+    "wof:lastmodified":1492102406,
     "wof:name":"Panares Rodrigo R MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

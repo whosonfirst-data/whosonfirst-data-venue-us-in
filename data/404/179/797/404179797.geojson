@@ -2,14 +2,20 @@
   "id": 404179797,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"5050",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.243645,39.823928,-86.243645,39.823928",
     "geom:latitude":39.823928,
     "geom:longitude":-86.243645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5050 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85858453
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ghj8tRyjiFVQIc4R3mzlJ_39.823928_-86.243645@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f463b04c98bc63629c9af6dfc23f761b",
+    "wof:geomhash":"0965dae2be8a8912fb06be68289c0e9f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404179797,
-    "wof:lastmodified":1466503126,
+    "wof:lastmodified":1510613088,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

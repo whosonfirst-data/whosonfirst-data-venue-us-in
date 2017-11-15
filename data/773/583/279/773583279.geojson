@@ -2,9 +2,14 @@
   "id": 773583279,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"16",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.067116,41.549849,-87.067116,41.549849",
     "geom:latitude":41.549849,
     "geom:longitude":-87.067116,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YrsTRxn74tGtE0LuZRgC8_41.549849_-87.067116@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462586826,
     "wof:geomhash":"5803f22739eb61eb4c8016e96a0fef92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773583279
+        }
+    ],
     "wof:id":773583279,
-    "wof:lastmodified":1466515934,
+    "wof:lastmodified":1492100597,
     "wof:name":"Johnson Excavating",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773605499,
   "type": "Feature",
   "properties": {
+    "addr:full":"6325 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"6325",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.226079,41.055061,-85.226079,41.055061",
     "geom:latitude":41.055061,
     "geom:longitude":-85.226079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6325 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Uz7g0QjbHRiWyBBjZnyKQ_41.055061_-85.226079@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586978,
-    "wof:geomhash":"1e1e156cbae254ecc40b67e7ff1b0e68",
+    "wof:geomhash":"626862991ff95f8196aa89f69102f097",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773605499,
-    "wof:lastmodified":1466516196,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":420519437,
     "wof:placetype":"venue",

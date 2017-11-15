@@ -2,14 +2,20 @@
   "id": 790408315,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 Aurora St Indianapolis IN 46227",
+    "addr:housenumber":"3720",
+    "addr:postcode":"46227",
+    "addr:street":"Aurora St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.125962,39.7111,-86.125962,39.7111",
     "geom:latitude":39.7111,
     "geom:longitude":-86.125962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3720 Aurora St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XXWY0DjviN6XROjBQUu4J_39.711100_-86.125962@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595600,
-    "wof:geomhash":"d41465e7cfaeeb2fd3239e5763fc3eb8",
+    "wof:geomhash":"f3dd1118847c0177c771b5f45d9e6d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790408315,
-    "wof:lastmodified":1466508239,
+    "wof:lastmodified":1510695894,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

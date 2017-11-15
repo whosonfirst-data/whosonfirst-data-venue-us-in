@@ -2,9 +2,14 @@
   "id": 790432293,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Lockerbie Dr Valparaiso IN 46385",
+    "addr:housenumber":"274",
+    "addr:postcode":"46385",
+    "addr:street":"Lockerbie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.120254,41.439397,-87.120254,41.439397",
     "geom:latitude":41.439397,
     "geom:longitude":-87.120254,
@@ -27,7 +32,10 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35Oqe6CVv5zY1PIPlc20nE_41.439397_-87.120254@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595787,
     "wof:geomhash":"25055f322cb83608d0da3b7e94ec2574",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790432293
+        }
+    ],
     "wof:id":790432293,
-    "wof:lastmodified":1466508735,
+    "wof:lastmodified":1492092101,
     "wof:name":"Course At Aberdeen",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790185875,
   "type": "Feature",
   "properties": {
+    "addr:full":"4607 Claussen Ln Valparaiso IN 46383",
+    "addr:housenumber":"4607",
+    "addr:postcode":"46383",
+    "addr:street":"Claussen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.045474,41.510881,-87.045474,41.510881",
     "geom:latitude":41.510881,
     "geom:longitude":-87.045474,
@@ -28,7 +33,16 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863,
+        85891199,
+        102191575,
+        404501707,
+        85942401,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OgpIyAA4yI5Jgn3Ct98Cu_41.510881_-87.045474@1294102998"
@@ -36,11 +50,27 @@
     "wof:country":"US",
     "wof:created":1462593823,
     "wof:geomhash":"1e0ff8af9d74333cb256bda16517089c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790185875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501707,
+            "locality_id":85942401,
+            "neighbourhood_id":85891199,
+            "region_id":85688709,
+            "venue_id":790185875
+        }
+    ],
     "wof:id":790185875,
-    "wof:lastmodified":1466505618,
+    "wof:lastmodified":1492094986,
     "wof:name":"Steelstone Press",
-    "wof:parent_id":420519863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

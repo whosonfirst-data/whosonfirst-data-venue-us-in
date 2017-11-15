@@ -2,14 +2,20 @@
   "id": 320062687,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 S 1st St Van Buren IN 46991",
+    "addr:housenumber":"201",
+    "addr:postcode":"46991",
+    "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.504955,40.616617,-85.504955,40.616617",
     "geom:latitude":40.616617,
     "geom:longitude":-85.504955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 S 1st St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64DDNvhYhXdQIWzx3UoBMw_40.616617_-85.504955@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"68f0cec20ed5de3be8c58842969bdff1",
+    "wof:geomhash":"12e179420049bffba6661762e347b5cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":320062687,
-    "wof:lastmodified":1466503686,
+    "wof:lastmodified":1510696079,
     "wof:name":"Central Christian Church",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773751007,
   "type": "Feature",
   "properties": {
+    "addr:full":"7321 Shadeland Station Indianapolis IN 46256",
+    "addr:housenumber":"7321",
+    "addr:postcode":"46256",
+    "addr:street":"Shadeland Station",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.043824,39.887809,-86.043824,39.887809",
     "geom:latitude":39.887809,
     "geom:longitude":-86.043824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7321 Shadeland Station",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tQXaqZtJvQyldxyegDO6h_39.887809_-86.043824@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588103,
-    "wof:geomhash":"05b773dd913f0b0e0713f0cda1549b7a",
+    "wof:geomhash":"fbac65a2fdfc8c153cde8db065944079",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773751007,
-    "wof:lastmodified":1466518505,
+    "wof:lastmodified":1510698751,
     "wof:name":"Bankers Life",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",

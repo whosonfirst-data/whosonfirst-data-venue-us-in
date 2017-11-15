@@ -2,14 +2,20 @@
   "id": 806490399,
   "type": "Feature",
   "properties": {
+    "addr:full":"5235 Winthrop Ave Indianapolis IN 46220",
+    "addr:housenumber":"5235",
+    "addr:postcode":"46220",
+    "addr:street":"Winthrop Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.141764,39.849047,-86.141764,39.849047",
     "geom:latitude":39.849047,
     "geom:longitude":-86.141764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5235 Winthrop Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ol6IVwhJ4glHQMexn016H_39.849047_-86.141764@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598545,
-    "wof:geomhash":"e38f74850a5429560c32f4a014453dd0",
+    "wof:geomhash":"da74687ca65b989b2cd081092a5fe29f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806490399,
-    "wof:lastmodified":1466505965,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

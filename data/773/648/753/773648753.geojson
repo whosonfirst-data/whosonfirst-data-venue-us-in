@@ -2,9 +2,14 @@
   "id": 773648753,
   "type": "Feature",
   "properties": {
+    "addr:full":"4868 US Hwy 35 La Porte IN 46350",
+    "addr:housenumber":"4868",
+    "addr:postcode":"in 46350",
+    "addr:street":"Us Hwy 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784397,41.675815,-86.784397,41.675815",
     "geom:latitude":41.675815,
     "geom:longitude":-86.784397,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iRwipCGlFzX59B2b7GeaQ_41.675815_-86.784397@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587319,
     "wof:geomhash":"0de8d404b452b6abc5d52c0d36f40479",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773648753
+        }
+    ],
     "wof:id":773648753,
-    "wof:lastmodified":1466516931,
+    "wof:lastmodified":1492094662,
     "wof:name":"Delarme Tile Company",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

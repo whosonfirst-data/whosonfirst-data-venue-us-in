@@ -2,14 +2,20 @@
   "id": 790400865,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 S Washington St Swayzee IN 46986",
+    "addr:housenumber":"104",
+    "addr:postcode":"46986",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.855075,40.498937,-85.855075,40.498937",
     "geom:latitude":40.498937,
     "geom:longitude":-85.855075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 S Washington St",
     "sg:city":"Swayzee",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":1125157855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N3SvzNjt1Etli92PaxUck_40.498937_-85.855075@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595540,
-    "wof:geomhash":"7f1f7bdf6cb525ef396e1f3b3c549cf4",
+    "wof:geomhash":"900920962be61edd200bca9c33d937be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790400865,
-    "wof:lastmodified":1466507836,
+    "wof:lastmodified":1510699742,
     "wof:name":"Hair Trends",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

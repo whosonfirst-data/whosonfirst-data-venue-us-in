@@ -2,9 +2,14 @@
   "id": 773230517,
   "type": "Feature",
   "properties": {
+    "addr:full":"12240 W 103rd Ct Saint John IN 46373",
+    "addr:housenumber":"12240",
+    "addr:postcode":"46373",
+    "addr:street":"W 103Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.482079,41.431759,-87.482079,41.431759",
     "geom:latitude":41.431759,
     "geom:longitude":-87.482079,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w3du662J8xKFLrT2CleE0_41.431759_-87.482079@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462584146,
     "wof:geomhash":"a3a7e7a600ad1e21cc5a34f661931a7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":773230517
+        }
+    ],
     "wof:id":773230517,
-    "wof:lastmodified":1466506605,
+    "wof:lastmodified":1492098295,
     "wof:name":"Homan Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

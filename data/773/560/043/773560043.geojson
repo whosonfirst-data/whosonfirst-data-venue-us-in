@@ -2,9 +2,14 @@
   "id": 773560043,
   "type": "Feature",
   "properties": {
+    "addr:full":"3808 Polk St Gary IN 46408",
+    "addr:housenumber":"3808",
+    "addr:postcode":"46408",
+    "addr:street":"Polk St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348579,41.549547,-87.348579,41.549547",
     "geom:latitude":41.549547,
     "geom:longitude":-87.348579,
@@ -27,7 +32,10 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eiReY1qiHR2jXnoReSYvs_41.549547_-87.348579@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586648,
     "wof:geomhash":"adb754158e22320b5783d0b60a252309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773560043
+        }
+    ],
     "wof:id":773560043,
-    "wof:lastmodified":1466515209,
+    "wof:lastmodified":1492091727,
     "wof:name":"Fresh As A Daisy Cleaning Svc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

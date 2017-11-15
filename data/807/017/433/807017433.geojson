@@ -2,9 +2,14 @@
   "id": 807017433,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 Heritage Ct Apt 103 Crown Point IN 46307",
+    "addr:housenumber":"908",
+    "addr:postcode":"46307",
+    "addr:street":"Heritage Ct Apt 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.354465,41.411951,-87.354465,41.411951",
     "geom:latitude":41.411951,
     "geom:longitude":-87.354465,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85854185,
+        102191575,
+        404500429,
         85633793,
         85941787,
         102087149,
-        85854185
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"14e5158982c02d5a7b9aa38dd329f70c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404500429,
             "locality_id":85941787,
             "neighbourhood_id":85854185,
             "region_id":85688709,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":807017433,
-    "wof:lastmodified":1466504060,
+    "wof:lastmodified":1492093280,
     "wof:name":"Courts Apartments of Heritage",
     "wof:parent_id":85854185,
     "wof:placetype":"venue",

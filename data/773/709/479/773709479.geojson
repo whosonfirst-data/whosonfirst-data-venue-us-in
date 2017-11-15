@@ -2,14 +2,20 @@
   "id": 773709479,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 N Lynhurst Dr Indianapolis IN 46224",
+    "addr:housenumber":"35",
+    "addr:postcode":"46224",
+    "addr:street":"N Lynhurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.250296,39.767545,-86.250296,39.767545",
     "geom:latitude":39.767545,
     "geom:longitude":-86.250296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 N Lynhurst Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YBLMzBG54Uw9ekqifcCyP_39.767545_-86.250296@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587800,
-    "wof:geomhash":"dfdd988be92cc283858f74a3847877ff",
+    "wof:geomhash":"8296108aa5a234ec1ccfc651a546f36b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773709479,
-    "wof:lastmodified":1466517706,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",

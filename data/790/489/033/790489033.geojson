@@ -2,6 +2,10 @@
   "id": 790489033,
   "type": "Feature",
   "properties": {
+    "addr:full":"5037 N State Rd 15 Warsaw IN 46582",
+    "addr:housenumber":"5037;15",
+    "addr:postcode":"46582",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":790489033,
-    "wof:lastmodified":1466511728,
+    "wof:lastmodified":1472622909,
     "wof:name":"Alice Loher",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

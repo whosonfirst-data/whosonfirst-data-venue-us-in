@@ -2,9 +2,14 @@
   "id": 807032875,
   "type": "Feature",
   "properties": {
+    "addr:full":"8256 Hohman Ave Munster IN 46321",
+    "addr:housenumber":"8256",
+    "addr:postcode":"46321",
+    "addr:street":"Hohman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.522499,41.563202,-87.522499,41.563202",
     "geom:latitude":41.563202,
     "geom:longitude":-87.522499,
@@ -40,7 +45,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31TJkREUUSzU3thwQVhwFK_41.563202_-87.522499@1303262770"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462603146,
     "wof:geomhash":"ca205f2913b001a4f7ba3ccd8ae54b25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807032875
+        }
+    ],
     "wof:id":807032875,
-    "wof:lastmodified":1466504192,
+    "wof:lastmodified":1492092311,
     "wof:name":"Dawson Derek J MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

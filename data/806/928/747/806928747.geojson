@@ -2,14 +2,20 @@
   "id": 806928747,
   "type": "Feature",
   "properties": {
+    "addr:full":"5810 E 71st St Indianapolis IN 46220",
+    "addr:housenumber":"5810",
+    "addr:postcode":"46220",
+    "addr:street":"E 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.069356,39.883389,-86.069356,39.883389",
     "geom:latitude":39.883389,
     "geom:longitude":-86.069356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5810 E 71st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kLnMvJINTxfake6T3aam9_39.883389_-86.069356@1303262764"
     },
     "wof:country":"US",
     "wof:created":1462602262,
-    "wof:geomhash":"47012c5b3defc69f9a0000f5281cd7cb",
+    "wof:geomhash":"b88d6d98501486b6cc4ea964f084ed13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806928747,
-    "wof:lastmodified":1466517478,
+    "wof:lastmodified":1510699721,
     "wof:name":"Kroger Pharmacy",
     "wof:parent_id":85814417,
     "wof:placetype":"venue",

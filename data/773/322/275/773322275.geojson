@@ -2,6 +2,10 @@
   "id": 773322275,
   "type": "Feature",
   "properties": {
+    "addr:full":"8315 N Co Rd 375 W Freetown IN 47235",
+    "addr:housenumber":"8315;375",
+    "addr:postcode":"47235",
+    "addr:street":"N Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":773322275,
-    "wof:lastmodified":1466507541,
+    "wof:lastmodified":1472623080,
     "wof:name":"Pershing Township Volunteer FI",
     "wof:parent_id":85818369,
     "wof:placetype":"venue",

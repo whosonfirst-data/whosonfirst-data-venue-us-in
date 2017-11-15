@@ -2,14 +2,20 @@
   "id": 790231367,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Grant St Gary IN 46404",
+    "addr:housenumber":"2300",
+    "addr:postcode":"46404",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.356105,41.575178,-87.356105,41.575178",
     "geom:latitude":41.575178,
     "geom:longitude":-87.356105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Grant St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125153059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09jWfTPt1T90VsDgJC18Ba_41.575178_-87.356105@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594182,
-    "wof:geomhash":"f34c04b9735c534a35021e1652f275da",
+    "wof:geomhash":"5c9db5375246b272320a0dd906a5362b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790231367,
-    "wof:lastmodified":1466506218,
+    "wof:lastmodified":1510700002,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

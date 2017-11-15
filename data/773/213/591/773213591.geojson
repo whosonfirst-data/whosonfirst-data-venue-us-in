@@ -2,9 +2,14 @@
   "id": 773213591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 E 150 S Knox IN 46534",
+    "addr:housenumber":"2905",
+    "addr:postcode":"46534",
+    "addr:street":"E 150 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641676,41.280777,-86.641676,41.280777",
     "geom:latitude":41.280777,
     "geom:longitude":-86.641676,
@@ -27,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aN7Q2q011h2aQiEjfgL5I_41.280777_-86.641676@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462584022,
     "wof:geomhash":"8d28d4b0b3695d5f07df4a15ae9c02f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "region_id":85688709,
+            "venue_id":773213591
+        }
+    ],
     "wof:id":773213591,
-    "wof:lastmodified":1466506399,
+    "wof:lastmodified":1492097179,
     "wof:name":"Robert L King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

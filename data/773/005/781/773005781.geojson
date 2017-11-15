@@ -2,14 +2,20 @@
   "id": 773005781,
   "type": "Feature",
   "properties": {
+    "addr:full":"7540 E 71st St Indianapolis IN 46256",
+    "addr:housenumber":"7540",
+    "addr:postcode":"46256",
+    "addr:street":"E 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.037189,39.883524,-86.037189,39.883524",
     "geom:latitude":39.883524,
     "geom:longitude":-86.037189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7540 E 71st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153839,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZLj4gvBeUYCuYG8fZgIg4_39.883524_-86.037189@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582233,
-    "wof:geomhash":"75446ecc4a013a935c51a59b3338adae",
+    "wof:geomhash":"478e5dff0a124af2d1f5cab999e4446e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773005781,
-    "wof:lastmodified":1466503395,
+    "wof:lastmodified":1510696920,
     "wof:name":"Apostolic Christian Church",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806533697,
   "type": "Feature",
   "properties": {
+    "addr:full":"6665 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"6665",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.052684,39.905165,-86.052684,39.905165",
     "geom:latitude":39.905165,
     "geom:longitude":-86.052684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6665 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oYyEGVpHv9uktVkoECr1J_39.905165_-86.052684@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598900,
-    "wof:geomhash":"6c437b133fd25c6658f871a029f9b67a",
+    "wof:geomhash":"43e397266fc6a451b1c750788657d2fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806533697,
-    "wof:lastmodified":1466506399,
+    "wof:lastmodified":1510695159,
     "wof:name":"S&K Famous Brand Menswear",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

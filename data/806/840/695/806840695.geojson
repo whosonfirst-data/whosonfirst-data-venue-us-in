@@ -2,14 +2,20 @@
   "id": 806840695,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Maryland St Indianapolis IN 46225",
+    "addr:housenumber":"111",
+    "addr:postcode":"46225",
+    "addr:street":"W Maryland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.161119,39.765316,-86.161119,39.765316",
     "geom:latitude":39.765316,
     "geom:longitude":-86.161119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 W Maryland St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kfF2Padf8eQ72HXFkE3OI_39.765641_-86.161628@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601514,
-    "wof:geomhash":"a7291243a1d97778a1cb010291b48160",
+    "wof:geomhash":"37c43e74241b16bbe199a523888f3637",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806840695,
-    "wof:lastmodified":1466516068,
+    "wof:lastmodified":1510696063,
     "wof:name":"Houlihan's",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

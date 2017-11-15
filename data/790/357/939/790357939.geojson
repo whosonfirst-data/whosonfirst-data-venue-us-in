@@ -2,14 +2,20 @@
   "id": 790357939,
   "type": "Feature",
   "properties": {
+    "addr:full":"4416 Vogel Rd Evansville IN 47715",
+    "addr:housenumber":"4416",
+    "addr:postcode":"47715",
+    "addr:street":"Vogel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.499376,37.987782,-87.499376,37.987782",
     "geom:latitude":37.987782,
     "geom:longitude":-87.499376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4416 Vogel Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125153987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IdnOICpPSxaSBwR0gI0cV_37.987782_-87.499376@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595207,
-    "wof:geomhash":"896437b701a363d14d2334418c292dbd",
+    "wof:geomhash":"f03e86462fbe671d3fe063388217d6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790357939,
-    "wof:lastmodified":1466507498,
+    "wof:lastmodified":1510699549,
     "wof:name":"Pennzoil 10 Minute Oil Change",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789825637,
   "type": "Feature",
   "properties": {
+    "addr:full":"21271 Co Rd 38 Goshen IN 46526",
+    "addr:housenumber":"21271;38",
+    "addr:postcode":"46526",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789825637,
-    "wof:lastmodified":1466506662,
+    "wof:lastmodified":1472622668,
     "wof:name":"Arthur Haab",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

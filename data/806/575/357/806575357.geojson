@@ -2,9 +2,14 @@
   "id": 806575357,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 S Range Rd North Judson IN 46366",
+    "addr:housenumber":"5900",
+    "addr:postcode":"in 46366",
+    "addr:street":"S Range Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.69828,41.217036,-86.69828,41.217036",
     "geom:latitude":41.217036,
     "geom:longitude":-86.69828,
@@ -28,7 +33,13 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501487,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NaztjH8xprJQW0GJAyWW5_41.217036_-86.698280@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462599274,
     "wof:geomhash":"80f63e7b1cd0253f4647ab5f62120b25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501487,
+            "region_id":85688709,
+            "venue_id":806575357
+        }
+    ],
     "wof:id":806575357,
-    "wof:lastmodified":1466506922,
+    "wof:lastmodified":1492103088,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

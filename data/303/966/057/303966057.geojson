@@ -2,9 +2,14 @@
   "id": 303966057,
   "type": "Feature",
   "properties": {
+    "addr:full":"10823 N Meridian Rd Monon IN 47959",
+    "addr:housenumber":"10823",
+    "addr:postcode":"47959",
+    "addr:street":"N Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878537,40.904505,-86.878537,40.904505",
     "geom:latitude":40.904505,
     "geom:longitude":-86.878537,
@@ -28,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404501993,
         85633793,
-        85688709
+        102087133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +47,16 @@
     "wof:geomhash":"3d2e7233001967bf218c4f63879bd6f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087133,
+            "localadmin_id":404501993,
             "region_id":85688709,
             "venue_id":303966057
         }
     ],
     "wof:id":303966057,
-    "wof:lastmodified":1466503333,
+    "wof:lastmodified":1492095729,
     "wof:name":"Gutwein Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

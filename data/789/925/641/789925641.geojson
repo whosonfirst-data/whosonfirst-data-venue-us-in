@@ -2,9 +2,14 @@
   "id": 789925641,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 W 500 N Valparaiso IN 46385",
+    "addr:housenumber":"424",
+    "addr:postcode":"46385",
+    "addr:street":"W 500 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.142926,41.507131,-87.142926,41.507131",
     "geom:latitude":41.507131,
     "geom:longitude":-87.142926,
@@ -25,7 +30,10 @@
     "sg:province":"IN",
     "sg:website":"www.union.k12.in.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZzgPaDNQagbHkSG2da51z_41.507131_-87.142926@1294102998"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1462591670,
     "wof:geomhash":"8218ff34b850f3ebc401485946af05d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789925641
+        }
+    ],
     "wof:id":789925641,
-    "wof:lastmodified":1466507659,
+    "wof:lastmodified":1492093692,
     "wof:name":"John Simatovich Elementary",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

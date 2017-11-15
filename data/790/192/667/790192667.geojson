@@ -2,9 +2,14 @@
   "id": 790192667,
   "type": "Feature",
   "properties": {
+    "addr:full":"6580 N 575 W Denham IN 46996",
+    "addr:housenumber":"6580",
+    "addr:postcode":"46996",
+    "addr:street":"N 575 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.71322,41.150782,-86.71322,41.150782",
     "geom:latitude":41.150782,
     "geom:longitude":-86.71322,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501669,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_006DRhKAP7pD1KQm9jRRf0_41.150782_-86.713220@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462593876,
     "wof:geomhash":"3dfacca3e7b92ad73b3d7658da864078",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501669,
+            "region_id":85688709,
+            "venue_id":790192667
+        }
+    ],
     "wof:id":790192667,
-    "wof:lastmodified":1466505824,
+    "wof:lastmodified":1492091657,
     "wof:name":"First Baptist Church Of Denham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789878127,
   "type": "Feature",
   "properties": {
+    "addr:full":"16920 Holtz Rd Lowell IN 46356",
+    "addr:housenumber":"",
+    "addr:postcode":"16920;46356",
+    "addr:street":"Holtz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.382072,41.311186,-87.382072,41.311186",
     "geom:latitude":41.311186,
     "geom:longitude":-87.382072,
@@ -27,7 +32,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02a68FHhw0lvp118ONUMnr_41.311186_-87.382072@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462591269,
     "wof:geomhash":"a7336191dc9e216bccb4084fc2958626",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "region_id":85688709,
+            "venue_id":789878127
+        }
+    ],
     "wof:id":789878127,
-    "wof:lastmodified":1466507206,
+    "wof:lastmodified":1492089211,
     "wof:name":"C & E Tree Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

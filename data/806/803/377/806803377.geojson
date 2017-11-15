@@ -2,14 +2,20 @@
   "id": 806803377,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 E Cedar St Zionsville IN 46077",
+    "addr:housenumber":"65",
+    "addr:postcode":"46077",
+    "addr:street":"E Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.261574,39.95151,-86.261574,39.95151",
     "geom:latitude":39.95151,
     "geom:longitude":-86.261574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"65 E Cedar St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086453,
         85688709
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zfP2gCAFk7TFKU4uhmc3L_39.951510_-86.261574@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601211,
-    "wof:geomhash":"f0d6ae653a2eb92ccddf679e8e54519b",
+    "wof:geomhash":"add24848704d1f5c0e5f6de4f52118f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806803377,
-    "wof:lastmodified":1466515338,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",

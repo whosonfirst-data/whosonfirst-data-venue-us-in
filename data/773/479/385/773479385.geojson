@@ -2,14 +2,20 @@
   "id": 773479385,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 N Cullen Ave Evansville IN 47715",
+    "addr:housenumber":"2701",
+    "addr:postcode":"47715",
+    "addr:street":"N Cullen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.486266,37.998751,-87.486266,37.998751",
     "geom:latitude":37.998751,
     "geom:longitude":-87.486266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2701 N Cullen Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Uhc4IS090lsewV5lWUObh_37.998751_-87.486266@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586069,
-    "wof:geomhash":"6a6ce19e41b4885c07fbb18013a5e1c3",
+    "wof:geomhash":"c3c29f051f43748ce7912ebab7923582",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773479385,
-    "wof:lastmodified":1466512801,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85877315,
     "wof:placetype":"venue",

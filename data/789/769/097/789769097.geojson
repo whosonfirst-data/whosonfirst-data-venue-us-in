@@ -2,14 +2,20 @@
   "id": 789769097,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 S Harbour Dr Noblesville IN 46062",
+    "addr:housenumber":"250",
+    "addr:postcode":"46062",
+    "addr:street":"S Harbour Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.048954,40.062785,-86.048954,40.062785",
     "geom:latitude":40.062785,
     "geom:longitude":-86.048954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 S Harbour Dr",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125153221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ptwao3EpNfsnLJJbvypUU_40.062785_-86.048954@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590396,
-    "wof:geomhash":"69d2f3429f272e2b8c1f2eb9f5a07b80",
+    "wof:geomhash":"155592b2f1ee9bf0790e9b2f485a77a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789769097,
-    "wof:lastmodified":1466506159,
+    "wof:lastmodified":1510699566,
     "wof:name":"Goddard School",
     "wof:parent_id":420519629,
     "wof:placetype":"venue",

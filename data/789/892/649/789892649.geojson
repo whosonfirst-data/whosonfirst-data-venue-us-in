@@ -2,14 +2,20 @@
   "id": 789892649,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Green River Rd Evansville IN 47715",
+    "addr:housenumber":"300",
+    "addr:postcode":"47715",
+    "addr:street":"N Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492665,37.977456,-87.492665,37.977456",
     "geom:latitude":37.977456,
     "geom:longitude":-87.492665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12cAmLusuAjmZbOBspcsfU_37.977456_-87.492665@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591389,
-    "wof:geomhash":"46b0d483b8e03a4b36da9f2aebe90021",
+    "wof:geomhash":"44c57f4f714cb06f66970f5be715bae2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789892649,
-    "wof:lastmodified":1466507461,
+    "wof:lastmodified":1510696025,
     "wof:name":"David's Bridal",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

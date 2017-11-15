@@ -2,9 +2,14 @@
   "id": 806460119,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 E 370 S Rensselaer IN 47978",
+    "addr:housenumber":"817",
+    "addr:postcode":"47978",
+    "addr:street":"E 370 S Rensselaer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.031469,40.959351,-87.031469,40.959351",
     "geom:latitude":40.959351,
     "geom:longitude":-87.031469,
@@ -28,7 +33,13 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500997,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nIEI3h8sUy43A2JwN4z1K_40.959351_-87.031469@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462598313,
     "wof:geomhash":"4c8e95c1bc3792134690b0c3667ed973",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500997,
+            "region_id":85688709,
+            "venue_id":806460119
+        }
+    ],
     "wof:id":806460119,
-    "wof:lastmodified":1466505529,
+    "wof:lastmodified":1492103697,
     "wof:name":"Hurley Swine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

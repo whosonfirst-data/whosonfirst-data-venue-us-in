@@ -2,9 +2,14 @@
   "id": 789758229,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 Calumet Trl Michigan City IN 46360",
+    "addr:housenumber":"3505",
+    "addr:postcode":"46360",
+    "addr:street":"Calumet Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.827698,41.754161,-86.827698,41.754161",
     "geom:latitude":41.754161,
     "geom:longitude":-86.827698,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FvutJAvsZM8S0nxt774Sm_41.754161_-86.827698@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462590317,
     "wof:geomhash":"a26b2792776768e1b493255346f3af50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "region_id":85688709,
+            "venue_id":789758229
+        }
+    ],
     "wof:id":789758229,
-    "wof:lastmodified":1466505977,
+    "wof:lastmodified":1492098424,
     "wof:name":"Chesterton Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

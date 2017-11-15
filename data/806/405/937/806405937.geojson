@@ -2,9 +2,14 @@
   "id": 806405937,
   "type": "Feature",
   "properties": {
+    "addr:full":"4078 Lincoln St Gary IN 46408",
+    "addr:housenumber":"4078",
+    "addr:postcode":"46408",
+    "addr:street":"Lincoln St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353437,41.545589,-87.353437,41.545589",
     "geom:latitude":41.545589,
     "geom:longitude":-87.353437,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eGVzrzndJ4rIoZkKcLgbF_41.545589_-87.353437@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462597882,
     "wof:geomhash":"3e88782eafa4d2b3f198b60616d8e216",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806405937
+        }
+    ],
     "wof:id":806405937,
-    "wof:lastmodified":1466504768,
+    "wof:lastmodified":1492097511,
     "wof:name":"Whole Truth Gospel Tabernacle",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

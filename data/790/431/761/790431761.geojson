@@ -2,9 +2,14 @@
   "id": 790431761,
   "type": "Feature",
   "properties": {
+    "addr:full":"6966 State Rd 14 Winamac IN 46996",
+    "addr:housenumber":"6966;14",
+    "addr:postcode":"46996",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.736908,41.056045,-86.736908,41.056045",
     "geom:latitude":41.056045,
     "geom:longitude":-86.736908,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.bethelbiblechurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501667,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S2G8HtvyfmoioLSGhFcz8_41.056045_-86.736908@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595783,
     "wof:geomhash":"375f4584066ad69c98e9948bfb596a8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501667,
+            "region_id":85688709,
+            "venue_id":790431761
+        }
+    ],
     "wof:id":790431761,
-    "wof:lastmodified":1466509078,
+    "wof:lastmodified":1492103086,
     "wof:name":"Bethel Bible Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

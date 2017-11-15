@@ -2,9 +2,14 @@
   "id": 806727593,
   "type": "Feature",
   "properties": {
+    "addr:full":"13201 W 109th Ave Dyer IN 46311",
+    "addr:housenumber":"13201",
+    "addr:postcode":"46311",
+    "addr:street":"W 109Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.494844,41.421141,-87.494844,41.421141",
     "geom:latitude":41.421141,
     "geom:longitude":-87.494844,
@@ -23,7 +28,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lDDOjSrKTQ2R4ylLdxYqO_41.421141_-87.494844@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600563,
     "wof:geomhash":"39dea88feb5db57db2f94e861c3c1c3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":806727593
+        }
+    ],
     "wof:id":806727593,
-    "wof:lastmodified":1466511856,
+    "wof:lastmodified":1492097558,
     "wof:name":"Herman Monix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

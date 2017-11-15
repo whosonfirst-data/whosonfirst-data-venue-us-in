@@ -2,9 +2,14 @@
   "id": 807017209,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E Summit St Crown Point IN 46307",
+    "addr:housenumber":"100",
+    "addr:postcode":"46307",
+    "addr:street":"E Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364502,41.427601,-87.364502,41.427601",
     "geom:latitude":41.427601,
     "geom:longitude":-87.364502,
@@ -28,7 +33,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FVFEUl7dRT8Ka1SPjwEQa_41.427601_-87.364502@1303262769"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462603005,
     "wof:geomhash":"a69908298e00b451a56fb2c471d667e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807017209
+        }
+    ],
     "wof:id":807017209,
-    "wof:lastmodified":1466504051,
+    "wof:lastmodified":1492093279,
     "wof:name":"Avery's Auto",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

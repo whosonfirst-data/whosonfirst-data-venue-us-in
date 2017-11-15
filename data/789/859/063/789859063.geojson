@@ -2,14 +2,20 @@
   "id": 789859063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1650 E State Rd 44 Shelbyville IN 46176",
+    "addr:housenumber":"1650;44",
+    "addr:postcode":"46176",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.753123,39.519944,-85.753123,39.519944",
     "geom:latitude":39.519944,
     "geom:longitude":-85.753123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1650 E State Rd 44",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086435,
         85688709
     ],
+    "wof:brand_id":1125152101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DrDJKOtZbY2Xg9Jt47w9Q_39.519944_-85.753123@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591097,
-    "wof:geomhash":"e544187d229eb012d04f1606870ad5cf",
+    "wof:geomhash":"119f14e7c7e85a212ce57357bf792675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789859063,
-    "wof:lastmodified":1466507129,
+    "wof:lastmodified":1510694962,
     "wof:name":"New China Buffet",
     "wof:parent_id":85855029,
     "wof:placetype":"venue",

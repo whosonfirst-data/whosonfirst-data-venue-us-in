@@ -2,9 +2,14 @@
   "id": 806504899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2782 W 800 N Lake Village IN 46349",
+    "addr:housenumber":"2782",
+    "addr:postcode":"46349",
+    "addr:street":"W 800 N Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.4441,41.115676,-87.4441,41.115676",
     "geom:latitude":41.115676,
     "geom:longitude":-87.4441,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Sdph0SmVkNzUpZrY7nKF0_41.115676_-87.444100@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462598672,
     "wof:geomhash":"add0cbf282d607f9a8adebba0bcf1ef0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":806504899
+        }
+    ],
     "wof:id":806504899,
-    "wof:lastmodified":1466506213,
+    "wof:lastmodified":1492090543,
     "wof:name":"F Sons Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

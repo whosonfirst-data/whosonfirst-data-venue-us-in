@@ -2,14 +2,20 @@
   "id": 806981307,
   "type": "Feature",
   "properties": {
+    "addr:full":"9546 Allisonville Rd Ste 108 Indianapolis IN 46250",
+    "addr:housenumber":"9546",
+    "addr:postcode":"46250",
+    "addr:street":"Allisonville Rd Ste 108",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.067409,39.925724,-86.067409,39.925724",
     "geom:latitude":39.925724,
     "geom:longitude":-86.067409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9546 Allisonville Rd Ste 108",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IQpq6am9DqmkEGkSwRluj_39.925724_-86.067409@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602702,
-    "wof:geomhash":"ec865772a6b0cff99d54d1f1f67d40a8",
+    "wof:geomhash":"666319699c552ed4a16f6e8db1eb2c77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806981307,
-    "wof:lastmodified":1466519005,
+    "wof:lastmodified":1510699690,
     "wof:name":"Crystal Nails",
     "wof:parent_id":85891119,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806912103,
   "type": "Feature",
   "properties": {
+    "addr:full":"3007 Dr Andrew J Brown Ave Indianapolis IN 46205",
+    "addr:housenumber":"3007",
+    "addr:postcode":"46205",
+    "addr:street":"Dr Andrew J Brown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.135621,39.810771,-86.135621,39.810771",
     "geom:latitude":39.810771,
     "geom:longitude":-86.135621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3007 Dr Andrew J Brown Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LykzEmXAe7g1HlSHdUb9k_39.810771_-86.135621@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602113,
-    "wof:geomhash":"40f066ad285ce8eac01a285a06aaae51",
+    "wof:geomhash":"ae81f1ba843201c504c0903284d47a41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":806912103,
-    "wof:lastmodified":1466517570,
+    "wof:lastmodified":1510613251,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":420519787,
     "wof:placetype":"venue",

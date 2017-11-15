@@ -2,14 +2,20 @@
   "id": 790443307,
   "type": "Feature",
   "properties": {
+    "addr:full":"2636 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2636",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.499406,39.164153,-86.499406,39.164153",
     "geom:latitude":39.164153,
     "geom:longitude":-86.499406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2636 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ROnNhT4HLlB7jBAY06vMP_39.164153_-86.499406@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595869,
-    "wof:geomhash":"73ebf7604039a97e33fbf7a9c2327808",
+    "wof:geomhash":"89277a0563d9d6eb5e571dd42899b25b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790443307,
-    "wof:lastmodified":1466509267,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

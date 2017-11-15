@@ -2,14 +2,20 @@
   "id": 807065699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"3216",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.492302,39.164101,-86.492302,39.164101",
     "geom:latitude":39.164101,
     "geom:longitude":-86.492302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3216 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125150159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vox7jaLO3G9I5IMPvsy6G_39.164101_-86.492302@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603413,
-    "wof:geomhash":"d234a74db03191b7a7321ec59796a724",
+    "wof:geomhash":"89ff6470b283d8cb6eb0ac07a39d7725",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807065699,
-    "wof:lastmodified":1466504679,
+    "wof:lastmodified":1510604959,
     "wof:name":"Kmart Stores",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

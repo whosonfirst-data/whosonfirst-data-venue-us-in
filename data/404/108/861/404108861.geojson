@@ -2,9 +2,14 @@
   "id": 404108861,
   "type": "Feature",
   "properties": {
+    "addr:full":"1237 E Coolspring Ave Michigan City IN 46360",
+    "addr:housenumber":"1237",
+    "addr:postcode":"46360",
+    "addr:street":"E Coolspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876672,41.694665,-86.876672,41.694665",
     "geom:latitude":41.694665,
     "geom:longitude":-86.876672,
@@ -29,10 +34,13 @@
     "sg:website":"www.geocities.com/immanuelmc",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519713,
+        102191575,
+        404501783,
         85633793,
         85941911,
-        102086409
+        102086409,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"56d96c59e5c0c20a7809c1d62befec33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519713,
             "region_id":85688709,
             "venue_id":404108861
         }
     ],
     "wof:id":404108861,
-    "wof:lastmodified":1466503038,
+    "wof:lastmodified":1492091482,
     "wof:name":"Immanuel Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

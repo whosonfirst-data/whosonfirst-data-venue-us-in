@@ -2,9 +2,14 @@
   "id": 773757583,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Kincraig Ct Valparaiso IN 46385",
+    "addr:housenumber":"34",
+    "addr:postcode":"46385",
+    "addr:street":"Kincraig Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.118079,41.438806,-87.118079,41.438806",
     "geom:latitude":41.438806,
     "geom:longitude":-87.118079,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XXx8oJJzN2iNrXrO513fb_41.438806_-87.118079@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462588151,
     "wof:geomhash":"e1233782be3f1de489ff79aa1f77d180",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773757583
+        }
+    ],
     "wof:id":773757583,
-    "wof:lastmodified":1466518032,
+    "wof:lastmodified":1492102410,
     "wof:name":"Silver Lining LLC",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

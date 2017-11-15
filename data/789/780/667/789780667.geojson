@@ -2,14 +2,20 @@
   "id": 789780667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 S 9th St Lafayette IN 47909",
+    "addr:housenumber":"2433",
+    "addr:postcode":"47909",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.885815,40.39257,-86.885815,40.39257",
     "geom:latitude":40.39257,
     "geom:longitude":-86.885815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2433 S 9th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85688709
     ],
+    "wof:brand_id":1125152789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L030zHqFOqg6KNdQFj5vr_40.392570_-86.885815@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590484,
-    "wof:geomhash":"4ea21176fe1e0852a3a2656b92dae54f",
+    "wof:geomhash":"83b2558da9c7d23de67c066d367c542c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789780667,
-    "wof:lastmodified":1466506404,
+    "wof:lastmodified":1510697428,
     "wof:name":"LCA",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",

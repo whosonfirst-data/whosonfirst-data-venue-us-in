@@ -2,14 +2,20 @@
   "id": 806890899,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Birk Rd Martinsville IN 46151",
+    "addr:housenumber":"620",
+    "addr:postcode":"46151",
+    "addr:street":"Birk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.4104,39.416661,-86.4104,39.416661",
     "geom:latitude":39.416661,
     "geom:longitude":-86.4104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 Birk Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102087091,
         85868893
     ],
+    "wof:brand_id":420575029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sCYtdCPti69f1QkfY9wjW_39.416661_-86.410400@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601939,
-    "wof:geomhash":"9ab1b0ee8d6f22d35494f9b10afd987f",
+    "wof:geomhash":"27fa85108cd6947a7b2369f8ac4afb24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":806890899,
-    "wof:lastmodified":1466517102,
+    "wof:lastmodified":1510602825,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773156281,
   "type": "Feature",
   "properties": {
+    "addr:full":"7960 Broadway Merrillville IN 46410",
+    "addr:housenumber":"7960",
+    "addr:postcode":"46410",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.33606,41.476789,-87.33606,41.476789",
     "geom:latitude":41.476789,
     "geom:longitude":-87.33606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7960 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125152825,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j7bIn3i0p8mu4DYt9LPJr_41.476789_-87.336060@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583566,
-    "wof:geomhash":"904ec3e79836f4efd2f7a922719d8b15",
+    "wof:geomhash":"581b06bb392e9c20f0c9650616b51656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773156281,
-    "wof:lastmodified":1466505878,
+    "wof:lastmodified":1510694712,
     "wof:name":"Ticor Title Insurance",
     "wof:parent_id":420519691,
     "wof:placetype":"venue",

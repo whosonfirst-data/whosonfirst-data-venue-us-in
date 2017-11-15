@@ -2,9 +2,14 @@
   "id": 790599145,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 Ballantrae St Valparaiso IN 46385",
+    "addr:housenumber":"216",
+    "addr:postcode":"46385",
+    "addr:street":"Ballantrae St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.108876,41.437341,-87.108876,41.437341",
     "geom:latitude":41.437341,
     "geom:longitude":-87.108876,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.affairsinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AtSSqek50EKPdfvfnobM6_41.437341_-87.108876@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462597217,
     "wof:geomhash":"fb4740f858b4991a72eac9e5fc62febb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790599145
+        }
+    ],
     "wof:id":790599145,
-    "wof:lastmodified":1466515276,
+    "wof:lastmodified":1492103086,
     "wof:name":"Affairs To Remember",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

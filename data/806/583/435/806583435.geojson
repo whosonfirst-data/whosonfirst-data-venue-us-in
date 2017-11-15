@@ -2,14 +2,20 @@
   "id": 806583435,
   "type": "Feature",
   "properties": {
+    "addr:full":"10678 N 200 E Milford IN 46542",
+    "addr:housenumber":"10678",
+    "addr:postcode":"46542",
+    "addr:street":"N 200 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.806605,41.389932,-85.806605,41.389932",
     "geom:latitude":41.389932,
     "geom:longitude":-85.806605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10678 N 200 E",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125153839,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TePM9uvlnLX9unqr2C2O6_41.389932_-85.806605@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599340,
-    "wof:geomhash":"2215d0992f16537017dcb1b26b32f56b",
+    "wof:geomhash":"370b9e9dc85fefb5a59abae40bff21cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806583435,
-    "wof:lastmodified":1466507202,
+    "wof:lastmodified":1510696920,
     "wof:name":"Apostolic Christian Church",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

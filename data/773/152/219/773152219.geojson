@@ -2,14 +2,20 @@
   "id": 773152219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3824 E State Blvd Fort Wayne IN 46805",
+    "addr:housenumber":"3824",
+    "addr:postcode":"46805",
+    "addr:street":"E State Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.090403,41.097526,-85.090403,41.097526",
     "geom:latitude":41.097526,
     "geom:longitude":-85.090403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3824 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7633Fu6G0wLmXTVnL5PBlW_41.097526_-85.090403@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583539,
-    "wof:geomhash":"d17053a0fa868c273b663258ed8202c4",
+    "wof:geomhash":"1ea9e4b67712e28abfdec7b5793f031d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773152219,
-    "wof:lastmodified":1466505867,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",

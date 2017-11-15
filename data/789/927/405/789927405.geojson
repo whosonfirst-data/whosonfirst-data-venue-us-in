@@ -2,9 +2,14 @@
   "id": 789927405,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"308",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.341242,41.549491,-87.341242,41.549491",
     "geom:latitude":41.549491,
     "geom:longitude":-87.341242,
@@ -28,7 +33,10 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XJVbBI4uemDu96lEjxGpM_41.549491_-87.341242@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462591690,
     "wof:geomhash":"cd74d13b836d0799633839f55d9dd482",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789927405
+        }
+    ],
     "wof:id":789927405,
-    "wof:lastmodified":1466507703,
+    "wof:lastmodified":1492091595,
     "wof:name":"A & W Investment LTD",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

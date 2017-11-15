@@ -2,14 +2,20 @@
   "id": 790193775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3228 S Western Ave Marion IN 46953",
+    "addr:housenumber":"3228",
+    "addr:postcode":"46953",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.67377,40.531487,-85.67377,40.531487",
     "geom:latitude":40.531487,
     "geom:longitude":-85.67377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3228 S Western Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":420575191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F5pHhXLxZokLAlJXzdja7_40.531487_-85.673770@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593888,
-    "wof:geomhash":"27df53c790a234e442a32795736f28e5",
+    "wof:geomhash":"fb75a019a4af8bd125801264c29b5414",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790193775,
-    "wof:lastmodified":1466505765,
+    "wof:lastmodified":1510615164,
     "wof:name":"Manpower Temporary Svc",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

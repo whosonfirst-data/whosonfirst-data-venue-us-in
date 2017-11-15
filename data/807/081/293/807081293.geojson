@@ -2,14 +2,20 @@
   "id": 807081293,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 N Jacob Dr Bloomington IN 47404",
+    "addr:housenumber":"360",
+    "addr:postcode":"47404",
+    "addr:street":"N Jacob Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.573402,39.168598,-86.573402,39.168598",
     "geom:latitude":39.168598,
     "geom:longitude":-86.573402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"360 N Jacob Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jSCu9VKWxLwNccYoYVXT8_39.168598_-86.573402@1303262773"
     },
     "wof:country":"US",
     "wof:created":1462603543,
-    "wof:geomhash":"9406d0a7430754ec590d2f790a69f193",
+    "wof:geomhash":"f5a8bfef0b24cfd55250ec57cf20eaa5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807081293,
-    "wof:lastmodified":1466504910,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790575479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4056 Washington St Gary IN 46408",
+    "addr:housenumber":"4056",
+    "addr:postcode":"46408",
+    "addr:street":"Washington St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337656,41.544135,-87.337656,41.544135",
     "geom:latitude":41.544135,
     "geom:longitude":-87.337656,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7akf18RJWBoHM7qfVgKoNQ_41.544135_-87.337656@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462597003,
     "wof:geomhash":"4d1b1d437b2dea91bbf0487ba82ff598",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790575479
+        }
+    ],
     "wof:id":790575479,
-    "wof:lastmodified":1466514617,
+    "wof:lastmodified":1492100661,
     "wof:name":"Spiritual Healing Temple",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

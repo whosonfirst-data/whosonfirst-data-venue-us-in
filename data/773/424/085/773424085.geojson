@@ -2,14 +2,20 @@
   "id": 773424085,
   "type": "Feature",
   "properties": {
+    "addr:full":"5348 W Vermont St Indianapolis IN 46224",
+    "addr:housenumber":"5348",
+    "addr:postcode":"46224",
+    "addr:street":"W Vermont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.254298,39.7725,-86.254298,39.7725",
     "geom:latitude":39.7725,
     "geom:longitude":-86.254298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5348 W Vermont St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IOaf8467zUWUSyQmFQmul_39.772500_-86.254298@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585610,
-    "wof:geomhash":"52dce53301c7b03dada23f0963c6fddf",
+    "wof:geomhash":"545c3c9a7ef4bd7da8c7fc7127579647",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773424085,
-    "wof:lastmodified":1466510623,
+    "wof:lastmodified":1510697050,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",

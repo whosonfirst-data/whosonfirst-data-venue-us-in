@@ -2,9 +2,14 @@
   "id": 773440811,
   "type": "Feature",
   "properties": {
+    "addr:full":"880 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"880",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.347706,41.507502,-87.347706,41.507502",
     "geom:latitude":41.507502,
     "geom:longitude":-87.347706,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CK9uUVSL0YvLJhvdKReiM_41.507502_-87.347706@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462585764,
     "wof:geomhash":"4ee9369c38a32c107780385e15375b42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773440811
+        }
+    ],
     "wof:id":773440811,
-    "wof:lastmodified":1466511492,
+    "wof:lastmodified":1492097453,
     "wof:name":"New Beginnings Hair Salon",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

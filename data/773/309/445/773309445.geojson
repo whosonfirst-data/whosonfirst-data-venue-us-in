@@ -2,14 +2,20 @@
   "id": 773309445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 W McGalliard Rd Muncie IN 47304",
+    "addr:housenumber":"1511",
+    "addr:postcode":"47304",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.405732,40.218856,-85.405732,40.218856",
     "geom:latitude":40.218856,
     "geom:longitude":-85.405732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1511 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125158259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c1gUaN8QUFOPDEDrwLm0k_40.218856_-85.405732@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584758,
-    "wof:geomhash":"c289f998a00a904b7766405880805392",
+    "wof:geomhash":"d1558d150f73478a15cbc5b5aed74580",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773309445,
-    "wof:lastmodified":1466507478,
+    "wof:lastmodified":1510698668,
     "wof:name":"Computer Renaissance",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

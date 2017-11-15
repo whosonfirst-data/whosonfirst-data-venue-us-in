@@ -2,6 +2,10 @@
   "id": 773524189,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 W State Rd 46 Bloomington IN 47404",
+    "addr:housenumber":"4141;46",
+    "addr:postcode":"47404",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":773524189,
-    "wof:lastmodified":1466514089,
+    "wof:lastmodified":1472623149,
     "wof:name":"Bank One",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",

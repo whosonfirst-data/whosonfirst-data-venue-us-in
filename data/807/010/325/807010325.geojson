@@ -2,14 +2,20 @@
   "id": 807010325,
   "type": "Feature",
   "properties": {
+    "addr:full":"6010 Corporate Way Indianapolis IN 46278",
+    "addr:housenumber":"6010",
+    "addr:postcode":"46278",
+    "addr:street":"Corporate Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.265481,39.873064,-86.265481,39.873064",
     "geom:latitude":39.873064,
     "geom:longitude":-86.265481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6010 Corporate Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -58,13 +64,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_632Rldd5N27zn3Xhq27f7Y_39.873064_-86.265481@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602946,
-    "wof:geomhash":"f4cb0a02f6d07815be726fb0ef14fc0f",
+    "wof:geomhash":"92e7f66a213c0e21097622b842cc95a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +85,7 @@
         }
     ],
     "wof:id":807010325,
-    "wof:lastmodified":1466503760,
+    "wof:lastmodified":1510694073,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",

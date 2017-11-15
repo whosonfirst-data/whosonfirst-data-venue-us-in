@@ -2,14 +2,20 @@
   "id": 790103269,
   "type": "Feature",
   "properties": {
+    "addr:full":"6490 W Cornbread Rd Yorktown IN 47396",
+    "addr:housenumber":"6490",
+    "addr:postcode":"47396",
+    "addr:street":"W Cornbread Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.454311,40.171221,-85.454311,40.171221",
     "geom:latitude":40.171221,
     "geom:longitude":-85.454311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6490 W Cornbread Rd",
     "sg:city":"Yorktown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RNi8dm7cv0rF5JbQnQ3Gw_40.171221_-85.454311@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593166,
-    "wof:geomhash":"0a7305ce04ac2b055d2e3fad657c3fed",
+    "wof:geomhash":"42f48c1f70c218fcc737d8ffac9f5a9f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790103269,
-    "wof:lastmodified":1466504729,
+    "wof:lastmodified":1510694182,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

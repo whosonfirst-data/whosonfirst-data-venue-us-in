@@ -2,9 +2,14 @@
   "id": 773277189,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Joliet St Dyer IN 46311",
+    "addr:housenumber":"151",
+    "addr:postcode":"46311",
+    "addr:street":"Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.521844,41.494179,-87.521844,41.494179",
     "geom:latitude":41.494179,
     "geom:longitude":-87.521844,
@@ -28,7 +33,14 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jrjkYBhWX97GKzxUQkloU_41.494179_-87.521844@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462584495,
     "wof:geomhash":"0d08982aa1cbf5eef9eba98cbb563695",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":773277189
+        }
+    ],
     "wof:id":773277189,
-    "wof:lastmodified":1466507079,
+    "wof:lastmodified":1492090304,
     "wof:name":"Sheffield Mortgages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

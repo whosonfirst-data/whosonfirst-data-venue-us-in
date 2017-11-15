@@ -2,14 +2,20 @@
   "id": 370243799,
   "type": "Feature",
   "properties": {
+    "addr:full":"5514 Grape Rd Mishawaka IN 46545",
+    "addr:housenumber":"5514",
+    "addr:postcode":"46545",
+    "addr:street":"Grape Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.187523,41.710384,-86.187523,41.710384",
     "geom:latitude":41.710384,
     "geom:longitude":-86.187523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5514 Grape Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85942419,
         102086969
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_786NDEUJqq2pvyxlGKXQci_41.710384_-86.187523@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"73c1115fa3f7e3df16eb1688968451df",
+    "wof:geomhash":"825d4ce6060c33130faa7bdd274ec73e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":370243799,
-    "wof:lastmodified":1466503005,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

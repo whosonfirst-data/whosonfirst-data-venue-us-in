@@ -2,6 +2,10 @@
   "id": 789907591,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Skylark Dr Indianapolis IN 46239",
+    "addr:housenumber":"4321",
+    "addr:postcode":"46239",
+    "addr:street":"Skylark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":789907591,
-    "wof:lastmodified":1466507516,
+    "wof:lastmodified":1472622747,
     "wof:name":"Aquadoc Poolcare",
     "wof:parent_id":85854439,
     "wof:placetype":"venue",

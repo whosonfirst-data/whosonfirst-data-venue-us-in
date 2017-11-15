@@ -2,14 +2,20 @@
   "id": 789793545,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Plaza Ave Portage IN 46368",
+    "addr:housenumber":"5100",
+    "addr:postcode":"46368",
+    "addr:street":"Plaza Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.21544,41.585273,-87.21544,41.585273",
     "geom:latitude":41.585273,
     "geom:longitude":-87.21544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5100 Plaza Ave",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lFSJwWyXd2sUEH4Kv7TNx_41.585273_-87.215440@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590590,
-    "wof:geomhash":"7b003d1212fdec18095795f0263fd9e8",
+    "wof:geomhash":"bcab475e81ad39b5e1e0cf944f932ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789793545,
-    "wof:lastmodified":1466506417,
+    "wof:lastmodified":1510602388,
     "wof:name":"Hardee's",
     "wof:parent_id":85821229,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790124449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2333 Post Dr Indianapolis IN 46219",
+    "addr:housenumber":"2333",
+    "addr:postcode":"46219",
+    "addr:street":"Post Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.014384,39.801518,-86.014384,39.801518",
     "geom:latitude":39.801518,
     "geom:longitude":-86.014384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2333 Post Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bb3WNFdOrP1wVpRweOdHp_39.801518_-86.014384@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593324,
-    "wof:geomhash":"ed3ed63d2c16734f76fc0c5f12b6dd2d",
+    "wof:geomhash":"ace092ebbbb0cfd42681d91891636d70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790124449,
-    "wof:lastmodified":1466505136,
+    "wof:lastmodified":1510697759,
     "wof:name":"Advanced Physical Therapy",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",

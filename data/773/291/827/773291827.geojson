@@ -2,6 +2,10 @@
   "id": 773291827,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 S State Rd 49 Kouts IN 46347",
+    "addr:housenumber":"902;49",
+    "addr:postcode":"kouts;46347",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":773291827,
-    "wof:lastmodified":1466507164,
+    "wof:lastmodified":1472623052,
     "wof:name":"Dellco Heating & Cooling",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",

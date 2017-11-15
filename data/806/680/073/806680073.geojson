@@ -2,9 +2,14 @@
   "id": 806680073,
   "type": "Feature",
   "properties": {
+    "addr:full":"13257 S 350 W Kentland IN 47951",
+    "addr:housenumber":"13257;350",
+    "addr:postcode":"47951",
+    "addr:street":"S;W Kentland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.458808,40.806041,-87.458808,40.806041",
     "geom:latitude":40.806041,
     "geom:longitude":-87.458808,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ordLP69ajo9rKjlFc9JtV_40.806041_-87.458808@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462600171,
     "wof:geomhash":"0956164c6b6f4d3ccc723ee7705973c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "region_id":85688709,
+            "venue_id":806680073
+        }
+    ],
     "wof:id":806680073,
-    "wof:lastmodified":1466510272,
+    "wof:lastmodified":1492103073,
     "wof:name":"Steve Burton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

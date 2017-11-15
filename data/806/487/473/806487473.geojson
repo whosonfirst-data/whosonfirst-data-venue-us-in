@@ -2,9 +2,14 @@
   "id": 806487473,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Highway St Brook IN 47922",
+    "addr:housenumber":"400",
+    "addr:postcode":"47922",
+    "addr:street":"S Highway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363663,40.862188,-87.363663,40.862188",
     "geom:latitude":40.862188,
     "geom:longitude":-87.363663,
@@ -29,7 +34,14 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        85942391,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49U8dp12o811DdZUrPdO5W_40.862188_-87.363663@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462598524,
     "wof:geomhash":"110fb7ea8b41715515e6e377fe6e3b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "locality_id":85942391,
+            "region_id":85688709,
+            "venue_id":806487473
+        }
+    ],
     "wof:id":806487473,
-    "wof:lastmodified":1466505791,
+    "wof:lastmodified":1492092207,
     "wof:name":"Infinity Grain Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

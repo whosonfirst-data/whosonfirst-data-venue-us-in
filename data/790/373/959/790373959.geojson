@@ -2,9 +2,14 @@
   "id": 790373959,
   "type": "Feature",
   "properties": {
+    "addr:full":"3496 S 150 W Rensselaer IN 47978",
+    "addr:housenumber":"3496;150",
+    "addr:postcode":"47978",
+    "addr:street":"S;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.074922,40.964256,-87.074922,40.964256",
     "geom:latitude":40.964256,
     "geom:longitude":-87.074922,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.culpauction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500831,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QK4w2HIq0eGNlah5gPmnx_40.964256_-87.074922@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595337,
     "wof:geomhash":"528883a78f5fc42a9d1a93b91e6463dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500831,
+            "region_id":85688709,
+            "venue_id":790373959
+        }
+    ],
     "wof:id":790373959,
-    "wof:lastmodified":1466507573,
+    "wof:lastmodified":1492103696,
     "wof:name":"Culp Auctineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

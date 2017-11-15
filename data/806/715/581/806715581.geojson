@@ -2,14 +2,20 @@
   "id": 806715581,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 S Park Ave Alexandria IN 46001",
+    "addr:housenumber":"104",
+    "addr:postcode":"46001",
+    "addr:street":"S Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.668808,40.263202,-85.668808,40.263202",
     "geom:latitude":40.263202,
     "geom:longitude":-85.668808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 S Park Ave",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086407,
         85821587
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q41QdikHEz2oSqCjj74dR_40.263202_-85.668808@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600466,
-    "wof:geomhash":"7f7c6040403d63537e94fb85e9679997",
+    "wof:geomhash":"1d781ead61d85f43136c6437e918e58b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806715581,
-    "wof:lastmodified":1466512325,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",

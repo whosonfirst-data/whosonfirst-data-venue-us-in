@@ -2,9 +2,14 @@
   "id": 790613597,
   "type": "Feature",
   "properties": {
+    "addr:full":"674 Meridian Rd Valparaiso IN 46385",
+    "addr:housenumber":"674",
+    "addr:postcode":"46385",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.06611,41.531577,-87.06611,41.531577",
     "geom:latitude":41.531577,
     "geom:longitude":-87.06611,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y1BxOb5dtXwq0j39grQEu_41.531577_-87.066110@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462597339,
     "wof:geomhash":"7801c2c3dc0ef36ac4ea0e2409e1ac6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790613597
+        }
+    ],
     "wof:id":790613597,
-    "wof:lastmodified":1466515679,
+    "wof:lastmodified":1492102375,
     "wof:name":"Slide Shop",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773373237,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Pinneys Ct Chesterton IN 46304",
+    "addr:housenumber":"608",
+    "addr:postcode":"46304",
+    "addr:street":"Pinneys Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.05074,41.618515,-87.05074,41.618515",
     "geom:latitude":41.618515,
     "geom:longitude":-87.05074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 Pinneys Ct",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852597,
         102087191
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U7IQXZsd9eOOO6vrflpC2_41.618515_-87.050740@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585204,
-    "wof:geomhash":"f7bf4a5895df8f397929baa7ea09ee30",
+    "wof:geomhash":"855abfa75405fff85b1347e93cdc5335",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773373237,
-    "wof:lastmodified":1466508920,
+    "wof:lastmodified":1510613522,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

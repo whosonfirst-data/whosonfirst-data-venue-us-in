@@ -2,9 +2,14 @@
   "id": 807054371,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Charles Dr Fremont IN 46737",
+    "addr:housenumber":"456",
+    "addr:postcode":"46737",
+    "addr:street":"Charles Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631849,39.294387,-76.631849,39.294387",
     "geom:latitude":39.294387,
     "geom:longitude":-76.631849,
@@ -25,12 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523145,
             "region_id":85688501,
             "venue_id":807054371
         }
     ],
     "wof:id":807054371,
-    "wof:lastmodified":1466504446,
+    "wof:lastmodified":1486419741,
     "wof:name":"Miller Roger A MD",
     "wof:parent_id":420523145,
     "wof:placetype":"venue",

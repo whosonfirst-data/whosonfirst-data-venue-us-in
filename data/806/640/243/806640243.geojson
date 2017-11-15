@@ -2,14 +2,20 @@
   "id": 806640243,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Whitaker Rd Plainfield IN 46168",
+    "addr:housenumber":"909",
+    "addr:postcode":"46168",
+    "addr:street":"Whitaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.349078,39.694938,-86.349078,39.694938",
     "geom:latitude":39.694938,
     "geom:longitude":-86.349078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Whitaker Rd",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":420575585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G9dXuFD5Hk6CYGxNXdhZ2_39.694938_-86.349078@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599816,
-    "wof:geomhash":"750965824c9c0c792c51856eca131a2d",
+    "wof:geomhash":"9a52aab69c3aababed462eef5e4da95e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806640243,
-    "wof:lastmodified":1466507905,
+    "wof:lastmodified":1510602972,
     "wof:name":"Remedy Intelligent Staffing",
     "wof:parent_id":85807409,
     "wof:placetype":"venue",

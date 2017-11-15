@@ -2,6 +2,10 @@
   "id": 773141225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 S 150 W Lafayette IN 47909",
+    "addr:housenumber":"5401;150",
+    "addr:postcode":"47909",
+    "addr:street":"S;W Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":773141225,
-    "wof:lastmodified":1466505749,
+    "wof:lastmodified":1472622761,
     "wof:name":"Richard L Conrad & Assoc Inc",
     "wof:parent_id":420519885,
     "wof:placetype":"venue",

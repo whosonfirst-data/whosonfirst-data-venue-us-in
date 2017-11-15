@@ -2,9 +2,14 @@
   "id": 403718655,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 Cable St Indianapolis IN 46222",
+    "addr:housenumber":"329",
+    "addr:postcode":"46222",
+    "addr:street":"Cable St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.191298,39.772527,-86.191298,39.772527",
     "geom:latitude":39.772527,
     "geom:longitude":-86.191298,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891133,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891133
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"ffdeface6b01edcd8baa31ad463b5904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891133,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":403718655,
-    "wof:lastmodified":1466502903,
+    "wof:lastmodified":1491933598,
     "wof:name":"A & P Trucking",
     "wof:parent_id":85891133,
     "wof:placetype":"venue",

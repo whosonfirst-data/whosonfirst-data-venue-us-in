@@ -2,14 +2,20 @@
   "id": 773097761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 W 3rd St Bloomington IN 47404",
+    "addr:housenumber":"1307",
+    "addr:postcode":"47404",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.547569,39.16427,-86.547569,39.16427",
     "geom:latitude":39.16427,
     "geom:longitude":-86.547569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1307 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qDQARp87dIO71NI59t5Oi_39.164270_-86.547569@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583137,
-    "wof:geomhash":"bd11b2aa3a4402cc02514c8973f8a29f",
+    "wof:geomhash":"57be1603043db214c139916ba4eb42b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773097761,
-    "wof:lastmodified":1466505182,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

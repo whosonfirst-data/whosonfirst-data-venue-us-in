@@ -2,9 +2,14 @@
   "id": 789887863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3917 N 400 E Rolling Prairie IN 46371",
+    "addr:housenumber":"3917",
+    "addr:postcode":"46371",
+    "addr:street":"N 400 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.621528,41.660433,-86.621528,41.660433",
     "geom:latitude":41.660433,
     "geom:longitude":-86.621528,
@@ -34,11 +39,13 @@
     "sg:website":"www.ashiinspections.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +56,10 @@
     "wof:geomhash":"1656f59c944c1b440b037a70ddeaaa64",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":789887863,
-    "wof:lastmodified":1466507318,
+    "wof:lastmodified":1492098657,
     "wof:name":"Complete Home Inspection & Env",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

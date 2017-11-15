@@ -2,9 +2,14 @@
   "id": 790253141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2540 Pike St Lake Station IN 46405",
+    "addr:housenumber":"2540",
+    "addr:postcode":"46405",
+    "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.244059,41.571954,-87.244059,41.571954",
     "geom:latitude":41.571954,
     "geom:longitude":-87.244059,
@@ -24,7 +29,14 @@
     "sg:postcode":"46405",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501867,
+        85633793,
+        85941825,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EurGziuHPI8fDeg6OXmAy_41.571954_-87.244059@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462594362,
     "wof:geomhash":"e4949d542dd2b48e25bd0057771655a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941825,
+            "region_id":85688709,
+            "venue_id":790253141
+        }
+    ],
     "wof:id":790253141,
-    "wof:lastmodified":1466506393,
+    "wof:lastmodified":1492091429,
     "wof:name":"Central Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

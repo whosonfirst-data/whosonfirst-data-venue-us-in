@@ -2,6 +2,10 @@
   "id": 789749179,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 S State Rd 13 Pierceton IN 46562",
+    "addr:housenumber":"205;13",
+    "addr:postcode":"pierceton;46562",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789749179,
-    "wof:lastmodified":1466506009,
+    "wof:lastmodified":1472622590,
     "wof:name":"Amy Lynns Day Care",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

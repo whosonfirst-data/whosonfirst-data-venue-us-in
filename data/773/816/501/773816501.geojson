@@ -2,9 +2,14 @@
   "id": 773816501,
   "type": "Feature",
   "properties": {
+    "addr:full":"5294 US Hwy 421 Medaryville IN 47957",
+    "addr:housenumber":"5294",
+    "addr:postcode":"47957",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891296,41.128743,-86.891296,41.128743",
     "geom:latitude":41.128743,
     "geom:longitude":-86.891296,
@@ -28,7 +33,13 @@
         "hauling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501659,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BI2Q8x3wcd5sq7J6AHuV4_41.128743_-86.891296@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588604,
     "wof:geomhash":"b5f0028fb1b488cb4db37ac4e0af48c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501659,
+            "region_id":85688709,
+            "venue_id":773816501
+        }
+    ],
     "wof:id":773816501,
-    "wof:lastmodified":1466519144,
+    "wof:lastmodified":1492098217,
     "wof:name":"F M Moyer Livestock Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

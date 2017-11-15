@@ -2,9 +2,14 @@
   "id": 790189431,
   "type": "Feature",
   "properties": {
+    "addr:full":"6715 W 141st Ave Cedar Lake IN 46303",
+    "addr:housenumber":"6715",
+    "addr:postcode":"46303",
+    "addr:street":"W 141St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.414738,41.362407,-87.414738,41.362407",
     "geom:latitude":41.362407,
     "geom:longitude":-87.414738,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CHsYM8rNvZjVXvmVs5KSQ_41.362407_-87.414738@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462593850,
     "wof:geomhash":"f4d85a3e9ee5a58d7f98bb66c6492531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":790189431
+        }
+    ],
     "wof:id":790189431,
-    "wof:lastmodified":1466505672,
+    "wof:lastmodified":1492092855,
     "wof:name":"Apostolic Fellowship Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773670723,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 E Market St Indianapolis IN 46204",
+    "addr:housenumber":"10",
+    "addr:postcode":"46204",
+    "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157023,39.768425,-86.157023,39.768425",
     "geom:latitude":39.768425,
     "geom:longitude":-86.157023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 E Market St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IzmrBNxyc0A54Y0KcNS57_39.768425_-86.157023@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587471,
-    "wof:geomhash":"fd289a041783bf8b914bdc914947f6bd",
+    "wof:geomhash":"05c1f458b5767b837cb0ebf05d07b587",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773670723,
-    "wof:lastmodified":1466516891,
+    "wof:lastmodified":1510695060,
     "wof:name":"Hilton Garden Inn",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

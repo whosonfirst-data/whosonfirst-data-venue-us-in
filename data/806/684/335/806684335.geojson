@@ -2,9 +2,14 @@
   "id": 806684335,
   "type": "Feature",
   "properties": {
+    "addr:full":"10702 W San Pierre Rd San Pierre IN 46374",
+    "addr:housenumber":"10702",
+    "addr:postcode":"46374",
+    "addr:street":"W San Pierre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.903272,41.198583,-86.903272,41.198583",
     "geom:latitude":41.198583,
     "geom:longitude":-86.903272,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501495,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RDDH8nNnwNFRPdljNWlvI_41.198583_-86.903272@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462600206,
     "wof:geomhash":"9fe726ed5b3ee69c7932a08f23b5ce40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501495,
+            "region_id":85688709,
+            "venue_id":806684335
+        }
+    ],
     "wof:id":806684335,
-    "wof:lastmodified":1466510374,
+    "wof:lastmodified":1492097220,
     "wof:name":"Egolf Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

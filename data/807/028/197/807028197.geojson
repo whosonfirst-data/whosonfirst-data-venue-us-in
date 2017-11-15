@@ -2,9 +2,14 @@
   "id": 807028197,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 45th Ave Munster IN 46321",
+    "addr:housenumber":"730",
+    "addr:postcode":"46321",
+    "addr:street":"45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.511703,41.5401,-87.511703,41.5401",
     "geom:latitude":41.5401,
     "geom:longitude":-87.511703,
@@ -27,7 +32,14 @@
         "orthopedist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mKntiqt0eg13kYZ8SAfbr_41.540100_-87.511703@1303262770"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603109,
     "wof:geomhash":"727e4c4212fc588452920df9cf05b438",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807028197
+        }
+    ],
     "wof:id":807028197,
-    "wof:lastmodified":1466504133,
+    "wof:lastmodified":1492093697,
     "wof:name":"Khanna Nitin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

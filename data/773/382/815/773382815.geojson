@@ -2,9 +2,14 @@
   "id": 773382815,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Rickenbacker Ct Valparaiso IN 46385",
+    "addr:housenumber":"354",
+    "addr:postcode":"46385",
+    "addr:street":"Rickenbacker Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.13831,41.50993,-87.13831,41.50993",
     "geom:latitude":41.50993,
     "geom:longitude":-87.13831,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10OlinsarOfapiepVLM6BV_41.509930_-87.138310@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462585272,
     "wof:geomhash":"48c7cbd55a969d5294713b082b3541fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773382815
+        }
+    ],
     "wof:id":773382815,
-    "wof:lastmodified":1466509415,
+    "wof:lastmodified":1492095702,
     "wof:name":"Doering Computer",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

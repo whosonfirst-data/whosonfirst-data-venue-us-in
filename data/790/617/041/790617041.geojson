@@ -2,14 +2,20 @@
   "id": 790617041,
   "type": "Feature",
   "properties": {
+    "addr:full":"7924 Burch Park Dr Evansville IN 47725",
+    "addr:housenumber":"7924",
+    "addr:postcode":"47725",
+    "addr:street":"Burch Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.538085,38.049945,-87.538085,38.049945",
     "geom:latitude":38.049945,
     "geom:longitude":-87.538085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7924 Burch Park Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087105,
         85824997
     ],
+    "wof:brand_id":1125158411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HRvzJxMSnvz3iyaPXFFey_38.049945_-87.538085@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597383,
-    "wof:geomhash":"7e9b9dbf6f5ff0e67190ce523b2c84fd",
+    "wof:geomhash":"d8ee901316b254ac4206b608b95adeb6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790617041,
-    "wof:lastmodified":1466515533,
+    "wof:lastmodified":1510697117,
     "wof:name":"Thermo King",
     "wof:parent_id":85824997,
     "wof:placetype":"venue",

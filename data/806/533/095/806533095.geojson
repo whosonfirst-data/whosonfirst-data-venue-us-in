@@ -2,9 +2,14 @@
   "id": 806533095,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Olympia Rd Valparaiso IN 46385",
+    "addr:housenumber":"1",
+    "addr:postcode":"46385",
+    "addr:street":"Olympia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.148322,41.527601,-87.148322,41.527601",
     "geom:latitude":41.527601,
     "geom:longitude":-87.148322,
@@ -27,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34HrhIHxljEU12Wq7JlHZ6_41.527601_-87.148322@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598893,
     "wof:geomhash":"347d0c6855e02f41ba02265e901a510e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806533095
+        }
+    ],
     "wof:id":806533095,
-    "wof:lastmodified":1466506382,
+    "wof:lastmodified":1492097512,
     "wof:name":"Womenbehindbarscom",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

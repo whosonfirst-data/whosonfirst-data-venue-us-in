@@ -2,14 +2,20 @@
   "id": 806588565,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Mc Keen St Terre Haute IN 47802",
+    "addr:housenumber":"501",
+    "addr:postcode":"47802",
+    "addr:street":"Mc Keen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.410502,39.446047,-87.410502,39.446047",
     "geom:latitude":39.446047,
     "geom:longitude":-87.410502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Mc Keen St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125150721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZZHOCpjrWaSrGiwYxykim_39.446047_-87.410502@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599388,
-    "wof:geomhash":"3b00a835766030e76513625bc6ac4007",
+    "wof:geomhash":"891a9a2076e4ebb8d25b60232b098c21",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806588565,
-    "wof:lastmodified":1466507146,
+    "wof:lastmodified":1510695863,
     "wof:name":"Southside Baptist Church",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

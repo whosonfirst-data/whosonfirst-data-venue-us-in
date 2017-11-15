@@ -2,9 +2,14 @@
   "id": 790303129,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 E Carroll St Kentland IN 47951",
+    "addr:housenumber":"114",
+    "addr:postcode":"47951",
+    "addr:street":"E Carroll St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.448577,40.771367,-87.448577,40.771367",
     "geom:latitude":40.771367,
     "geom:longitude":-87.448577,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GdWkRzKPUrlPd6vxz8Orp_40.771367_-87.448577@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462594790,
     "wof:geomhash":"9df777dbc9df73b16c9080abfd4360fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790303129
+        }
+    ],
     "wof:id":790303129,
-    "wof:lastmodified":1466506953,
+    "wof:lastmodified":1492092204,
     "wof:name":"Cassidy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

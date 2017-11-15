@@ -2,9 +2,14 @@
   "id": 790556145,
   "type": "Feature",
   "properties": {
+    "addr:full":"3839 Polk St Gary IN 46408",
+    "addr:housenumber":"3839",
+    "addr:postcode":"46408",
+    "addr:street":"Polk St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348475,41.547875,-87.348475,41.547875",
     "geom:latitude":41.547875,
     "geom:longitude":-87.348475,
@@ -28,7 +33,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gC4lCMnwTTrVzCvtdFyKC_41.547875_-87.348475@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596846,
     "wof:geomhash":"57c7e65774563b919d889d937164a173",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790556145
+        }
+    ],
     "wof:id":790556145,
-    "wof:lastmodified":1466513580,
+    "wof:lastmodified":1492100669,
     "wof:name":"Diplomat Car Care Ctr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

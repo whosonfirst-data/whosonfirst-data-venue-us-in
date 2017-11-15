@@ -2,6 +2,10 @@
   "id": 773483201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 State Rd 236 Avon IN 46122",
+    "addr:housenumber":"1115;236",
+    "addr:postcode":"46122",
+    "addr:street":"State Rd;Avon In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773483201,
-    "wof:lastmodified":1466512274,
+    "wof:lastmodified":1472623137,
     "wof:name":"Tower Surgical Inc",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

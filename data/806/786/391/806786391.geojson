@@ -2,9 +2,14 @@
   "id": 806786391,
   "type": "Feature",
   "properties": {
+    "addr:full":"13628 Calumet Ave Cedar Lake IN 46303",
+    "addr:housenumber":"13628",
+    "addr:postcode":"46303",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508202,41.372101,-87.508202,41.372101",
     "geom:latitude":41.372101,
     "geom:longitude":-87.508202,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.vanderaaandsons.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eavCVGrZ9MmJoikKoihvZ_41.372027_-87.508107@1293134755"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462601071,
     "wof:geomhash":"1524422fc5f5c41d01e51cea8d506e47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":806786391
+        }
+    ],
     "wof:id":806786391,
-    "wof:lastmodified":1466514649,
+    "wof:lastmodified":1492101019,
     "wof:name":"Vanderaa & Sons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

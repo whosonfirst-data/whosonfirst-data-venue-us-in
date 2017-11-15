@@ -2,14 +2,20 @@
   "id": 773424001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2920 N Keystone Ave Indianapolis IN 46218",
+    "addr:housenumber":"2920",
+    "addr:postcode":"46218",
+    "addr:street":"N Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.121673,39.810376,-86.121673,39.810376",
     "geom:latitude":39.810376,
     "geom:longitude":-86.121673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2920 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KkUWc66FAzecgzpIULGhy_39.810376_-86.121673@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585609,
-    "wof:geomhash":"990065ed986d1f42e01b20d840766da7",
+    "wof:geomhash":"9a50808b8daa43bf4296a44dde4c58e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773424001,
-    "wof:lastmodified":1466510615,
+    "wof:lastmodified":1510694178,
     "wof:name":"Titan Auto Insurance",
     "wof:parent_id":420519791,
     "wof:placetype":"venue",

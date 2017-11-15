@@ -2,9 +2,14 @@
   "id": 789757697,
   "type": "Feature",
   "properties": {
+    "addr:full":"3595 Broadway Gary IN 46409",
+    "addr:housenumber":"3595",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336505,41.554829,-87.336505,41.554829",
     "geom:latitude":41.554829,
     "geom:longitude":-87.336505,
@@ -28,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q7wtS6317NdwXEFuxOyps_41.554829_-87.336505@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590312,
     "wof:geomhash":"05201c9a948761c3938a3eab1af168b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789757697
+        }
+    ],
     "wof:id":789757697,
-    "wof:lastmodified":1466505964,
+    "wof:lastmodified":1492095769,
     "wof:name":"GPA Auto Body",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789941735,
   "type": "Feature",
   "properties": {
+    "addr:full":"4236 Chatfield Ct Fort Wayne IN 46816",
+    "addr:housenumber":"4236",
+    "addr:postcode":"46816",
+    "addr:street":"Chatfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.08417,41.027277,-85.08417,41.027277",
     "geom:latitude":41.027277,
     "geom:longitude":-85.08417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4236 Chatfield Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52eZ4sukFVhwyO5vJl4EIk_41.027277_-85.084170@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591799,
-    "wof:geomhash":"49b8973ec3dce753b839b218b39163d8",
+    "wof:geomhash":"ac622cd1c0da97e4c0ca91dbed0a25c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789941735,
-    "wof:lastmodified":1466508095,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":420519415,
     "wof:placetype":"venue",

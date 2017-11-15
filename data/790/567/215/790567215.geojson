@@ -2,14 +2,20 @@
   "id": 790567215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Wabash Ave Terre Haute IN 47807",
+    "addr:housenumber":"1700",
+    "addr:postcode":"47807",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.389536,39.469113,-87.389536,39.469113",
     "geom:latitude":39.469113,
     "geom:longitude":-87.389536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Wabash Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QyA1AYC0PU6oHB0TJRSnS_39.469113_-87.389536@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596935,
-    "wof:geomhash":"1c82561301eeb498b87204ca6b669133",
+    "wof:geomhash":"86e26fe92f6d0f79cb19695831c0186d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790567215,
-    "wof:lastmodified":1466513896,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

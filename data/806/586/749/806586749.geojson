@@ -2,14 +2,20 @@
   "id": 806586749,
   "type": "Feature",
   "properties": {
+    "addr:full":"10310 Maysville Rd Fort Wayne IN 46835",
+    "addr:housenumber":"",
+    "addr:postcode":"10310;46835",
+    "addr:street":"Maysville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.008999,41.131759,-85.008999,41.131759",
     "geom:latitude":41.131759,
     "geom:longitude":-85.008999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10310 Maysville Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":420575041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63RXXpmPtHZSEOvLDo3ucr_41.131759_-85.008999@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599372,
-    "wof:geomhash":"ee29274d63ce7190959061f6e0812b7d",
+    "wof:geomhash":"f152523fdbae7168ca66e371de4b7bfc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806586749,
-    "wof:lastmodified":1466507265,
+    "wof:lastmodified":1510602993,
     "wof:name":"Kohl's",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 772995793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Kossuth St Lafayette IN 47905",
+    "addr:housenumber":"1500",
+    "addr:postcode":"47905",
+    "addr:street":"Kossuth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878509,40.409935,-86.878509,40.409935",
     "geom:latitude":40.409935,
     "geom:longitude":-86.878509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Kossuth St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AwDpbHxlBfdkD6QTMNiKL_40.409935_-86.878509@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462581925,
-    "wof:geomhash":"caa76d54e3de10a07b41c87fc93b6154",
+    "wof:geomhash":"6946943b94334a1793452cb14ab1b7c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":772995793,
-    "wof:lastmodified":1466503056,
+    "wof:lastmodified":1510698890,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

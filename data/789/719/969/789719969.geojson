@@ -2,9 +2,14 @@
   "id": 789719969,
   "type": "Feature",
   "properties": {
+    "addr:full":"9850 N 400 W Lake Village IN 46349",
+    "addr:housenumber":"9850",
+    "addr:postcode":"46349",
+    "addr:street":"N 400 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.468167,41.137631,-87.468167,41.137631",
     "geom:latitude":41.137631,
     "geom:longitude":-87.468167,
@@ -24,7 +29,13 @@
     "sg:postcode":"46349",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62LSMPGnEQVw7ZTPoj6gyW_41.137631_-87.468167@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462590014,
     "wof:geomhash":"b2070c11c1e6e343d2eee99213d92b18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "region_id":85688709,
+            "venue_id":789719969
+        }
+    ],
     "wof:id":789719969,
-    "wof:lastmodified":1466505648,
+    "wof:lastmodified":1492091777,
     "wof:name":"Village Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

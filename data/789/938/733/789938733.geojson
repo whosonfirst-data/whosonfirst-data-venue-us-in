@@ -2,9 +2,14 @@
   "id": 789938733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 Broadway Gary IN 46409",
+    "addr:housenumber":"3645",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.33647,41.552093,-87.33647,41.552093",
     "geom:latitude":41.552093,
     "geom:longitude":-87.33647,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fmYwtuc1oiG3VrtmgqHrF_41.552093_-87.336470@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462591778,
     "wof:geomhash":"3e8eaeb295131d581a2a7b085c6f671b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789938733
+        }
+    ],
     "wof:id":789938733,
-    "wof:lastmodified":1466508723,
+    "wof:lastmodified":1492101507,
     "wof:name":"Cloud Pink Sex Kittens",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806614213,
   "type": "Feature",
   "properties": {
+    "addr:full":"662 Georgetown Rd Greenwood IN 46142",
+    "addr:housenumber":"662",
+    "addr:postcode":"46142",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.13484,39.606001,-86.13484,39.606001",
     "geom:latitude":39.606001,
     "geom:longitude":-86.13484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"662 Georgetown Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LNEPkPQI7PVVQdomCXPUO_39.606001_-86.134840@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599600,
-    "wof:geomhash":"27500e2e16e56f403add89a917982d62",
+    "wof:geomhash":"6fa127308b76e2f3f4f4e90f1faae8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806614213,
-    "wof:lastmodified":1466507514,
+    "wof:lastmodified":1510697536,
     "wof:name":"M/I Homes",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

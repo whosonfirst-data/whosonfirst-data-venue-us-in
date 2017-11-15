@@ -2,9 +2,14 @@
   "id": 807045645,
   "type": "Feature",
   "properties": {
+    "addr:full":"12400 105th Cir St. John IN 46373",
+    "addr:housenumber":"12400",
+    "addr:postcode":"46373",
+    "addr:street":"105Th Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.483211,41.427761,-87.483211,41.427761",
     "geom:latitude":41.427761,
     "geom:longitude":-87.483211,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.windowgenie.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NuXGSvFgOcrRcqMAvNRqV_41.427761_-87.483211@1303262771"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462603255,
     "wof:geomhash":"0517f3b027f4fde083f78982d6fbde17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":807045645
+        }
+    ],
     "wof:id":807045645,
-    "wof:lastmodified":1466504029,
+    "wof:lastmodified":1492100113,
     "wof:name":"Window Genie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

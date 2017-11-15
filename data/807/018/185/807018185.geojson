@@ -2,9 +2,14 @@
   "id": 807018185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 E Joliet St Crown Point IN 46307",
+    "addr:housenumber":"1410",
+    "addr:postcode":"46307",
+    "addr:street":"E Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.377186,41.419817,-87.377186,41.419817",
     "geom:latitude":41.419817,
     "geom:longitude":-87.377186,
@@ -28,7 +33,15 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_333ZTV2KMpYVy5eXL63Ro5_41.419817_-87.377186@1303262769"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462603013,
     "wof:geomhash":"4b665491858530029d7d44a71f719cd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807018185
+        }
+    ],
     "wof:id":807018185,
-    "wof:lastmodified":1466504073,
+    "wof:lastmodified":1492097560,
     "wof:name":"Burke Jonathan S DDS",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

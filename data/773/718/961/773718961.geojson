@@ -2,9 +2,14 @@
   "id": 773718961,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 W 49th Ave Gary IN 46408",
+    "addr:housenumber":"911",
+    "addr:postcode":"46408",
+    "addr:street":"W 49Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34824,41.529483,-87.34824,41.529483",
     "geom:latitude":41.529483,
     "geom:longitude":-87.34824,
@@ -27,7 +32,10 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xSWml35ICRnJz1Zg189JA_41.529483_-87.348240@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587864,
     "wof:geomhash":"31a8ede3e7a0247811ae102a61f2d0f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773718961
+        }
+    ],
     "wof:id":773718961,
-    "wof:lastmodified":1466517650,
+    "wof:lastmodified":1492094985,
     "wof:name":"First Class Coach",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

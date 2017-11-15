@@ -2,9 +2,14 @@
   "id": 789720007,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 E US Hwy 6 Valparaiso IN 46383",
+    "addr:housenumber":"154",
+    "addr:postcode":"46383",
+    "addr:street":"E Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.034115,41.549837,-87.034115,41.549837",
     "geom:latitude":41.549837,
     "geom:longitude":-87.034115,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.icc-worldwide.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XEelv3ZR2YDKa92CZRGks_41.549837_-87.034115@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590014,
     "wof:geomhash":"c9456e6e94bd6a2810c95805ae3b72fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789720007
+        }
+    ],
     "wof:id":789720007,
-    "wof:lastmodified":1466505540,
+    "wof:lastmodified":1492100598,
     "wof:name":"Indiana Climate Control Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

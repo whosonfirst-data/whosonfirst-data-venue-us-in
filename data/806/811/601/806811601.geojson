@@ -2,14 +2,20 @@
   "id": 806811601,
   "type": "Feature",
   "properties": {
+    "addr:full":"8711 River Crossing Blvd Indianapolis IN 46240",
+    "addr:housenumber":"8711",
+    "addr:postcode":"46240",
+    "addr:street":"River Crossing Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.106532,39.914286,-86.106532,39.914286",
     "geom:latitude":39.914286,
     "geom:longitude":-86.106532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8711 River Crossing Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s3kPoBVj4sM3fWy4BrVIZ_39.914286_-86.106532@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601276,
-    "wof:geomhash":"a6d291f8934f71c6cea46d89e833f686",
+    "wof:geomhash":"21991b35c5e1f7a33184d60fce8509f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806811601,
-    "wof:lastmodified":1466515166,
+    "wof:lastmodified":1510698920,
     "wof:name":"Dickey's Barbecue Pit",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

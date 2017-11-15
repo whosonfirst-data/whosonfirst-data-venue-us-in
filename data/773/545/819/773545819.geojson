@@ -2,14 +2,20 @@
   "id": 773545819,
   "type": "Feature",
   "properties": {
+    "addr:full":"3021 E 71st St Indianapolis IN 46220",
+    "addr:housenumber":"3021",
+    "addr:postcode":"46220",
+    "addr:street":"E 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.113368,39.883178,-86.113368,39.883178",
     "geom:latitude":39.883178,
     "geom:longitude":-86.113368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3021 E 71st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dkI1AXyVbIcDjU6LCPkTY_39.883178_-86.113368@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586533,
-    "wof:geomhash":"96afdda76e75f36d21b483b918143fc9",
+    "wof:geomhash":"99e2b1521e094358ab661dd34f4a53bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773545819,
-    "wof:lastmodified":1466514628,
+    "wof:lastmodified":1510693715,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":85812803,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806777009,
   "type": "Feature",
   "properties": {
+    "addr:full":"9888 S 400 W Union Mills IN 46382",
+    "addr:housenumber":"9888;400",
+    "addr:postcode":"46382",
+    "addr:street":"S;W Union Mills",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776226,41.463832,-86.776226,41.463832",
     "geom:latitude":41.463832,
     "geom:longitude":-86.776226,
@@ -24,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,8 +46,10 @@
     "wof:geomhash":"61b20cb7b75ec9e513fb881c4a35e284",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":806777009,
-    "wof:lastmodified":1466513513,
+    "wof:lastmodified":1492091424,
     "wof:name":"Richard Hunt",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

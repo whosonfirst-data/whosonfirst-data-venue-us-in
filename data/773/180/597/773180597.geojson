@@ -2,14 +2,20 @@
   "id": 773180597,
   "type": "Feature",
   "properties": {
+    "addr:full":"2884 Frontage Rd Warsaw IN 46580",
+    "addr:housenumber":"2884",
+    "addr:postcode":"46580",
+    "addr:street":"Frontage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.816028,41.237432,-85.816028,41.237432",
     "geom:latitude":41.237432,
     "geom:longitude":-85.816028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2884 Frontage Rd",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420575455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Eze8sP360S052jTpDK7Uc_41.237432_-85.816028@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583747,
-    "wof:geomhash":"3053bea11d42eae7525eb55e0a0126bb",
+    "wof:geomhash":"f95d0304751e07956127f8c5a4f662a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773180597,
-    "wof:lastmodified":1466506224,
+    "wof:lastmodified":1510602424,
     "wof:name":"Sam Goody",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773778025,
   "type": "Feature",
   "properties": {
+    "addr:full":"2326 S 100 E Morocco IN 47963",
+    "addr:housenumber":"2326;100 e",
+    "addr:postcode":"47963",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.371578,40.964917,-87.371578,40.964917",
     "geom:latitude":40.964917,
     "geom:longitude":-87.371578,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501339,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C7Am3BpGrI2UrOTPK2Xoh_40.964917_-87.371578@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588304,
     "wof:geomhash":"b23d83ca19bbafab63dbebde73f05149",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501339,
+            "region_id":85688709,
+            "venue_id":773778025
+        }
+    ],
     "wof:id":773778025,
-    "wof:lastmodified":1466518672,
+    "wof:lastmodified":1492095767,
     "wof:name":"Dl Laffoon Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

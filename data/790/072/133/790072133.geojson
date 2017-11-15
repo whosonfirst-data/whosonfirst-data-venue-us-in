@@ -2,9 +2,14 @@
   "id": 790072133,
   "type": "Feature",
   "properties": {
+    "addr:full":"704 S State Rd 2 Hebron IN 46341",
+    "addr:housenumber":"704",
+    "addr:postcode":"46341",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.199924,41.311089,-87.199924,41.311089",
     "geom:latitude":41.311089,
     "geom:longitude":-87.199924,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        85942381,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TNLV0i6wqZXOAY03yE3mq_41.311089_-87.199924@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462592909,
     "wof:geomhash":"bc983c2bb7d1e30d6ea242e07028f270",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "locality_id":85942381,
+            "region_id":85688709,
+            "venue_id":790072133
+        }
+    ],
     "wof:id":790072133,
-    "wof:lastmodified":1466504373,
+    "wof:lastmodified":1492103084,
     "wof:name":"Frank R Quint MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

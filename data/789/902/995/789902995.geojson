@@ -2,6 +2,10 @@
   "id": 789902995,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 W 80th Pl Merrillville IN 46410",
+    "addr:housenumber":"303",
+    "addr:postcode":"46410",
+    "addr:street":"W 80Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789902995,
-    "wof:lastmodified":1466507469,
+    "wof:lastmodified":1472622753,
     "wof:name":"Usps",
     "wof:parent_id":420519705,
     "wof:placetype":"venue",

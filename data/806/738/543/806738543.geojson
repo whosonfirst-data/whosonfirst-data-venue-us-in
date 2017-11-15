@@ -2,14 +2,20 @@
   "id": 806738543,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 E Virginia St Evansville IN 47711",
+    "addr:housenumber":"512",
+    "addr:postcode":"47711",
+    "addr:street":"E Virginia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.556754,37.981935,-87.556754,37.981935",
     "geom:latitude":37.981935,
     "geom:longitude":-87.556754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"512 E Virginia St",
     "sg:city":"Evansville",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m6h5dHaht0huGTLCEF22P_37.981935_-87.556754@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600668,
-    "wof:geomhash":"4b8b2df09546ad3c7a6d07ca04528c05",
+    "wof:geomhash":"09fddb7144bb9ca742283ce1699b7225",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806738543,
-    "wof:lastmodified":1466512863,
+    "wof:lastmodified":1510698679,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",

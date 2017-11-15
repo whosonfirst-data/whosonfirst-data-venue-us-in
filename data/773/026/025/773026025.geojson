@@ -2,14 +2,20 @@
   "id": 773026025,
   "type": "Feature",
   "properties": {
+    "addr:full":"3799 Lafayette Rd Indianapolis IN 46222",
+    "addr:housenumber":"3799",
+    "addr:postcode":"46222",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.232811,39.821826,-86.232811,39.821826",
     "geom:latitude":39.821826,
     "geom:longitude":-86.232811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3799 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Yq4mwJPRqgawi0qeSkfJ_39.821826_-86.232811@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582532,
-    "wof:geomhash":"bea8e3e8e377e8c90af78704f51be0bf",
+    "wof:geomhash":"4127c32ab2d7d958284fc93b70bbde28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773026025,
-    "wof:lastmodified":1466503968,
+    "wof:lastmodified":1510694895,
     "wof:name":"Flowerama",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

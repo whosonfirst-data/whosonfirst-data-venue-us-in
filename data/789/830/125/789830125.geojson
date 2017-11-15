@@ -2,6 +2,10 @@
   "id": 789830125,
   "type": "Feature",
   "properties": {
+    "addr:full":"9011 State Rd 46 Gosport IN 47433",
+    "addr:housenumber":"9011;46",
+    "addr:postcode":"47433",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789830125,
-    "wof:lastmodified":1466506688,
+    "wof:lastmodified":1472622662,
     "wof:name":"Richards Small Engine Svc",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",

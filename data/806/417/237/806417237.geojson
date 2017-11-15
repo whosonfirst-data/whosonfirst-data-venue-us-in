@@ -2,14 +2,20 @@
   "id": 806417237,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 N Jackson St Greencastle IN 46135",
+    "addr:housenumber":"302",
+    "addr:postcode":"46135",
+    "addr:street":"N Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.865385,39.647401,-86.865385,39.647401",
     "geom:latitude":39.647401,
     "geom:longitude":-86.865385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 N Jackson St",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087217,
         85688709
     ],
+    "wof:brand_id":1125150157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KIfxOP0WM7FIJjzze2Vsh_39.647401_-86.865385@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597989,
-    "wof:geomhash":"1e3c548d0ccd6a2d984e0090141fab83",
+    "wof:geomhash":"5955c79e12febcaf39bf364513e87d58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806417237,
-    "wof:lastmodified":1466505004,
+    "wof:lastmodified":1510604953,
     "wof:name":"Hair It Is",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",

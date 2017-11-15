@@ -2,14 +2,20 @@
   "id": 807074349,
   "type": "Feature",
   "properties": {
+    "addr:full":"3307 W Jeffrey Rd Bloomington IN 47403",
+    "addr:housenumber":"3307",
+    "addr:postcode":"47403",
+    "addr:street":"W Jeffrey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.574153,39.123667,-86.574153,39.123667",
     "geom:latitude":39.123667,
     "geom:longitude":-86.574153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3307 W Jeffrey Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":1125159639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gHpvgVJywFqiScD4FuL59_39.123667_-86.574153@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603490,
-    "wof:geomhash":"79a3075aee814b9cc3cfb0bcfd124d6f",
+    "wof:geomhash":"3e5cbb06ef301ece251ffb93eaf220fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807074349,
-    "wof:lastmodified":1466504714,
+    "wof:lastmodified":1510695700,
     "wof:name":"Painting Plus",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806627931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4724 Broadway Gary IN 46408",
+    "addr:housenumber":"4724",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336311,41.53174,-87.336311,41.53174",
     "geom:latitude":41.53174,
     "geom:longitude":-87.336311,
@@ -27,7 +32,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14CpFMSe4TyLAlcuJMjLKE_41.531740_-87.336311@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599719,
     "wof:geomhash":"e2327118820165f4fc21a47eec866416",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806627931
+        }
+    ],
     "wof:id":806627931,
-    "wof:lastmodified":1466508007,
+    "wof:lastmodified":1492093694,
     "wof:name":"Prime Care Home Health Svc Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

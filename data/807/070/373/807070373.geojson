@@ -2,14 +2,20 @@
   "id": 807070373,
   "type": "Feature",
   "properties": {
+    "addr:full":"4805 S Old State Road 37 Bloomington IN 47401",
+    "addr:housenumber":"4805",
+    "addr:postcode":"47401",
+    "addr:street":"S Old State Road 37",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.531097,39.1101,-86.531097,39.1101",
     "geom:latitude":39.1101,
     "geom:longitude":-86.531097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4805 S Old State Road 37",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h2Mgiyml2d53kSDb8TjLQ_39.110100_-86.531097@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603448,
-    "wof:geomhash":"fa8ffdd8e425bea7c67138491b932c97",
+    "wof:geomhash":"1e52acb8428ef4d1b775fc2698175555",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807070373,
-    "wof:lastmodified":1466504657,
+    "wof:lastmodified":1510602713,
     "wof:name":"Economy Inn",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",

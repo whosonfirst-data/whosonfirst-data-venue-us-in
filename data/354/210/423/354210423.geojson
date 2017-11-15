@@ -2,14 +2,20 @@
   "id": 354210423,
   "type": "Feature",
   "properties": {
+    "addr:full":"6121 Crawfordsville Rd Indianapolis IN 46224",
+    "addr:housenumber":"",
+    "addr:postcode":"6121;46224",
+    "addr:street":"Crawfordsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.265736,39.79904,-86.265736,39.79904",
     "geom:latitude":39.79904,
     "geom:longitude":-86.265736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6121 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85818927
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z5ddzy9S2Fc3GWR8bhNE8_39.799040_-86.265736@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"e56babe15531894508dbd841e89a15c9",
+    "wof:geomhash":"7f56616c39fdb136eb9be315d036aafb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":354210423,
-    "wof:lastmodified":1466503155,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",

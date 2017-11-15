@@ -2,9 +2,14 @@
   "id": 336890171,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Crown Ct Crown Point IN 46307",
+    "addr:housenumber":"800",
+    "addr:postcode":"46307",
+    "addr:street":"Crown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.352442,41.431198,-87.352442,41.431198",
     "geom:latitude":41.431198,
     "geom:longitude":-87.352442,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519661,
+        102191575,
+        404500429,
         85633793,
         85941787,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"bd33d75f37d85328a0694ff90ad878f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404500429,
             "locality_id":85941787,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519661,
             "region_id":85688709,
             "venue_id":336890171
         }
     ],
     "wof:id":336890171,
-    "wof:lastmodified":1466503260,
+    "wof:lastmodified":1492098282,
     "wof:name":"Taywoods Cards & Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

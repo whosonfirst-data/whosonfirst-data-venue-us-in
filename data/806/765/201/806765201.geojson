@@ -2,9 +2,14 @@
   "id": 806765201,
   "type": "Feature",
   "properties": {
+    "addr:full":"5861 Harrison St Merrillville IN 46410",
+    "addr:housenumber":"5861",
+    "addr:postcode":"46410",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345843,41.511796,-87.345843,41.511796",
     "geom:latitude":41.511796,
     "geom:longitude":-87.345843,
@@ -30,7 +35,10 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49H4PuxcCai1g6YajDaVtD_41.512247_-87.345726@1293134755"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462600887,
     "wof:geomhash":"2c2bd3f2978427e31161f395d802624c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806765201
+        }
+    ],
     "wof:id":806765201,
-    "wof:lastmodified":1466513458,
+    "wof:lastmodified":1492105328,
     "wof:name":"Certified Driving School",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

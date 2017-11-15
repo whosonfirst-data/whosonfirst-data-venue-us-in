@@ -2,9 +2,14 @@
   "id": 807049709,
   "type": "Feature",
   "properties": {
+    "addr:full":"3806 Broadway Gary IN 46408",
+    "addr:housenumber":"3806",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336469,41.549621,-87.336469,41.549621",
     "geom:latitude":41.549621,
     "geom:longitude":-87.336469,
@@ -28,7 +33,10 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cDFAt7fhzRw7xYq6Fx7tD_41.549621_-87.336469@1303262771"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462603285,
     "wof:geomhash":"e44857eac2761a700e7d267021c6292e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049709
+        }
+    ],
     "wof:id":807049709,
-    "wof:lastmodified":1466504194,
+    "wof:lastmodified":1492102075,
     "wof:name":"Luigi's Pizza",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

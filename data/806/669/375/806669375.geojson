@@ -2,6 +2,10 @@
   "id": 806669375,
   "type": "Feature",
   "properties": {
+    "addr:full":"5330 E Co Rd 450 N Brownsburg IN 46112",
+    "addr:housenumber":"5330;450",
+    "addr:postcode":"46112",
+    "addr:street":"E Co Rd;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806669375,
-    "wof:lastmodified":1466509118,
+    "wof:lastmodified":1472622746,
     "wof:name":"Classic Siding",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

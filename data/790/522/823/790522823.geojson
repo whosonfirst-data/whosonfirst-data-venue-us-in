@@ -2,14 +2,20 @@
   "id": 790522823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 N Baldwin Ave Marion IN 46952",
+    "addr:housenumber":"1312",
+    "addr:postcode":"46952",
+    "addr:street":"N Baldwin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.674409,40.574692,-85.674409,40.574692",
     "geom:latitude":40.574692,
     "geom:longitude":-85.674409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1312 N Baldwin Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":1125156973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35xFWIoacAPUkcozZ4di1e_40.574692_-85.674409@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596564,
-    "wof:geomhash":"cd9afa2f2b787688690fc13e2ebaf46c",
+    "wof:geomhash":"7828c98662a6b0606506c205c1b4ec69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790522823,
-    "wof:lastmodified":1466512842,
+    "wof:lastmodified":1510699775,
     "wof:name":"Hair Biz",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806876237,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Sheridan Rd Noblesville IN 46060",
+    "addr:housenumber":"315",
+    "addr:postcode":"46060",
+    "addr:street":"Sheridan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.025398,40.048401,-86.025398,40.048401",
     "geom:latitude":40.048401,
     "geom:longitude":-86.025398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 Sheridan Rd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wOrAviDcDdwqIZ7CjBvHl_40.048401_-86.025398@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601822,
-    "wof:geomhash":"1726b0e08b569f5e4c58b8ecd1c17d65",
+    "wof:geomhash":"5beb3211d2a86f61b37d66aac8b3880e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806876237,
-    "wof:lastmodified":1466516774,
+    "wof:lastmodified":1510694584,
     "wof:name":"Modern Nails",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

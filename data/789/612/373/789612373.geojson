@@ -2,6 +2,10 @@
   "id": 789612373,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 S 950 W Etna Green IN 46524",
+    "addr:housenumber":"103;950",
+    "addr:postcode":"46524",
+    "addr:street":"S;W Etna Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789612373,
-    "wof:lastmodified":1466504052,
+    "wof:lastmodified":1472622393,
     "wof:name":"Harrison Equipment",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

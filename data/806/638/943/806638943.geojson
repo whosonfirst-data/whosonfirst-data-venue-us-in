@@ -2,9 +2,14 @@
   "id": 806638943,
   "type": "Feature",
   "properties": {
+    "addr:full":"4480 Broadway Gary IN 46408",
+    "addr:housenumber":"4480",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336369,41.53823,-87.336369,41.53823",
     "geom:latitude":41.53823,
     "geom:longitude":-87.336369,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bqc7uYMGZ1xVHCc0R0JoY_41.538230_-87.336369@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599806,
     "wof:geomhash":"451f200a303aacfdbf87aedc30b5321a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806638943
+        }
+    ],
     "wof:id":806638943,
-    "wof:lastmodified":1466507836,
+    "wof:lastmodified":1492091996,
     "wof:name":"Tasha's Cut N Up Hair Design",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

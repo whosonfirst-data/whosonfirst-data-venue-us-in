@@ -2,6 +2,10 @@
   "id": 789775009,
   "type": "Feature",
   "properties": {
+    "addr:full":"25651 Co Rd 20 Elkhart IN 46517",
+    "addr:housenumber":"25651;20",
+    "addr:postcode":"46517",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789775009,
-    "wof:lastmodified":1466506318,
+    "wof:lastmodified":1472622602,
     "wof:name":"Concord Family Medicine",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

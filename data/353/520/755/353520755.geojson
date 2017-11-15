@@ -2,9 +2,14 @@
   "id": 353520755,
   "type": "Feature",
   "properties": {
+    "addr:full":"4431 Stouffer Ln Indianapolis IN 46235",
+    "addr:housenumber":"4431",
+    "addr:postcode":"46235",
+    "addr:street":"Stouffer Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.001352,39.836503,-86.001352,39.836503",
     "geom:latitude":39.836503,
     "geom:longitude":-86.001352,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891137,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891137
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"efa58895f3b185ac93705a19d183fd55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891137,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":353520755,
-    "wof:lastmodified":1466502975,
+    "wof:lastmodified":1491937613,
     "wof:name":"Yanna's House Cleaning Svc",
     "wof:parent_id":85891137,
     "wof:placetype":"venue",

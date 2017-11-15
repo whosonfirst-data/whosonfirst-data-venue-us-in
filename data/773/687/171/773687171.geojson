@@ -2,9 +2,14 @@
   "id": 773687171,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 N Fairground Rd Kentland IN 47951",
+    "addr:housenumber":"103",
+    "addr:postcode":"47951",
+    "addr:street":"N Fairground Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.458315,40.769364,-87.458315,40.769364",
     "geom:latitude":40.769364,
     "geom:longitude":-87.458315,
@@ -27,7 +32,14 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QQTRJ5SlCvx3rquqG2R1O_40.769364_-87.458315@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462587595,
     "wof:geomhash":"6dfc71360bdbed5ce737b322c5d8f36d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773687171
+        }
+    ],
     "wof:id":773687171,
-    "wof:lastmodified":1466517425,
+    "wof:lastmodified":1492101513,
     "wof:name":"Try State Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

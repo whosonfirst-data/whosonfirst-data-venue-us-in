@@ -2,14 +2,20 @@
   "id": 773036149,
   "type": "Feature",
   "properties": {
+    "addr:full":"6217 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"6217",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.220447,41.058341,-85.220447,41.058341",
     "geom:latitude":41.058341,
     "geom:longitude":-85.220447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6217 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aggRg7mcKpcbwpzOAlPVd_41.058341_-85.220447@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582629,
-    "wof:geomhash":"753786fb599f90de92e7eeed8bddf62c",
+    "wof:geomhash":"a35eb51f6dde9f210440d6250232e576",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773036149,
-    "wof:lastmodified":1466504017,
+    "wof:lastmodified":1510696772,
     "wof:name":"Grease Monkey",
     "wof:parent_id":420519437,
     "wof:placetype":"venue",

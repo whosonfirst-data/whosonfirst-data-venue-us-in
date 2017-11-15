@@ -2,14 +2,20 @@
   "id": 773156291,
   "type": "Feature",
   "properties": {
+    "addr:full":"996 S State Rd 135 Greenwood IN 46143",
+    "addr:housenumber":"996;135",
+    "addr:postcode":"46143",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159178,39.595989,-86.159178,39.595989",
     "geom:latitude":39.595989,
     "geom:longitude":-86.159178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"996 S State Rd 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086239,
         85826767
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ntts4h6rCCRQeHBNBvGSf_39.595989_-86.159178@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583566,
-    "wof:geomhash":"341ed1285b92dbc914cc42b5e2d8c033",
+    "wof:geomhash":"253228f51284af9f6f78b206a76d3f45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773156291,
-    "wof:lastmodified":1466505879,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

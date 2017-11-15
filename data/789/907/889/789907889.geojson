@@ -2,9 +2,14 @@
   "id": 789907889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2019 S US Hwy 41 Morocco IN 47963",
+    "addr:housenumber":"2019",
+    "addr:postcode":"47963",
+    "addr:street":"S Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.450355,40.969426,-87.450355,40.969426",
     "geom:latitude":40.969426,
     "geom:longitude":-87.450355,
@@ -27,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lpS8pbQ0unbaUceR4OBSF_40.969426_-87.450355@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462591514,
     "wof:geomhash":"73789110fcf4d3113cf960d30f8e8e53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":789907889
+        }
+    ],
     "wof:id":789907889,
-    "wof:lastmodified":1466507603,
+    "wof:lastmodified":1492088092,
     "wof:name":"Morocco Smart Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

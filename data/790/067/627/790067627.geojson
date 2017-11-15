@@ -2,14 +2,20 @@
   "id": 790067627,
   "type": "Feature",
   "properties": {
+    "addr:full":"922 S Morton St Bloomington IN 47403",
+    "addr:housenumber":"922",
+    "addr:postcode":"47403",
+    "addr:street":"S Morton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.536456,39.15377,-86.536456,39.15377",
     "geom:latitude":39.15377,
     "geom:longitude":-86.536456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"922 S Morton St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HNLTCHNbCG1VuJxX14w3K_39.153770_-86.536456@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592874,
-    "wof:geomhash":"c5ec55064a7a8c7950cb113518b4bba5",
+    "wof:geomhash":"ebcadbf1e982ec12be85b86cfb6c132e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790067627,
-    "wof:lastmodified":1466504286,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",

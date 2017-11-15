@@ -2,9 +2,14 @@
   "id": 773240437,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 S Melville St Rensselaer IN 47978",
+    "addr:housenumber":"402",
+    "addr:postcode":"47978",
+    "addr:street":"S Melville St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.141811,40.934603,-87.141811,40.934603",
     "geom:latitude":40.934603,
     "geom:longitude":-87.141811,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10kHTpPy7ItkIT5olLHI5P_40.934603_-87.141811@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584219,
     "wof:geomhash":"20d87d09b75ad4fb6b81b8831858f2d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":773240437
+        }
+    ],
     "wof:id":773240437,
-    "wof:lastmodified":1466506642,
+    "wof:lastmodified":1492103695,
     "wof:name":"St Peter's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790193291,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"19",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.06658,41.549999,-87.06658,41.549999",
     "geom:latitude":41.549999,
     "geom:longitude":-87.06658,
@@ -28,7 +33,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uASWJLFAy4KmILuoQ9Nhm_41.549999_-87.066580@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462593884,
     "wof:geomhash":"c707800e48394a7ad7375d809b0dd680",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790193291
+        }
+    ],
     "wof:id":790193291,
-    "wof:lastmodified":1466505830,
+    "wof:lastmodified":1492100599,
     "wof:name":"Pet Haven Pet Shop",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

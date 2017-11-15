@@ -2,9 +2,14 @@
   "id": 773810979,
   "type": "Feature",
   "properties": {
+    "addr:full":"3895 E 1100 N Demotte IN 46310",
+    "addr:housenumber":"3895",
+    "addr:postcode":"46310",
+    "addr:street":"E 1100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.322968,41.159558,-87.322968,41.159558",
     "geom:latitude":41.159558,
     "geom:longitude":-87.322968,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gWJvgLyeX5sN53JI5tR1V_41.159558_-87.322968@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588563,
     "wof:geomhash":"b45d5364612f902841ebcbc31c637f24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":773810979
+        }
+    ],
     "wof:id":773810979,
-    "wof:lastmodified":1466519279,
+    "wof:lastmodified":1492097217,
     "wof:name":"Cj's Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

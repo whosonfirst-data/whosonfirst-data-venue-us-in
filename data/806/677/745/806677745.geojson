@@ -2,9 +2,14 @@
   "id": 806677745,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 E Grove St Sheldon IN 60966",
+    "addr:housenumber":"405",
+    "addr:postcode":"60966",
+    "addr:street":"E Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.558158,40.770536,-87.558158,40.770536",
     "geom:latitude":40.770536,
     "geom:longitude":-87.558158,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        85938443,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yyUlMoJlDiwP0RFQu1o5S_40.770536_-87.558158@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462600153,
     "wof:geomhash":"9fbb76b5a7de9a1a35b8697a03a0a0e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "locality_id":85938443,
+            "region_id":85688697,
+            "venue_id":806677745
+        }
+    ],
     "wof:id":806677745,
-    "wof:lastmodified":1466510262,
+    "wof:lastmodified":1492102420,
     "wof:name":"Sheldon Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

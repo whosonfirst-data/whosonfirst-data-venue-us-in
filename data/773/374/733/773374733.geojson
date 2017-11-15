@@ -2,14 +2,20 @@
   "id": 773374733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3308 Lake City Hwy Warsaw IN 46580",
+    "addr:housenumber":"3308",
+    "addr:postcode":"46580",
+    "addr:street":"Lake City Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.809884,41.235606,-85.809884,41.235606",
     "geom:latitude":41.235606,
     "geom:longitude":-85.809884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3308 Lake City Hwy",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c9lFYZjNgUSe4N9hGzQr3_41.235606_-85.809884@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585216,
-    "wof:geomhash":"b436565a7ee38349363913403cfb2849",
+    "wof:geomhash":"e19c618a2221783c6559ebba57345152",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773374733,
-    "wof:lastmodified":1466509064,
+    "wof:lastmodified":1510615024,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

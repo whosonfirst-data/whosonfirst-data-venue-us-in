@@ -2,9 +2,14 @@
   "id": 371132545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 E 37th Ave Hobart IN 46342",
+    "addr:housenumber":"1811",
+    "addr:postcode":"46342",
+    "addr:street":"E 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.237333,41.550695,-87.237333,41.550695",
     "geom:latitude":41.550695,
     "geom:longitude":-87.237333,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891129,
+        102191575,
+        404501867,
         85633793,
         85941823,
         102087149,
-        85891129
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"01f40cb935cc0ef422ea56a8fd3e675b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501867,
             "locality_id":85941823,
             "neighbourhood_id":85891129,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":371132545,
-    "wof:lastmodified":1466503038,
+    "wof:lastmodified":1492092104,
     "wof:name":"Video Palace & Coin Shop",
     "wof:parent_id":85891129,
     "wof:placetype":"venue",

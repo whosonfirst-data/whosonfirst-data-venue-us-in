@@ -2,14 +2,20 @@
   "id": 807079233,
   "type": "Feature",
   "properties": {
+    "addr:full":"4621 W Richland Plaza Dr Bloomington IN 47404",
+    "addr:housenumber":"4621",
+    "addr:postcode":"47404",
+    "addr:street":"W Richland Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.593146,39.214705,-86.593146,39.214705",
     "geom:latitude":39.214705,
     "geom:longitude":-86.593146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4621 W Richland Plaza Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85819979,
         102086351
     ],
+    "wof:brand_id":1125150875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Mnu6NitNh2gqCaC8SfdG_39.214705_-86.593146@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603526,
-    "wof:geomhash":"dac97f8f89e828abd49cc1e29de2ad58",
+    "wof:geomhash":"4fd2d6d0babc2b178d3353646cab6276",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807079233,
-    "wof:lastmodified":1466504888,
+    "wof:lastmodified":1510613209,
     "wof:name":"Pizza Express",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",

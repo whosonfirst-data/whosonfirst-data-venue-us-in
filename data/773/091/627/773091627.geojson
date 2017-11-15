@@ -2,14 +2,20 @@
   "id": 773091627,
   "type": "Feature",
   "properties": {
+    "addr:full":"4945 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"4945",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.242818,39.823868,-86.242818,39.823868",
     "geom:latitude":39.823868,
     "geom:longitude":-86.242818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4945 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IBnuSb0Ow31aiwlFYhlc2_39.823868_-86.242818@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583091,
-    "wof:geomhash":"9de64dcea52ae3b3eda3787ce2bbc0b5",
+    "wof:geomhash":"c591ea7d013d0b9158044640d44deb3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773091627,
-    "wof:lastmodified":1466505159,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

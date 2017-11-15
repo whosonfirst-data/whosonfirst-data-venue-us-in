@@ -2,9 +2,14 @@
   "id": 773819621,
   "type": "Feature",
   "properties": {
+    "addr:full":"9944 N 570 E Demotte IN 46310",
+    "addr:housenumber":"9944",
+    "addr:postcode":"46310",
+    "addr:street":"N 570 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.28191,41.143823,-87.28191,41.143823",
     "geom:latitude":41.143823,
     "geom:longitude":-87.28191,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.realestateofnwindiana.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DfVA9hoxTi8XeYuhgL6bq_41.143823_-87.281910@1294102998"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462588631,
     "wof:geomhash":"75eb6a069f4b4359953bfaedd2e44e0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773819621
+        }
+    ],
     "wof:id":773819621,
-    "wof:lastmodified":1466519145,
+    "wof:lastmodified":1492106680,
     "wof:name":"Results Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

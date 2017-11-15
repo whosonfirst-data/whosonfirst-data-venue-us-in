@@ -2,14 +2,20 @@
   "id": 773554745,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Collins Rd Fort Wayne IN 46825",
+    "addr:housenumber":"206",
+    "addr:postcode":"46825",
+    "addr:street":"Collins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.140071,41.12169,-85.140071,41.12169",
     "geom:latitude":41.12169,
     "geom:longitude":-85.140071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Collins Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TS4BUmqxErbRbDUc5LgwR_41.121690_-85.140071@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586606,
-    "wof:geomhash":"ab4c635b6034b79ed55c7440db7b8d83",
+    "wof:geomhash":"dc8e3407e4a48b083ebdab8c67181237",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773554745,
-    "wof:lastmodified":1466514544,
+    "wof:lastmodified":1510695418,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

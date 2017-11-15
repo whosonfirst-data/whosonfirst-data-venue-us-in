@@ -2,14 +2,20 @@
   "id": 773741183,
   "type": "Feature",
   "properties": {
+    "addr:full":"3707 Transportation Dr Fort Wayne IN 46818",
+    "addr:housenumber":"3707",
+    "addr:postcode":"46818",
+    "addr:street":"Transportation Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.196334,41.134859,-85.196334,41.134859",
     "geom:latitude":41.134859,
     "geom:longitude":-85.196334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3707 Transportation Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U42x71t2kGA4PzhJ0jWPn_41.134859_-85.196334@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588029,
-    "wof:geomhash":"b590a63a470aaac2104cd5fdd554b585",
+    "wof:geomhash":"4b8501953a6b2b9c3236ff2487334891",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773741183,
-    "wof:lastmodified":1466518196,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

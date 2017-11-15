@@ -2,9 +2,14 @@
   "id": 807095627,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 W Seymour St Kentland IN 47951",
+    "addr:housenumber":"308",
+    "addr:postcode":"47951",
+    "addr:street":"W Seymour St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.456531,40.768371,-87.456531,40.768371",
     "geom:latitude":40.768371,
     "geom:longitude":-87.456531,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.emersonsondgerath.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DkGds9IaDiB44gvdpTZaF_40.768371_-87.456531@1303262773"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462603671,
     "wof:geomhash":"934af6c2fde64f05e299e9bd1cc4753b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":807095627
+        }
+    ],
     "wof:id":807095627,
-    "wof:lastmodified":1466505064,
+    "wof:lastmodified":1492090398,
     "wof:name":"Emerson Sondgerath Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

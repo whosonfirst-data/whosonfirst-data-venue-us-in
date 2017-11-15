@@ -2,14 +2,20 @@
   "id": 806812397,
   "type": "Feature",
   "properties": {
+    "addr:full":"6929 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"6929",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.280957,39.823274,-86.280957,39.823274",
     "geom:latitude":39.823274,
     "geom:longitude":-86.280957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6929 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yOpYG7ZbNYTnyRwBbyQwK_39.823274_-86.280957@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601283,
-    "wof:geomhash":"5583bef14a5b276f2ab8a764bdd7bdd0",
+    "wof:geomhash":"74279cbd78a3193f0a2918a9b3eacef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806812397,
-    "wof:lastmodified":1466515476,
+    "wof:lastmodified":1510695738,
     "wof:name":"Don Pablo's",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

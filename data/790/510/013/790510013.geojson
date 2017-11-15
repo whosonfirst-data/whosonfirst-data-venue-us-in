@@ -2,14 +2,20 @@
   "id": 790510013,
   "type": "Feature",
   "properties": {
+    "addr:full":"4219 Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"4219",
+    "addr:postcode":"46013",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652901,40.073968,-85.652901,40.073968",
     "geom:latitude":40.073968,
     "geom:longitude":-85.652901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4219 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":420574781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BjsO9GetqqssGU10VutBc_40.073968_-85.652901@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596453,
-    "wof:geomhash":"0c03a60560c4ba504e06eb4656c62556",
+    "wof:geomhash":"d1b743c6a4452f462868dea4cc7828b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790510013,
-    "wof:lastmodified":1466512126,
+    "wof:lastmodified":1510608432,
     "wof:name":"EB Games",
     "wof:parent_id":85831617,
     "wof:placetype":"venue",

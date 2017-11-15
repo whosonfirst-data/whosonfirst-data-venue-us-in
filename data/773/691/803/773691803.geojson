@@ -2,9 +2,14 @@
   "id": 773691803,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 Mississinewa Ct Valparaiso IN 46385",
+    "addr:housenumber":"1451",
+    "addr:postcode":"46385",
+    "addr:street":"Mississinewa Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.086062,41.455522,-87.086062,41.455522",
     "geom:latitude":41.455522,
     "geom:longitude":-87.086062,
@@ -30,7 +35,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MJYsHndtuQ1UqNWowUsYz_41.455522_-87.086062@1294102998"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462587628,
     "wof:geomhash":"177f1caf322bf76fb4518a84f92d7931",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":773691803
+        }
+    ],
     "wof:id":773691803,
-    "wof:lastmodified":1466517530,
+    "wof:lastmodified":1492091782,
     "wof:name":"Energy & Emission Systems",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

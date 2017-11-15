@@ -2,14 +2,20 @@
   "id": 806812311,
   "type": "Feature",
   "properties": {
+    "addr:full":"5025 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5025",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.085666,39.904371,-86.085666,39.904371",
     "geom:latitude":39.904371,
     "geom:longitude":-86.085666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5025 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75hZkZEJOy8agZeXbFRld0_39.904371_-86.085666@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601283,
-    "wof:geomhash":"45cb16b145cfe8f554ba5d068ed2aa20",
+    "wof:geomhash":"ba2ae4a75ce02141c6bed7a6ffcee6d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806812311,
-    "wof:lastmodified":1466515216,
+    "wof:lastmodified":1510601934,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

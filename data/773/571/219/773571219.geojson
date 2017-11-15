@@ -2,9 +2,14 @@
   "id": 773571219,
   "type": "Feature",
   "properties": {
+    "addr:full":"5018 E 1200 N Demotte IN 46310",
+    "addr:housenumber":"5018",
+    "addr:postcode":"46310",
+    "addr:street":"E 1200 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.290008,41.173608,-87.290008,41.173608",
     "geom:latitude":41.173608,
     "geom:longitude":-87.290008,
@@ -30,7 +35,13 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gldaoLeWnR2HcrKMrIucj_41.173608_-87.290008@1294102998"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1462586729,
     "wof:geomhash":"f2d4042365b89d275ad5fe3afcc3b8a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":773571219
+        }
+    ],
     "wof:id":773571219,
-    "wof:lastmodified":1466515210,
+    "wof:lastmodified":1492106679,
     "wof:name":"Daryl Boezeman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

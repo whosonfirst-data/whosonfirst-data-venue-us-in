@@ -2,9 +2,14 @@
   "id": 773077663,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Van Rensselaer St Rensselaer IN 47978",
+    "addr:housenumber":"301",
+    "addr:postcode":"47978",
+    "addr:street":"S;Rensselaer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.150375,40.934275,-87.150375,40.934275",
     "geom:latitude":40.934275,
     "geom:longitude":-87.150375,
@@ -28,7 +33,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l09pmVQX1F5pnGZ2eEorB_40.934275_-87.150375@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462582987,
     "wof:geomhash":"6b29d42ad77770f6755267fc159b976f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":773077663
+        }
+    ],
     "wof:id":773077663,
-    "wof:lastmodified":1466504929,
+    "wof:lastmodified":1492105044,
     "wof:name":"Odom Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

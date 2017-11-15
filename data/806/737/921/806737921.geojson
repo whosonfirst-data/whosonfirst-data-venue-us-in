@@ -2,9 +2,14 @@
   "id": 806737921,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 E Stewart Dr Rensselaer IN 47978",
+    "addr:housenumber":"826",
+    "addr:postcode":"47978",
+    "addr:street":"E Stewart Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.142584,40.931723,-87.142584,40.931723",
     "geom:latitude":40.931723,
     "geom:longitude":-87.142584,
@@ -22,7 +27,14 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KFCI3txUEvjjqRr3QC7tz_40.931723_-87.142584@1294102998"
@@ -30,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1462600662,
     "wof:geomhash":"f22e886a82af8a5b5838af1b1d896afe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":806737921
+        }
+    ],
     "wof:id":806737921,
-    "wof:lastmodified":1466512493,
+    "wof:lastmodified":1492103698,
     "wof:name":"James Hopkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

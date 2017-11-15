@@ -2,6 +2,10 @@
   "id": 773426227,
   "type": "Feature",
   "properties": {
+    "addr:full":"9109 W State Rd 45 Bloomington IN 47403",
+    "addr:housenumber":"9109;45",
+    "addr:postcode":"47403",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":773426227,
-    "wof:lastmodified":1466510975,
+    "wof:lastmodified":1472623117,
     "wof:name":"Tulip Patch",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

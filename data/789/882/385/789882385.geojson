@@ -2,9 +2,14 @@
   "id": 789882385,
   "type": "Feature",
   "properties": {
+    "addr:full":"5473 N US Hwy 35 Laporte IN 46350",
+    "addr:housenumber":"5473",
+    "addr:postcode":"46350",
+    "addr:street":"N Us Hwy 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797401,41.6866,-86.797401,41.6866",
     "geom:latitude":41.6866,
     "geom:longitude":-86.797401,
@@ -27,7 +32,10 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T9s02cCTY5hZKODYYmK1r_41.686600_-86.797401@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591311,
     "wof:geomhash":"b3d164190e8172b75aa5a951d18a5e85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789882385
+        }
+    ],
     "wof:id":789882385,
-    "wof:lastmodified":1466507255,
+    "wof:lastmodified":1492097418,
     "wof:name":"Peach Studio",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

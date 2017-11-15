@@ -2,14 +2,20 @@
   "id": 790459669,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 W Honey Creek Pkwy Terre Haute IN 47802",
+    "addr:housenumber":"120",
+    "addr:postcode":"47802",
+    "addr:street":"W Honey Creek Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.418774,39.424863,-87.418774,39.424863",
     "geom:latitude":39.424863,
     "geom:longitude":-87.418774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 W Honey Creek Pkwy",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125151309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AhuXi5fnKH0Q1dvnlsX97_39.424863_-87.418774@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596010,
-    "wof:geomhash":"ba40910edbcc74a0b698ef5e2b192bd4",
+    "wof:geomhash":"e0f0d04debc7d7bfeefe9a0dfdcca88e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790459669,
-    "wof:lastmodified":1466510603,
+    "wof:lastmodified":1510693910,
     "wof:name":"Heavenly Ham",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

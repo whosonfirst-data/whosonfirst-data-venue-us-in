@@ -2,14 +2,20 @@
   "id": 773145115,
   "type": "Feature",
   "properties": {
+    "addr:full":"3552 Village Ct Gary IN 46408",
+    "addr:housenumber":"3552",
+    "addr:postcode":"46408",
+    "addr:street":"Village Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355969,41.554126,-87.355969,41.554126",
     "geom:latitude":41.554126,
     "geom:longitude":-87.355969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3552 Village Ct",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GH2fbzotCFP6qOhS8r2YC_41.554126_-87.355969@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583469,
-    "wof:geomhash":"6714bdbb5cc05f0e115ea95b1b48edad",
+    "wof:geomhash":"79ff3a83fe124dfe10bd8665d0cd1c64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773145115,
-    "wof:lastmodified":1466505668,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",

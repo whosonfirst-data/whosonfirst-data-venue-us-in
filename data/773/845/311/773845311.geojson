@@ -2,6 +2,10 @@
   "id": 773845311,
   "type": "Feature",
   "properties": {
+    "addr:full":"9428 N State Rd 19 Etna Green IN 46524",
+    "addr:housenumber":"9428;19",
+    "addr:postcode":"46524",
+    "addr:street":"N State Rd;Etna Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":773845311,
-    "wof:lastmodified":1466519208,
+    "wof:lastmodified":1472623249,
     "wof:name":"Berea Fellowship",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

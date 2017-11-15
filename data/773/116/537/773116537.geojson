@@ -2,14 +2,20 @@
   "id": 773116537,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Industrial Pkwy Elkhart IN 46516",
+    "addr:housenumber":"2100",
+    "addr:postcode":"46516",
+    "addr:street":"Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.922088,41.686659,-85.922088,41.686659",
     "geom:latitude":41.686659,
     "geom:longitude":-85.922088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Industrial Pkwy",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125159229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JAfHSQ2zNeSC1VsdMf9hc_41.686659_-85.922088@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583268,
-    "wof:geomhash":"9196408bc848f3839fdd8b472328a792",
+    "wof:geomhash":"eaca1a9d085e48c115ff29875d344fff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773116537,
-    "wof:lastmodified":1466505349,
+    "wof:lastmodified":1510699530,
     "wof:name":"Doors Plus",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

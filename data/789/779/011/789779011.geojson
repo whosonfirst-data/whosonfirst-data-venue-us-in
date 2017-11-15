@@ -2,9 +2,14 @@
   "id": 789779011,
   "type": "Feature",
   "properties": {
+    "addr:full":"8244 E Lakeview Ave New Carlisle IN 46552",
+    "addr:housenumber":"8244",
+    "addr:postcode":"46552",
+    "addr:street":"E Lakeview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.53901,41.709405,-86.53901,41.709405",
     "geom:latitude":41.709405,
     "geom:longitude":-86.53901,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"842beed2f3320f9a0933edaceec62e32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":789779011,
-    "wof:lastmodified":1466506188,
+    "wof:lastmodified":1492097651,
     "wof:name":"Emergency Medical Instructor",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

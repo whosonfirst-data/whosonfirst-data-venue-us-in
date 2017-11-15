@@ -2,9 +2,14 @@
   "id": 773365933,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 Millpond Rd N Valparaiso IN 46385",
+    "addr:housenumber":"970",
+    "addr:postcode":"46385",
+    "addr:street":"Millpond Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.083795,41.459939,-87.083795,41.459939",
     "geom:latitude":41.459939,
     "geom:longitude":-87.083795,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jGVzxA2R2AogA2yz9WmK3_41.459939_-87.083795@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462585152,
     "wof:geomhash":"fdf49b5d749a2e2a5ab7b4017d6a9803",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":773365933
+        }
+    ],
     "wof:id":773365933,
-    "wof:lastmodified":1466508699,
+    "wof:lastmodified":1492091316,
     "wof:name":"Nw Indiana District Office",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

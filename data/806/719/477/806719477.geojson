@@ -2,14 +2,20 @@
   "id": 806719477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3069 N National Rd Columbus IN 47201",
+    "addr:housenumber":"3069",
+    "addr:postcode":"47201",
+    "addr:street":"N National Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.900519,39.229076,-85.900519,39.229076",
     "geom:latitude":39.229076,
     "geom:longitude":-85.900519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3069 N National Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BFHlxY5Ld5A0JS7xh70ZZ_39.229076_-85.900519@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600496,
-    "wof:geomhash":"3d51017709dbbb4b1134e5b9eb6e7cec",
+    "wof:geomhash":"351cff2936dacab7946c672d716ab2c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806719477,
-    "wof:lastmodified":1466511985,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

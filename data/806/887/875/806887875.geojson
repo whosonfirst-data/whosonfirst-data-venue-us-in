@@ -2,14 +2,20 @@
   "id": 806887875,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Greenwood Park North Dr Greenwood IN 46142",
+    "addr:housenumber":"600",
+    "addr:postcode":"46142",
+    "addr:street":"Greenwood Park North Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.118874,39.634918,-86.118874,39.634918",
     "geom:latitude":39.634918,
     "geom:longitude":-86.118874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Greenwood Park North Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vqbZD8PsoLTbOlF1dQhi0_39.634918_-86.118874@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601913,
-    "wof:geomhash":"e05a3fbfa6a3868fae3ab8a6f84eb18c",
+    "wof:geomhash":"daac1f5f7cb56defec956860c4acb703",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806887875,
-    "wof:lastmodified":1466517055,
+    "wof:lastmodified":1510696623,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

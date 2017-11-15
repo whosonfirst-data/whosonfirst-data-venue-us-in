@@ -2,14 +2,20 @@
   "id": 790568327,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 W US Hwy 30 Schererville IN 46375",
+    "addr:housenumber":"306",
+    "addr:postcode":"46375",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.460748,41.490356,-87.460748,41.490356",
     "geom:latitude":41.490356,
     "geom:longitude":-87.460748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 W US Hwy 30",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125154219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32QaXE51O7v8xIYqvzHoy5_41.490356_-87.460748@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596943,
-    "wof:geomhash":"72ac1891aa4ac7d332783b87c4249317",
+    "wof:geomhash":"9651318506cbec6a115c0d080baf2d31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790568327,
-    "wof:lastmodified":1466513894,
+    "wof:lastmodified":1510698746,
     "wof:name":"It Figures",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

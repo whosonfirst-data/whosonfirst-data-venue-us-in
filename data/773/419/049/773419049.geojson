@@ -2,9 +2,14 @@
   "id": 773419049,
   "type": "Feature",
   "properties": {
+    "addr:full":"3986 Broadway Gary IN 46408",
+    "addr:housenumber":"3986",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336545,41.54756,-87.336545,41.54756",
     "geom:latitude":41.54756,
     "geom:longitude":-87.336545,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cqAnEcxMZPxnrcBk5gnGA_41.547560_-87.336545@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462585567,
     "wof:geomhash":"454e93e517ee24d4bb90443700711ce1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773419049
+        }
+    ],
     "wof:id":773419049,
-    "wof:lastmodified":1466510691,
+    "wof:lastmodified":1492095765,
     "wof:name":"Mr B's One Stop",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790020853,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Main St Aurora IN 47001",
+    "addr:housenumber":"205",
+    "addr:postcode":"47001",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.899834,39.056273,-84.899834,39.056273",
     "geom:latitude":39.056273,
     "geom:longitude":-84.899834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Main St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85857149,
         102087067
     ],
+    "wof:brand_id":420574621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oevMJLzpwhgNCvLhXR3F3_39.056273_-84.899834@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592497,
-    "wof:geomhash":"41c19fd374ae250f70c975b09c90d612",
+    "wof:geomhash":"e6818340edf2f0d581c9934816b0c191",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790020853,
-    "wof:lastmodified":1466504037,
+    "wof:lastmodified":1510604665,
     "wof:name":"A Cut Above",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",

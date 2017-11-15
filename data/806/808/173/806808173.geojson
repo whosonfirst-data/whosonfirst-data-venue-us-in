@@ -2,14 +2,20 @@
   "id": 806808173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 N Shadeland Ave Indianapolis IN 46219",
+    "addr:housenumber":"1425",
+    "addr:postcode":"46219",
+    "addr:street":"N Shadeland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.045436,39.787816,-86.045436,39.787816",
     "geom:latitude":39.787816,
     "geom:longitude":-86.045436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oguDv5bzd2bGxBcfeuvty_39.787816_-86.045436@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601250,
-    "wof:geomhash":"75300d06e8ecf2247fc442a159f2528c",
+    "wof:geomhash":"196c57f25944c580f98c18e44d62cad3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806808173,
-    "wof:lastmodified":1466515389,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",

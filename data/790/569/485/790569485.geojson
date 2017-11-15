@@ -2,9 +2,14 @@
   "id": 790569485,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 E 46th Ave Gary IN 46409",
+    "addr:housenumber":"527",
+    "addr:postcode":"46409",
+    "addr:street":"E 46Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.329246,41.534798,-87.329246,41.534798",
     "geom:latitude":41.534798,
     "geom:longitude":-87.329246,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6369ZAfmNMATPxuNCawYLi_41.534798_-87.329246@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462596957,
     "wof:geomhash":"ac81bea2ee8e9ef31b986e9634b1680f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790569485
+        }
+    ],
     "wof:id":790569485,
-    "wof:lastmodified":1466514435,
+    "wof:lastmodified":1492103218,
     "wof:name":"MIA",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

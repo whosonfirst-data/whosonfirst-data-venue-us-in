@@ -2,9 +2,14 @@
   "id": 807017793,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 N Main St Crown Point IN 46307",
+    "addr:housenumber":"321",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364493,41.420834,-87.364493,41.420834",
     "geom:latitude":41.420834,
     "geom:longitude":-87.364493,
@@ -25,7 +30,15 @@
     "sg:province":"IN",
     "sg:website":"www.bogart-smith-optometry.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Yi1yXBatFKP2VCMUl2N3l_41.420834_-87.364493@1303262769"
@@ -33,9 +46,20 @@
     "wof:country":"US",
     "wof:created":1462603009,
     "wof:geomhash":"4130d43918e17ed8b04f30e8a9c68f11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807017793
+        }
+    ],
     "wof:id":807017793,
-    "wof:lastmodified":1466504074,
+    "wof:lastmodified":1492094624,
     "wof:name":"Bogart Sheila K OD",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

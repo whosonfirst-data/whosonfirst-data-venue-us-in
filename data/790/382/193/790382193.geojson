@@ -2,9 +2,14 @@
   "id": 790382193,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 E 45th Ave Gary IN 46409",
+    "addr:housenumber":"107",
+    "addr:postcode":"46409",
+    "addr:street":"E 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.333864,41.536656,-87.333864,41.536656",
     "geom:latitude":41.536656,
     "geom:longitude":-87.333864,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0blca5o4y4Utrt1ocAakJg_41.536656_-87.333864@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595395,
     "wof:geomhash":"ac511002bace3cc1a0ecdd8c7994769a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790382193
+        }
+    ],
     "wof:id":790382193,
-    "wof:lastmodified":1466507778,
+    "wof:lastmodified":1492097511,
     "wof:name":"Snuzzo's",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

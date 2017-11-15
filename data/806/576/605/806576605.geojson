@@ -2,9 +2,14 @@
   "id": 806576605,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Cedar Ct Munster IN 46321",
+    "addr:housenumber":"502",
+    "addr:postcode":"46321",
+    "addr:street":"Cedar Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.515379,41.554121,-87.515379,41.554121",
     "geom:latitude":41.554121,
     "geom:longitude":-87.515379,
@@ -29,7 +34,14 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xFwbz5op4wSVDGSeKcygT_41.554121_-87.515379@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462599283,
     "wof:geomhash":"ffa46135ca1be091142bf4243ef1856e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":806576605
+        }
+    ],
     "wof:id":806576605,
-    "wof:lastmodified":1466507073,
+    "wof:lastmodified":1492100662,
     "wof:name":"Kluse Floor & Wall Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

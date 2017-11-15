@@ -2,9 +2,14 @@
   "id": 790416177,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 Broadway Gary IN 46408",
+    "addr:housenumber":"4500",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336255,41.534863,-87.336255,41.534863",
     "geom:latitude":41.534863,
     "geom:longitude":-87.336255,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lxoYYpnkOZFhPlOr86Tox_41.534863_-87.336255@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462595653,
     "wof:geomhash":"8d6a5fd17bc31d1af3470a0090e91135",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790416177
+        }
+    ],
     "wof:id":790416177,
-    "wof:lastmodified":1466508471,
+    "wof:lastmodified":1492097511,
     "wof:name":"Yeman Gas Market",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

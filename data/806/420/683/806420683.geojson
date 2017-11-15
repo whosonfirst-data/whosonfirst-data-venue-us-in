@@ -2,14 +2,20 @@
   "id": 806420683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 English Ave Indianapolis IN 46201",
+    "addr:housenumber":"3909",
+    "addr:postcode":"46201",
+    "addr:street":"English Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.097289,39.760021,-86.097289,39.760021",
     "geom:latitude":39.760021,
     "geom:longitude":-86.097289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3909 English Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VDQ5Zal5oPOTLvmYmH8G2_39.760021_-86.097289@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598012,
-    "wof:geomhash":"c434fa52605f831953224ad0fc2f69f9",
+    "wof:geomhash":"3a6272f6e258461f62837cb14d32afae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806420683,
-    "wof:lastmodified":1466504892,
+    "wof:lastmodified":1510694906,
     "wof:name":"Joe's Barber Shop",
     "wof:parent_id":85870659,
     "wof:placetype":"venue",

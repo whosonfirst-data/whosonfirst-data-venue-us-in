@@ -2,9 +2,14 @@
   "id": 303618635,
   "type": "Feature",
   "properties": {
+    "addr:full":"8865 W 400 N Michigan City IN 46360",
+    "addr:housenumber":"8865",
+    "addr:postcode":"46360",
+    "addr:street":"W 400 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.871784,41.665786,-86.871784,41.665786",
     "geom:latitude":41.665786,
     "geom:longitude":-86.871784,
@@ -43,7 +48,6 @@
     "wof:geomhash":"89f3c2cda5ae9bdf182cab6fd254ccba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303618635,
-    "wof:lastmodified":1466502894,
+    "wof:lastmodified":1492106690,
     "wof:name":"Ophthalmology Inc",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

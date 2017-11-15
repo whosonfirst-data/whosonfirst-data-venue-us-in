@@ -2,9 +2,14 @@
   "id": 807040583,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 Indianapolis Blvd Hammond IN 46324",
+    "addr:housenumber":"6901",
+    "addr:postcode":"46324",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480957,41.588421,-87.480957,41.588421",
     "geom:latitude":41.588421,
     "geom:longitude":-87.480957,
@@ -39,14 +44,14 @@
     "sg:website":"http://www.levintirecenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858873,
+        85839875,
         102191575,
         404501869,
         85633793,
         85941817,
         102087149,
         85688709,
-        85839875
+        85858873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +67,7 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85858873,
+            "neighbourhood_id":85839875,
             "region_id":85688709,
             "venue_id":807040583
         },
@@ -72,15 +77,15 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85839875,
+            "neighbourhood_id":85858873,
             "region_id":85688709,
             "venue_id":807040583
         }
     ],
     "wof:id":807040583,
-    "wof:lastmodified":1466503836,
+    "wof:lastmodified":1492102306,
     "wof:name":"Levin Tire Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

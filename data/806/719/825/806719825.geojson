@@ -2,9 +2,14 @@
   "id": 806719825,
   "type": "Feature",
   "properties": {
+    "addr:full":"877 N 500 E Valparaiso IN 46383",
+    "addr:housenumber":"877",
+    "addr:postcode":"46383",
+    "addr:street":"N 500 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.969644,41.560774,-86.969644,41.560774",
     "geom:latitude":41.560774,
     "geom:longitude":-86.969644,
@@ -27,7 +32,13 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GFQXRwHoD9O1fGQhjsxY0_41.560774_-86.969644@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462600500,
     "wof:geomhash":"1fe0cd36c00ffe558d5367281f56638f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":806719825
+        }
+    ],
     "wof:id":806719825,
-    "wof:lastmodified":1466512397,
+    "wof:lastmodified":1492100586,
     "wof:name":"Tri State Cab Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

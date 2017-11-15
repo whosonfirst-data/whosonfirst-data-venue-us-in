@@ -2,9 +2,14 @@
   "id": 807019077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1122 N Main St Ste B Crown Point IN 46307",
+    "addr:housenumber":"1122",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364261,41.431677,-87.364261,41.431677",
     "geom:latitude":41.431677,
     "geom:longitude":-87.364261,
@@ -27,7 +32,15 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wG6wfimDApeO9IuT2UuFm_41.431677_-87.364261@1303262769"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462603027,
     "wof:geomhash":"b22397436dc062a469496714dab1fe4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807019077
+        }
+    ],
     "wof:id":807019077,
-    "wof:lastmodified":1466504069,
+    "wof:lastmodified":1492101999,
     "wof:name":"Sole Mates",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

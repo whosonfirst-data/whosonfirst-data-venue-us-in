@@ -2,14 +2,20 @@
   "id": 806401281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3217 Marine Dr Anderson IN 46013",
+    "addr:housenumber":"3217",
+    "addr:postcode":"46013",
+    "addr:street":"Marine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.689495,40.083584,-85.689495,40.083584",
     "geom:latitude":40.083584,
     "geom:longitude":-85.689495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3217 Marine Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125152041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VLPvZJpXwPYyABsIvCfky_40.083584_-85.689495@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597848,
-    "wof:geomhash":"3d05e56d5d0a8df86010c2aefeacb290",
+    "wof:geomhash":"70012e25824a2e0474acf1f22ae89fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806401281,
-    "wof:lastmodified":1466504549,
+    "wof:lastmodified":1510709550,
     "wof:name":"IOOF",
     "wof:parent_id":85833395,
     "wof:placetype":"venue",

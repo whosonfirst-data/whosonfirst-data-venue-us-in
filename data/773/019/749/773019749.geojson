@@ -2,9 +2,14 @@
   "id": 773019749,
   "type": "Feature",
   "properties": {
+    "addr:full":"648 W 48th Ave Gary IN 46408",
+    "addr:housenumber":"648",
+    "addr:postcode":"46408",
+    "addr:street":"W 48Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34418,41.531423,-87.34418,41.531423",
     "geom:latitude":41.531423,
     "geom:longitude":-87.34418,
@@ -27,7 +32,10 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PEAIA3bUuuSqDtm5AuxTZ_41.531423_-87.344180@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462582455,
     "wof:geomhash":"4f026494666af85a76217c1f9ca11865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773019749
+        }
+    ],
     "wof:id":773019749,
-    "wof:lastmodified":1466503939,
+    "wof:lastmodified":1492096841,
     "wof:name":"Polish Womens Alliance America",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

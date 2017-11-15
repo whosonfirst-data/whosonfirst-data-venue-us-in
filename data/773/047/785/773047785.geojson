@@ -2,14 +2,20 @@
   "id": 773047785,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Cross Pointe Blvd Evansville IN 47715",
+    "addr:housenumber":"445",
+    "addr:postcode":"47715",
+    "addr:street":"Cross Pointe Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.462693,37.980222,-87.462693,37.980222",
     "geom:latitude":37.980222,
     "geom:longitude":-87.462693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"445 Cross Pointe Blvd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bz6aL2VjChNDDoMyIG2ux_37.980222_-87.462693@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582723,
-    "wof:geomhash":"bbb19cf73a183b28b13fd8b2831d0011",
+    "wof:geomhash":"796326d497e60f1556d196eb38723a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773047785,
-    "wof:lastmodified":1466504386,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",

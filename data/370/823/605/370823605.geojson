@@ -2,14 +2,20 @@
   "id": 370823605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 N Greensburg Xing Greensburg IN 47240",
+    "addr:housenumber":"1905",
+    "addr:postcode":"47240",
+    "addr:street":"N;Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.619943,39.351987,-85.619943,39.351987",
     "geom:latitude":39.351987,
     "geom:longitude":-85.619943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 N Greensburg Xing",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688709
     ],
+    "wof:brand_id":1125158467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gDQAA0hxqnyRJCyv1cnjo_39.351987_-85.619943@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7103755db6efe5ff289f72cf2e33056",
+    "wof:geomhash":"f04e5a0ddb2a05bf96bb2af1a0a5fd02",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":370823605,
-    "wof:lastmodified":1466503614,
+    "wof:lastmodified":1510613246,
     "wof:name":"Butternut Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773068735,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 N Elm St Seymour IN 47274",
+    "addr:housenumber":"325",
+    "addr:postcode":"47274",
+    "addr:street":"N Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.897317,38.958271,-85.897317,38.958271",
     "geom:latitude":38.958271,
     "geom:longitude":-85.897317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 N Elm St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125158583,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fx4beg2zUpLCKxcIUQrv1_38.958271_-85.897317@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582926,
-    "wof:geomhash":"c436a6250ec44a23f8d49bddda2742e2",
+    "wof:geomhash":"a65849a85816379d10729f66d26fbafb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773068735,
-    "wof:lastmodified":1466504816,
+    "wof:lastmodified":1510697460,
     "wof:name":"Mr Appliance",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

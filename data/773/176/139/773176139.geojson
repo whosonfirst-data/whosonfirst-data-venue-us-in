@@ -2,9 +2,14 @@
   "id": 773176139,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N 3rd St Kentland IN 47951",
+    "addr:housenumber":"122",
+    "addr:postcode":"47951",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.445259,40.76888,-87.445259,40.76888",
     "geom:latitude":40.76888,
     "geom:longitude":-87.445259,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YWrfRYh1daikIWByKLMWX_40.768880_-87.445259@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462583708,
     "wof:geomhash":"37e9b8d4fe3c67a764962dc6c9a08189",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773176139
+        }
+    ],
     "wof:id":773176139,
-    "wof:lastmodified":1466505985,
+    "wof:lastmodified":1492091550,
     "wof:name":"Linda L Harris Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

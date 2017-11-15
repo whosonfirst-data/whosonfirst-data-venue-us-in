@@ -2,9 +2,14 @@
   "id": 806557795,
   "type": "Feature",
   "properties": {
+    "addr:full":"162 Cattail Ln Valparaiso IN 46385",
+    "addr:housenumber":"162",
+    "addr:postcode":"46385",
+    "addr:street":"Cattail Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.098101,41.547202,-87.098101,41.547202",
     "geom:latitude":41.547202,
     "geom:longitude":-87.098101,
@@ -28,7 +33,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vlGMsJeSSRjirhU3LIuRW_41.547202_-87.098101@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462599101,
     "wof:geomhash":"62b26c81f94557924dfe25d9f13a1295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806557795
+        }
+    ],
     "wof:id":806557795,
-    "wof:lastmodified":1466506755,
+    "wof:lastmodified":1492097612,
     "wof:name":"AIN Group Of Indiana Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

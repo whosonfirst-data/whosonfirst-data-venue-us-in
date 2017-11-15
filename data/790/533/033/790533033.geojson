@@ -2,9 +2,14 @@
   "id": 790533033,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 E Cherry St Rensselaer IN 47978",
+    "addr:housenumber":"435",
+    "addr:postcode":"47978",
+    "addr:street":"E Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.148798,40.94056,-87.148798,40.94056",
     "geom:latitude":40.94056,
     "geom:longitude":-87.148798,
@@ -27,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j6YgiJufjSSTxffLLY26j_40.940560_-87.148798@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596646,
     "wof:geomhash":"699ffe1772399a5f3ce276b718cee14e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790533033
+        }
+    ],
     "wof:id":790533033,
-    "wof:lastmodified":1466512892,
+    "wof:lastmodified":1492102168,
     "wof:name":"Jasper Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

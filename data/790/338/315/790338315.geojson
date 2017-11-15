@@ -2,14 +2,20 @@
   "id": 790338315,
   "type": "Feature",
   "properties": {
+    "addr:full":"12964 Catalpa St Dillsboro IN 47018",
+    "addr:housenumber":"12964",
+    "addr:postcode":"47018",
+    "addr:street":"Catalpa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.059599,39.021062,-85.059599,39.021062",
     "geom:latitude":39.021062,
     "geom:longitude":-85.059599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12964 Catalpa St",
     "sg:city":"Dillsboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85857149,
         102087067
     ],
+    "wof:brand_id":1125156157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hC9Mncbp71MnSTuUoqbil_39.021062_-85.059599@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595049,
-    "wof:geomhash":"48b4a8fdce6cf7bc1f3b9eed9924f0be",
+    "wof:geomhash":"797dce2733de4f153066b1df745f58b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790338315,
-    "wof:lastmodified":1466507316,
+    "wof:lastmodified":1510696658,
     "wof:name":"United Methodist Parsonage",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",

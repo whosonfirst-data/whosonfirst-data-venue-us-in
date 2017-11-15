@@ -2,9 +2,14 @@
   "id": 320609537,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"919",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825905,41.713198,-86.825905,41.713198",
     "geom:latitude":41.713198,
     "geom:longitude":-86.825905,
@@ -28,10 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85941911,
-        102086409
+        420519723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,15 @@
     "wof:geomhash":"445485cc190f209761622aae6804b4f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086409,
-            "locality_id":85941911,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519723,
             "venue_id":320609537
         }
     ],
     "wof:id":320609537,
-    "wof:lastmodified":1466503312,
+    "wof:lastmodified":1492101249,
     "wof:name":"Green Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

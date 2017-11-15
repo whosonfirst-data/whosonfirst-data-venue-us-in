@@ -2,6 +2,10 @@
   "id": 790416399,
   "type": "Feature",
   "properties": {
+    "addr:full":"10935 W Co Rd 675 S Medora IN 47260",
+    "addr:housenumber":"10935;675",
+    "addr:postcode":"47260",
+    "addr:street":"W Co Rd;S Medora",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":790416399,
-    "wof:lastmodified":1466508499,
+    "wof:lastmodified":1472622839,
     "wof:name":"Rivervale Chapel",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",

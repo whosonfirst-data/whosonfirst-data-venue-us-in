@@ -2,9 +2,14 @@
   "id": 790063301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2652 S Range Rd Knox IN 46534",
+    "addr:housenumber":"2652",
+    "addr:postcode":"46534",
+    "addr:street":"S Range Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698313,41.264224,-86.698313,41.264224",
     "geom:latitude":41.264224,
     "geom:longitude":-86.698313,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SjAN0XGSpiep0nKmLpsVW_41.264224_-86.698313@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462592844,
     "wof:geomhash":"43298e3445cb586690bc609b068308ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "region_id":85688709,
+            "venue_id":790063301
+        }
+    ],
     "wof:id":790063301,
-    "wof:lastmodified":1466504205,
+    "wof:lastmodified":1492095080,
     "wof:name":"Little Dove United Baptist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

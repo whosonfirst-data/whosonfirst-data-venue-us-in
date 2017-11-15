@@ -2,9 +2,14 @@
   "id": 789830953,
   "type": "Feature",
   "properties": {
+    "addr:full":"7061 N 600 W Michigan City IN 46360",
+    "addr:housenumber":"7061",
+    "addr:postcode":"46360",
+    "addr:street":"N 600 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816215,41.709991,-86.816215,41.709991",
     "geom:latitude":41.709991,
     "geom:longitude":-86.816215,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AuyMnpK8zKigoMRepsjab_41.709991_-86.816215@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590878,
     "wof:geomhash":"cff47b300455249d52ed2bb4fa3ca1e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789830953
+        }
+    ],
     "wof:id":789830953,
-    "wof:lastmodified":1466506708,
+    "wof:lastmodified":1492092230,
     "wof:name":"Jordan Mechanical & Technical",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

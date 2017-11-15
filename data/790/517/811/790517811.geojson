@@ -2,9 +2,14 @@
   "id": 790517811,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 N 375 W Valparaiso IN 46385",
+    "addr:housenumber":"366",
+    "addr:postcode":"46385",
+    "addr:street":"N 375 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.13847,41.484207,-87.13847,41.484207",
     "geom:latitude":41.484207,
     "geom:longitude":-87.13847,
@@ -27,7 +32,10 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KQwMsGo5ssrsuxVPDbXJf_41.484207_-87.138470@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462596511,
     "wof:geomhash":"6fd0a9e1fba0a2cc3562c21b5685b426",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790517811
+        }
+    ],
     "wof:id":790517811,
-    "wof:lastmodified":1466512768,
+    "wof:lastmodified":1492102375,
     "wof:name":"Endeavor Design Studio",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

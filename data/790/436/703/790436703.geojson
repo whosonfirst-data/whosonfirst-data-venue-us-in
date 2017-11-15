@@ -2,6 +2,10 @@
   "id": 790436703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 W Till Rd Fort Wayne IN 46825",
+    "addr:housenumber":"1337",
+    "addr:postcode":"46825",
+    "addr:street":"W Till Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790436703,
-    "wof:lastmodified":1466508934,
+    "wof:lastmodified":1472622869,
     "wof:name":"Jefferson Letter Svc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

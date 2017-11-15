@@ -2,14 +2,20 @@
   "id": 773370581,
   "type": "Feature",
   "properties": {
+    "addr:full":"8707 Keystone Xing Indianapolis IN 46240",
+    "addr:housenumber":"8707",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109428,39.912815,-86.109428,39.912815",
     "geom:latitude":39.912815,
     "geom:longitude":-86.109428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8707 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11DYKo4DZwGpIXp4HhB8dV_39.912815_-86.109428@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585184,
-    "wof:geomhash":"92ef574eaf566c19684f2bede4a9e071",
+    "wof:geomhash":"9639677efe23317f2cd51bf4ddcb8aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773370581,
-    "wof:lastmodified":1466508481,
+    "wof:lastmodified":1510697626,
     "wof:name":"J Jill",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

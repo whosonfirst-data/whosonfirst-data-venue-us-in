@@ -2,9 +2,14 @@
   "id": 806619697,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 US Hwy 421 Medaryville IN 47957",
+    "addr:housenumber":"403",
+    "addr:postcode":"47957",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891887,41.067177,-86.891887,41.067177",
     "geom:latitude":41.067177,
     "geom:longitude":-86.891887,
@@ -27,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uKKszF3mALAfQ3WfeHg8K_41.067177_-86.891887@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462599650,
     "wof:geomhash":"48ebb7fbd1a76ec2fe48b78bc176b543",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":806619697
+        }
+    ],
     "wof:id":806619697,
-    "wof:lastmodified":1466507587,
+    "wof:lastmodified":1492093667,
     "wof:name":"Westside Amoco Good Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

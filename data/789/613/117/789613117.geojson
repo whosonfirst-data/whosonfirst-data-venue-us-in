@@ -2,9 +2,14 @@
   "id": 789613117,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 N Karwick Rd Michigan City IN 46360",
+    "addr:housenumber":"705",
+    "addr:postcode":"46360",
+    "addr:street":"N Karwick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.855486,41.731014,-86.855486,41.731014",
     "geom:latitude":41.731014,
     "geom:longitude":-86.855486,
@@ -28,7 +33,14 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LDX2wlTjMMfdiBa0eKDR0_41.731014_-86.855486@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462589160,
     "wof:geomhash":"2a22dad2d205d55a7d554fb981be95dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":789613117
+        }
+    ],
     "wof:id":789613117,
-    "wof:lastmodified":1466504078,
+    "wof:lastmodified":1492091853,
     "wof:name":"Cliffard Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

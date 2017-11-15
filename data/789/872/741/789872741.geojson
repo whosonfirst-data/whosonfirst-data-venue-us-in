@@ -2,6 +2,10 @@
   "id": 789872741,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Clark Rd Gary IN 46406",
+    "addr:housenumber":"456",
+    "addr:postcode":"46406",
+    "addr:street":"Clark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789872741,
-    "wof:lastmodified":1466507279,
+    "wof:lastmodified":1472622711,
     "wof:name":"Ray's Shrimp House",
     "wof:parent_id":85827161,
     "wof:placetype":"venue",

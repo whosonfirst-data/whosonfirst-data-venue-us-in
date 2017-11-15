@@ -2,9 +2,14 @@
   "id": 806629687,
   "type": "Feature",
   "properties": {
+    "addr:full":"4664 Polk St Gary IN 46408",
+    "addr:housenumber":"4664",
+    "addr:postcode":"46408",
+    "addr:street":"Polk St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34844,41.533461,-87.34844,41.533461",
     "geom:latitude":41.533461,
     "geom:longitude":-87.34844,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vSbeZh09GAtznRXjjfieR_41.533461_-87.348440@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599732,
     "wof:geomhash":"adc3b2239decc6609d90553c2d90f397",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806629687
+        }
+    ],
     "wof:id":806629687,
-    "wof:lastmodified":1466508048,
+    "wof:lastmodified":1492103072,
     "wof:name":"Christ Deliverance Temple",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

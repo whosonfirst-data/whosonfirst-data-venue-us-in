@@ -2,9 +2,14 @@
   "id": 789929575,
   "type": "Feature",
   "properties": {
+    "addr:full":"10246 S 550 E Goodland IN 47948",
+    "addr:housenumber":"10246;550 e;in",
+    "addr:postcode":"47948",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.286973,40.847771,-87.286973,40.847771",
     "geom:latitude":40.847771,
     "geom:longitude":-87.286973,
@@ -29,7 +34,13 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X3nQs9ZaC30apEtL1VuSb_40.847771_-87.286973@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462591708,
     "wof:geomhash":"8a611ca0d28947d54fe7cb33b8b3b997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "region_id":85688709,
+            "venue_id":789929575
+        }
+    ],
     "wof:id":789929575,
-    "wof:lastmodified":1466507831,
+    "wof:lastmodified":1492103017,
     "wof:name":"Cooper State Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

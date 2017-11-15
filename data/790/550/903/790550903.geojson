@@ -2,14 +2,20 @@
   "id": 790550903,
   "type": "Feature",
   "properties": {
+    "addr:full":"3392 Willowcreek Rd Portage IN 46368",
+    "addr:housenumber":"3392",
+    "addr:postcode":"46368",
+    "addr:street":"Willowcreek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.182686,41.553034,-87.182686,41.553034",
     "geom:latitude":41.553034,
     "geom:longitude":-87.182686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3392 Willowcreek Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":420575093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yPAcqkShEmOjj2DraP52V_41.553034_-87.182686@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596802,
-    "wof:geomhash":"2764ec33100f7bc87a0770fc0a0d3ded",
+    "wof:geomhash":"24a5dd96ef51e6bc992b1f4ca18b95f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790550903,
-    "wof:lastmodified":1466513450,
+    "wof:lastmodified":1510602906,
     "wof:name":"Candy Bouquet",
     "wof:parent_id":85891193,
     "wof:placetype":"venue",

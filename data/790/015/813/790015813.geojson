@@ -2,6 +2,10 @@
   "id": 790015813,
   "type": "Feature",
   "properties": {
+    "addr:full":"6062 S Co Rd 1110 W Medora IN 47260",
+    "addr:housenumber":"6062;1110",
+    "addr:postcode":"47260",
+    "addr:street":"S Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":790015813,
-    "wof:lastmodified":1466503692,
+    "wof:lastmodified":1472622285,
     "wof:name":"Mock Farm Inc",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",

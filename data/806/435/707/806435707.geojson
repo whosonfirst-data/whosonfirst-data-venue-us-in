@@ -2,9 +2,14 @@
   "id": 806435707,
   "type": "Feature",
   "properties": {
+    "addr:full":"10451 US Hwy 231 Wheatfield IN 46392",
+    "addr:housenumber":"10451",
+    "addr:postcode":"46392",
+    "addr:street":"Us Hwy 231",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.150957,41.163005,-87.150957,41.163005",
     "geom:latitude":41.163005,
     "geom:longitude":-87.150957,
@@ -24,7 +29,13 @@
     "sg:postcode":"46392",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501007,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wDMM3pYiF1P9D7q3BxhuH_41.163005_-87.150957@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462598130,
     "wof:geomhash":"5a9ef9abcd4a83e4085ed85899f768ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501007,
+            "region_id":85688709,
+            "venue_id":806435707
+        }
+    ],
     "wof:id":806435707,
-    "wof:lastmodified":1466505256,
+    "wof:lastmodified":1492091623,
     "wof:name":"J BS Lock & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387355063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 Montcalm St Indianapolis IN 46202",
+    "addr:housenumber":"1451",
+    "addr:postcode":"46202",
+    "addr:street":"Montcalm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.180021,39.786962,-86.180021,39.786962",
     "geom:latitude":39.786962,
     "geom:longitude":-86.180021,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870657,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870657
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"03ddc89c03bb158a07c26384446a42c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870657,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387355063,
-    "wof:lastmodified":1466503378,
+    "wof:lastmodified":1491914489,
     "wof:name":"Roberta's Alterations",
     "wof:parent_id":85870657,
     "wof:placetype":"venue",

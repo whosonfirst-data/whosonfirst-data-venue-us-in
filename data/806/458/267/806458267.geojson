@@ -2,14 +2,20 @@
   "id": 806458267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2550 Waterbridge Way Evansville IN 47710",
+    "addr:housenumber":"2550",
+    "addr:postcode":"47710",
+    "addr:street":"Waterbridge Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.571934,38.001995,-87.571934,38.001995",
     "geom:latitude":38.001995,
     "geom:longitude":-87.571934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2550 Waterbridge Way",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125157027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HnuPyb5NZtn9CL5A1Dkmr_38.001995_-87.571934@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598301,
-    "wof:geomhash":"549e69aceaba6f599a12d9bafc403146",
+    "wof:geomhash":"d91c3e3594555bc12b7b5b4059f901b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806458267,
-    "wof:lastmodified":1466505412,
+    "wof:lastmodified":1510696715,
     "wof:name":"Novastar Home Mortgage",
     "wof:parent_id":85824193,
     "wof:placetype":"venue",

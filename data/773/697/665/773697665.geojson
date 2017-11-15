@@ -2,9 +2,14 @@
   "id": 773697665,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 N 1650 W Medaryville IN 47957",
+    "addr:housenumber":"191",
+    "addr:postcode":"47957",
+    "addr:street":"N 1650 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.920683,41.057006,-86.920683,41.057006",
     "geom:latitude":41.057006,
     "geom:longitude":-86.920683,
@@ -27,7 +32,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KAJ2xUj8Bk36Z8KrkEcYS_41.057006_-86.920683@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462587710,
     "wof:geomhash":"7cd134261bda5c89ad36c8b7622fa07c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":773697665
+        }
+    ],
     "wof:id":773697665,
-    "wof:lastmodified":1466517550,
+    "wof:lastmodified":1492096862,
     "wof:name":"Northwest Territories Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

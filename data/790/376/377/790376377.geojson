@@ -2,9 +2,14 @@
   "id": 790376377,
   "type": "Feature",
   "properties": {
+    "addr:full":"5310 E 900 N Fair Oaks IN 47943",
+    "addr:housenumber":"5310",
+    "addr:postcode":"47943",
+    "addr:street":"E 900 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.288983,41.129944,-87.288983,41.129944",
     "geom:latitude":41.129944,
     "geom:longitude":-87.288983,
@@ -24,7 +29,13 @@
     "sg:postcode":"47943",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iH1t0mUgMvYWQldVIAbga_41.129944_-87.288983@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462595356,
     "wof:geomhash":"30b16dbc403fb231826705cc60df2c4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":790376377
+        }
+    ],
     "wof:id":790376377,
-    "wof:lastmodified":1466507684,
+    "wof:lastmodified":1492091777,
     "wof:name":"Oak Lake Family Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

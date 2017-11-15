@@ -2,9 +2,14 @@
   "id": 807030475,
   "type": "Feature",
   "properties": {
+    "addr:full":"7550 Hohman Ave Ste 700 Munster IN 46321",
+    "addr:housenumber":"7550",
+    "addr:postcode":"46321",
+    "addr:street":"Hohman Ave Ste 700",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.5224,41.5756,-87.5224,41.5756",
     "geom:latitude":41.5756,
     "geom:longitude":-87.5224,
@@ -28,7 +33,14 @@
         "gynecologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1llOUNRU7x7qx7327vpTyB_41.575600_-87.522400@1303262770"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462603127,
     "wof:geomhash":"3a399765a57a18a43a6408ed43c3a678",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807030475
+        }
+    ],
     "wof:id":807030475,
-    "wof:lastmodified":1466504168,
+    "wof:lastmodified":1492102304,
     "wof:name":"Schwartz Medical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

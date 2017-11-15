@@ -2,14 +2,20 @@
   "id": 772996417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3338 Hamilton Pl Anderson IN 46013",
+    "addr:housenumber":"3338",
+    "addr:postcode":"46013",
+    "addr:street":"Hamilton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.660456,40.083159,-85.660456,40.083159",
     "geom:latitude":40.083159,
     "geom:longitude":-85.660456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3338 Hamilton Pl",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125156115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aKn8rT54cJghwY9l5L6uX_40.083159_-85.660456@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462581957,
-    "wof:geomhash":"284ab10e904ecce890f3e1b244e973d8",
+    "wof:geomhash":"0bda5bcf21752c34e016249d69be3b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":772996417,
-    "wof:lastmodified":1466503172,
+    "wof:lastmodified":1510604960,
     "wof:name":"Polish National Alliance",
     "wof:parent_id":85827053,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773446099,
   "type": "Feature",
   "properties": {
+    "addr:full":"3403 Coliseum Blvd W Fort Wayne IN 46808",
+    "addr:housenumber":"3403",
+    "addr:postcode":"46808",
+    "addr:street":"Coliseum Blvd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.182968,41.11749,-85.182968,41.11749",
     "geom:latitude":41.11749,
     "geom:longitude":-85.182968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3403 Coliseum Blvd W",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125158411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sA4Vfr5CsPrOMTCWeAFsc_41.117490_-85.182968@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585809,
-    "wof:geomhash":"f54a9c8625b247f6b1cd084b0c477e10",
+    "wof:geomhash":"51565b9173ac47f5a91831a9d4131885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773446099,
-    "wof:lastmodified":1466512034,
+    "wof:lastmodified":1510697117,
     "wof:name":"Thermo King",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

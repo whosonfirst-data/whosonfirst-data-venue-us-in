@@ -2,14 +2,20 @@
   "id": 806800853,
   "type": "Feature",
   "properties": {
+    "addr:full":"526 E 52nd St Indianapolis IN 46205",
+    "addr:housenumber":"526",
+    "addr:postcode":"46205",
+    "addr:street":"E 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.149614,39.846875,-86.149614,39.846875",
     "geom:latitude":39.846875,
     "geom:longitude":-86.149614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"526 E 52nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YzWQY9hivbidD91oyrA7J_39.846968_-86.148838@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601190,
-    "wof:geomhash":"3b4b05c5e195b4ea798e32a0f21a18d1",
+    "wof:geomhash":"7209fb53c571d350be1c7bb184e75e21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806800853,
-    "wof:lastmodified":1466514914,
+    "wof:lastmodified":1510693697,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

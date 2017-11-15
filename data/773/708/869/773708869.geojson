@@ -2,9 +2,14 @@
   "id": 773708869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W 41st Ave Gary IN 46408",
+    "addr:housenumber":"1300",
+    "addr:postcode":"46408",
+    "addr:street":"W 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353338,41.544142,-87.353338,41.544142",
     "geom:latitude":41.544142,
     "geom:longitude":-87.353338,
@@ -27,7 +32,10 @@
         "miscellaneous"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MK97vroX0bsDa6euXWghf_41.544142_-87.353338@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462587796,
     "wof:geomhash":"76e09ac18ea180af779e25df96c7b3ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773708869
+        }
+    ],
     "wof:id":773708869,
-    "wof:lastmodified":1466517723,
+    "wof:lastmodified":1492100660,
     "wof:name":"Just Resa's Personal Touch",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

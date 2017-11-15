@@ -2,9 +2,14 @@
   "id": 789801477,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 6th Wheeler IN 46393",
+    "addr:housenumber":"109",
+    "addr:postcode":"46393",
+    "addr:street":"6Th Wheeler",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.182883,41.514127,-87.182883,41.514127",
     "geom:latitude":41.514127,
     "geom:longitude":-87.182883,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wLyQCbfNjDdUTGoLq7yGK_41.514127_-87.182883@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590651,
     "wof:geomhash":"a4fd3eda7b9c50dbcd1a6818c72f74f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789801477
+        }
+    ],
     "wof:id":789801477,
-    "wof:lastmodified":1466506501,
+    "wof:lastmodified":1492103082,
     "wof:name":"Written In Stone",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

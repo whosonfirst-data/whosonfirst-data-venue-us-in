@@ -2,14 +2,20 @@
   "id": 790061203,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 Craig Ave Greendale IN 47025",
+    "addr:housenumber":"460",
+    "addr:postcode":"47025",
+    "addr:street":"Craig Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.849853,39.123453,-84.849853,39.123453",
     "geom:latitude":39.123453,
     "geom:longitude":-84.849853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"460 Craig Ave",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087067,
         85823947
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mpZz52STayreKeKlg2BL7_39.123453_-84.849853@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592830,
-    "wof:geomhash":"dc443e835ed7a755ce7bf0a039324b69",
+    "wof:geomhash":"e134a5da932cc2a431eb8ee0b676eb9f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790061203,
-    "wof:lastmodified":1466504139,
+    "wof:lastmodified":1510613373,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85823947,
     "wof:placetype":"venue",

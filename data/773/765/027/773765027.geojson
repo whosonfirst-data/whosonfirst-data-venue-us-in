@@ -2,6 +2,10 @@
   "id": 773765027,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 E Stop 11 Rd Indianapolis IN 46227",
+    "addr:housenumber":"2520;11",
+    "addr:postcode":"46227",
+    "addr:street":"E Stop;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773765027,
-    "wof:lastmodified":1466518274,
+    "wof:lastmodified":1472623222,
     "wof:name":"RTM Svc",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

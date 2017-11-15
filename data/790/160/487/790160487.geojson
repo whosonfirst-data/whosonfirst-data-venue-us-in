@@ -2,9 +2,14 @@
   "id": 790160487,
   "type": "Feature",
   "properties": {
+    "addr:full":"8089 N 200 W Monon IN 47959",
+    "addr:housenumber":"8089",
+    "addr:postcode":"47959",
+    "addr:street":"N 200 W Monon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.910757,40.868557,-86.910757,40.868557",
     "geom:latitude":40.868557,
     "geom:longitude":-86.910757,
@@ -29,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501993,
+        85633793,
+        102087133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JB6dMCMgKodMHoMpiDLCo_40.868557_-86.910757@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462593596,
     "wof:geomhash":"d75a5af93666a9e2a9d68835677b1d18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087133,
+            "localadmin_id":404501993,
+            "region_id":85688709,
+            "venue_id":790160487
+        }
+    ],
     "wof:id":790160487,
-    "wof:lastmodified":1466505504,
+    "wof:lastmodified":1492107748,
     "wof:name":"Rockland Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

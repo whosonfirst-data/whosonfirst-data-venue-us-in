@@ -2,9 +2,14 @@
   "id": 386948653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2055 Harrison Blvd Valparaiso IN 46385",
+    "addr:housenumber":"2055",
+    "addr:postcode":"46385",
+    "addr:street":"Harrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.085611,41.485287,-87.085611,41.485287",
     "geom:latitude":41.485287,
     "geom:longitude":-87.085611,
@@ -28,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420519841,
+        102191575,
+        404501707,
         85633793,
+        85942401,
+        102087191,
         85688709
     ],
     "wof:breaches":[],
@@ -39,18 +49,20 @@
     "wof:geomhash":"6464525422eae9819ccb48e5aff40174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087191,
+            "localadmin_id":404501707,
+            "locality_id":85942401,
+            "neighbourhood_id":420519841,
             "region_id":85688709,
             "venue_id":386948653
         }
     ],
     "wof:id":386948653,
-    "wof:lastmodified":1466502909,
+    "wof:lastmodified":1492098303,
     "wof:name":"Metal Finishing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

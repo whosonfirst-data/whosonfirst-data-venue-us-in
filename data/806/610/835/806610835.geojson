@@ -2,14 +2,20 @@
   "id": 806610835,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 E Inlow Springs Rd Muncie IN 47302",
+    "addr:housenumber":"6001",
+    "addr:postcode":"47302",
+    "addr:street":"E Inlow Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.316604,40.152729,-85.316604,40.152729",
     "geom:latitude":40.152729,
     "geom:longitude":-85.316604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6001 E Inlow Springs Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85827089
     ],
+    "wof:brand_id":1125158959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JrGZTPf2sKL2PETvFvSEk_40.152729_-85.316604@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599571,
-    "wof:geomhash":"c0acc5aafeec7e5a365b93eb2da0f924",
+    "wof:geomhash":"56d250b8f0f4e6e78b1c83465eccfdc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806610835,
-    "wof:lastmodified":1466507562,
+    "wof:lastmodified":1510628034,
     "wof:name":"Classic Touch",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",

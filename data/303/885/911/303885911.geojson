@@ -2,9 +2,14 @@
   "id": 303885911,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 N Broad St Griffith IN 46319",
+    "addr:housenumber":"127",
+    "addr:postcode":"46319",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.427585,41.524058,-87.427585,41.524058",
     "geom:latitude":41.524058,
     "geom:longitude":-87.427585,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891125,
+        102191575,
+        404501857,
         85633793,
         85941815,
         102087149,
-        85891125
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"718688dfb5962d5013d4674ceda4e92b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941815,
             "neighbourhood_id":85891125,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":303885911,
-    "wof:lastmodified":1466503213,
+    "wof:lastmodified":1492103065,
     "wof:name":"WISZ Corp Inc Ortho Care",
     "wof:parent_id":85891125,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806502631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 W US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"1819",
+    "addr:postcode":"46360",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.933886,41.680694,-86.933886,41.680694",
     "geom:latitude":41.680694,
     "geom:longitude":-86.933886,
@@ -27,7 +32,10 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mRu7WENUllDWlnqCI4WoJ_41.680694_-86.933886@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598653,
     "wof:geomhash":"f610f4962de081dc97ee4b6e24aa0c14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519859,
+            "venue_id":806502631
+        }
+    ],
     "wof:id":806502631,
-    "wof:lastmodified":1466506092,
+    "wof:lastmodified":1492094663,
     "wof:name":"84 Lumber Co",
     "wof:parent_id":420519859,
     "wof:placetype":"venue",

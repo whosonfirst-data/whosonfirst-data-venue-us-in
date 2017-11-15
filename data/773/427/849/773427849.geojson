@@ -2,14 +2,20 @@
   "id": 773427849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1932 E 80th Ave Merrillville IN 46410",
+    "addr:housenumber":"1932",
+    "addr:postcode":"46410",
+    "addr:street":"E 80Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.312503,41.474113,-87.312503,41.474113",
     "geom:latitude":41.474113,
     "geom:longitude":-87.312503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1932 E 80th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bZuiiPO7j9MhaNAQ4GLvS_41.474113_-87.312503@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585646,
-    "wof:geomhash":"0f255660720be138e6b739c01fcc5c6a",
+    "wof:geomhash":"ccdcc6aaf5e73c7eddfc075ba7e5ff31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773427849,
-    "wof:lastmodified":1466511028,
+    "wof:lastmodified":1510694571,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85891165,
     "wof:placetype":"venue",

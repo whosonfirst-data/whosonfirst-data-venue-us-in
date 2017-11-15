@@ -2,14 +2,20 @@
   "id": 806906707,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 E Washington St Suite 100 Indianapolis IN 46204",
+    "addr:housenumber":"141",
+    "addr:postcode":"46204",
+    "addr:street":"E Washington St Suite 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.155201,39.767018,-86.155201,39.767018",
     "geom:latitude":39.767018,
     "geom:longitude":-86.155201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"141 E Washington St Suite 100",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gdim5on8hXmwXYBqjwqhs_39.767018_-86.155201@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602067,
-    "wof:geomhash":"7d2597a998455cda2bf13c337c711a77",
+    "wof:geomhash":"d9b0238cc54931d5d1a875076d6ce699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806906707,
-    "wof:lastmodified":1466517252,
+    "wof:lastmodified":1510613308,
     "wof:name":"AppleOne",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

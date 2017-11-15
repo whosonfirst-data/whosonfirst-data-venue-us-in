@@ -2,14 +2,20 @@
   "id": 773511593,
   "type": "Feature",
   "properties": {
+    "addr:full":"4905 Pollack Ave Evansville IN 47715",
+    "addr:housenumber":"4905",
+    "addr:postcode":"47715",
+    "addr:street":"Pollack Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.491579,37.947724,-87.491579,37.947724",
     "geom:latitude":37.947724,
     "geom:longitude":-87.491579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4905 Pollack Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087105,
         85877295
     ],
+    "wof:brand_id":1125152527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rOheqjtZtohJMOnlp4ISM_37.947724_-87.491579@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586282,
-    "wof:geomhash":"1816219859ba3e72353bed649520c98e",
+    "wof:geomhash":"41b17ffbea1c348931579cb363edd41b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773511593,
-    "wof:lastmodified":1466513566,
+    "wof:lastmodified":1510698919,
     "wof:name":"Federated Insurance Co",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",

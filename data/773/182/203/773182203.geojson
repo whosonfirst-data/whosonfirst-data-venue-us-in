@@ -2,9 +2,14 @@
   "id": 773182203,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 W Indiana Ave Hamlet IN 46532",
+    "addr:housenumber":"2",
+    "addr:postcode":"46532",
+    "addr:street":"W Indiana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.586588,41.37508,-86.586588,41.37508",
     "geom:latitude":41.37508,
     "geom:longitude":-86.586588,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501489,
+        85633793,
+        85941551,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lbLQUZYgNWf0bWiqaOCyk_41.375080_-86.586588@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462583767,
     "wof:geomhash":"3f65ad7929aba5a347703517aef7e68b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501489,
+            "locality_id":85941551,
+            "region_id":85688709,
+            "venue_id":773182203
+        }
+    ],
     "wof:id":773182203,
-    "wof:lastmodified":1466506137,
+    "wof:lastmodified":1492104792,
     "wof:name":"St Matthew Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

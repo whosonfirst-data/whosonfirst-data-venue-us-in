@@ -2,14 +2,20 @@
   "id": 773301929,
   "type": "Feature",
   "properties": {
+    "addr:full":"4512 S Adams St Marion IN 46953",
+    "addr:housenumber":"4512",
+    "addr:postcode":"46953",
+    "addr:street":"S Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.654532,40.515728,-85.654532,40.515728",
     "geom:latitude":40.515728,
     "geom:longitude":-85.654532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4512 S Adams St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4889v0NsJBlgtPJ460rni2_40.515728_-85.654532@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584699,
-    "wof:geomhash":"143f4325037b752f866fdf66ee37ea58",
+    "wof:geomhash":"c7574d174fc137eab85566ca4f052431",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773301929,
-    "wof:lastmodified":1466507372,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790385837,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 N Colfax St Griffith IN 46319",
+    "addr:housenumber":"324",
+    "addr:postcode":"46319",
+    "addr:street":"N Colfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.413215,41.527331,-87.413215,41.527331",
     "geom:latitude":41.527331,
     "geom:longitude":-87.413215,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"www.fbcgriffith.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lxKUArgtEdadZkWbIWd7v_41.527331_-87.413215@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595428,
     "wof:geomhash":"759ca4d038a5cf835cbb8530e664f5f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790385837
+        }
+    ],
     "wof:id":790385837,
-    "wof:lastmodified":1466508002,
+    "wof:lastmodified":1492094845,
     "wof:name":"First Baptist Church-Griffith",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

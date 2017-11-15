@@ -2,14 +2,20 @@
   "id": 320109511,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 S Williams Rd Frankfort IN 46041",
+    "addr:housenumber":"608",
+    "addr:postcode":"46041",
+    "addr:street":"S Williams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.501301,40.276129,-86.501301,40.276129",
     "geom:latitude":40.276129,
     "geom:longitude":-86.501301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 S Williams Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85941647,
         102087035
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aNGAcFoO7LDNNsgfMRpDr_40.276129_-86.501301@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cdec9cc2d363a2367966910743875fc",
+    "wof:geomhash":"76b684280d7471c8c76cb4e46a633417",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":320109511,
-    "wof:lastmodified":1466503708,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

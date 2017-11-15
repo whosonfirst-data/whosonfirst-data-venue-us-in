@@ -2,9 +2,14 @@
   "id": 773412131,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 W Union St Goodland IN 47948",
+    "addr:housenumber":"117",
+    "addr:postcode":"47948",
+    "addr:street":"W Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.29489,40.763283,-87.29489,40.763283",
     "geom:latitude":40.763283,
     "geom:longitude":-87.29489,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56IIOD6S3qv7VoZtrq1YFg_40.763283_-87.294890@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585504,
     "wof:geomhash":"100948525c9b1a46533c369e4067f61e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":773412131
+        }
+    ],
     "wof:id":773412131,
-    "wof:lastmodified":1466509929,
+    "wof:lastmodified":1492092077,
     "wof:name":"Goodland Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

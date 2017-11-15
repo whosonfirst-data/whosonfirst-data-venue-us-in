@@ -2,14 +2,20 @@
   "id": 303640727,
   "type": "Feature",
   "properties": {
+    "addr:full":"741 Scatterfield Rd Anderson IN 46012",
+    "addr:housenumber":"741",
+    "addr:postcode":"46012",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652945,40.108247,-85.652945,40.108247",
     "geom:latitude":40.108247,
     "geom:longitude":-85.652945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"741 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086407,
         85822089
     ],
+    "wof:brand_id":1125154109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11GcjweiMEDOvb3jG9SUoi_40.108247_-85.652945@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f45610fe146d7f1a69b395c083f8457b",
+    "wof:geomhash":"a554afac6e37d34e019dd1085db31ee2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303640727,
-    "wof:lastmodified":1466502915,
+    "wof:lastmodified":1510694939,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":85822089,
     "wof:placetype":"venue",

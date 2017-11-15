@@ -2,14 +2,20 @@
   "id": 790570979,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Lafayette Rd Indianapolis IN 46222",
+    "addr:housenumber":"2801",
+    "addr:postcode":"46222",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.219355,39.808159,-86.219355,39.808159",
     "geom:latitude":39.808159,
     "geom:longitude":-86.219355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78hhlHotCkFiRgmZjq0dEu_39.808159_-86.219355@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596968,
-    "wof:geomhash":"26dff0f708de9454932db68ba7621efe",
+    "wof:geomhash":"70d55bbb6977ccf47e436b4b2853667b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790570979,
-    "wof:lastmodified":1466514207,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85821825,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806484887,
   "type": "Feature",
   "properties": {
+    "addr:full":"4730 Broadway Gary IN 46408",
+    "addr:housenumber":"4730",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336312,41.531851,-87.336312,41.531851",
     "geom:latitude":41.531851,
     "geom:longitude":-87.336312,
@@ -27,7 +32,10 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_793d44hXxJlq4EDqAsdFBz_41.531851_-87.336312@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598505,
     "wof:geomhash":"f49403a2f18f657cbb5223db0cc1408b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806484887
+        }
+    ],
     "wof:id":806484887,
-    "wof:lastmodified":1466506000,
+    "wof:lastmodified":1492091996,
     "wof:name":"Garco Graphics",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

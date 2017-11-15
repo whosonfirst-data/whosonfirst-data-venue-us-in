@@ -2,14 +2,20 @@
   "id": 806503357,
   "type": "Feature",
   "properties": {
+    "addr:full":"8427 Coppel Ln Indianapolis IN 46259",
+    "addr:housenumber":"",
+    "addr:postcode":"8427;46259",
+    "addr:street":"Coppel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.013922,39.669528,-86.013922,39.669528",
     "geom:latitude":39.669528,
     "geom:longitude":-86.013922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8427 Coppel Ln",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DlMEz7yrDKJDEeOzyeYP8_39.669528_-86.013922@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598660,
-    "wof:geomhash":"8fbc474928618f10a6efe1d8b5988510",
+    "wof:geomhash":"653f68ea1a6434529b44c80692bd7665",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806503357,
-    "wof:lastmodified":1466506012,
+    "wof:lastmodified":1510697536,
     "wof:name":"M/I Homes",
     "wof:parent_id":85820935,
     "wof:placetype":"venue",

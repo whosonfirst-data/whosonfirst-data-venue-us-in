@@ -2,14 +2,20 @@
   "id": 773449411,
   "type": "Feature",
   "properties": {
+    "addr:full":"5111 W 62nd St Indianapolis IN 46268",
+    "addr:housenumber":"5111",
+    "addr:postcode":"46268",
+    "addr:street":"W 62Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.246804,39.867235,-86.246804,39.867235",
     "geom:latitude":39.867235,
     "geom:longitude":-86.246804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5111 W 62nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QM7dvQ53rkHBn06ebqLeg_39.867235_-86.246804@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585832,
-    "wof:geomhash":"9634a3444762f3ba6c1e69a38b44099e",
+    "wof:geomhash":"6fb10003fd65d7aa1bdc4e0113d603bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773449411,
-    "wof:lastmodified":1466512096,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",

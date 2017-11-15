@@ -2,9 +2,14 @@
   "id": 773690109,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 N County Line Rd Hobart IN 46342",
+    "addr:housenumber":"370",
+    "addr:postcode":"46342",
+    "addr:street":"N County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.220062,41.492115,-87.220062,41.492115",
     "geom:latitude":41.492115,
     "geom:longitude":-87.220062,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
-        85633793,
         85813921,
-        102087191
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"73bb28a95353842689441c63bdb35835",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087191,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85813921,
             "region_id":85688709,
             "venue_id":773690109
         }
     ],
     "wof:id":773690109,
-    "wof:lastmodified":1466517491,
+    "wof:lastmodified":1492091422,
     "wof:name":"Kraft Funeral Svc & Crematory",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

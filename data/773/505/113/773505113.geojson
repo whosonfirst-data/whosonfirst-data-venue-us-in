@@ -2,9 +2,14 @@
   "id": 773505113,
   "type": "Feature",
   "properties": {
+    "addr:full":"6133 Cleveland St Merrillville IN 46410",
+    "addr:housenumber":"6133",
+    "addr:postcode":"46410",
+    "addr:street":"Cleveland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.36059,41.506821,-87.36059,41.506821",
     "geom:latitude":41.506821,
     "geom:longitude":-87.36059,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TrV41llbPPeM9cWHZvAi8_41.506821_-87.360590@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586240,
     "wof:geomhash":"c09f0fb1be1a758b7d21e5c27a769182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773505113
+        }
+    ],
     "wof:id":773505113,
-    "wof:lastmodified":1466512878,
+    "wof:lastmodified":1492101443,
     "wof:name":"X-Pectations Spa & Salon",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

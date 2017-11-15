@@ -2,9 +2,14 @@
   "id": 773496571,
   "type": "Feature",
   "properties": {
+    "addr:full":"4835 W 45th Ave Gary IN 46408",
+    "addr:housenumber":"4835",
+    "addr:postcode":"46408",
+    "addr:street":"W 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.386226,41.53699,-87.386226,41.53699",
     "geom:latitude":41.53699,
     "geom:longitude":-87.386226,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OmKWft4aDsGQLC6pBYD1m_41.536990_-87.386226@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586183,
     "wof:geomhash":"87c63e786e860dc408793902c0659a2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773496571
+        }
+    ],
     "wof:id":773496571,
-    "wof:lastmodified":1466513320,
+    "wof:lastmodified":1492101504,
     "wof:name":"Aaron Furniture",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

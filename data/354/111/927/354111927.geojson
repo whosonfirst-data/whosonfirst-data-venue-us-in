@@ -2,14 +2,20 @@
   "id": 354111927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1650 S Washington St Crawfordsville IN 47933",
+    "addr:housenumber":"1650",
+    "addr:postcode":"47933",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.901754,40.025356,-86.901754,40.025356",
     "geom:latitude":40.025356,
     "geom:longitude":-86.901754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1650 S Washington St",
     "sg:city":"Crawfordsville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087037,
         85803019
     ],
+    "wof:brand_id":1125156155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eftmkLKZpUNfCZwPAPOeU_40.025356_-86.901754@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"14787fded889843e5ad15f84c8a8a0b5",
+    "wof:geomhash":"0235867aad72124c53e1e9873c258272",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":354111927,
-    "wof:lastmodified":1466503013,
+    "wof:lastmodified":1510696657,
     "wof:name":"Tropical Tan",
     "wof:parent_id":85803019,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773820893,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 E US Hwy 6 Valparaiso IN 46383",
+    "addr:housenumber":"3",
+    "addr:postcode":"46383",
+    "addr:street":"E Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066047,41.549999,-87.066047,41.549999",
     "geom:latitude":41.549999,
     "geom:longitude":-87.066047,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R76yCeIWWCcaUYWE3iPhN_41.549999_-87.066047@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588639,
     "wof:geomhash":"fdcc8b9135640a549810b8d52fafbd9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773820893
+        }
+    ],
     "wof:id":773820893,
-    "wof:lastmodified":1466519167,
+    "wof:lastmodified":1492101505,
     "wof:name":"Specially Ours",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

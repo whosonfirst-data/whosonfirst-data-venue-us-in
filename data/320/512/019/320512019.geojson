@@ -2,14 +2,20 @@
   "id": 320512019,
   "type": "Feature",
   "properties": {
+    "addr:full":"6709 Arizona Ave Hammond IN 46323",
+    "addr:housenumber":"6709",
+    "addr:postcode":"46323",
+    "addr:street":"Arizona Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.459156,41.590679,-87.459156,41.590679",
     "geom:latitude":41.590679,
     "geom:longitude":-87.459156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6709 Arizona Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85941817,
         85839875
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29IGcYQ5n0rK7ngvo7NhcJ_41.590679_-87.459156@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"66a9e78fe46d889df5ff3602016692ec",
+    "wof:geomhash":"ceb2c0fe5b9c18dec633227eea14a238",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":320512019,
-    "wof:lastmodified":1466503189,
+    "wof:lastmodified":1510613358,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

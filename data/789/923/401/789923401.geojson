@@ -2,9 +2,14 @@
   "id": 789923401,
   "type": "Feature",
   "properties": {
+    "addr:full":"9519 S 50 E Brook IN 47922",
+    "addr:housenumber":"9519;50",
+    "addr:postcode":"47922",
+    "addr:street":"S;E Brook",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.381976,40.858346,-87.381976,40.858346",
     "geom:latitude":40.858346,
     "geom:longitude":-87.381976,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hmK6vNtPBRzgTIidOlHe0_40.858346_-87.381976@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462591652,
     "wof:geomhash":"8d930bad8c413e2579c25c92f17c7835",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "region_id":85688709,
+            "venue_id":789923401
+        }
+    ],
     "wof:id":789923401,
-    "wof:lastmodified":1466507762,
+    "wof:lastmodified":1492105022,
     "wof:name":"Jerry Curts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

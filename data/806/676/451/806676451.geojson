@@ -2,14 +2,20 @@
   "id": 806676451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 E Pugh Dr Terre Haute IN 47802",
+    "addr:housenumber":"1400",
+    "addr:postcode":"47802",
+    "addr:street":"E Pugh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.398075,39.432304,-87.398075,39.432304",
     "geom:latitude":39.432304,
     "geom:longitude":-87.398075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 E Pugh Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125151133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gIcySiCOoJmyefAhtyplV_39.432304_-87.398075@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600139,
-    "wof:geomhash":"52b280402b2217f76e7fe50b4bcea093",
+    "wof:geomhash":"89881c58b4ea0af9535c69e8bedf9836",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806676451,
-    "wof:lastmodified":1466510243,
+    "wof:lastmodified":1510711274,
     "wof:name":"Assist 2 Sell",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806480747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"1303",
+    "addr:postcode":"46383",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.054088,41.480437,-87.054088,41.480437",
     "geom:latitude":41.480437,
     "geom:longitude":-87.054088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 Calumet Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125156245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VBZ0e5glvhuFSZUEpyOrO_41.480437_-87.054088@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598474,
-    "wof:geomhash":"26662456989dddb6dd24706032652cc8",
+    "wof:geomhash":"5656f3beca9b4f9b93ad2d62f329198f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806480747,
-    "wof:lastmodified":1466505672,
+    "wof:lastmodified":1510695194,
     "wof:name":"Great Frame Up",
     "wof:parent_id":420519839,
     "wof:placetype":"venue",

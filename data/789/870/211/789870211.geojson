@@ -2,9 +2,14 @@
   "id": 789870211,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 S State Rd 2 Valparaiso IN 46385",
+    "addr:housenumber":"116",
+    "addr:postcode":"46385",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.12465,41.419836,-87.12465,41.419836",
     "geom:latitude":41.419836,
     "geom:longitude":-87.12465,
@@ -28,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cW7wp9elloJ7qd38UoGLO_41.419836_-87.124650@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462591190,
     "wof:geomhash":"eac9eeac90dd4644a61d87cea66ee715",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":789870211
+        }
+    ],
     "wof:id":789870211,
-    "wof:lastmodified":1466507124,
+    "wof:lastmodified":1492094832,
     "wof:name":"D & G Heavy Haul",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

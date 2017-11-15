@@ -2,9 +2,14 @@
   "id": 773760273,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Oakwood Ave Valparaiso IN 46383",
+    "addr:housenumber":"2504",
+    "addr:postcode":"46383",
+    "addr:street":"Oakwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.029043,41.505125,-87.029043,41.505125",
     "geom:latitude":41.505125,
     "geom:longitude":-87.029043,
@@ -27,7 +32,15 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519853,
+        102191575,
+        404501707,
+        85633793,
+        85942401,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OBjlUAlAv4ZwFdViIhxw7_41.505125_-87.029043@1294102998"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462588173,
     "wof:geomhash":"5b0835346316a42e2dba8c003d27d987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501707,
+            "locality_id":85942401,
+            "neighbourhood_id":420519853,
+            "region_id":85688709,
+            "venue_id":773760273
+        }
+    ],
     "wof:id":773760273,
-    "wof:lastmodified":1466518214,
+    "wof:lastmodified":1492102373,
     "wof:name":"It S Greek To ME",
     "wof:parent_id":420519853,
     "wof:placetype":"venue",

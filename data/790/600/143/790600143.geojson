@@ -2,14 +2,20 @@
   "id": 790600143,
   "type": "Feature",
   "properties": {
+    "addr:full":"16751 Clover Rd Noblesville IN 46060",
+    "addr:housenumber":"16751",
+    "addr:postcode":"46060",
+    "addr:street":"Clover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.997962,40.036949,-85.997962,40.036949",
     "geom:latitude":40.036949,
     "geom:longitude":-85.997962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16751 Clover Rd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zPZJOF9tB56Qm2IMxOGE4_40.036949_-85.997962@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597227,
-    "wof:geomhash":"cc81ae986e91a1c0abd9ce3141fee0e2",
+    "wof:geomhash":"a25329c8e461dd2db71a0aab71f6bc10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790600143,
-    "wof:lastmodified":1466514892,
+    "wof:lastmodified":1510603989,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":420519625,
     "wof:placetype":"venue",

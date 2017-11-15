@@ -2,9 +2,14 @@
   "id": 387044113,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 High St Wheatfield IN 46392",
+    "addr:housenumber":"71",
+    "addr:postcode":"46392",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.058758,41.191796,-87.058758,41.191796",
     "geom:latitude":41.191796,
     "geom:longitude":-87.058758,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501009,
         85633793,
         85941491,
         102087005
@@ -41,17 +48,17 @@
     "wof:geomhash":"71cf801a895708eb925e3c9c9065d0cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087005,
+            "localadmin_id":404501009,
             "locality_id":85941491,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":387044113
         }
     ],
     "wof:id":387044113,
-    "wof:lastmodified":1466502944,
+    "wof:lastmodified":1492095698,
     "wof:name":"Stower & Son Meat & Grocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

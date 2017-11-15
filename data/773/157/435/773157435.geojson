@@ -2,9 +2,14 @@
   "id": 773157435,
   "type": "Feature",
   "properties": {
+    "addr:full":"832 Crown Ct Crown Point IN 46307",
+    "addr:housenumber":"832",
+    "addr:postcode":"46307",
+    "addr:street":"Crown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.352725,41.431275,-87.352725,41.431275",
     "geom:latitude":41.431275,
     "geom:longitude":-87.352725,
@@ -28,7 +33,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VieReq4Edmh6FVXKvfyAz_41.431275_-87.352725@1294102998"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462583573,
     "wof:geomhash":"da2b4ace3d0c4fb8bba25d93a6fbfb3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":773157435
+        }
+    ],
     "wof:id":773157435,
-    "wof:lastmodified":1466505886,
+    "wof:lastmodified":1492092005,
     "wof:name":"RAH Assoc",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

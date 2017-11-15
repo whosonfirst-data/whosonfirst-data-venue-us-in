@@ -2,9 +2,14 @@
   "id": 806717321,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 E State Rd 8 Kouts IN 46347",
+    "addr:housenumber":"26",
+    "addr:postcode":"46347",
+    "addr:street":"E State Rd 8",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.061875,41.318467,-87.061875,41.318467",
     "geom:latitude":41.318467,
     "geom:longitude":-87.061875,
@@ -30,7 +35,13 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uTJDNhIOVUqCFfb1mJtua_41.318467_-87.061875@1294102998"
@@ -38,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1462600479,
     "wof:geomhash":"23ee72a4e7be1585d0101aa129017736",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":806717321
+        }
+    ],
     "wof:id":806717321,
-    "wof:lastmodified":1466511590,
+    "wof:lastmodified":1492089213,
     "wof:name":"Music Wholesalers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

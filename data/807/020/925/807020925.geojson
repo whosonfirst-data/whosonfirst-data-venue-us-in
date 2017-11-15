@@ -2,9 +2,14 @@
   "id": 807020925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Sheffield Ave Dyer IN 46311",
+    "addr:housenumber":"1150",
+    "addr:postcode":"46311",
+    "addr:street":"Sheffield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.518777,41.507412,-87.518777,41.507412",
     "geom:latitude":41.507412,
     "geom:longitude":-87.518777,
@@ -45,7 +50,14 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-043290.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62US0HE38EtFBNU3QKBXPK_41.507412_-87.518777@1303262769"
@@ -53,9 +65,19 @@
     "wof:country":"US",
     "wof:created":1462603046,
     "wof:geomhash":"7e3eb255607a3e8ba0a0f8a1885c40f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":807020925
+        }
+    ],
     "wof:id":807020925,
-    "wof:lastmodified":1466504103,
+    "wof:lastmodified":1492091425,
     "wof:name":"Gus Bock's Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

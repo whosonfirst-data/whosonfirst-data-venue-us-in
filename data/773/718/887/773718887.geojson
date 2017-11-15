@@ -2,14 +2,20 @@
   "id": 773718887,
   "type": "Feature",
   "properties": {
+    "addr:full":"3486 Stellhorn Rd Fort Wayne IN 46815",
+    "addr:housenumber":"3486",
+    "addr:postcode":"46815",
+    "addr:street":"Stellhorn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.098099,41.119175,-85.098099,41.119175",
     "geom:latitude":41.119175,
     "geom:longitude":-85.098099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3486 Stellhorn Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pOKct7Bl9VRfy3CkLVNuu_41.119175_-85.098099@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587863,
-    "wof:geomhash":"3f883bf2c8d8bc3cb88e7199f11ac045",
+    "wof:geomhash":"556e85c71615fd53032d185bada18a69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773718887,
-    "wof:lastmodified":1466517949,
+    "wof:lastmodified":1510697050,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":420519405,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806478463,
   "type": "Feature",
   "properties": {
+    "addr:full":"58485 Co Rd 13 Elkhart IN 46516",
+    "addr:housenumber":"58485;13",
+    "addr:postcode":"46516",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806478463,
-    "wof:lastmodified":1466505646,
+    "wof:lastmodified":1472622458,
     "wof:name":"Dunlap Branch Elkhart Library",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

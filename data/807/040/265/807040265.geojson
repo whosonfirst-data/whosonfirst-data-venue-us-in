@@ -2,9 +2,14 @@
   "id": 807040265,
   "type": "Feature",
   "properties": {
+    "addr:full":"7107 Meadow Lane Ave Hammond IN 46324",
+    "addr:housenumber":"7107",
+    "addr:postcode":"46324",
+    "addr:street":"Meadow Lane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.520285,41.584259,-87.520285,41.584259",
     "geom:latitude":41.584259,
     "geom:longitude":-87.520285,
@@ -27,7 +32,14 @@
         "dvd's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HgYkdnqm7v1UpNgTou381_41.584259_-87.520285@1303262770"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603206,
     "wof:geomhash":"1341ff6251a934c77e35398714897cff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807040265
+        }
+    ],
     "wof:id":807040265,
-    "wof:lastmodified":1466503828,
+    "wof:lastmodified":1492093663,
     "wof:name":"Dj's Nook Inc the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

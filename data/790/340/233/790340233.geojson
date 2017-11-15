@@ -2,9 +2,14 @@
   "id": 790340233,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 Laurel Ln Valparaiso IN 46385",
+    "addr:housenumber":"426",
+    "addr:postcode":"46385",
+    "addr:street":"Laurel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.143285,41.424977,-87.143285,41.424977",
     "geom:latitude":41.424977,
     "geom:longitude":-87.143285,
@@ -27,7 +32,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FBUDDrEbzX3YsBUOFSAST_41.424977_-87.143285@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595061,
     "wof:geomhash":"9269c752171def4dc54e574d1b5e7e1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790340233
+        }
+    ],
     "wof:id":790340233,
-    "wof:lastmodified":1466507239,
+    "wof:lastmodified":1492091694,
     "wof:name":"Digital Interiors LLC",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 303416677,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 State Rd 42 Mooresville IN 46158",
+    "addr:housenumber":"25;42",
+    "addr:postcode":"46158",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303416677,
-    "wof:lastmodified":1466503669,
+    "wof:lastmodified":1472622434,
     "wof:name":"State of Indiana New Zeal",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",

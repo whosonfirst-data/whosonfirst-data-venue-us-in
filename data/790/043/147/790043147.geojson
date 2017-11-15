@@ -2,14 +2,20 @@
   "id": 790043147,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 N 2nd St Lafayette IN 47901",
+    "addr:housenumber":"200",
+    "addr:postcode":"47901",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.895485,40.42001,-86.895485,40.42001",
     "geom:latitude":40.42001,
     "geom:longitude":-86.895485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 N 2nd St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125155497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zfmOwizMpRtdmFRb5WRv0_40.420010_-86.895485@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592666,
-    "wof:geomhash":"eb98cdcb1c9c726671a589a46aa91606",
+    "wof:geomhash":"19b01f18bab2bb4357ae5a03d97ef9cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790043147,
-    "wof:lastmodified":1466504330,
+    "wof:lastmodified":1510694922,
     "wof:name":"Greyhound Package Express",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

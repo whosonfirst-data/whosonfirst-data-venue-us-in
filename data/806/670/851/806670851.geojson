@@ -2,6 +2,10 @@
   "id": 806670851,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Gentry St Bloomington IN 47404",
+    "addr:housenumber":"123",
+    "addr:postcode":"47404",
+    "addr:street":"S Gentry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806670851,
-    "wof:lastmodified":1466509676,
+    "wof:lastmodified":1472622774,
     "wof:name":"Peterson's Restaurant",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 354325499,
   "type": "Feature",
   "properties": {
+    "addr:full":"4381 W 300 N Wabash IN 46992",
+    "addr:housenumber":"4381",
+    "addr:postcode":"46992",
+    "addr:street":"W 300 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.876049,40.868004,-85.876049,40.868004",
     "geom:latitude":40.868004,
     "geom:longitude":-85.876049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4381 W 300 N",
     "sg:city":"Wabash",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688709
     ],
+    "wof:brand_id":1125151081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PnbyZ4gJUSk3LZ09Ndw4M_40.868004_-85.876049@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ff64a3ff02345e13420be91ba722d52",
+    "wof:geomhash":"c572e2fd5b4ea3ddfd14d1e6bf47bb82",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":354325499,
-    "wof:lastmodified":1466503330,
+    "wof:lastmodified":1510695433,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

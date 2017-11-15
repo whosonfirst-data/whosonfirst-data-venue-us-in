@@ -2,9 +2,14 @@
   "id": 773515405,
   "type": "Feature",
   "properties": {
+    "addr:full":"4608 Thornbury Dr E Valparaiso IN 46383",
+    "addr:housenumber":"4608",
+    "addr:postcode":"46383",
+    "addr:street":"Thornbury Dr E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.047685,41.510323,-87.047685,41.510323",
     "geom:latitude":41.510323,
     "geom:longitude":-87.047685,
@@ -27,7 +32,10 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vJLe6PC5lsVmWe8D6lhZD_41.510323_-87.047685@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586314,
     "wof:geomhash":"dc14721625b1edaeaebe14b9c6735614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773515405
+        }
+    ],
     "wof:id":773515405,
-    "wof:lastmodified":1466513435,
+    "wof:lastmodified":1492095368,
     "wof:name":"Simic Realty Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

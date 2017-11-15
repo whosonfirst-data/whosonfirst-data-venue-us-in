@@ -2,14 +2,20 @@
   "id": 789903233,
   "type": "Feature",
   "properties": {
+    "addr:full":"5425 Distribution Dr Fort Wayne IN 46825",
+    "addr:housenumber":"5425",
+    "addr:postcode":"46825",
+    "addr:street":"Distribution Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.15437,41.12762,-85.15437,41.12762",
     "geom:latitude":41.12762,
     "geom:longitude":-85.15437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5425 Distribution Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CnXoLDKdSBgM9yt0eve1y_41.127620_-85.154370@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591471,
-    "wof:geomhash":"05397d23c542059b38e60e690f700e41",
+    "wof:geomhash":"ca5007c4814f87810421f9e12531d2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789903233,
-    "wof:lastmodified":1466507636,
+    "wof:lastmodified":1510697574,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

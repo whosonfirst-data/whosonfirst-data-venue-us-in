@@ -2,14 +2,20 @@
   "id": 806501557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 Sagamore Pkwy N Lafayette IN 47904",
+    "addr:housenumber":"2130",
+    "addr:postcode":"47904",
+    "addr:street":"Sagamore Pkwy N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.860108,40.438958,-86.860108,40.438958",
     "geom:latitude":40.438958,
     "geom:longitude":-86.860108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2130 Sagamore Pkwy N",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125151133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67gKWroYUDapvjg5uTRBw6_40.438958_-86.860108@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598640,
-    "wof:geomhash":"c2eb808d57ffc75017d84f0de2f092ff",
+    "wof:geomhash":"a2bbbcf651398142400cfafaebc303b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806501557,
-    "wof:lastmodified":1466506076,
+    "wof:lastmodified":1510697548,
     "wof:name":"Assist 2 Sell",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

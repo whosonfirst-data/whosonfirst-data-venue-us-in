@@ -2,14 +2,20 @@
   "id": 806806941,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 W Washington St Indianapolis IN 46204",
+    "addr:housenumber":"24",
+    "addr:postcode":"46204",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158983,39.767427,-86.158983,39.767427",
     "geom:latitude":39.767427,
     "geom:longitude":-86.158983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O0FnU8aKd0nYClgw06xoj_39.767427_-86.158983@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601241,
-    "wof:geomhash":"94f25678bc6a228fc43cf962cdefab55",
+    "wof:geomhash":"7b1ca21ad6e13b53fe852cef25dbd7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806806941,
-    "wof:lastmodified":1466515058,
+    "wof:lastmodified":1510697658,
     "wof:name":"Penn Station",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

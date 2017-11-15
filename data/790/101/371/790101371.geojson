@@ -2,14 +2,20 @@
   "id": 790101371,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 E 46th St Indianapolis IN 46205",
+    "addr:housenumber":"2902",
+    "addr:postcode":"46205",
+    "addr:street":"E 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.116053,39.840318,-86.116053,39.840318",
     "geom:latitude":39.840318,
     "geom:longitude":-86.116053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2902 E 46th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64p7DsbpcL8SFp1MFo8RDo_39.840318_-86.116053@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593141,
-    "wof:geomhash":"789ffae048c039cb4f8dcd601619028a",
+    "wof:geomhash":"e43ce1c113926e65732fe7c11baa7dff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790101371,
-    "wof:lastmodified":1466504694,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

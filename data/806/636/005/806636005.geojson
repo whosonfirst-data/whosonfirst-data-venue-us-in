@@ -2,14 +2,20 @@
   "id": 806636005,
   "type": "Feature",
   "properties": {
+    "addr:full":"6582 US Hwy 12 Portage IN 46368",
+    "addr:housenumber":"6582",
+    "addr:postcode":"46368",
+    "addr:street":"Us Hwy 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.167478,41.619144,-87.167478,41.619144",
     "geom:latitude":41.619144,
     "geom:longitude":-87.167478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6582 US Hwy 12",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125151511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P2j8blH7WY2w7PuGyB5Le_41.619144_-87.167478@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599783,
-    "wof:geomhash":"9d27e86cf303d941400ed9350206d6a7",
+    "wof:geomhash":"150496148be816bd91d4eac1e3b47f57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806636005,
-    "wof:lastmodified":1466508180,
+    "wof:lastmodified":1510694725,
     "wof:name":"Norfolk Southern Railway Co",
     "wof:parent_id":85858079,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790342377,
   "type": "Feature",
   "properties": {
+    "addr:full":"3195 Broadway Gary IN 46409",
+    "addr:housenumber":"3195",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336563,41.559665,-87.336563,41.559665",
     "geom:latitude":41.559665,
     "geom:longitude":-87.336563,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ftwktSwEIkWgSnVolxhoY_41.559665_-87.336563@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595079,
     "wof:geomhash":"84e33da489f2b1fe523e405ebceae49d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790342377
+        }
+    ],
     "wof:id":790342377,
-    "wof:lastmodified":1466507276,
+    "wof:lastmodified":1492092140,
     "wof:name":"Broadway Medical Corp",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

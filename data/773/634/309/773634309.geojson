@@ -2,14 +2,20 @@
   "id": 773634309,
   "type": "Feature",
   "properties": {
+    "addr:full":"4807 S Western Ave Marion IN 46953",
+    "addr:housenumber":"4807",
+    "addr:postcode":"46953",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.672959,40.510627,-85.672959,40.510627",
     "geom:latitude":40.510627,
     "geom:longitude":-85.672959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4807 S Western Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125153687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Avkn844QG0w4Czj2YxYix_40.510627_-85.672959@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587204,
-    "wof:geomhash":"39907e35825c0498be68d9ca205be4e0",
+    "wof:geomhash":"124a6882dce72bd54846a15435693334",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773634309,
-    "wof:lastmodified":1466517184,
+    "wof:lastmodified":1510698886,
     "wof:name":"Dunham's Sports",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

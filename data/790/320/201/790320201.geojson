@@ -2,14 +2,20 @@
   "id": 790320201,
   "type": "Feature",
   "properties": {
+    "addr:full":"6070 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"6070",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.064387,39.905346,-86.064387,39.905346",
     "geom:latitude":39.905346,
     "geom:longitude":-86.064387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6070 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dy2dqUUmkQ3ZHO2BkbCU7_39.905346_-86.064387@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594917,
-    "wof:geomhash":"346ba1fe1fbbfa731395159103c6c361",
+    "wof:geomhash":"aa453651485f20f652c07b63a145e0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790320201,
-    "wof:lastmodified":1466507137,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

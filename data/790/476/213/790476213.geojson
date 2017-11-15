@@ -2,14 +2,20 @@
   "id": 790476213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3882 Lafayette Rd Indianapolis IN 46254",
+    "addr:housenumber":"3882",
+    "addr:postcode":"46254",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.239655,39.828472,-86.239655,39.828472",
     "geom:latitude":39.828472,
     "geom:longitude":-86.239655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3882 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71FT49lgKIfOy2YjyzhDTK_39.828472_-86.239655@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596160,
-    "wof:geomhash":"e82fd31eb5b8a7ef37712bc53d4e8d6c",
+    "wof:geomhash":"787dfcc14ee8e0564c686f97bfb8fbae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790476213,
-    "wof:lastmodified":1466510741,
+    "wof:lastmodified":1510693214,
     "wof:name":"Head Quarters",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

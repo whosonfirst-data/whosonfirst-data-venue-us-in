@@ -2,14 +2,20 @@
   "id": 806906407,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 E Michigan St Indianapolis IN 46204",
+    "addr:housenumber":"234",
+    "addr:postcode":"46204",
+    "addr:street":"E Michigan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.153267,39.773998,-86.153267,39.773998",
     "geom:latitude":39.773998,
     "geom:longitude":-86.153267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"234 E Michigan St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SGZIKmjPD0JP8250FdhE2_39.773998_-86.153267@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602064,
-    "wof:geomhash":"6382ca06e6915d25c95a30566200e80b",
+    "wof:geomhash":"2a0874fdbf73ef31fabd82a360e26aba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":806906407,
-    "wof:lastmodified":1466517394,
+    "wof:lastmodified":1510697605,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":85891147,
     "wof:placetype":"venue",

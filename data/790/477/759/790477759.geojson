@@ -2,14 +2,20 @@
   "id": 790477759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4260 State Rd 26 E Lafayette IN 47905",
+    "addr:housenumber":"4260;26 e",
+    "addr:postcode":"47905",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825936,40.417744,-86.825936,40.417744",
     "geom:latitude":40.417744,
     "geom:longitude":-86.825936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4260 State Rd 26 E",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":420574613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kfm9WusoklRwSplQbgnS9_40.417744_-86.825936@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596173,
-    "wof:geomhash":"25742f58371ef1f2ff2906c36c013585",
+    "wof:geomhash":"e8530ed9a14acb9d366cd54f1f1f3f70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790477759,
-    "wof:lastmodified":1466511765,
+    "wof:lastmodified":1510604102,
     "wof:name":"Denny's",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

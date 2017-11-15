@@ -2,14 +2,20 @@
   "id": 790483313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 E Pontiac St Fort Wayne IN 46803",
+    "addr:housenumber":"1130",
+    "addr:postcode":"46803",
+    "addr:street":"E Pontiac St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.121691,41.060591,-85.121691,41.060591",
     "geom:latitude":41.060591,
     "geom:longitude":-85.121691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1130 E Pontiac St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125155755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ovm66UjpVfGzC7LEa0aFW_41.060591_-85.121691@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596219,
-    "wof:geomhash":"8e2e67a09579f85aa9ece6cef8175b70",
+    "wof:geomhash":"6bad030bfcc0ad6c3db3280fa06fd278",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790483313,
-    "wof:lastmodified":1466511574,
+    "wof:lastmodified":1510613240,
     "wof:name":"Gingerbread House",
     "wof:parent_id":85877553,
     "wof:placetype":"venue",

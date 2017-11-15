@@ -2,14 +2,20 @@
   "id": 773121457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1238 US Hwy 31 N Greenwood IN 46142",
+    "addr:housenumber":"1238",
+    "addr:postcode":"46142",
+    "addr:street":"Us Hwy 31 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.126044,39.634335,-86.126044,39.634335",
     "geom:latitude":39.634335,
     "geom:longitude":-86.126044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1238 US Hwy 31 N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BmDFyv1MUZ9ENAyAJ4eJ4_39.634335_-86.126044@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583305,
-    "wof:geomhash":"aee3e21fbabf7aaf4a8ddf07ff9c2c56",
+    "wof:geomhash":"27772c2383a4cc299ba606861d8eb840",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773121457,
-    "wof:lastmodified":1466505473,
+    "wof:lastmodified":1510696025,
     "wof:name":"David's Bridal",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

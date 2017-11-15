@@ -2,9 +2,14 @@
   "id": 773627601,
   "type": "Feature",
   "properties": {
+    "addr:full":"8995 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"8995;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.733682,41.730887,-86.733682,41.730887",
     "geom:latitude":41.730887,
     "geom:longitude":-86.733682,
@@ -28,7 +33,13 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ij6UOqgJdqdt2AwaU66NB_41.730887_-86.733682@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462587152,
     "wof:geomhash":"49cbc482943e3b08a4f13b64d2b9e591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":773627601
+        }
+    ],
     "wof:id":773627601,
-    "wof:lastmodified":1466516833,
+    "wof:lastmodified":1492091853,
     "wof:name":"Commonwealth Business College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

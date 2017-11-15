@@ -2,14 +2,20 @@
   "id": 790145167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 E Tillman Rd Fort Wayne IN 46816",
+    "addr:housenumber":"1020",
+    "addr:postcode":"46816",
+    "addr:street":"E Tillman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.121459,41.017095,-85.121459,41.017095",
     "geom:latitude":41.017095,
     "geom:longitude":-85.121459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 E Tillman Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bdDKvWDwyhvEhjzlOZTu9_41.017095_-85.121459@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593467,
-    "wof:geomhash":"b2b22cb8876b66a27f2c60938df74822",
+    "wof:geomhash":"3f8a7180758e58125231f4f4a6e11b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790145167,
-    "wof:lastmodified":1466505371,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":420519409,
     "wof:placetype":"venue",

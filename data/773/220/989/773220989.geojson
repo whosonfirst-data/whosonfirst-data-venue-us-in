@@ -2,9 +2,14 @@
   "id": 773220989,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Marble St Hammond IN 46327",
+    "addr:housenumber":"24",
+    "addr:postcode":"46327",
+    "addr:street":"Marble St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.51865,41.629164,-87.51865,41.629164",
     "geom:latitude":41.629164,
     "geom:longitude":-87.51865,
@@ -28,7 +33,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HxCxmzZJQY9hOS1MRllae_41.629164_-87.518650@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462584080,
     "wof:geomhash":"86e293dde6fc063875d5b4b3c8ea098c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":773220989
+        }
+    ],
     "wof:id":773220989,
-    "wof:lastmodified":1466506498,
+    "wof:lastmodified":1492099064,
     "wof:name":"Calumet Flexicore Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

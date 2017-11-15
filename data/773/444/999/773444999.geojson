@@ -2,14 +2,20 @@
   "id": 773444999,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 Spruce St Terre Haute IN 47807",
+    "addr:housenumber":"2240",
+    "addr:postcode":"47807",
+    "addr:street":"Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.383413,39.47399,-87.383413,39.47399",
     "geom:latitude":39.47399,
     "geom:longitude":-87.383413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2240 Spruce St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":420575845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iUNKff6KmWedeVc2sZTnT_39.473990_-87.383413@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585801,
-    "wof:geomhash":"deac70472f804c914a2e6bf5aa9c03d9",
+    "wof:geomhash":"3b224fe513bf0e8ffc9cc0c2de7b3f54",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773444999,
-    "wof:lastmodified":1466511163,
+    "wof:lastmodified":1510601926,
     "wof:name":"Baha'i Faith",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

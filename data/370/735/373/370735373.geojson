@@ -2,6 +2,10 @@
   "id": 370735373,
   "type": "Feature",
   "properties": {
+    "addr:full":"69678 State Rd 13 Millersburg IN 46543",
+    "addr:housenumber":"69678;13",
+    "addr:postcode":"46543",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370735373,
-    "wof:lastmodified":1466503524,
+    "wof:lastmodified":1472622501,
     "wof:name":"Moser Farm Market",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

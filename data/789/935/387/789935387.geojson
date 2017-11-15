@@ -2,9 +2,14 @@
   "id": 789935387,
   "type": "Feature",
   "properties": {
+    "addr:full":"4187 Jefferson St Gary IN 46408",
+    "addr:housenumber":"4187",
+    "addr:postcode":"46408",
+    "addr:street":"Jefferson St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.339925,41.543816,-87.339925,41.543816",
     "geom:latitude":41.543816,
     "geom:longitude":-87.339925,
@@ -27,7 +32,10 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WV4qRFK8zWjvWtGbWkUoX_41.543816_-87.339925@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591754,
     "wof:geomhash":"bbed09d1dacdde97d366501752f5997e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789935387
+        }
+    ],
     "wof:id":789935387,
-    "wof:lastmodified":1466507874,
+    "wof:lastmodified":1492103216,
     "wof:name":"New Sound Production & Photo",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

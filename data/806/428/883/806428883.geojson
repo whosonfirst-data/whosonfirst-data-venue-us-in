@@ -2,14 +2,20 @@
   "id": 806428883,
   "type": "Feature",
   "properties": {
+    "addr:full":"8555 River Rd Indianapolis IN 46240",
+    "addr:housenumber":"8555",
+    "addr:postcode":"46240",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.103156,39.913312,-86.103156,39.913312",
     "geom:latitude":39.913312,
     "geom:longitude":-86.103156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8555 River Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ixx0cciU30tcSKZBPKFn6_39.913312_-86.103156@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598069,
-    "wof:geomhash":"ff2ef925a5dfe9b2bf0b6b4642d4cd2e",
+    "wof:geomhash":"6225203fff990b317cb2938dfb089576",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806428883,
-    "wof:lastmodified":1466505169,
+    "wof:lastmodified":1510613386,
     "wof:name":"Full Spectrum Lending",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

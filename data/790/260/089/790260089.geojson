@@ -2,9 +2,14 @@
   "id": 790260089,
   "type": "Feature",
   "properties": {
+    "addr:full":"6145 N 1100 W Earl Park IN 47942",
+    "addr:housenumber":"6145",
+    "addr:postcode":"47942",
+    "addr:street":"N 1100 W Earl Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.52612,40.70343,-87.52612,40.70343",
     "geom:latitude":40.70343,
     "geom:longitude":-87.52612,
@@ -28,7 +33,13 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501071,
+        85633793,
+        102087193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZAW7EtatrWkpgHEf1ihKP_40.703430_-87.526120@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462594421,
     "wof:geomhash":"8ea55a5037809bec809974685a701819",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087193,
+            "localadmin_id":404501071,
+            "region_id":85688709,
+            "venue_id":790260089
+        }
+    ],
     "wof:id":790260089,
-    "wof:lastmodified":1466506675,
+    "wof:lastmodified":1492091562,
     "wof:name":"Joe Mc Ewan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

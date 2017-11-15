@@ -2,14 +2,20 @@
   "id": 789667685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1521 17th St Columbus IN 47201",
+    "addr:housenumber":"1521",
+    "addr:postcode":"47201",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.907935,39.21572,-85.907935,39.21572",
     "geom:latitude":39.21572,
     "geom:longitude":-85.907935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1521 17th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125152329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ilf7uqHPqbFxvLURGRHSR_39.215720_-85.907935@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589612,
-    "wof:geomhash":"ed66fe6050f5e60015dd88176030d514",
+    "wof:geomhash":"aee07a02af885fdf8c12fb574112f2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789667685,
-    "wof:lastmodified":1466504915,
+    "wof:lastmodified":1510604950,
     "wof:name":"Bob's Barber Shop",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

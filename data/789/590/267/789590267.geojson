@@ -2,14 +2,20 @@
   "id": 789590267,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 E Jackson Blvd Elkhart IN 46516",
+    "addr:housenumber":"310",
+    "addr:postcode":"46516",
+    "addr:street":"E Jackson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.969076,41.688676,-85.969076,41.688676",
     "geom:latitude":41.688676,
     "geom:longitude":-85.969076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 E Jackson Blvd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lfiLRa0tuKUCCjsHYsMcc_41.688676_-85.969076@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588988,
-    "wof:geomhash":"6b18ff68bfd20176c5453172f60d1e70",
+    "wof:geomhash":"5c7ffa2951e54a19324f97aacef32a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789590267,
-    "wof:lastmodified":1466503506,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

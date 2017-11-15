@@ -2,9 +2,14 @@
   "id": 790182397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1650 N McKinley Ave Rensselaer IN 47978",
+    "addr:housenumber":"1650",
+    "addr:postcode":"47978",
+    "addr:street":"N Mckinley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.151458,40.95134,-87.151458,40.95134",
     "geom:latitude":40.95134,
     "geom:longitude":-87.151458,
@@ -28,7 +33,14 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Sbn3i3LviXL6Nu878tNw8_40.951340_-87.151458@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462593792,
     "wof:geomhash":"d89c7d8ca06da29666bbf8cf3ccb519b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790182397
+        }
+    ],
     "wof:id":790182397,
-    "wof:lastmodified":1466505802,
+    "wof:lastmodified":1492104028,
     "wof:name":"Big A Auto Parts Of Rensselaer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

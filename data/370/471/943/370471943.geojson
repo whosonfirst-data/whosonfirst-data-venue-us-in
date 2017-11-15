@@ -2,14 +2,20 @@
   "id": 370471943,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 S Pete Ellis Dr Bloomington IN 47408",
+    "addr:housenumber":"233",
+    "addr:postcode":"47408",
+    "addr:street":"S Pete Ellis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.494843,39.166008,-86.494843,39.166008",
     "geom:latitude":39.166008,
     "geom:longitude":-86.494843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"233 S Pete Ellis Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086351,
         85826197
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1taZqe2isS6WjZjtuhj3Ka_39.166008_-86.494843@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d0d3c73ed4e7a4d9dcaf72f5ea4d863",
+    "wof:geomhash":"c0bc83df302e35a2ea9f85791b4bdb0e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":370471943,
-    "wof:lastmodified":1466503246,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

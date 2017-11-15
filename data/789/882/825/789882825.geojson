@@ -2,6 +2,10 @@
   "id": 789882825,
   "type": "Feature",
   "properties": {
+    "addr:full":"17160 Co Rd 56 Syracuse IN 46567",
+    "addr:housenumber":"17160;56",
+    "addr:postcode":"46567",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789882825,
-    "wof:lastmodified":1466507363,
+    "wof:lastmodified":1472622726,
     "wof:name":"Hagan Plumbing",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

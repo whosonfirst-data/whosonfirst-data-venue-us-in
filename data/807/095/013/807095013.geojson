@@ -2,9 +2,14 @@
   "id": 807095013,
   "type": "Feature",
   "properties": {
+    "addr:full":"3623 E State Road 16 Brook IN 47922",
+    "addr:housenumber":"3623",
+    "addr:postcode":"47922",
+    "addr:street":"E State Road 16 Brook",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.322799,40.864561,-87.322799,40.864561",
     "geom:latitude":40.864561,
     "geom:longitude":-87.322799,
@@ -42,7 +47,13 @@
     ],
     "sg:website":"http://www.georgeade.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X8O5wuM8iGhZLzTq8z9Ub_40.864561_-87.322799@1303262773"
@@ -50,9 +61,18 @@
     "wof:country":"US",
     "wof:created":1462603664,
     "wof:geomhash":"6f7390049bcf2f405eb96b6a17db2be3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "region_id":85688709,
+            "venue_id":807095013
+        }
+    ],
     "wof:id":807095013,
-    "wof:lastmodified":1466505039,
+    "wof:lastmodified":1492103022,
     "wof:name":"George Ade Memorial Health Care Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

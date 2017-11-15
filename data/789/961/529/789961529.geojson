@@ -2,6 +2,10 @@
   "id": 789961529,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 S 200 W Lebanon IN 46052",
+    "addr:housenumber":"525;200",
+    "addr:postcode":"46052",
+    "addr:street":"S;W Lebanon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789961529,
-    "wof:lastmodified":1466509104,
+    "wof:lastmodified":1472622819,
     "wof:name":"Terrill Farms Inc",
     "wof:parent_id":85817903,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773791589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 Broadway Gary IN 46407",
+    "addr:housenumber":"1227",
+    "addr:postcode":"46407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336998,41.590283,-87.336998,41.590283",
     "geom:latitude":41.590283,
     "geom:longitude":-87.336998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1227 Broadway",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ahzc6Eef54ewySyTo8wQB_41.590283_-87.336998@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588400,
-    "wof:geomhash":"d236e4b96997920920fe3681d72b20a1",
+    "wof:geomhash":"851e20fd99d2e9d04e5bdbd1799cabe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773791589,
-    "wof:lastmodified":1466518826,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

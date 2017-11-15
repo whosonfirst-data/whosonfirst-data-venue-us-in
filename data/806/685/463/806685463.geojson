@@ -2,14 +2,20 @@
   "id": 806685463,
   "type": "Feature",
   "properties": {
+    "addr:full":"10430 Maysville Rd Fort Wayne IN 46835",
+    "addr:housenumber":"",
+    "addr:postcode":"10430;46835",
+    "addr:street":"Maysville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.010328,41.130437,-85.010328,41.130437",
     "geom:latitude":41.130437,
     "geom:longitude":-85.010328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10430 Maysville Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PLKfRddTnut5F5hOPDwYT_41.130437_-85.010328@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600218,
-    "wof:geomhash":"f6f5b91992fb5f7ef49f5ddac36ef20e",
+    "wof:geomhash":"b1b274fbc5e4861517a2aad63ce8c96b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806685463,
-    "wof:lastmodified":1466509985,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

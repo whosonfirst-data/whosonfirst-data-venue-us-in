@@ -2,9 +2,14 @@
   "id": 790125335,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4701",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360436,41.53147,-87.360436,41.53147",
     "geom:latitude":41.53147,
     "geom:longitude":-87.360436,
@@ -29,7 +34,10 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ysEvY2PH2j09Gc0uPcPVH_41.531470_-87.360436@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462593329,
     "wof:geomhash":"5640502420660b42c9e9908456b45036",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790125335
+        }
+    ],
     "wof:id":790125335,
-    "wof:lastmodified":1466505135,
+    "wof:lastmodified":1492093693,
     "wof:name":"U-Haul Co",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

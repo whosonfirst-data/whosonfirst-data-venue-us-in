@@ -2,14 +2,20 @@
   "id": 790504923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 Redwood Dr Anderson IN 46011",
+    "addr:housenumber":"1008",
+    "addr:postcode":"46011",
+    "addr:street":"Redwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.705134,40.124928,-85.705134,40.124928",
     "geom:latitude":40.124928,
     "geom:longitude":-85.705134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1008 Redwood Dr",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125155947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lRzEnJsVG1O7F9sMZkM8p_40.124928_-85.705134@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596411,
-    "wof:geomhash":"f9acaf0291a1a8b40ccfd179f498efdd",
+    "wof:geomhash":"27b0da8ce8644ee99dbbcf2a6dcd6c77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790504923,
-    "wof:lastmodified":1466512566,
+    "wof:lastmodified":1510699783,
     "wof:name":"Mary Kay Consultant",
     "wof:parent_id":420519743,
     "wof:placetype":"venue",

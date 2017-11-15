@@ -2,14 +2,20 @@
   "id": 773832205,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 S Green River Rd Evansville IN 47715",
+    "addr:housenumber":"2610",
+    "addr:postcode":"47715",
+    "addr:street":"S Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492882,37.943869,-87.492882,37.943869",
     "geom:latitude":37.943869,
     "geom:longitude":-87.492882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85877295
     ],
+    "wof:brand_id":1125156335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dUa0Bpt3ZM0Rr9neb0OvZ_37.943869_-87.492882@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588738,
-    "wof:geomhash":"434358a502fc7aef8b0cc94a78c243ea",
+    "wof:geomhash":"2893d38de3452160fde47c2d7a0db82d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773832205,
-    "wof:lastmodified":1466519030,
+    "wof:lastmodified":1510697029,
     "wof:name":"Affordable Dentures",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",

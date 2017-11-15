@@ -2,9 +2,14 @@
   "id": 806369365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 Erie Ct Crown Point IN 46307",
+    "addr:housenumber":"1305",
+    "addr:postcode":"46307",
+    "addr:street":"Erie Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.335452,41.423687,-87.335452,41.423687",
     "geom:latitude":41.423687,
     "geom:longitude":-87.335452,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EOmAPc9AX9aFJrufIUs0m_41.423687_-87.335452@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597594,
     "wof:geomhash":"80caaa0d97434a504cc0224f7a1e8ebf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "region_id":85688709,
+            "venue_id":806369365
+        }
+    ],
     "wof:id":806369365,
-    "wof:lastmodified":1466504220,
+    "wof:lastmodified":1492092008,
     "wof:name":"Eagle Creek Machining Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

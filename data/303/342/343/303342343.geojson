@@ -2,6 +2,10 @@
   "id": 303342343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 S Co Rd 1050 E Indianapolis IN 46231",
+    "addr:housenumber":"2205;1050 e",
+    "addr:postcode":"46231",
+    "addr:street":"S Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303342343,
-    "wof:lastmodified":1466503620,
+    "wof:lastmodified":1472622383,
     "wof:name":"Cruz Pedregon Racing Inc",
     "wof:parent_id":85807409,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790098393,
   "type": "Feature",
   "properties": {
+    "addr:full":"5077 Co Rd 20 Rensselaer IN 47978",
+    "addr:housenumber":"5077;20",
+    "addr:postcode":"47978",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.041003,40.937468,-87.041003,40.937468",
     "geom:latitude":40.937468,
     "geom:longitude":-87.041003,
@@ -29,7 +34,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500997,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kqt1cA8T2VqLt9Kuai4rC_40.937468_-87.041003@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462593112,
     "wof:geomhash":"47ded20aa04d011d3c37ed3973b62b00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500997,
+            "region_id":85688709,
+            "venue_id":790098393
+        }
+    ],
     "wof:id":790098393,
-    "wof:lastmodified":1466504743,
+    "wof:lastmodified":1492091839,
     "wof:name":"Gdf Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

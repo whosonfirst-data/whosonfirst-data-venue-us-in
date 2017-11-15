@@ -2,9 +2,14 @@
   "id": 336623351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1416 Lafayette St Valparaiso IN 46383",
+    "addr:housenumber":"1416",
+    "addr:postcode":"46383",
+    "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.062199,41.481284,-87.062199,41.481284",
     "geom:latitude":41.481284,
     "geom:longitude":-87.062199,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519839,
+        102191575,
+        404501707,
         85633793,
         85942401,
-        102087191
+        102087191,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"21f13d20852ca316b1a120bb77478895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087191,
+            "localadmin_id":404501707,
             "locality_id":85942401,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519839,
             "region_id":85688709,
             "venue_id":336623351
         }
     ],
     "wof:id":336623351,
-    "wof:lastmodified":1466502916,
+    "wof:lastmodified":1492098301,
     "wof:name":"Uptown Facial Plastic Surgery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 806951071,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 S Girls School Rd Indianapolis IN 46231",
+    "addr:housenumber":"805",
+    "addr:postcode":"46231",
+    "addr:street":"S Girls School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.289017,39.75367,-86.289017,39.75367",
     "geom:latitude":39.75367,
     "geom:longitude":-86.289017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"805 S Girls School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BaHMuSSuIV4FiK4uAj1O7_39.753670_-86.289017@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602450,
-    "wof:geomhash":"ad9940312a7f81fb4124b70b74a86679",
+    "wof:geomhash":"644bd82a8328a640cedfcb82d819f351",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806951071,
-    "wof:lastmodified":1466518544,
+    "wof:lastmodified":1510699507,
     "wof:name":"El Rodeo",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",

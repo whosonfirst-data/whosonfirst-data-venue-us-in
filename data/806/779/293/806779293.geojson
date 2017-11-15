@@ -2,9 +2,14 @@
   "id": 806779293,
   "type": "Feature",
   "properties": {
+    "addr:full":"27249 S Stoney Island Ave Crete IN 60417",
+    "addr:housenumber":"27249",
+    "addr:postcode":"60417",
+    "addr:street":"S Stoney Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.574092,41.406666,-87.574092,41.406666",
     "geom:latitude":41.406666,
     "geom:longitude":-87.574092,
@@ -23,7 +28,13 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M3XhUZ5aJO3dQfgzmNuNV_41.406666_-87.574092@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462601009,
     "wof:geomhash":"b568a72c0c7e62d7701bc3b3a25f82b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":806779293
+        }
+    ],
     "wof:id":806779293,
-    "wof:lastmodified":1466513956,
+    "wof:lastmodified":1492100110,
     "wof:name":"Joe Dooley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

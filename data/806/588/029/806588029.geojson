@@ -2,14 +2,20 @@
   "id": 806588029,
   "type": "Feature",
   "properties": {
+    "addr:full":"851 Bridge St Mooresville IN 46158",
+    "addr:housenumber":"851",
+    "addr:postcode":"46158",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.362805,39.616299,-86.362805,39.616299",
     "geom:latitude":39.616299,
     "geom:longitude":-86.362805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"851 Bridge St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087091,
         85688709
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L9I6bl3oEE4GocYntFOPr_39.616299_-86.362805@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599381,
-    "wof:geomhash":"f03c49dff744f093bad4caa5f5786ae8",
+    "wof:geomhash":"2124d62fb3252c8403566b36afaa4b27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806588029,
-    "wof:lastmodified":1466507244,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

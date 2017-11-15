@@ -2,14 +2,20 @@
   "id": 303957449,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Highland Park Dr Albion IN 46701",
+    "addr:housenumber":"110",
+    "addr:postcode":"46701",
+    "addr:street":"Highland Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.423194,41.38862,-85.423194,41.38862",
     "geom:latitude":41.38862,
     "geom:longitude":-85.423194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Highland Park Dr",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85942205,
         102086977
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kFc6F7YIJHMqg8qlkGXlk_41.388620_-85.423194@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fb64d23a3eac5638c21299a136ce68b",
+    "wof:geomhash":"a9117da109ed1b2b71cf1d5f3e5aad13",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":303957449,
-    "wof:lastmodified":1466503320,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

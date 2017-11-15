@@ -2,14 +2,20 @@
   "id": 789969421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3940 S Keystone Ave Indianapolis IN 46227",
+    "addr:housenumber":"3940",
+    "addr:postcode":"46227",
+    "addr:street":"S Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.120684,39.711426,-86.120684,39.711426",
     "geom:latitude":39.711426,
     "geom:longitude":-86.120684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3940 S Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5srFNZ3lOzt1YmI3CgRfi5_39.711426_-86.120684@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592076,
-    "wof:geomhash":"f640626b657f8f8575f69eedc5f5fa10",
+    "wof:geomhash":"d195d5fd6fe4607569d2d457cf409b19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789969421,
-    "wof:lastmodified":1466509444,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

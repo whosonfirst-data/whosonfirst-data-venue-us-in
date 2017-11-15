@@ -2,9 +2,14 @@
   "id": 773413089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1326 119th St Whiting IN 46394",
+    "addr:housenumber":"1326",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.4975,41.67934,-87.4975,41.67934",
     "geom:latitude":41.67934,
     "geom:longitude":-87.4975,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ElEbJtsv4R6mKqT8ELX65_41.679340_-87.497500@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462585513,
     "wof:geomhash":"a468b6d075ebae87459fe38d9c9575dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":773413089
+        }
+    ],
     "wof:id":773413089,
-    "wof:lastmodified":1466510879,
+    "wof:lastmodified":1492092214,
     "wof:name":"Sherman's Indiana Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

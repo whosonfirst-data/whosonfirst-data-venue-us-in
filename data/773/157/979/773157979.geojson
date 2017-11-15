@@ -2,14 +2,20 @@
   "id": 773157979,
   "type": "Feature",
   "properties": {
+    "addr:full":"22045 Co Rd 18 Goshen IN 46528",
+    "addr:housenumber":"22045;18",
+    "addr:postcode":"46528",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.888195,41.659732,-85.888195,41.659732",
     "geom:latitude":41.659732,
     "geom:longitude":-85.888195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22045 Co Rd 18",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125150589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RrSnOICUqCHQDRGq2gFiS_41.659732_-85.888195@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583576,
-    "wof:geomhash":"63b481792b95583376487885d8902014",
+    "wof:geomhash":"6915d90aa7fd9f918a00af02602d2041",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773157979,
-    "wof:lastmodified":1466505902,
+    "wof:lastmodified":1510699576,
     "wof:name":"Faith United Methodist Church",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

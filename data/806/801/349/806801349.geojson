@@ -2,14 +2,20 @@
   "id": 806801349,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 S Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"4231",
+    "addr:postcode":"46013",
+    "addr:street":"S Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652907,40.072521,-85.652907,40.072521",
     "geom:latitude":40.072521,
     "geom:longitude":-85.652907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4231 S Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I6cRHLVxAjkAQeRwrOQeW_40.072521_-85.652907@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601195,
-    "wof:geomhash":"aff7e15635b897e754c595503bf88730",
+    "wof:geomhash":"29f6b1cfb7f96f76a2945d55a1d1dc09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806801349,
-    "wof:lastmodified":1466514886,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85831617,
     "wof:placetype":"venue",

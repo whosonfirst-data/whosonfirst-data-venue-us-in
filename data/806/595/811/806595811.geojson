@@ -2,9 +2,14 @@
   "id": 806595811,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"830",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348306,41.507506,-87.348306,41.507506",
     "geom:latitude":41.507506,
     "geom:longitude":-87.348306,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jyiq64GOTerG9I44YyKrD_41.507506_-87.348306@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599450,
     "wof:geomhash":"5792491c27b4adac6b2dfd491ff5a3e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806595811
+        }
+    ],
     "wof:id":806595811,
-    "wof:lastmodified":1466507432,
+    "wof:lastmodified":1492091326,
     "wof:name":"Sunrise Laundry & Dry Cleaning",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

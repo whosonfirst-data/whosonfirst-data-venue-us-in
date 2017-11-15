@@ -2,14 +2,20 @@
   "id": 789773093,
   "type": "Feature",
   "properties": {
+    "addr:full":"1226 S 13th St Terre Haute IN 47802",
+    "addr:housenumber":"1226",
+    "addr:postcode":"47802",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397543,39.453902,-87.397543,39.453902",
     "geom:latitude":39.453902,
     "geom:longitude":-87.397543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1226 S 13th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KrEkAvbGFfsL6EYqILtbS_39.453902_-87.397543@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590423,
-    "wof:geomhash":"b5d791c9f23d92386b4e8a45c701304c",
+    "wof:geomhash":"1c9ac01e4644e173d3d9c9f1b15630be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789773093,
-    "wof:lastmodified":1466506102,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

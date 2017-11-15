@@ -2,9 +2,14 @@
   "id": 773789551,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Welch Ct Valparaiso IN 46385",
+    "addr:housenumber":"142",
+    "addr:postcode":"46385",
+    "addr:street":"Welch Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.145145,41.454607,-87.145145,41.454607",
     "geom:latitude":41.454607,
     "geom:longitude":-87.145145,
@@ -24,7 +29,15 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e6vXa6FNWell6dvYf1aob_41.454607_-87.145145@1294102998"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462588386,
     "wof:geomhash":"ed146a2f882bb76c611d4dea92ae035f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":773789551
+        }
+    ],
     "wof:id":773789551,
-    "wof:lastmodified":1466518822,
+    "wof:lastmodified":1492091691,
     "wof:name":"Thomas Dakich",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790317975,
   "type": "Feature",
   "properties": {
+    "addr:full":"4219 Lafayette St Fort Wayne IN 46806",
+    "addr:housenumber":"4219",
+    "addr:postcode":"46806",
+    "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.132242,41.046456,-85.132242,41.046456",
     "geom:latitude":41.046456,
     "geom:longitude":-85.132242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4219 Lafayette St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125155245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qmhzir7exLezV1MdZf4bI_41.046456_-85.132242@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594902,
-    "wof:geomhash":"c51cc1e3f5f4510853bcac411f44099e",
+    "wof:geomhash":"1bc9858c844551f915cd443a76bae63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790317975,
-    "wof:lastmodified":1466507159,
+    "wof:lastmodified":1510697006,
     "wof:name":"Don's Barber Shop",
     "wof:parent_id":420519407,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789626985,
   "type": "Feature",
   "properties": {
+    "addr:full":"5570 N 1250 W North Judson IN 46366",
+    "addr:housenumber":"5570",
+    "addr:postcode":"46366",
+    "addr:street":"N 1250 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.843461,41.140895,-86.843461,41.140895",
     "geom:latitude":41.140895,
     "geom:longitude":-86.843461,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501659,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R0qCr5pLA7N8vWjKJjjPw_41.140895_-86.843461@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589270,
     "wof:geomhash":"0753f8b83a12d63f99aef64a4c86e8b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501659,
+            "region_id":85688709,
+            "venue_id":789626985
+        }
+    ],
     "wof:id":789626985,
-    "wof:lastmodified":1466504531,
+    "wof:lastmodified":1492097217,
     "wof:name":"Krug Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

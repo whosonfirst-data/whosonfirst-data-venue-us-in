@@ -2,14 +2,20 @@
   "id": 790001945,
   "type": "Feature",
   "properties": {
+    "addr:full":"6940 Shore Ter Indianapolis IN 46254",
+    "addr:housenumber":"6940",
+    "addr:postcode":"46254",
+    "addr:street":"Shore Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.2819,39.829957,-86.2819,39.829957",
     "geom:latitude":39.829957,
     "geom:longitude":-86.2819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6940 Shore Ter",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aY2EjMhRDlhRBSOaBkybT_39.829957_-86.281900@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592344,
-    "wof:geomhash":"6f3ce62f17e52e5ca571f78e12083de7",
+    "wof:geomhash":"f4e2067b85f929dd954ef89433fc4f62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790001945,
-    "wof:lastmodified":1466503246,
+    "wof:lastmodified":1510698804,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",

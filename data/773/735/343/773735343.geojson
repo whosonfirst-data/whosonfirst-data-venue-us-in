@@ -2,6 +2,10 @@
   "id": 773735343,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 S 400 W Lebanon IN 46052",
+    "addr:housenumber":"800;400",
+    "addr:postcode":"46052",
+    "addr:street":"S;W Lebanon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773735343,
-    "wof:lastmodified":1466518157,
+    "wof:lastmodified":1472623216,
     "wof:name":"Tim Luse",
     "wof:parent_id":85817903,
     "wof:placetype":"venue",

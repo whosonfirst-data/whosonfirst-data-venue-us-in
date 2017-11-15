@@ -2,14 +2,20 @@
   "id": 789811383,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 S East St Indianapolis IN 46227",
+    "addr:housenumber":"4200",
+    "addr:postcode":"46227",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.148868,39.703471,-86.148868,39.703471",
     "geom:latitude":39.703471,
     "geom:longitude":-86.148868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d8yQOdElYMubLahQeo3HQ_39.703471_-86.148868@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590727,
-    "wof:geomhash":"e2af403762d0ea73874d78528ef4257d",
+    "wof:geomhash":"408f925cf6c70686cac6d58c8fa9d574",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789811383,
-    "wof:lastmodified":1466506748,
+    "wof:lastmodified":1510604531,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387818599,
   "type": "Feature",
   "properties": {
+    "addr:full":"4433 N Franklin Rd Indianapolis IN 46226",
+    "addr:housenumber":"4433",
+    "addr:postcode":"46226",
+    "addr:street":"N Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.027037,39.837387,-86.027037,39.837387",
     "geom:latitude":39.837387,
     "geom:longitude":-86.027037,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891137,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891137
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"e53b041f6849d2ed5bfd65174e3fc91d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891137,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":387818599,
-    "wof:lastmodified":1466504008,
+    "wof:lastmodified":1491937585,
     "wof:name":"Enforcers & Investigations",
     "wof:parent_id":85891137,
     "wof:placetype":"venue",

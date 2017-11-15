@@ -2,9 +2,14 @@
   "id": 773413847,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Woodland Estates Dr Valparaiso IN 46385",
+    "addr:housenumber":"405",
+    "addr:postcode":"46385",
+    "addr:street":"Woodland Estates Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.145706,41.415501,-87.145706,41.415501",
     "geom:latitude":41.415501,
     "geom:longitude":-87.145706,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yTfYuTK5njSZC8qdj0w9m_41.415501_-87.145706@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462585520,
     "wof:geomhash":"b9af6b177a84179786b51fe249873591",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773413847
+        }
+    ],
     "wof:id":773413847,
-    "wof:lastmodified":1466510902,
+    "wof:lastmodified":1492094831,
     "wof:name":"Hyde Park",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

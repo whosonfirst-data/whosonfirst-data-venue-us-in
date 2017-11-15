@@ -2,9 +2,14 @@
   "id": 790471641,
   "type": "Feature",
   "properties": {
+    "addr:full":"5982 E State Rd 10 Demotte IN 46310",
+    "addr:housenumber":"5982;10",
+    "addr:postcode":"46310",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.276176,41.144469,-87.276176,41.144469",
     "geom:latitude":41.144469,
     "geom:longitude":-87.276176,
@@ -30,7 +35,14 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MnvIpNAhHXsWrAcpCvu1i_41.144469_-87.276176@1294102998"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462596109,
     "wof:geomhash":"318927b14117061e46f70bbb4989ab3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":790471641
+        }
+    ],
     "wof:id":790471641,
-    "wof:lastmodified":1466511450,
+    "wof:lastmodified":1492091151,
     "wof:name":"Custom Top & Video Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387417385,
   "type": "Feature",
   "properties": {
+    "addr:full":"10202 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"10202",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.985404,39.775185,-85.985404,39.775185",
     "geom:latitude":39.775185,
     "geom:longitude":-85.985404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10202 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85854541
     ],
+    "wof:brand_id":1125153289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54mvzB7z5ZZTJ2KsfwSIbd_39.775185_-85.985404@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"69aabcff0eb22b2f5eb4cdf171567bbf",
+    "wof:geomhash":"4720d52395e7934120d977509a996b36",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387417385,
-    "wof:lastmodified":1466503469,
+    "wof:lastmodified":1510697658,
     "wof:name":"Dakota Watch Co",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387914111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2782 E 79th Ave Merrillville IN 46410",
+    "addr:housenumber":"2782",
+    "addr:postcode":"46410",
+    "addr:street":"E 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.301021,41.474585,-87.301021,41.474585",
     "geom:latitude":41.474585,
     "geom:longitude":-87.301021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2782 E 79th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087149,
         85822735
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ultVAdlvVgW1c3GCRangf_41.474585_-87.301021@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"94c2f517a04d3ca2d59d2fb2915447cd",
+    "wof:geomhash":"6ad6cae6998797316b6bccc1d808bd28",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387914111,
-    "wof:lastmodified":1466504149,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85822735,
     "wof:placetype":"venue",

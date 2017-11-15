@@ -2,9 +2,14 @@
   "id": 303715433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1719 Atchison Ave Whiting IN 46394",
+    "addr:housenumber":"1719",
+    "addr:postcode":"46394",
+    "addr:street":"Atchison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.500136,41.681434,-87.500136,41.681434",
     "geom:latitude":41.681434,
     "geom:longitude":-87.500136,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501869,
         85633793,
         85941845,
         102087149
@@ -41,17 +48,17 @@
     "wof:geomhash":"d5aeeb24e8598b910ca3512375a5c730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941845,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":303715433
         }
     ],
     "wof:id":303715433,
-    "wof:lastmodified":1466503005,
+    "wof:lastmodified":1492102404,
     "wof:name":"Our Lady Of The Rosary Shrine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806678663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 W 1100 N Chesterton IN 46304",
+    "addr:housenumber":"2050",
+    "addr:postcode":"46304",
+    "addr:street":"W 1100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.077621,41.594246,-87.077621,41.594246",
     "geom:latitude":41.594246,
     "geom:longitude":-87.077621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2050 W 1100 N",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087191,
         85856849
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TY7Qh3kh6INUfWHaW4PIH_41.594246_-87.077621@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600160,
-    "wof:geomhash":"bb2ce2a8d016ee793fc9f83d521438cc",
+    "wof:geomhash":"698488d4e11635c912a51fc7660324e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806678663,
-    "wof:lastmodified":1466510313,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85856849,
     "wof:placetype":"venue",

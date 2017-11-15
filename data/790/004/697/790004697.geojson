@@ -2,14 +2,20 @@
   "id": 790004697,
   "type": "Feature",
   "properties": {
+    "addr:full":"3417 W Fox Ridge Ln Muncie IN 47304",
+    "addr:housenumber":"3417",
+    "addr:postcode":"47304",
+    "addr:street":"W Fox Ridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.426442,40.220702,-85.426442,40.220702",
     "geom:latitude":40.220702,
     "geom:longitude":-85.426442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3417 W Fox Ridge Ln",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125155009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lXGVnuM11nXbU2lrSmFPY_40.220702_-85.426442@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592362,
-    "wof:geomhash":"982a15512379e1a3e49cd64efc6dc0d6",
+    "wof:geomhash":"799b0429978138dd024482d9c35f8f94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790004697,
-    "wof:lastmodified":1466503335,
+    "wof:lastmodified":1510699954,
     "wof:name":"Guaranty Residential Lending",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

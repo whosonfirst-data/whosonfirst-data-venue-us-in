@@ -2,14 +2,20 @@
   "id": 773413761,
   "type": "Feature",
   "properties": {
+    "addr:full":"12461 Turkel Dr Fishers IN 46038",
+    "addr:housenumber":"12461",
+    "addr:postcode":"46038",
+    "addr:street":"Turkel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.015947,39.966642,-86.015947,39.966642",
     "geom:latitude":39.966642,
     "geom:longitude":-86.015947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12461 Turkel Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WenOnIZssFAck4hgfWOZP_39.966642_-86.015947@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585520,
-    "wof:geomhash":"ce5267213ada39e208f6bb995075781f",
+    "wof:geomhash":"ca46547c3ec4a7756714142313cf8f83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773413761,
-    "wof:lastmodified":1466510520,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85891117,
     "wof:placetype":"venue",

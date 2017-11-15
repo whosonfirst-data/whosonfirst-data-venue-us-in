@@ -2,9 +2,14 @@
   "id": 806669283,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 Northmoor Trl Michigan City IN 46360",
+    "addr:housenumber":"3012",
+    "addr:postcode":"46360",
+    "addr:street":"Northmoor Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.837998,41.752113,-86.837998,41.752113",
     "geom:latitude":41.752113,
     "geom:longitude":-86.837998,
@@ -27,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        85633793,
+        85941905,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4toT4cvcg14PhlyoPzeIMr_41.752113_-86.837998@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462600074,
     "wof:geomhash":"31fb729a49f0bb98b86a4411d45ec271",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941905,
+            "region_id":85688709,
+            "venue_id":806669283
+        }
+    ],
     "wof:id":806669283,
-    "wof:lastmodified":1466509558,
+    "wof:lastmodified":1492091854,
     "wof:name":"F J Consulting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

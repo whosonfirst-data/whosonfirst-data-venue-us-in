@@ -2,14 +2,20 @@
   "id": 789967339,
   "type": "Feature",
   "properties": {
+    "addr:full":"2040 W 81st Ave Merrillville IN 46410",
+    "addr:housenumber":"2040",
+    "addr:postcode":"46410",
+    "addr:street":"W 81St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360125,41.471186,-87.360125,41.471186",
     "geom:latitude":41.471186,
     "geom:longitude":-87.360125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2040 W 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3trviZsiwztWYW682IXIaO_41.471186_-87.360125@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592062,
-    "wof:geomhash":"886496c10403a1a0dbd370fa8f81003c",
+    "wof:geomhash":"54a50d217102c253efa4a9d0cb5fa016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789967339,
-    "wof:lastmodified":1466509345,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":420519705,
     "wof:placetype":"venue",

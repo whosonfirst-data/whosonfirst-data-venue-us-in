@@ -2,14 +2,20 @@
   "id": 806825821,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 W 38th St Marion IN 46953",
+    "addr:housenumber":"208",
+    "addr:postcode":"46953",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.666655,40.522734,-85.666655,40.522734",
     "geom:latitude":40.522734,
     "geom:longitude":-85.666655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 W 38th St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IHz9ozUKcO7ne1xunnDlU_40.522734_-85.666655@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601390,
-    "wof:geomhash":"1e88f89a7e09e35a33b1e628c05d0628",
+    "wof:geomhash":"693ee72372cab65e31305368fb488e50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806825821,
-    "wof:lastmodified":1466515712,
+    "wof:lastmodified":1510700050,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789583731,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N 4th St Chesterton IN 46304",
+    "addr:housenumber":"123",
+    "addr:postcode":"46304",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789583731,
-    "wof:lastmodified":1466503302,
+    "wof:lastmodified":1472622280,
     "wof:name":"Estate Liquidators",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789679931,
   "type": "Feature",
   "properties": {
+    "addr:full":"5510 W State Rd 46 Bloomington IN 47404",
+    "addr:housenumber":"5510;46",
+    "addr:postcode":"47404",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789679931,
-    "wof:lastmodified":1466505287,
+    "wof:lastmodified":1472622524,
     "wof:name":"Speedway",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",

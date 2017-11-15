@@ -2,14 +2,20 @@
   "id": 773678725,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 W 81st Ave Merrillville IN 46410",
+    "addr:housenumber":"421",
+    "addr:postcode":"46410",
+    "addr:street":"W 81St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336755,41.47101,-87.336755,41.47101",
     "geom:latitude":41.47101,
     "geom:longitude":-87.336755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 W 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125152107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_438c0dUA6jcJfWYPnmsAHz_41.471010_-87.336755@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587530,
-    "wof:geomhash":"b9c4b20bec897cc613f490a04d20e684",
+    "wof:geomhash":"d4de793d1d2bed3e4e19bb79ba152af6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773678725,
-    "wof:lastmodified":1466517850,
+    "wof:lastmodified":1510694960,
     "wof:name":"Signs By Tomorrow",
     "wof:parent_id":420519691,
     "wof:placetype":"venue",

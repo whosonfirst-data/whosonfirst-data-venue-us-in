@@ -2,14 +2,20 @@
   "id": 790406097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1999 Fort Harrison Rd Terre Haute IN 47804",
+    "addr:housenumber":"1999",
+    "addr:postcode":"47804",
+    "addr:street":"Fort Harrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.387609,39.506712,-87.387609,39.506712",
     "geom:latitude":39.506712,
     "geom:longitude":-87.387609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1999 Fort Harrison Rd",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85814437
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hJjSAhEH3IWYrjd4r9Cui_39.506712_-87.387609@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595580,
-    "wof:geomhash":"c72017944483332914dcda05feb0cf7a",
+    "wof:geomhash":"4c003aaa2253a0a577efcb526a91e5a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790406097,
-    "wof:lastmodified":1466508662,
+    "wof:lastmodified":1510613089,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85814437,
     "wof:placetype":"venue",

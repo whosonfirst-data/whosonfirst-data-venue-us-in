@@ -2,6 +2,10 @@
   "id": 806929855,
   "type": "Feature",
   "properties": {
+    "addr:full":"5707 Brockton Dr Apt 302 Indianapolis IN 46220",
+    "addr:housenumber":"5707;302",
+    "addr:postcode":"46220",
+    "addr:street":"Brockton Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806929855,
-    "wof:lastmodified":1466517907,
+    "wof:lastmodified":1472623049,
     "wof:name":"Library Users Of America",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",

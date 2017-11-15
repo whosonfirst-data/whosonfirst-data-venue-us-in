@@ -2,14 +2,20 @@
   "id": 806580753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3097 Blackiston Mill Rd New Albany IN 47150",
+    "addr:housenumber":"3097",
+    "addr:postcode":"47150",
+    "addr:street":"Blackiston Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.797004,38.334848,-85.797004,38.334848",
     "geom:latitude":38.334848,
     "geom:longitude":-85.797004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3097 Blackiston Mill Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087137,
         85846703
     ],
+    "wof:brand_id":1125158545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Lxl9xSJhqxdrKvJ7sbPDd_38.334848_-85.797004@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599315,
-    "wof:geomhash":"f2d104f1ad1d38533df906c331f7dd99",
+    "wof:geomhash":"8e9ed6077bde16e2d1f7c20bade801ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806580753,
-    "wof:lastmodified":1466507062,
+    "wof:lastmodified":1510699701,
     "wof:name":"Hair Today",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",

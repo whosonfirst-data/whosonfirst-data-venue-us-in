@@ -2,9 +2,14 @@
   "id": 773768045,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 S 300 W Valparaiso IN 46385",
+    "addr:housenumber":"176;300",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.124067,41.418995,-87.124067,41.418995",
     "geom:latitude":41.418995,
     "geom:longitude":-87.124067,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IpOV2mQ7Rv9jDk56DpsoM_41.418995_-87.124067@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588227,
     "wof:geomhash":"dc4b8e65218f27127ac53e7494fc91c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773768045
+        }
+    ],
     "wof:id":773768045,
-    "wof:lastmodified":1466518376,
+    "wof:lastmodified":1492092006,
     "wof:name":"Kgm Builders",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

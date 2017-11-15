@@ -2,9 +2,14 @@
   "id": 773471309,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 Marble St Hammond IN 46327",
+    "addr:housenumber":"244",
+    "addr:postcode":"46327",
+    "addr:street":"Marble St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.52089,41.629206,-87.52089,41.629206",
     "geom:latitude":41.629206,
     "geom:longitude":-87.52089,
@@ -27,7 +32,14 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CM1uoem4p3VCxxf3UNVPQ_41.629206_-87.520890@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585998,
     "wof:geomhash":"0f59bb0e9c6ad726529ad7c81a49e3b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":773471309
+        }
+    ],
     "wof:id":773471309,
-    "wof:lastmodified":1466512258,
+    "wof:lastmodified":1492102934,
     "wof:name":"Howard's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

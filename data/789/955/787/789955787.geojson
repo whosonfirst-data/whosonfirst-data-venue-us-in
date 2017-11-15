@@ -2,9 +2,14 @@
   "id": 789955787,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Jeflynn Ct Kouts IN 46347",
+    "addr:housenumber":"11",
+    "addr:postcode":"46347",
+    "addr:street":"Jeflynn Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.065447,41.309506,-87.065447,41.309506",
     "geom:latitude":41.309506,
     "geom:longitude":-87.065447,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20a3ZjVWjFvVlB8QbQvbk9_41.309506_-87.065447@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462591965,
     "wof:geomhash":"497070be4396d5ac7c25f44fbc5b0e57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":789955787
+        }
+    ],
     "wof:id":789955787,
-    "wof:lastmodified":1466508592,
+    "wof:lastmodified":1492089212,
     "wof:name":"Newland Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

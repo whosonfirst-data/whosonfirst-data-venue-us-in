@@ -2,6 +2,10 @@
   "id": 773760491,
   "type": "Feature",
   "properties": {
+    "addr:full":"12799 S 550 W Columbus IN 47201",
+    "addr:housenumber":"12799;550",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773760491,
-    "wof:lastmodified":1466518230,
+    "wof:lastmodified":1472623227,
     "wof:name":"Ford Farm LLC",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

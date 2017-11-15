@@ -2,14 +2,20 @@
   "id": 773230273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Governors Ln Seymour IN 47274",
+    "addr:housenumber":"1107",
+    "addr:postcode":"47274",
+    "addr:street":"Governors Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.906682,38.967023,-85.906682,38.967023",
     "geom:latitude":38.967023,
     "geom:longitude":-85.906682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1107 Governors Ln",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125154565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e15H5t5u5X35JW9sS80JJ_38.967023_-85.906682@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584145,
-    "wof:geomhash":"86e9aaf1178f21ff8e39ba84f0479aea",
+    "wof:geomhash":"4e1c9702ee959c9b6a7ee4fd25c0a371",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773230273,
-    "wof:lastmodified":1466506597,
+    "wof:lastmodified":1510695256,
     "wof:name":"Rainbow International Carpet",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

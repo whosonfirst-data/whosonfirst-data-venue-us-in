@@ -2,14 +2,20 @@
   "id": 806807631,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 W 10th St Indianapolis IN 46214",
+    "addr:housenumber":"7201",
+    "addr:postcode":"46214",
+    "addr:street":"W 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.287593,39.77878,-86.287593,39.77878",
     "geom:latitude":39.77878,
     "geom:longitude":-86.287593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7201 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l3L1K7y8YyJdZtwFD2yo0_39.778780_-86.287593@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601246,
-    "wof:geomhash":"50ec1056507cf4c3f3bcd2b30d2686f8",
+    "wof:geomhash":"12e7437bc6450fdb79ac0004f7da8586",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806807631,
-    "wof:lastmodified":1466514564,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",

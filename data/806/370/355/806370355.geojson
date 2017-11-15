@@ -2,9 +2,14 @@
   "id": 806370355,
   "type": "Feature",
   "properties": {
+    "addr:full":"11620 Candlewick Ct Demotte IN 46310",
+    "addr:housenumber":"11620",
+    "addr:postcode":"46310",
+    "addr:street":"Candlewick Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.268701,41.152319,-87.268701,41.152319",
     "geom:latitude":41.152319,
     "geom:longitude":-87.268701,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iOFlM4JhskvRycMzb6TuW_41.152319_-87.268701@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597601,
     "wof:geomhash":"4c5918cc7d0292cfe0c87fb44ee9b0f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":806370355
+        }
+    ],
     "wof:id":806370355,
-    "wof:lastmodified":1466504375,
+    "wof:lastmodified":1492091622,
     "wof:name":"Quaid Concrete Raising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

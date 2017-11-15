@@ -2,14 +2,20 @@
   "id": 806459755,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 S Tillotson Ave Muncie IN 47304",
+    "addr:housenumber":"715",
+    "addr:postcode":"47304",
+    "addr:street":"S Tillotson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.419203,40.188018,-85.419203,40.188018",
     "geom:latitude":40.188018,
     "geom:longitude":-85.419203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 S Tillotson Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uPch81BgqT276e6K0tA0k_40.188018_-85.419203@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598311,
-    "wof:geomhash":"1cfca37f0ced45abec9f686e45358b34",
+    "wof:geomhash":"a28dd8b7e5be43e9a9d962db24df96f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806459755,
-    "wof:lastmodified":1466505549,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

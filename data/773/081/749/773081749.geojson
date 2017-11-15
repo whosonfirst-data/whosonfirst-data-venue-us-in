@@ -2,9 +2,14 @@
   "id": 773081749,
   "type": "Feature",
   "properties": {
+    "addr:full":"4308 Campbell St Valparaiso IN 46385",
+    "addr:housenumber":"4308",
+    "addr:postcode":"46385",
+    "addr:street":"Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.06596,41.507317,-87.06596,41.507317",
     "geom:latitude":41.507317,
     "geom:longitude":-87.06596,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HWT9z8VoFvM22l3LYc2cM_41.507317_-87.065960@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462583020,
     "wof:geomhash":"7f94fb009f085f4d9f07766eb67bf2d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773081749
+        }
+    ],
     "wof:id":773081749,
-    "wof:lastmodified":1466505113,
+    "wof:lastmodified":1492102351,
     "wof:name":"Whitsel Gas",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

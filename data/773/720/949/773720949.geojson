@@ -2,14 +2,20 @@
   "id": 773720949,
   "type": "Feature",
   "properties": {
+    "addr:full":"7256 Fishers Crossing Dr Fishers IN 46038",
+    "addr:housenumber":"7256",
+    "addr:postcode":"46038",
+    "addr:street":"Fishers Crossing Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.042354,39.957371,-86.042354,39.957371",
     "geom:latitude":39.957371,
     "geom:longitude":-86.042354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7256 Fishers Crossing Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125151031,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_377OOVirEfb3wsAUuDPTVg_39.957371_-86.042354@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587877,
-    "wof:geomhash":"86ada211f8d05481f03ffd4fd2c04d25",
+    "wof:geomhash":"7f08fdd737bc44743e69935a3dd57e72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773720949,
-    "wof:lastmodified":1466518327,
+    "wof:lastmodified":1510697384,
     "wof:name":"Bo Rics Haircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

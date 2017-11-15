@@ -2,9 +2,14 @@
   "id": 790168027,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Meridian Rd Valparaiso IN 46385",
+    "addr:housenumber":"707",
+    "addr:postcode":"46385",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066111,41.536309,-87.066111,41.536309",
     "geom:latitude":41.536309,
     "geom:longitude":-87.066111,
@@ -27,7 +32,10 @@
         "piano"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_077QxrvObpytxFP5sgJWqy_41.536309_-87.066111@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462593674,
     "wof:geomhash":"6ea55a8435522bb68ef74d48bc6afae6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790168027
+        }
+    ],
     "wof:id":790168027,
-    "wof:lastmodified":1466505553,
+    "wof:lastmodified":1492097510,
     "wof:name":"Children's World Suzuki Piano",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

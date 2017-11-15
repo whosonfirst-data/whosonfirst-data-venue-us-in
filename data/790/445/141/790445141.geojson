@@ -2,9 +2,14 @@
   "id": 790445141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4489 Broadway Gary IN 46409",
+    "addr:housenumber":"4489",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336221,41.53838,-87.336221,41.53838",
     "geom:latitude":41.53838,
     "geom:longitude":-87.336221,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AKiGfTyDFXcq4bDGugAab_41.538380_-87.336221@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462595881,
     "wof:geomhash":"079859ff47213d2fef959272a2cbdc35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790445141
+        }
+    ],
     "wof:id":790445141,
-    "wof:lastmodified":1466509857,
+    "wof:lastmodified":1492093634,
     "wof:name":"Red's Keg",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

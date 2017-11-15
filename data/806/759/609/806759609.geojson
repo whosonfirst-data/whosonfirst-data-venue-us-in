@@ -2,9 +2,14 @@
   "id": 806759609,
   "type": "Feature",
   "properties": {
+    "addr:full":"6459 US Hwy 24 Remington IN 47977",
+    "addr:housenumber":"6459",
+    "addr:postcode":"47977",
+    "addr:street":"Us Hwy 24",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.166982,40.765867,-87.166982,40.765867",
     "geom:latitude":40.765867,
     "geom:longitude":-87.166982,
@@ -21,7 +26,13 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500065,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QalYFBPYjfHIkSzyp2Xek_40.765867_-87.166982@1294102998"
@@ -29,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1462600846,
     "wof:geomhash":"ecef050247c6a78f578d32d31886c2c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500065,
+            "region_id":85688709,
+            "venue_id":806759609
+        }
+    ],
     "wof:id":806759609,
-    "wof:lastmodified":1466513285,
+    "wof:lastmodified":1492090397,
     "wof:name":"Blue Flame Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

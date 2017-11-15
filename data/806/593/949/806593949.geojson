@@ -2,14 +2,20 @@
   "id": 806593949,
   "type": "Feature",
   "properties": {
+    "addr:full":"8150 Madison Ave Indianapolis IN 46227",
+    "addr:housenumber":"8150",
+    "addr:postcode":"46227",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.120092,39.644373,-86.120092,39.644373",
     "geom:latitude":39.644373,
     "geom:longitude":-86.120092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8150 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SLbyrHgvJXr0dQrutSoVu_39.644373_-86.120092@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599431,
-    "wof:geomhash":"45e645f91356a5ee4a191676bcf071e4",
+    "wof:geomhash":"c7bd5f7d02f42b2585fb8005b00de65d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806593949,
-    "wof:lastmodified":1466507235,
+    "wof:lastmodified":1510695319,
     "wof:name":"CFIC Home Mortgage",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773031127,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"820",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348397,41.507507,-87.348397,41.507507",
     "geom:latitude":41.507507,
     "geom:longitude":-87.348397,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1557NvWfaWhCNL5KRxvTCW_41.507507_-87.348397@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462582574,
     "wof:geomhash":"fc568e6979931b7a6bcbcc4e358603bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773031127
+        }
+    ],
     "wof:id":773031127,
-    "wof:lastmodified":1466503943,
+    "wof:lastmodified":1492098307,
     "wof:name":"Booze Liquor Store",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

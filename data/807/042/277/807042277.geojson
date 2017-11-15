@@ -2,9 +2,14 @@
   "id": 807042277,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Sheffield Ave Blg 3 Unit E Hammond IN 46327",
+    "addr:housenumber":"3200;3 unit e",
+    "addr:postcode":"46327",
+    "addr:street":"Sheffield Ave Blg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.514574,41.653825,-87.514574,41.653825",
     "geom:latitude":41.653825,
     "geom:longitude":-87.514574,
@@ -38,7 +43,14 @@
     ],
     "sg:website":"http://www.safway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4POl83SCaO0oRckQjExIEF_41.653825_-87.514574@1303262771"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1462603230,
     "wof:geomhash":"06dc80868995bc98344eb280548e4575",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807042277
+        }
+    ],
     "wof:id":807042277,
-    "wof:lastmodified":1466503902,
+    "wof:lastmodified":1492105072,
     "wof:name":"Safway Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

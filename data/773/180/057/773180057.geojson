@@ -2,14 +2,20 @@
   "id": 773180057,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 S 9th Ave Beech Grove IN 46107",
+    "addr:housenumber":"602",
+    "addr:postcode":"46107",
+    "addr:street":"S 9Th Ave Beech Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.092113,39.709435,-86.092113,39.709435",
     "geom:latitude":39.709435,
     "geom:longitude":-86.092113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"602 S 9th Ave",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uo6VFhcew3mc2Hb8f1sF0_39.709435_-86.092113@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583740,
-    "wof:geomhash":"3805e3a957074528abf15edb5563a190",
+    "wof:geomhash":"809d96d9354b4f1df295a4340c108a51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773180057,
-    "wof:lastmodified":1466506220,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",

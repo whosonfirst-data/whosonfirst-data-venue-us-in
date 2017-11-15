@@ -2,9 +2,14 @@
   "id": 319951073,
   "type": "Feature",
   "properties": {
+    "addr:full":"742 E US Hwy 30 Schererville IN 46375",
+    "addr:housenumber":"742",
+    "addr:postcode":"46375",
+    "addr:street":"E Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.432512,41.481836,-87.432512,41.481836",
     "geom:latitude":41.481836,
     "geom:longitude":-87.432512,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519687,
+        102191575,
+        404501873,
         85633793,
         85941841,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"0f12cc5941173c67a07534722b5ea2b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501873,
             "locality_id":85941841,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519687,
             "region_id":85688709,
             "venue_id":319951073
         }
     ],
     "wof:id":319951073,
-    "wof:lastmodified":1466503617,
+    "wof:lastmodified":1492090298,
     "wof:name":"Three Tri Town Mortgage Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

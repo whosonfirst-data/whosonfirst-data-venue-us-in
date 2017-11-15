@@ -2,14 +2,20 @@
   "id": 789661695,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 W Morgan Ave Evansville IN 47710",
+    "addr:housenumber":"621",
+    "addr:postcode":"47710",
+    "addr:street":"W Morgan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.573308,37.992233,-87.573308,37.992233",
     "geom:latitude":37.992233,
     "geom:longitude":-87.573308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"621 W Morgan Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NGuHeiypMdZYeiuZwT4tA_37.992233_-87.573308@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589555,
-    "wof:geomhash":"a037f47a2db0f4a3516400891c17ad76",
+    "wof:geomhash":"e6b450027af3a7d2a6ee153c3256bf45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789661695,
-    "wof:lastmodified":1466504822,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",

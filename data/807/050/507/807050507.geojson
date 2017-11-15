@@ -2,14 +2,20 @@
   "id": 807050507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2782 E 79th Ave Merrillville IN 46410",
+    "addr:housenumber":"2782",
+    "addr:postcode":"46410",
+    "addr:street":"E 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.369698,41.473599,-87.369698,41.473599",
     "geom:latitude":41.473599,
     "geom:longitude":-87.369698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2782 E 79th Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125157409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u04XGzLbFLfxDxyMfneV2_41.473599_-87.369698@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603291,
-    "wof:geomhash":"0c880c29086b29c01c9f1722211a7943",
+    "wof:geomhash":"54195d19601397ec88d5cd9fb7b9fd08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":807050507,
-    "wof:lastmodified":1466504224,
+    "wof:lastmodified":1510697477,
     "wof:name":"Hobby Lobby",
     "wof:parent_id":85826779,
     "wof:placetype":"venue",

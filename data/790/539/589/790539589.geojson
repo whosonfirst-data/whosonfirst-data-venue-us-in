@@ -2,9 +2,14 @@
   "id": 790539589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2116 Schrage Ave Whiting IN 46394",
+    "addr:housenumber":"",
+    "addr:postcode":"2116;46394",
+    "addr:street":"Schrage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.489863,41.675032,-87.489863,41.675032",
     "geom:latitude":41.675032,
     "geom:longitude":-87.489863,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JzkORYEvHUtVSmslZ1HyD_41.675032_-87.489863@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596702,
     "wof:geomhash":"592fd6bd02e7216526a9e336c63125be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":790539589
+        }
+    ],
     "wof:id":790539589,
-    "wof:lastmodified":1466512785,
+    "wof:lastmodified":1492092069,
     "wof:name":"Illiana Building Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

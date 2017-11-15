@@ -2,9 +2,14 @@
   "id": 790209447,
   "type": "Feature",
   "properties": {
+    "addr:full":"4132 Oak Ln Gary IN 46408",
+    "addr:housenumber":"4132",
+    "addr:postcode":"46408",
+    "addr:street":"Oak Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364057,41.543997,-87.364057,41.543997",
     "geom:latitude":41.543997,
     "geom:longitude":-87.364057,
@@ -28,7 +33,10 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A3m2pt2H1nNpeLUbj6TWx_41.543997_-87.364057@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594024,
     "wof:geomhash":"a7b630d7285db5e659498c2fc912f827",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790209447
+        }
+    ],
     "wof:id":790209447,
-    "wof:lastmodified":1466505994,
+    "wof:lastmodified":1492102065,
     "wof:name":"Lubarski Studios",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

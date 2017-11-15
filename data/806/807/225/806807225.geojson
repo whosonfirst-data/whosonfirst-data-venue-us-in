@@ -2,14 +2,20 @@
   "id": 806807225,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Monument Cir Indianapolis IN 46204",
+    "addr:housenumber":"111",
+    "addr:postcode":"46204",
+    "addr:street":"Monument Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157072,39.768936,-86.157072,39.768936",
     "geom:latitude":39.768936,
     "geom:longitude":-86.157072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Monument Cir",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r978mrxpnfiMUS4ainGu7_39.768936_-86.157072@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601244,
-    "wof:geomhash":"a155f7f6d0d11bfa192dd9c4a8c4c835",
+    "wof:geomhash":"24f67e8df2438ae1581355dc775c208b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806807225,
-    "wof:lastmodified":1466514538,
+    "wof:lastmodified":1510697463,
     "wof:name":"Paradise Bakery & Cafe",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806582883,
   "type": "Feature",
   "properties": {
+    "addr:full":"5657 N Delaware St Indianapolis IN 46220",
+    "addr:housenumber":"5657",
+    "addr:postcode":"46220",
+    "addr:street":"N Delaware St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.153604,39.855418,-86.153604,39.855418",
     "geom:latitude":39.855418,
     "geom:longitude":-86.153604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5657 N Delaware St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ib1Y80lKj5OyvBoJjDshh_39.855418_-86.153604@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599336,
-    "wof:geomhash":"27a1567a1471bbb36044b7d7e6fa0064",
+    "wof:geomhash":"c583f0f0dad302f682a81eceafe61f11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806582883,
-    "wof:lastmodified":1466507210,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

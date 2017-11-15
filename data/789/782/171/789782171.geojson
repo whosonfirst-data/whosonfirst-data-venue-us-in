@@ -2,14 +2,20 @@
   "id": 789782171,
   "type": "Feature",
   "properties": {
+    "addr:full":"5493 Gainesway Dr N Greenwood IN 46142",
+    "addr:housenumber":"5493",
+    "addr:postcode":"46142",
+    "addr:street":"Gainesway Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.206864,39.605708,-86.206864,39.605708",
     "geom:latitude":39.605708,
     "geom:longitude":-86.206864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5493 Gainesway Dr N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087201,
         85821965
     ],
+    "wof:brand_id":420575339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IYNkq17WyPUIWhGqjGiyP_39.605708_-86.206864@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590506,
-    "wof:geomhash":"37377b869206d3cecb6899c9d8eedb67",
+    "wof:geomhash":"ec1a254226b71a12c1bb12a0e1dcb371",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789782171,
-    "wof:lastmodified":1466506205,
+    "wof:lastmodified":1510615092,
     "wof:name":"Ryland Homes",
     "wof:parent_id":85821965,
     "wof:placetype":"venue",

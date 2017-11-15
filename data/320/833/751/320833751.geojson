@@ -2,9 +2,14 @@
   "id": 320833751,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 E Lincolnway Laporte IN 46350",
+    "addr:housenumber":"609",
+    "addr:postcode":"46350",
+    "addr:street":"E Lincolnway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.707486,41.617712,-86.707486,41.617712",
     "geom:latitude":41.617712,
     "geom:longitude":-86.707486,
@@ -29,11 +34,13 @@
     "sg:website":"www.savealot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:brand_id":420574447,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"9d12daca2e1cbbff6454f0bddb687969",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":320833751,
-    "wof:lastmodified":1466503538,
+    "wof:lastmodified":1492106683,
     "wof:name":"Save-A-Lot",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

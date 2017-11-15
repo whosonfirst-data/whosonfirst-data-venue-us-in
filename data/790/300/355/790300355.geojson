@@ -2,9 +2,14 @@
   "id": 790300355,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 Campbell St Valparaiso IN 46385",
+    "addr:housenumber":"3801",
+    "addr:postcode":"46385",
+    "addr:street":"Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066015,41.503035,-87.066015,41.503035",
     "geom:latitude":41.503035,
     "geom:longitude":-87.066015,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.valpo.k12.in.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863,
+        85688709,
+        85942401,
+        102087191,
+        85808523
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h2FkQhtpkQF6i1Lhefvfm_41.503035_-87.066015@1294102998"
@@ -33,11 +45,25 @@
     "wof:country":"US",
     "wof:created":1462594771,
     "wof:geomhash":"f2926373c9a5cb9d1026e3e21ce8de7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790300355
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942401,
+            "neighbourhood_id":85808523,
+            "region_id":85688709,
+            "venue_id":790300355
+        }
+    ],
     "wof:id":790300355,
-    "wof:lastmodified":1466507061,
+    "wof:lastmodified":1492092192,
     "wof:name":"Valparaiso Community Schl Supt",
-    "wof:parent_id":420519863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

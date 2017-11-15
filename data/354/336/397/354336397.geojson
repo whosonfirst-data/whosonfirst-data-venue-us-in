@@ -2,9 +2,14 @@
   "id": 354336397,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 Millpond Rd N Valparaiso IN 46385",
+    "addr:housenumber":"970",
+    "addr:postcode":"46385",
+    "addr:street":"Millpond Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.083795,41.459939,-87.083795,41.459939",
     "geom:latitude":41.459939,
     "geom:longitude":-87.083795,
@@ -29,7 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519849
     ],
     "wof:brand_id":420574217,
     "wof:breaches":[],
@@ -40,18 +45,15 @@
     "wof:geomhash":"fdf49b5d749a2e2a5ab7b4017d6a9803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519849,
             "venue_id":354336397
         }
     ],
     "wof:id":354336397,
-    "wof:lastmodified":1466503350,
+    "wof:lastmodified":1492098348,
     "wof:name":"Church Of The Nazarene",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

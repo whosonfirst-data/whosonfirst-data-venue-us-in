@@ -2,14 +2,20 @@
   "id": 773512673,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Bill's Blvd Martinsville IN 46151",
+    "addr:housenumber":"55",
+    "addr:postcode":"46151",
+    "addr:street":"Bill'S Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.425905,39.408972,-86.425905,39.408972",
     "geom:latitude":39.408972,
     "geom:longitude":-86.425905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Bill's Blvd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087091,
         85833227
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02gaV484CYij1YAT8Ws1Oa_39.408972_-86.425905@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586291,
-    "wof:geomhash":"86416e34d2e983f4aa9463e66981a6ad",
+    "wof:geomhash":"69b5c727a65fc81e9da15650e56de4f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773512673,
-    "wof:lastmodified":1466513588,
+    "wof:lastmodified":1510603293,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85833227,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789700053,
   "type": "Feature",
   "properties": {
+    "addr:full":"8497 Fishers Centre Dr Fishers IN 46038",
+    "addr:housenumber":"8497",
+    "addr:postcode":"46038",
+    "addr:street":"Fishers Centre Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.018713,39.956764,-86.018713,39.956764",
     "geom:latitude":39.956764,
     "geom:longitude":-86.018713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8497 Fishers Centre Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fsrkgnx7jGEjWS0ENGA0L_39.956764_-86.018713@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589858,
-    "wof:geomhash":"d596901174b99c20fdd0e3b8860393f6",
+    "wof:geomhash":"9fa1433d07bc924dc14fe3303708e854",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789700053,
-    "wof:lastmodified":1466505382,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":420519571,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 303663611,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Washington Pointe Dr Indianapolis IN 46229",
+    "addr:housenumber":"140",
+    "addr:postcode":"46229",
+    "addr:street":"Washington Pointe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.98041,39.776334,-85.98041,39.776334",
     "geom:latitude":39.776334,
     "geom:longitude":-85.98041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Washington Pointe Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85854541
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QItaNR0ffEuGyEBbxQi3j_39.776334_-85.980410@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"2da93134c8f61287d237765beab685ba",
+    "wof:geomhash":"d154648582d68bae40e94336257e12da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":303663611,
-    "wof:lastmodified":1466502944,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

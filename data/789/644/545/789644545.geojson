@@ -2,14 +2,20 @@
   "id": 789644545,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 W Mishawaka Rd Elkhart IN 46517",
+    "addr:housenumber":"411",
+    "addr:postcode":"46517",
+    "addr:street":"W Mishawaka Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.979789,41.653574,-85.979789,41.653574",
     "geom:latitude":41.653574,
     "geom:longitude":-85.979789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 W Mishawaka Rd",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g9LPkodOm8x7ZsgxHfUTu_41.653574_-85.979789@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589406,
-    "wof:geomhash":"15a339c41a1c85d21dc7b1524e0a6319",
+    "wof:geomhash":"beaf62c19b661368d038fa039a19bd02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789644545,
-    "wof:lastmodified":1466504672,
+    "wof:lastmodified":1510602800,
     "wof:name":"Service Master Co",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

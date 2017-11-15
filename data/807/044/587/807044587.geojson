@@ -2,9 +2,14 @@
   "id": 807044587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1450 W 180th Ln Lowell IN 46356",
+    "addr:housenumber":"1450",
+    "addr:postcode":"46356",
+    "addr:street":"W 180Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.499702,41.292,-87.499702,41.292",
     "geom:latitude":41.292,
     "geom:longitude":-87.499702,
@@ -27,7 +32,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28yCA5XH9GSFoy1ijIZtNJ_41.292000_-87.499702@1303262771"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462603247,
     "wof:geomhash":"4a11e7d399363fbb5bb0d3d4a0d871ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807044587
+        }
+    ],
     "wof:id":807044587,
-    "wof:lastmodified":1466503996,
+    "wof:lastmodified":1492093603,
     "wof:name":"Italian Outpost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

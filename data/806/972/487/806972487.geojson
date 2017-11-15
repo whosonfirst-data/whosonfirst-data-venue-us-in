@@ -2,14 +2,20 @@
   "id": 806972487,
   "type": "Feature",
   "properties": {
+    "addr:full":"3824 E 82nd St Indianapolis IN 46240",
+    "addr:housenumber":"3824",
+    "addr:postcode":"46240",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.101081,39.909214,-86.101081,39.909214",
     "geom:latitude":39.909214,
     "geom:longitude":-86.101081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3824 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WLAJOdTfmVcakrAXIl8Ic_39.909214_-86.101081@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602630,
-    "wof:geomhash":"49ddc4852763fe93f4b1b7e345cca099",
+    "wof:geomhash":"2fa196402eed9ee3a7378475394fad47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806972487,
-    "wof:lastmodified":1466518849,
+    "wof:lastmodified":1510695738,
     "wof:name":"Don Pablo's",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

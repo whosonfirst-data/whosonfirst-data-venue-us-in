@@ -2,14 +2,20 @@
   "id": 789781303,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 N Green River Rd Evansville IN 47715",
+    "addr:housenumber":"575",
+    "addr:postcode":"47715",
+    "addr:street":"N Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492616,37.983155,-87.492616,37.983155",
     "geom:latitude":37.983155,
     "geom:longitude":-87.492616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"575 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tW1u4P01ECBlxCiXQCLQM_37.983155_-87.492616@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590491,
-    "wof:geomhash":"99ca604f8d07327f1cc03f1852e516cb",
+    "wof:geomhash":"e53b1ab7754e206294d9f573a6f80596",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789781303,
-    "wof:lastmodified":1466506396,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

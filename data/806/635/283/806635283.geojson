@@ -2,9 +2,14 @@
   "id": 806635283,
   "type": "Feature",
   "properties": {
+    "addr:full":"15129 W 145th Ave Cedar Lake IN 46303",
+    "addr:housenumber":"15129",
+    "addr:postcode":"46303",
+    "addr:street":"W 145Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.514717,41.355759,-87.514717,41.355759",
     "geom:latitude":41.355759,
     "geom:longitude":-87.514717,
@@ -27,7 +32,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nSqF44J7fpcUqfCFdpnNR_41.355759_-87.514717@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462599778,
     "wof:geomhash":"9f4a5ee0877c9de5e34c9ce022241cdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":806635283
+        }
+    ],
     "wof:id":806635283,
-    "wof:lastmodified":1466507943,
+    "wof:lastmodified":1492090735,
     "wof:name":"Master Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

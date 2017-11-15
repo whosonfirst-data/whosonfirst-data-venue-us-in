@@ -2,9 +2,14 @@
   "id": 806459991,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Aberdeen Dr Valparaiso IN 46385",
+    "addr:housenumber":"214",
+    "addr:postcode":"46385",
+    "addr:street":"Aberdeen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107763,41.439238,-87.107763,41.439238",
     "geom:latitude":41.439238,
     "geom:longitude":-87.107763,
@@ -25,7 +30,10 @@
     "sg:province":"IN",
     "sg:website":"www.mbiins.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DxBUJmcMsGQ9zyyMHTwOP_41.439238_-87.107763@1294102998"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1462598312,
     "wof:geomhash":"48faa70b63e27f164cb257f082ddd499",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806459991
+        }
+    ],
     "wof:id":806459991,
-    "wof:lastmodified":1466505554,
+    "wof:lastmodified":1492088101,
     "wof:name":"Mac Lennan & Bain Insurance",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

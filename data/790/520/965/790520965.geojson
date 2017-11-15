@@ -2,14 +2,20 @@
   "id": 790520965,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 S Huntington St Syracuse IN 46567",
+    "addr:housenumber":"801",
+    "addr:postcode":"46567",
+    "addr:street":"S Huntington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.746769,41.413657,-85.746769,41.413657",
     "geom:latitude":41.413657,
     "geom:longitude":-85.746769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 S Huntington St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125159491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cb6oeY2460Ef11rzm02NY_41.413657_-85.746769@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596550,
-    "wof:geomhash":"f77a4aaa48053dc04b98fab718716f9b",
+    "wof:geomhash":"1ddebfe243efe25e84c23b78831b23a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790520965,
-    "wof:lastmodified":1466513137,
+    "wof:lastmodified":1510695424,
     "wof:name":"Calvary United Methodist Chr",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

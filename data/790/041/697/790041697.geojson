@@ -2,14 +2,20 @@
   "id": 790041697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 S Lynhurst Dr Indianapolis IN 46241",
+    "addr:housenumber":"1725",
+    "addr:postcode":"46241",
+    "addr:street":"S Lynhurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.250169,39.742511,-86.250169,39.742511",
     "geom:latitude":39.742511,
     "geom:longitude":-86.250169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1725 S Lynhurst Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Od1NWFtTUQfN0VVCYnjFO_39.742511_-86.250169@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592657,
-    "wof:geomhash":"b328264379b4bdda55f6a71e81965838",
+    "wof:geomhash":"c724a5afac286785296fb62c7dfc2a83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790041697,
-    "wof:lastmodified":1466504342,
+    "wof:lastmodified":1510602504,
     "wof:name":"Village Pantry",
     "wof:parent_id":420519801,
     "wof:placetype":"venue",

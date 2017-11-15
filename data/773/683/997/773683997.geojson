@@ -2,14 +2,20 @@
   "id": 773683997,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Meridian St Indianapolis IN 46204",
+    "addr:housenumber":"300",
+    "addr:postcode":"46204",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157899,39.772013,-86.157899,39.772013",
     "geom:latitude":39.772013,
     "geom:longitude":-86.157899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RmaszexMK8605BeQuqeXO_39.772013_-86.157899@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587570,
-    "wof:geomhash":"a98dafa6b8b59e40cf2f6b9f54fd1789",
+    "wof:geomhash":"1c7a64e68cb3f15ed7de0a6083407e52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773683997,
-    "wof:lastmodified":1466517484,
+    "wof:lastmodified":1510698786,
     "wof:name":"Pricewaterhouse Coopers",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

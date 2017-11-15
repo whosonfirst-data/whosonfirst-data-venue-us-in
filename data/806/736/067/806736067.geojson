@@ -2,9 +2,14 @@
   "id": 806736067,
   "type": "Feature",
   "properties": {
+    "addr:full":"1552 N 3000 East Rd Sheldon IN 60966",
+    "addr:housenumber":"1552;3000",
+    "addr:postcode":"60966",
+    "addr:street":"N;East Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.555562,40.742783,-87.555562,40.742783",
     "geom:latitude":40.742783,
     "geom:longitude":-87.555562,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fedh9NlVo7vADXenJAJNy_40.742783_-87.555562@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600632,
     "wof:geomhash":"9c88f23adc81578d4777012f7fc6507e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "region_id":85688697,
+            "venue_id":806736067
+        }
+    ],
     "wof:id":806736067,
-    "wof:lastmodified":1466512030,
+    "wof:lastmodified":1492106204,
     "wof:name":"Mark Nagele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

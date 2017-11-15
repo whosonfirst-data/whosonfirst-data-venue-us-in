@@ -2,9 +2,14 @@
   "id": 773736469,
   "type": "Feature",
   "properties": {
+    "addr:full":"2079 E 1000 N Laporte IN 46350",
+    "addr:housenumber":"2079",
+    "addr:postcode":"46350",
+    "addr:street":"E 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.657457,41.752908,-86.657457,41.752908",
     "geom:latitude":41.752908,
     "geom:longitude":-86.657457,
@@ -27,7 +32,13 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500435,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVMCYf1odFZYG729Lk12M_41.752908_-86.657457@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462587997,
     "wof:geomhash":"cc0acd9744c35d6bdc9dec9fcbec17b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404500435,
+            "region_id":85688709,
+            "venue_id":773736469
+        }
+    ],
     "wof:id":773736469,
-    "wof:lastmodified":1466518442,
+    "wof:lastmodified":1492092234,
     "wof:name":"Lewis Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806956733,
   "type": "Feature",
   "properties": {
+    "addr:full":"7802 Brookville Rd Indianapolis IN 46239",
+    "addr:housenumber":"7802",
+    "addr:postcode":"46239",
+    "addr:street":"Brookville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.029266,39.75061,-86.029266,39.75061",
     "geom:latitude":39.75061,
     "geom:longitude":-86.029266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7802 Brookville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27nHyz5vYA8gZA5i9PoHpd_39.750610_-86.029266@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602500,
-    "wof:geomhash":"10073dc4a46f8c25149d677b69ad5f7a",
+    "wof:geomhash":"1dff4e9cbd88c54d17987468676409ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806956733,
-    "wof:lastmodified":1466518394,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":420519799,
     "wof:placetype":"venue",

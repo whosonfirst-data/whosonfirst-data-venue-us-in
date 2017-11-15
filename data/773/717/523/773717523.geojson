@@ -2,9 +2,14 @@
   "id": 773717523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1092 Baums Bridge Rd Kouts IN 46347",
+    "addr:housenumber":"1092",
+    "addr:postcode":"46347",
+    "addr:street":"Baums Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.0731,41.27464,-87.0731,41.27464",
     "geom:latitude":41.27464,
     "geom:longitude":-87.0731,
@@ -24,7 +29,13 @@
     "sg:postcode":"46347",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500381,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72c1fFkUko4kzkU8yKSK0p_41.274640_-87.073100@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462587854,
     "wof:geomhash":"0644ed32048b3baa91efe533cc893296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500381,
+            "region_id":85688709,
+            "venue_id":773717523
+        }
+    ],
     "wof:id":773717523,
-    "wof:lastmodified":1466517581,
+    "wof:lastmodified":1492101020,
     "wof:name":"Baums Bridge Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

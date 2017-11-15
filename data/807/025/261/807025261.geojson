@@ -2,9 +2,14 @@
   "id": 807025261,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 N Wheeler St Griffith IN 46319",
+    "addr:housenumber":"820",
+    "addr:postcode":"46319",
+    "addr:street":"N Wheeler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.414308,41.535801,-87.414308,41.535801",
     "geom:latitude":41.535801,
     "geom:longitude":-87.414308,
@@ -28,7 +33,10 @@
     ],
     "sg:website":"http://www.bristolcourtapartmenthomes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pGvOxcFVAkqXlwr836hyD_41.535801_-87.414308@1303262770"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462603079,
     "wof:geomhash":"617fd98088e25ae22b64bf8bd2f493e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807025261
+        }
+    ],
     "wof:id":807025261,
-    "wof:lastmodified":1466504117,
+    "wof:lastmodified":1492093696,
     "wof:name":"Bristol Court Apartments",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370724125,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 N Lutz St Kentland IN 47951",
+    "addr:housenumber":"104",
+    "addr:postcode":"47951",
+    "addr:street":"N Lutz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.466174,40.770363,-87.466174,40.770363",
     "geom:latitude":40.770363,
     "geom:longitude":-87.466174,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501341,
         85633793,
         85942411,
         102086363
@@ -42,17 +49,17 @@
     "wof:geomhash":"204b03eaf4cc9dbd85ae6caae735ae47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086363,
+            "localadmin_id":404501341,
             "locality_id":85942411,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":370724125
         }
     ],
     "wof:id":370724125,
-    "wof:lastmodified":1466503512,
+    "wof:lastmodified":1492090299,
     "wof:name":"Wirtz-Yates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

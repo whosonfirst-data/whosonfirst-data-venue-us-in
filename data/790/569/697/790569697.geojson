@@ -2,9 +2,14 @@
   "id": 790569697,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 E US Hwy 231 Leroy IN 46307",
+    "addr:housenumber":"5301",
+    "addr:postcode":"46307",
+    "addr:street":"E Us Hwy 231 Leroy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.270726,41.360671,-87.270726,41.360671",
     "geom:latitude":41.360671,
     "geom:longitude":-87.270726,
@@ -28,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501875,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Le4yS0a9EZzvVDUMASpZR_41.360671_-87.270726@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462596958,
     "wof:geomhash":"4ff7b934171a1ac09c9c37a0d059e5dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501875,
+            "region_id":85688709,
+            "venue_id":790569697
+        }
+    ],
     "wof:id":790569697,
-    "wof:lastmodified":1466514197,
+    "wof:lastmodified":1492090734,
     "wof:name":"Cope Brothers Machine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

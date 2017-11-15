@@ -2,9 +2,14 @@
   "id": 806630671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2923 E 10th St Indianapolis IN 46201",
+    "addr:housenumber":"2923",
+    "addr:postcode":"46201",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.11546,39.781347,-86.11546,39.781347",
     "geom:latitude":39.781347,
     "geom:longitude":-86.11546,
@@ -31,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891141,
+        85870659,
         102191575,
         404502029,
         85633793,
         85942569,
         102087201,
-        85688709
+        85688709,
+        85891141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,25 @@
             "county_id":102087201,
             "localadmin_id":404502029,
             "locality_id":85942569,
+            "neighbourhood_id":85870659,
+            "region_id":85688709,
+            "venue_id":806630671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
             "neighbourhood_id":85891141,
             "region_id":85688709,
             "venue_id":806630671
         }
     ],
     "wof:id":806630671,
-    "wof:lastmodified":1466507738,
+    "wof:lastmodified":1491918299,
     "wof:name":"Tenth Street Music",
-    "wof:parent_id":85891141,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

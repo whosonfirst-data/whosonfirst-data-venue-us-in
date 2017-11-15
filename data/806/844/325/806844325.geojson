@@ -2,14 +2,20 @@
   "id": 806844325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2353 Beam Rd Columbus IN 47203",
+    "addr:housenumber":"2353",
+    "addr:postcode":"47203",
+    "addr:street":"Beam Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.888281,39.22181,-85.888281,39.22181",
     "geom:latitude":39.22181,
     "geom:longitude":-85.888281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2353 Beam Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kYQyOO91vZ6j5sA29a37I_39.221776_-85.888294@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601559,
-    "wof:geomhash":"b4c91eac4ab48dd4b7adce30d0b52916",
+    "wof:geomhash":"05f49b025c8a913828b39bd44bfa28b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806844325,
-    "wof:lastmodified":1466516141,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

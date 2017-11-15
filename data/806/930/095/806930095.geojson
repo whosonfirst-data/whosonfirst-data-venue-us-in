@@ -2,14 +2,20 @@
   "id": 806930095,
   "type": "Feature",
   "properties": {
+    "addr:full":"6002 N Rural St Indianapolis IN 46220",
+    "addr:housenumber":"6002",
+    "addr:postcode":"46220",
+    "addr:street":"N Rural St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.11747,39.863219,-86.11747,39.863219",
     "geom:latitude":39.863219,
     "geom:longitude":-86.11747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6002 N Rural St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R2dML5qbU3F9WKF2jHDIy_39.863219_-86.117470@1303262764"
     },
     "wof:country":"US",
     "wof:created":1462602276,
-    "wof:geomhash":"3b37d5a7c161f2d5a825d0b0b9b47535",
+    "wof:geomhash":"628bde99d06a4026e90b8d758a08037b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806930095,
-    "wof:lastmodified":1466517917,
+    "wof:lastmodified":1510698848,
     "wof:name":"Lowe's? Home Improvement",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",

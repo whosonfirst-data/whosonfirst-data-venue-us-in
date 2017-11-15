@@ -2,9 +2,14 @@
   "id": 370399379,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Roeske Ave Trail Creek IN 46360",
+    "addr:housenumber":"100",
+    "addr:postcode":"creek;46360",
+    "addr:street":"N Roeske Ave Trail",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.864727,41.707502,-86.864727,41.707502",
     "geom:latitude":41.707502,
     "geom:longitude":-86.864727,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891175,
+        102191575,
+        404501783,
         85633793,
         85941911,
         102086409,
-        85891175
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"37f0840e2aa79e6706a01c6d634fe4b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
             "neighbourhood_id":85891175,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":370399379,
-    "wof:lastmodified":1466503173,
+    "wof:lastmodified":1492101250,
     "wof:name":"Owens Motor Supply Co",
     "wof:parent_id":85891175,
     "wof:placetype":"venue",

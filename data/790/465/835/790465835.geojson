@@ -2,9 +2,14 @@
   "id": 790465835,
   "type": "Feature",
   "properties": {
+    "addr:full":"4581 Broadway Gary IN 46409",
+    "addr:housenumber":"4581",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336188,41.536404,-87.336188,41.536404",
     "geom:latitude":41.536404,
     "geom:longitude":-87.336188,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MHcRyeoqM1N852Meqc14S_41.536404_-87.336188@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596056,
     "wof:geomhash":"f4b4d4659f8192354c2c5f7b11588746",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790465835
+        }
+    ],
     "wof:id":790465835,
-    "wof:lastmodified":1466510775,
+    "wof:lastmodified":1492094628,
     "wof:name":"Crenshaw Realty",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

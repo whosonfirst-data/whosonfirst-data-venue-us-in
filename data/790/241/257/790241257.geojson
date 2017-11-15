@@ -2,9 +2,14 @@
   "id": 790241257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 Calhoun St Gary IN 46408",
+    "addr:housenumber":"4340",
+    "addr:postcode":"46408",
+    "addr:street":"Calhoun St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.408371,41.539342,-87.408371,41.539342",
     "geom:latitude":41.539342,
     "geom:longitude":-87.408371,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z494XGdXx8dYs5Bj5LqCP_41.539342_-87.408371@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594257,
     "wof:geomhash":"5bb561e2f5be30c17b071120b2fcc3c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790241257
+        }
+    ],
     "wof:id":790241257,
-    "wof:lastmodified":1466506338,
+    "wof:lastmodified":1492094628,
     "wof:name":"Diehl's Landscaping Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

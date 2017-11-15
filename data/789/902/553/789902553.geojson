@@ -2,6 +2,10 @@
   "id": 789902553,
   "type": "Feature",
   "properties": {
+    "addr:full":"462 Park 800 Dr Greenwood IN 46143",
+    "addr:housenumber":"462;800",
+    "addr:postcode":"46143",
+    "addr:street":"Park;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":789902553,
-    "wof:lastmodified":1466507559,
+    "wof:lastmodified":1472622749,
     "wof:name":"Vitech Automation LLC",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

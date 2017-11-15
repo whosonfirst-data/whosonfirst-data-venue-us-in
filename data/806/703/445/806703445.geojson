@@ -2,9 +2,14 @@
   "id": 806703445,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 E Washington St Kentland IN 47951",
+    "addr:housenumber":"206",
+    "addr:postcode":"47951",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.446786,40.772362,-87.446786,40.772362",
     "geom:latitude":40.772362,
     "geom:longitude":-87.446786,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20ApY6uMsBm3uLUfGE5iWF_40.772362_-87.446786@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462600364,
     "wof:geomhash":"ac6bd7b2d74f180a9f58b11b6d3eb59e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":806703445
+        }
+    ],
     "wof:id":806703445,
-    "wof:lastmodified":1466511762,
+    "wof:lastmodified":1492092079,
     "wof:name":"Hair By Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789719709,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 Wilson St Kentland IN 47951",
+    "addr:housenumber":"402",
+    "addr:postcode":"47951",
+    "addr:street":"Wilson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.461137,40.7704,-87.461137,40.7704",
     "geom:latitude":40.7704,
     "geom:longitude":-87.461137,
@@ -28,7 +33,14 @@
         "seed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YeacNgHrMIh08N7QpORo8_40.770400_-87.461137@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590011,
     "wof:geomhash":"400ccf1cf96e180c948f832d223d25db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":789719709
+        }
+    ],
     "wof:id":789719709,
-    "wof:lastmodified":1466505532,
+    "wof:lastmodified":1492101515,
     "wof:name":"Agventure D & M Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

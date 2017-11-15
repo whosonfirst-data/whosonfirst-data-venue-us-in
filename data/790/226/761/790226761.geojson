@@ -2,6 +2,10 @@
   "id": 790226761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1223 State Rd 131 Clarksville IN 47129",
+    "addr:housenumber":"1223;131",
+    "addr:postcode":"47129",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790226761,
-    "wof:lastmodified":1466506158,
+    "wof:lastmodified":1472622627,
     "wof:name":"Autograph Gallery",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",

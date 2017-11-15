@@ -2,9 +2,14 @@
   "id": 773000773,
   "type": "Feature",
   "properties": {
+    "addr:full":"5308 Grant St Merrillville IN 46410",
+    "addr:housenumber":"5308",
+    "addr:postcode":"46410",
+    "addr:street":"Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.354943,41.521237,-87.354943,41.521237",
     "geom:latitude":41.521237,
     "geom:longitude":-87.354943,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FmiFrVNGrNxHhEofP5Mtb_41.521237_-87.354943@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462582128,
     "wof:geomhash":"cc38e3c6e3d54ba61eab835a893222bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773000773
+        }
+    ],
     "wof:id":773000773,
-    "wof:lastmodified":1466503865,
+    "wof:lastmodified":1492105129,
     "wof:name":"Snoops Pit",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370280721,
   "type": "Feature",
   "properties": {
+    "addr:full":"9515 W 1600 S Goodland IN 47948",
+    "addr:housenumber":"9515",
+    "addr:postcode":"47948",
+    "addr:street":"W 1600 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.225068,40.780388,-87.225068,40.780388",
     "geom:latitude":40.780388,
     "geom:longitude":-87.225068,
@@ -25,8 +30,11 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404500065,
         85633793,
-        85688709
+        102087005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +44,16 @@
     "wof:geomhash":"073212c36ce687ca32c188ea721b0ef7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087005,
+            "localadmin_id":404500065,
             "region_id":85688709,
             "venue_id":370280721
         }
     ],
     "wof:id":370280721,
-    "wof:lastmodified":1466503051,
+    "wof:lastmodified":1492090403,
     "wof:name":"Janets Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

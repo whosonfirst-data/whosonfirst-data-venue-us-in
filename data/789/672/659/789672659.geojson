@@ -2,14 +2,20 @@
   "id": 789672659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Aetna St Gary IN 46403",
+    "addr:housenumber":"1120",
+    "addr:postcode":"46403",
+    "addr:street":"Aetna St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.289486,41.592877,-87.289486,41.592877",
     "geom:latitude":41.592877,
     "geom:longitude":-87.289486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1120 Aetna St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A1pU0S1UfbGCjE9CdiNa8_41.592877_-87.289486@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589646,
-    "wof:geomhash":"c924b6324163bf6bfd188fb596a048d8",
+    "wof:geomhash":"c79f0cc5ea8400f35587ba11bdcc5997",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789672659,
-    "wof:lastmodified":1466505132,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85802467,
     "wof:placetype":"venue",

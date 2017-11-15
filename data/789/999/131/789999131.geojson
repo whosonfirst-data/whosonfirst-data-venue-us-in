@@ -2,6 +2,10 @@
   "id": 789999131,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Independence Dr Fort Wayne IN 46808",
+    "addr:housenumber":"3333",
+    "addr:postcode":"46808",
+    "addr:street":"Independence Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789999131,
-    "wof:lastmodified":1466510591,
+    "wof:lastmodified":1472622848,
     "wof:name":"CMA Supply",
     "wof:parent_id":85837701,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790392745,
   "type": "Feature",
   "properties": {
+    "addr:full":"8190 Oaklandon Rd Oaklandon IN 46236",
+    "addr:housenumber":"8190",
+    "addr:postcode":"46236",
+    "addr:street":"Oaklandon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.957227,39.902753,-85.957227,39.902753",
     "geom:latitude":39.902753,
     "geom:longitude":-85.957227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8190 Oaklandon Rd",
     "sg:city":"Oaklandon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XZCVPAwTMdQtOASIfWYoO_39.902753_-85.957227@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595486,
-    "wof:geomhash":"6a5185b7ddb939ab44c1f97441ad9180",
+    "wof:geomhash":"ef0edbea8b2072ccf2043bf7460d4118",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790392745,
-    "wof:lastmodified":1466507937,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":420519773,
     "wof:placetype":"venue",

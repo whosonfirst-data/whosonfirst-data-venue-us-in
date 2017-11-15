@@ -2,9 +2,14 @@
   "id": 790049075,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 W 44th Ave Gary IN 46408",
+    "addr:housenumber":"625",
+    "addr:postcode":"46408",
+    "addr:street":"W 44Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345779,41.538561,-87.345779,41.538561",
     "geom:latitude":41.538561,
     "geom:longitude":-87.345779,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UiCvOEX1drWraT8sAJZYf_41.538561_-87.345779@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592711,
     "wof:geomhash":"5df65c145342498b49381d125ba6d6ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790049075
+        }
+    ],
     "wof:id":790049075,
-    "wof:lastmodified":1466504365,
+    "wof:lastmodified":1492100593,
     "wof:name":"Full Gospel Tabernacle",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

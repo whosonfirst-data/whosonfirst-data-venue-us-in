@@ -2,9 +2,14 @@
   "id": 790110049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2895 W State Rd 14 Morocco IN 47963",
+    "addr:housenumber":"2895;14",
+    "addr:postcode":"47963",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.446961,41.013783,-87.446961,41.013783",
     "geom:latitude":41.013783,
     "geom:longitude":-87.446961,
@@ -27,7 +32,13 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500271,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GrsIU0JNSPxkW6ysejJa6_41.013783_-87.446961@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462593220,
     "wof:geomhash":"42e9a6b3787278e57074caca3a8ed295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500271,
+            "region_id":85688709,
+            "venue_id":790110049
+        }
+    ],
     "wof:id":790110049,
-    "wof:lastmodified":1466504859,
+    "wof:lastmodified":1492092331,
     "wof:name":"Willow Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

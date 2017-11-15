@@ -2,9 +2,14 @@
   "id": 387297163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1116 Hanley St Gary IN 46406",
+    "addr:housenumber":"1116",
+    "addr:postcode":"46406",
+    "addr:street":"Hanley St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.401127,41.59126,-87.401127,41.59126",
     "geom:latitude":41.59126,
     "geom:longitude":-87.401127,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85827161,
+        102191575,
+        404501857,
         85633793,
         85941813,
         102087149,
-        85827161
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"74dc9db19e3ba3f0bcc31dbc0bf3697f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941813,
             "neighbourhood_id":85827161,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":387297163,
-    "wof:lastmodified":1466503302,
+    "wof:lastmodified":1492096812,
     "wof:name":"Tine's Salon",
     "wof:parent_id":85827161,
     "wof:placetype":"venue",

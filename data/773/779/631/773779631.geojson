@@ -2,14 +2,20 @@
   "id": 773779631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 S Calumet Rd Chesterton IN 46304",
+    "addr:housenumber":"1505",
+    "addr:postcode":"46304",
+    "addr:street":"S Calumet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.046251,41.593698,-87.046251,41.593698",
     "geom:latitude":41.593698,
     "geom:longitude":-87.046251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1505 S Calumet Rd",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85852597,
         102087191
     ],
+    "wof:brand_id":420574853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uXCvOZg4zxGPRqaVnNsAf_41.593698_-87.046251@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588315,
-    "wof:geomhash":"e06ab4cb07688873bed0afa6dcfaf400",
+    "wof:geomhash":"a4e3d07e72a80a5ddec81b5f4652ac9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773779631,
-    "wof:lastmodified":1466518721,
+    "wof:lastmodified":1510604531,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

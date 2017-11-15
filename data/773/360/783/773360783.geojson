@@ -2,9 +2,14 @@
   "id": 773360783,
   "type": "Feature",
   "properties": {
+    "addr:full":"5188 W Laxita Dr La Porte IN 46350",
+    "addr:housenumber":"5188",
+    "addr:postcode":"46350",
+    "addr:street":"W Laxita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799865,41.684096,-86.799865,41.684096",
     "geom:latitude":41.684096,
     "geom:longitude":-86.799865,
@@ -28,7 +33,10 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PoryzpXr8HoXO0c6o7yC5_41.684096_-86.799865@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462585119,
     "wof:geomhash":"4402bdd4cfb97884014352bd905c57f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773360783
+        }
+    ],
     "wof:id":773360783,
-    "wof:lastmodified":1466508369,
+    "wof:lastmodified":1492106692,
     "wof:name":"T & S Siding",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

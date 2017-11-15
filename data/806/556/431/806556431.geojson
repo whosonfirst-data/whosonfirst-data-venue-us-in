@@ -2,9 +2,14 @@
   "id": 806556431,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Meridian Rd Valparaiso IN 46385",
+    "addr:housenumber":"707",
+    "addr:postcode":"46385",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066111,41.536309,-87.066111,41.536309",
     "geom:latitude":41.536309,
     "geom:longitude":-87.066111,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ghype2u2aQ1MNRgJpwIgo_41.536309_-87.066111@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599087,
     "wof:geomhash":"6ea55a8435522bb68ef74d48bc6afae6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806556431
+        }
+    ],
     "wof:id":806556431,
-    "wof:lastmodified":1466506829,
+    "wof:lastmodified":1492091731,
     "wof:name":"Joanne Ikeda",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

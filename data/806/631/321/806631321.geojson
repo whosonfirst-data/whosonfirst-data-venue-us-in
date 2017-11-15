@@ -2,14 +2,20 @@
   "id": 806631321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 E Epler Ave Indianapolis IN 46227",
+    "addr:housenumber":"1130",
+    "addr:postcode":"46227",
+    "addr:street":"E Epler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.136848,39.686876,-86.136848,39.686876",
     "geom:latitude":39.686876,
     "geom:longitude":-86.136848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1130 E Epler Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76ZAoXQzJFeNKL741xMW0r_39.686876_-86.136848@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599749,
-    "wof:geomhash":"b99baea5b548e86a13638feba4f1a132",
+    "wof:geomhash":"0c9fcb58323f9f517e1338ff60a456a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806631321,
-    "wof:lastmodified":1466508047,
+    "wof:lastmodified":1510602838,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

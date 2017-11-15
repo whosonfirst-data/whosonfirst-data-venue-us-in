@@ -2,9 +2,14 @@
   "id": 773685347,
   "type": "Feature",
   "properties": {
+    "addr:full":"378 Rushmore Dr Valparaiso IN 46385",
+    "addr:housenumber":"378",
+    "addr:postcode":"46385",
+    "addr:street":"Rushmore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.139933,41.507961,-87.139933,41.507961",
     "geom:latitude":41.507961,
     "geom:longitude":-87.139933,
@@ -28,7 +33,10 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vOwqNGJd8LhMR2vjIZytj_41.507961_-87.139933@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462587583,
     "wof:geomhash":"3d3fd5d8e71a854dcf96fca676c683c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773685347
+        }
+    ],
     "wof:id":773685347,
-    "wof:lastmodified":1466517422,
+    "wof:lastmodified":1492091782,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

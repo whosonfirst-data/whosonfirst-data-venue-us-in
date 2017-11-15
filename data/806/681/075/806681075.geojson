@@ -2,9 +2,14 @@
   "id": 806681075,
   "type": "Feature",
   "properties": {
+    "addr:full":"8916 W 89th Ave Saint John IN 46373",
+    "addr:housenumber":"8916",
+    "addr:postcode":"46373",
+    "addr:street":"W 89Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.444972,41.45648,-87.444972,41.45648",
     "geom:latitude":41.45648,
     "geom:longitude":-87.444972,
@@ -29,7 +34,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dNO57uLQz9dBDPJMZuENU_41.456480_-87.444972@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462600179,
     "wof:geomhash":"19c812e9a0adc508e1c9fb5bc5ede5e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":806681075
+        }
+    ],
     "wof:id":806681075,
-    "wof:lastmodified":1466510343,
+    "wof:lastmodified":1492092103,
     "wof:name":"Bbs Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

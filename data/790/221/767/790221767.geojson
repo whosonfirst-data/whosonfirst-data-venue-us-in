@@ -2,14 +2,20 @@
   "id": 790221767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3904 W Ferguson Rd Fort Wayne IN 46809",
+    "addr:housenumber":"3904",
+    "addr:postcode":"46809",
+    "addr:street":"W Ferguson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.18525,40.989159,-85.18525,40.989159",
     "geom:latitude":40.989159,
     "geom:longitude":-85.18525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3904 W Ferguson Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85877567,
         102087177
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YWzCZqkRqIgcVRAh5OLPW_40.989159_-85.185250@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594114,
-    "wof:geomhash":"1a32777e007f9eaa257f379fca4d1ced",
+    "wof:geomhash":"95c58ffbb536b7dab21c3a65ebcc8908",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790221767,
-    "wof:lastmodified":1466506023,
+    "wof:lastmodified":1510696926,
     "wof:name":"International Paper Co",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",

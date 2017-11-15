@@ -2,9 +2,14 @@
   "id": 790113585,
   "type": "Feature",
   "properties": {
+    "addr:full":"10351 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"10351;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.722298,41.75984,-86.722298,41.75984",
     "geom:latitude":41.75984,
     "geom:longitude":-86.722298,
@@ -29,7 +34,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85815431,
+        102191575,
+        404507001,
+        85633793,
+        85951579,
+        102083151,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vtIhklYF3860mtcW1jTzW_41.759840_-86.722298@1294102998"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462593243,
     "wof:geomhash":"aa3e7f3451f67d4241b5d6f4b15e0855",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083151,
+            "localadmin_id":404507001,
+            "locality_id":85951579,
+            "neighbourhood_id":85815431,
+            "region_id":85688599,
+            "venue_id":790113585
+        }
+    ],
     "wof:id":790113585,
-    "wof:lastmodified":1466505040,
+    "wof:lastmodified":1492097602,
     "wof:name":"Smoke Shop F9",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

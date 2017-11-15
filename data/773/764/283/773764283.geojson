@@ -2,9 +2,14 @@
   "id": 773764283,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 Turnberry Dr Valparaiso IN 46385",
+    "addr:housenumber":"264",
+    "addr:postcode":"46385",
+    "addr:street":"Turnberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.116547,41.443095,-87.116547,41.443095",
     "geom:latitude":41.443095,
     "geom:longitude":-87.116547,
@@ -27,7 +32,10 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52D2PXbQQoNbSznwf3XttU_41.443095_-87.116547@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588201,
     "wof:geomhash":"3a9ef6a41f009cadc10104984dddc1bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773764283
+        }
+    ],
     "wof:id":773764283,
-    "wof:lastmodified":1466518531,
+    "wof:lastmodified":1492102951,
     "wof:name":"Accurate Door",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

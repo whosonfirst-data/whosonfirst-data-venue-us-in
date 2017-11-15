@@ -2,9 +2,14 @@
   "id": 806435695,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"44",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.073916,41.549977,-87.073916,41.549977",
     "geom:latitude":41.549977,
     "geom:longitude":-87.073916,
@@ -28,7 +33,14 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863,
+        85688709,
+        85942375,
+        102087191,
+        85856849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AsQVl6SJylOsAdP4rSwMQ_41.549977_-87.073916@1294102998"
@@ -36,11 +48,25 @@
     "wof:country":"US",
     "wof:created":1462598129,
     "wof:geomhash":"464861504c10a588b582f8e16d4d8531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806435695
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942375,
+            "neighbourhood_id":85856849,
+            "region_id":85688709,
+            "venue_id":806435695
+        }
+    ],
     "wof:id":806435695,
-    "wof:lastmodified":1466505255,
+    "wof:lastmodified":1492097611,
     "wof:name":"A-Reliable Storage",
-    "wof:parent_id":420519863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

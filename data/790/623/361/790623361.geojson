@@ -2,14 +2,20 @@
   "id": 790623361,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 Fairfield Ave Goshen IN 46526",
+    "addr:housenumber":"1503",
+    "addr:postcode":"46526",
+    "addr:street":"Fairfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.812587,41.573516,-85.812587,41.573516",
     "geom:latitude":41.573516,
     "geom:longitude":-85.812587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1503 Fairfield Ave",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":420574853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sI4FlhcJCAc0uNJhhNrWC_41.573516_-85.812587@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597444,
-    "wof:geomhash":"fd5514cd1192e4a910b9f8a9c7d4578b",
+    "wof:geomhash":"7df8813f34841f82eed9d8db36826dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790623361,
-    "wof:lastmodified":1466516023,
+    "wof:lastmodified":1510604531,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

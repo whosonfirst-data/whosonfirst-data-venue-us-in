@@ -2,14 +2,20 @@
   "id": 773225133,
   "type": "Feature",
   "properties": {
+    "addr:full":"7404 Rockville Rd Indianapolis IN 46214",
+    "addr:housenumber":"7404",
+    "addr:postcode":"46214",
+    "addr:street":"Rockville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.291988,39.764331,-86.291988,39.764331",
     "geom:latitude":39.764331,
     "geom:longitude":-86.291988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7404 Rockville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oX2CNtDGIma0IjgckKjtV_39.764331_-86.291988@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584109,
-    "wof:geomhash":"184d86341dc5b7b185474ae1fd021027",
+    "wof:geomhash":"8f149460d7acc576328992ae23b58e62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773225133,
-    "wof:lastmodified":1466506436,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",

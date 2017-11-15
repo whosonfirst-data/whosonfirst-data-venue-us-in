@@ -2,14 +2,20 @@
   "id": 773532975,
   "type": "Feature",
   "properties": {
+    "addr:full":"5206 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"5206",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.255854,39.823887,-86.255854,39.823887",
     "geom:latitude":39.823887,
     "geom:longitude":-86.255854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5206 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dGcv95gh0nJy2NX6DLmyx_39.823887_-86.255854@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586434,
-    "wof:geomhash":"43a1f7d1194e9fa3ce1aad7f2d424b79",
+    "wof:geomhash":"01b0099863e573b3120a9567551c768d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773532975,
-    "wof:lastmodified":1466514616,
+    "wof:lastmodified":1510603989,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

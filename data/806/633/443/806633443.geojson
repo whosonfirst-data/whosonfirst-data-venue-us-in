@@ -2,14 +2,20 @@
   "id": 806633443,
   "type": "Feature",
   "properties": {
+    "addr:full":"5949 W Raymond St Indianapolis IN 46241",
+    "addr:housenumber":"5949",
+    "addr:postcode":"46241",
+    "addr:street":"W Raymond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.264066,39.735555,-86.264066,39.735555",
     "geom:latitude":39.735555,
     "geom:longitude":-86.264066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5949 W Raymond St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qGbM1j16sKYfH862oH65X_39.735555_-86.264066@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599764,
-    "wof:geomhash":"7c17d4a3122c20527712a7b6d4c0bd0a",
+    "wof:geomhash":"3ab0a449068942ded9a78122719bb1f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806633443,
-    "wof:lastmodified":1466507873,
+    "wof:lastmodified":1510697759,
     "wof:name":"Advanced Physical Therapy",
     "wof:parent_id":85833953,
     "wof:placetype":"venue",

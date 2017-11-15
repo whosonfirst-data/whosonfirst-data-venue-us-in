@@ -2,14 +2,20 @@
   "id": 773138751,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Detroit St Warsaw IN 46580",
+    "addr:housenumber":"100",
+    "addr:postcode":"46580",
+    "addr:street":"N Detroit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.852795,41.239076,-85.852795,41.239076",
     "geom:latitude":41.239076,
     "geom:longitude":-85.852795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Detroit St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420573805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vNUv3NUmGyQmbd4hV4UE3_41.239076_-85.852795@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583428,
-    "wof:geomhash":"d630033f3d2101252581fbacec054fa0",
+    "wof:geomhash":"51fbd5a9ba9df77d996376a4dbe21641",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773138751,
-    "wof:lastmodified":1466505819,
+    "wof:lastmodified":1510603218,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

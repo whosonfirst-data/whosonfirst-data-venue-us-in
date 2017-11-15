@@ -2,14 +2,20 @@
   "id": 789848499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 S 3rd St Terre Haute IN 47802",
+    "addr:housenumber":"1428",
+    "addr:postcode":"47802",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.413688,39.451493,-87.413688,39.451493",
     "geom:latitude":39.451493,
     "geom:longitude":-87.413688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1428 S 3rd St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A7iCNRnNGkAERfYVJDkec_39.451493_-87.413688@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591016,
-    "wof:geomhash":"cc157ace0f2357d275eb601e2fc8474e",
+    "wof:geomhash":"477206e56d8e43a4454f173caa2e6ca0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789848499,
-    "wof:lastmodified":1466506919,
+    "wof:lastmodified":1510696060,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

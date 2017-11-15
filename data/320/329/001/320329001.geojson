@@ -2,9 +2,14 @@
   "id": 320329001,
   "type": "Feature",
   "properties": {
+    "addr:full":"4240 N Franklin Rd Indianapolis IN 46226",
+    "addr:housenumber":"4240",
+    "addr:postcode":"46226",
+    "addr:street":"N Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.026984,39.834216,-86.026984,39.834216",
     "geom:latitude":39.834216,
     "geom:longitude":-86.026984,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891137,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891137
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"a23f6df4bdfbecbe9f00c9c5652a4743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891137,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":320329001,
-    "wof:lastmodified":1466502960,
+    "wof:lastmodified":1491937613,
     "wof:name":"Little Steps Child Care",
     "wof:parent_id":85891137,
     "wof:placetype":"venue",

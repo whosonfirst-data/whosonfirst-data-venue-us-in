@@ -2,9 +2,14 @@
   "id": 807094993,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 W Main St Brook IN 47922",
+    "addr:housenumber":"205",
+    "addr:postcode":"47922",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.403802,40.865886,-87.403802,40.865886",
     "geom:latitude":40.865886,
     "geom:longitude":-87.403802,
@@ -53,7 +58,13 @@
     ],
     "sg:website":"http://www.truevalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501347,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EBjG7YBDoK2v5Y5edjt7r_40.865886_-87.403802@1303262773"
@@ -61,9 +72,18 @@
     "wof:country":"US",
     "wof:created":1462603663,
     "wof:geomhash":"660ec0c3da6e89482a003e0eb40fa4e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501347,
+            "region_id":85688709,
+            "venue_id":807094993
+        }
+    ],
     "wof:id":807094993,
-    "wof:lastmodified":1466505038,
+    "wof:lastmodified":1492103022,
     "wof:name":"Hershman's True Value Hardware&Appl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

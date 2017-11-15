@@ -2,14 +2,20 @@
   "id": 790147137,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Brendon Way Zionsville IN 46077",
+    "addr:housenumber":"62",
+    "addr:postcode":"46077",
+    "addr:street":"Brendon Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.274962,39.949026,-86.274962,39.949026",
     "geom:latitude":39.949026,
     "geom:longitude":-86.274962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62 Brendon Way",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086453,
         85688709
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZThcl97gQIGKQcGndBTmO_39.949026_-86.274962@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593486,
-    "wof:geomhash":"c19364ef26f64cba41ff7ea96cac5e37",
+    "wof:geomhash":"771fe48b91a2b3a27a1c1c65491ecd5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790147137,
-    "wof:lastmodified":1466505371,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",

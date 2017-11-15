@@ -2,9 +2,14 @@
   "id": 789927081,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 E Graham St Kentland IN 47951",
+    "addr:housenumber":"210",
+    "addr:postcode":"47951",
+    "addr:street":"E Graham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.446893,40.769235,-87.446893,40.769235",
     "geom:latitude":40.769235,
     "geom:longitude":-87.446893,
@@ -24,7 +29,14 @@
     "sg:postcode":"47951",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jcOYRzwnJJuD0Z0V3MJ1V_40.769235_-87.446893@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462591688,
     "wof:geomhash":"b478b41d0cac5a6a628ad3897d80a148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":789927081
+        }
+    ],
     "wof:id":789927081,
-    "wof:lastmodified":1466507698,
+    "wof:lastmodified":1492101449,
     "wof:name":"Newton County Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

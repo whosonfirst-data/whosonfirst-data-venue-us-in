@@ -2,9 +2,14 @@
   "id": 789852453,
   "type": "Feature",
   "properties": {
+    "addr:full":"5092 N 400 W La Porte IN 46350",
+    "addr:housenumber":"5092",
+    "addr:postcode":"46350",
+    "addr:street":"N 400 W La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.777758,41.681965,-86.777758,41.681965",
     "geom:latitude":41.681965,
     "geom:longitude":-86.777758,
@@ -24,7 +29,10 @@
     "sg:postcode":"46350",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VKCuO1JTCMlehdGnPzSQo_41.681965_-86.777758@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462591046,
     "wof:geomhash":"cce6ab50ed8b2ee09cc7aac4e8bdfd82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789852453
+        }
+    ],
     "wof:id":789852453,
-    "wof:lastmodified":1466507083,
+    "wof:lastmodified":1492103975,
     "wof:name":"P C Tech Computer Service",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

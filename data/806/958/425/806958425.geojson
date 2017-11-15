@@ -2,14 +2,20 @@
   "id": 806958425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 E 86th St Ste 15 Indianapolis IN 46240",
+    "addr:housenumber":"1300",
+    "addr:postcode":"46240",
+    "addr:street":"E 86Th St Ste 15",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.138496,39.912601,-86.138496,39.912601",
     "geom:latitude":39.912601,
     "geom:longitude":-86.138496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 E 86th St Ste 15",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LHyjcoTvLGsPvz3rMeZrh_39.912601_-86.138496@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602513,
-    "wof:geomhash":"9da4e037417374d6e7de58274c1d5a08",
+    "wof:geomhash":"e03d11e5caa605821b0379a2859e00e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806958425,
-    "wof:lastmodified":1466518418,
+    "wof:lastmodified":1510698663,
     "wof:name":"General Nutrition Centers",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",

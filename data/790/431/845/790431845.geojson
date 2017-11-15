@@ -2,14 +2,20 @@
   "id": 790431845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 E Tennessee St Evansville IN 47711",
+    "addr:housenumber":"1301",
+    "addr:postcode":"47711",
+    "addr:street":"E Tennessee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.540269,37.990069,-87.540269,37.990069",
     "geom:latitude":37.990069,
     "geom:longitude":-87.540269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 E Tennessee St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125155213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SDs4sT2CksTSoqKh7AkjJ_37.990069_-87.540269@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595784,
-    "wof:geomhash":"82e1e27e719e61bf62b96b2344747d80",
+    "wof:geomhash":"d5d21d99387a700882c0573c063d9284",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790431845,
-    "wof:lastmodified":1466509086,
+    "wof:lastmodified":1510695368,
     "wof:name":"Allied Building Products Corp",
     "wof:parent_id":85877279,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773141723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4407 Aspen Dr Brownsburg IN 46112",
+    "addr:housenumber":"4407",
+    "addr:postcode":"46112",
+    "addr:street":"Aspen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.340259,39.82681,-86.340259,39.82681",
     "geom:latitude":39.82681,
     "geom:longitude":-86.340259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4407 Aspen Dr",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y25tobimrI9tPD6sXEm8w_39.826810_-86.340259@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583447,
-    "wof:geomhash":"4a40856e80eccc1b0486d5e3ab62fc20",
+    "wof:geomhash":"1c279537b97f46553fb06845133ffe63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773141723,
-    "wof:lastmodified":1466505766,
+    "wof:lastmodified":1510602922,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85857209,
     "wof:placetype":"venue",

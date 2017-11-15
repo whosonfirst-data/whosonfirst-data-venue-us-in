@@ -2,9 +2,14 @@
   "id": 806798863,
   "type": "Feature",
   "properties": {
+    "addr:full":"6922 Harrison Ave Hammond IN 46324",
+    "addr:housenumber":"6922",
+    "addr:postcode":"46324",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.516403,41.587601,-87.516403,41.587601",
     "geom:latitude":41.587601,
     "geom:longitude":-87.516403,
@@ -30,7 +35,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NENvs68TbQomIxYlDAeBO_41.588186_-87.516327@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462601176,
     "wof:geomhash":"cd0c493f034db5eefec33bd34596a1c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":806798863
+        }
+    ],
     "wof:id":806798863,
-    "wof:lastmodified":1466514811,
+    "wof:lastmodified":1492092389,
     "wof:name":"Neal's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

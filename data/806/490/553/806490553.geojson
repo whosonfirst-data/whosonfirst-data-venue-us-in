@@ -2,9 +2,14 @@
   "id": 806490553,
   "type": "Feature",
   "properties": {
+    "addr:full":"3796 Massachusetts St Gary IN 46409",
+    "addr:housenumber":"3796",
+    "addr:postcode":"46409",
+    "addr:street":"Massachusetts St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.335355,41.549856,-87.335355,41.549856",
     "geom:latitude":41.549856,
     "geom:longitude":-87.335355,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P8iynrZfXqjWAtyNNzO8D_41.549856_-87.335355@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462598546,
     "wof:geomhash":"3d051755daccfe0bdaa057a954e2ab67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806490553
+        }
+    ],
     "wof:id":806490553,
-    "wof:lastmodified":1466505970,
+    "wof:lastmodified":1492091563,
     "wof:name":"Genesis Electric Supply Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 772998421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3435 S 460 E Lafayette IN 47905",
+    "addr:housenumber":"3435;460 e",
+    "addr:postcode":"47905",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817337,40.369998,-86.817337,40.369998",
     "geom:latitude":40.369998,
     "geom:longitude":-86.817337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3435 S 460 E",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tCHSHn8xOZyKwAPoNJFZh_40.369998_-86.817337@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582041,
-    "wof:geomhash":"e824e3d60204485ec10f65303dbae527",
+    "wof:geomhash":"974fc00f9332120dc7095d711dd7e902",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":772998421,
-    "wof:lastmodified":1466503547,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

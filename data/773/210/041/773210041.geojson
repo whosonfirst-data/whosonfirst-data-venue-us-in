@@ -2,14 +2,20 @@
   "id": 773210041,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 N Salisbury St West Lafayette IN 47906",
+    "addr:housenumber":"2410",
+    "addr:postcode":"47906",
+    "addr:street":"N Salisbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.915646,40.453066,-86.915646,40.453066",
     "geom:latitude":40.453066,
     "geom:longitude":-86.915646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2410 N Salisbury St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XYa2H16h08XfanNazIHHq_40.453066_-86.915646@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583997,
-    "wof:geomhash":"04b1cfaa670a7adf93fb2b9c5dbb31cd",
+    "wof:geomhash":"e8dbf8a7313ff4b6bae9175fb249a5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773210041,
-    "wof:lastmodified":1466506339,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":420519881,
     "wof:placetype":"venue",

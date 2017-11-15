@@ -2,9 +2,14 @@
   "id": 320051675,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 S Bill St Francesville IN 47946",
+    "addr:housenumber":"210",
+    "addr:postcode":"47946",
+    "addr:street":"S Bill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.881938,40.983922,-86.881938,40.983922",
     "geom:latitude":40.983922,
     "geom:longitude":-86.881938,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501671,
         85633793,
         85941929,
         102086331
@@ -42,17 +49,17 @@
     "wof:geomhash":"d62c2b668e657aaf98d99bd0702c73e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086331,
+            "localadmin_id":404501671,
             "locality_id":85941929,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":320051675
         }
     ],
     "wof:id":320051675,
-    "wof:lastmodified":1466503676,
+    "wof:lastmodified":1492095729,
     "wof:name":"Pace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

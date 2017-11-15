@@ -2,9 +2,14 @@
   "id": 773813175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3214 W 100 N Morocco IN 47963",
+    "addr:housenumber":"3214",
+    "addr:postcode":"47963",
+    "addr:street":"W 100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.451393,41.013953,-87.451393,41.013953",
     "geom:latitude":41.013953,
     "geom:longitude":-87.451393,
@@ -24,7 +29,13 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500271,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F5F5t6zkCIFSmUV7rybln_41.013953_-87.451393@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462588578,
     "wof:geomhash":"cdfbf1fc98c6d4b77f7a19e89dd35c56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500271,
+            "region_id":85688709,
+            "venue_id":773813175
+        }
+    ],
     "wof:id":773813175,
-    "wof:lastmodified":1466519101,
+    "wof:lastmodified":1492101514,
     "wof:name":"Newton County Animal Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

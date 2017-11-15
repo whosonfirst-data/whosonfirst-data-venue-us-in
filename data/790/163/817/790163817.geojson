@@ -2,9 +2,14 @@
   "id": 790163817,
   "type": "Feature",
   "properties": {
+    "addr:full":"12920 Co Rd 950 Demotte IN 46310",
+    "addr:housenumber":"12920",
+    "addr:postcode":"950;46310",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.227666,41.196597,-87.227666,41.196597",
     "geom:latitude":41.196597,
     "geom:longitude":-87.227666,
@@ -27,7 +32,13 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bqFbnO53x7e2vcE67gRId_41.196597_-87.227666@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462593634,
     "wof:geomhash":"eb3c83a5d93866e7ed904590d5233513",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":790163817
+        }
+    ],
     "wof:id":790163817,
-    "wof:lastmodified":1466505451,
+    "wof:lastmodified":1492093701,
     "wof:name":"Country Coaches Supreme Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

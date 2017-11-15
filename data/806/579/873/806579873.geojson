@@ -2,9 +2,14 @@
   "id": 806579873,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Cook St Michigan City IN 46360",
+    "addr:housenumber":"212",
+    "addr:postcode":"46360",
+    "addr:street":"Cook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.888942,41.721474,-86.888942,41.721474",
     "geom:latitude":41.721474,
     "geom:longitude":-86.888942,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.williamswestandwitts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FDAJHwlKMh5nqLyrJ3Iji_41.721474_-86.888942@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462599308,
     "wof:geomhash":"21b674a35f8577a5e425fb90cd89b1fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":806579873
+        }
+    ],
     "wof:id":806579873,
-    "wof:lastmodified":1466507035,
+    "wof:lastmodified":1492098426,
     "wof:name":"Williams West & Witt's Soup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806915341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Graceland Ave Indianapolis IN 46208",
+    "addr:housenumber":"3500",
+    "addr:postcode":"46208",
+    "addr:street":"Graceland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.162712,39.819351,-86.162712,39.819351",
     "geom:latitude":39.819351,
     "geom:longitude":-86.162712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500 Graceland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IaMnGcnhBFF2GWzMoitBt_39.819351_-86.162712@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602137,
-    "wof:geomhash":"e530f44873ca64cf4ba77666b97870d3",
+    "wof:geomhash":"17c46ee1348d5248a5cb7b1e8ed9031b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806915341,
-    "wof:lastmodified":1466517602,
+    "wof:lastmodified":1510602661,
     "wof:name":"Mt Zion Baptist Church",
     "wof:parent_id":85870627,
     "wof:placetype":"venue",

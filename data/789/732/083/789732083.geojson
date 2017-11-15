@@ -2,14 +2,20 @@
   "id": 789732083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 E Jackson St Muncie IN 47305",
+    "addr:housenumber":"1020",
+    "addr:postcode":"47305",
+    "addr:street":"E Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.375161,40.192699,-85.375161,40.192699",
     "geom:latitude":40.192699,
     "geom:longitude":-85.375161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 E Jackson St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VhXaz2EdLPhnJ5infLVGf_40.192699_-85.375161@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590117,
-    "wof:geomhash":"4b71b230891a6785fa98c1ad502cef5e",
+    "wof:geomhash":"33c7144a41a062f1fb514f6bb3f3d424",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789732083,
-    "wof:lastmodified":1466505794,
+    "wof:lastmodified":1510693888,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

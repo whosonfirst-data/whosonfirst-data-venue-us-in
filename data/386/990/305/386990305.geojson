@@ -2,14 +2,20 @@
   "id": 386990305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 Guilford St Huntington IN 46750",
+    "addr:housenumber":"2835",
+    "addr:postcode":"46750",
+    "addr:street":"Guilford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.506745,40.901187,-85.506745,40.901187",
     "geom:latitude":40.901187,
     "geom:longitude":-85.506745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2835 Guilford St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85942237,
         102087073
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dJIyPt0LNm0FRIvTDRAxr_40.901187_-85.506745@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"edcc12821bb928987ff86b0d7c48cadf",
+    "wof:geomhash":"49165f3f960b9fb2406c588506a1dd7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":386990305,
-    "wof:lastmodified":1466502962,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

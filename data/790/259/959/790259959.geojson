@@ -2,9 +2,14 @@
   "id": 790259959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5669 E 1112 N Demotte IN 46310",
+    "addr:housenumber":"5669",
+    "addr:postcode":"46310",
+    "addr:street":"E 1112 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.282822,41.160729,-87.282822,41.160729",
     "geom:latitude":41.160729,
     "geom:longitude":-87.282822,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TzFWst9MCPZbmI5QZAj2w_41.160729_-87.282822@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462594420,
     "wof:geomhash":"159a8bcf2325fd865a6bb095cd3cb651",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":790259959
+        }
+    ],
     "wof:id":790259959,
-    "wof:lastmodified":1466506580,
+    "wof:lastmodified":1492093665,
     "wof:name":"Klomp & Klomp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

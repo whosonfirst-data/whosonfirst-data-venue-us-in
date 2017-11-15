@@ -2,14 +2,20 @@
   "id": 806828849,
   "type": "Feature",
   "properties": {
+    "addr:full":"4140 W Jonathan Moore Pike Columbus IN 47201",
+    "addr:housenumber":"4140",
+    "addr:postcode":"47201",
+    "addr:street":"W Jonathan Moore Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.972839,39.199686,-85.972839,39.199686",
     "geom:latitude":39.199686,
     "geom:longitude":-85.972839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4140 W Jonathan Moore Pike",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85821009,
         102087181
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70oBk3D73oy3q0VbW8E7PA_39.199686_-85.972839@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601416,
-    "wof:geomhash":"0bf8a2d7ce73cc1468dc345cc129ba34",
+    "wof:geomhash":"96a0a8a330e4df70aa8ae4e1351efef1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806828849,
-    "wof:lastmodified":1466515968,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

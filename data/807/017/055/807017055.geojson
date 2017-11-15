@@ -2,9 +2,14 @@
   "id": 807017055,
   "type": "Feature",
   "properties": {
+    "addr:full":"1760 E North St Crown Point IN 46307",
+    "addr:housenumber":"1760",
+    "addr:postcode":"46307",
+    "addr:street":"E North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.341003,41.420101,-87.341003,41.420101",
     "geom:latitude":41.420101,
     "geom:longitude":-87.341003,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85854185,
+        102191575,
+        404500429,
         85633793,
         85941787,
         102087149,
-        85854185
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"3f9e013f93438cfa457f0e26da55496f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404500429,
             "locality_id":85941787,
             "neighbourhood_id":85854185,
             "region_id":85688709,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":807017055,
-    "wof:lastmodified":1466504045,
+    "wof:lastmodified":1492097560,
     "wof:name":"Mirko's Auto Body Inc",
     "wof:parent_id":85854185,
     "wof:placetype":"venue",

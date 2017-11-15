@@ -2,14 +2,20 @@
   "id": 773028551,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"4025",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.894051,41.680699,-86.894051,41.680699",
     "geom:latitude":41.680699,
     "geom:longitude":-86.894051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4025 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086409,
         85891173
     ],
+    "wof:brand_id":1125152529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V5RZ8H5h09QSfte961xQE_41.680699_-86.894051@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582554,
-    "wof:geomhash":"48f0bfac4643551cda75cbef1fb0ad3f",
+    "wof:geomhash":"6449e693b0a4be042e675f409380c65f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773028551,
-    "wof:lastmodified":1466503840,
+    "wof:lastmodified":1510698922,
     "wof:name":"Fred Meyer Jewelers",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

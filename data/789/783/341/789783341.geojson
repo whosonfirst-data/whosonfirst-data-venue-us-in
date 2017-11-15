@@ -2,9 +2,14 @@
   "id": 789783341,
   "type": "Feature",
   "properties": {
+    "addr:full":"5360 Co Rd 1150 Wheatfield IN 46392",
+    "addr:housenumber":"5360;1150",
+    "addr:postcode":"46392",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.148122,41.177658,-87.148122,41.177658",
     "geom:latitude":41.177658,
     "geom:longitude":-87.148122,
@@ -28,7 +33,13 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501009,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LVr8DIU2w5nKKigLHk2c4_41.177658_-87.148122@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462590515,
     "wof:geomhash":"ade19a7b9efd5de795f47391c7f39373",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501009,
+            "region_id":85688709,
+            "venue_id":789783341
+        }
+    ],
     "wof:id":789783341,
-    "wof:lastmodified":1466506213,
+    "wof:lastmodified":1492092189,
     "wof:name":"Graf's Sealcoating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

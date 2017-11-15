@@ -2,14 +2,20 @@
   "id": 806723707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2534 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2534",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.502197,39.164101,-86.502197,39.164101",
     "geom:latitude":39.164101,
     "geom:longitude":-86.502197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2534 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09r37d1SVQSpCg4NMf9YQx_39.164158_-86.501896@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600534,
-    "wof:geomhash":"b5da52a8a655f23891b6de8f07d92fbf",
+    "wof:geomhash":"4a0f9d3e3578411943e80001fa8bdace",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806723707,
-    "wof:lastmodified":1466511731,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790478221,
   "type": "Feature",
   "properties": {
+    "addr:full":"4704 Roosevelt Pl Gary IN 46408",
+    "addr:housenumber":"4704",
+    "addr:postcode":"46408",
+    "addr:street":"Roosevelt Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364186,41.531604,-87.364186,41.531604",
     "geom:latitude":41.531604,
     "geom:longitude":-87.364186,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ajk85N3EH5UWfTiAacoT0_41.531604_-87.364186@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596177,
     "wof:geomhash":"50dcbb197d5090c8d5cdef06e489e6a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790478221
+        }
+    ],
     "wof:id":790478221,
-    "wof:lastmodified":1466511156,
+    "wof:lastmodified":1492093693,
     "wof:name":"Westforth Sport Shop",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789723145,
   "type": "Feature",
   "properties": {
+    "addr:full":"544 W 200 S Lebanon IN 46052",
+    "addr:housenumber":"544",
+    "addr:postcode":"46052",
+    "addr:street":"W 200 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.478561,40.010106,-86.478561,40.010106",
     "geom:latitude":40.010106,
     "geom:longitude":-86.478561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"544 W 200 S",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086453,
         85817903
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bkNah5fwu4DMbM2Uu5vKJ_40.010106_-86.478561@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590047,
-    "wof:geomhash":"02720f9f7bd18d84ea54a1af1e0ad253",
+    "wof:geomhash":"8a9fa77d1e0858b37487e23fe8361519",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789723145,
-    "wof:lastmodified":1466505680,
+    "wof:lastmodified":1510697216,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":85817903,
     "wof:placetype":"venue",

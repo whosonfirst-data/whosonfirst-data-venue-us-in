@@ -2,9 +2,14 @@
   "id": 773368561,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Joliet St Dyer IN 46311",
+    "addr:housenumber":"275",
+    "addr:postcode":"46311",
+    "addr:street":"Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.521318,41.494093,-87.521318,41.494093",
     "geom:latitude":41.494093,
     "geom:longitude":-87.521318,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pydcWP2une8jEUgBf6uUh_41.494093_-87.521318@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585172,
     "wof:geomhash":"bb25e70b439e1054e8b3806286d4bb0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":773368561
+        }
+    ],
     "wof:id":773368561,
-    "wof:lastmodified":1466508401,
+    "wof:lastmodified":1492091599,
     "wof:name":"Endodontic Periodontic Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

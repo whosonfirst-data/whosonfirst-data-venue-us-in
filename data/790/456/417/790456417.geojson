@@ -2,14 +2,20 @@
   "id": 790456417,
   "type": "Feature",
   "properties": {
+    "addr:full":"5561 Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"5561",
+    "addr:postcode":"46013",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.653016,40.057807,-85.653016,40.057807",
     "geom:latitude":40.057807,
     "geom:longitude":-85.653016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5561 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SKfIwCMyjhWAOkNNyY8xB_40.057807_-85.653016@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595970,
-    "wof:geomhash":"06fb69a85a1954d7554041a3bd71d9c4",
+    "wof:geomhash":"ffe580424a2a410aec9225d4715faf2c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790456417,
-    "wof:lastmodified":1466510319,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

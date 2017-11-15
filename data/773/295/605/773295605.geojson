@@ -2,6 +2,10 @@
   "id": 773295605,
   "type": "Feature",
   "properties": {
+    "addr:full":"17265 Co Rd 42 Goshen IN 46526",
+    "addr:housenumber":"17265;42",
+    "addr:postcode":"46526",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773295605,
-    "wof:lastmodified":1466507209,
+    "wof:lastmodified":1472623050,
     "wof:name":"Mentor Aviation",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

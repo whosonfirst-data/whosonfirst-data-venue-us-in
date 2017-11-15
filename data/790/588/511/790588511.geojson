@@ -2,9 +2,14 @@
   "id": 790588511,
   "type": "Feature",
   "properties": {
+    "addr:full":"7766 N 120 E Lake Village IN 46349",
+    "addr:housenumber":"7766",
+    "addr:postcode":"46349",
+    "addr:street":"N 120 E Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.368396,41.11482,-87.368396,41.11482",
     "geom:latitude":41.11482,
     "geom:longitude":-87.368396,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CDeT36OFrhICL4Ua6EhfS_41.114820_-87.368396@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597112,
     "wof:geomhash":"b1dfe9665fad81b0756db0e0be6a401c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":790588511
+        }
+    ],
     "wof:id":790588511,
-    "wof:lastmodified":1466515350,
+    "wof:lastmodified":1492097219,
     "wof:name":"Dragon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

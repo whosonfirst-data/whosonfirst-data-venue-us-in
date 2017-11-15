@@ -2,9 +2,14 @@
   "id": 773381533,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 5th St Kentland IN 47951",
+    "addr:housenumber":"119",
+    "addr:postcode":"47951",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.441589,40.768783,-87.441589,40.768783",
     "geom:latitude":40.768783,
     "geom:longitude":-87.441589,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gnhWC9v9hKORMP5b1q1eU_40.768783_-87.441589@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585263,
     "wof:geomhash":"29169d0940633d30db3715df049edecd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773381533
+        }
+    ],
     "wof:id":773381533,
-    "wof:lastmodified":1466509282,
+    "wof:lastmodified":1492101442,
     "wof:name":"Earl Park Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

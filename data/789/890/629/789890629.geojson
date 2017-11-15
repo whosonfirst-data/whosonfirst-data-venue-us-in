@@ -2,6 +2,10 @@
   "id": 789890629,
   "type": "Feature",
   "properties": {
+    "addr:full":"3255 S 750 W Columbus IN 47201",
+    "addr:housenumber":"3255;750",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789890629,
-    "wof:lastmodified":1466507537,
+    "wof:lastmodified":1472622734,
     "wof:name":"Continuous Improvement Group",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

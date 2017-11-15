@@ -2,14 +2,20 @@
   "id": 790099403,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Broadway St New Haven IN 46774",
+    "addr:housenumber":"508",
+    "addr:postcode":"46774",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.017155,41.072679,-85.017155,41.072679",
     "geom:latitude":41.072679,
     "geom:longitude":-85.017155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 Broadway St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kvGXRl1JVHovKzukF5PHB_41.072679_-85.017155@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593118,
-    "wof:geomhash":"62b467b939b1d2d8ee8b49b7dd368a23",
+    "wof:geomhash":"fd8bf2cb4857750392fd9a4e8ad4d7c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790099403,
-    "wof:lastmodified":1466504681,
+    "wof:lastmodified":1510604950,
     "wof:name":"Bob's Barber Shop",
     "wof:parent_id":420519431,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 303378305,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Main St Syracuse IN 46567",
+    "addr:housenumber":"101",
+    "addr:postcode":"46567",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303378305,
-    "wof:lastmodified":1466503648,
+    "wof:lastmodified":1472622417,
     "wof:name":"Anchor Bar",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

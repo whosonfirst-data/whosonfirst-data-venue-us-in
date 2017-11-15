@@ -2,6 +2,10 @@
   "id": 789898989,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 E 10th St Indianapolis IN 46202",
+    "addr:housenumber":"225",
+    "addr:postcode":"46202",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789898989,
-    "wof:lastmodified":1466507549,
+    "wof:lastmodified":1472622752,
     "wof:name":"ASAP Identification Ents",
     "wof:parent_id":85866951,
     "wof:placetype":"venue",

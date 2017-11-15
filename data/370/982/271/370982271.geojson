@@ -2,9 +2,14 @@
   "id": 370982271,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Eastport Centre Dr Valparaiso IN 46383",
+    "addr:housenumber":"1150",
+    "addr:postcode":"46383",
+    "addr:street":"Eastport Centre Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.022593,41.458637,-87.022593,41.458637",
     "geom:latitude":41.458637,
     "geom:longitude":-87.022593,
@@ -44,7 +49,6 @@
     "wof:geomhash":"b2e3f3e49b5eb8ec6a6118edae6c166b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
             "locality_id":85942401,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370982271,
-    "wof:lastmodified":1466503801,
+    "wof:lastmodified":1492091316,
     "wof:name":"Alliance Magnets Inc",
     "wof:parent_id":85891195,
     "wof:placetype":"venue",

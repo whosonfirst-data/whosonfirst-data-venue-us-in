@@ -2,9 +2,14 @@
   "id": 773034673,
   "type": "Feature",
   "properties": {
+    "addr:full":"3384 N 450 W Winamac IN 46996",
+    "addr:housenumber":"3384",
+    "addr:postcode":"46996",
+    "addr:street":"N 450 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.689022,41.108649,-86.689022,41.108649",
     "geom:latitude":41.108649,
     "geom:longitude":-86.689022,
@@ -28,7 +33,13 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500391,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_380gbJwfwAthr0yLEfyzcO_41.108649_-86.689022@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462582619,
     "wof:geomhash":"b7ff89ef9167f76f14013b0a7dd76823",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404500391,
+            "region_id":85688709,
+            "venue_id":773034673
+        }
+    ],
     "wof:id":773034673,
-    "wof:lastmodified":1466504405,
+    "wof:lastmodified":1492097278,
     "wof:name":"National By-Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

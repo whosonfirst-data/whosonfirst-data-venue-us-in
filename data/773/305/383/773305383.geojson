@@ -2,9 +2,14 @@
   "id": 773305383,
   "type": "Feature",
   "properties": {
+    "addr:full":"452 Hayes Leonard Rd Valparaiso IN 46385",
+    "addr:housenumber":"452",
+    "addr:postcode":"46385",
+    "addr:street":"Hayes Leonard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.094936,41.462058,-87.094936,41.462058",
     "geom:latitude":41.462058,
     "geom:longitude":-87.094936,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jU9m2fyn3x6qJhksottok_41.462058_-87.094936@1294102998"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462584725,
     "wof:geomhash":"c411f0991fd6fe13869eb8d7fc32b301",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":773305383
+        }
+    ],
     "wof:id":773305383,
-    "wof:lastmodified":1466507334,
+    "wof:lastmodified":1492091689,
     "wof:name":"G E Marshall Inc",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

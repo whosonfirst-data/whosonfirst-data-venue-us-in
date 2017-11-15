@@ -2,14 +2,20 @@
   "id": 790412349,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Lockerbie Dr Valparaiso IN 46385",
+    "addr:housenumber":"16",
+    "addr:postcode":"46385",
+    "addr:street":"Lockerbie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.116781,41.435945,-87.116781,41.435945",
     "geom:latitude":41.435945,
     "geom:longitude":-87.116781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Lockerbie Dr",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -24,17 +30,27 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
+    "wof:brand_id":420574307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vM29g9hRtiUIN7aCDMFsa_41.435945_-87.116781@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595628,
-    "wof:geomhash":"e66b130e31c4b87d1c7fa5eadae25d75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a87e10bfb9b823ed2d536ef955cbb586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790412349
+        }
+    ],
     "wof:id":790412349,
-    "wof:lastmodified":1466508345,
+    "wof:lastmodified":1510603912,
     "wof:name":"Sun Trust Bank",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

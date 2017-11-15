@@ -2,14 +2,20 @@
   "id": 773160249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1535 Blue Grass Pkwy Greenwood IN 46143",
+    "addr:housenumber":"1535",
+    "addr:postcode":"46143",
+    "addr:street":"Blue Grass Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.090113,39.594903,-86.090113,39.594903",
     "geom:latitude":39.594903,
     "geom:longitude":-86.090113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1535 Blue Grass Pkwy",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125150293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wuO3FWIapvJA9qlAbZAeu_39.594903_-86.090113@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583591,
-    "wof:geomhash":"0452453ae6be0558ccd39aff3fe2d403",
+    "wof:geomhash":"2f906ed4f269e28ffc266f1957be880b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773160249,
-    "wof:lastmodified":1466505895,
+    "wof:lastmodified":1510699736,
     "wof:name":"Beazer Homes",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

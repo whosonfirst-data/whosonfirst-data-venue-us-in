@@ -2,9 +2,14 @@
   "id": 773484099,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 E Lincoln St Kentland IN 47951",
+    "addr:housenumber":"310",
+    "addr:postcode":"47951",
+    "addr:street":"E Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.444813,40.773346,-87.444813,40.773346",
     "geom:latitude":40.773346,
     "geom:longitude":-87.444813,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eyj2hanQk1cQbYsr4nTQO_40.773346_-87.444813@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462586097,
     "wof:geomhash":"dd5ff41651f55d059fb5e0fbb47ba6a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773484099
+        }
+    ],
     "wof:id":773484099,
-    "wof:lastmodified":1466512554,
+    "wof:lastmodified":1492101443,
     "wof:name":"Lowell G Mitchell Jr DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

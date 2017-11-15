@@ -2,9 +2,14 @@
   "id": 773628787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1401",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.354605,41.548531,-87.354605,41.548531",
     "geom:latitude":41.548531,
     "geom:longitude":-87.354605,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EqPGZoQt3hxNzC06StGA4_41.548531_-87.354605@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462587160,
     "wof:geomhash":"8f86b349479c5b00d1410d3e2aa6d0a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773628787
+        }
+    ],
     "wof:id":773628787,
-    "wof:lastmodified":1466516614,
+    "wof:lastmodified":1492100666,
     "wof:name":"Dan's Place II",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

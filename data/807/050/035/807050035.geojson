@@ -2,9 +2,14 @@
   "id": 807050035,
   "type": "Feature",
   "properties": {
+    "addr:full":"4478 Pennsylvania St Gary IN 46409",
+    "addr:housenumber":"4478",
+    "addr:postcode":"46409",
+    "addr:street":"Pennsylvania St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.33259,41.537079,-87.33259,41.537079",
     "geom:latitude":41.537079,
     "geom:longitude":-87.33259,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70edoVGZuRbFUTZBXWL3ch_41.537079_-87.332590@1303262771"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603288,
     "wof:geomhash":"b738d5f86c7fb4a6e61f7ef3fcf7e33d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807050035
+        }
+    ],
     "wof:id":807050035,
-    "wof:lastmodified":1466504207,
+    "wof:lastmodified":1492088036,
     "wof:name":"Dee Cuttery",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

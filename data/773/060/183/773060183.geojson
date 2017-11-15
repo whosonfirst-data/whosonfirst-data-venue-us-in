@@ -2,6 +2,10 @@
   "id": 773060183,
   "type": "Feature",
   "properties": {
+    "addr:full":"13991 W Co Rd 700 S Daleville IN 47334",
+    "addr:housenumber":"13991;700",
+    "addr:postcode":"47334",
+    "addr:street":"W Co Rd;S Daleville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":773060183,
-    "wof:lastmodified":1466504557,
+    "wof:lastmodified":1472622616,
     "wof:name":"Wetz Farms",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

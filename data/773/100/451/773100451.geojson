@@ -2,9 +2,14 @@
   "id": 773100451,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 N Highway St Brook IN 47922",
+    "addr:housenumber":"409",
+    "addr:postcode":"47922",
+    "addr:street":"N Highway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363629,40.870062,-87.363629,40.870062",
     "geom:latitude":40.870062,
     "geom:longitude":-87.363629,
@@ -28,7 +33,14 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        85942391,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aMwtrJrw1md75tICoQzpt_40.870062_-87.363629@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462583158,
     "wof:geomhash":"ba11141e8dd7647c87819bb9814079fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "locality_id":85942391,
+            "region_id":85688709,
+            "venue_id":773100451
+        }
+    ],
     "wof:id":773100451,
-    "wof:lastmodified":1466505132,
+    "wof:lastmodified":1492095764,
     "wof:name":"Scheutte Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

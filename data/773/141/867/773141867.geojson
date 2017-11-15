@@ -2,9 +2,14 @@
   "id": 773141867,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 E Ray St Kentland IN 47951",
+    "addr:housenumber":"311",
+    "addr:postcode":"47951",
+    "addr:street":"E Ray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.443293,40.775489,-87.443293,40.775489",
     "geom:latitude":40.775489,
     "geom:longitude":-87.443293,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lOlbvDGDtzeNHaTMoGXZc_40.775489_-87.443293@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462583448,
     "wof:geomhash":"bfd05371e9ee80b2ec84dd5f9bf10201",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773141867
+        }
+    ],
     "wof:id":773141867,
-    "wof:lastmodified":1466505770,
+    "wof:lastmodified":1492101441,
     "wof:name":"Beranda Haggaman Rep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

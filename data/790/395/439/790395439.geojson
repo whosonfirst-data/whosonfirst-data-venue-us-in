@@ -2,6 +2,10 @@
   "id": 790395439,
   "type": "Feature",
   "properties": {
+    "addr:full":"12221 S 350 W Columbus IN 47201",
+    "addr:housenumber":"12221;350",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":790395439,
-    "wof:lastmodified":1466507915,
+    "wof:lastmodified":1472622821,
     "wof:name":"Indiana Millwork Installations",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

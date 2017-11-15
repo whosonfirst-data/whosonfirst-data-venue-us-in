@@ -2,9 +2,14 @@
   "id": 773236319,
   "type": "Feature",
   "properties": {
+    "addr:full":"10015 Clark Rd Crown Point IN 46307",
+    "addr:housenumber":"10015",
+    "addr:postcode":"46307",
+    "addr:street":"Clark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.392377,41.436211,-87.392377,41.436211",
     "geom:latitude":41.436211,
     "geom:longitude":-87.392377,
@@ -24,7 +29,14 @@
     "sg:postcode":"46307",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NxGhxJRTK8siNhAHSLnCQ_41.436211_-87.392377@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462584190,
     "wof:geomhash":"a041e37411f10a033622fccae5c63e6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "region_id":85688709,
+            "venue_id":773236319
+        }
+    ],
     "wof:id":773236319,
-    "wof:lastmodified":1466506580,
+    "wof:lastmodified":1492104792,
     "wof:name":"Hawk Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789848015,
   "type": "Feature",
   "properties": {
+    "addr:full":"9866 N 130 W Lake Village IN 46349",
+    "addr:housenumber":"9866",
+    "addr:postcode":"46349",
+    "addr:street":"N 130 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.416448,41.143284,-87.416448,41.143284",
     "geom:latitude":41.143284,
     "geom:longitude":-87.416448,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0303cx85kCjknd1cxv8leJ_41.143284_-87.416448@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462591013,
     "wof:geomhash":"cd5ef3cc395edc318850faca9b8bb7d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "region_id":85688709,
+            "venue_id":789848015
+        }
+    ],
     "wof:id":789848015,
-    "wof:lastmodified":1466506907,
+    "wof:lastmodified":1492101448,
     "wof:name":"B & W Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

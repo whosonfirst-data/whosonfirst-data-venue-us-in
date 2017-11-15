@@ -2,9 +2,14 @@
   "id": 790410085,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 E Glen Park Ave Griffith IN 46319",
+    "addr:housenumber":"909",
+    "addr:postcode":"46319",
+    "addr:street":"E Glen Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.416802,41.537161,-87.416802,41.537161",
     "geom:latitude":41.537161,
     "geom:longitude":-87.416802,
@@ -27,7 +32,10 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LKSxJLAFBkVPsytYC1Mnj_41.537161_-87.416802@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595613,
     "wof:geomhash":"7762a486140365f999b0e7d58f5d9d3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790410085
+        }
+    ],
     "wof:id":790410085,
-    "wof:lastmodified":1466508757,
+    "wof:lastmodified":1492091996,
     "wof:name":"Mc Aleer & Gall Dentistry",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

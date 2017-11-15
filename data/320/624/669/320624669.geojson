@@ -2,9 +2,14 @@
   "id": 320624669,
   "type": "Feature",
   "properties": {
+    "addr:full":"8777 Purdue Rd Indianapolis IN 46268",
+    "addr:housenumber":"8777",
+    "addr:postcode":"46268",
+    "addr:street":"Purdue Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.220278,39.915383,-86.220278,39.915383",
     "geom:latitude":39.915383,
     "geom:longitude":-86.220278,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85857069,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85857069
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"de31deb7c09fe2e72d1608fa3e6c9f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85857069,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":320624669,
-    "wof:lastmodified":1466503330,
+    "wof:lastmodified":1491907158,
     "wof:name":"Hospital Health Plan",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

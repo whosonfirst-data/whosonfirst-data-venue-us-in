@@ -2,9 +2,14 @@
   "id": 806797733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 Sheffield Ave Dyer IN 46311",
+    "addr:housenumber":"1423",
+    "addr:postcode":"46311",
+    "addr:street":"Sheffield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.518784,41.505013,-87.518784,41.505013",
     "geom:latitude":41.505013,
     "geom:longitude":-87.518784,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"http://www.rimluxurybath.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jy3OPjxM0SbuC660waGyQ_41.505146_-87.518701@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601167,
     "wof:geomhash":"5b349d58cd38141f88eb7b3ee5d658b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":806797733
+        }
+    ],
     "wof:id":806797733,
-    "wof:lastmodified":1466514787,
+    "wof:lastmodified":1492091425,
     "wof:name":"RIM Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

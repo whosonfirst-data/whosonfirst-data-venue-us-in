@@ -2,9 +2,14 @@
   "id": 790620833,
   "type": "Feature",
   "properties": {
+    "addr:full":"4938 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"4938",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797299,41.691854,-86.797299,41.691854",
     "geom:latitude":41.691854,
     "geom:longitude":-86.797299,
@@ -24,7 +29,10 @@
     "sg:postcode":"46350",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_240Ns736ZpxmOCgzujkOgY_41.691854_-86.797299@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462597420,
     "wof:geomhash":"5575c50a364fab9c9b53013963794289",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790620833
+        }
+    ],
     "wof:id":790620833,
-    "wof:lastmodified":1466515984,
+    "wof:lastmodified":1492091626,
     "wof:name":"Chuck's Do It Best",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

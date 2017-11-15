@@ -2,14 +2,20 @@
   "id": 789830459,
   "type": "Feature",
   "properties": {
+    "addr:full":"10416 US Hwy 36 Avon IN 46123",
+    "addr:housenumber":"10416",
+    "addr:postcode":"46123",
+    "addr:street":"Us Hwy 36",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.339328,39.763861,-86.339328,39.763861",
     "geom:latitude":39.763861,
     "geom:longitude":-86.339328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10416 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g2lHudkF1UDRh2yxwITgi_39.763861_-86.339328@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590875,
-    "wof:geomhash":"4540b64d0c4ac16fe61dc4e22472ee4b",
+    "wof:geomhash":"a5b80ede2532fdbbeffe4b85f82105f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789830459,
-    "wof:lastmodified":1466506695,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

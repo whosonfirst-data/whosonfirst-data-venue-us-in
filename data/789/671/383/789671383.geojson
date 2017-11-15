@@ -2,14 +2,20 @@
   "id": 789671383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5121 Heritage Dr Lafayette IN 47905",
+    "addr:housenumber":"5121",
+    "addr:postcode":"47905",
+    "addr:street":"Heritage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804944,40.420163,-86.804944,40.420163",
     "geom:latitude":40.420163,
     "geom:longitude":-86.804944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5121 Heritage Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125156259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lgsCOoB6fJTees8ZbZnn9_40.420163_-86.804944@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589636,
-    "wof:geomhash":"c17a78cc9b4c94201fd3903b81cc49e3",
+    "wof:geomhash":"7795188069b64eaa27b696c84d07809a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789671383,
-    "wof:lastmodified":1466505096,
+    "wof:lastmodified":1510696917,
     "wof:name":"Imagine That",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

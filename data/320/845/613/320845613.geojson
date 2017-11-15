@@ -2,9 +2,14 @@
   "id": 320845613,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 E US Hwy 6 Valparaiso IN 46383",
+    "addr:housenumber":"76",
+    "addr:postcode":"46383",
+    "addr:street":"E Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.050994,41.549966,-87.050994,41.549966",
     "geom:latitude":41.549966,
     "geom:longitude":-87.050994,
@@ -30,7 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,15 @@
     "wof:geomhash":"4b6f2f653b71cee58b15b278787270b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519863,
             "venue_id":320845613
         }
     ],
     "wof:id":320845613,
-    "wof:lastmodified":1466503554,
+    "wof:lastmodified":1492101502,
     "wof:name":"Graphic Expressions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

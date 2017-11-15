@@ -2,9 +2,14 @@
   "id": 354365713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 E US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"1712",
+    "addr:postcode":"46360",
+    "addr:street":"E Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.862508,41.687504,-86.862508,41.687504",
     "geom:latitude":41.687504,
     "geom:longitude":-86.862508,
@@ -42,7 +47,6 @@
     "wof:geomhash":"07713ddc29fe1599aab6f6efcb8d3e4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354365713,
-    "wof:lastmodified":1466503399,
+    "wof:lastmodified":1492097359,
     "wof:name":"Indiana State Excise Police",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

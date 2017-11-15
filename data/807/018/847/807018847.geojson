@@ -2,9 +2,14 @@
   "id": 807018847,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 S Main St Crown Point IN 46307",
+    "addr:housenumber":"138",
+    "addr:postcode":"46307",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3479,41.432598,-87.3479,41.432598",
     "geom:latitude":41.432598,
     "geom:longitude":-87.3479,
@@ -24,7 +29,14 @@
     "sg:postcode":"46307",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x06itgFQT0RclyTv59EMJ_41.432598_-87.347900@1303262769"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603024,
     "wof:geomhash":"69ec65940ed19fad38850b7e1c333812",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "region_id":85688709,
+            "venue_id":807018847
+        }
+    ],
     "wof:id":807018847,
-    "wof:lastmodified":1466504100,
+    "wof:lastmodified":1492094838,
     "wof:name":"Northern Indiana Arts Association Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

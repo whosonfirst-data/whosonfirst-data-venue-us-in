@@ -2,14 +2,20 @@
   "id": 772998693,
   "type": "Feature",
   "properties": {
+    "addr:full":"11337 Boston Way Fishers IN 46038",
+    "addr:housenumber":"11337",
+    "addr:postcode":"46038",
+    "addr:street":"Boston Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.021685,39.953023,-86.021685,39.953023",
     "geom:latitude":39.953023,
     "geom:longitude":-86.021685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11337 Boston Way",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125157843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zzPGpk49CV27s7hXOMWj8_39.953023_-86.021685@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582050,
-    "wof:geomhash":"1be555a65b9bb1265bdd16836dff21f5",
+    "wof:geomhash":"2b15befdf81e4a13956163e65bd925f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":772998693,
-    "wof:lastmodified":1466503598,
+    "wof:lastmodified":1510699507,
     "wof:name":"Erie Insurance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

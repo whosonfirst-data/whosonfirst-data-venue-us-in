@@ -2,9 +2,14 @@
   "id": 370654953,
   "type": "Feature",
   "properties": {
+    "addr:full":"3328 E 35th Ave Lake Station IN 46405",
+    "addr:housenumber":"3328",
+    "addr:postcode":"46405",
+    "addr:street":"E 35Th Ave Lake",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.29659,41.554765,-87.29659,41.554765",
     "geom:latitude":41.554765,
     "geom:longitude":-87.29659,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85831063,
+        102191575,
+        404501857,
         85633793,
-        85941825,
+        85941813,
         102087149,
-        85831063
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cc796cc0c97468694baa291ad5a0d90f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
-            "locality_id":85941825,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
             "neighbourhood_id":85831063,
             "region_id":85688709,
             "venue_id":370654953
         }
     ],
     "wof:id":370654953,
-    "wof:lastmodified":1466503450,
+    "wof:lastmodified":1492092104,
     "wof:name":"Iglesia Evangelica De Cristo",
     "wof:parent_id":85831063,
     "wof:placetype":"venue",

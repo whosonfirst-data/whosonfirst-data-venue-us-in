@@ -2,14 +2,20 @@
   "id": 790322299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 E 80th Pl Merrillville IN 46410",
+    "addr:housenumber":"1000",
+    "addr:postcode":"46410",
+    "addr:street":"E 80Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.324537,41.474585,-87.324537,41.474585",
     "geom:latitude":41.474585,
     "geom:longitude":-87.324537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 E 80th Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125152535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HxiNgC89HmwgW2XuWjEqw_41.474585_-87.324537@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594931,
-    "wof:geomhash":"0f7c4da62cc737cfcd5363f7d1559bf4",
+    "wof:geomhash":"3d6e6a966b4d6d0dfbc5dc1b106020d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790322299,
-    "wof:lastmodified":1466507158,
+    "wof:lastmodified":1510696760,
     "wof:name":"Monumental Life Insurance Co",
     "wof:parent_id":85810405,
     "wof:placetype":"venue",

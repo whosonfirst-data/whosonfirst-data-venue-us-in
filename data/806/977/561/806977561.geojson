@@ -2,14 +2,20 @@
   "id": 806977561,
   "type": "Feature",
   "properties": {
+    "addr:full":"5749 E 86th St Indianapolis IN 46250",
+    "addr:housenumber":"5749",
+    "addr:postcode":"46250",
+    "addr:street":"E 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.070503,39.912498,-86.070503,39.912498",
     "geom:latitude":39.912498,
     "geom:longitude":-86.070503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5749 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Oxg0J0gS7Fxet7VbK2gyb_39.912498_-86.070503@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602670,
-    "wof:geomhash":"433908852932e79aa34e4b07254f0281",
+    "wof:geomhash":"9588a68cdd164ce07c5afbc0647b1208",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806977561,
-    "wof:lastmodified":1466518665,
+    "wof:lastmodified":1510695308,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

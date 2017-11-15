@@ -2,9 +2,14 @@
   "id": 789894215,
   "type": "Feature",
   "properties": {
+    "addr:full":"5260 Cleveland St Merrillville IN 46410",
+    "addr:housenumber":"5260",
+    "addr:postcode":"46410",
+    "addr:street":"Cleveland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360398,41.522781,-87.360398,41.522781",
     "geom:latitude":41.522781,
     "geom:longitude":-87.360398,
@@ -32,7 +37,10 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bS70kDawUqSobyYwhy6gt_41.522781_-87.360398@1294102998"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1462591399,
     "wof:geomhash":"3081d64e24f37489137123d1409e5022",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789894215
+        }
+    ],
     "wof:id":789894215,
-    "wof:lastmodified":1466507377,
+    "wof:lastmodified":1492092075,
     "wof:name":"Powells Relocation Group",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

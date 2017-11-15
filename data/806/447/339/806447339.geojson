@@ -2,9 +2,14 @@
   "id": 806447339,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"3",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.068347,41.550004,-87.068347,41.550004",
     "geom:latitude":41.550004,
     "geom:longitude":-87.068347,
@@ -27,7 +32,10 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iFe2uSMG4jnlZM0Rk8f0G_41.550004_-87.068347@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598227,
     "wof:geomhash":"beb50e18b7438fe79d37215d4270b923",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806447339
+        }
+    ],
     "wof:id":806447339,
-    "wof:lastmodified":1466505382,
+    "wof:lastmodified":1492102067,
     "wof:name":"Clyde Photography",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

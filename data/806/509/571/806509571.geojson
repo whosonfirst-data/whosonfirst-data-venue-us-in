@@ -2,9 +2,14 @@
   "id": 806509571,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Sunshine Dr Valparaiso IN 46385",
+    "addr:housenumber":"508",
+    "addr:postcode":"46385",
+    "addr:street":"Sunshine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.137544,41.511409,-87.137544,41.511409",
     "geom:latitude":41.511409,
     "geom:longitude":-87.137544,
@@ -28,7 +33,10 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M33YjIsCHKXKeIx3eclxD_41.511409_-87.137544@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598710,
     "wof:geomhash":"3a8623af02afaa0cb120f5e4191fc504",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806509571
+        }
+    ],
     "wof:id":806509571,
-    "wof:lastmodified":1466506174,
+    "wof:lastmodified":1492091841,
     "wof:name":"Advanced Systems",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

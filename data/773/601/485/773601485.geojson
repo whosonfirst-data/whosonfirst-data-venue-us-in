@@ -2,9 +2,14 @@
   "id": 773601485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2673 W State Rd 114 Morocco IN 47963",
+    "addr:housenumber":"2673;114",
+    "addr:postcode":"47963",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.444692,40.940812,-87.444692,40.940812",
     "geom:latitude":40.940812,
     "geom:longitude":-87.444692,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dLGA5tvfi9HjZpthogP8Z_40.940812_-87.444692@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462586952,
     "wof:geomhash":"268627d7f96695e2e16000fccd6793b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":773601485
+        }
+    ],
     "wof:id":773601485,
-    "wof:lastmodified":1466516157,
+    "wof:lastmodified":1492092199,
     "wof:name":"L Young Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

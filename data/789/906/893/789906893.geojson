@@ -2,6 +2,10 @@
   "id": 789906893,
   "type": "Feature",
   "properties": {
+    "addr:full":"28799 Co Rd 16 Elkhart IN 46516",
+    "addr:housenumber":"28799;16",
+    "addr:postcode":"46516",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789906893,
-    "wof:lastmodified":1466507701,
+    "wof:lastmodified":1472622755,
     "wof:name":"CPI Plastics Group LTD",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

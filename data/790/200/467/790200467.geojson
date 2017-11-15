@@ -2,14 +2,20 @@
   "id": 790200467,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 S High St Muncie IN 47305",
+    "addr:housenumber":"621",
+    "addr:postcode":"47305",
+    "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.387749,40.189099,-85.387749,40.189099",
     "geom:latitude":40.189099,
     "geom:longitude":-85.387749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"621 S High St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125151511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1laINGZRsQPevLwb0KDq9Y_40.189099_-85.387749@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593961,
-    "wof:geomhash":"86b38aee8f72ab3a9caa8d164c3306cc",
+    "wof:geomhash":"e41a30770f8b417ea3ead6d7547d9825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790200467,
-    "wof:lastmodified":1466505925,
+    "wof:lastmodified":1510694725,
     "wof:name":"Norfolk Southern Railway Co",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

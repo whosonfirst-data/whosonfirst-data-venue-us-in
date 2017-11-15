@@ -2,14 +2,20 @@
   "id": 806985039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4825 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"4825",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.087502,39.9053,-86.087502,39.9053",
     "geom:latitude":39.9053,
     "geom:longitude":-86.087502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4825 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nlNMAUacOWR09A6sIzBZe_39.905300_-86.087502@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602737,
-    "wof:geomhash":"4d01b4146e858b3a71086110897f6d59",
+    "wof:geomhash":"a63827f4f01449eb4b4a34f23f2c7c66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806985039,
-    "wof:lastmodified":1466518924,
+    "wof:lastmodified":1510696623,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

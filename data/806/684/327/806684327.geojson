@@ -2,9 +2,14 @@
   "id": 806684327,
   "type": "Feature",
   "properties": {
+    "addr:full":"752 S 500 W Hebron IN 46341",
+    "addr:housenumber":"752;500",
+    "addr:postcode":"46341",
+    "addr:street":"S;W Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.161485,41.324826,-87.161485,41.324826",
     "geom:latitude":41.324826,
     "geom:longitude":-87.161485,
@@ -24,7 +29,13 @@
     "sg:postcode":"46341",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tcvnwbuskf4CItbK5Ztjv_41.324826_-87.161485@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462600206,
     "wof:geomhash":"33af14b3c490fd56a0e6fd81a00e41b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "region_id":85688709,
+            "venue_id":806684327
+        }
+    ],
     "wof:id":806684327,
-    "wof:lastmodified":1466510838,
+    "wof:lastmodified":1492109076,
     "wof:name":"RNB Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

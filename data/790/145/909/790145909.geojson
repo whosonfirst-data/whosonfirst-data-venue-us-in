@@ -2,14 +2,20 @@
   "id": 790145909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1513 N Garvin St Evansville IN 47711",
+    "addr:housenumber":"1513",
+    "addr:postcode":"47711",
+    "addr:street":"N Garvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.556542,37.99186,-87.556542,37.99186",
     "geom:latitude":37.99186,
     "geom:longitude":-87.556542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1513 N Garvin St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_232PCH79ei8lmzSrloHD4T_37.991860_-87.556542@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593472,
-    "wof:geomhash":"6cf172f490d19dc6b30928160173d506",
+    "wof:geomhash":"8ab8b80974593cfd705119fdb449874c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790145909,
-    "wof:lastmodified":1466505388,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85877293,
     "wof:placetype":"venue",

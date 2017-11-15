@@ -2,9 +2,14 @@
   "id": 353851581,
   "type": "Feature",
   "properties": {
+    "addr:full":"7750 E 37th Ave Hobart IN 46342",
+    "addr:housenumber":"7750",
+    "addr:postcode":"46342",
+    "addr:street":"E 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.248119,41.550798,-87.248119,41.550798",
     "geom:latitude":41.550798,
     "geom:longitude":-87.248119,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519677,
+        102191575,
+        404501867,
         85633793,
-        85941823,
-        102087149
+        85941833,
+        102087149,
+        85688709
     ],
     "wof:brand_id":420573763,
     "wof:breaches":[],
@@ -45,19 +53,20 @@
     "wof:geomhash":"677e76153513865444c93146f16317e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
-            "locality_id":85941823,
-            "neighbourhood_id":-1,
+            "localadmin_id":404501867,
+            "locality_id":85941833,
+            "neighbourhood_id":420519677,
             "region_id":85688709,
             "venue_id":353851581
         }
     ],
     "wof:id":353851581,
-    "wof:lastmodified":1466503365,
+    "wof:lastmodified":1492106677,
     "wof:name":"Blockbuster Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 806370685,
   "type": "Feature",
   "properties": {
+    "addr:full":"7654 W US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"7654",
+    "addr:postcode":"46360",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.928119,41.680582,-86.928119,41.680582",
     "geom:latitude":41.680582,
     "geom:longitude":-86.928119,
@@ -28,13 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420519721,
-        102191575,
-        404501783,
         85633793,
-        85941911,
-        102086409,
-        85688709
+        420519859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,20 +45,15 @@
     "wof:geomhash":"6c64ad5be2401c6aca2aee4f5d429b49",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086409,
-            "localadmin_id":404501783,
-            "locality_id":85941911,
-            "neighbourhood_id":420519721,
-            "region_id":85688709,
+            "neighbourhood_id":420519859,
             "venue_id":806370685
         }
     ],
     "wof:id":806370685,
-    "wof:lastmodified":1466503840,
+    "wof:lastmodified":1492094663,
     "wof:name":"Personal Pleasures",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

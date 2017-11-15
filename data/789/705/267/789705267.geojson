@@ -2,14 +2,20 @@
   "id": 789705267,
   "type": "Feature",
   "properties": {
+    "addr:full":"4023 E 10th St Indianapolis IN 46201",
+    "addr:housenumber":"4023",
+    "addr:postcode":"46201",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.097655,39.781363,-86.097655,39.781363",
     "geom:latitude":39.781363,
     "geom:longitude":-86.097655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4023 E 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_322vJz5kLOiPMEX9DSN6ZL_39.781363_-86.097655@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589894,
-    "wof:geomhash":"92e073d4b13a182459e62c51ef251ebf",
+    "wof:geomhash":"7025425c8bb2ab2cbe97e905036c03dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789705267,
-    "wof:lastmodified":1466505478,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",

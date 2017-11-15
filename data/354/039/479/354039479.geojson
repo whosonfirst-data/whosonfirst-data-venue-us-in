@@ -2,14 +2,20 @@
   "id": 354039479,
   "type": "Feature",
   "properties": {
+    "addr:full":"8974 E 10th St Indianapolis IN 46219",
+    "addr:housenumber":"8974",
+    "addr:postcode":"46219",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.010151,39.782107,-86.010151,39.782107",
     "geom:latitude":39.782107,
     "geom:longitude":-86.010151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8974 E 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85854661
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SbNwAQ3Qt2CnovV1sIYJu_39.782107_-86.010151@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b1bd9cffea139aebfe9d14d63b0a5fc",
+    "wof:geomhash":"1b8040bfee617c6f3ce2a57560a3d86e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":354039479,
-    "wof:lastmodified":1466502927,
+    "wof:lastmodified":1510696664,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",

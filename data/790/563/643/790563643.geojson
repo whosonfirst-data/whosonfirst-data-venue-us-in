@@ -2,9 +2,14 @@
   "id": 790563643,
   "type": "Feature",
   "properties": {
+    "addr:full":"4192 N 400 W Laporte IN 46350",
+    "addr:housenumber":"4192",
+    "addr:postcode":"46350",
+    "addr:street":"N 400 W Laporte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.777679,41.668578,-86.777679,41.668578",
     "geom:latitude":41.668578,
     "geom:longitude":-86.777679,
@@ -27,7 +32,10 @@
         "refrigerating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YFVeOj3s22rh50Wiip7oR_41.668578_-86.777679@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462596902,
     "wof:geomhash":"35f7dbc5c62c2c314ebea93e1930aadd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790563643
+        }
+    ],
     "wof:id":790563643,
-    "wof:lastmodified":1466513380,
+    "wof:lastmodified":1492103975,
     "wof:name":"Cool Consulting Co",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

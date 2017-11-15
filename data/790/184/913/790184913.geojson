@@ -2,14 +2,20 @@
   "id": 790184913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 S 13th St Terre Haute IN 47802",
+    "addr:housenumber":"1101",
+    "addr:postcode":"47802",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397611,39.454712,-87.397611,39.454712",
     "geom:latitude":39.454712,
     "geom:longitude":-87.397611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 S 13th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125151849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s5ct2g5GXLaC4TUY3ZUyQ_39.454712_-87.397611@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593816,
-    "wof:geomhash":"9a81569d199a911f7ba1d07f27fd8bb2",
+    "wof:geomhash":"c9f8284fe8bbdebe7e99bf15645834c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790184913,
-    "wof:lastmodified":1466505729,
+    "wof:lastmodified":1510697644,
     "wof:name":"NAACP",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

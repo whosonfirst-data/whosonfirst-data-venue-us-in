@@ -2,14 +2,20 @@
   "id": 806832031,
   "type": "Feature",
   "properties": {
+    "addr:full":"2846 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2846",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.496885,39.164196,-86.496885,39.164196",
     "geom:latitude":39.164196,
     "geom:longitude":-86.496885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2846 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125151703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R8yWl7T7EgLnMDV6cdGiC_39.164196_-86.496885@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601440,
-    "wof:geomhash":"1c09ba1574a4c12935ea0d5968c8c451",
+    "wof:geomhash":"23d57069e79eb3c20618fe83d8776cdc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806832031,
-    "wof:lastmodified":1466515826,
+    "wof:lastmodified":1510693981,
     "wof:name":"TGI Friday's",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

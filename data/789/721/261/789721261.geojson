@@ -2,14 +2,20 @@
   "id": 789721261,
   "type": "Feature",
   "properties": {
+    "addr:full":"63239 State Rd 13 Goshen IN 46528",
+    "addr:housenumber":"63239;13",
+    "addr:postcode":"46528",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.694358,41.577942,-85.694358,41.577942",
     "geom:latitude":41.577942,
     "geom:longitude":-85.694358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"63239 State Rd 13",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125154645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05uzN2yuogBkC9TF8ognoZ_41.577942_-85.694358@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590033,
-    "wof:geomhash":"ce80bba234c85b88102d87c3eedc34f8",
+    "wof:geomhash":"6d8a8c386a4537fdeb58e0f384497129",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789721261,
-    "wof:lastmodified":1466505775,
+    "wof:lastmodified":1510699362,
     "wof:name":"Helena Chemical Co",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

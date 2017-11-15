@@ -2,9 +2,14 @@
   "id": 773371905,
   "type": "Feature",
   "properties": {
+    "addr:full":"6222 E 1000 S Brook IN 47922",
+    "addr:housenumber":"6222",
+    "addr:postcode":"47922",
+    "addr:street":"E 1000 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.28167,40.851284,-87.28167,40.851284",
     "geom:latitude":40.851284,
     "geom:longitude":-87.28167,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27XrMGpJyyod3uEQIUk8pp_40.851284_-87.281670@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462585193,
     "wof:geomhash":"4351675edf9ce6d51d4db096c2266926",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "region_id":85688709,
+            "venue_id":773371905
+        }
+    ],
     "wof:id":773371905,
-    "wof:lastmodified":1466508650,
+    "wof:lastmodified":1492105022,
     "wof:name":"Antcliff Ricard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

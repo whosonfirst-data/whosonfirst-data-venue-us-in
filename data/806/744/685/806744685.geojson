@@ -2,9 +2,14 @@
   "id": 806744685,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 W 500 N Rensselaer IN 47978",
+    "addr:housenumber":"4141",
+    "addr:postcode":"47978",
+    "addr:street":"W 500 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.130958,41.085918,-87.130958,41.085918",
     "geom:latitude":41.085918,
     "geom:longitude":-87.130958,
@@ -22,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500831,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BwCu15S7l62mkuHia0FmM_41.085918_-87.130958@1294102998"
@@ -30,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1462600720,
     "wof:geomhash":"fcf9cf8361bc591835ac117c30ef20d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500831,
+            "region_id":85688709,
+            "venue_id":806744685
+        }
+    ],
     "wof:id":806744685,
-    "wof:lastmodified":1466512724,
+    "wof:lastmodified":1492090591,
     "wof:name":"Ray Zickmund Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

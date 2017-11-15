@@ -2,14 +2,20 @@
   "id": 773665943,
   "type": "Feature",
   "properties": {
+    "addr:full":"3556 Village Ct Gary IN 46408",
+    "addr:housenumber":"3556",
+    "addr:postcode":"46408",
+    "addr:street":"Village Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35597,41.554196,-87.35597,41.554196",
     "geom:latitude":41.554196,
     "geom:longitude":-87.35597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3556 Village Ct",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c0tIrXJT61EiPAnSQIlGU_41.554196_-87.355970@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587439,
-    "wof:geomhash":"6157a8165b38d85712e1a633c8494aa9",
+    "wof:geomhash":"0d932f753dd308d003d06bf44e42e83f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773665943,
-    "wof:lastmodified":1466517342,
+    "wof:lastmodified":1510698857,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",

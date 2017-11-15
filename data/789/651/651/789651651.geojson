@@ -2,14 +2,20 @@
   "id": 789651651,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 S Snoddy Rd Bloomington IN 47401",
+    "addr:housenumber":"3900",
+    "addr:postcode":"47401",
+    "addr:street":"S Snoddy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.489482,39.124505,-86.489482,39.124505",
     "geom:latitude":39.124505,
     "geom:longitude":-86.489482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 S Snoddy Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125153791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jqDpKluUO30cVreh1KCyO_39.124505_-86.489482@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589468,
-    "wof:geomhash":"403e4ac9314c50cb21109b379b8c28d2",
+    "wof:geomhash":"5799a5d188d5610e46dec86f5451cfb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789651651,
-    "wof:lastmodified":1466504865,
+    "wof:lastmodified":1510699996,
     "wof:name":"Mt Calvary Baptist Church",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",

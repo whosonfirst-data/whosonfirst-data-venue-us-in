@@ -2,9 +2,14 @@
   "id": 807044411,
   "type": "Feature",
   "properties": {
+    "addr:full":"13044 W 159th Ave Lowell IN 46356",
+    "addr:housenumber":"13044",
+    "addr:postcode":"46356",
+    "addr:street":"W 159Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.490057,41.330077,-87.490057,41.330077",
     "geom:latitude":41.330077,
     "geom:longitude":-87.490057,
@@ -33,7 +38,13 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KFnyGT5yQnXVlGQBDEj7q_41.330077_-87.490057@1303262771"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1462603246,
     "wof:geomhash":"b01244fe9ab480fa7fd1acd0f7ac1b35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807044411
+        }
+    ],
     "wof:id":807044411,
-    "wof:lastmodified":1466503989,
+    "wof:lastmodified":1492090548,
     "wof:name":"Real Estate Schupp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

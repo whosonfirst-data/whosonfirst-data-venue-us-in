@@ -2,9 +2,14 @@
   "id": 806786493,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 N 1st St Kentland IN 47951",
+    "addr:housenumber":"502",
+    "addr:postcode":"47951",
+    "addr:street":"N 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.448774,40.773366,-87.448774,40.773366",
     "geom:latitude":40.773366,
     "geom:longitude":-87.448774,
@@ -22,7 +27,14 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ELQMVBROa85FJYU4VW8Se_40.773366_-87.448774@1294102998"
@@ -30,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1462601072,
     "wof:geomhash":"ac70b00e92cf6599d09bb3ab0b6692a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":806786493
+        }
+    ],
     "wof:id":806786493,
-    "wof:lastmodified":1466514652,
+    "wof:lastmodified":1492102421,
     "wof:name":"Vic Padgett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

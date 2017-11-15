@@ -2,9 +2,14 @@
   "id": 789958127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3855 N 525 W Laporte IN 46350",
+    "addr:housenumber":"3855",
+    "addr:postcode":"46350",
+    "addr:street":"N 525 W Laporte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801737,41.662743,-86.801737,41.662743",
     "geom:latitude":41.662743,
     "geom:longitude":-86.801737,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RBxUfOiLHxcoi5EB9KUAV_41.662743_-86.801737@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591982,
     "wof:geomhash":"8d4951bb908d6eb7408245c4a32d80cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789958127
+        }
+    ],
     "wof:id":789958127,
-    "wof:lastmodified":1466508690,
+    "wof:lastmodified":1492097433,
     "wof:name":"F & L Trucking Inc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789929637,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 S Newton St Goodland IN 47948",
+    "addr:housenumber":"325",
+    "addr:postcode":"47948",
+    "addr:street":"S Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293453,40.763028,-87.293453,40.763028",
     "geom:latitude":40.763028,
     "geom:longitude":-87.293453,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wmkgZkraVLwvX3SHFDsuH_40.763028_-87.293453@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462591708,
     "wof:geomhash":"06cd868fd5b82e86081429aecf32bc0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":789929637
+        }
+    ],
     "wof:id":789929637,
-    "wof:lastmodified":1466507832,
+    "wof:lastmodified":1492106682,
     "wof:name":"Accurate Machine & Tool Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

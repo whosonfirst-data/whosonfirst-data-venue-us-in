@@ -2,14 +2,20 @@
   "id": 790543753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Fulton Ave Alexandria IN 46001",
+    "addr:housenumber":"1208",
+    "addr:postcode":"46001",
+    "addr:street":"Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.664781,40.252651,-85.664781,40.252651",
     "geom:latitude":40.252651,
     "geom:longitude":-85.664781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1208 Fulton Ave",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086407,
         85821587
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rEbKwD0SZ3NRopn5455CA_40.252651_-85.664781@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596734,
-    "wof:geomhash":"5edf9d614feabd1424053dde9cc8e555",
+    "wof:geomhash":"11d4e06a9fe46e08fd345313500e9161",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790543753,
-    "wof:lastmodified":1466513252,
+    "wof:lastmodified":1510697514,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",

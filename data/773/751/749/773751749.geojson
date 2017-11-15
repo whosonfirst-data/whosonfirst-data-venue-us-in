@@ -2,9 +2,14 @@
   "id": 773751749,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Tower Rd Valparaiso IN 46385",
+    "addr:housenumber":"38",
+    "addr:postcode":"46385",
+    "addr:street":"Tower Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.114238,41.447046,-87.114238,41.447046",
     "geom:latitude":41.447046,
     "geom:longitude":-87.114238,
@@ -29,7 +34,10 @@
     ],
     "sg:website":"www.andersonconstruction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MfkAnraun5sIidXRTS01H_41.447046_-87.114238@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462588109,
     "wof:geomhash":"44c7e88b16082885abc01572231b6c52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773751749
+        }
+    ],
     "wof:id":773751749,
-    "wof:lastmodified":1466518559,
+    "wof:lastmodified":1492091397,
     "wof:name":"Anderson Construction",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

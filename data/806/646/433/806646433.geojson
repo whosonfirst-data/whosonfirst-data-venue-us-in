@@ -2,14 +2,20 @@
   "id": 806646433,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N College Ave Indianapolis IN 46202",
+    "addr:housenumber":"122",
+    "addr:postcode":"46202",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.145689,39.768439,-86.145689,39.768439",
     "geom:latitude":39.768439,
     "geom:longitude":-86.145689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 N College Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71lfZHaq3Q81T6mMFyWnYN_39.768439_-86.145689@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599875,
-    "wof:geomhash":"1e9d4a7e9ffb806a7d7ede50f2a28685",
+    "wof:geomhash":"4d0cc45b0dc53ecb9d9da6d76b178323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806646433,
-    "wof:lastmodified":1466508456,
+    "wof:lastmodified":1510694883,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85866947,
     "wof:placetype":"venue",

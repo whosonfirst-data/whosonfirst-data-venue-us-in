@@ -2,14 +2,20 @@
   "id": 806511769,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 E Riverside Dr Evansville IN 47714",
+    "addr:housenumber":"4700",
+    "addr:postcode":"47714",
+    "addr:street":"E Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.493107,37.943367,-87.493107,37.943367",
     "geom:latitude":37.943367,
     "geom:longitude":-87.493107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4700 E Riverside Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85877295
     ],
+    "wof:brand_id":1125158215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RlmnPbWyFklsTYI0inWtn_37.943367_-87.493107@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598729,
-    "wof:geomhash":"c5582b2b7589aefdb787c43535f5b94f",
+    "wof:geomhash":"950d02b731099a28e8bb8790dc24950a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806511769,
-    "wof:lastmodified":1466506080,
+    "wof:lastmodified":1510699386,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",

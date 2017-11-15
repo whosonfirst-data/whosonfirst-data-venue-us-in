@@ -2,14 +2,20 @@
   "id": 773783715,
   "type": "Feature",
   "properties": {
+    "addr:full":"9906 Teton Ct Fort Wayne IN 46804",
+    "addr:housenumber":"9906",
+    "addr:postcode":"46804",
+    "addr:street":"Teton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.273181,41.046687,-85.273181,41.046687",
     "geom:latitude":41.046687,
     "geom:longitude":-85.273181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9906 Teton Ct",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125153273,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CH2hJtgSOj4hpp8tafcYq_41.046687_-85.273181@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588345,
-    "wof:geomhash":"23bc14cb66e99c260eae0132b65ff7a2",
+    "wof:geomhash":"a55eab4ff8051a8680433e53f8705197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773783715,
-    "wof:lastmodified":1466518734,
+    "wof:lastmodified":1510698837,
     "wof:name":"Adventures In Advertising",
     "wof:parent_id":85807473,
     "wof:placetype":"venue",

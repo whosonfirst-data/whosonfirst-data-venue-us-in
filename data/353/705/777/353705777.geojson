@@ -2,14 +2,20 @@
   "id": 353705777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 N Green River Rd Evansville IN 47715",
+    "addr:housenumber":"1300",
+    "addr:postcode":"47715",
+    "addr:street":"N Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492592,37.990798,-87.492592,37.990798",
     "geom:latitude":37.990798,
     "geom:longitude":-87.492592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85942147,
         102087105
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eb9DMzGB6SrSRhuYdOBBA_37.990798_-87.492592@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"150adc221b83d1a1fb5552fbe83faf6a",
+    "wof:geomhash":"a56b9bea01c1262a11176d9e0319ed98",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353705777,
-    "wof:lastmodified":1466503195,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

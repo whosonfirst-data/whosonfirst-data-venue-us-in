@@ -2,14 +2,20 @@
   "id": 387656281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1630 Coliseum Blvd E Fort Wayne IN 46805",
+    "addr:housenumber":"1630",
+    "addr:postcode":"46805",
+    "addr:street":"Coliseum Blvd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.124604,41.117003,-85.124604,41.117003",
     "geom:latitude":41.117003,
     "geom:longitude":-85.124604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1630 Coliseum Blvd E",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087177,
         85838221
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iaRNDgMRqD7sTRwF6jhgJ_41.117003_-85.124604@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1d33a768c0746563d7d765be294dc5c",
+    "wof:geomhash":"ca638c1e8e26562ebac8d059ddc0d11d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387656281,
-    "wof:lastmodified":1466503792,
+    "wof:lastmodified":1510613088,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

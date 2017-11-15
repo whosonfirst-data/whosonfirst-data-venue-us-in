@@ -2,14 +2,20 @@
   "id": 773773463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 US Hwy 31 S Greenwood IN 46143",
+    "addr:housenumber":"1028",
+    "addr:postcode":"46143",
+    "addr:street":"Us Hwy 31 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.106576,39.603634,-86.106576,39.603634",
     "geom:latitude":39.603634,
     "geom:longitude":-86.106576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1028 US Hwy 31 S",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yGOVmhRZlphppSDe21v9I_39.603634_-86.106576@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588267,
-    "wof:geomhash":"3416636f52871909308f0cf18a23006b",
+    "wof:geomhash":"75c3861077c35ccd6ee30e9082bac22b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773773463,
-    "wof:lastmodified":1466518664,
+    "wof:lastmodified":1510602444,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

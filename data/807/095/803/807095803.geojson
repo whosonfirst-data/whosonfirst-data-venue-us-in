@@ -2,9 +2,14 @@
   "id": 807095803,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E College Ave Morocco IN 47963",
+    "addr:housenumber":"104",
+    "addr:postcode":"47963",
+    "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454823,40.944031,-87.454823,40.944031",
     "geom:latitude":40.944031,
     "geom:longitude":-87.454823,
@@ -34,7 +39,14 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4czvf3kjaBc66eZC2wuhJZ_40.944031_-87.454823@1303262773"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462603673,
     "wof:geomhash":"14557eff8ad28f6c5729303d829b0807",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":807095803
+        }
+    ],
     "wof:id":807095803,
-    "wof:lastmodified":1466505181,
+    "wof:lastmodified":1492103022,
     "wof:name":"United Church Of Morocco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

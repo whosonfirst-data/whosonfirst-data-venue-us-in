@@ -2,14 +2,20 @@
   "id": 806801461,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 E 29th St Anderson IN 46016",
+    "addr:housenumber":"20",
+    "addr:postcode":"46016",
+    "addr:street":"E 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.678949,40.087283,-85.678949,40.087283",
     "geom:latitude":40.087283,
     "geom:longitude":-85.678949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 E 29th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mj98pgvwo67rFk9tyols3_40.087283_-85.678949@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601196,
-    "wof:geomhash":"65c18b29a4d56f08ed15b372a09d4055",
+    "wof:geomhash":"bdeecfc6eb46791fed55c0da1eec594e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806801461,
-    "wof:lastmodified":1466515276,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85833395,
     "wof:placetype":"venue",

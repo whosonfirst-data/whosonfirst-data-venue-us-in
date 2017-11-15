@@ -2,9 +2,14 @@
   "id": 806562399,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 W 54th Pl Merrillville IN 46410",
+    "addr:housenumber":"2902",
+    "addr:postcode":"46410",
+    "addr:street":"W 54Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.371657,41.52006,-87.371657,41.52006",
     "geom:latitude":41.52006,
     "geom:longitude":-87.371657,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25cwIAtPLWBS5lwNE3YMMa_41.520060_-87.371657@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599145,
     "wof:geomhash":"daf7fb99652a2161199d568a79dbbb27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806562399
+        }
+    ],
     "wof:id":806562399,
-    "wof:lastmodified":1466506907,
+    "wof:lastmodified":1492091598,
     "wof:name":"Sue Lilovich",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

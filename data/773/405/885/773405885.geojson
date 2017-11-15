@@ -2,14 +2,20 @@
   "id": 773405885,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Northwestern Ave West Lafayette IN 47906",
+    "addr:housenumber":"100",
+    "addr:postcode":"47906",
+    "addr:street":"Northwestern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.908025,40.425763,-86.908025,40.425763",
     "geom:latitude":40.425763,
     "geom:longitude":-86.908025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Northwestern Ave",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":420575035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CQP7JnmPcMgeYeXnTE6m5_40.425763_-86.908025@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585443,
-    "wof:geomhash":"76f3bd05dff55f4912f8b2ae36001530",
+    "wof:geomhash":"cb9a3aee72716f85956102bc8b0965cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773405885,
-    "wof:lastmodified":1466510218,
+    "wof:lastmodified":1510602546,
     "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

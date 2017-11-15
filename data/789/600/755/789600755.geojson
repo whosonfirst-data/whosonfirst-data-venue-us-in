@@ -2,6 +2,10 @@
   "id": 789600755,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 N State Rd 135 Trafalgar IN 46181",
+    "addr:housenumber":"245;135",
+    "addr:postcode":"46181",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789600755,
-    "wof:lastmodified":1466504236,
+    "wof:lastmodified":1472622349,
     "wof:name":"Trafalgar Family Dentistry",
     "wof:parent_id":420519651,
     "wof:placetype":"venue",

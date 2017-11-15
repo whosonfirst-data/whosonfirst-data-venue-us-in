@@ -2,9 +2,14 @@
   "id": 773050477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Grand Blvd Lake Station IN 46405",
+    "addr:housenumber":"2600",
+    "addr:postcode":"46405",
+    "addr:street":"Grand Blvd Lake",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.260491,41.570571,-87.260491,41.570571",
     "geom:latitude":41.570571,
     "geom:longitude":-87.260491,
@@ -34,7 +39,10 @@
         85633793,
         85941833,
         102087149,
-        85688709
+        85688709,
+        85834337,
+        404501857,
+        85941813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":420519677,
             "region_id":85688709,
             "venue_id":773050477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501857,
+            "locality_id":85941813,
+            "neighbourhood_id":85834337,
+            "region_id":85688709,
+            "venue_id":773050477
         }
     ],
     "wof:id":773050477,
-    "wof:lastmodified":1466504498,
+    "wof:lastmodified":1492097605,
     "wof:name":"Defenders Faith Ctr",
-    "wof:parent_id":420519677,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

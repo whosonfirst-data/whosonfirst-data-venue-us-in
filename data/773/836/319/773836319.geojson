@@ -2,9 +2,14 @@
   "id": 773836319,
   "type": "Feature",
   "properties": {
+    "addr:full":"3673 Broadway Gary IN 46409",
+    "addr:housenumber":"3673",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336475,41.552613,-87.336475,41.552613",
     "geom:latitude":41.552613,
     "geom:longitude":-87.336475,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kWUIIrwnVE3H8EzjyXl0N_41.552613_-87.336475@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588774,
     "wof:geomhash":"00e1b683ce8237cfed3b5c36e0986f66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773836319
+        }
+    ],
     "wof:id":773836319,
-    "wof:lastmodified":1466519300,
+    "wof:lastmodified":1492095768,
     "wof:name":"Gary Christian Ctr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

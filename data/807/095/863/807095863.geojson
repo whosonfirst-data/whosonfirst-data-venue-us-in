@@ -2,9 +2,14 @@
   "id": 807095863,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S Roosevelt Ave Morocco IN 47963",
+    "addr:housenumber":"401",
+    "addr:postcode":"47963",
+    "addr:street":"S Roosevelt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.45591,40.94286,-87.45591,40.94286",
     "geom:latitude":40.94286,
     "geom:longitude":-87.45591,
@@ -33,7 +38,14 @@
         "army"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mgynikd4Kmjj4j4olwY1N_40.942860_-87.455910@1303262773"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462603674,
     "wof:geomhash":"3112d8adf3ddf27269b4c26f3132c202",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":807095863
+        }
+    ],
     "wof:id":807095863,
-    "wof:lastmodified":1466505183,
+    "wof:lastmodified":1492090392,
     "wof:name":"Church United Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

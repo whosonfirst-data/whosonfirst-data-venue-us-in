@@ -2,14 +2,20 @@
   "id": 320025585,
   "type": "Feature",
   "properties": {
+    "addr:full":"7202 N Shadeland Ave Indianapolis IN 46250",
+    "addr:housenumber":"7202",
+    "addr:postcode":"46250",
+    "addr:street":"N Shadeland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.046176,39.885852,-86.046176,39.885852",
     "geom:latitude":39.885852,
     "geom:longitude":-86.046176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7202 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087201,
         85818815
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hT3r6TS4d7wmPFlePUeez_39.885852_-86.046176@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"368710f5955c148d6303f0b27d01e49a",
+    "wof:geomhash":"263f52b8095efc60d2e227f83663646f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":320025585,
-    "wof:lastmodified":1466503665,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",

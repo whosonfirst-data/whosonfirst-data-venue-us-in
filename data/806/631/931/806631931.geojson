@@ -2,9 +2,14 @@
   "id": 806631931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 State St Laporte IN 46350",
+    "addr:housenumber":"1300",
+    "addr:postcode":"46350",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.726858,41.609435,-86.726858,41.609435",
     "geom:latitude":41.609435,
     "geom:longitude":-86.726858,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"b431b01401e50cf1b37162cf2cb6c35e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":806631931,
-    "wof:lastmodified":1466507859,
+    "wof:lastmodified":1492095006,
     "wof:name":"Bremner & Wiley",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

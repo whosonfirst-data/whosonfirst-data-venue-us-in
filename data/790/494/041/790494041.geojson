@@ -2,9 +2,14 @@
   "id": 790494041,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Broadway Gary IN 46409",
+    "addr:housenumber":"4701",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336233,41.531296,-87.336233,41.531296",
     "geom:latitude":41.531296,
     "geom:longitude":-87.336233,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SNKf7wC9Xn5RcqKhFdCKg_41.531296_-87.336233@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596322,
     "wof:geomhash":"a3e440fa72654ffb495c567fcdf8e225",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790494041
+        }
+    ],
     "wof:id":790494041,
-    "wof:lastmodified":1466511922,
+    "wof:lastmodified":1492100624,
     "wof:name":"Burger King",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790055183,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Maplewood Trl Michigan City IN 46360",
+    "addr:housenumber":"114",
+    "addr:postcode":"46360",
+    "addr:street":"Maplewood Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.833038,41.750752,-86.833038,41.750752",
     "geom:latitude":41.750752,
     "geom:longitude":-86.833038,
@@ -27,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KQvsE1q4EZblqJLOlrOW9_41.750752_-86.833038@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462592779,
     "wof:geomhash":"09b97aa3b4a040458e1f599a2cf1a131",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":790055183
+        }
+    ],
     "wof:id":790055183,
-    "wof:lastmodified":1466503950,
+    "wof:lastmodified":1492095864,
     "wof:name":"Olsaker Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789954481,
   "type": "Feature",
   "properties": {
+    "addr:full":"8321 N Michigan Rd Indianapolis IN 46268",
+    "addr:housenumber":"8321",
+    "addr:postcode":"46268",
+    "addr:street":"N Michigan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.221561,39.909405,-86.221561,39.909405",
     "geom:latitude":39.909405,
     "geom:longitude":-86.221561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8321 N Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VyCW1yzKY9HKRRkmlMDFp_39.909405_-86.221561@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591955,
-    "wof:geomhash":"9a072a521555ce4dab1cad2283c1d5f1",
+    "wof:geomhash":"3e07868c1e409582e004f82f832f9d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789954481,
-    "wof:lastmodified":1466508459,
+    "wof:lastmodified":1510697790,
     "wof:name":"Taste Of China",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

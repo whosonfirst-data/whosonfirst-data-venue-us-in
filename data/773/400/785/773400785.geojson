@@ -2,9 +2,14 @@
   "id": 773400785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2253 Carlisle Ln Valparaiso IN 46385",
+    "addr:housenumber":"2253",
+    "addr:postcode":"46385",
+    "addr:street":"Carlisle Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.086513,41.442403,-87.086513,41.442403",
     "geom:latitude":41.442403,
     "geom:longitude":-87.086513,
@@ -27,7 +32,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PTNNrIJkWySlcGotlTfeh_41.442403_-87.086513@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585404,
     "wof:geomhash":"b055d270e57962310b54e80f1c7e344a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773400785
+        }
+    ],
     "wof:id":773400785,
-    "wof:lastmodified":1466509990,
+    "wof:lastmodified":1492091396,
     "wof:name":"Tammy Quinn",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

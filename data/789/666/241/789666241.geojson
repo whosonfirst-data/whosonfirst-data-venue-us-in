@@ -2,9 +2,14 @@
   "id": 789666241,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 W 600 N Valparaiso IN 46385",
+    "addr:housenumber":"336",
+    "addr:postcode":"46385",
+    "addr:street":"W 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.131382,41.52119,-87.131382,41.52119",
     "geom:latitude":41.52119,
     "geom:longitude":-87.131382,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VEnpGlseUwKcklfxSLNFs_41.521190_-87.131382@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462589602,
     "wof:geomhash":"ec2982530f35ec26e34a2f39e5791833",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789666241
+        }
+    ],
     "wof:id":789666241,
-    "wof:lastmodified":1466505038,
+    "wof:lastmodified":1492102374,
     "wof:name":"Roche Plumbing & Heating Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

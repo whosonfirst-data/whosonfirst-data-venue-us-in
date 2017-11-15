@@ -2,9 +2,14 @@
   "id": 790567001,
   "type": "Feature",
   "properties": {
+    "addr:full":"8596 W 700 S Francesville IN 47946",
+    "addr:housenumber":"8596",
+    "addr:postcode":"47946",
+    "addr:street":"W 700 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.829719,40.9559,-86.829719,40.9559",
     "geom:latitude":40.9559,
     "geom:longitude":-86.829719,
@@ -27,7 +32,13 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501671,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30rMjLCm10lp7tFMz1eesO_40.955900_-86.829719@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462596933,
     "wof:geomhash":"606469f3aea20341a23a5ce88a1c2359",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501671,
+            "region_id":85688709,
+            "venue_id":790567001
+        }
+    ],
     "wof:id":790567001,
-    "wof:lastmodified":1466514356,
+    "wof:lastmodified":1492105046,
     "wof:name":"Pulaski County Breaker Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806801863,
   "type": "Feature",
   "properties": {
+    "addr:full":"13620 N Meridian St Carmel IN 46032",
+    "addr:housenumber":"13620",
+    "addr:postcode":"46032",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.140711,39.985742,-86.140711,39.985742",
     "geom:latitude":39.985742,
     "geom:longitude":-86.140711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13620 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aWFsbaSqbIr8C0PtY8Mk2_39.985742_-86.140711@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601200,
-    "wof:geomhash":"2a5b3d421c90ab80f30fb13e1dc8aaf8",
+    "wof:geomhash":"15e45fedb129a02115999bd5627dd3e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806801863,
-    "wof:lastmodified":1466515299,
+    "wof:lastmodified":1510699446,
     "wof:name":"Super Suppers",
     "wof:parent_id":420519539,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773006941,
   "type": "Feature",
   "properties": {
+    "addr:full":"3667 Braddock Dr Lafayette IN 47909",
+    "addr:housenumber":"3667",
+    "addr:postcode":"47909",
+    "addr:street":"Braddock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.874096,40.367814,-86.874096,40.367814",
     "geom:latitude":40.367814,
     "geom:longitude":-86.874096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3667 Braddock Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53gS6DFRvliAqp1jufOYFC_40.367814_-86.874096@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582251,
-    "wof:geomhash":"bbe6b89451e20a2224a3338c5afc496b",
+    "wof:geomhash":"b055bdff50f28113ff40c4b5ad967a55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773006941,
-    "wof:lastmodified":1466503495,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806498335,
   "type": "Feature",
   "properties": {
+    "addr:full":"7725 Broadway Merrillville IN 46410",
+    "addr:housenumber":"7725",
+    "addr:postcode":"46410",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.335918,41.478801,-87.335918,41.478801",
     "geom:latitude":41.478801,
     "geom:longitude":-87.335918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7725 Broadway",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43wMja2iUuqnTzKkUkCS0J_41.478801_-87.335918@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598610,
-    "wof:geomhash":"8f1e6470ea3e49d7d33bada60295b67c",
+    "wof:geomhash":"a7153de430e6e4fdab43a601cda29f83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806498335,
-    "wof:lastmodified":1466505904,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":420519691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806810673,
   "type": "Feature",
   "properties": {
+    "addr:full":"9702 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"9702",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.99329,39.775421,-85.99329,39.775421",
     "geom:latitude":39.775421,
     "geom:longitude":-85.99329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9702 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FjciNcobUcSZKjfj8Zall_39.775421_-85.993290@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601270,
-    "wof:geomhash":"e6b0bbb8d6165d2d9327b889daa5467c",
+    "wof:geomhash":"24558a4a4d714f7b859820317d62c89f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806810673,
-    "wof:lastmodified":1466515165,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

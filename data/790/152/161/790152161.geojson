@@ -2,9 +2,14 @@
   "id": 790152161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1453 Cedarcreek Ct Valparaiso IN 46385",
+    "addr:housenumber":"1453",
+    "addr:postcode":"46385",
+    "addr:street":"Cedarcreek Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.089137,41.454581,-87.089137,41.454581",
     "geom:latitude":41.454581,
     "geom:longitude":-87.089137,
@@ -27,7 +32,10 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r67M3BjpXgVbzyYfTYwTl_41.454581_-87.089137@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462593520,
     "wof:geomhash":"6d27bed44117d89d3a7f9e52f62e0056",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":790152161
+        }
+    ],
     "wof:id":790152161,
-    "wof:lastmodified":1466505422,
+    "wof:lastmodified":1492091784,
     "wof:name":"Sweet Expressions",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

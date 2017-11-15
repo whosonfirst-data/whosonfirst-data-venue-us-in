@@ -2,9 +2,14 @@
   "id": 353670217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 W 8th Ave Gary IN 46404",
+    "addr:housenumber":"2820",
+    "addr:postcode":"46404",
+    "addr:street":"W 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.372666,41.596064,-87.372666,41.596064",
     "geom:latitude":41.596064,
     "geom:longitude":-87.372666,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85852319,
+        102191575,
+        404501857,
         85633793,
         85941813,
         102087149,
-        85852319
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"f0b286d258448142030538e28e3e4bc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941813,
             "neighbourhood_id":85852319,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":353670217,
-    "wof:lastmodified":1466503154,
+    "wof:lastmodified":1492106643,
     "wof:name":"Jeanil's Day Care",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

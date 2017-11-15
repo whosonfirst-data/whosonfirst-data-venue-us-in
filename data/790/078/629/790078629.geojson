@@ -2,9 +2,14 @@
   "id": 790078629,
   "type": "Feature",
   "properties": {
+    "addr:full":"6810 W 93rd Ave Crown Point IN 46307",
+    "addr:housenumber":"6810",
+    "addr:postcode":"46307",
+    "addr:street":"W 93Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.418421,41.449782,-87.418421,41.449782",
     "geom:latitude":41.449782,
     "geom:longitude":-87.418421,
@@ -24,7 +29,13 @@
     "sg:postcode":"46307",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71XyvJt6c08bYK7ZxZQ7wl_41.449782_-87.418421@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462592962,
     "wof:geomhash":"bab302799b220138e9c75d04c96503e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "region_id":85688709,
+            "venue_id":790078629
+        }
+    ],
     "wof:id":790078629,
-    "wof:lastmodified":1466504446,
+    "wof:lastmodified":1492091595,
     "wof:name":"Crown Point Office Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

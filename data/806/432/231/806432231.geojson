@@ -2,14 +2,20 @@
   "id": 806432231,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 N 9th Street Rd Lafayette IN 47904",
+    "addr:housenumber":"2800",
+    "addr:postcode":"47904",
+    "addr:street":"N 9Th Street Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877176,40.451221,-86.877176,40.451221",
     "geom:latitude":40.451221,
     "geom:longitude":-86.877176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 N 9th Street Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125159511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ts6xqtpu7zCwpfFhpInvK_40.451221_-86.877176@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598104,
-    "wof:geomhash":"0892b623443625aa91b58436c733bba5",
+    "wof:geomhash":"8c82fa33ce15d6286759903f879ac52d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806432231,
-    "wof:lastmodified":1466505189,
+    "wof:lastmodified":1510698879,
     "wof:name":"Community Corrections",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

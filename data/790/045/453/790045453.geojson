@@ -2,9 +2,14 @@
   "id": 790045453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3770 Grant St Gary IN 46408",
+    "addr:housenumber":"3770",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355925,41.550892,-87.355925,41.550892",
     "geom:latitude":41.550892,
     "geom:longitude":-87.355925,
@@ -27,7 +32,10 @@
         "out"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hQ4K45diCN6U1bI8DsWQx_41.550892_-87.355925@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462592681,
     "wof:geomhash":"a31ef69e48a081661603a37287ae6f45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790045453
+        }
+    ],
     "wof:id":790045453,
-    "wof:lastmodified":1466504349,
+    "wof:lastmodified":1492091595,
     "wof:name":"Ray's Shrimp House",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

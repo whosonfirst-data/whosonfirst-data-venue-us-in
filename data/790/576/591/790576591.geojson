@@ -2,9 +2,14 @@
   "id": 790576591,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Ryan Rd Hebron IN 46341",
+    "addr:housenumber":"520",
+    "addr:postcode":"46341",
+    "addr:street":"Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.209125,41.32446,-87.209125,41.32446",
     "geom:latitude":41.32446,
     "geom:longitude":-87.209125,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        85942381,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GTzVmcD81c1qir1S4hHUv_41.324460_-87.209125@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597012,
     "wof:geomhash":"40215de5a3d7ee70e6a728df3be33baf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "locality_id":85942381,
+            "region_id":85688709,
+            "venue_id":790576591
+        }
+    ],
     "wof:id":790576591,
-    "wof:lastmodified":1466513808,
+    "wof:lastmodified":1492101872,
     "wof:name":"Computer Doctor Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 772997485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4875 Plano Rd Martinsville IN 46151",
+    "addr:housenumber":"4875",
+    "addr:postcode":"46151",
+    "addr:street":"Plano Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.603881,39.496309,-86.603881,39.496309",
     "geom:latitude":39.496309,
     "geom:longitude":-86.603881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4875 Plano Rd",
     "sg:city":"Martinsville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810363,
         102087091
     ],
+    "wof:brand_id":1125159217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MYSY3CZUSaz3PcXE6fwV8_39.496309_-86.603881@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582007,
-    "wof:geomhash":"acf9562981c24f350e224bef2c4e3411",
+    "wof:geomhash":"d9f4ec926e445e29b43aa389185a817b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":772997485,
-    "wof:lastmodified":1466503372,
+    "wof:lastmodified":1510698764,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":85810363,
     "wof:placetype":"venue",

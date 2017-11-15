@@ -2,9 +2,14 @@
   "id": 790292327,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 W 700 N Valparaiso IN 46385",
+    "addr:housenumber":"120",
+    "addr:postcode":"46385",
+    "addr:street":"W 700 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.083789,41.535517,-87.083789,41.535517",
     "geom:latitude":41.535517,
     "geom:longitude":-87.083789,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zwMSs0LGJKnVGilbX0d2T_41.535517_-87.083789@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462594709,
     "wof:geomhash":"bce8d94cff1cd6d7387207ee24f2b410",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790292327
+        }
+    ],
     "wof:id":790292327,
-    "wof:lastmodified":1466506732,
+    "wof:lastmodified":1492097510,
     "wof:name":"Whitten Trucking",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

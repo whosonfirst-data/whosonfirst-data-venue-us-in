@@ -2,9 +2,14 @@
   "id": 773106293,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Royal Rd Michigan City IN 46360",
+    "addr:housenumber":"600",
+    "addr:postcode":"46360",
+    "addr:street":"Royal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840787,41.720144,-86.840787,41.720144",
     "geom:latitude":41.720144,
     "geom:longitude":-86.840787,
@@ -27,7 +32,10 @@
         "steel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VbWuoTUtU2JwRYtjTK1VC_41.720144_-86.840787@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583198,
     "wof:geomhash":"54463cbb81dd4739cb254edc957abd14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773106293
+        }
+    ],
     "wof:id":773106293,
-    "wof:lastmodified":1466505329,
+    "wof:lastmodified":1492101250,
     "wof:name":"Diamond Manufacturing Co",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

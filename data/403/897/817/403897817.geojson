@@ -2,9 +2,14 @@
   "id": 403897817,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 Miller Ave Gary IN 46403",
+    "addr:housenumber":"5900",
+    "addr:postcode":"46403",
+    "addr:street":"Miller Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.26767,41.599359,-87.26767,41.599359",
     "geom:latitude":41.599359,
     "geom:longitude":-87.26767,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85834337,
+        102191575,
+        404501857,
         85633793,
         85941813,
         102087149,
-        85834337
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"e6f8f5cb54076e6057e4f12331cf911f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941813,
             "neighbourhood_id":85834337,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":403897817,
-    "wof:lastmodified":1466503159,
+    "wof:lastmodified":1492106644,
     "wof:name":"J J Fish & Chicken",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",

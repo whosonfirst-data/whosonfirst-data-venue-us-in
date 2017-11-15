@@ -2,14 +2,20 @@
   "id": 807080641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 N Walnut St Ste 200 Bloomington IN 47404",
+    "addr:housenumber":"2620",
+    "addr:postcode":"47404",
+    "addr:street":"N Walnut St Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.533134,39.192834,-86.533134,39.192834",
     "geom:latitude":39.192834,
     "geom:longitude":-86.533134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2620 N Walnut St Ste 200",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102086351,
         85809723
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pmZRyJHnNFxn981lOVKqN_39.192834_-86.533134@1303262773"
     },
     "wof:country":"US",
     "wof:created":1462603538,
-    "wof:geomhash":"a1b18ddd7069cf81041fec2d784d0c4d",
+    "wof:geomhash":"4cc09f6437a62d053be52a5e4ec4ba62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807080641,
-    "wof:lastmodified":1466504926,
+    "wof:lastmodified":1510698676,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85809723,
     "wof:placetype":"venue",

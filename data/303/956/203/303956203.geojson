@@ -2,14 +2,20 @@
   "id": 303956203,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Co Rd 6 W Elkhart IN 46514",
+    "addr:housenumber":"175",
+    "addr:postcode":"46514",
+    "addr:street":"Co Rd 6 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.981528,41.724419,-85.981528,41.724419",
     "geom:latitude":41.724419,
     "geom:longitude":-85.981528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"175 Co Rd 6 W",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086257,
         85823045
     ],
+    "wof:brand_id":1125159089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21b1uNZFgnxmRwIq35L0cN_41.724419_-85.981528@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"32d40df5b75e787c717c009bd1621e64",
+    "wof:geomhash":"685e7e4e065c72d2e2b24ff6813a40c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":303956203,
-    "wof:lastmodified":1466503317,
+    "wof:lastmodified":1510693767,
     "wof:name":"Standard Federal Bank N A",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

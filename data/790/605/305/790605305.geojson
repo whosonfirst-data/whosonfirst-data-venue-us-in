@@ -2,9 +2,14 @@
   "id": 790605305,
   "type": "Feature",
   "properties": {
+    "addr:full":"4645 Broadway Gary IN 46409",
+    "addr:housenumber":"4645",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336174,41.533898,-87.336174,41.533898",
     "geom:latitude":41.533898,
     "geom:longitude":-87.336174,
@@ -28,7 +33,10 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MsL9rZJSviqvL93cka6NL_41.533898_-87.336174@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462597265,
     "wof:geomhash":"d004e2f2f4b7d8b1b055326484148e44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790605305
+        }
+    ],
     "wof:id":790605305,
-    "wof:lastmodified":1466515896,
+    "wof:lastmodified":1492095632,
     "wof:name":"Tax Doctors",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

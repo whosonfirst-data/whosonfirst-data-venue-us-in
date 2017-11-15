@@ -2,14 +2,20 @@
   "id": 790030025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 Brookville Way Indianapolis IN 46239",
+    "addr:housenumber":"1435",
+    "addr:postcode":"46239",
+    "addr:street":"Brookville Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.046211,39.753955,-86.046211,39.753955",
     "geom:latitude":39.753955,
     "geom:longitude":-86.046211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1435 Brookville Way",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Elci0k9RCDXaSSn9jVedW_39.753955_-86.046211@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592574,
-    "wof:geomhash":"79448c249df10114eee22a1e9fb606db",
+    "wof:geomhash":"7c0465af045f179d1bb038644f82570f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790030025,
-    "wof:lastmodified":1466504272,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85813037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806483329,
   "type": "Feature",
   "properties": {
+    "addr:full":"4475 Broadway Gary IN 46409",
+    "addr:housenumber":"4475",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336212,41.538121,-87.336212,41.538121",
     "geom:latitude":41.538121,
     "geom:longitude":-87.336212,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PS0VojOSWJHn4PGhpSG9X_41.538121_-87.336212@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598493,
     "wof:geomhash":"0a285e9390942e154b338172f89911e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806483329
+        }
+    ],
     "wof:id":806483329,
-    "wof:lastmodified":1466505818,
+    "wof:lastmodified":1492100594,
     "wof:name":"Entrepreneur's Unlimited",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

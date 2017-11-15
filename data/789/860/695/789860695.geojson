@@ -2,9 +2,14 @@
   "id": 789860695,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Chase St Gary IN 46408",
+    "addr:housenumber":"5000",
+    "addr:postcode":"46408",
+    "addr:street":"Chase St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.374995,41.528096,-87.374995,41.528096",
     "geom:latitude":41.528096,
     "geom:longitude":-87.374995,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p2bgnCsubUzqruG1fBcMe_41.528096_-87.374995@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591113,
     "wof:geomhash":"e51f73aebd0cd366a61b4f1afaa9b7b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789860695
+        }
+    ],
     "wof:id":789860695,
-    "wof:lastmodified":1466507194,
+    "wof:lastmodified":1492094845,
     "wof:name":"Starboard Network WWCA",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

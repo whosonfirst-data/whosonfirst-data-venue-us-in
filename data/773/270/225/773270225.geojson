@@ -2,9 +2,14 @@
   "id": 773270225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5827 W 450 N Laporte IN 46350",
+    "addr:housenumber":"5827",
+    "addr:postcode":"46350",
+    "addr:street":"W 450 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810704,41.672497,-86.810704,41.672497",
     "geom:latitude":41.672497,
     "geom:longitude":-86.810704,
@@ -33,7 +38,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KSiGDe6lt97jkrng3gnEF_41.672497_-86.810704@1294102998"
@@ -41,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1462584445,
     "wof:geomhash":"9f70dec6e7a8812dc5b1e9f856c13ada",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773270225
+        }
+    ],
     "wof:id":773270225,
-    "wof:lastmodified":1466506871,
+    "wof:lastmodified":1492094661,
     "wof:name":"Mulch Plus",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

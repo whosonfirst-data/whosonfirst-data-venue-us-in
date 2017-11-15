@@ -2,9 +2,14 @@
   "id": 789954389,
   "type": "Feature",
   "properties": {
+    "addr:full":"9869 N 300 W Lake Village IN 46349",
+    "addr:housenumber":"9869",
+    "addr:postcode":"46349",
+    "addr:street":"N 300 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.4487,41.140487,-87.4487,41.140487",
     "geom:latitude":41.140487,
     "geom:longitude":-87.4487,
@@ -27,7 +32,14 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R7Nn3JSnVqVV0S7bjsVq0_41.140487_-87.448700@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462591954,
     "wof:geomhash":"8a14d457074adaacbc8c242da34bd63b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":789954389
+        }
+    ],
     "wof:id":789954389,
-    "wof:lastmodified":1466508450,
+    "wof:lastmodified":1492097217,
     "wof:name":"Allen Myers Lake Village Iga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

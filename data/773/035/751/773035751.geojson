@@ -2,9 +2,14 @@
   "id": 773035751,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 S State Rd 2 Valparaiso IN 46385",
+    "addr:housenumber":"115",
+    "addr:postcode":"46385",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.124457,41.419839,-87.124457,41.419839",
     "geom:latitude":41.419839,
     "geom:longitude":-87.124457,
@@ -29,7 +34,10 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fIGvlow6MxuAb6VoSWiQD_41.419839_-87.124457@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462582627,
     "wof:geomhash":"5cd4a5394e1209aa0f74329ce9e04a10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773035751
+        }
+    ],
     "wof:id":773035751,
-    "wof:lastmodified":1466504414,
+    "wof:lastmodified":1492101408,
     "wof:name":"Perma-Green Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

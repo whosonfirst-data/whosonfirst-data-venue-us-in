@@ -2,9 +2,14 @@
   "id": 806525929,
   "type": "Feature",
   "properties": {
+    "addr:full":"2156 Pokeberry Ct Valparaiso IN 46385",
+    "addr:housenumber":"2156",
+    "addr:postcode":"46385",
+    "addr:street":"Pokeberry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.087481,41.449092,-87.087481,41.449092",
     "geom:latitude":41.449092,
     "geom:longitude":-87.087481,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03j1sD5M1Tit6LHxdMKiRL_41.449092_-87.087481@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598835,
     "wof:geomhash":"6a32cb7f7725852df868b1e48396ee1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519849,
+            "venue_id":806525929
+        }
+    ],
     "wof:id":806525929,
-    "wof:lastmodified":1466506436,
+    "wof:lastmodified":1492097557,
     "wof:name":"Hartford Development Corp",
     "wof:parent_id":420519849,
     "wof:placetype":"venue",

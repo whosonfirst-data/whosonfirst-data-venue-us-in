@@ -2,9 +2,14 @@
   "id": 790597353,
   "type": "Feature",
   "properties": {
+    "addr:full":"542 W 600 N Hobart IN 46342",
+    "addr:housenumber":"542",
+    "addr:postcode":"46342",
+    "addr:street":"W 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.164268,41.521376,-87.164268,41.521376",
     "geom:latitude":41.521376,
     "geom:longitude":-87.164268,
@@ -29,7 +34,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B9LfRU17Wj5a61hkXvowS_41.521376_-87.164268@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462597187,
     "wof:geomhash":"f47f6d5e69f3d764218bea6eee7ec6d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790597353
+        }
+    ],
     "wof:id":790597353,
-    "wof:lastmodified":1466514716,
+    "wof:lastmodified":1492088101,
     "wof:name":"Enbridge Pipeline",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

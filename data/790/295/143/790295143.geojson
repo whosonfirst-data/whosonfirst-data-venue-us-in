@@ -2,9 +2,14 @@
   "id": 790295143,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Wilson St Kentland IN 47951",
+    "addr:housenumber":"502",
+    "addr:postcode":"47951",
+    "addr:street":"Wilson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.466008,40.770524,-87.466008,40.770524",
     "geom:latitude":40.770524,
     "geom:longitude":-87.466008,
@@ -27,7 +32,14 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RBEpwdKQDPRBdmazSBO1w_40.770524_-87.466008@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462594732,
     "wof:geomhash":"dbc5bcbf1f4542aacd27ecbbc93ed831",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790295143
+        }
+    ],
     "wof:id":790295143,
-    "wof:lastmodified":1466506850,
+    "wof:lastmodified":1492092078,
     "wof:name":"Deidam Decorating Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

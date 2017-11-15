@@ -2,6 +2,10 @@
   "id": 790452781,
   "type": "Feature",
   "properties": {
+    "addr:full":"16500 N Co Rd 925 W Gaston IN 47342",
+    "addr:housenumber":"16500;925",
+    "addr:postcode":"47342",
+    "addr:street":"N Co Rd;W Gaston In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790452781,
-    "wof:lastmodified":1466510614,
+    "wof:lastmodified":1472622877,
     "wof:name":"Liberty Tire Svc",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

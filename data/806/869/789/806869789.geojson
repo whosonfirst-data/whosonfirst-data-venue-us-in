@@ -2,14 +2,20 @@
   "id": 806869789,
   "type": "Feature",
   "properties": {
+    "addr:full":"8544 Morgan Dr Fishers IN 46038",
+    "addr:housenumber":"8544",
+    "addr:postcode":"46038",
+    "addr:street":"Morgan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.01745,39.95424,-86.01745,39.95424",
     "geom:latitude":39.95424,
     "geom:longitude":-86.01745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8544 Morgan Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125158241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZFpKfzVXd3F6aP886lSAw_39.954240_-86.017450@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601770,
-    "wof:geomhash":"47fa71a92078646355948ea46ff04f08",
+    "wof:geomhash":"127ef930e0046b9f98014f04ebfd1d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806869789,
-    "wof:lastmodified":1466516725,
+    "wof:lastmodified":1510697795,
     "wof:name":"Best Locksmith",
     "wof:parent_id":420519571,
     "wof:placetype":"venue",

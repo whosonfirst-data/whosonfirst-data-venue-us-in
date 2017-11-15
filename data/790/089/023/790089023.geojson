@@ -2,9 +2,14 @@
   "id": 790089023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 165th St Hammond IN 46323",
+    "addr:housenumber":"2620",
+    "addr:postcode":"46323",
+    "addr:street":"165Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.465449,41.595566,-87.465449,41.595566",
     "geom:latitude":41.595566,
     "geom:longitude":-87.465449,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839875,
+        85821465,
         102191575,
         404501869,
         85633793,
         85941817,
         102087149,
         85688709,
-        85821465
+        85839875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +56,7 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85839875,
+            "neighbourhood_id":85821465,
             "region_id":85688709,
             "venue_id":790089023
         },
@@ -61,15 +66,15 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85821465,
+            "neighbourhood_id":85839875,
             "region_id":85688709,
             "venue_id":790089023
         }
     ],
     "wof:id":790089023,
-    "wof:lastmodified":1466504529,
+    "wof:lastmodified":1492100579,
     "wof:name":"Total Transportation Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

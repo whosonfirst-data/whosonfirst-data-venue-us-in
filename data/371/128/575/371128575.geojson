@@ -2,9 +2,14 @@
   "id": 371128575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3880 Pendleton Way Indianapolis IN 46226",
+    "addr:housenumber":"3880",
+    "addr:postcode":"46226",
+    "addr:street":"Pendleton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.034947,39.829359,-86.034947,39.829359",
     "geom:latitude":39.829359,
     "geom:longitude":-86.034947,
@@ -30,11 +35,13 @@
     "sg:website":"www.kinetico.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891137,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85891137
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"c984f001443889dc2221ccacec03a931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85891137,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":371128575,
-    "wof:lastmodified":1466503032,
+    "wof:lastmodified":1491937572,
     "wof:name":"Kinetico Quality Water Systems",
     "wof:parent_id":85891137,
     "wof:placetype":"venue",

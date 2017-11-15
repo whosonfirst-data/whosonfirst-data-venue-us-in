@@ -2,14 +2,20 @@
   "id": 773019609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Elmwood Ave Lafayette IN 47904",
+    "addr:housenumber":"2200",
+    "addr:postcode":"47904",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.869025,40.430634,-86.869025,40.430634",
     "geom:latitude":40.430634,
     "geom:longitude":-86.869025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Elmwood Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NZbjw5c5Z1eWa0JjCQSx4_40.430634_-86.869025@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582454,
-    "wof:geomhash":"c667021ad99e9e6ed2be5a702fcd6161",
+    "wof:geomhash":"7389e88b9c6a22686ff557e6c11c003e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773019609,
-    "wof:lastmodified":1466503932,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

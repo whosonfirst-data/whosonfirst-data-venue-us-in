@@ -2,14 +2,20 @@
   "id": 773012777,
   "type": "Feature",
   "properties": {
+    "addr:full":"7848 Interstate Plaza Dr Hammond IN 46324",
+    "addr:housenumber":"7848",
+    "addr:postcode":"46324",
+    "addr:street":"Interstate Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.472723,41.571923,-87.472723,41.571923",
     "geom:latitude":41.571923,
     "geom:longitude":-87.472723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7848 Interstate Plaza Dr",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":420575095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m12QB80Euwv4d4pf82EHK_41.571923_-87.472723@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582362,
-    "wof:geomhash":"78c3e6f5fc9c89327f69747ef7cded45",
+    "wof:geomhash":"5f76c951b9b8ae68171ba11448154629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773012777,
-    "wof:lastmodified":1466503887,
+    "wof:lastmodified":1510607572,
     "wof:name":"Labor Ready Inc",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790412009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 S 18th St Lafayette IN 47909",
+    "addr:housenumber":"3610",
+    "addr:postcode":"47909",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.875998,40.365518,-86.875998,40.365518",
     "geom:latitude":40.365518,
     "geom:longitude":-86.875998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3610 S 18th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":1125150351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mrY5G1ejLEl8ZV9YS1hfG_40.365518_-86.875998@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595626,
-    "wof:geomhash":"69566341a7af039d958cf350d2e33682",
+    "wof:geomhash":"e0825d8acdc56c7043346e2e811f79ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790412009,
-    "wof:lastmodified":1466508056,
+    "wof:lastmodified":1510697026,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807050083,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 E 43rd Ave Gary IN 46409",
+    "addr:housenumber":"745",
+    "addr:postcode":"46409",
+    "addr:street":"E 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.327268,41.540291,-87.327268,41.540291",
     "geom:latitude":41.540291,
     "geom:longitude":-87.327268,
@@ -36,7 +41,10 @@
         "churches-various"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tLbZKjtiMtyPQ2VdUk8Hr_41.540291_-87.327268@1303262771"
@@ -44,9 +52,15 @@
     "wof:country":"US",
     "wof:created":1462603288,
     "wof:geomhash":"2759a2a52e5e9e6c48e46738b08b72c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807050083
+        }
+    ],
     "wof:id":807050083,
-    "wof:lastmodified":1466504405,
+    "wof:lastmodified":1492100595,
     "wof:name":"Salvation Free Christian Fellowship Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

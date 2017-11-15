@@ -2,9 +2,14 @@
   "id": 773804011,
   "type": "Feature",
   "properties": {
+    "addr:full":"681 McCool Rd Valparaiso IN 46385",
+    "addr:housenumber":"681",
+    "addr:postcode":"46385",
+    "addr:street":"Mccool Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.143192,41.533321,-87.143192,41.533321",
     "geom:latitude":41.533321,
     "geom:longitude":-87.143192,
@@ -27,7 +32,10 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LHlh1aYdKmGuM3eUqRH05_41.533321_-87.143192@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588503,
     "wof:geomhash":"f93a710dfd9a5262f9c451dd19da6977",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773804011
+        }
+    ],
     "wof:id":773804011,
-    "wof:lastmodified":1466519239,
+    "wof:lastmodified":1492100660,
     "wof:name":"Hackerz Computer Solutions",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

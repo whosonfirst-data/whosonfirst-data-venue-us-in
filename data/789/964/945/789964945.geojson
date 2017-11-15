@@ -2,9 +2,14 @@
   "id": 789964945,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 Pierce St Gary IN 46408",
+    "addr:housenumber":"3720",
+    "addr:postcode":"46408",
+    "addr:street":"Pierce St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.351072,41.549933,-87.351072,41.549933",
     "geom:latitude":41.549933,
     "geom:longitude":-87.351072,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w6eyCIU4sK9EfcLMwnNOf_41.549933_-87.351072@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592037,
     "wof:geomhash":"afb9140e4f5696628162095b9993d6ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789964945
+        }
+    ],
     "wof:id":789964945,
-    "wof:lastmodified":1466508812,
+    "wof:lastmodified":1492101507,
     "wof:name":"Daniel Webster Elementary Schl",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

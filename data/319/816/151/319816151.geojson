@@ -2,9 +2,14 @@
   "id": 319816151,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Aberdeen Dr Valparaiso IN 46385",
+    "addr:housenumber":"225",
+    "addr:postcode":"46385",
+    "addr:street":"Aberdeen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107944,41.43917,-87.107944,41.43917",
     "geom:latitude":41.43917,
     "geom:longitude":-87.107944,
@@ -30,10 +35,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85942811,
-        102087191
+        420519837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,15 @@
     "wof:geomhash":"8cc8b5b53900ec6bb9b4cbe41e43a273",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102087191,
-            "locality_id":85942811,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519837,
             "venue_id":319816151
         }
     ],
     "wof:id":319816151,
-    "wof:lastmodified":1466503514,
+    "wof:lastmodified":1492105310,
     "wof:name":"Brokerville Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

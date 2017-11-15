@@ -2,9 +2,14 @@
   "id": 319834893,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 E County Line Rd Indianapolis IN 46227",
+    "addr:housenumber":"1550",
+    "addr:postcode":"46227",
+    "addr:street":"E County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.134811,39.635469,-86.134811,39.635469",
     "geom:latitude":39.635469,
     "geom:longitude":-86.134811,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870681,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870681
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"0114c5e17e15495c25c553bd9816e44b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870681,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":319834893,
-    "wof:lastmodified":1466503544,
+    "wof:lastmodified":1491933161,
     "wof:name":"Cardiac & Vascular Physicians",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

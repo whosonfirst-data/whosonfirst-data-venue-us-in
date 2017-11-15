@@ -2,14 +2,20 @@
   "id": 789784433,
   "type": "Feature",
   "properties": {
+    "addr:full":"3942 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"3942",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.196706,41.069104,-85.196706,41.069104",
     "geom:latitude":41.069104,
     "geom:longitude":-85.196706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3942 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125158545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W7iJZKEuWzPzvsIIN8lbF_41.069104_-85.196706@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590524,
-    "wof:geomhash":"d703047342eb32a67c8618dca4f49cf3",
+    "wof:geomhash":"3a5f033751d1dcb8afbcdd1fd5fdd9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789784433,
-    "wof:lastmodified":1466506322,
+    "wof:lastmodified":1510699701,
     "wof:name":"Hair Today",
     "wof:parent_id":85857019,
     "wof:placetype":"venue",

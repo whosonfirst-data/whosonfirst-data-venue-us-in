@@ -2,9 +2,14 @@
   "id": 807040613,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 E Rimbach St Hammond IN 46324",
+    "addr:housenumber":"142",
+    "addr:postcode":"46324",
+    "addr:street":"E Rimbach St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.522524,41.618223,-87.522524,41.618223",
     "geom:latitude":41.618223,
     "geom:longitude":-87.522524,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.orbiesinternational.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16VhmFJOoJFhjC7SGZjo51_41.618223_-87.522524@1303262770"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462603208,
     "wof:geomhash":"06ba21c11e7be8b92e045f54ca43e27f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807040613
+        }
+    ],
     "wof:id":807040613,
-    "wof:lastmodified":1466503837,
+    "wof:lastmodified":1492088059,
     "wof:name":"Orbie's International Banquet & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

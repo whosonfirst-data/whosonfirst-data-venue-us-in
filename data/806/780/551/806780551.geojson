@@ -2,14 +2,20 @@
   "id": 806780551,
   "type": "Feature",
   "properties": {
+    "addr:full":"7439 W 10th St Indianapolis IN 46214",
+    "addr:housenumber":"7439",
+    "addr:postcode":"46214",
+    "addr:street":"W 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.291585,39.779124,-86.291585,39.779124",
     "geom:latitude":39.779124,
     "geom:longitude":-86.291585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7439 W 10th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151187,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PKQahyMKJVLSIdDEZoI3I_39.779107_-86.292282@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601019,
-    "wof:geomhash":"521567aeee3373a816815394437a10b1",
+    "wof:geomhash":"c935414aebd3badd997fd19f1bce5151",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806780551,
-    "wof:lastmodified":1466514014,
+    "wof:lastmodified":1510697189,
     "wof:name":"Nail Art",
     "wof:parent_id":85818927,
     "wof:placetype":"venue",

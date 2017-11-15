@@ -2,9 +2,14 @@
   "id": 789942747,
   "type": "Feature",
   "properties": {
+    "addr:full":"3549 Broadway Gary IN 46409",
+    "addr:housenumber":"3549",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336494,41.55398,-87.336494,41.55398",
     "geom:latitude":41.55398,
     "geom:longitude":-87.336494,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2syvDefaOML5Ao9K3xuLkr_41.553980_-87.336494@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462591812,
     "wof:geomhash":"12a2acc9b8edbdad115d508f79c57377",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789942747
+        }
+    ],
     "wof:id":789942747,
-    "wof:lastmodified":1466508418,
+    "wof:lastmodified":1492097608,
     "wof:name":"Recynt Insurance & Financial",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

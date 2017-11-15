@@ -2,14 +2,20 @@
   "id": 790278997,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Main St Brookville IN 47012",
+    "addr:housenumber":"616",
+    "addr:postcode":"47012",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.012829,39.421741,-85.012829,39.421741",
     "geom:latitude":39.421741,
     "geom:longitude":-85.012829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"616 Main St",
     "sg:city":"Brookville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850965,
         102086385
     ],
+    "wof:brand_id":1125153519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NnWWoZHcagZUcRfGCxbfy_39.421741_-85.012829@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594600,
-    "wof:geomhash":"f756bc78d35994fb3ca209221e77bb99",
+    "wof:geomhash":"f6e7cd07d998fbabf0ed5d2c7447554e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790278997,
-    "wof:lastmodified":1466506706,
+    "wof:lastmodified":1510698963,
     "wof:name":"First Financial Bank",
     "wof:parent_id":85850965,
     "wof:placetype":"venue",

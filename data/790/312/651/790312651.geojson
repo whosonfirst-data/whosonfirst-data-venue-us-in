@@ -2,14 +2,20 @@
   "id": 790312651,
   "type": "Feature",
   "properties": {
+    "addr:full":"43 The Meadows Terre Haute IN 47803",
+    "addr:housenumber":"43",
+    "addr:postcode":"47803",
+    "addr:street":"The Meadows",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.377293,39.464487,-87.377293,39.464487",
     "geom:latitude":39.464487,
     "geom:longitude":-87.377293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"43 The Meadows",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tHxSj3damegPAuGFWe1k1_39.464487_-87.377293@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594866,
-    "wof:geomhash":"8c3d106c87c5768f277f93b56ac25e67",
+    "wof:geomhash":"d590f12b44b743f6b36bd56f48309173",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790312651,
-    "wof:lastmodified":1466507071,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

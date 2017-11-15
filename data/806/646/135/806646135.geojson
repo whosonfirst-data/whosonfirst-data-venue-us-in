@@ -2,9 +2,14 @@
   "id": 806646135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4004 Campbell St Valparaiso IN 46385",
+    "addr:housenumber":"4004",
+    "addr:postcode":"46385",
+    "addr:street":"Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.065945,41.504817,-87.065945,41.504817",
     "geom:latitude":41.504817,
     "geom:longitude":-87.065945,
@@ -29,7 +34,10 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TKVeNokPyn15fGgvpV3iw_41.504817_-87.065945@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462599870,
     "wof:geomhash":"3bb630fb659f1ffded306882570dcac2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806646135
+        }
+    ],
     "wof:id":806646135,
-    "wof:lastmodified":1466508430,
+    "wof:lastmodified":1492088052,
     "wof:name":"Associated Pyschological Svc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

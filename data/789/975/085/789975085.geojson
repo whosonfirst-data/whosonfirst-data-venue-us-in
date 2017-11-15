@@ -2,9 +2,14 @@
   "id": 789975085,
   "type": "Feature",
   "properties": {
+    "addr:full":"889 Crown Ct Crown Point IN 46307",
+    "addr:housenumber":"889",
+    "addr:postcode":"46307",
+    "addr:street":"Crown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353338,41.431127,-87.353338,41.431127",
     "geom:latitude":41.431127,
     "geom:longitude":-87.353338,
@@ -27,7 +32,15 @@
         "fairground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wjWjq2kUprPzxJNQeyDNk_41.431127_-87.353338@1294102998"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462592126,
     "wof:geomhash":"ffb9ffc3189b4d1adc3309b3253cfc2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":789975085
+        }
+    ],
     "wof:id":789975085,
-    "wof:lastmodified":1466509086,
+    "wof:lastmodified":1492091595,
     "wof:name":"Lake County Fairgrounds",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

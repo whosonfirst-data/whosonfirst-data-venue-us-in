@@ -2,9 +2,14 @@
   "id": 789911987,
   "type": "Feature",
   "properties": {
+    "addr:full":"2058 Hayes Leonard Rd Valparaiso IN 46385",
+    "addr:housenumber":"2058",
+    "addr:postcode":"46385",
+    "addr:street":"Hayes Leonard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.094922,41.45361,-87.094922,41.45361",
     "geom:latitude":41.45361,
     "geom:longitude":-87.094922,
@@ -27,7 +32,15 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QUZsM3Mdd4oK65n6N8vhD_41.453610_-87.094922@1294102998"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462591558,
     "wof:geomhash":"606b1118a5e18050b42ce423acc401d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":789911987
+        }
+    ],
     "wof:id":789911987,
-    "wof:lastmodified":1466507586,
+    "wof:lastmodified":1492094990,
     "wof:name":"Final Cut Tree Svc LLC",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

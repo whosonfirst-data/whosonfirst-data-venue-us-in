@@ -2,9 +2,14 @@
   "id": 807047961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 119th St Whiting IN 46394",
+    "addr:housenumber":"1500",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.493087,41.679273,-87.493087,41.679273",
     "geom:latitude":41.679273,
     "geom:longitude":-87.493087,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.centier.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZxxKIQDU3pkbqEkuHtfNM_41.679273_-87.493087@1303262771"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462603272,
     "wof:geomhash":"48121259602f2aad43cc25876e00b070",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":807047961
+        }
+    ],
     "wof:id":807047961,
-    "wof:lastmodified":1466504125,
+    "wof:lastmodified":1492092225,
     "wof:name":"Centier Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

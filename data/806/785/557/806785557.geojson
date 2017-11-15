@@ -2,9 +2,14 @@
   "id": 806785557,
   "type": "Feature",
   "properties": {
+    "addr:full":"4562 N State Rd 71 Earl Park IN 47942",
+    "addr:housenumber":"4562;71",
+    "addr:postcode":"earl;47942",
+    "addr:street":"N State Rd;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.490138,40.665019,-87.490138,40.665019",
     "geom:latitude":40.665019,
     "geom:longitude":-87.490138,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501071,
+        85633793,
+        102087193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bq0hNhZs8PSRQEaSa53DJ_40.665019_-87.490138@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462601065,
     "wof:geomhash":"11878f760f531493cb3a6a2d30b78a97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087193,
+            "localadmin_id":404501071,
+            "region_id":85688709,
+            "venue_id":806785557
+        }
+    ],
     "wof:id":806785557,
-    "wof:lastmodified":1466514263,
+    "wof:lastmodified":1492093656,
     "wof:name":"Wade Berenda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

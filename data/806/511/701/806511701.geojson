@@ -2,14 +2,20 @@
   "id": 806511701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Goshen Rd Fort Wayne IN 46808",
+    "addr:housenumber":"2100",
+    "addr:postcode":"46808",
+    "addr:street":"Goshen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.167948,41.106442,-85.167948,41.106442",
     "geom:latitude":41.106442,
     "geom:longitude":-85.167948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Goshen Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mOgckAFxvIIZpON6OQEMI_41.106442_-85.167948@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598729,
-    "wof:geomhash":"814b529162ccc48a925e565d36b7a2a3",
+    "wof:geomhash":"f7e4fcea3dafbafa97e71ce759692242",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806511701,
-    "wof:lastmodified":1466506080,
+    "wof:lastmodified":1510613373,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85819467,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806703535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1322 Benton St Crete IN 60417",
+    "addr:housenumber":"1322",
+    "addr:postcode":"60417",
+    "addr:street":"Benton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.632604,41.444605,-87.632604,41.444605",
     "geom:latitude":41.444605,
     "geom:longitude":-87.632604,
@@ -24,7 +29,14 @@
     "sg:postcode":"60417",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SebY8WLvBPbQqd0P803XK_41.444605_-87.632604@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462600365,
     "wof:geomhash":"db0aea2687c48b4f5592ac83fc9c8a09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":806703535
+        }
+    ],
     "wof:id":806703535,
-    "wof:lastmodified":1466511239,
+    "wof:lastmodified":1492095559,
     "wof:name":"All Real Estate Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

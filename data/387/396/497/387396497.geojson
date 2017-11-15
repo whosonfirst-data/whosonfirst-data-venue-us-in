@@ -2,9 +2,14 @@
   "id": 387396497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 N McKinley Ave Rensselaer IN 47978",
+    "addr:housenumber":"1020",
+    "addr:postcode":"47978",
+    "addr:street":"N Mckinley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.151316,40.947302,-87.151316,40.947302",
     "geom:latitude":40.947302,
     "geom:longitude":-87.151316,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501003,
         85633793,
         85941697,
         102087005
@@ -38,17 +45,17 @@
     "wof:geomhash":"365bf3242c8cdb5b12e1b5915e54659a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087005,
+            "localadmin_id":404501003,
             "locality_id":85941697,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":387396497
         }
     ],
     "wof:id":387396497,
-    "wof:lastmodified":1466503433,
+    "wof:lastmodified":1492092197,
     "wof:name":"Gas Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

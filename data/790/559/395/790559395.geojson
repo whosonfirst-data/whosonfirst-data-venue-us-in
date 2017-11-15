@@ -2,9 +2,14 @@
   "id": 790559395,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 S Polk St Morocco IN 47963",
+    "addr:housenumber":"508",
+    "addr:postcode":"47963",
+    "addr:street":"S Polk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.450251,40.942228,-87.450251,40.942228",
     "geom:latitude":40.942228,
     "geom:longitude":-87.450251,
@@ -24,7 +29,14 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nY9THGByLRGh4jPCuxeQ2_40.942228_-87.450251@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462596872,
     "wof:geomhash":"b422fc8b39039cde686ec6c82ed4669c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":790559395
+        }
+    ],
     "wof:id":790559395,
-    "wof:lastmodified":1466513657,
+    "wof:lastmodified":1492091557,
     "wof:name":"Newton County Courthouse Annex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

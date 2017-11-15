@@ -2,14 +2,20 @@
   "id": 806851129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 Keystone Way Carmel IN 46032",
+    "addr:housenumber":"1235",
+    "addr:postcode":"46032",
+    "addr:street":"Keystone Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.114422,39.959435,-86.114422,39.959435",
     "geom:latitude":39.959435,
     "geom:longitude":-86.114422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1235 Keystone Way",
     "sg:city":"Carmel",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125158253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M33SSD9oW88x1Xf002HnN_39.959435_-86.114422@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601618,
-    "wof:geomhash":"4b68e97a5e4f68d464b199548533fa68",
+    "wof:geomhash":"e7e488350f44a5e69fdeb70df9bc1a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806851129,
-    "wof:lastmodified":1466516203,
+    "wof:lastmodified":1510698667,
     "wof:name":"Carrabba's Italian Grill",
     "wof:parent_id":420519611,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806758391,
   "type": "Feature",
   "properties": {
+    "addr:full":"3051 E 1500 North Rd Sheldon IN 60966",
+    "addr:housenumber":"3051",
+    "addr:postcode":"60966",
+    "addr:street":"E 1500 North Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.544061,40.733192,-87.544061,40.733192",
     "geom:latitude":40.733192,
     "geom:longitude":-87.544061,
@@ -26,7 +31,13 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mzArWNBXTPopIrrRDiau9_40.733192_-87.544061@1294102998"
@@ -34,9 +45,18 @@
     "wof:country":"US",
     "wof:created":1462600832,
     "wof:geomhash":"62794c89c07ff44adb85293e08e01906",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "region_id":85688697,
+            "venue_id":806758391
+        }
+    ],
     "wof:id":806758391,
-    "wof:lastmodified":1466513219,
+    "wof:lastmodified":1492102315,
     "wof:name":"William Nagele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

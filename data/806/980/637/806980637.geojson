@@ -2,6 +2,10 @@
   "id": 806980637,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"4321",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806980637,
-    "wof:lastmodified":1466518804,
+    "wof:lastmodified":1472623074,
     "wof:name":"Alstott Schiller Mortgage Co Llc",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

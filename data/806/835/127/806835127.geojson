@@ -2,14 +2,20 @@
   "id": 806835127,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Green River Rd Evansville IN 47715",
+    "addr:housenumber":"700",
+    "addr:postcode":"47715",
+    "addr:street":"N Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492757,37.98344,-87.492757,37.98344",
     "geom:latitude":37.98344,
     "geom:longitude":-87.492757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125156089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lOUyevtJXInAK2VCziqCX_37.983440_-87.492757@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601469,
-    "wof:geomhash":"b8d56d5c9879942677e170c72f177b4d",
+    "wof:geomhash":"6bc053ea5c160aa323cabf01f7b0770e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806835127,
-    "wof:lastmodified":1466515934,
+    "wof:lastmodified":1510699301,
     "wof:name":"Grandy's",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

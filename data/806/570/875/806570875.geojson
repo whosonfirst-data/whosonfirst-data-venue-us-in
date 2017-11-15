@@ -2,9 +2,14 @@
   "id": 806570875,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"26",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.072539,41.549965,-87.072539,41.549965",
     "geom:latitude":41.549965,
     "geom:longitude":-87.072539,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hsAS0K44mCYdFGSYz7Gy8_41.549965_-87.072539@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599218,
     "wof:geomhash":"b6507592ad8bde865c49040ca8aec120",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806570875
+        }
+    ],
     "wof:id":806570875,
-    "wof:lastmodified":1466506850,
+    "wof:lastmodified":1492097612,
     "wof:name":"Wind Chase Farms Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

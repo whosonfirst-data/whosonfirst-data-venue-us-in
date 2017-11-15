@@ -2,9 +2,14 @@
   "id": 807021397,
   "type": "Feature",
   "properties": {
+    "addr:full":"15900 W 101st Ave Dyer IN 46311",
+    "addr:housenumber":"15900",
+    "addr:postcode":"46311",
+    "addr:street":"W 101St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.525796,41.435596,-87.525796,41.435596",
     "geom:latitude":41.435596,
     "geom:longitude":-87.525796,
@@ -24,7 +29,13 @@
     "sg:postcode":"46311",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WiYUb7Rc6M5u8vmgzooK8_41.435596_-87.525796@1303262769"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462603049,
     "wof:geomhash":"d9957225b2ba5b48274f0412eaab99e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "region_id":85688697,
+            "venue_id":807021397
+        }
+    ],
     "wof:id":807021397,
-    "wof:lastmodified":1466504087,
+    "wof:lastmodified":1492094841,
     "wof:name":"Marcotte Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

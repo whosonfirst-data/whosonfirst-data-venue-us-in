@@ -2,14 +2,20 @@
   "id": 806871725,
   "type": "Feature",
   "properties": {
+    "addr:full":"13205 San Vincente Blvd Fishers IN 46038",
+    "addr:housenumber":"13205",
+    "addr:postcode":"46038",
+    "addr:street":"San Vincente Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.020911,39.980425,-86.020911,39.980425",
     "geom:latitude":39.980425,
     "geom:longitude":-86.020911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13205 San Vincente Blvd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2clU39Jxmx5IpZKogzGPNI_39.980425_-86.020911@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601784,
-    "wof:geomhash":"093f9f954923f61104d7bb4350873f41",
+    "wof:geomhash":"aac8b9e2a1d2e6b8e84fec204345abf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806871725,
-    "wof:lastmodified":1466516386,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85891117,
     "wof:placetype":"venue",

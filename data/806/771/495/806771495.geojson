@@ -2,6 +2,10 @@
   "id": 806771495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3581 W Co Rd 350 N Danville IN 46122",
+    "addr:housenumber":"3581;350",
+    "addr:postcode":"46122",
+    "addr:street":"W Co Rd;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":806771495,
-    "wof:lastmodified":1466513660,
+    "wof:lastmodified":1472622890,
     "wof:name":"Richard Himsell",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

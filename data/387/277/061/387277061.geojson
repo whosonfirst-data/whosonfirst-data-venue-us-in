@@ -2,14 +2,20 @@
   "id": 387277061,
   "type": "Feature",
   "properties": {
+    "addr:full":"5308 N Keystone Ave Indianapolis IN 46220",
+    "addr:housenumber":"5308",
+    "addr:postcode":"46220",
+    "addr:street":"N Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.122134,39.84921,-86.122134,39.84921",
     "geom:latitude":39.84921,
     "geom:longitude":-86.122134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5308 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85870671
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wLd4cdSmeB6KdTAAlU7vt_39.849210_-86.122134@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3e9d3341cf19e248f80ddbf5c2a1676",
+    "wof:geomhash":"290a3f24e6de7a07d4918e1d364d877a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387277061,
-    "wof:lastmodified":1466503273,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",

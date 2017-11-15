@@ -2,14 +2,20 @@
   "id": 789787553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1924 W Cross St Anderson IN 46011",
+    "addr:housenumber":"1924",
+    "addr:postcode":"46011",
+    "addr:street":"W Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.70902,40.135161,-85.70902,40.135161",
     "geom:latitude":40.135161,
     "geom:longitude":-85.70902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1924 W Cross St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125156999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42f4Z9LAkl89Zc3ZdMl6YF_40.135161_-85.709020@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590546,
-    "wof:geomhash":"490e6a5844b53083431057d7d5b72d7f",
+    "wof:geomhash":"010eedb8302853c8b8711d006fcaab61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789787553,
-    "wof:lastmodified":1466506387,
+    "wof:lastmodified":1510697506,
     "wof:name":"Landmark Baptist Church",
     "wof:parent_id":420519743,
     "wof:placetype":"venue",

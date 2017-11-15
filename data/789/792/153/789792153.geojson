@@ -2,9 +2,14 @@
   "id": 789792153,
   "type": "Feature",
   "properties": {
+    "addr:full":"647 Meridian Rd Valparaiso IN 46385",
+    "addr:housenumber":"647",
+    "addr:postcode":"46385",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066088,41.529446,-87.066088,41.529446",
     "geom:latitude":41.529446,
     "geom:longitude":-87.066088,
@@ -29,7 +34,10 @@
         "skiing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LfDGYegypJ86WhEPxKXYC_41.529446_-87.066088@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462590581,
     "wof:geomhash":"59ab0e0c8ba5ac78c8e3e1fd464ebeb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789792153
+        }
+    ],
     "wof:id":789792153,
-    "wof:lastmodified":1466506399,
+    "wof:lastmodified":1492095710,
     "wof:name":"Pines Ski Area",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

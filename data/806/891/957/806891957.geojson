@@ -2,14 +2,20 @@
   "id": 806891957,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 S State Road 67 Mooresville IN 46158",
+    "addr:housenumber":"540",
+    "addr:postcode":"46158",
+    "addr:street":"S State Road 67",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.379658,39.6089,-86.379658,39.6089",
     "geom:latitude":39.6089,
     "geom:longitude":-86.379658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"540 S State Road 67",
     "sg:city":"Mooresville",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087091,
         85688709
     ],
+    "wof:brand_id":420574573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wii24PdqWB0KsqEBzVVYD_39.608900_-86.379658@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601947,
-    "wof:geomhash":"7119fc1b8efe43aba8c195b887b56223",
+    "wof:geomhash":"805e6cfc0dc8ca26b48f5ab453c4688d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806891957,
-    "wof:lastmodified":1466517329,
+    "wof:lastmodified":1510604686,
     "wof:name":"Big O Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

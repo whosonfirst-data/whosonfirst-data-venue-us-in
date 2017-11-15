@@ -2,14 +2,20 @@
   "id": 806849251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Clay Terrace 14477 Clay Terrace Blvd Carmel IN 46032",
+    "addr:housenumber":"",
+    "addr:postcode":"14477;46032",
+    "addr:street":"Clay Terrace;Clay Terrace Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.129873,39.999237,-86.129873,39.999237",
     "geom:latitude":39.999237,
     "geom:longitude":-86.129873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Clay Terrace 14477 Clay Terrace Blvd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JxPsKL2BEs2Cq3UCd34MA_39.999237_-86.129873@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601600,
-    "wof:geomhash":"e6a33c253f2a049e7546dbe1b307d87f",
+    "wof:geomhash":"ae0227e20db135fe1ce17a7d51deaa1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806849251,
-    "wof:lastmodified":1466516215,
+    "wof:lastmodified":1510695730,
     "wof:name":"DSW Shoe Warehouse",
     "wof:parent_id":85896545,
     "wof:placetype":"venue",

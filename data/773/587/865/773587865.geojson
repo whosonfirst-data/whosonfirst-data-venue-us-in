@@ -2,9 +2,14 @@
   "id": 773587865,
   "type": "Feature",
   "properties": {
+    "addr:full":"6151 Cleveland St Merrillville IN 46410",
+    "addr:housenumber":"6151",
+    "addr:postcode":"46410",
+    "addr:street":"Cleveland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360386,41.506926,-87.360386,41.506926",
     "geom:latitude":41.506926,
     "geom:longitude":-87.360386,
@@ -30,7 +35,10 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DkU8uBELCsgzHaYDGta8i_41.506926_-87.360386@1294102998"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462586857,
     "wof:geomhash":"3f90776c302025c8079492f8673cf865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773587865
+        }
+    ],
     "wof:id":773587865,
-    "wof:lastmodified":1466515863,
+    "wof:lastmodified":1492091323,
     "wof:name":"Movie Gallery",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

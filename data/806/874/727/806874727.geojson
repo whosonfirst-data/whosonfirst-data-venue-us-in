@@ -2,14 +2,20 @@
   "id": 806874727,
   "type": "Feature",
   "properties": {
+    "addr:full":"7434 E Fishers Station Dr Fishers IN 46038",
+    "addr:housenumber":"7434",
+    "addr:postcode":"46038",
+    "addr:street":"E Fishers Station Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.035923,39.957031,-86.035923,39.957031",
     "geom:latitude":39.957031,
     "geom:longitude":-86.035923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7434 E Fishers Station Dr",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fvD7WpujHrqUnoe3KH6jl_39.957031_-86.035923@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601810,
-    "wof:geomhash":"e92ec4533a12733f642e9794bcadd2d1",
+    "wof:geomhash":"20a758d958c12bdf55c68e5d6fc15292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806874727,
-    "wof:lastmodified":1466516684,
+    "wof:lastmodified":1510693708,
     "wof:name":"Quizno's Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

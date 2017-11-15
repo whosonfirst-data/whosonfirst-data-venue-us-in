@@ -2,14 +2,20 @@
   "id": 773588711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1283 US Hwy 31 N Greenwood IN 46142",
+    "addr:housenumber":"1283",
+    "addr:postcode":"46142",
+    "addr:street":"Us Hwy 31 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.126452,39.635165,-86.126452,39.635165",
     "geom:latitude":39.635165,
     "geom:longitude":-86.126452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1283 US Hwy 31 N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36pKWxHsrHtTkUdOrqadgs_39.635165_-86.126452@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586862,
-    "wof:geomhash":"1778467dc74148e3e42e3ba0ededc9da",
+    "wof:geomhash":"7980ab1109f881d840727758b9a94c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773588711,
-    "wof:lastmodified":1466516001,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

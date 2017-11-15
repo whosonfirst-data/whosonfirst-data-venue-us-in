@@ -2,9 +2,14 @@
   "id": 773741705,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 E Union St Goodland IN 47948",
+    "addr:housenumber":"202",
+    "addr:postcode":"47948",
+    "addr:street":"E Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.290436,40.763444,-87.290436,40.763444",
     "geom:latitude":40.763444,
     "geom:longitude":-87.290436,
@@ -27,7 +32,14 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NFFidoFiPByYCovNOdVvF_40.763444_-87.290436@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462588033,
     "wof:geomhash":"1a56d28236fdbcf7628d9f07549371e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":773741705
+        }
+    ],
     "wof:id":773741705,
-    "wof:lastmodified":1466518238,
+    "wof:lastmodified":1492091666,
     "wof:name":"Goodland Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

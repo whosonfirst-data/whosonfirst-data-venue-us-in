@@ -2,14 +2,20 @@
   "id": 773022677,
   "type": "Feature",
   "properties": {
+    "addr:full":"16935 Zubrick Rd Roanoke IN 46783",
+    "addr:housenumber":"16935",
+    "addr:postcode":"46783",
+    "addr:street":"Zubrick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.300017,40.928657,-85.300017,40.928657",
     "geom:latitude":40.928657,
     "geom:longitude":-85.300017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16935 Zubrick Rd",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85877567,
         102087177
     ],
+    "wof:brand_id":1125156571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bp9lsvaZ9wokdsJsgLHlV_40.928657_-85.300017@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582491,
-    "wof:geomhash":"9b8e77f3cd74e1655676ab1448649fc5",
+    "wof:geomhash":"655884fcea47c31e45d4c5ee4e416a55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773022677,
-    "wof:lastmodified":1466503986,
+    "wof:lastmodified":1510696823,
     "wof:name":"GE Medical Systems",
     "wof:parent_id":85877567,
     "wof:placetype":"venue",

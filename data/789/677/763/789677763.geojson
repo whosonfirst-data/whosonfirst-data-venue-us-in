@@ -2,14 +2,20 @@
   "id": 789677763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4315 Maplecrest Rd Fort Wayne IN 46815",
+    "addr:housenumber":"4315",
+    "addr:postcode":"46815",
+    "addr:street":"Maplecrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.0615,41.119343,-85.0615,41.119343",
     "geom:latitude":41.119343,
     "geom:longitude":-85.0615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4315 Maplecrest Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xwdsnHkCM7Fcf2ZJunk9S_41.119343_-85.061500@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589683,
-    "wof:geomhash":"69c540b2dcfd4fa7835f4ac1fa4efbbd",
+    "wof:geomhash":"6eb301591e1a935a249644776bfe3e95",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789677763,
-    "wof:lastmodified":1466505086,
+    "wof:lastmodified":1510613319,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

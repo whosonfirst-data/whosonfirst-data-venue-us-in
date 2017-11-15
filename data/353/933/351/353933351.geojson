@@ -2,9 +2,14 @@
   "id": 353933351,
   "type": "Feature",
   "properties": {
+    "addr:full":"3818 Oil Creek Dr Indianapolis IN 46268",
+    "addr:housenumber":"3818",
+    "addr:postcode":"46268",
+    "addr:street":"Oil Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.225783,39.90284,-86.225783,39.90284",
     "geom:latitude":39.90284,
     "geom:longitude":-86.225783,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85857069,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85857069
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"93467664495100be299258c1fd663139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85857069,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":353933351,
-    "wof:lastmodified":1466503472,
+    "wof:lastmodified":1491907172,
     "wof:name":"1752 Club of Indiana Inc",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

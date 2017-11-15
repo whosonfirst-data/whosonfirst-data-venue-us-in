@@ -2,9 +2,14 @@
   "id": 806722917,
   "type": "Feature",
   "properties": {
+    "addr:full":"2551 E 1900 North Rd Sheldon IN 60966",
+    "addr:housenumber":"2551",
+    "addr:postcode":"60966",
+    "addr:street":"E 1900 North Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.636466,40.789581,-87.636466,40.789581",
     "geom:latitude":40.789581,
     "geom:longitude":-87.636466,
@@ -22,7 +27,13 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496471,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07Fk1mL5U2Yf0W1FhBVGbp_40.789581_-87.636466@1294102998"
@@ -30,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1462600527,
     "wof:geomhash":"344cf2b3327e54cd30cd4f901355b084",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404496471,
+            "region_id":85688697,
+            "venue_id":806722917
+        }
+    ],
     "wof:id":806722917,
-    "wof:lastmodified":1466512022,
+    "wof:lastmodified":1492097677,
     "wof:name":"Dan Disosway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

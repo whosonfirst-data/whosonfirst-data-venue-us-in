@@ -2,14 +2,20 @@
   "id": 773633607,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 E Tipton St Seymour IN 47274",
+    "addr:housenumber":"608",
+    "addr:postcode":"47274",
+    "addr:street":"E Tipton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.880319,38.95805,-85.880319,38.95805",
     "geom:latitude":38.95805,
     "geom:longitude":-85.880319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 E Tipton St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125159623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SoecNYSInIo99ct1ye1I4_38.958050_-85.880319@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587199,
-    "wof:geomhash":"e44b8e09b8d62db9dca77ec5e227e03c",
+    "wof:geomhash":"6a2bbf4aa87759294303220fc791c2cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773633607,
-    "wof:lastmodified":1466516714,
+    "wof:lastmodified":1510696712,
     "wof:name":"Nail Time",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

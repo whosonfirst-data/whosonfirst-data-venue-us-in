@@ -2,9 +2,14 @@
   "id": 789687577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1748 E 1000 N Laporte IN 46350",
+    "addr:housenumber":"1748",
+    "addr:postcode":"46350",
+    "addr:street":"E 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.665986,41.752891,-86.665986,41.752891",
     "geom:latitude":41.752891,
     "geom:longitude":-86.665986,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500435,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WGYRVMPNXD6AB9Eycl8Et_41.752891_-86.665986@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462589760,
     "wof:geomhash":"681aa73754f437957073f3c9eea5ef27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404500435,
+            "region_id":85688709,
+            "venue_id":789687577
+        }
+    ],
     "wof:id":789687577,
-    "wof:lastmodified":1466505274,
+    "wof:lastmodified":1492092234,
     "wof:name":"Galena Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

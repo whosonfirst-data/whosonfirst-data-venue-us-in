@@ -2,14 +2,20 @@
   "id": 790117395,
   "type": "Feature",
   "properties": {
+    "addr:full":"12538 Creekwood Ct Indianapolis IN 46236",
+    "addr:housenumber":"12538",
+    "addr:postcode":"46236",
+    "addr:street":"Creekwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.942677,39.914936,-85.942677,39.914936",
     "geom:latitude":39.914936,
     "geom:longitude":-85.942677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12538 Creekwood Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20p3Jd4FJyg472d3652zj7_39.914936_-85.942677@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593268,
-    "wof:geomhash":"447d2e13ef43ead318170cdee4d17803",
+    "wof:geomhash":"e32d386c9cf0d967c5c53d6ef4b4ea06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790117395,
-    "wof:lastmodified":1466504948,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85821387,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806648799,
   "type": "Feature",
   "properties": {
+    "addr:full":"379 W US Hwy 30 Valparaiso IN 46385",
+    "addr:housenumber":"379",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.122376,41.465998,-87.122376,41.465998",
     "geom:latitude":41.465998,
     "geom:longitude":-87.122376,
@@ -24,7 +29,15 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pBvxgDjoXEg3ptD6CNdAb_41.465998_-87.122376@1294102998"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462599894,
     "wof:geomhash":"1998e60991c684764b91c973d6cc768a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":806648799
+        }
+    ],
     "wof:id":806648799,
-    "wof:lastmodified":1466508667,
+    "wof:lastmodified":1492095862,
     "wof:name":"All States Recovery Bureau",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

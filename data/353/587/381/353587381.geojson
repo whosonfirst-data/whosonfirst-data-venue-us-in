@@ -2,9 +2,14 @@
   "id": 353587381,
   "type": "Feature",
   "properties": {
+    "addr:full":"6435 Calumet Ave Hammond IN 46324",
+    "addr:housenumber":"6435",
+    "addr:postcode":"46324",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508867,41.596089,-87.508867,41.596089",
     "geom:latitude":41.596089,
     "geom:longitude":-87.508867,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85858873,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149,
-        85858873
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"817b6ff5c923f481fecd9782f3af3d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
             "neighbourhood_id":85858873,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":353587381,
-    "wof:lastmodified":1466503060,
+    "wof:lastmodified":1492106552,
     "wof:name":"Broz Moving & Storage",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806830207,
   "type": "Feature",
   "properties": {
+    "addr:full":"3451 N Nebo Rd Muncie IN 47304",
+    "addr:housenumber":"3451",
+    "addr:postcode":"47304",
+    "addr:street":"N Nebo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.461712,40.219592,-85.461712,40.219592",
     "geom:latitude":40.219592,
     "geom:longitude":-85.461712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3451 N Nebo Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oX4hoz5quNgLMs1w4asN7_40.219592_-85.461712@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601426,
-    "wof:geomhash":"8d3e9f2a1289a29f2fce6d45e5257d61",
+    "wof:geomhash":"deaab8abe280c6055d5180d05c437e29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806830207,
-    "wof:lastmodified":1466515765,
+    "wof:lastmodified":1510695872,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

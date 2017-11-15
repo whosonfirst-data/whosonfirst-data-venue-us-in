@@ -2,6 +2,10 @@
   "id": 773220039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Elm St East Chicago IN 46312",
+    "addr:housenumber":"4321",
+    "addr:postcode":"46312",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":773220039,
-    "wof:lastmodified":1466506568,
+    "wof:lastmodified":1472622894,
     "wof:name":"Poor Handmaids Of Jesus Christ",
     "wof:parent_id":85826901,
     "wof:placetype":"venue",

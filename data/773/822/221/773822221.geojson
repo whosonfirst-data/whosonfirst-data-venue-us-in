@@ -2,9 +2,14 @@
   "id": 773822221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2535 Virginia St Gary IN 46407",
+    "addr:housenumber":"2535",
+    "addr:postcode":"46407",
+    "addr:street":"Virginia St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.329733,41.572073,-87.329733,41.572073",
     "geom:latitude":41.572073,
     "geom:longitude":-87.329733,
@@ -24,7 +29,10 @@
     "sg:postcode":"46407",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ilg9w8NiIvHUtsAHr5Z79_41.572073_-87.329733@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462588650,
     "wof:geomhash":"1493d73d6b2e6bd2cf05a9e31e165ce1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773822221
+        }
+    ],
     "wof:id":773822221,
-    "wof:lastmodified":1466519116,
+    "wof:lastmodified":1492097607,
     "wof:name":"George Washington Carver Schl",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

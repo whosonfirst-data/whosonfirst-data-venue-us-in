@@ -2,14 +2,20 @@
   "id": 772995241,
   "type": "Feature",
   "properties": {
+    "addr:full":"7520 Georgetown Rd Indianapolis IN 46268",
+    "addr:housenumber":"7520",
+    "addr:postcode":"46268",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.243449,39.884816,-86.243449,39.884816",
     "geom:latitude":39.884816,
     "geom:longitude":-86.243449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7520 Georgetown Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AWiMMAYqT70DOBFs0BPSH_39.884816_-86.243449@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462581892,
-    "wof:geomhash":"c951f81151fc6e3a7d7ca9511da9157e",
+    "wof:geomhash":"07225c1c64e0f716d65e38ce433e4b01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":772995241,
-    "wof:lastmodified":1466502948,
+    "wof:lastmodified":1510699365,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":420519805,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806523131,
   "type": "Feature",
   "properties": {
+    "addr:full":"338 Market Plz Greenwood IN 46142",
+    "addr:housenumber":"338",
+    "addr:postcode":"46142",
+    "addr:street":"Market Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.110928,39.612559,-86.110928,39.612559",
     "geom:latitude":39.612559,
     "geom:longitude":-86.110928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"338 Market Plz",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72r3AQjVGb4HZ3lAl1Za7y_39.612559_-86.110928@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598810,
-    "wof:geomhash":"7fc0c8f16514032fc25369a2d493ade6",
+    "wof:geomhash":"adc5a6e4d41f1ac97e60177c02102f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806523131,
-    "wof:lastmodified":1466506393,
+    "wof:lastmodified":1510697515,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

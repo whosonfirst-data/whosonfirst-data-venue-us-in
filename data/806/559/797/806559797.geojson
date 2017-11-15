@@ -2,14 +2,20 @@
   "id": 806559797,
   "type": "Feature",
   "properties": {
+    "addr:full":"5959 Coca Cola Ave Portage IN 46368",
+    "addr:housenumber":"5959",
+    "addr:postcode":"46368",
+    "addr:street":"Coca Cola Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.184485,41.601233,-87.184485,41.601233",
     "geom:latitude":41.601233,
     "geom:longitude":-87.184485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5959 Coca Cola Ave",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eyLTxhx0xzhrpHvxch88r_41.601233_-87.184485@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599124,
-    "wof:geomhash":"a16ca2e1560c7a68c98f1844fe649521",
+    "wof:geomhash":"a048aef83ad440c6dffe1cd818fa19d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806559797,
-    "wof:lastmodified":1466507033,
+    "wof:lastmodified":1510602481,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85821229,
     "wof:placetype":"venue",

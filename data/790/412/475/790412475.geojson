@@ -2,14 +2,20 @@
   "id": 790412475,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E 8th St Seymour IN 47274",
+    "addr:housenumber":"101",
+    "addr:postcode":"47274",
+    "addr:street":"E 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.89025,38.966341,-85.89025,38.966341",
     "geom:latitude":38.966341,
     "geom:longitude":-85.89025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E 8th St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125159859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W0cKFObq6GHREE84VeiHb_38.966341_-85.890250@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595629,
-    "wof:geomhash":"58e8491b0391c782e2eafebe413cd0e7",
+    "wof:geomhash":"5e5e28855f42f57e87e999aa9a8e2f90",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790412475,
-    "wof:lastmodified":1466508093,
+    "wof:lastmodified":1510696724,
     "wof:name":"First Wesleyan Church",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

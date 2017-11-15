@@ -2,6 +2,10 @@
   "id": 773719987,
   "type": "Feature",
   "properties": {
+    "addr:full":"9024 W Co Rd 125 S Medora IN 47260",
+    "addr:housenumber":"9024;125",
+    "addr:postcode":"47260",
+    "addr:street":"W Co Rd;S Medora",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773719987,
-    "wof:lastmodified":1466517999,
+    "wof:lastmodified":1472623215,
     "wof:name":"Helton Virginia",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",

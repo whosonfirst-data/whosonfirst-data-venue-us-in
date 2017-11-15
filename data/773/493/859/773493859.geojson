@@ -2,9 +2,14 @@
   "id": 773493859,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Sunset Dr Michigan City IN 46360",
+    "addr:housenumber":"202",
+    "addr:postcode":"46360",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.830955,41.7082,-86.830955,41.7082",
     "geom:latitude":41.7082,
     "geom:longitude":-86.830955,
@@ -24,7 +29,10 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eHcjHg0YIynv6WzPKB112_41.708200_-86.830955@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586166,
     "wof:geomhash":"8f6a9bd15a6cd5c8403d8222d0ab76e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773493859
+        }
+    ],
     "wof:id":773493859,
-    "wof:lastmodified":1466512994,
+    "wof:lastmodified":1492091328,
     "wof:name":"Tekleapsinc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

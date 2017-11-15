@@ -2,9 +2,14 @@
   "id": 806386913,
   "type": "Feature",
   "properties": {
+    "addr:full":"14804 113th Ave Dyer IN 46311",
+    "addr:housenumber":"14804",
+    "addr:postcode":"46311",
+    "addr:street":"113Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508286,41.413946,-87.508286,41.413946",
     "geom:latitude":41.413946,
     "geom:longitude":-87.508286,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LNZIPstiqZOmMgsmOeVPI_41.413946_-87.508286@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597731,
     "wof:geomhash":"b471e1f926926e472bbf8fc72e3c9c2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":806386913
+        }
+    ],
     "wof:id":806386913,
-    "wof:lastmodified":1466504322,
+    "wof:lastmodified":1492107692,
     "wof:name":"Zion United Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

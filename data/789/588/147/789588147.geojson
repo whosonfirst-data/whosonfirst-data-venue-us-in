@@ -2,9 +2,14 @@
   "id": 789588147,
   "type": "Feature",
   "properties": {
+    "addr:full":"3355 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"3355",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.765425,41.687951,-86.765425,41.687951",
     "geom:latitude":41.687951,
     "geom:longitude":-86.765425,
@@ -27,7 +32,10 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qSQvQDUlt27mv7NE8QWcv_41.687951_-86.765425@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588973,
     "wof:geomhash":"c893bbe5e72c100f30935a8f4f23a566",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789588147
+        }
+    ],
     "wof:id":789588147,
-    "wof:lastmodified":1466503432,
+    "wof:lastmodified":1492091483,
     "wof:name":"Wilco Construction & Rental",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

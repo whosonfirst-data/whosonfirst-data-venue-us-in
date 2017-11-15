@@ -2,6 +2,10 @@
   "id": 789778383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1334 Medical Park Dr Fort Wayne IN 46825",
+    "addr:housenumber":"1334",
+    "addr:postcode":"46825",
+    "addr:street":"Medical Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789778383,
-    "wof:lastmodified":1466506171,
+    "wof:lastmodified":1472622616,
     "wof:name":"Interim Healthcare",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

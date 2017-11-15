@@ -2,14 +2,20 @@
   "id": 790620495,
   "type": "Feature",
   "properties": {
+    "addr:full":"8005 Division St Evansville IN 47715",
+    "addr:housenumber":"8005",
+    "addr:postcode":"47715",
+    "addr:street":"Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480517,37.97714,-87.480517,37.97714",
     "geom:latitude":37.97714,
     "geom:longitude":-87.480517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8005 Division St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LRHMCoJdBzrxK2H3hCMla_37.977140_-87.480517@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597417,
-    "wof:geomhash":"3c4512efb7054f59afcbda7ac26626d4",
+    "wof:geomhash":"f360162b97e2c9ce2161a3e08ee86f89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790620495,
-    "wof:lastmodified":1466515842,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85891111,
     "wof:placetype":"venue",

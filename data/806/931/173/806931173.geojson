@@ -2,14 +2,20 @@
   "id": 806931173,
   "type": "Feature",
   "properties": {
+    "addr:full":"5060 E 62nd St Ste 136 Indianapolis IN 46220",
+    "addr:housenumber":"5060",
+    "addr:postcode":"46220",
+    "addr:street":"E 62Nd St Ste 136",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.08467,39.868654,-86.08467,39.868654",
     "geom:latitude":39.868654,
     "geom:longitude":-86.08467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5060 E 62nd St Ste 136",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575071,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A1RKwmKiR3fPQUy1CCfz7_39.868654_-86.084670@1303262764"
     },
     "wof:country":"US",
     "wof:created":1462602285,
-    "wof:geomhash":"871774d04c8a5ee97bff5bc7c5a715cc",
+    "wof:geomhash":"94bd9b21315a76d6b9a8c22252d663f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":806931173,
-    "wof:lastmodified":1466518227,
+    "wof:lastmodified":1510602740,
     "wof:name":"Merry Maids",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",

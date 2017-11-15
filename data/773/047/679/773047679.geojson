@@ -2,9 +2,14 @@
   "id": 773047679,
   "type": "Feature",
   "properties": {
+    "addr:full":"7567 W Mill Ct Hobart IN 46342",
+    "addr:housenumber":"7567",
+    "addr:postcode":"46342",
+    "addr:street":"W Mill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.233043,41.47975,-87.233043,41.47975",
     "geom:latitude":41.47975,
     "geom:longitude":-87.233043,
@@ -28,7 +33,14 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WEmMkuV32H6oGuSoV4is9_41.479750_-87.233043@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462582722,
     "wof:geomhash":"82ac99e95052c7dd20a177ee42641931",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "region_id":85688709,
+            "venue_id":773047679
+        }
+    ],
     "wof:id":773047679,
-    "wof:lastmodified":1466504383,
+    "wof:lastmodified":1492098350,
     "wof:name":"TIMI Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

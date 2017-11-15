@@ -2,9 +2,14 @@
   "id": 336810891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4431 W Lincoln Hwy Merrillville IN 46410",
+    "addr:housenumber":"4431",
+    "addr:postcode":"46410",
+    "addr:street":"W Lincoln Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.384733,41.472047,-87.384733,41.472047",
     "geom:latitude":41.472047,
     "geom:longitude":-87.384733,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519703,
+        102191575,
+        404501871,
         85633793,
         85941829,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"be5d30be5068abd0a76d1c1934aee074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501871,
             "locality_id":85941829,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519703,
             "region_id":85688709,
             "venue_id":336810891
         }
     ],
     "wof:id":336810891,
-    "wof:lastmodified":1466503161,
+    "wof:lastmodified":1492094719,
     "wof:name":"Wild Bills' Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

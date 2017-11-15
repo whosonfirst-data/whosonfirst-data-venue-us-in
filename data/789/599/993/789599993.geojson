@@ -2,9 +2,14 @@
   "id": 789599993,
   "type": "Feature",
   "properties": {
+    "addr:full":"22308 Sohl Ave Lowell IN 46356",
+    "addr:housenumber":"",
+    "addr:postcode":"22308;46356",
+    "addr:street":"Sohl Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.510606,41.213605,-87.510606,41.213605",
     "geom:latitude":41.213605,
     "geom:longitude":-87.510606,
@@ -27,7 +32,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_514bpzJD2n76PGnetN5CZP_41.213605_-87.510606@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462589068,
     "wof:geomhash":"526785a08b15dc36b6c5d4dc5d655f2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":789599993
+        }
+    ],
     "wof:id":789599993,
-    "wof:lastmodified":1466503813,
+    "wof:lastmodified":1492091613,
     "wof:name":"Wolgemuth Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

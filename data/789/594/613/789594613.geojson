@@ -2,9 +2,14 @@
   "id": 789594613,
   "type": "Feature",
   "properties": {
+    "addr:full":"8757 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"8757;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.733566,41.734362,-86.733566,41.734362",
     "geom:latitude":41.734362,
     "geom:longitude":-86.733566,
@@ -28,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fmRfBqr5no3c7p4uUzTB8_41.734362_-86.733566@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589018,
     "wof:geomhash":"8a0ac2d87f8325755a41d6063cc0e5f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":789594613
+        }
+    ],
     "wof:id":789594613,
-    "wof:lastmodified":1466503640,
+    "wof:lastmodified":1492101254,
     "wof:name":"State Road 39 Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

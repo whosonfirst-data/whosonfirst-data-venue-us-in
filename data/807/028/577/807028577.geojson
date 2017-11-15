@@ -2,9 +2,14 @@
   "id": 807028577,
   "type": "Feature",
   "properties": {
+    "addr:full":"8235 Calumet Ave Ste C Munster IN 46321",
+    "addr:housenumber":"8235",
+    "addr:postcode":"46321",
+    "addr:street":"Calumet Ave Ste C Munster",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508904,41.563999,-87.508904,41.563999",
     "geom:latitude":41.563999,
     "geom:longitude":-87.508904,
@@ -24,7 +29,14 @@
     "sg:postcode":"46321",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NhLMICj3k4Y3jFlT6RGbc_41.563999_-87.508904@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603112,
     "wof:geomhash":"bfade824c87328c0cf94ad82b16c9f47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807028577
+        }
+    ],
     "wof:id":807028577,
-    "wof:lastmodified":1466504153,
+    "wof:lastmodified":1492102406,
     "wof:name":"Dr John W Ringo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

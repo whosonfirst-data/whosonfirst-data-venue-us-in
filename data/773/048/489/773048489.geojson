@@ -2,14 +2,20 @@
   "id": 773048489,
   "type": "Feature",
   "properties": {
+    "addr:full":"5725 Georgetown Rd Indianapolis IN 46254",
+    "addr:housenumber":"5725",
+    "addr:postcode":"46254",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.240163,39.856075,-86.240163,39.856075",
     "geom:latitude":39.856075,
     "geom:longitude":-86.240163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5725 Georgetown Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tbXqDqBHUh0OGzQOjRSmy_39.856075_-86.240163@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582745,
-    "wof:geomhash":"68aef44c5efe4af4c92a7466f0a7cd44",
+    "wof:geomhash":"0396ace7d9b14e49b852ead440801d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773048489,
-    "wof:lastmodified":1466504496,
+    "wof:lastmodified":1510698804,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85807693,
     "wof:placetype":"venue",

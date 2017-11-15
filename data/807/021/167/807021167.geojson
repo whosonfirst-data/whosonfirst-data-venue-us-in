@@ -2,9 +2,14 @@
   "id": 807021167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3356 Sheffield Ave Dyer IN 46311",
+    "addr:housenumber":"3356",
+    "addr:postcode":"46311",
+    "addr:street":"Sheffield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.518196,41.51701,-87.518196,41.51701",
     "geom:latitude":41.51701,
     "geom:longitude":-87.518196,
@@ -50,7 +55,14 @@
     ],
     "sg:website":"http://edwardjones.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RQiDSZ1E7Eu7XIoONg8iB_41.517010_-87.518196@1303262769"
@@ -58,9 +70,19 @@
     "wof:country":"US",
     "wof:created":1462603048,
     "wof:geomhash":"3d33ee29d06fc90e1c98678fc5519bb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":807021167
+        }
+    ],
     "wof:id":807021167,
-    "wof:lastmodified":1466504078,
+    "wof:lastmodified":1492104021,
     "wof:name":"Edward Jones - KEVIN M WIGGINS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

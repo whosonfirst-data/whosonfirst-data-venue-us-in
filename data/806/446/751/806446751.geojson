@@ -2,14 +2,20 @@
   "id": 806446751,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 S 8th St Terre Haute IN 47807",
+    "addr:housenumber":"128",
+    "addr:postcode":"47807",
+    "addr:street":"S 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.405651,39.465214,-87.405651,39.465214",
     "geom:latitude":39.465214,
     "geom:longitude":-87.405651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 S 8th St",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77MU6OmexNox3rf1tm83oy_39.465214_-87.405651@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598223,
-    "wof:geomhash":"6127634b83cc69c5d420973ac5c44b74",
+    "wof:geomhash":"da313c23c9c5d8458c8d6f5676adb189",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806446751,
-    "wof:lastmodified":1466505362,
+    "wof:lastmodified":1510698647,
     "wof:name":"Money Concepts",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

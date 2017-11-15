@@ -2,14 +2,20 @@
   "id": 806987993,
   "type": "Feature",
   "properties": {
+    "addr:full":"3898 Lafayette Rd Indianapolis IN 46254",
+    "addr:housenumber":"3898",
+    "addr:postcode":"46254",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.237543,39.826474,-86.237543,39.826474",
     "geom:latitude":39.826474,
     "geom:longitude":-86.237543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3898 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cBMBjd7AvXWzFbs35cEfe_39.826474_-86.237543@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602759,
-    "wof:geomhash":"90f46c4ad8d561e7b9902fbf584b01ad",
+    "wof:geomhash":"03d3d2631b583b669442e98f1d95682c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806987993,
-    "wof:lastmodified":1466519217,
+    "wof:lastmodified":1510604649,
     "wof:name":"Save-A-Lot",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

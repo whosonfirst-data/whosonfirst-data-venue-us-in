@@ -2,9 +2,14 @@
   "id": 790419737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 W 52nd Dr Merrillville IN 46410",
+    "addr:housenumber":"1240",
+    "addr:postcode":"46410",
+    "addr:street":"W 52Nd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34639,41.523282,-87.34639,41.523282",
     "geom:latitude":41.523282,
     "geom:longitude":-87.34639,
@@ -27,7 +32,10 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53wBX1aZ8GzT8AWWNXfcj3_41.523282_-87.346390@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595677,
     "wof:geomhash":"7c06a5d78617a9627d25642d6e7d27b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790419737
+        }
+    ],
     "wof:id":790419737,
-    "wof:lastmodified":1466508246,
+    "wof:lastmodified":1492097457,
     "wof:name":"Tiberon Trails Luxury Apts",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354067935,
   "type": "Feature",
   "properties": {
+    "addr:full":"6920 S New Jersey St Indianapolis IN 46227",
+    "addr:housenumber":"6920",
+    "addr:postcode":"46227",
+    "addr:street":"S New Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.150801,39.666517,-86.150801,39.666517",
     "geom:latitude":39.666517,
     "geom:longitude":-86.150801,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870681,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870681
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"97671d7b19f9aaa8a970e836989517f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870681,
             "region_id":85688709,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":354067935,
-    "wof:lastmodified":1466502960,
+    "wof:lastmodified":1491933180,
     "wof:name":"Skidmore Refrigeration",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

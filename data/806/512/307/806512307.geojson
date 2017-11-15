@@ -2,14 +2,20 @@
   "id": 806512307,
   "type": "Feature",
   "properties": {
+    "addr:full":"3714 S Connie Dr Lafayette IN 47905",
+    "addr:housenumber":"3714",
+    "addr:postcode":"47905",
+    "addr:street":"S Connie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.830644,40.470172,-86.830644,40.470172",
     "geom:latitude":40.470172,
     "geom:longitude":-86.830644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3714 S Connie Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gF6ZdB5UtfqHG64x3M68A_40.470172_-86.830644@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598733,
-    "wof:geomhash":"3be40eda3947587c72e37528c28348e4",
+    "wof:geomhash":"ea4138e381d32a2c7b64fe374726e669",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806512307,
-    "wof:lastmodified":1466506199,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

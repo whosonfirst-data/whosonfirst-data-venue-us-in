@@ -2,9 +2,14 @@
   "id": 790434127,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Arlington Ave North Judson IN 46366",
+    "addr:housenumber":"201",
+    "addr:postcode":"46366",
+    "addr:street":"Arlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773129,41.222562,-86.773129,41.222562",
     "geom:latitude":41.222562,
     "geom:longitude":-86.773129,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500337,
+        85633793,
+        85941555,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ux5hRHSCzIg7rd5BqzmWB_41.222562_-86.773129@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462595800,
     "wof:geomhash":"cff297227d5d8b50863918684b4061ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500337,
+            "locality_id":85941555,
+            "region_id":85688709,
+            "venue_id":790434127
+        }
+    ],
     "wof:id":790434127,
-    "wof:lastmodified":1466508837,
+    "wof:lastmodified":1492092004,
     "wof:name":"Trusty's Northside Svc Sta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

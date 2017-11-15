@@ -2,14 +2,20 @@
   "id": 773361989,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 S Lincoln Blvd Marion IN 46953",
+    "addr:housenumber":"725",
+    "addr:postcode":"46953",
+    "addr:street":"S Lincoln Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.647847,40.54297,-85.647847,40.54297",
     "geom:latitude":40.54297,
     "geom:longitude":-85.647847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 S Lincoln Blvd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W7UlzVj7gW4bwNTmQ4gvu_40.542970_-85.647847@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585127,
-    "wof:geomhash":"11a77e2e278971cf57cb908dcd60ecbc",
+    "wof:geomhash":"cd93bd0f9424590fe633520fe8464d8a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773361989,
-    "wof:lastmodified":1466508823,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

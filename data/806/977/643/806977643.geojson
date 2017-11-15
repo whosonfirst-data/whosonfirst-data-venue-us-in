@@ -2,14 +2,20 @@
   "id": 806977643,
   "type": "Feature",
   "properties": {
+    "addr:full":"7145 E 96th St Indianapolis IN 46250",
+    "addr:housenumber":"7145",
+    "addr:postcode":"46250",
+    "addr:street":"E 96Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.042654,39.924605,-86.042654,39.924605",
     "geom:latitude":39.924605,
     "geom:longitude":-86.042654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7145 E 96th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k6iChpq3IB9HzJSMur0BU_39.924605_-86.042654@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602670,
-    "wof:geomhash":"d3b06254942c927f89b70980e3bf295a",
+    "wof:geomhash":"d66a276742c6099d24c8405238c6d35b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806977643,
-    "wof:lastmodified":1466518666,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",

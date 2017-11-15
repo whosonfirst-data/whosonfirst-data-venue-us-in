@@ -2,14 +2,20 @@
   "id": 789730289,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 W Fox Ridge Ln Muncie IN 47304",
+    "addr:housenumber":"3610",
+    "addr:postcode":"47304",
+    "addr:street":"W Fox Ridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.428566,40.220189,-85.428566,40.220189",
     "geom:latitude":40.220189,
     "geom:longitude":-85.428566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3610 W Fox Ridge Ln",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39tguLhNfLfYDG7ee5o0gY_40.220189_-85.428566@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590105,
-    "wof:geomhash":"ce880389ac67861962418e62e821e9d6",
+    "wof:geomhash":"a1f0a9dbe84eb2f222011b57c418b4e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789730289,
-    "wof:lastmodified":1466505661,
+    "wof:lastmodified":1510695340,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

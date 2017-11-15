@@ -2,6 +2,10 @@
   "id": 806778721,
   "type": "Feature",
   "properties": {
+    "addr:full":"10918 N Co Rd 1075 E Brownsburg IN 46112",
+    "addr:housenumber":"10918;1075 e",
+    "addr:postcode":"46112",
+    "addr:street":"N Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":806778721,
-    "wof:lastmodified":1466514041,
+    "wof:lastmodified":1472622902,
     "wof:name":"Lamar Farm",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806768893,
   "type": "Feature",
   "properties": {
+    "addr:full":"9270 W 750 N North Judson IN 46366",
+    "addr:housenumber":"9270",
+    "addr:postcode":"46366",
+    "addr:street":"W 750 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783337,41.16476,-86.783337,41.16476",
     "geom:latitude":41.16476,
     "geom:longitude":-86.783337,
@@ -23,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501669,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LBXgK1CmGipOf9Ct7pi8f_41.164760_-86.783337@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600919,
     "wof:geomhash":"b7cf7a687976d6f6ad3fba42eb4cb5bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501669,
+            "region_id":85688709,
+            "venue_id":806768893
+        }
+    ],
     "wof:id":806768893,
-    "wof:lastmodified":1466513572,
+    "wof:lastmodified":1492100964,
     "wof:name":"Richard Gumz Farm Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

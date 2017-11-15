@@ -2,14 +2,20 @@
   "id": 806688353,
   "type": "Feature",
   "properties": {
+    "addr:full":"2026 E US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"2026",
+    "addr:postcode":"46360",
+    "addr:street":"E Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.852126,41.687459,-86.852126,41.687459",
     "geom:latitude":41.687459,
     "geom:longitude":-86.852126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2026 E US Hwy 20",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086409,
         85852501
     ],
+    "wof:brand_id":1125157439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wmWqi2Xq3x04XRYVi3rfO_41.687459_-86.852126@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600240,
-    "wof:geomhash":"bc5f5af0263375236e0eb1101e074bab",
+    "wof:geomhash":"69d77aa13b4ca14a9806a0dd0e0a00d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806688353,
-    "wof:lastmodified":1466510498,
+    "wof:lastmodified":1510695917,
     "wof:name":"MAB Paint Store",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

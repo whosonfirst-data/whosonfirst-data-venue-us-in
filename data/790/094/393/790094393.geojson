@@ -2,9 +2,14 @@
   "id": 790094393,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 E State St Morocco IN 47963",
+    "addr:housenumber":"203",
+    "addr:postcode":"47963",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.453386,40.946062,-87.453386,40.946062",
     "geom:latitude":40.946062,
     "geom:longitude":-87.453386,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jpi0rkwA1FLmjMNW5nXlh_40.946062_-87.453386@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462593086,
     "wof:geomhash":"9711f4de0405336a212e4159889d3b4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":790094393
+        }
+    ],
     "wof:id":790094393,
-    "wof:lastmodified":1466504711,
+    "wof:lastmodified":1492103696,
     "wof:name":"Morocco Pizza King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

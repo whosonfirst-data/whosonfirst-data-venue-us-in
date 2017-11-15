@@ -2,14 +2,20 @@
   "id": 806845715,
   "type": "Feature",
   "properties": {
+    "addr:full":"722 Landbridge Way Evansville IN 47710",
+    "addr:housenumber":"722",
+    "addr:postcode":"47710",
+    "addr:street":"Landbridge Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.573969,38.001036,-87.573969,38.001036",
     "geom:latitude":38.001036,
     "geom:longitude":-87.573969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"722 Landbridge Way",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125156089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Ofkkdl3EM457VkOKnJCQ_38.001403_-87.574241@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601569,
-    "wof:geomhash":"4442329fdeb826da169f140611de2773",
+    "wof:geomhash":"321eb5ffd4e58801e49ffe4de81f5e76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806845715,
-    "wof:lastmodified":1466516159,
+    "wof:lastmodified":1510699300,
     "wof:name":"Grandy's",
     "wof:parent_id":85824193,
     "wof:placetype":"venue",

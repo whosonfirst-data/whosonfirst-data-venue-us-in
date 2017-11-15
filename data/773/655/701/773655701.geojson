@@ -2,9 +2,14 @@
   "id": 773655701,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 E 600 N Valparaiso IN 46383",
+    "addr:housenumber":"209",
+    "addr:postcode":"46383",
+    "addr:street":"E 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.027085,41.521078,-87.027085,41.521078",
     "geom:latitude":41.521078,
     "geom:longitude":-87.027085,
@@ -28,7 +33,10 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RWfSN7RwRRxJ4aR6CpYWM_41.521078_-87.027085@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462587364,
     "wof:geomhash":"6a925bbe58e80ac93fb414bb008be284",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773655701
+        }
+    ],
     "wof:id":773655701,
-    "wof:lastmodified":1466517053,
+    "wof:lastmodified":1492103081,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

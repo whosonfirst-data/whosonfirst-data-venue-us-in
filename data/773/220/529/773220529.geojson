@@ -2,14 +2,20 @@
   "id": 773220529,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 E Indiana St Evansville IN 47715",
+    "addr:housenumber":"5300",
+    "addr:postcode":"47715",
+    "addr:street":"E Indiana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.485716,37.977638,-87.485716,37.977638",
     "geom:latitude":37.977638,
     "geom:longitude":-87.485716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5300 E Indiana St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40LmeTstlMuy3cyX7CnqM1_37.977638_-87.485716@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584078,
-    "wof:geomhash":"4aa67a7f899968354e9123e9d3bffb2d",
+    "wof:geomhash":"295e839538ebf1e11a83a7707b9351ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773220529,
-    "wof:lastmodified":1466506580,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85891111,
     "wof:placetype":"venue",

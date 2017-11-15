@@ -2,9 +2,14 @@
   "id": 806518441,
   "type": "Feature",
   "properties": {
+    "addr:full":"9468 State Rd 114 Rensselaer IN 47978",
+    "addr:housenumber":"9468;114",
+    "addr:postcode":"47978",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.229757,40.940857,-87.229757,40.940857",
     "geom:latitude":40.940857,
     "geom:longitude":-87.229757,
@@ -24,7 +29,13 @@
     "sg:postcode":"47978",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501005,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VrpJDjouBEQ0JG2RptGAP_40.940857_-87.229757@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462598778,
     "wof:geomhash":"0d5ec37f5510383a01648c02efcc329a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501005,
+            "region_id":85688709,
+            "venue_id":806518441
+        }
+    ],
     "wof:id":806518441,
-    "wof:lastmodified":1466506271,
+    "wof:lastmodified":1492103697,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

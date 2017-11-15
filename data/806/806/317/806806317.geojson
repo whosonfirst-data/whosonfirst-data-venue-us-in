@@ -2,14 +2,20 @@
   "id": 806806317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 E Michigan Rd Shelbyville IN 46176",
+    "addr:housenumber":"1620",
+    "addr:postcode":"46176",
+    "addr:street":"E Michigan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.744338,39.516613,-85.744338,39.516613",
     "geom:latitude":39.516613,
     "geom:longitude":-85.744338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1620 E Michigan Rd",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086435,
         85688709
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ubUwq8RjEvheISUZaAsyK_39.516613_-85.744338@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601237,
-    "wof:geomhash":"27d5da1254a2a182a8c31d1d897e47ec",
+    "wof:geomhash":"207f4937ac99946cbce7797ec69e4192",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806806317,
-    "wof:lastmodified":1466514994,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85855029,
     "wof:placetype":"venue",

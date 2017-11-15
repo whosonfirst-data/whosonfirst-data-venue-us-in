@@ -2,9 +2,14 @@
   "id": 773758481,
   "type": "Feature",
   "properties": {
+    "addr:full":"8902 Vincennes Cir Indianapolis IN 46268",
+    "addr:housenumber":"8902",
+    "addr:postcode":"46268",
+    "addr:street":"Vincennes Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.230794,39.915254,-86.230794,39.915254",
     "geom:latitude":39.915254,
     "geom:longitude":-86.230794,
@@ -35,7 +40,8 @@
         85633793,
         85942569,
         102087201,
-        85688709
+        85688709,
+        85891097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85857069,
             "region_id":85688709,
             "venue_id":773758481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85891097,
+            "region_id":85688709,
+            "venue_id":773758481
         }
     ],
     "wof:id":773758481,
-    "wof:lastmodified":1466518097,
+    "wof:lastmodified":1491907168,
     "wof:name":"Prescient Information Systems",
-    "wof:parent_id":85857069,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

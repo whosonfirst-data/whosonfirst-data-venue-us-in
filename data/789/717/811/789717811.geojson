@@ -2,6 +2,10 @@
   "id": 789717811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Madison Ave Indianapolis IN 46225",
+    "addr:housenumber":"1340",
+    "addr:postcode":"46225",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789717811,
-    "wof:lastmodified":1466505502,
+    "wof:lastmodified":1472622564,
     "wof:name":"Public Auto Auction",
     "wof:parent_id":85866943,
     "wof:placetype":"venue",

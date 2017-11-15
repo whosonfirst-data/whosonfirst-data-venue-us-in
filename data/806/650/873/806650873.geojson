@@ -2,14 +2,20 @@
   "id": 806650873,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 Hausfeldt Ln New Albany IN 47150",
+    "addr:housenumber":"804",
+    "addr:postcode":"47150",
+    "addr:street":"Hausfeldt Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.81694,38.339746,-85.81694,38.339746",
     "geom:latitude":38.339746,
     "geom:longitude":-85.81694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"804 Hausfeldt Ln",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087137,
         85846703
     ],
+    "wof:brand_id":1125157849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uk8aYicNa3B8xeDwFug3M_38.339746_-85.816940@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599913,
-    "wof:geomhash":"8eac38aa6860e288ad5dde2e044cc62c",
+    "wof:geomhash":"64fc3957a241a78e4fdb2f92122e7578",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806650873,
-    "wof:lastmodified":1466508692,
+    "wof:lastmodified":1510699508,
     "wof:name":"Frisch's Big Boy Restaurant",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",

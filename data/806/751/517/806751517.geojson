@@ -2,9 +2,14 @@
   "id": 806751517,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 E Allen St Kentland IN 47951",
+    "addr:housenumber":"111",
+    "addr:postcode":"47951",
+    "addr:street":"E Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.448898,40.766192,-87.448898,40.766192",
     "geom:latitude":40.766192,
     "geom:longitude":-87.448898,
@@ -23,7 +28,14 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WfwX3RHTSQxfbcLFdNqRm_40.766192_-87.448898@1294102998"
@@ -31,9 +43,19 @@
     "wof:country":"US",
     "wof:created":1462600778,
     "wof:geomhash":"440114dcf11713dfdedbea5c6b65dda1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":806751517
+        }
+    ],
     "wof:id":806751517,
-    "wof:lastmodified":1466512957,
+    "wof:lastmodified":1492103013,
     "wof:name":"Timothy Burks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

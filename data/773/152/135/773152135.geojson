@@ -2,6 +2,10 @@
   "id": 773152135,
   "type": "Feature",
   "properties": {
+    "addr:full":"60460 Co Rd 101 Elkhart IN 46517",
+    "addr:housenumber":"60460;101",
+    "addr:postcode":"46517",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":773152135,
-    "wof:lastmodified":1466505864,
+    "wof:lastmodified":1472622770,
     "wof:name":"Creal Heating",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

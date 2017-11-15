@@ -2,14 +2,20 @@
   "id": 806944521,
   "type": "Feature",
   "properties": {
+    "addr:full":"6801 S East St Indianapolis IN 46227",
+    "addr:housenumber":"6801",
+    "addr:postcode":"46227",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.148552,39.667412,-86.148552,39.667412",
     "geom:latitude":39.667412,
     "geom:longitude":-86.148552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6801 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qlLUaqDpUF5HlTjIbO09m_39.667412_-86.148552@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602396,
-    "wof:geomhash":"30c176379a17753cfc332583a698fd83",
+    "wof:geomhash":"72932f39656234ac1f1b525a9c1538a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":806944521,
-    "wof:lastmodified":1466518130,
+    "wof:lastmodified":1510693924,
     "wof:name":"Faith Community Church",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",

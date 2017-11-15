@@ -2,9 +2,14 @@
   "id": 790540565,
   "type": "Feature",
   "properties": {
+    "addr:full":"7399 E 400 S Walkerton IN 46574",
+    "addr:housenumber":"7399",
+    "addr:postcode":"46574",
+    "addr:street":"E 400 S Walkerton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.560494,41.548867,-86.560494,41.548867",
     "geom:latitude":41.548867,
     "geom:longitude":-86.560494,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"31ed3135aa82c2eb42f655ea4a33c0d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790540565,
-    "wof:lastmodified":1466513508,
+    "wof:lastmodified":1492103928,
     "wof:name":"D Squared Marketing",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

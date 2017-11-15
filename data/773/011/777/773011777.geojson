@@ -2,9 +2,14 @@
   "id": 773011777,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 N Arbogast St Griffith IN 46319",
+    "addr:housenumber":"630",
+    "addr:postcode":"46319",
+    "addr:street":"N Arbogast St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.418027,41.533063,-87.418027,41.533063",
     "geom:latitude":41.533063,
     "geom:longitude":-87.418027,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XSi2ixYIKQB8Ub42A1uRa_41.533063_-87.418027@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462582344,
     "wof:geomhash":"8b83bac109aecb954d211d3b4af3539b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773011777
+        }
+    ],
     "wof:id":773011777,
-    "wof:lastmodified":1466503896,
+    "wof:lastmodified":1492101440,
     "wof:name":"Griffith Animal Patrol",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

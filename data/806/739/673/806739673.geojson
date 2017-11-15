@@ -2,9 +2,14 @@
   "id": 806739673,
   "type": "Feature",
   "properties": {
+    "addr:full":"372 W 100 S Valparaiso IN 46385",
+    "addr:housenumber":"372",
+    "addr:postcode":"46385",
+    "addr:street":"W 100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.138609,41.420405,-87.138609,41.420405",
     "geom:latitude":41.420405,
     "geom:longitude":-87.138609,
@@ -28,7 +33,10 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q12MBJSM2LvCtgVMdFqZ3_41.420405_-87.138609@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600678,
     "wof:geomhash":"1092c41d2e4d2b76873999334df127cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806739673
+        }
+    ],
     "wof:id":806739673,
-    "wof:lastmodified":1466512225,
+    "wof:lastmodified":1492094836,
     "wof:name":"Kreiger Farm",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

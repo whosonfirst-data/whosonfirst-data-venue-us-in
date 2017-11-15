@@ -2,6 +2,10 @@
   "id": 806789077,
   "type": "Feature",
   "properties": {
+    "addr:full":"3583 S Co Rd 475 E Seymour IN 47274",
+    "addr:housenumber":"3583;475 e",
+    "addr:postcode":"47274",
+    "addr:street":"S Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":806789077,
-    "wof:lastmodified":1466514866,
+    "wof:lastmodified":1472622906,
     "wof:name":"Elmer Holle",
     "wof:parent_id":85818369,
     "wof:placetype":"venue",

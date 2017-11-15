@@ -2,9 +2,14 @@
   "id": 806537931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 Broadway Gary IN 46408",
+    "addr:housenumber":"4330",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336386,41.53912,-87.336386,41.53912",
     "geom:latitude":41.53912,
     "geom:longitude":-87.336386,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pKftlbGLe7RnGL5cvSXGd_41.539120_-87.336386@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598938,
     "wof:geomhash":"9207402e50301faa6092e075249a65b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806537931
+        }
+    ],
     "wof:id":806537931,
-    "wof:lastmodified":1466506461,
+    "wof:lastmodified":1492097512,
     "wof:name":"Walgreens",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

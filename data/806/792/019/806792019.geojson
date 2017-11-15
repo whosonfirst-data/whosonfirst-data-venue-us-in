@@ -2,14 +2,20 @@
   "id": 806792019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5953 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5953",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.065804,39.9053,-86.065804,39.9053",
     "geom:latitude":39.9053,
     "geom:longitude":-86.065804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5953 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xDFSCPuLiMZHKpr7HCJY4_39.905182_-86.066036@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601120,
-    "wof:geomhash":"d5c086a3da5f2f7189371553c10cca2e",
+    "wof:geomhash":"79947a71002b219bf7f4933756b38583",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806792019,
-    "wof:lastmodified":1466514518,
+    "wof:lastmodified":1510693812,
     "wof:name":"Classy Nails",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

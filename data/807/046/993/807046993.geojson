@@ -2,9 +2,14 @@
   "id": 807046993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1849 Indianapolis Blvd Whiting IN 46394",
+    "addr:housenumber":"1849",
+    "addr:postcode":"46394",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.500214,41.680271,-87.500214,41.680271",
     "geom:latitude":41.680271,
     "geom:longitude":-87.500214,
@@ -32,7 +37,14 @@
     ],
     "sg:website":"http://www.jacksonhewitt.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IyUG8xC2Off4mulPXU6Co_41.680271_-87.500214@1303262771"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462603265,
     "wof:geomhash":"2a9be46a7d49c29c13973ab83fe7db7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807046993
+        }
+    ],
     "wof:id":807046993,
-    "wof:lastmodified":1466504084,
+    "wof:lastmodified":1492102154,
     "wof:name":"Jackson Hewitt Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

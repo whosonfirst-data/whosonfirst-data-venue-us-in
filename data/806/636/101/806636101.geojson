@@ -2,14 +2,20 @@
   "id": 806636101,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 W River Rd Muncie IN 47304",
+    "addr:housenumber":"6401",
+    "addr:postcode":"47304",
+    "addr:street":"W River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.460974,40.186888,-85.460974,40.186888",
     "geom:latitude":40.186888,
     "geom:longitude":-85.460974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6401 W River Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":420574631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4edp2k1Jp8YHeVuDdJhuMp_40.186888_-85.460974@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599784,
-    "wof:geomhash":"aef525c02c38e769cebbcf8cbcb92105",
+    "wof:geomhash":"493db651b6d208bcf64cb68ea1058270",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806636101,
-    "wof:lastmodified":1466507923,
+    "wof:lastmodified":1510603947,
     "wof:name":"Grace Baptist Church",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

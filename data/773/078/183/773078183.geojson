@@ -2,9 +2,14 @@
   "id": 773078183,
   "type": "Feature",
   "properties": {
+    "addr:full":"13761 W 700 S Francesville IN 47946",
+    "addr:housenumber":"13761",
+    "addr:postcode":"47946",
+    "addr:street":"W 700 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858566,40.95574,-86.858566,40.95574",
     "geom:latitude":40.95574,
     "geom:longitude":-86.858566,
@@ -27,7 +32,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501671,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F8NlvJaJxkjrtoDyFscqt_40.955740_-86.858566@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462582990,
     "wof:geomhash":"e1c6a8db0c52529e27b6d886233625ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501671,
+            "region_id":85688709,
+            "venue_id":773078183
+        }
+    ],
     "wof:id":773078183,
-    "wof:lastmodified":1466504916,
+    "wof:lastmodified":1492095729,
     "wof:name":"Agricultural Alliance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

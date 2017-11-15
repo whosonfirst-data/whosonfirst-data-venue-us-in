@@ -2,9 +2,14 @@
   "id": 387647171,
   "type": "Feature",
   "properties": {
+    "addr:full":"10423 N 486 E Demotte IN 46310",
+    "addr:housenumber":"10423",
+    "addr:postcode":"46310",
+    "addr:street":"N 486 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.297994,41.150137,-87.297994,41.150137",
     "geom:latitude":41.150137,
     "geom:longitude":-87.297994,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501345,
         85633793,
         85942815,
         102086363
@@ -42,17 +49,17 @@
     "wof:geomhash":"a2da27a9e6c8eee81e6a4877cfe8c80e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086363,
+            "localadmin_id":404501345,
             "locality_id":85942815,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":387647171
         }
     ],
     "wof:id":387647171,
-    "wof:lastmodified":1466503779,
+    "wof:lastmodified":1492091663,
     "wof:name":"Atlas Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

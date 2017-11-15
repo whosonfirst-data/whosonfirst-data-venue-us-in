@@ -2,9 +2,14 @@
   "id": 807015315,
   "type": "Feature",
   "properties": {
+    "addr:full":"9961 W 109th Ave Cedar Lake IN 46303",
+    "addr:housenumber":"9961",
+    "addr:postcode":"46303",
+    "addr:street":"W 109Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454302,41.420922,-87.454302,41.420922",
     "geom:latitude":41.420922,
     "geom:longitude":-87.454302,
@@ -29,7 +34,13 @@
     ],
     "sg:website":"www.martinlandscaping.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34Cytfa8Ggzbrk3Krs6NpH_41.420922_-87.454302@1303262769"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462602989,
     "wof:geomhash":"6cc659806e92bf034997dc79aec06f8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":807015315
+        }
+    ],
     "wof:id":807015315,
-    "wof:lastmodified":1466504037,
+    "wof:lastmodified":1492093278,
     "wof:name":"Martin Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

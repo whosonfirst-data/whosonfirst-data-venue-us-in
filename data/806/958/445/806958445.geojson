@@ -2,14 +2,20 @@
   "id": 806958445,
   "type": "Feature",
   "properties": {
+    "addr:full":"7979 Meadowbrook Dr Indianapolis IN 46240",
+    "addr:housenumber":"7979",
+    "addr:postcode":"46240",
+    "addr:street":"Meadowbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.139841,39.90133,-86.139841,39.90133",
     "geom:latitude":39.90133,
     "geom:longitude":-86.139841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7979 Meadowbrook Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_217e3bSYk8YlgQ9DfLv5NC_39.901330_-86.139841@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602513,
-    "wof:geomhash":"bde368be4caf8b194169ba8416a688f2",
+    "wof:geomhash":"2491c1ee9d5fb6b08259c2fb5bef27e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806958445,
-    "wof:lastmodified":1466518614,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",

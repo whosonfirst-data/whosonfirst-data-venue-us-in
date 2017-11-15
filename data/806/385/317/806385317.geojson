@@ -2,14 +2,20 @@
   "id": 806385317,
   "type": "Feature",
   "properties": {
+    "addr:full":"5105 Grandview Dr Indianapolis IN 46228",
+    "addr:housenumber":"5105",
+    "addr:postcode":"46228",
+    "addr:street":"Grandview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.188083,39.84638,-86.188083,39.84638",
     "geom:latitude":39.84638,
     "geom:longitude":-86.188083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5105 Grandview Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d5XYu9jn3uYQ17cfGcS3v_39.846380_-86.188083@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597720,
-    "wof:geomhash":"ace4b94c7290163ee648df4368a0c860",
+    "wof:geomhash":"0176ffb16d5180cdf6f12ab7f2f9cba8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806385317,
-    "wof:lastmodified":1466504264,
+    "wof:lastmodified":1510696904,
     "wof:name":"Something Different",
     "wof:parent_id":85825307,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789968697,
   "type": "Feature",
   "properties": {
+    "addr:full":"7481 N Shadeland Ave Indianapolis IN 46250",
+    "addr:housenumber":"7481",
+    "addr:postcode":"46250",
+    "addr:street":"N Shadeland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.046018,39.888176,-86.046018,39.888176",
     "geom:latitude":39.888176,
     "geom:longitude":-86.046018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7481 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zH495NHB7FJRrirus7Ugu_39.888176_-86.046018@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592072,
-    "wof:geomhash":"547301598052846aeeed0ddcf4b5c3a5",
+    "wof:geomhash":"f0782040684e43824b647f6e20a6a2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789968697,
-    "wof:lastmodified":1466509347,
+    "wof:lastmodified":1510693802,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",

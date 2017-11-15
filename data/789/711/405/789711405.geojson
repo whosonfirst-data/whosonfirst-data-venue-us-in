@@ -2,9 +2,14 @@
   "id": 789711405,
   "type": "Feature",
   "properties": {
+    "addr:full":"4004 Campbell St Valparaiso IN 46385",
+    "addr:housenumber":"4004",
+    "addr:postcode":"46385",
+    "addr:street":"Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.065945,41.504817,-87.065945,41.504817",
     "geom:latitude":41.504817,
     "geom:longitude":-87.065945,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qtXOyyvAP3dIw4Ym1DRTN_41.504817_-87.065945@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462589943,
     "wof:geomhash":"3bb630fb659f1ffded306882570dcac2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789711405
+        }
+    ],
     "wof:id":789711405,
-    "wof:lastmodified":1466505356,
+    "wof:lastmodified":1492097585,
     "wof:name":"Agency 1 Insurance Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

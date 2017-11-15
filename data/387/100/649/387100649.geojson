@@ -2,14 +2,20 @@
   "id": 387100649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3813 Dogwood Rd Floyds Knobs IN 47119",
+    "addr:housenumber":"3813",
+    "addr:postcode":"in 47119",
+    "addr:street":"Dogwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.882155,38.34374,-85.882155,38.34374",
     "geom:latitude":38.34374,
     "geom:longitude":-85.882155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3813 Dogwood Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087137,
         85846703
     ],
+    "wof:brand_id":1125151197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iKwniKk4Tz70RSH9B1oaf_38.343740_-85.882155@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"907549e74cf7edc4c289107047638797",
+    "wof:geomhash":"de305f68a784cac7556bba95452765e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387100649,
-    "wof:lastmodified":1466503032,
+    "wof:lastmodified":1510697359,
     "wof:name":"Saic",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",

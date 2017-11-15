@@ -2,14 +2,20 @@
   "id": 387969645,
   "type": "Feature",
   "properties": {
+    "addr:full":"4555 S Meridian St Indianapolis IN 46217",
+    "addr:housenumber":"4555",
+    "addr:postcode":"46217",
+    "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158267,39.697174,-86.158267,39.697174",
     "geom:latitude":39.697174,
     "geom:longitude":-86.158267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4555 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85853129
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SME0RWWfshIiFBy8Qf97H_39.697174_-86.158267@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef925b3222f15ee9dd231d206d49d0dc",
+    "wof:geomhash":"9a245a34e83299b624a10844a5a86f1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387969645,
-    "wof:lastmodified":1466504227,
+    "wof:lastmodified":1510697537,
     "wof:name":"M/I Homes",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

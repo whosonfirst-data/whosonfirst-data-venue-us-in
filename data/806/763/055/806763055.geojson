@@ -2,14 +2,20 @@
   "id": 806763055,
   "type": "Feature",
   "properties": {
+    "addr:full":"3748 E 82nd St Indianapolis IN 46240",
+    "addr:housenumber":"3748",
+    "addr:postcode":"46240",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.102985,39.909489,-86.102985,39.909489",
     "geom:latitude":39.909489,
     "geom:longitude":-86.102985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3748 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y7GNsorzXCBciyeUl3Spq_39.909680_-86.103313@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600871,
-    "wof:geomhash":"1e13d4f0e0ba2422eecdcde13660a7ab",
+    "wof:geomhash":"55c2b4c46fa017f5a81e0b06ac2163be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806763055,
-    "wof:lastmodified":1466513045,
+    "wof:lastmodified":1510604031,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

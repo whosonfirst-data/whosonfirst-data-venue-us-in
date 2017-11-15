@@ -2,14 +2,20 @@
   "id": 807070461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2811 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2811",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.495321,39.164214,-86.495321,39.164214",
     "geom:latitude":39.164214,
     "geom:longitude":-86.495321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2811 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":420575029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M19FYNK2pAfWFGg5KgNKP_39.164214_-86.495321@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603449,
-    "wof:geomhash":"e717a82f570c17b3c4dd051b0ec17df3",
+    "wof:geomhash":"4d4f43efdc7912001e70f860a68d4ccd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -42,7 +49,7 @@
         }
     ],
     "wof:id":807070461,
-    "wof:lastmodified":1466504661,
+    "wof:lastmodified":1510602827,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

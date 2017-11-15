@@ -2,14 +2,20 @@
   "id": 303942205,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Monument Cir Indianapolis IN 46204",
+    "addr:housenumber":"111",
+    "addr:postcode":"46204",
+    "addr:street":"Monument Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157896,39.769152,-86.157896,39.769152",
     "geom:latitude":39.769152,
     "geom:longitude":-86.157896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Monument Cir",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85870631
     ],
+    "wof:brand_id":1125157763,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77G7d9FQHg9Bt2R9EfNyfO_39.769152_-86.157896@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"51c2c79aab538f656b08fd3444f382b5",
+    "wof:geomhash":"e52da2ea05037a0d0d1dd80efdd38944",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":303942205,
-    "wof:lastmodified":1466503296,
+    "wof:lastmodified":1510698749,
     "wof:name":"Ajilon Finance",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

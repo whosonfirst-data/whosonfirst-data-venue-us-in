@@ -2,9 +2,14 @@
   "id": 303639969,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 E Michigan Blvd Michigan City IN 46360",
+    "addr:housenumber":"3700",
+    "addr:postcode":"46360",
+    "addr:street":"E Michigan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845396,41.702563,-86.845396,41.702563",
     "geom:latitude":41.702563,
     "geom:longitude":-86.845396,
@@ -30,10 +35,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85941915,
-        102086409
+        420519723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,15 @@
     "wof:geomhash":"a0d2c7af6328692b6c3741a59ff93af4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086409,
-            "locality_id":85941915,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519723,
             "venue_id":303639969
         }
     ],
     "wof:id":303639969,
-    "wof:lastmodified":1466502914,
+    "wof:lastmodified":1492095907,
     "wof:name":"Maco America Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

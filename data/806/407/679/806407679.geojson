@@ -2,9 +2,14 @@
   "id": 806407679,
   "type": "Feature",
   "properties": {
+    "addr:full":"498 N 250 W Valparaiso IN 46385",
+    "addr:housenumber":"498",
+    "addr:postcode":"46385",
+    "addr:street":"N 250 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.114319,41.506465,-87.114319,41.506465",
     "geom:latitude":41.506465,
     "geom:longitude":-87.114319,
@@ -28,7 +33,10 @@
         "saw"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IIxmPgVNCzRHDZZgcSNJ5_41.506465_-87.114319@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462597894,
     "wof:geomhash":"27a75172ed811f40a110429c9c5ea8a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806407679
+        }
+    ],
     "wof:id":806407679,
-    "wof:lastmodified":1466504698,
+    "wof:lastmodified":1492091924,
     "wof:name":"Northwest Indiana Tool Shrpng",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

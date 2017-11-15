@@ -2,14 +2,20 @@
   "id": 790572211,
   "type": "Feature",
   "properties": {
+    "addr:full":"3223 Northview Dr Elkhart IN 46514",
+    "addr:housenumber":"3223",
+    "addr:postcode":"46514",
+    "addr:street":"Northview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.977315,41.734524,-85.977315,41.734524",
     "geom:latitude":41.734524,
     "geom:longitude":-85.977315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3223 Northview Dr",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125156927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36Lz8h6qY84kt4h0ITSh6y_41.734524_-85.977315@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596978,
-    "wof:geomhash":"448fac74361a2c18955a318a2cf91da3",
+    "wof:geomhash":"8f05d9e5a080c9c10f509d94889db834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790572211,
-    "wof:lastmodified":1466514143,
+    "wof:lastmodified":1510695437,
     "wof:name":"Cali Nails",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807043467,
   "type": "Feature",
   "properties": {
+    "addr:full":"11307 W 206th Ave Lowell IN 46356",
+    "addr:housenumber":"11307",
+    "addr:postcode":"46356",
+    "addr:street":"W 206Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.468542,41.244474,-87.468542,41.244474",
     "geom:latitude":41.244474,
     "geom:longitude":-87.468542,
@@ -39,7 +44,13 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aTZ1NjHWy190BGKtBpAFU_41.244474_-87.468542@1303262771"
@@ -47,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1462603239,
     "wof:geomhash":"e45fb856083b751153d6055f13eff0a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807043467
+        }
+    ],
     "wof:id":807043467,
-    "wof:lastmodified":1466503952,
+    "wof:lastmodified":1492091073,
     "wof:name":"P K Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

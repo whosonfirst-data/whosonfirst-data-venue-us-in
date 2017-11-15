@@ -2,9 +2,14 @@
   "id": 773203907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 W 63rd Ave Merrillville IN 46410",
+    "addr:housenumber":"3010",
+    "addr:postcode":"46410",
+    "addr:street":"W 63Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.375366,41.505125,-87.375366,41.505125",
     "geom:latitude":41.505125,
     "geom:longitude":-87.375366,
@@ -27,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rFPI4IHilNI0mDQYxLNZw_41.505125_-87.375366@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583957,
     "wof:geomhash":"0ff5103e3f56002c0e8f36ea3803aa61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773203907
+        }
+    ],
     "wof:id":773203907,
-    "wof:lastmodified":1466506238,
+    "wof:lastmodified":1492097452,
     "wof:name":"That Little Cafe",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

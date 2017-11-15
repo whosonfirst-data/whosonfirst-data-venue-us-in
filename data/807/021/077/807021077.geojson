@@ -2,9 +2,14 @@
   "id": 807021077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 Harrison Ave Ofc Dyer IN 46311",
+    "addr:housenumber":"1028",
+    "addr:postcode":"46311",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.516911,41.513137,-87.516911,41.513137",
     "geom:latitude":41.513137,
     "geom:longitude":-87.516911,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eaPy8IY0G6CPkLNWleZBg_41.513137_-87.516911@1303262769"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603047,
     "wof:geomhash":"737ced7630c518162bd3df8975ee0eee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":807021077
+        }
+    ],
     "wof:id":807021077,
-    "wof:lastmodified":1466504074,
+    "wof:lastmodified":1492093696,
     "wof:name":"Realty & Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

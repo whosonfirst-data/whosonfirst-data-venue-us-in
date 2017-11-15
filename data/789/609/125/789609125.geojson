@@ -2,6 +2,10 @@
   "id": 789609125,
   "type": "Feature",
   "properties": {
+    "addr:full":"67353 Co Rd 27 Goshen IN 46526",
+    "addr:housenumber":"67353;27",
+    "addr:postcode":"46526",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789609125,
-    "wof:lastmodified":1466503972,
+    "wof:lastmodified":1472622372,
     "wof:name":"L S Lawn Svc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

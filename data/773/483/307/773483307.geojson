@@ -2,14 +2,20 @@
   "id": 773483307,
   "type": "Feature",
   "properties": {
+    "addr:full":"5055 S US Hwy 41 Terre Haute IN 47802",
+    "addr:housenumber":"5055",
+    "addr:postcode":"47802",
+    "addr:street":"S Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.407139,39.405371,-87.407139,39.405371",
     "geom:latitude":39.405371,
     "geom:longitude":-87.407139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5055 S US Hwy 41",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3erbnuezV4DmUBCZQ81zwk_39.405371_-87.407139@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586092,
-    "wof:geomhash":"fd99bc4cc294a2c7b787519803d9cec2",
+    "wof:geomhash":"31bd1b16dd5b7e9d0e8d8b1f212662bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773483307,
-    "wof:lastmodified":1466512283,
+    "wof:lastmodified":1510613089,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

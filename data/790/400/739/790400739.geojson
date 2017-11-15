@@ -2,6 +2,10 @@
   "id": 790400739,
   "type": "Feature",
   "properties": {
+    "addr:full":"19555 Co Rd 146 New Paris IN 46553",
+    "addr:housenumber":"19555;146",
+    "addr:postcode":"in 46553",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790400739,
-    "wof:lastmodified":1466507834,
+    "wof:lastmodified":1472622824,
     "wof:name":"Hochstedler Bros Hm Imprvmt",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

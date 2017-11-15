@@ -2,14 +2,20 @@
   "id": 790304501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 S Huntington St Syracuse IN 46567",
+    "addr:housenumber":"1100",
+    "addr:postcode":"46567",
+    "addr:street":"S Huntington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.745846,41.408632,-85.745846,41.408632",
     "geom:latitude":41.408632,
     "geom:longitude":-85.745846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 S Huntington St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125154977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18kaUgTsKKYNY5Hz9mWG1V_41.408632_-85.745846@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594800,
-    "wof:geomhash":"c3f903d00a36db453ed2811ba9eddd58",
+    "wof:geomhash":"acd11f525db9d235345a4e74695ae7cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790304501,
-    "wof:lastmodified":1466507014,
+    "wof:lastmodified":1510613153,
     "wof:name":"Clippers",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

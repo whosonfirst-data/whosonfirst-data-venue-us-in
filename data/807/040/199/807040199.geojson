@@ -2,9 +2,14 @@
   "id": 807040199,
   "type": "Feature",
   "properties": {
+    "addr:full":"7623 Oakdale Ave Hammond IN 46324",
+    "addr:housenumber":"7623",
+    "addr:postcode":"46324",
+    "addr:street":"Oakdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.5037,41.574902,-87.5037,41.574902",
     "geom:latitude":41.574902,
     "geom:longitude":-87.5037,
@@ -24,7 +29,14 @@
     "sg:postcode":"46324",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IeuiyqHpi1aoMBXhIzlCI_41.574902_-87.503700@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603205,
     "wof:geomhash":"5b4be7d929b401faa30b02a3750fa82d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807040199
+        }
+    ],
     "wof:id":807040199,
-    "wof:lastmodified":1466504367,
+    "wof:lastmodified":1492093663,
     "wof:name":"Masterson Szafasz & Shaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

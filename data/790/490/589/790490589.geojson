@@ -2,14 +2,20 @@
   "id": 790490589,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N Depot St Shipshewana IN 46543",
+    "addr:housenumber":"110",
+    "addr:postcode":"46543",
+    "addr:street":"N Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.701533,41.524672,-85.701533,41.524672",
     "geom:latitude":41.524672,
     "geom:longitude":-85.701533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 N Depot St",
     "sg:city":"Shipshewana",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125156799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hLVtIzHUJp7I7likyJVeF_41.524672_-85.701533@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596294,
-    "wof:geomhash":"f0931e470c5db01a9ac6c3e39a82a4c0",
+    "wof:geomhash":"ce87cee51522dcc9d376921444d052be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790490589,
-    "wof:lastmodified":1466511820,
+    "wof:lastmodified":1510695705,
     "wof:name":"Past Times",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

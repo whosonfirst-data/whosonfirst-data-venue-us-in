@@ -2,9 +2,14 @@
   "id": 773487677,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 N Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"633",
+    "addr:postcode":"46383",
+    "addr:street":"N Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.033915,41.52843,-87.033915,41.52843",
     "geom:latitude":41.52843,
     "geom:longitude":-87.033915,
@@ -27,7 +32,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14DufRzoplvuTbGtmMxKGq_41.528430_-87.033915@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586124,
     "wof:geomhash":"ad83d19a952e7d708fb7a4e74d6ff506",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773487677
+        }
+    ],
     "wof:id":773487677,
-    "wof:lastmodified":1466512833,
+    "wof:lastmodified":1492103927,
     "wof:name":"Junus Corp",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

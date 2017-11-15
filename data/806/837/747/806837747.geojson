@@ -2,14 +2,20 @@
   "id": 806837747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 W State St West Lafayette IN 47906",
+    "addr:housenumber":"1400",
+    "addr:postcode":"47906",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.905382,40.422542,-86.905382,40.422542",
     "geom:latitude":40.422542,
     "geom:longitude":-86.905382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 W State St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125153851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UJMjF8SFLuYVjFjf9JY7e_40.422542_-86.905382@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601489,
-    "wof:geomhash":"d6f39555ab178f2127db1fc9fbdbb863",
+    "wof:geomhash":"f7d55a2164b68fc30dbd04f7705b0f9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806837747,
-    "wof:lastmodified":1466515761,
+    "wof:lastmodified":1510697168,
     "wof:name":"China Dragon",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

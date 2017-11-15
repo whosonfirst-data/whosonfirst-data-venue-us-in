@@ -2,9 +2,14 @@
   "id": 806377683,
   "type": "Feature",
   "properties": {
+    "addr:full":"11517 N US Hwy 41 Lake Village IN 46349",
+    "addr:housenumber":"11517",
+    "addr:postcode":"46349",
+    "addr:street":"N Us Hwy 41 Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.448215,41.173812,-87.448215,41.173812",
     "geom:latitude":41.173812,
     "geom:longitude":-87.448215,
@@ -27,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32qtUkpXXCDEbhtAktQc7B_41.173812_-87.448215@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597656,
     "wof:geomhash":"9e12659277db33c6cab7be4f629881ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "region_id":85688709,
+            "venue_id":806377683
+        }
+    ],
     "wof:id":806377683,
-    "wof:lastmodified":1466504081,
+    "wof:lastmodified":1492091558,
     "wof:name":"J & J Grocery & Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

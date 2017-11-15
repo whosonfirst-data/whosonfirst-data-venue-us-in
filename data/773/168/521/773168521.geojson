@@ -2,9 +2,14 @@
   "id": 773168521,
   "type": "Feature",
   "properties": {
+    "addr:full":"6692 N 575 W Winamac IN 46996",
+    "addr:housenumber":"6692",
+    "addr:postcode":"46996",
+    "addr:street":"N 575 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.713287,41.151984,-86.713287,41.151984",
     "geom:latitude":41.151984,
     "geom:longitude":-86.713287,
@@ -27,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501669,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lz2J5tOrcmm2QeKXYzSl6_41.151984_-86.713287@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462583658,
     "wof:geomhash":"8ad7ef07e405906a7da6e95123c945f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501669,
+            "region_id":85688709,
+            "venue_id":773168521
+        }
+    ],
     "wof:id":773168521,
-    "wof:lastmodified":1466505835,
+    "wof:lastmodified":1492097439,
     "wof:name":"St Paul's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

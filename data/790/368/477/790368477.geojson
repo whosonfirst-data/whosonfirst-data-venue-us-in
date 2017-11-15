@@ -2,14 +2,20 @@
   "id": 790368477,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 E Pettit Ave Fort Wayne IN 46806",
+    "addr:housenumber":"202",
+    "addr:postcode":"46806",
+    "addr:street":"E Pettit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.132826,41.038786,-85.132826,41.038786",
     "geom:latitude":41.038786,
     "geom:longitude":-85.132826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 E Pettit Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V9otyFdyI5LaLkWiglAiG_41.038786_-85.132826@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595292,
-    "wof:geomhash":"525ad3b26e470821332f5e37da7dac87",
+    "wof:geomhash":"8b9510333f6d38e1bbbdea8e3557abcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790368477,
-    "wof:lastmodified":1466507493,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":420519423,
     "wof:placetype":"venue",

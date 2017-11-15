@@ -2,9 +2,14 @@
   "id": 773097679,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Long Lake Ln Valparaiso IN 46383",
+    "addr:housenumber":"607",
+    "addr:postcode":"46383",
+    "addr:street":"Long Lake Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.053566,41.518881,-87.053566,41.518881",
     "geom:latitude":41.518881,
     "geom:longitude":-87.053566,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GeNeg2IWGWzG4qRf5ZKxK_41.518881_-87.053566@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462583137,
     "wof:geomhash":"31c7cf04806faf57bdd3baa393bb02b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773097679
+        }
+    ],
     "wof:id":773097679,
-    "wof:lastmodified":1466505182,
+    "wof:lastmodified":1492094627,
     "wof:name":"Raymond W Daniels Co Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773294971,
   "type": "Feature",
   "properties": {
+    "addr:full":"17160 Mercantile Blvd Noblesville IN 46060",
+    "addr:housenumber":"17160",
+    "addr:postcode":"46060",
+    "addr:street":"Mercantile Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.994818,40.034743,-85.994818,40.034743",
     "geom:latitude":40.034743,
     "geom:longitude":-85.994818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17160 Mercantile Blvd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087089,
         85891191
     ],
+    "wof:brand_id":1125157597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NfTZJbXfrt6YSTcRo4gvY_40.034743_-85.994818@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584637,
-    "wof:geomhash":"b7088cb6b148978b99cef18d2220fbe6",
+    "wof:geomhash":"8f40f7ccfe34926b0a642b31d7c1b8af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773294971,
-    "wof:lastmodified":1466507397,
+    "wof:lastmodified":1510695420,
     "wof:name":"Factory Card Outlet",
     "wof:parent_id":85891191,
     "wof:placetype":"venue",

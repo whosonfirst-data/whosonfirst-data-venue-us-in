@@ -2,14 +2,20 @@
   "id": 354139693,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"1801",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.895995,41.705605,-86.895995,41.705605",
     "geom:latitude":41.705605,
     "geom:longitude":-86.895995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 Franklin St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -25,32 +31,37 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519711,
+        102191575,
+        404501783,
         85633793,
         85941911,
-        102086409
+        102086409,
+        85688709
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rfvE6VRj4uma9CljUcynv_41.705605_-86.895995@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"797cbbd01ad2726710d4953875d8396f",
+    "wof:geomhash":"fc8912fd7b97117757863c20f3ad1969",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519711,
             "region_id":85688709,
             "venue_id":354139693
         }
     ],
     "wof:id":354139693,
-    "wof:lastmodified":1466503048,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

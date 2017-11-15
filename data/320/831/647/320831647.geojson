@@ -2,9 +2,14 @@
   "id": 320831647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"3301",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893808,41.691795,-86.893808,41.691795",
     "geom:latitude":41.691795,
     "geom:longitude":-86.893808,
@@ -42,7 +47,6 @@
     "wof:geomhash":"de20538fad52c3fef8514dd56a35c521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941911,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320831647,
-    "wof:lastmodified":1466503537,
+    "wof:lastmodified":1492106691,
     "wof:name":"Thate Land Surveying Svc",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

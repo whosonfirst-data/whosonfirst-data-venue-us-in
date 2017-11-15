@@ -2,14 +2,20 @@
   "id": 806565605,
   "type": "Feature",
   "properties": {
+    "addr:full":"7211 Stellhorn Rd Fort Wayne IN 46815",
+    "addr:housenumber":"7211",
+    "addr:postcode":"46815",
+    "addr:street":"Stellhorn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.05006,41.120935,-85.05006,41.120935",
     "geom:latitude":41.120935,
     "geom:longitude":-85.05006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7211 Stellhorn Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102191575,
         404501179
     ],
+    "wof:brand_id":1125153319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AtVg0oDtmh5xNJg7lcaSr_41.120935_-85.050060@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599171,
-    "wof:geomhash":"f5589abc426f9ac906fe931573886372",
+    "wof:geomhash":"f1988e7718c7fdf5b342a6803b28c29a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":806565605,
-    "wof:lastmodified":1466506824,
+    "wof:lastmodified":1510699512,
     "wof:name":"Messiah Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

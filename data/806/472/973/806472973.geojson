@@ -2,9 +2,14 @@
   "id": 806472973,
   "type": "Feature",
   "properties": {
+    "addr:full":"4697 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"4697",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791776,41.691254,-86.791776,41.691254",
     "geom:latitude":41.691254,
     "geom:longitude":-86.791776,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y9VHXsusMnBMXYKPY8rTx_41.691254_-86.791776@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598409,
     "wof:geomhash":"25a96ea96a5c73761150313538a08f0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806472973
+        }
+    ],
     "wof:id":806472973,
-    "wof:lastmodified":1466505662,
+    "wof:lastmodified":1492097589,
     "wof:name":"Harvest Time Church Of God",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

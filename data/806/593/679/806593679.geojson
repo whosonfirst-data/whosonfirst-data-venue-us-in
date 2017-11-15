@@ -2,9 +2,14 @@
   "id": 806593679,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 S State Rd 2 Valparaiso IN 46385",
+    "addr:housenumber":"135",
+    "addr:postcode":"46385",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.125085,41.419033,-87.125085,41.419033",
     "geom:latitude":41.419033,
     "geom:longitude":-87.125085,
@@ -28,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ntym5RqhPzsJkvnDOEKB6_41.419033_-87.125085@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462599427,
     "wof:geomhash":"9d5461b5fa1c2e5a3ecf6bac623a1d30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806593679
+        }
+    ],
     "wof:id":806593679,
-    "wof:lastmodified":1466507318,
+    "wof:lastmodified":1492091699,
     "wof:name":"Kirks Trucking Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

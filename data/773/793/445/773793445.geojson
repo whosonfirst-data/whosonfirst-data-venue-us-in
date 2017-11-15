@@ -2,14 +2,20 @@
   "id": 773793445,
   "type": "Feature",
   "properties": {
+    "addr:full":"8939 E 38th St Indianapolis IN 46226",
+    "addr:housenumber":"8939",
+    "addr:postcode":"46226",
+    "addr:street":"E 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.012003,39.825942,-86.012003,39.825942",
     "geom:latitude":39.825942,
     "geom:longitude":-86.012003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8939 E 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L1qBTj81EoBsjDr0Qr1uM_39.825942_-86.012003@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588414,
-    "wof:geomhash":"fc0e73125a3bef48074558828261fcca",
+    "wof:geomhash":"7774265764f97b05a00445bf13a135e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773793445,
-    "wof:lastmodified":1466518985,
+    "wof:lastmodified":1510698856,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85891137,
     "wof:placetype":"venue",

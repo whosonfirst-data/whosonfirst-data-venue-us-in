@@ -2,14 +2,20 @@
   "id": 354409059,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 E 62nd St Indianapolis IN 46220",
+    "addr:housenumber":"2201",
+    "addr:postcode":"46220",
+    "addr:street":"E 62Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.122236,39.868677,-86.122236,39.868677",
     "geom:latitude":39.868677,
     "geom:longitude":-86.122236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 E 62nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85813725
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o9R1UcS13d6G0VAYtiwkF_39.868677_-86.122236@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c6da5906879f201e0896b7d8bef5c0e",
+    "wof:geomhash":"d695ade4e45c90421e07d7373c0719f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":354409059,
-    "wof:lastmodified":1466503461,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806719281,
   "type": "Feature",
   "properties": {
+    "addr:full":"2495 Landmark Ave NE Corydon IN 47112",
+    "addr:housenumber":"2495",
+    "addr:postcode":"47112",
+    "addr:street":"Landmark Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.127332,38.235239,-86.127332,38.235239",
     "geom:latitude":38.235239,
     "geom:longitude":-86.127332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2495 Landmark Ave NE",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g3TTL9Fi7FU6Qui9MCeIK_38.235239_-86.127332@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600494,
-    "wof:geomhash":"df317622335c7949a30028d3d79a964c",
+    "wof:geomhash":"a45edb2940d4a21dd0ca676c424ec1b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806719281,
-    "wof:lastmodified":1466511957,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

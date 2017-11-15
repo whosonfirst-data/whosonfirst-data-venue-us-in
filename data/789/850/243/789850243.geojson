@@ -2,9 +2,14 @@
   "id": 789850243,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 N Nichols St Lowell IN 46356",
+    "addr:housenumber":"585",
+    "addr:postcode":"46356",
+    "addr:street":"N Nichols St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.430374,41.299033,-87.430374,41.299033",
     "geom:latitude":41.299033,
     "geom:longitude":-87.430374,
@@ -24,7 +29,14 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wCyD1xtWeQUG2laLhn8yW_41.299033_-87.430374@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462591028,
     "wof:geomhash":"de3d9984e3080f9ba488d3d508140751",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":789850243
+        }
+    ],
     "wof:id":789850243,
-    "wof:lastmodified":1466507173,
+    "wof:lastmodified":1492091614,
     "wof:name":"Better Built Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

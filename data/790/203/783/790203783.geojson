@@ -2,14 +2,20 @@
   "id": 790203783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 W Kilgore Ave Muncie IN 47304",
+    "addr:housenumber":"1601",
+    "addr:postcode":"47304",
+    "addr:street":"W Kilgore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.403953,40.186687,-85.403953,40.186687",
     "geom:latitude":40.186687,
     "geom:longitude":-85.403953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 W Kilgore Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RVEfGqmWT3a18E8nQQUwM_40.186687_-85.403953@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593985,
-    "wof:geomhash":"99eec8be2b26e5769bb9f810fc64f8f2",
+    "wof:geomhash":"4de3bda71f610aab26a88a13c2402b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790203783,
-    "wof:lastmodified":1466505935,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

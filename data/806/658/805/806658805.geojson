@@ -2,9 +2,14 @@
   "id": 806658805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2860 W 60th Dr Merrillville IN 46410",
+    "addr:housenumber":"2860",
+    "addr:postcode":"46410",
+    "addr:street":"W 60Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.370322,41.508643,-87.370322,41.508643",
     "geom:latitude":41.508643,
     "geom:longitude":-87.370322,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OE6QIfhay00E1M3XDHYjH_41.508643_-87.370322@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599984,
     "wof:geomhash":"40960d0813640b6aeb0dae3e4fe30662",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806658805
+        }
+    ],
     "wof:id":806658805,
-    "wof:lastmodified":1466509042,
+    "wof:lastmodified":1492091563,
     "wof:name":"Gram Guardian Associates",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

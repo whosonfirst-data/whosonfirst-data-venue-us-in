@@ -2,14 +2,20 @@
   "id": 790186993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5306 US Hwy 41 Evansville IN 47711",
+    "addr:housenumber":"5306",
+    "addr:postcode":"47711",
+    "addr:street":"Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.539155,38.020499,-87.539155,38.020499",
     "geom:latitude":38.020499,
     "geom:longitude":-87.539155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5306 US Hwy 41",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tpTIqtil63DmzMOHd4jyi_38.020499_-87.539155@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593832,
-    "wof:geomhash":"a85705674075072a2c9d00c867a61208",
+    "wof:geomhash":"c6129ccc59f7fbe478391d2aa818f7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790186993,
-    "wof:lastmodified":1466505650,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":85829595,
     "wof:placetype":"venue",

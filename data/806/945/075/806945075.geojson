@@ -2,14 +2,20 @@
   "id": 806945075,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 E Southport Rd Indianapolis IN 46227",
+    "addr:housenumber":"2002",
+    "addr:postcode":"46227",
+    "addr:street":"E Southport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.125072,39.66494,-86.125072,39.66494",
     "geom:latitude":39.66494,
     "geom:longitude":-86.125072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2002 E Southport Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hFBEotSPkiYp2cBpjZQKw_39.664940_-86.125072@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602400,
-    "wof:geomhash":"b1eb2db3b28e8db4598dde31c669dfec",
+    "wof:geomhash":"9537773676f88f7fb4405d98d7634006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":806945075,
-    "wof:lastmodified":1466518108,
+    "wof:lastmodified":1510699300,
     "wof:name":"Fred Astaire Dance Studio",
     "wof:parent_id":420519767,
     "wof:placetype":"venue",

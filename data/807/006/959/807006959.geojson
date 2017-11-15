@@ -2,14 +2,20 @@
   "id": 807006959,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Depauw Blvd Indianapolis IN 46268",
+    "addr:housenumber":"",
+    "addr:postcode":"3500;46268",
+    "addr:street":"Depauw Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.222382,39.920341,-86.222382,39.920341",
     "geom:latitude":39.920341,
     "geom:longitude":-86.222382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500 Depauw Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Oe0jyvcgveCJKRPVOqT96_39.920341_-86.222382@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602918,
-    "wof:geomhash":"eafa199152bb93a388ed43164e112195",
+    "wof:geomhash":"ad24ed8e94be876154e6c510d4c029ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807006959,
-    "wof:lastmodified":1466503620,
+    "wof:lastmodified":1510699951,
     "wof:name":"Great Expectations",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

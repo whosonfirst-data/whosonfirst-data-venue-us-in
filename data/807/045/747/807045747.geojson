@@ -2,14 +2,20 @@
   "id": 807045747,
   "type": "Feature",
   "properties": {
+    "addr:full":"9885 Wicker Ave Saint John IN 46373",
+    "addr:housenumber":"9885",
+    "addr:postcode":"46373",
+    "addr:street":"Wicker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.469805,41.438561,-87.469805,41.438561",
     "geom:latitude":41.438561,
     "geom:longitude":-87.469805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9885 Wicker Ave",
     "sg:city":"Saint John",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UAE8hLCA5trXmqtFhI8KI_41.438561_-87.469805@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603256,
-    "wof:geomhash":"77530fc9ca79c6a45d5aedd56f94d2bc",
+    "wof:geomhash":"21209256112f111b85e61fd7f981dd46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807045747,
-    "wof:lastmodified":1466504034,
+    "wof:lastmodified":1510694629,
     "wof:name":"Target Stores",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773420057,
   "type": "Feature",
   "properties": {
+    "addr:full":"4183 Broadway Gary IN 46409",
+    "addr:housenumber":"4183",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336326,41.543713,-87.336326,41.543713",
     "geom:latitude":41.543713,
     "geom:longitude":-87.336326,
@@ -28,7 +33,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CW2Amr5aFi6qzhZIphatK_41.543713_-87.336326@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462585575,
     "wof:geomhash":"25703aba2f06c0324f261ce32f377da0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773420057
+        }
+    ],
     "wof:id":773420057,
-    "wof:lastmodified":1466510697,
+    "wof:lastmodified":1492100660,
     "wof:name":"Miller's Heating & Cooling",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

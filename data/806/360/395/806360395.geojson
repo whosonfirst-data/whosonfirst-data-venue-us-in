@@ -2,9 +2,14 @@
   "id": 806360395,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 Seminary Dr Dyer IN 46311",
+    "addr:housenumber":"708",
+    "addr:postcode":"46311",
+    "addr:street":"Seminary Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.518839,41.516085,-87.518839,41.516085",
     "geom:latitude":41.516085,
     "geom:longitude":-87.518839,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13xLf20r4thNkx1MWyzdEB_41.516085_-87.518839@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462597510,
     "wof:geomhash":"842e6ba1cd0b754c0a8e7ed70ca3bcc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":806360395
+        }
+    ],
     "wof:id":806360395,
-    "wof:lastmodified":1466503503,
+    "wof:lastmodified":1492091325,
     "wof:name":"Fritz Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

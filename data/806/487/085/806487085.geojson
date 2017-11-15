@@ -2,9 +2,14 @@
   "id": 806487085,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 N 250 W Valparaiso IN 46385",
+    "addr:housenumber":"207",
+    "addr:postcode":"46385",
+    "addr:street":"N 250 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.114129,41.464352,-87.114129,41.464352",
     "geom:latitude":41.464352,
     "geom:longitude":-87.114129,
@@ -28,7 +33,15 @@
         "hydraulic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qrpk89wYOqrx38s8iVxas_41.464352_-87.114129@1294102998"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462598522,
     "wof:geomhash":"58506db2d1a6e214b410493031f845e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":806487085
+        }
+    ],
     "wof:id":806487085,
-    "wof:lastmodified":1466505898,
+    "wof:lastmodified":1492091320,
     "wof:name":"Valpo Hydraulics",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

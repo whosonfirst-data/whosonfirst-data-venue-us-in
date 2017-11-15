@@ -2,9 +2,14 @@
   "id": 773508463,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 Tyler Pl Merrillville IN 46410",
+    "addr:housenumber":"6024",
+    "addr:postcode":"46410",
+    "addr:street":"Tyler Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.347279,41.509271,-87.347279,41.509271",
     "geom:latitude":41.509271,
     "geom:longitude":-87.347279,
@@ -27,7 +32,10 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BcV2x4GG1tN1EvwS48EAf_41.509271_-87.347279@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586262,
     "wof:geomhash":"f878691d6f45863b88ed0ee9896c512d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773508463
+        }
+    ],
     "wof:id":773508463,
-    "wof:lastmodified":1466513400,
+    "wof:lastmodified":1492088041,
     "wof:name":"Jones Publishing Network",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

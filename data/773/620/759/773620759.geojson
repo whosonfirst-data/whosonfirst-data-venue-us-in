@@ -2,9 +2,14 @@
   "id": 773620759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4664 Virginia St Gary IN 46409",
+    "addr:housenumber":"4664",
+    "addr:postcode":"46409",
+    "addr:street":"Virginia St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.329008,41.534238,-87.329008,41.534238",
     "geom:latitude":41.534238,
     "geom:longitude":-87.329008,
@@ -28,7 +33,10 @@
         "answering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cZPT9Vl6dCoznYXva7VoM_41.534238_-87.329008@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462587102,
     "wof:geomhash":"15b75b9196740a8f675f00902a2fb683",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773620759
+        }
+    ],
     "wof:id":773620759,
-    "wof:lastmodified":1466516655,
+    "wof:lastmodified":1492094627,
     "wof:name":"G & M Enterprises",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

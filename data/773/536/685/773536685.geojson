@@ -2,9 +2,14 @@
   "id": 773536685,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Washington St Knox IN 46534",
+    "addr:housenumber":"101",
+    "addr:postcode":"46534",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.623888,41.298373,-86.623888,41.298373",
     "geom:latitude":41.298373,
     "geom:longitude":-86.623888,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        85941553,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ka6M2RutCRFksLecdf1qV_41.298373_-86.623888@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462586457,
     "wof:geomhash":"2d14d2a64d01d5cee121727baaef3c70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "locality_id":85941553,
+            "region_id":85688709,
+            "venue_id":773536685
+        }
+    ],
     "wof:id":773536685,
-    "wof:lastmodified":1466514289,
+    "wof:lastmodified":1492095725,
     "wof:name":"Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

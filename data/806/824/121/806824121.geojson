@@ -2,14 +2,20 @@
   "id": 806824121,
   "type": "Feature",
   "properties": {
+    "addr:full":"6617 Lima Rd Fort Wayne IN 46818",
+    "addr:housenumber":"6617",
+    "addr:postcode":"46818",
+    "addr:street":"Lima Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.162578,41.140218,-85.162578,41.140218",
     "geom:latitude":41.140218,
     "geom:longitude":-85.162578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6617 Lima Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RYZDLVfv3jfsih4VIS6En_41.140218_-85.162578@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601376,
-    "wof:geomhash":"fafb65384a52b41abab9c7c5b6a3e7b6",
+    "wof:geomhash":"6bddc6ea4fa61490fee11d73b9551757",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806824121,
-    "wof:lastmodified":1466515615,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

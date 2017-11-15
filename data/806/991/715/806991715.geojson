@@ -2,14 +2,20 @@
   "id": 806991715,
   "type": "Feature",
   "properties": {
+    "addr:full":"7828 E 88th St Indianapolis IN 46256",
+    "addr:housenumber":"7828",
+    "addr:postcode":"46256",
+    "addr:street":"E 88Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.031193,39.916119,-86.031193,39.916119",
     "geom:latitude":39.916119,
     "geom:longitude":-86.031193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7828 E 88th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -50,13 +56,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zJ0q8FCwqZUEzAIfEJECq_39.916119_-86.031193@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602788,
-    "wof:geomhash":"1018e7edf76f2ff076c89e37f438aa5d",
+    "wof:geomhash":"d4274e1fb9026bfb4edb42640931b323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":806991715,
-    "wof:lastmodified":1466518972,
+    "wof:lastmodified":1510698648,
     "wof:name":"Money Concepts",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",

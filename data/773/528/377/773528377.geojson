@@ -2,9 +2,14 @@
   "id": 773528377,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"860",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.347889,41.507503,-87.347889,41.507503",
     "geom:latitude":41.507503,
     "geom:longitude":-87.347889,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TmuBM2EUo37cr0h8qZgeV_41.507503_-87.347889@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586399,
     "wof:geomhash":"b9effe0cbf1a0956a6b253d6847353b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773528377
+        }
+    ],
     "wof:id":773528377,
-    "wof:lastmodified":1466513579,
+    "wof:lastmodified":1492095766,
     "wof:name":"Lincoln Carry-Out II",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

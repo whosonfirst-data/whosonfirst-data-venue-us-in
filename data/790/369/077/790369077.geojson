@@ -2,14 +2,20 @@
   "id": 790369077,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 E Eads Pkwy Greendale IN 47025",
+    "addr:housenumber":"555",
+    "addr:postcode":"47025",
+    "addr:street":"E Eads Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.84295,39.120692,-84.84295,39.120692",
     "geom:latitude":39.120692,
     "geom:longitude":-84.84295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"555 E Eads Pkwy",
     "sg:city":"Greendale",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087067,
         85823947
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MdVDcvwkJ4f1fmP59iblD_39.120692_-84.842950@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595296,
-    "wof:geomhash":"9a2efffbf76cadff88fcded887de4a30",
+    "wof:geomhash":"9bbec611fc9975980e062f8f30a71670",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790369077,
-    "wof:lastmodified":1466507507,
+    "wof:lastmodified":1510698961,
     "wof:name":"Da Vita Inc",
     "wof:parent_id":85823947,
     "wof:placetype":"venue",

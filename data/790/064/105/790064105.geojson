@@ -2,9 +2,14 @@
   "id": 790064105,
   "type": "Feature",
   "properties": {
+    "addr:full":"3966 Tyler St Gary IN 46408",
+    "addr:housenumber":"3966",
+    "addr:postcode":"46408",
+    "addr:street":"Tyler St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.347411,41.546238,-87.347411,41.546238",
     "geom:latitude":41.546238,
     "geom:longitude":-87.347411,
@@ -29,7 +34,10 @@
         "snack"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43xCTTDbfODYWhTRBgJaiP_41.546238_-87.347411@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462592850,
     "wof:geomhash":"22fc20ada707edcb5533092b2a9ebc77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790064105
+        }
+    ],
     "wof:id":790064105,
-    "wof:lastmodified":1466504226,
+    "wof:lastmodified":1492100668,
     "wof:name":"Y E S Distributors",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

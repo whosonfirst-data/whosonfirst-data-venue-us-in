@@ -2,9 +2,14 @@
   "id": 773063641,
   "type": "Feature",
   "properties": {
+    "addr:full":"9888 N 150 W Lake Village IN 46349",
+    "addr:housenumber":"9888",
+    "addr:postcode":"46349",
+    "addr:street":"N 150 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420182,41.142825,-87.420182,41.142825",
     "geom:latitude":41.142825,
     "geom:longitude":-87.420182,
@@ -27,7 +32,14 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o0urctOmLuh5ifljoxKl2_41.142825_-87.420182@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462582884,
     "wof:geomhash":"a0f12286ef3ac4b98574a2e591bf6b49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":773063641
+        }
+    ],
     "wof:id":773063641,
-    "wof:lastmodified":1466504623,
+    "wof:lastmodified":1492101440,
     "wof:name":"Boz's Towing & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

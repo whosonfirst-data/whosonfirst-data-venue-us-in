@@ -2,9 +2,14 @@
   "id": 790249009,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 N Monon Ave Francesville IN 47946",
+    "addr:housenumber":"114",
+    "addr:postcode":"47946",
+    "addr:street":"N Monon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883037,40.985981,-86.883037,40.985981",
     "geom:latitude":40.985981,
     "geom:longitude":-86.883037,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501671,
+        85633793,
+        85941929,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rerw8CL6QOcEZbZEneCRC_40.985981_-86.883037@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462594332,
     "wof:geomhash":"e5bcd17501bb892369ac676cbb4331d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501671,
+            "locality_id":85941929,
+            "region_id":85688709,
+            "venue_id":790249009
+        }
+    ],
     "wof:id":790249009,
-    "wof:lastmodified":1466506348,
+    "wof:lastmodified":1492091662,
     "wof:name":"A Dentist-Adults & Children",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

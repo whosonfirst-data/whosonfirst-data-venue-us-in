@@ -2,9 +2,14 @@
   "id": 336734997,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"4025",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.894051,41.680699,-86.894051,41.680699",
     "geom:latitude":41.680699,
     "geom:longitude":-86.894051,
@@ -39,7 +44,6 @@
     "wof:geomhash":"48f0bfac4643551cda75cbef1fb0ad3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941911,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":336734997,
-    "wof:lastmodified":1466503060,
+    "wof:lastmodified":1492094661,
     "wof:name":"Mile Zone's",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

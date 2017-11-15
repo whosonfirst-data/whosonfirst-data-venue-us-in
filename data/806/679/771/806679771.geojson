@@ -2,14 +2,20 @@
   "id": 806679771,
   "type": "Feature",
   "properties": {
+    "addr:full":"8801 E 25th St Indianapolis IN 46219",
+    "addr:housenumber":"8801",
+    "addr:postcode":"46219",
+    "addr:street":"E 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.011739,39.803799,-86.011739,39.803799",
     "geom:latitude":39.803799,
     "geom:longitude":-86.011739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8801 E 25th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jzX1ffPzxMkEqv2kHU2YQ_39.803799_-86.011739@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600169,
-    "wof:geomhash":"571aec79302af32737c5dcd93de6afdb",
+    "wof:geomhash":"b1da5ca8e846e6cf68da94dc6b37492f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806679771,
-    "wof:lastmodified":1466510329,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",

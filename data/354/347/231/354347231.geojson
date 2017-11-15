@@ -2,9 +2,14 @@
   "id": 354347231,
   "type": "Feature",
   "properties": {
+    "addr:full":"6127 Pillory Dr Indianapolis IN 46254",
+    "addr:housenumber":"6127",
+    "addr:postcode":"46254",
+    "addr:street":"Pillory Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.255639,39.863899,-86.255639,39.863899",
     "geom:latitude":39.863899,
     "geom:longitude":-86.255639,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85849167,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85849167
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"25c58e2f05029ad490d3929ce6b3b2b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85849167,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":354347231,
-    "wof:lastmodified":1466503369,
+    "wof:lastmodified":1491894295,
     "wof:name":"J S Sky Limit Inc",
     "wof:parent_id":85849167,
     "wof:placetype":"venue",

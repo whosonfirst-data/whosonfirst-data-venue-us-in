@@ -2,14 +2,20 @@
   "id": 773366711,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 W Hively Ave Elkhart IN 46517",
+    "addr:housenumber":"245",
+    "addr:postcode":"46517",
+    "addr:street":"W Hively Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.970911,41.659397,-85.970911,41.659397",
     "geom:latitude":41.659397,
     "geom:longitude":-85.970911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"245 W Hively Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125155639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gh2JkmCXOoNgRIqxgVLIH_41.659397_-85.970911@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585160,
-    "wof:geomhash":"e67a2c436002be807aa20eebe5b4022f",
+    "wof:geomhash":"a684165fb756161d3023b2d2649f7dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773366711,
-    "wof:lastmodified":1466508750,
+    "wof:lastmodified":1510699710,
     "wof:name":"Muffler Man",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

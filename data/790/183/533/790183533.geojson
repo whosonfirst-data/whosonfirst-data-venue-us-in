@@ -2,14 +2,20 @@
   "id": 790183533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Main St Elkhart IN 46514",
+    "addr:housenumber":"1000",
+    "addr:postcode":"46514",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.976385,41.695636,-85.976385,41.695636",
     "geom:latitude":41.695636,
     "geom:longitude":-85.976385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125159229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RhNxRCpRUeh6wlMxkodEw_41.695636_-85.976385@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593804,
-    "wof:geomhash":"c481dc0e226dec13830e14e410056686",
+    "wof:geomhash":"d624f2e547ce5089381997646fe0fbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790183533,
-    "wof:lastmodified":1466505715,
+    "wof:lastmodified":1510699530,
     "wof:name":"Doors Plus",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

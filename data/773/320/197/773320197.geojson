@@ -2,9 +2,14 @@
   "id": 773320197,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 W 36th Ave Gary IN 46408",
+    "addr:housenumber":"1240",
+    "addr:postcode":"46408",
+    "addr:street":"W 36Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.351825,41.55327,-87.351825,41.55327",
     "geom:latitude":41.55327,
     "geom:longitude":-87.351825,
@@ -28,7 +33,10 @@
         "transfer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WfYH0hxoQEnCg15oGOg1Y_41.553270_-87.351825@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462584844,
     "wof:geomhash":"25c3334b035dd716a7f95caba2dc73c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773320197
+        }
+    ],
     "wof:id":773320197,
-    "wof:lastmodified":1466507585,
+    "wof:lastmodified":1492091593,
     "wof:name":"Western Union",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789838161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2449 W 63rd Ct Merrillville IN 46410",
+    "addr:housenumber":"2449",
+    "addr:postcode":"46410",
+    "addr:street":"W 63Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.36746,41.503019,-87.36746,41.503019",
     "geom:latitude":41.503019,
     "geom:longitude":-87.36746,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75mGMtlOjAtOIhZWZ9KJkw_41.503019_-87.367460@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462590932,
     "wof:geomhash":"8c57fe2813190e71a79340ec5e4d668d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789838161
+        }
+    ],
     "wof:id":789838161,
-    "wof:lastmodified":1466506890,
+    "wof:lastmodified":1492101417,
     "wof:name":"Realtors Better Home",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

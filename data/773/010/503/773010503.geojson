@@ -2,9 +2,14 @@
   "id": 773010503,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 US Hwy 421 Medaryville IN 47957",
+    "addr:housenumber":"314",
+    "addr:postcode":"47957",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891872,41.041564,-86.891872,41.041564",
     "geom:latitude":41.041564,
     "geom:longitude":-86.891872,
@@ -24,7 +29,13 @@
     "sg:postcode":"47957",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04aJdDczK1yShubIXQOVuF_41.041564_-86.891872@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462582313,
     "wof:geomhash":"16ad19a78611d578b10de486897084fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":773010503
+        }
+    ],
     "wof:id":773010503,
-    "wof:lastmodified":1466503785,
+    "wof:lastmodified":1492090591,
     "wof:name":"Eberhart's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

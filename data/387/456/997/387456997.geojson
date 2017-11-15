@@ -2,14 +2,20 @@
   "id": 387456997,
   "type": "Feature",
   "properties": {
+    "addr:full":"3308 Imperial Pkwy Lafayette IN 47909",
+    "addr:housenumber":"3308",
+    "addr:postcode":"47909",
+    "addr:street":"Imperial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849097,40.380392,-86.849097,40.380392",
     "geom:latitude":40.380392,
     "geom:longitude":-86.849097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3308 Imperial Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v7v0tHosgSElUZiIQRMV7_40.380392_-86.849097@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"24d062896bf0ee29fc44375db5ca70f6",
+    "wof:geomhash":"95c4b07b6ba00f00a9d4bef5a81b8bd7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387456997,
-    "wof:lastmodified":1466503522,
+    "wof:lastmodified":1510697253,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806811779,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 S High School Rd Indianapolis IN 46241",
+    "addr:housenumber":"2500",
+    "addr:postcode":"46241",
+    "addr:street":"S High School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.269908,39.729138,-86.269908,39.729138",
     "geom:latitude":39.729138,
     "geom:longitude":-86.269908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 S High School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VKf70jNJSiulBLfjo1Fbg_39.729138_-86.269908@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601278,
-    "wof:geomhash":"4a7b0e988f84b178350ca642ebe6bea0",
+    "wof:geomhash":"e0a1be436a0c1ec23e435292e82636c7",
     "wof:hierarchy":[
         {
             "campus_id":102534155,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806811779,
-    "wof:lastmodified":1466515177,
+    "wof:lastmodified":1510694786,
     "wof:name":"La Salsa",
     "wof:parent_id":102534155,
     "wof:placetype":"venue",

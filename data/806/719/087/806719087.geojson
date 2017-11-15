@@ -2,9 +2,14 @@
   "id": 806719087,
   "type": "Feature",
   "properties": {
+    "addr:full":"6354 Forest Ave Hammond IN 46324",
+    "addr:housenumber":"6354",
+    "addr:postcode":"46324",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.524623,41.598167,-87.524623,41.598167",
     "geom:latitude":41.598167,
     "geom:longitude":-87.524623,
@@ -24,7 +29,14 @@
     "sg:postcode":"46324",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cuyroekke6J9La6dRTZUm_41.598167_-87.524623@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462600492,
     "wof:geomhash":"7feeafc9605af82fd1e13b40e2c96dba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":806719087
+        }
+    ],
     "wof:id":806719087,
-    "wof:lastmodified":1466511935,
+    "wof:lastmodified":1492093625,
     "wof:name":"Smith & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

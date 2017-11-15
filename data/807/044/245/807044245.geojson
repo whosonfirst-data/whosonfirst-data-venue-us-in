@@ -2,9 +2,14 @@
   "id": 807044245,
   "type": "Feature",
   "properties": {
+    "addr:full":"17648 Morse St Lowell IN 46356",
+    "addr:housenumber":"17648",
+    "addr:postcode":"46356",
+    "addr:street":"Morse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420809,41.298842,-87.420809,41.298842",
     "geom:latitude":41.298842,
     "geom:longitude":-87.420809,
@@ -24,7 +29,14 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ytlO5Ku4sW5yqaml3T9UA_41.298842_-87.420809@1303262771"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603245,
     "wof:geomhash":"2b28573e593276633abc1aa364fc867e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807044245
+        }
+    ],
     "wof:id":807044245,
-    "wof:lastmodified":1466504382,
+    "wof:lastmodified":1492090548,
     "wof:name":"Sheikh Asrar MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

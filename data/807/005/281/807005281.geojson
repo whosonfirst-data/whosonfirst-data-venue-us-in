@@ -2,14 +2,20 @@
   "id": 807005281,
   "type": "Feature",
   "properties": {
+    "addr:full":"5550 W 86th St Ste 103 Indianapolis IN 46268",
+    "addr:housenumber":"5550",
+    "addr:postcode":"46268",
+    "addr:street":"W 86Th St Ste 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.259498,39.910822,-86.259498,39.910822",
     "geom:latitude":39.910822,
     "geom:longitude":-86.259498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5550 W 86th St Ste 103",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A857uUSs2lXAfiIT7R2VE_39.910822_-86.259498@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602900,
-    "wof:geomhash":"b3fc9a9b65116451f31e9d8999e1fd9c",
+    "wof:geomhash":"c8ecd02c6d5251aee5a06b8d96d562f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807005281,
-    "wof:lastmodified":1466503535,
+    "wof:lastmodified":1510697483,
     "wof:name":"Checksmart",
     "wof:parent_id":85870685,
     "wof:placetype":"venue",

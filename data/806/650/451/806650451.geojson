@@ -2,9 +2,14 @@
   "id": 806650451,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Walnut Ct Hebron IN 46341",
+    "addr:housenumber":"106",
+    "addr:postcode":"46341",
+    "addr:street":"Walnut Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.210247,41.330381,-87.210247,41.330381",
     "geom:latitude":41.330381,
     "geom:longitude":-87.210247,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
-        85633793,
         85813921,
-        102087191
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"ef3292103c00733e45472d67be2b73f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087191,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85813921,
             "region_id":85688709,
             "venue_id":806650451
         }
     ],
     "wof:id":806650451,
-    "wof:lastmodified":1466508218,
+    "wof:lastmodified":1492095633,
     "wof:name":"A Shade Darker Window Tinting",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773837737,
   "type": "Feature",
   "properties": {
+    "addr:full":"9282 S 600 W Brook IN 47922",
+    "addr:housenumber":"9282;600",
+    "addr:postcode":"47922",
+    "addr:street":"S;W Brook",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.505864,40.862184,-87.505864,40.862184",
     "geom:latitude":40.862184,
     "geom:longitude":-87.505864,
@@ -24,7 +29,13 @@
     "sg:postcode":"47922",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501347,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ms6LsPQRQVOTjcs78fAuO_40.862184_-87.505864@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462588784,
     "wof:geomhash":"2adb2fbe05a5ca1496218674f3164688",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501347,
+            "region_id":85688709,
+            "venue_id":773837737
+        }
+    ],
     "wof:id":773837737,
-    "wof:lastmodified":1466519347,
+    "wof:lastmodified":1492092200,
     "wof:name":"PJW Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

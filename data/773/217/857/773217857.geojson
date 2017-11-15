@@ -2,9 +2,14 @@
   "id": 773217857,
   "type": "Feature",
   "properties": {
+    "addr:full":"6040 S Range Rd North Judson IN 46366",
+    "addr:housenumber":"6040",
+    "addr:postcode":"in 46366",
+    "addr:street":"S Range Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698278,41.21493,-86.698278,41.21493",
     "geom:latitude":41.21493,
     "geom:longitude":-86.698278,
@@ -24,7 +29,13 @@
     "sg:postcode":"46366",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501487,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_150aPNVQKAqg9CLAGchxFD_41.214930_-86.698278@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462584059,
     "wof:geomhash":"8d0d6af836758a70b3a9cfe7d8023657",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501487,
+            "region_id":85688709,
+            "venue_id":773217857
+        }
+    ],
     "wof:id":773217857,
-    "wof:lastmodified":1466506346,
+    "wof:lastmodified":1492095713,
     "wof:name":"R & R Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

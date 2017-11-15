@@ -2,6 +2,10 @@
   "id": 773597661,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 E Dupont Rd Fort Wayne IN 46825",
+    "addr:housenumber":"1234",
+    "addr:postcode":"46825",
+    "addr:street":"E Dupont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773597661,
-    "wof:lastmodified":1466516441,
+    "wof:lastmodified":1472623177,
     "wof:name":"Physiotherapy Associates Inc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789784039,
   "type": "Feature",
   "properties": {
+    "addr:full":"7608 W 155th Ave Lowell IN 46356",
+    "addr:housenumber":"7608",
+    "addr:postcode":"46356",
+    "addr:street":"W 155Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.42817,41.337348,-87.42817,41.337348",
     "geom:latitude":41.337348,
     "geom:longitude":-87.42817,
@@ -25,7 +30,13 @@
     "sg:province":"IN",
     "sg:website":"www.normspumpkinpatch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5URprKa0ioPIy7LGYDiV6t_41.337348_-87.428170@1294102998"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1462590521,
     "wof:geomhash":"697b1f5e0d7c94b28daee5b251381c71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "region_id":85688709,
+            "venue_id":789784039
+        }
+    ],
     "wof:id":789784039,
-    "wof:lastmodified":1466506313,
+    "wof:lastmodified":1492104337,
     "wof:name":"Norm's Pumpkin Patch Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

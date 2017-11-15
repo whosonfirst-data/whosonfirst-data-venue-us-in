@@ -2,9 +2,14 @@
   "id": 789674999,
   "type": "Feature",
   "properties": {
+    "addr:full":"12351 Calumet Ave Cedar Lake IN 46303",
+    "addr:housenumber":"12351",
+    "addr:postcode":"46303",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508046,41.392405,-87.508046,41.392405",
     "geom:latitude":41.392405,
     "geom:longitude":-87.508046,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rqRF6dYN4as8Z9FaM2Kpg_41.392405_-87.508046@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589662,
     "wof:geomhash":"32ae9b163692769fec8593a85a38f469",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":789674999
+        }
+    ],
     "wof:id":789674999,
-    "wof:lastmodified":1466505163,
+    "wof:lastmodified":1492091601,
     "wof:name":"Glover & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 790485553,
   "type": "Feature",
   "properties": {
+    "addr:full":"58150 Co Rd 117 Goshen IN 46528",
+    "addr:housenumber":"58150;117",
+    "addr:postcode":"46528",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":790485553,
-    "wof:lastmodified":1466511613,
+    "wof:lastmodified":1472622897,
     "wof:name":"Industrial Mechanical Svc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

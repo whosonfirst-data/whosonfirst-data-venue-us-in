@@ -2,14 +2,20 @@
   "id": 773573771,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 W Main St Syracuse IN 46567",
+    "addr:housenumber":"304",
+    "addr:postcode":"46567",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.753721,41.42718,-85.753721,41.42718",
     "geom:latitude":41.42718,
     "geom:longitude":-85.753721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 W Main St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125154109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h0NF5TFJRjcz4hDNtEn26_41.427180_-85.753721@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586758,
-    "wof:geomhash":"485518f2045ac9fb9323c5eb95c2e0f9",
+    "wof:geomhash":"242fcf4f79202dfdc7987a1c1c64d623",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773573771,
-    "wof:lastmodified":1466515724,
+    "wof:lastmodified":1510694939,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

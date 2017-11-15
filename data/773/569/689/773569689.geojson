@@ -2,14 +2,20 @@
   "id": 773569689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1437 Churchill Dr Schererville IN 46375",
+    "addr:housenumber":"1437",
+    "addr:postcode":"46375",
+    "addr:street":"Churchill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.486268,41.47946,-87.486268,41.47946",
     "geom:latitude":41.47946,
     "geom:longitude":-87.486268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1437 Churchill Dr",
     "sg:city":"Schererville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h6hm9RcClw80qG1iPLrjW_41.479460_-87.486268@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586717,
-    "wof:geomhash":"21f400de1fd45021b7196829fb49842a",
+    "wof:geomhash":"63f2806153ec30fa0c29bf931392434b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773569689,
-    "wof:lastmodified":1466515173,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

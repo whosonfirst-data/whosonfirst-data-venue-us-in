@@ -2,9 +2,14 @@
   "id": 773825467,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 E Washington St Rensselaer IN 47978",
+    "addr:housenumber":"826",
+    "addr:postcode":"47978",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.142775,40.938243,-87.142775,40.938243",
     "geom:latitude":40.938243,
     "geom:longitude":-87.142775,
@@ -27,7 +32,14 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M21hkGo0UsYLCv7bKXACo_40.938243_-87.142775@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462588683,
     "wof:geomhash":"7e07e7bddd8dd57a8e995f2e03ce9400",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":773825467
+        }
+    ],
     "wof:id":773825467,
-    "wof:lastmodified":1466519292,
+    "wof:lastmodified":1492092199,
     "wof:name":"Tee It Up Virtual Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

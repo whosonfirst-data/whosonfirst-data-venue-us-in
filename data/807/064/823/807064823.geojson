@@ -2,14 +2,20 @@
   "id": 807064823,
   "type": "Feature",
   "properties": {
+    "addr:full":"2615 E 3rd St Bloomington IN 47401",
+    "addr:housenumber":"2615",
+    "addr:postcode":"47401",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.501198,39.164299,-86.501198,39.164299",
     "geom:latitude":39.164299,
     "geom:longitude":-86.501198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2615 E 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":420575219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zi1I2c9OS0Wb9yKyjg6ny_39.164299_-86.501198@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603407,
-    "wof:geomhash":"8995eddc2583dbdcdfd650d42b8cbcc4",
+    "wof:geomhash":"3225a777ce2179190118ce3f8236fed0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807064823,
-    "wof:lastmodified":1466504528,
+    "wof:lastmodified":1510602595,
     "wof:name":"Travelodge",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

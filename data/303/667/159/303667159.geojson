@@ -2,9 +2,14 @@
   "id": 303667159,
   "type": "Feature",
   "properties": {
+    "addr:full":"3454 Boone Grove Rd Valparaiso IN 46385",
+    "addr:housenumber":"3454",
+    "addr:postcode":"46385",
+    "addr:street":"Boone Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.10458,41.434633,-87.10458,41.434633",
     "geom:latitude":41.434633,
     "geom:longitude":-87.10458,
@@ -29,7 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +44,15 @@
     "wof:geomhash":"c551c5662b6b032d285311b3a2e00492",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519837,
             "venue_id":303667159
         }
     ],
     "wof:id":303667159,
-    "wof:lastmodified":1466502947,
+    "wof:lastmodified":1492105118,
     "wof:name":"Myrtac Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

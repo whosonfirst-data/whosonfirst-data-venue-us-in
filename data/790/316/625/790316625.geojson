@@ -2,9 +2,14 @@
   "id": 790316625,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 W 700 N Valparaiso IN 46385",
+    "addr:housenumber":"278",
+    "addr:postcode":"46385",
+    "addr:street":"W 700 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.119266,41.535722,-87.119266,41.535722",
     "geom:latitude":41.535722,
     "geom:longitude":-87.119266,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OdnBsyUESOVOGiuXeIWDp_41.535722_-87.119266@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594893,
     "wof:geomhash":"d6dc53a1e776535dfc019994e3ab35dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790316625
+        }
+    ],
     "wof:id":790316625,
-    "wof:lastmodified":1466507058,
+    "wof:lastmodified":1492100669,
     "wof:name":"Hawkins Lawn Care & Snow Plwng",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

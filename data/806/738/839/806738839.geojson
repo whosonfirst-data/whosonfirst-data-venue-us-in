@@ -2,14 +2,20 @@
   "id": 806738839,
   "type": "Feature",
   "properties": {
+    "addr:full":"968 S State Rd 19 Bourbon IN 46504",
+    "addr:housenumber":"968;19",
+    "addr:postcode":"bourbon;46504",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.04552,41.216858,-86.04552,41.216858",
     "geom:latitude":41.216858,
     "geom:longitude":-86.04552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"968 S State Rd 19",
     "sg:city":"Bourbon",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125152671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nCCOwvVml5fc7XZKpWbxw_41.216858_-86.045520@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600671,
-    "wof:geomhash":"c6fdc0ac90b0168630e25b5a03b51ef3",
+    "wof:geomhash":"2117f2ed7432ecfc8ccc098759cec662",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":806738839,
-    "wof:lastmodified":1466512548,
+    "wof:lastmodified":1510697153,
     "wof:name":"Royster-Clark Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

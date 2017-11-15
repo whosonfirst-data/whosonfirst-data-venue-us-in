@@ -2,14 +2,20 @@
   "id": 790418719,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 S Maxwell Ct Zionsville IN 46077",
+    "addr:housenumber":"150",
+    "addr:postcode":"46077",
+    "addr:street":"S Maxwell Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.274763,39.96768,-86.274763,39.96768",
     "geom:latitude":39.96768,
     "geom:longitude":-86.274763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 S Maxwell Ct",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086453,
         85688709
     ],
+    "wof:brand_id":1125158851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tBAJXLRLGIPs8kgTyewwX_39.967680_-86.274763@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595671,
-    "wof:geomhash":"e22488eb0eeb16369d51b35fb651b2f8",
+    "wof:geomhash":"3ced23e244e798b7794a7401d4311758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790418719,
-    "wof:lastmodified":1466508689,
+    "wof:lastmodified":1510695068,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",

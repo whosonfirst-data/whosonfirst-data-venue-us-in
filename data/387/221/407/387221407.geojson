@@ -2,14 +2,20 @@
   "id": 387221407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1211 Tutor Ln Evansville IN 47715",
+    "addr:housenumber":"1211",
+    "addr:postcode":"47715",
+    "addr:street":"Tutor Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.474937,37.989628,-87.474937,37.989628",
     "geom:latitude":37.989628,
     "geom:longitude":-87.474937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1211 Tutor Ln",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087105,
         85877319
     ],
+    "wof:brand_id":1125155003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y2J9vHea0sw4pbMPZuvs9_37.989628_-87.474937@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"522bf96d9b1fe0cec6fcde84a62b833f",
+    "wof:geomhash":"42277fc2273314866868a3037532cc60",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387221407,
-    "wof:lastmodified":1466503197,
+    "wof:lastmodified":1510699952,
     "wof:name":"Good Feet Store",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",

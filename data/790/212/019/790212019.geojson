@@ -2,9 +2,14 @@
   "id": 790212019,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"631",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.344591,41.549098,-87.344591,41.549098",
     "geom:latitude":41.549098,
     "geom:longitude":-87.344591,
@@ -28,7 +33,10 @@
         "beauty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j56EyGUa9nYTUyfTnlg02_41.549098_-87.344591@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594041,
     "wof:geomhash":"707ba04cf1b64fcce9eb597b29be7022",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790212019
+        }
+    ],
     "wof:id":790212019,
-    "wof:lastmodified":1466505854,
+    "wof:lastmodified":1492095080,
     "wof:name":"M & M Food & Beauty Supply",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

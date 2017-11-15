@@ -2,14 +2,20 @@
   "id": 806579035,
   "type": "Feature",
   "properties": {
+    "addr:full":"16419 Lakeville Xing Westfield IN 46074",
+    "addr:housenumber":"16419",
+    "addr:postcode":"46074",
+    "addr:street":"Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.163901,40.026192,-86.163901,40.026192",
     "geom:latitude":40.026192,
     "geom:longitude":-86.163901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16419 Lakeville Xing",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087089,
         85891201
     ],
+    "wof:brand_id":1125151385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eMXQjZr61FLYPWKTAO6lg_40.026192_-86.163901@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599300,
-    "wof:geomhash":"ec38180aad215ea118dcc314f7e32d51",
+    "wof:geomhash":"71ef444a68a0743a904f7b8d84d20ac6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806579035,
-    "wof:lastmodified":1466507010,
+    "wof:lastmodified":1510695303,
     "wof:name":"Pulte Homes Corp",
     "wof:parent_id":85891201,
     "wof:placetype":"venue",

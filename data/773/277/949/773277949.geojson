@@ -2,9 +2,14 @@
   "id": 773277949,
   "type": "Feature",
   "properties": {
+    "addr:full":"10701 Bunker Dr Demotte IN 46310",
+    "addr:housenumber":"10701",
+    "addr:postcode":"46310",
+    "addr:street":"Bunker Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.155307,41.1725,-87.155307,41.1725",
     "geom:latitude":41.1725,
     "geom:longitude":-87.155307,
@@ -27,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501007,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dGV2jyRBuS5pju6wZuaKx_41.172500_-87.155307@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462584500,
     "wof:geomhash":"8fe143a6db096611ab014b7245d413d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501007,
+            "region_id":85688709,
+            "venue_id":773277949
+        }
+    ],
     "wof:id":773277949,
-    "wof:lastmodified":1466507005,
+    "wof:lastmodified":1492090473,
     "wof:name":"Five Star Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

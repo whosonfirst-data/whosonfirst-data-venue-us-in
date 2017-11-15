@@ -2,14 +2,20 @@
   "id": 773762991,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Main St Elkhart IN 46516",
+    "addr:housenumber":"101",
+    "addr:postcode":"46516",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.974046,41.688421,-85.974046,41.688421",
     "geom:latitude":41.688421,
     "geom:longitude":-85.974046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 N Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125159951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QGc46XwvTTOPf5wjDo8xK_41.688421_-85.974046@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588192,
-    "wof:geomhash":"fb5ac1f019064080db63661e0e6ca1c6",
+    "wof:geomhash":"c6c28582cb58b0aefd151648c152faeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773762991,
-    "wof:lastmodified":1466518789,
+    "wof:lastmodified":1510693742,
     "wof:name":"National City Mortgage Co",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

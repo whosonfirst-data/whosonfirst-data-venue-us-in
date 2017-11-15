@@ -2,9 +2,14 @@
   "id": 773468513,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 S Newton St Goodland IN 47948",
+    "addr:housenumber":"320",
+    "addr:postcode":"47948",
+    "addr:street":"S Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293603,40.763083,-87.293603,40.763083",
     "geom:latitude":40.763083,
     "geom:longitude":-87.293603,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xMSgic9hFmH6Zhrjny46O_40.763083_-87.293603@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585974,
     "wof:geomhash":"f181e5c1e35f7c2aa22ca6835079ce65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":773468513
+        }
+    ],
     "wof:id":773468513,
-    "wof:lastmodified":1466512277,
+    "wof:lastmodified":1492106678,
     "wof:name":"Richards Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

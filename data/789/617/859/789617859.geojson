@@ -2,9 +2,14 @@
   "id": 789617859,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 W 700 N Valparaiso IN 46385",
+    "addr:housenumber":"403",
+    "addr:postcode":"46385",
+    "addr:street":"W 700 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.152815,41.536008,-87.152815,41.536008",
     "geom:latitude":41.536008,
     "geom:longitude":-87.152815,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q1JgLdn716QoqlYHNDJuK_41.536008_-87.152815@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462589202,
     "wof:geomhash":"94e36fcc2923893e0844d5b053ab1e25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789617859
+        }
+    ],
     "wof:id":789617859,
-    "wof:lastmodified":1466504221,
+    "wof:lastmodified":1492100667,
     "wof:name":"South Haven Library",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

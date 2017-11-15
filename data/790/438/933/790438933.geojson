@@ -2,14 +2,20 @@
   "id": 790438933,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 The Meadows Terre Haute IN 47803",
+    "addr:housenumber":"19",
+    "addr:postcode":"47803",
+    "addr:street":"The Meadows",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.37729,39.464102,-87.37729,39.464102",
     "geom:latitude":39.464102,
     "geom:longitude":-87.37729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 The Meadows",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d7aHEzvwmQVjCmMJbbHwc_39.464102_-87.377290@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595833,
-    "wof:geomhash":"9858c952fb80e38f65b42593c9bfd4cb",
+    "wof:geomhash":"9927d5eaa63434d86d9065c2a5effefd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790438933,
-    "wof:lastmodified":1466510039,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

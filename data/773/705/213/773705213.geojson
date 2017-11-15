@@ -2,6 +2,10 @@
   "id": 773705213,
   "type": "Feature",
   "properties": {
+    "addr:full":"59827 Co Rd 11 Elkhart IN 46517",
+    "addr:housenumber":"59827;11",
+    "addr:postcode":"46517",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773705213,
-    "wof:lastmodified":1466517679,
+    "wof:lastmodified":1472623205,
     "wof:name":"3 Phase Electrical Svc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

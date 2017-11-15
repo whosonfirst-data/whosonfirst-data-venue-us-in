@@ -2,6 +2,10 @@
   "id": 773753763,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 W State Rd 46 Columbus IN 47201",
+    "addr:housenumber":"6000;46",
+    "addr:postcode":"47201",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":773753763,
-    "wof:lastmodified":1466518345,
+    "wof:lastmodified":1472623225,
     "wof:name":"Faith Lutheran Church",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

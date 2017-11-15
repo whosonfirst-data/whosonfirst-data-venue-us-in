@@ -2,6 +2,10 @@
   "id": 789985583,
   "type": "Feature",
   "properties": {
+    "addr:full":"29698 Co Rd 2 Granger IN 46530",
+    "addr:housenumber":"29698;2",
+    "addr:postcode":"46530",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789985583,
-    "wof:lastmodified":1466509629,
+    "wof:lastmodified":1472622847,
     "wof:name":"Macs Sewer Service",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

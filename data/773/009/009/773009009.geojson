@@ -2,9 +2,14 @@
   "id": 773009009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 S Heaton St Knox IN 46534",
+    "addr:housenumber":"1002",
+    "addr:postcode":"46534",
+    "addr:street":"S Heaton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.620738,41.288035,-86.620738,41.288035",
     "geom:latitude":41.288035,
     "geom:longitude":-86.620738,
@@ -24,7 +29,14 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        85941553,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hsuPr9o01WSsnyjs0TGt5_41.288035_-86.620738@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462582291,
     "wof:geomhash":"9ccfcd6489a2649a4e57bb23b11ab197",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "locality_id":85941553,
+            "region_id":85688709,
+            "venue_id":773009009
+        }
+    ],
     "wof:id":773009009,
-    "wof:lastmodified":1466503817,
+    "wof:lastmodified":1492091732,
     "wof:name":"Smith Farm Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

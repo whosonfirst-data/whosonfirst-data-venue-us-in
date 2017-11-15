@@ -2,6 +2,10 @@
   "id": 789993393,
   "type": "Feature",
   "properties": {
+    "addr:full":"72504 Co Rd 25 Syracuse IN 46567",
+    "addr:housenumber":"72504;25",
+    "addr:postcode":"46567",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789993393,
-    "wof:lastmodified":1466510833,
+    "wof:lastmodified":1472622848,
     "wof:name":"Deans AG Repair",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

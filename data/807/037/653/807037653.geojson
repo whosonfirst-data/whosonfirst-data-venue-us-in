@@ -2,14 +2,20 @@
   "id": 807037653,
   "type": "Feature",
   "properties": {
+    "addr:full":"7444 Kennedy Ave Ste B Hammond IN 46323",
+    "addr:housenumber":"7444",
+    "addr:postcode":"46323",
+    "addr:street":"Kennedy Ave Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.461615,41.57841,-87.461615,41.57841",
     "geom:latitude":41.57841,
     "geom:longitude":-87.461615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7444 Kennedy Ave Ste B",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85688709,
         85858873
     ],
+    "wof:brand_id":1125158371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57UkwBWZCCG5HAkwtEbNcv_41.578410_-87.461615@1303262770"
     },
     "wof:country":"US",
     "wof:created":1462603184,
-    "wof:geomhash":"86a03c0441ccf8ea3fe4054b8c9df887",
+    "wof:geomhash":"8ef9b647d60693185af347c911e1c809",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,9 +80,9 @@
         }
     ],
     "wof:id":807037653,
-    "wof:lastmodified":1466504220,
+    "wof:lastmodified":1510696922,
     "wof:name":"Nextel Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

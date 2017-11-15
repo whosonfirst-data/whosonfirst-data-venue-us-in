@@ -2,14 +2,20 @@
   "id": 806408483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1597 E Industrial Dr Terre Haute IN 47802",
+    "addr:housenumber":"1597",
+    "addr:postcode":"47802",
+    "addr:street":"E Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.392984,39.342562,-87.392984,39.342562",
     "geom:latitude":39.342562,
     "geom:longitude":-87.392984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1597 E Industrial Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Oegmxgi60oHElD3Fku3Ho_39.342562_-87.392984@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597904,
-    "wof:geomhash":"68326fbf57c195f9757ac38927078725",
+    "wof:geomhash":"16a201487b9597b7e44a4cc17e6b6fd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806408483,
-    "wof:lastmodified":1466504718,
+    "wof:lastmodified":1510613314,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

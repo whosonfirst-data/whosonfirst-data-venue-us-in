@@ -2,9 +2,14 @@
   "id": 303371061,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 Elston St Michigan City IN 46360",
+    "addr:housenumber":"812",
+    "addr:postcode":"46360",
+    "addr:street":"Elston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.906314,41.712213,-86.906314,41.712213",
     "geom:latitude":41.712213,
     "geom:longitude":-86.906314,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519711,
+        102191575,
+        404501783,
         85633793,
         85941911,
-        102086409
+        102086409,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"09f31c7de338eae1abf6887691b3818e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519711,
             "region_id":85688709,
             "venue_id":303371061
         }
     ],
     "wof:id":303371061,
-    "wof:lastmodified":1466503645,
+    "wof:lastmodified":1492104340,
     "wof:name":"Lindsey Chapel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

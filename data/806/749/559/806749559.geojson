@@ -2,9 +2,14 @@
   "id": 806749559,
   "type": "Feature",
   "properties": {
+    "addr:full":"15401 S 350 W Kentland IN 47951",
+    "addr:housenumber":"15401;350",
+    "addr:postcode":"47951",
+    "addr:street":"S;W Kentland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.458361,40.775251,-87.458361,40.775251",
     "geom:latitude":40.775251,
     "geom:longitude":-87.458361,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qkdHxhokGPSFuqMlZNtDe_40.775251_-87.458361@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600759,
     "wof:geomhash":"fbd8d0e3b8568083d678fde2c336eb03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "region_id":85688709,
+            "venue_id":806749559
+        }
+    ],
     "wof:id":806749559,
-    "wof:lastmodified":1466512831,
+    "wof:lastmodified":1492104003,
     "wof:name":"Stephen Morgan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

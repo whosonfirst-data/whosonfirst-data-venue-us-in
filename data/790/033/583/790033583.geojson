@@ -2,14 +2,20 @@
   "id": 790033583,
   "type": "Feature",
   "properties": {
+    "addr:full":"713 Plaza Dr Chesterton IN 46304",
+    "addr:housenumber":"713",
+    "addr:postcode":"46304",
+    "addr:street":"Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.043506,41.617205,-87.043506,41.617205",
     "geom:latitude":41.617205,
     "geom:longitude":-87.043506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"713 Plaza Dr",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85852597,
         102087191
     ],
+    "wof:brand_id":420574585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EHa7Ohe2Dgc50WSIj9VNj_41.617205_-87.043506@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592598,
-    "wof:geomhash":"45abeb6515dca25e685bc369c8de8e82",
+    "wof:geomhash":"0b80aa33637c55c15a97bfc3b1ba1de2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790033583,
-    "wof:lastmodified":1466504290,
+    "wof:lastmodified":1510604840,
     "wof:name":"Econo Lodge",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

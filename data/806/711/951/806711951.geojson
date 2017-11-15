@@ -2,9 +2,14 @@
   "id": 806711951,
   "type": "Feature",
   "properties": {
+    "addr:full":"3313 W 47th Ave Gary IN 46408",
+    "addr:housenumber":"3313",
+    "addr:postcode":"46408",
+    "addr:street":"W 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.377173,41.533387,-87.377173,41.533387",
     "geom:latitude":41.533387,
     "geom:longitude":-87.377173,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JR6tksUX06NckYsEnXEgM_41.533387_-87.377173@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462600433,
     "wof:geomhash":"eaf48467cd5a677a69d2f663b154afdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806711951
+        }
+    ],
     "wof:id":806711951,
-    "wof:lastmodified":1466511696,
+    "wof:lastmodified":1492103006,
     "wof:name":"Julia Kluga",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

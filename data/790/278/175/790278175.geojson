@@ -2,9 +2,14 @@
   "id": 790278175,
   "type": "Feature",
   "properties": {
+    "addr:full":"359 W 200 N Valparaiso IN 46385",
+    "addr:housenumber":"359",
+    "addr:postcode":"46385",
+    "addr:street":"W 200 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.13576,41.463718,-87.13576,41.463718",
     "geom:latitude":41.463718,
     "geom:longitude":-87.13576,
@@ -29,7 +34,15 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gXIrRycpu75EQdhYc97jJ_41.463718_-87.135760@1294102998"
@@ -37,9 +50,20 @@
     "wof:country":"US",
     "wof:created":1462594594,
     "wof:geomhash":"b3bd6991f45f7829b7c2d47197613785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":790278175
+        }
+    ],
     "wof:id":790278175,
-    "wof:lastmodified":1466506577,
+    "wof:lastmodified":1492091318,
     "wof:name":"Shellbourne Conference Ctr",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

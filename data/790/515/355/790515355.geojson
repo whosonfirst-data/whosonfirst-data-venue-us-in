@@ -2,9 +2,14 @@
   "id": 790515355,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 E Lincoln St Kentland IN 47951",
+    "addr:housenumber":"501",
+    "addr:postcode":"47951",
+    "addr:street":"E Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.440754,40.773032,-87.440754,40.773032",
     "geom:latitude":40.773032,
     "geom:longitude":-87.440754,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_208gqIN8trGMBSTfsiJvMY_40.773032_-87.440754@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596493,
     "wof:geomhash":"b011234a6210e3b4299a4168b722bbd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790515355
+        }
+    ],
     "wof:id":790515355,
-    "wof:lastmodified":1466512623,
+    "wof:lastmodified":1492101868,
     "wof:name":"Dentistry By Price",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

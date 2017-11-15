@@ -2,14 +2,20 @@
   "id": 789984023,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 W McGalliard Rd Muncie IN 47303",
+    "addr:housenumber":"518",
+    "addr:postcode":"47303",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.392135,40.21904,-85.392135,40.21904",
     "geom:latitude":40.21904,
     "geom:longitude":-85.392135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mn846fnhQM3fKG4wdQj4u_40.219040_-85.392135@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592202,
-    "wof:geomhash":"58b1b97ec6d6d5b9556686c8d4cfbb44",
+    "wof:geomhash":"4c2cb77c65afb82dcd4db8b2f3e574d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789984023,
-    "wof:lastmodified":1466509520,
+    "wof:lastmodified":1510695389,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

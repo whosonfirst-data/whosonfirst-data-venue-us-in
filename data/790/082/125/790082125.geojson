@@ -2,14 +2,20 @@
   "id": 790082125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 S East St Indianapolis IN 46225",
+    "addr:housenumber":"1104",
+    "addr:postcode":"46225",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.149676,39.751532,-86.149676,39.751532",
     "geom:latitude":39.751532,
     "geom:longitude":-86.149676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1104 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qxnvE2cXiwvqlnFlqXDn0_39.751532_-86.149676@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592985,
-    "wof:geomhash":"f354f417a13a36e2e85f5ca55a540ccf",
+    "wof:geomhash":"ba6e68b48bdd8b2f6eac0f51d07cad5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790082125,
-    "wof:lastmodified":1466504703,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":420519781,
     "wof:placetype":"venue",

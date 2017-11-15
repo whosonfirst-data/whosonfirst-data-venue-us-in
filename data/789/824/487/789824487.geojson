@@ -2,14 +2,20 @@
   "id": 789824487,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Depot St Greencastle IN 46135",
+    "addr:housenumber":"5",
+    "addr:postcode":"46135",
+    "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.867295,39.653626,-86.867295,39.653626",
     "geom:latitude":39.653626,
     "geom:longitude":-86.867295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Depot St",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087217,
         85688709
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o1yib2f9FmzjqXvC65w19_39.653626_-86.867295@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590828,
-    "wof:geomhash":"94f2e7848b36cc9abcd51f1fde78dce3",
+    "wof:geomhash":"584a332a3727c4c8ea9b9d73549d5a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789824487,
-    "wof:lastmodified":1466506751,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",

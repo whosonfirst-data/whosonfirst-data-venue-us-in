@@ -2,9 +2,14 @@
   "id": 773169207,
   "type": "Feature",
   "properties": {
+    "addr:full":"2695 W 50 S Morocco IN 47963",
+    "addr:housenumber":"2695",
+    "addr:postcode":"47963",
+    "addr:street":"W 50 S Morocco",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.441568,40.991491,-87.441568,40.991491",
     "geom:latitude":40.991491,
     "geom:longitude":-87.441568,
@@ -24,7 +29,13 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CdGisfTnIHkjIJfACzqPj_40.991491_-87.441568@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462583662,
     "wof:geomhash":"e3dbc25e30c2ead8e3a27a4c1f902509",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":773169207
+        }
+    ],
     "wof:id":773169207,
-    "wof:lastmodified":1466506032,
+    "wof:lastmodified":1492092198,
     "wof:name":"U S 41 Intl Dragway Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

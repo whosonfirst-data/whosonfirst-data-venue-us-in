@@ -2,14 +2,20 @@
   "id": 806813693,
   "type": "Feature",
   "properties": {
+    "addr:full":"5351 Commerce Dr Crown Point IN 46307",
+    "addr:housenumber":"5351",
+    "addr:postcode":"46307",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397936,41.473054,-87.397936,41.473054",
     "geom:latitude":41.473054,
     "geom:longitude":-87.397936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5351 Commerce Dr",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125151089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h7yGpA8QT8wYuvFu4gNnU_41.473054_-87.397936@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601293,
-    "wof:geomhash":"462000dbe6c522b9a0645c701c7bbfbc",
+    "wof:geomhash":"d46a9aea89b5c1641d881ad58caa3469",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806813693,
-    "wof:lastmodified":1466514812,
+    "wof:lastmodified":1510695434,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":420519687,
     "wof:placetype":"venue",

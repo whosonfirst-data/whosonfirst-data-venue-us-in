@@ -2,14 +2,20 @@
   "id": 806922705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Tobey Dr Indianapolis IN 46219",
+    "addr:housenumber":"2828",
+    "addr:postcode":"46219",
+    "addr:street":"Tobey Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.018069,39.807388,-86.018069,39.807388",
     "geom:latitude":39.807388,
     "geom:longitude":-86.018069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2828 Tobey Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MIYdiSFBXxhSoh55x25I6_39.807388_-86.018069@1303262764"
     },
     "wof:country":"US",
     "wof:created":1462602211,
-    "wof:geomhash":"54e84064b60c69b0bf689175473542b7",
+    "wof:geomhash":"5895072d41264f02934cde29f7928ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806922705,
-    "wof:lastmodified":1466517820,
+    "wof:lastmodified":1510693790,
     "wof:name":"Nabisco",
     "wof:parent_id":85854661,
     "wof:placetype":"venue",

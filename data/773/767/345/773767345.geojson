@@ -2,14 +2,20 @@
   "id": 773767345,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 Chestnut St Columbus IN 47201",
+    "addr:housenumber":"826",
+    "addr:postcode":"47201",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.914814,39.207123,-85.914814,39.207123",
     "geom:latitude":39.207123,
     "geom:longitude":-85.914814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"826 Chestnut St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125155463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d7aCFG8UYfjC487ykSarG_39.207123_-85.914814@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588222,
-    "wof:geomhash":"d482e5b2ea11599ea74e9e94c60a69d1",
+    "wof:geomhash":"345fdf1ffd7044e09317afa2b3ecf8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773767345,
-    "wof:lastmodified":1466518342,
+    "wof:lastmodified":1510694229,
     "wof:name":"Bank One National Assn Chicago",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806458125,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Prescott Rd Valparaiso IN 46385",
+    "addr:housenumber":"441",
+    "addr:postcode":"46385",
+    "addr:street":"Prescott Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.148501,41.531069,-87.148501,41.531069",
     "geom:latitude":41.531069,
     "geom:longitude":-87.148501,
@@ -29,7 +34,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32Wx5OHke03U1Trir1HHmQ_41.531069_-87.148501@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462598299,
     "wof:geomhash":"4c72e33336b8854bd6565236a5750a6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806458125
+        }
+    ],
     "wof:id":806458125,
-    "wof:lastmodified":1466505405,
+    "wof:lastmodified":1492097512,
     "wof:name":"F & D Trucking Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

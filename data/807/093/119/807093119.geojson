@@ -2,14 +2,20 @@
   "id": 807093119,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Circle Front Dr Evansville IN 47715",
+    "addr:housenumber":"301",
+    "addr:postcode":"47715",
+    "addr:street":"Circle Front Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.458,37.9781,-87.458,37.9781",
     "geom:latitude":37.9781,
     "geom:longitude":-87.458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Circle Front Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z1VBkJEdZZ8RaPP26aV5n_37.978100_-87.458000@1303262773"
     },
     "wof:country":"US",
     "wof:created":1462603645,
-    "wof:geomhash":"4bfa93abdbe5a983eedb6364f423ef61",
+    "wof:geomhash":"29fa72e5de253517bf10f4be2177190f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807093119,
-    "wof:lastmodified":1466505097,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",

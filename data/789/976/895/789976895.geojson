@@ -2,6 +2,10 @@
   "id": 789976895,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S High St Warsaw IN 46580",
+    "addr:housenumber":"111",
+    "addr:postcode":"46580",
+    "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789976895,
-    "wof:lastmodified":1466509656,
+    "wof:lastmodified":1472622846,
     "wof:name":"Barnes Consulting Svc LLC",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

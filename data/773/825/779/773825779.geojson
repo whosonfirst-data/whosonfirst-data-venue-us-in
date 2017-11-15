@@ -2,9 +2,14 @@
   "id": 773825779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1809 Co Rd 900 Wheatfield IN 46392",
+    "addr:housenumber":"1809;900",
+    "addr:postcode":"46392",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.009961,41.143297,-87.009961,41.143297",
     "geom:latitude":41.143297,
     "geom:longitude":-87.009961,
@@ -27,7 +32,13 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501007,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24w36C2trcqM49e10s7I8k_41.143297_-87.009961@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462588686,
     "wof:geomhash":"281751e3e821d660439de5ea2ab2d7a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501007,
+            "region_id":85688709,
+            "venue_id":773825779
+        }
+    ],
     "wof:id":773825779,
-    "wof:lastmodified":1466519296,
+    "wof:lastmodified":1492092188,
     "wof:name":"Howard's Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

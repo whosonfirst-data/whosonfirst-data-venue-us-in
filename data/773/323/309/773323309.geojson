@@ -2,14 +2,20 @@
   "id": 773323309,
   "type": "Feature",
   "properties": {
+    "addr:full":"3550 S Hoyt Ave Muncie IN 47302",
+    "addr:housenumber":"3550",
+    "addr:postcode":"47302",
+    "addr:street":"S Hoyt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.422105,40.160267,-85.422105,40.160267",
     "geom:latitude":40.160267,
     "geom:longitude":-85.422105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3550 S Hoyt Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YZxJ0DMusKKWbsnic927y_40.160267_-85.422105@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584864,
-    "wof:geomhash":"86fee7de46f855289a23a1e9b8d07f4c",
+    "wof:geomhash":"b33c4cd0d072e2af1506b7aa16ec0aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773323309,
-    "wof:lastmodified":1466507632,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

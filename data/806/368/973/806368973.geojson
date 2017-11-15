@@ -2,9 +2,14 @@
   "id": 806368973,
   "type": "Feature",
   "properties": {
+    "addr:full":"7582 N 100 E Lake Village IN 46349",
+    "addr:housenumber":"7582",
+    "addr:postcode":"46349",
+    "addr:street":"N 100 E Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.372114,41.114058,-87.372114,41.114058",
     "geom:latitude":41.114058,
     "geom:longitude":-87.372114,
@@ -27,7 +32,13 @@
         "tractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A37vR69tzVFBiUUJJhrEb_41.114058_-87.372114@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462597591,
     "wof:geomhash":"e0b90d8deba1f6195927566f091130b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":806368973
+        }
+    ],
     "wof:id":806368973,
-    "wof:lastmodified":1466503810,
+    "wof:lastmodified":1492103070,
     "wof:name":"Mark's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

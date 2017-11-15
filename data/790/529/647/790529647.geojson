@@ -2,9 +2,14 @@
   "id": 790529647,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"706",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.510414,41.561437,-87.510414,41.561437",
     "geom:latitude":41.561437,
     "geom:longitude":-87.510414,
@@ -24,7 +29,14 @@
     "sg:postcode":"46321",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jhc11WAwAh1U0JhMCWb3J_41.561437_-87.510414@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462596621,
     "wof:geomhash":"b9d15d88ea312b48599e578ec1c7473b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":790529647
+        }
+    ],
     "wof:id":790529647,
-    "wof:lastmodified":1466512933,
+    "wof:lastmodified":1492091730,
     "wof:name":"Paul Stepanczuk DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

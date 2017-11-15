@@ -2,9 +2,14 @@
   "id": 806487751,
   "type": "Feature",
   "properties": {
+    "addr:full":"851 W 57th Ave Merrillville IN 46410",
+    "addr:housenumber":"851",
+    "addr:postcode":"46410",
+    "addr:street":"W 57Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34723,41.514622,-87.34723,41.514622",
     "geom:latitude":41.514622,
     "geom:longitude":-87.34723,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rmyXrlGrMRY5jBwPnOqpZ_41.514622_-87.347230@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598526,
     "wof:geomhash":"ce5deb2a41ef4f6ba18283655295518f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806487751
+        }
+    ],
     "wof:id":806487751,
-    "wof:lastmodified":1466505921,
+    "wof:lastmodified":1492091785,
     "wof:name":"M J Gyros Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

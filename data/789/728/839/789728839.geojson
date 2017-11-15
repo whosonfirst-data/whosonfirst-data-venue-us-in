@@ -2,14 +2,20 @@
   "id": 789728839,
   "type": "Feature",
   "properties": {
+    "addr:full":"2940 N Clinton St Fort Wayne IN 46805",
+    "addr:housenumber":"2940",
+    "addr:postcode":"46805",
+    "addr:street":"N Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.138242,41.103906,-85.138242,41.103906",
     "geom:latitude":41.103906,
     "geom:longitude":-85.138242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2940 N Clinton St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OndflndfxGupYv4FqI7q9_41.103906_-85.138242@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590095,
-    "wof:geomhash":"4c2056ebf3ad036a3fddafce692b30a9",
+    "wof:geomhash":"5150c631a5a6479ab866ea26c55db433",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789728839,
-    "wof:lastmodified":1466505741,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":420519421,
     "wof:placetype":"venue",

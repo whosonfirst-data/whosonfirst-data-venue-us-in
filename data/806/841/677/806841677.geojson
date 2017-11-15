@@ -2,9 +2,14 @@
   "id": 806841677,
   "type": "Feature",
   "properties": {
+    "addr:full":"6642 Kennedy Ave Hammond IN 46323",
+    "addr:housenumber":"6642",
+    "addr:postcode":"46323",
+    "addr:street":"Kennedy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.461614,41.592355,-87.461614,41.592355",
     "geom:latitude":41.592355,
     "geom:longitude":-87.461614,
@@ -37,14 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839875,
+        85821465,
         102191575,
         404501869,
         85633793,
         85941817,
         102087149,
         85688709,
-        85821465
+        85839875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +65,7 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85839875,
+            "neighbourhood_id":85821465,
             "region_id":85688709,
             "venue_id":806841677
         },
@@ -70,15 +75,15 @@
             "county_id":102087149,
             "localadmin_id":404501869,
             "locality_id":85941817,
-            "neighbourhood_id":85821465,
+            "neighbourhood_id":85839875,
             "region_id":85688709,
             "venue_id":806841677
         }
     ],
     "wof:id":806841677,
-    "wof:lastmodified":1466516056,
+    "wof:lastmodified":1492093659,
     "wof:name":"Dairy Queen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

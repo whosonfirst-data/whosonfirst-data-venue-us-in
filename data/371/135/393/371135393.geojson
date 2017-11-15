@@ -2,9 +2,14 @@
   "id": 371135393,
   "type": "Feature",
   "properties": {
+    "addr:full":"8042 North Dr Highland IN 46322",
+    "addr:housenumber":"8042",
+    "addr:postcode":"46322",
+    "addr:street":"North Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.447955,41.567024,-87.447955,41.567024",
     "geom:latitude":41.567024,
     "geom:longitude":-87.447955,
@@ -33,13 +38,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891123,
+        102191575,
+        404501869,
         85633793,
         85941821,
         102087149,
-        85891123,
-        85941817,
-        85839875
+        85688709,
+        85839875,
+        85941817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +56,20 @@
     "wof:geomhash":"5b5ccc936f11d48a80aab0e36dfa8ac1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941821,
             "neighbourhood_id":85891123,
             "region_id":85688709,
             "venue_id":371135393
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
             "neighbourhood_id":85839875,
             "region_id":85688709,
@@ -68,9 +77,9 @@
         }
     ],
     "wof:id":371135393,
-    "wof:lastmodified":1466503042,
+    "wof:lastmodified":1492092139,
     "wof:name":"Fly'd Pipers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

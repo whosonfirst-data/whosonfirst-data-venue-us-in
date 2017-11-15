@@ -2,9 +2,14 @@
   "id": 790075147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4858 Broadway Gary IN 46408",
+    "addr:housenumber":"4858",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336304,41.530555,-87.336304,41.530555",
     "geom:latitude":41.530555,
     "geom:longitude":-87.336304,
@@ -27,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1htPHifBk4htR3qhEx9vBS_41.530555_-87.336304@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462592932,
     "wof:geomhash":"706ccfab9cfc04ea90c662857d890a5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790075147
+        }
+    ],
     "wof:id":790075147,
-    "wof:lastmodified":1466504536,
+    "wof:lastmodified":1492100623,
     "wof:name":"Calvin D Hawkins",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

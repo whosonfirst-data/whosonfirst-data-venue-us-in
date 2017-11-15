@@ -2,9 +2,14 @@
   "id": 789590279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2803 Co Rd 200 Highland IN 46385",
+    "addr:housenumber":"2803;200",
+    "addr:postcode":"46385",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.10458,41.434633,-87.10458,41.434633",
     "geom:latitude":41.434633,
     "geom:longitude":-87.10458,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bd9RgqtJQDKtl2kTHAUqa_41.434633_-87.104580@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462588988,
     "wof:geomhash":"c551c5662b6b032d285311b3a2e00492",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":789590279
+        }
+    ],
     "wof:id":789590279,
-    "wof:lastmodified":1466503506,
+    "wof:lastmodified":1492092006,
     "wof:name":"Exotic Aquatics  Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

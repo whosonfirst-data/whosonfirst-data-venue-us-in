@@ -2,9 +2,14 @@
   "id": 370911455,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 Harrison St Merrillville IN 46410",
+    "addr:housenumber":"6111",
+    "addr:postcode":"46410",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.345657,41.506421,-87.345657,41.506421",
     "geom:latitude":41.506421,
     "geom:longitude":-87.345657,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519689,
+        102191575,
+        404501871,
         85633793,
         85941829,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"75aa59f1349f6afab9a1d5d76e61ce01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501871,
             "locality_id":85941829,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519689,
             "region_id":85688709,
             "venue_id":370911455
         }
     ],
     "wof:id":370911455,
-    "wof:lastmodified":1466503719,
+    "wof:lastmodified":1492090434,
     "wof:name":"Yvon J Nazon MD SC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

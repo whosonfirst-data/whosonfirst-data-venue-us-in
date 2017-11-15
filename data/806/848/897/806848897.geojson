@@ -2,14 +2,20 @@
   "id": 806848897,
   "type": "Feature",
   "properties": {
+    "addr:full":"965 Fawn View Dr Carmel IN 46032",
+    "addr:housenumber":"965",
+    "addr:postcode":"46032",
+    "addr:street":"Fawn View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.175787,39.991343,-86.175787,39.991343",
     "geom:latitude":39.991343,
     "geom:longitude":-86.175787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"965 Fawn View Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125158479,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gjo0xNlo5wo27WVfDW4Qs_39.991343_-86.175787@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601597,
-    "wof:geomhash":"0ac3e5fb8a32a1c03ae8bdb56265de3e",
+    "wof:geomhash":"304ebeb89cfcc85e9c13ebe226515930",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806848897,
-    "wof:lastmodified":1466516270,
+    "wof:lastmodified":1510699309,
     "wof:name":"Citywide Locksmith",
     "wof:parent_id":420519529,
     "wof:placetype":"venue",

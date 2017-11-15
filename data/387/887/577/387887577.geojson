@@ -2,9 +2,14 @@
   "id": 387887577,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 N Bill St Francesville IN 47946",
+    "addr:housenumber":"152",
+    "addr:postcode":"47946",
+    "addr:street":"N Bill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.882078,40.985856,-86.882078,40.985856",
     "geom:latitude":40.985856,
     "geom:longitude":-86.882078,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501671,
         85633793,
         85941929,
         102086331
@@ -38,17 +45,17 @@
     "wof:geomhash":"5220fe2622218c4a684279d7e31e0fa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086331,
+            "localadmin_id":404501671,
             "locality_id":85941929,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":387887577
         }
     ],
     "wof:id":387887577,
-    "wof:lastmodified":1466504107,
+    "wof:lastmodified":1492096861,
     "wof:name":"Old Corral Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

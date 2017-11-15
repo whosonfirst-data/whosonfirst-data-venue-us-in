@@ -2,9 +2,14 @@
   "id": 773751433,
   "type": "Feature",
   "properties": {
+    "addr:full":"4490 Grant St Gary IN 46408",
+    "addr:housenumber":"4490",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355759,41.538551,-87.355759,41.538551",
     "geom:latitude":41.538551,
     "geom:longitude":-87.355759,
@@ -27,7 +32,10 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UtgQGhsYf6rqNMXPGcPv6_41.538551_-87.355759@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588106,
     "wof:geomhash":"f9016cb3b9a9d588a724e1c7a932e2da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773751433
+        }
+    ],
     "wof:id":773751433,
-    "wof:lastmodified":1466518296,
+    "wof:lastmodified":1492094627,
     "wof:name":"Tools R Us Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

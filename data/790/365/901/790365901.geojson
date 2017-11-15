@@ -2,14 +2,20 @@
   "id": 790365901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3367 E 86th St Indianapolis IN 46240",
+    "addr:housenumber":"3367",
+    "addr:postcode":"46240",
+    "addr:street":"E 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.112571,39.91228,-86.112571,39.91228",
     "geom:latitude":39.91228,
     "geom:longitude":-86.112571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3367 E 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35T7E3ozvpYJB667a3Mwlw_39.912280_-86.112571@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595274,
-    "wof:geomhash":"29568377b3eac68cc8b9b749994d93f8",
+    "wof:geomhash":"44aeb60710c2b49bc27d215ae0c91442",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790365901,
-    "wof:lastmodified":1466507562,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

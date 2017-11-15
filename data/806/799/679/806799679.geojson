@@ -2,9 +2,14 @@
   "id": 806799679,
   "type": "Feature",
   "properties": {
+    "addr:full":"12309 W 100 N Medaryville IN 47957",
+    "addr:housenumber":"12309",
+    "addr:postcode":"47957",
+    "addr:street":"W 100 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840626,41.070428,-86.840626,41.070428",
     "geom:latitude":41.070428,
     "geom:longitude":-86.840626,
@@ -27,7 +32,13 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Swa0Moaovayoit0n0pDT9_41.070428_-86.840626@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462601183,
     "wof:geomhash":"45cce643220c41c8f72221a03f62467c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":806799679
+        }
+    ],
     "wof:id":806799679,
-    "wof:lastmodified":1466514800,
+    "wof:lastmodified":1492093284,
     "wof:name":"Eric Nielsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

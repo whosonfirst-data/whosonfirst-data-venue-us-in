@@ -2,14 +2,20 @@
   "id": 790242589,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Fernhill Ave Fort Wayne IN 46805",
+    "addr:housenumber":"441",
+    "addr:postcode":"46805",
+    "addr:street":"Fernhill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.146901,41.111277,-85.146901,41.111277",
     "geom:latitude":41.111277,
     "geom:longitude":-85.146901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"441 Fernhill Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154615,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DP7PjXAMexyomZlf1vPjj_41.111277_-85.146901@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594266,
-    "wof:geomhash":"e295cf3c36cc1f02584add57697e4d5e",
+    "wof:geomhash":"9dfd5aebd9090573b100608018e73337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790242589,
-    "wof:lastmodified":1466506483,
+    "wof:lastmodified":1510698973,
     "wof:name":"Centennial Wireless",
     "wof:parent_id":85819467,
     "wof:placetype":"venue",

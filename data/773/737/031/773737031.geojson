@@ -2,9 +2,14 @@
   "id": 773737031,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 W 47th Ave Gary IN 46408",
+    "addr:housenumber":"2323",
+    "addr:postcode":"46408",
+    "addr:street":"W 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364045,41.53331,-87.364045,41.53331",
     "geom:latitude":41.53331,
     "geom:longitude":-87.364045,
@@ -27,7 +32,10 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wr1iBtVJ7dt3rHKj2jg9n_41.533310_-87.364045@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588001,
     "wof:geomhash":"b2bd7af83eec6c4e6518356c204ec485",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773737031
+        }
+    ],
     "wof:id":773737031,
-    "wof:lastmodified":1466518134,
+    "wof:lastmodified":1492101505,
     "wof:name":"Laidlaw Transit Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790599359,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 S 5th Ave Princeton IN 47670",
+    "addr:housenumber":"212",
+    "addr:postcode":"47670",
+    "addr:street":"S 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.591689,38.354089,-87.591689,38.354089",
     "geom:latitude":38.354089,
     "geom:longitude":-87.591689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 S 5th Ave",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086375,
         85804327
     ],
+    "wof:brand_id":1125158077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uxRUiVup3sNKq3Qf4sWFp_38.354089_-87.591689@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597219,
-    "wof:geomhash":"fe67bd53b07da69def2d7423ff38d778",
+    "wof:geomhash":"6180c667333fd53f4a5a432112ff0c50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790599359,
-    "wof:lastmodified":1466515285,
+    "wof:lastmodified":1510697176,
     "wof:name":"Deluxe Cleaners",
     "wof:parent_id":85804327,
     "wof:placetype":"venue",

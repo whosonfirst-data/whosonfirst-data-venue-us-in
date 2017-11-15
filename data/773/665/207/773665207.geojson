@@ -2,9 +2,14 @@
   "id": 773665207,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"252",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.115257,41.550184,-87.115257,41.550184",
     "geom:latitude":41.550184,
     "geom:longitude":-87.115257,
@@ -30,7 +35,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845,
+        85688709,
+        85942375,
+        102087191,
+        85856849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aC1alng448689UyUhDvuR_41.550184_-87.115257@1294102998"
@@ -38,11 +50,25 @@
     "wof:country":"US",
     "wof:created":1462587435,
     "wof:geomhash":"d6cf61b9c2c2d7306ba89d0d0f07eaa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773665207
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942375,
+            "neighbourhood_id":85856849,
+            "region_id":85688709,
+            "venue_id":773665207
+        }
+    ],
     "wof:id":773665207,
-    "wof:lastmodified":1466517165,
+    "wof:lastmodified":1492092139,
     "wof:name":"Ground Improvement Svc",
-    "wof:parent_id":420519845,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

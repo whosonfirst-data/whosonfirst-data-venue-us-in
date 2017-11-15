@@ -2,14 +2,20 @@
   "id": 773637649,
   "type": "Feature",
   "properties": {
+    "addr:full":"5627 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"5627",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.258224,39.823712,-86.258224,39.823712",
     "geom:latitude":39.823712,
     "geom:longitude":-86.258224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5627 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mlC3MCadxqHV4AUf6sAEm_39.823712_-86.258224@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587229,
-    "wof:geomhash":"d34d3a3dac5d183339930c6c32a9a25e",
+    "wof:geomhash":"558cfdd4196098d8f3ee9d6fed1188e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773637649,
-    "wof:lastmodified":1466517221,
+    "wof:lastmodified":1510613244,
     "wof:name":"Hot Nails",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

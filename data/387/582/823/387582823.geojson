@@ -2,6 +2,10 @@
   "id": 387582823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 State Rd 257 Washington IN 47501",
+    "addr:housenumber":"1001;257",
+    "addr:postcode":"47501",
+    "addr:street":"State Rd;Washington",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":387582823,
-    "wof:lastmodified":1466503690,
+    "wof:lastmodified":1472622553,
     "wof:name":"Taylor's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

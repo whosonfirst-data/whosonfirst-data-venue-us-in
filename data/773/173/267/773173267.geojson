@@ -2,9 +2,14 @@
   "id": 773173267,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 McCool Rd Valparaiso IN 46385",
+    "addr:housenumber":"618",
+    "addr:postcode":"46385",
+    "addr:street":"Mccool Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.143456,41.52393,-87.143456,41.52393",
     "geom:latitude":41.52393,
     "geom:longitude":-87.143456,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tqLqhyK0HF2n8SlaUxWmy_41.523930_-87.143456@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583689,
     "wof:geomhash":"960b29524124ee3b837d495cb88adc83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773173267
+        }
+    ],
     "wof:id":773173267,
-    "wof:lastmodified":1466506060,
+    "wof:lastmodified":1492094627,
     "wof:name":"Holton & Sons Roofing Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

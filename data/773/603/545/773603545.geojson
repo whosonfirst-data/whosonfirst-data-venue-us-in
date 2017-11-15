@@ -2,14 +2,20 @@
   "id": 773603545,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 W Fox Ridge Ln Muncie IN 47304",
+    "addr:housenumber":"3310",
+    "addr:postcode":"47304",
+    "addr:street":"W Fox Ridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.424958,40.221406,-85.424958,40.221406",
     "geom:latitude":40.221406,
     "geom:longitude":-85.424958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3310 W Fox Ridge Ln",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BPymRdfoLhkUxWRVD5jPA_40.221406_-85.424958@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586965,
-    "wof:geomhash":"51d8e2461f61f5bf368b226b84a3f4ee",
+    "wof:geomhash":"92dc2637d217f10edbbb70f17c564c65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773603545,
-    "wof:lastmodified":1466516513,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

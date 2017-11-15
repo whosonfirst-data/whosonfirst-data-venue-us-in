@@ -2,9 +2,14 @@
   "id": 790246213,
   "type": "Feature",
   "properties": {
+    "addr:full":"10700 W 1300 N Demotte IN 46310",
+    "addr:housenumber":"10700",
+    "addr:postcode":"46310",
+    "addr:street":"W 1300 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.247822,41.202911,-87.247822,41.202911",
     "geom:latitude":41.202911,
     "geom:longitude":-87.247822,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.wheels4tots.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fbOlim4MZpSyx7OiDU4k2_41.202911_-87.247822@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462594297,
     "wof:geomhash":"a90a215961a848de890b1e815ab386e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":790246213
+        }
+    ],
     "wof:id":790246213,
-    "wof:lastmodified":1466506516,
+    "wof:lastmodified":1492091669,
     "wof:name":"Wheels 4 Tots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

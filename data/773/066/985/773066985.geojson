@@ -2,14 +2,20 @@
   "id": 773066985,
   "type": "Feature",
   "properties": {
+    "addr:full":"9610 N Wheeling Ave Muncie IN 47304",
+    "addr:housenumber":"9610",
+    "addr:postcode":"47304",
+    "addr:street":"N Wheeling Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.435724,40.276489,-85.435724,40.276489",
     "geom:latitude":40.276489,
     "geom:longitude":-85.435724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9610 N Wheeling Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v3nOe2StKK8p1n4oNEV9U_40.276489_-85.435724@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582914,
-    "wof:geomhash":"af5ba9f0dfeb643a88930602a6ab55d0",
+    "wof:geomhash":"456720b31665e1d7b73a6c6fdbc58789",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773066985,
-    "wof:lastmodified":1466504792,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

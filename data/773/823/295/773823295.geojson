@@ -2,9 +2,14 @@
   "id": 773823295,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 N 625 W Hobart IN 46342",
+    "addr:housenumber":"550",
+    "addr:postcode":"46342",
+    "addr:street":"N 625 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.1855,41.517758,-87.1855,41.517758",
     "geom:latitude":41.517758,
     "geom:longitude":-87.1855,
@@ -27,7 +32,10 @@
         "motorcycle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70ggDAp0alk4bMd5At9LV0_41.517758_-87.185500@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588658,
     "wof:geomhash":"5f2d9ebf1ff2a7400d4ba7a5fa404601",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773823295
+        }
+    ],
     "wof:id":773823295,
-    "wof:lastmodified":1466519121,
+    "wof:lastmodified":1492094844,
     "wof:name":"Pro One Polishing Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

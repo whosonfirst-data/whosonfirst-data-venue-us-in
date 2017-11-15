@@ -2,9 +2,14 @@
   "id": 319971809,
   "type": "Feature",
   "properties": {
+    "addr:full":"2912 Russell St Portage IN 46368",
+    "addr:housenumber":"2912",
+    "addr:postcode":"46368",
+    "addr:street":"Russell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.189507,41.568814,-87.189507,41.568814",
     "geom:latitude":41.568814,
     "geom:longitude":-87.189507,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891193,
+        102191575,
+        404501717,
         85633793,
         85942387,
         102087191,
-        85891193
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1db383f6a24f6f3ab4e5147a0b33bb5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087191,
+            "localadmin_id":404501717,
             "locality_id":85942387,
             "neighbourhood_id":85891193,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":319971809,
-    "wof:lastmodified":1466503629,
+    "wof:lastmodified":1492091725,
     "wof:name":"Advanced Painting Decorat",
     "wof:parent_id":85891193,
     "wof:placetype":"venue",

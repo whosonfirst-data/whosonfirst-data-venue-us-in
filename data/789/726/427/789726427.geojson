@@ -2,14 +2,20 @@
   "id": 789726427,
   "type": "Feature",
   "properties": {
+    "addr:full":"854 S Green River Rd Evansville IN 47715",
+    "addr:housenumber":"854",
+    "addr:postcode":"47715",
+    "addr:street":"S Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492597,37.962834,-87.492597,37.962834",
     "geom:latitude":37.962834,
     "geom:longitude":-87.492597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"854 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688709,
         85891111
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EDa0ku3QHmFL9c3qEgc2f_37.962834_-87.492597@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590074,
-    "wof:geomhash":"4a4c0a8fe6fc30f077e7b17cd2ed90e2",
+    "wof:geomhash":"0c25bc81bbcc92de5c5fd32ff7d6a9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":789726427,
-    "wof:lastmodified":1466505709,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

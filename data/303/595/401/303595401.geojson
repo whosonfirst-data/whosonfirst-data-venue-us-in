@@ -2,6 +2,10 @@
   "id": 303595401,
   "type": "Feature",
   "properties": {
+    "addr:full":"4656 W Co Rd 250 N West Middleton IN 46978",
+    "addr:housenumber":"4656;250",
+    "addr:postcode":"46978",
+    "addr:street":"W Co Rd;N West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":303595401,
-    "wof:lastmodified":1466503779,
+    "wof:lastmodified":1472622493,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

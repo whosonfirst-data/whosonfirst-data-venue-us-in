@@ -2,9 +2,14 @@
   "id": 320664221,
   "type": "Feature",
   "properties": {
+    "addr:full":"8315 E Washington St Indianapolis IN 46219",
+    "addr:housenumber":"8315",
+    "addr:postcode":"46219",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.019712,39.773321,-86.019712,39.773321",
     "geom:latitude":39.773321,
     "geom:longitude":-86.019712,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85827165,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85827165
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"fdf49d9c098b8b7a3859c6b9ce496796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85827165,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":320664221,
-    "wof:lastmodified":1466503373,
+    "wof:lastmodified":1491894462,
     "wof:name":"El Paisano",
     "wof:parent_id":85827165,
     "wof:placetype":"venue",

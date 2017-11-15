@@ -2,9 +2,14 @@
   "id": 773287887,
   "type": "Feature",
   "properties": {
+    "addr:full":"7214 W 132nd Ave Cedar Lake IN 46303",
+    "addr:housenumber":"7214",
+    "addr:postcode":"46303",
+    "addr:street":"W 132Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420949,41.379454,-87.420949,41.379454",
     "geom:latitude":41.379454,
     "geom:longitude":-87.420949,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eJtjiMeRmwhYsA7o8C9Aa_41.379454_-87.420949@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584583,
     "wof:geomhash":"93ab8ea327d41a55a92246570815f423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":773287887
+        }
+    ],
     "wof:id":773287887,
-    "wof:lastmodified":1466507216,
+    "wof:lastmodified":1492090304,
     "wof:name":"More New Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

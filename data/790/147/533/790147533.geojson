@@ -2,14 +2,20 @@
   "id": 790147533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1957 E Old Kokomo Rd Marion IN 46953",
+    "addr:housenumber":"1957",
+    "addr:postcode":"46953",
+    "addr:street":"E Old Kokomo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.629252,40.492129,-85.629252,40.492129",
     "geom:latitude":40.492129,
     "geom:longitude":-85.629252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1957 E Old Kokomo Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125158743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xBSk3Oizg7EyVxcW98CWS_40.492129_-85.629252@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593489,
-    "wof:geomhash":"a3b027d8b61e87de70ae0f9024e0cf32",
+    "wof:geomhash":"1e13f4932801eaa3e75576a06b2103b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790147533,
-    "wof:lastmodified":1466505511,
+    "wof:lastmodified":1510697764,
     "wof:name":"Crown Castle USA",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

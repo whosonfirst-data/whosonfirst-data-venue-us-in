@@ -2,9 +2,14 @@
   "id": 773289497,
   "type": "Feature",
   "properties": {
+    "addr:full":"9405 W 750 N North Judson IN 46366",
+    "addr:housenumber":"9405",
+    "addr:postcode":"46366",
+    "addr:street":"W 750 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785859,41.164673,-86.785859,41.164673",
     "geom:latitude":41.164673,
     "geom:longitude":-86.785859,
@@ -27,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501669,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ks8nMzglCJChhcdYPlTsV_41.164673_-86.785859@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462584596,
     "wof:geomhash":"65e74dd9700eeb6a5a1ac212f0bb561d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501669,
+            "region_id":85688709,
+            "venue_id":773289497
+        }
+    ],
     "wof:id":773289497,
-    "wof:lastmodified":1466507111,
+    "wof:lastmodified":1492097439,
     "wof:name":"Charles Begley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

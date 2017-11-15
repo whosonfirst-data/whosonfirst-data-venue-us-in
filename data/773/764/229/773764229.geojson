@@ -2,14 +2,20 @@
   "id": 773764229,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 S Washington St Marion IN 46953",
+    "addr:housenumber":"522",
+    "addr:postcode":"46953",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.659865,40.556234,-85.659865,40.556234",
     "geom:latitude":40.556234,
     "geom:longitude":-85.659865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"522 S Washington St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":1125159967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08nV3MiwalJo0r5qfNlYr4_40.556234_-85.659865@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588201,
-    "wof:geomhash":"c25a3ca4086d2c1e4fc91ced6878c25e",
+    "wof:geomhash":"5ed68283208de551cf71de6fcc1aab33",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773764229,
-    "wof:lastmodified":1466518527,
+    "wof:lastmodified":1510693849,
     "wof:name":"One Hour Cleaners",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

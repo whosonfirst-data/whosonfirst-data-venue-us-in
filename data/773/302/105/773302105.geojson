@@ -2,6 +2,10 @@
   "id": 773302105,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 State Rd 64 Georgetown IN 47122",
+    "addr:housenumber":"5300;64",
+    "addr:postcode":"47122",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773302105,
-    "wof:lastmodified":1466507281,
+    "wof:lastmodified":1472623023,
     "wof:name":"Womens Healthcare Of Sthrn In",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790528975,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Columbia St Lafayette IN 47901",
+    "addr:housenumber":"307",
+    "addr:postcode":"47901",
+    "addr:street":"Columbia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893114,40.41817,-86.893114,40.41817",
     "geom:latitude":40.41817,
     "geom:longitude":-86.893114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 Columbia St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x4DEfRn2H9IXe8Pv5S04m_40.418170_-86.893114@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596616,
-    "wof:geomhash":"701ed78eb19fcee45b088b1b53d83a6f",
+    "wof:geomhash":"f6b0102b115010d7f7eab8d785710e24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790528975,
-    "wof:lastmodified":1466512890,
+    "wof:lastmodified":1510700011,
     "wof:name":"Hair Depot",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

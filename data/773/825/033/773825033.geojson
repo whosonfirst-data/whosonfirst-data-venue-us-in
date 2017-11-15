@@ -2,9 +2,14 @@
   "id": 773825033,
   "type": "Feature",
   "properties": {
+    "addr:full":"9502 W Bailey Rd Wanatah IN 46390",
+    "addr:housenumber":"9502",
+    "addr:postcode":"46390",
+    "addr:street":"W Bailey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887698,41.427694,-86.887698,41.427694",
     "geom:latitude":41.427694,
     "geom:longitude":-86.887698,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"086d68816c9254183f2a8cff525b1f62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773825033,
-    "wof:lastmodified":1466519167,
+    "wof:lastmodified":1492097554,
     "wof:name":"Renesaince Refinishing",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

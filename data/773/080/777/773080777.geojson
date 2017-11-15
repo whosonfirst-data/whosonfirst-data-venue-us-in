@@ -2,14 +2,20 @@
   "id": 773080777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 25th St Columbus IN 47201",
+    "addr:housenumber":"2240",
+    "addr:postcode":"47201",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.901116,39.223097,-85.901116,39.223097",
     "geom:latitude":39.223097,
     "geom:longitude":-85.901116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2240 25th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125150873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R7USpyLKjpOgdnBtrj0nX_39.223097_-85.901116@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583014,
-    "wof:geomhash":"f990ccfa2dc7289544a5f5bcde81b707",
+    "wof:geomhash":"99b293caad2ad9c3c8ec9729181b4651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773080777,
-    "wof:lastmodified":1466504822,
+    "wof:lastmodified":1510613212,
     "wof:name":"Picture This",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

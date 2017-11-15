@@ -2,9 +2,14 @@
   "id": 773633645,
   "type": "Feature",
   "properties": {
+    "addr:full":"5780 E State Rd 10 Demotte IN 46310",
+    "addr:housenumber":"5780;10",
+    "addr:postcode":"46310",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.279491,41.144502,-87.279491,41.144502",
     "geom:latitude":41.144502,
     "geom:longitude":-87.279491,
@@ -27,7 +32,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XpmFJmRh0ZXwBWSTO9Nsn_41.144502_-87.279491@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462587199,
     "wof:geomhash":"cd10fc3e658dfda094a62acadc303a7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773633645
+        }
+    ],
     "wof:id":773633645,
-    "wof:lastmodified":1466516716,
+    "wof:lastmodified":1492091665,
     "wof:name":"Demotte First Church-Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

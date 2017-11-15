@@ -2,14 +2,20 @@
   "id": 773721069,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 Guion Rd Indianapolis IN 46254",
+    "addr:housenumber":"5601",
+    "addr:postcode":"46254",
+    "addr:street":"Guion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.232857,39.855546,-86.232857,39.855546",
     "geom:latitude":39.855546,
     "geom:longitude":-86.232857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5601 Guion Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ilW5Znx1iPQsa6dfANNhy_39.855546_-86.232857@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587878,
-    "wof:geomhash":"c061412db11a40c1810670be8387bb33",
+    "wof:geomhash":"4abf23c8aea4ad3e22772399e83c77e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773721069,
-    "wof:lastmodified":1466517954,
+    "wof:lastmodified":1510602506,
     "wof:name":"Village Pantry",
     "wof:parent_id":85807693,
     "wof:placetype":"venue",

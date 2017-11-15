@@ -2,14 +2,20 @@
   "id": 773499667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 E 46th St Indianapolis IN 46205",
+    "addr:housenumber":"2003",
+    "addr:postcode":"46205",
+    "addr:street":"E 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.126596,39.840144,-86.126596,39.840144",
     "geom:latitude":39.840144,
     "geom:longitude":-86.126596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2003 E 46th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aWlJJEOWVfkhO97xKvw8P_39.840144_-86.126596@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586203,
-    "wof:geomhash":"9d9f9b92c550fb6d426e2c4467bd2959",
+    "wof:geomhash":"0fd572f4374999717580d6816faa4c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773499667,
-    "wof:lastmodified":1466513085,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

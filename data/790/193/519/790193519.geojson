@@ -2,9 +2,14 @@
   "id": 790193519,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 N 3rd St Kentland IN 47951",
+    "addr:housenumber":"222",
+    "addr:postcode":"47951",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.445183,40.769912,-87.445183,40.769912",
     "geom:latitude":40.769912,
     "geom:longitude":-87.445183,
@@ -24,7 +29,14 @@
     "sg:postcode":"47951",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KAOiOF0l8FGxtrikMdazJ_40.769912_-87.445183@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462593886,
     "wof:geomhash":"ca5a6c0a9c9748e74c45b544f08d26e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790193519
+        }
+    ],
     "wof:id":790193519,
-    "wof:lastmodified":1466505757,
+    "wof:lastmodified":1492103069,
     "wof:name":"Hair On The Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

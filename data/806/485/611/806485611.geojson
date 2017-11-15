@@ -2,9 +2,14 @@
   "id": 806485611,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 College Ave Valparaiso IN 46383",
+    "addr:housenumber":"351",
+    "addr:postcode":"46383",
+    "addr:street":"College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.053776,41.463618,-87.053776,41.463618",
     "geom:latitude":41.463618,
     "geom:longitude":-87.053776,
@@ -35,7 +40,8 @@
         85633793,
         85942401,
         102087191,
-        85688709
+        85688709,
+        85891195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,20 @@
             "neighbourhood_id":85891197,
             "region_id":85688709,
             "venue_id":806485611
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087191,
+            "locality_id":85942401,
+            "neighbourhood_id":85891195,
+            "region_id":85688709,
+            "venue_id":806485611
         }
     ],
     "wof:id":806485611,
-    "wof:lastmodified":1466505741,
+    "wof:lastmodified":1492095862,
     "wof:name":"Greenwich House",
-    "wof:parent_id":85891197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 807070933,
   "type": "Feature",
   "properties": {
+    "addr:full":"College Mall Bloomington IN 47401",
+    "addr:housenumber":"",
+    "addr:postcode":"47401",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.496498,39.135899,-86.496498,39.135899",
     "geom:latitude":39.135899,
     "geom:longitude":-86.496498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"College Mall",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125156287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VypyfUh0VKeFYt0FhBfP2_39.135899_-86.496498@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603453,
-    "wof:geomhash":"9d35865ed31124204b62530e404bc203",
+    "wof:geomhash":"e5d867918e70c0a35e350e93ff66373b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":807070933,
-    "wof:lastmodified":1466504671,
+    "wof:lastmodified":1510693207,
     "wof:name":"Pearle Vision Center",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",

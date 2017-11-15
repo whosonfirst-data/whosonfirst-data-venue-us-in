@@ -2,9 +2,14 @@
   "id": 773000077,
   "type": "Feature",
   "properties": {
+    "addr:full":"7408 Constitution Ave Cedar Lake IN 46303",
+    "addr:housenumber":"7408",
+    "addr:postcode":"46303",
+    "addr:street":"Constitution Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.423177,41.367497,-87.423177,41.367497",
     "geom:latitude":41.367497,
     "geom:longitude":-87.423177,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gwaAM2srGtR6mrh5C9PQv_41.367497_-87.423177@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462582108,
     "wof:geomhash":"79355f20d5029ba86db60f9f4f77e748",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":773000077
+        }
+    ],
     "wof:id":773000077,
-    "wof:lastmodified":1466503826,
+    "wof:lastmodified":1492090301,
     "wof:name":"Cedar Lake Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790430077,
   "type": "Feature",
   "properties": {
+    "addr:full":"8420 W San Pierre Rd San Pierre IN 46374",
+    "addr:housenumber":"8420",
+    "addr:postcode":"46374",
+    "addr:street":"W San Pierre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.860631,41.197408,-86.860631,41.197408",
     "geom:latitude":41.197408,
     "geom:longitude":-86.860631,
@@ -28,7 +33,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501495,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o4LegiGJyuC2Eo9DAK0L2_41.197408_-86.860631@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595770,
     "wof:geomhash":"2d91551e72b95f0c0f7955bd1b3ed5f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501495,
+            "region_id":85688709,
+            "venue_id":790430077
+        }
+    ],
     "wof:id":790430077,
-    "wof:lastmodified":1466508966,
+    "wof:lastmodified":1492103689,
     "wof:name":"Skip's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

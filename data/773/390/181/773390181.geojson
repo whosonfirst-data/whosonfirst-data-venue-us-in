@@ -2,9 +2,14 @@
   "id": 773390181,
   "type": "Feature",
   "properties": {
+    "addr:full":"5669 W 200 N Rensselaer IN 47978",
+    "addr:housenumber":"5669",
+    "addr:postcode":"47978",
+    "addr:street":"W 200 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.155021,41.041388,-87.155021,41.041388",
     "geom:latitude":41.041388,
     "geom:longitude":-87.155021,
@@ -27,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500071,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bvQ2Bl85HuJJWIi31BNPY_41.041388_-87.155021@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462585332,
     "wof:geomhash":"49721317c5d1ac7b1d5abe604093d164",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500071,
+            "region_id":85688709,
+            "venue_id":773390181
+        }
+    ],
     "wof:id":773390181,
-    "wof:lastmodified":1466509133,
+    "wof:lastmodified":1492095703,
     "wof:name":"Slaby Remodeling Frank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

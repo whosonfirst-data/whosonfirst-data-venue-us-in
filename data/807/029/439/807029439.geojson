@@ -2,9 +2,14 @@
   "id": 807029439,
   "type": "Feature",
   "properties": {
+    "addr:full":"9711 Valparaiso Dr Ste B Munster IN 46321",
+    "addr:housenumber":"9711",
+    "addr:postcode":"46321",
+    "addr:street":"Valparaiso Dr Ste B Munster",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.511198,41.534923,-87.511198,41.534923",
     "geom:latitude":41.534923,
     "geom:longitude":-87.511198,
@@ -34,7 +39,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NFo6c2vaT1ZBOzv87zkdH_41.534923_-87.511198@1303262770"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462603119,
     "wof:geomhash":"9b733da272ff70bdfdb51978d20b63b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807029439
+        }
+    ],
     "wof:id":807029439,
-    "wof:lastmodified":1466504142,
+    "wof:lastmodified":1492094846,
     "wof:name":"Performance Physical Therapy of Munster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807018491,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S East St Crown Point IN 46307",
+    "addr:housenumber":"300",
+    "addr:postcode":"46307",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363354,41.414626,-87.363354,41.414626",
     "geom:latitude":41.414626,
     "geom:longitude":-87.363354,
@@ -24,7 +29,15 @@
     "sg:postcode":"46307",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jq2AOwbtNvcpI1RuV6h65_41.414626_-87.363354@1303262769"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462603018,
     "wof:geomhash":"df7d9f359d8a2ca874bc58549f4c906a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807018491
+        }
+    ],
     "wof:id":807018491,
-    "wof:lastmodified":1466504084,
+    "wof:lastmodified":1492094660,
     "wof:name":"Parry Thos K",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

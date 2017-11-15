@@ -2,9 +2,14 @@
   "id": 789830475,
   "type": "Feature",
   "properties": {
+    "addr:full":"5861 Van Buren St Merrillville IN 46410",
+    "addr:housenumber":"5861",
+    "addr:postcode":"46410",
+    "addr:street":"Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.344766,41.511707,-87.344766,41.511707",
     "geom:latitude":41.511707,
     "geom:longitude":-87.344766,
@@ -28,7 +33,10 @@
         "convent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00Pyt6qMNiQudygFVaNqs7_41.511707_-87.344766@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590875,
     "wof:geomhash":"2ad583daaf5fa4fe1d83a6ccf18335e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789830475
+        }
+    ],
     "wof:id":789830475,
-    "wof:lastmodified":1466506695,
+    "wof:lastmodified":1492101417,
     "wof:name":"St Peter & Paul Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790136329,
   "type": "Feature",
   "properties": {
+    "addr:full":"10785 S 50 W Brook IN 47922",
+    "addr:housenumber":"10785;50",
+    "addr:postcode":"47922",
+    "addr:street":"S;W Brook",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.401472,40.840455,-87.401472,40.840455",
     "geom:latitude":40.840455,
     "geom:longitude":-87.401472,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501347,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cd2JEOTv2ZJ0eOFPKh6lH_40.840455_-87.401472@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462593402,
     "wof:geomhash":"a1e65c8c0c9b381dbc2dff210c0a70ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501347,
+            "region_id":85688709,
+            "venue_id":790136329
+        }
+    ],
     "wof:id":790136329,
-    "wof:lastmodified":1466505163,
+    "wof:lastmodified":1492092093,
     "wof:name":"Todd Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

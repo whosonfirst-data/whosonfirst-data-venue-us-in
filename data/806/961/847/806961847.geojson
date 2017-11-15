@@ -2,14 +2,20 @@
   "id": 806961847,
   "type": "Feature",
   "properties": {
+    "addr:full":"8830 Keystone Crossing Indianapolis IN 46240",
+    "addr:housenumber":"8830",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Crossing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.110145,39.916037,-86.110145,39.916037",
     "geom:latitude":39.916037,
     "geom:longitude":-86.110145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8830 Keystone Crossing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vECLKNtSoKJByNZxnbG2A_39.916037_-86.110145@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602539,
-    "wof:geomhash":"6a69d03e4ba38ec5dd24e5a9dc3fa117",
+    "wof:geomhash":"92a38e3d0ea690a43f9858b5a51f367b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806961847,
-    "wof:lastmodified":1466518462,
+    "wof:lastmodified":1510699583,
     "wof:name":"Benihana",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

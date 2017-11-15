@@ -2,14 +2,20 @@
   "id": 790272263,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Sky Park Dr NE Corydon IN 47112",
+    "addr:housenumber":"125",
+    "addr:postcode":"47112",
+    "addr:street":"Sky Park Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.125983,38.244829,-86.125983,38.244829",
     "geom:latitude":38.244829,
     "geom:longitude":-86.125983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Sky Park Dr NE",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125157849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fDFt5doyzibvUtDEakNQy_38.244829_-86.125983@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594518,
-    "wof:geomhash":"b6b644c8f7facc771e43ea657136d610",
+    "wof:geomhash":"64b5f02de731f7975f1df014094e81f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790272263,
-    "wof:lastmodified":1466506648,
+    "wof:lastmodified":1510699508,
     "wof:name":"Frisch's Big Boy Restaurant",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

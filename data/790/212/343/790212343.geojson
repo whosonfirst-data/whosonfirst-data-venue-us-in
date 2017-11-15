@@ -2,14 +2,20 @@
   "id": 790212343,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 Repp Dr Columbus IN 47201",
+    "addr:housenumber":"931",
+    "addr:postcode":"47201",
+    "addr:street":"Repp Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.884141,39.185911,-85.884141,39.185911",
     "geom:latitude":39.185911,
     "geom:longitude":-85.884141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"931 Repp Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087181,
         85816163
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pHJCgZW5EV566hcxwLbtX_39.185911_-85.884141@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594042,
-    "wof:geomhash":"42166de3af58aa377d514eff90a24491",
+    "wof:geomhash":"1452e36909b75751c2c64b07d1c97f90",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790212343,
-    "wof:lastmodified":1466505864,
+    "wof:lastmodified":1510604879,
     "wof:name":"American Red Cross",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806685733,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Hope Ave Columbus IN 47201",
+    "addr:housenumber":"410",
+    "addr:postcode":"47201",
+    "addr:street":"Hope Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.900484,39.202445,-85.900484,39.202445",
     "geom:latitude":39.202445,
     "geom:longitude":-85.900484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Hope Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087181,
         85816163
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y81TZZ10HcT2ng05k7C4G_39.202445_-85.900484@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600220,
-    "wof:geomhash":"3fa3800aed1cb78c525e4da789a1e07e",
+    "wof:geomhash":"2cfcd52e71053127fc8dda15a7a7b58c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806685733,
-    "wof:lastmodified":1466510015,
+    "wof:lastmodified":1510694789,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",

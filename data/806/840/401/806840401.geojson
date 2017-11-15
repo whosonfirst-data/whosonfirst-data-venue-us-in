@@ -2,14 +2,20 @@
   "id": 806840401,
   "type": "Feature",
   "properties": {
+    "addr:full":"7757 E Washington St Indianapolis IN 46219",
+    "addr:housenumber":"7757",
+    "addr:postcode":"46219",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.029261,39.772832,-86.029261,39.772832",
     "geom:latitude":39.772832,
     "geom:longitude":-86.029261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7757 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y0abpxaF9gGPIlyHOYr3L_39.772808_-86.029467@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601512,
-    "wof:geomhash":"5873c18d0287f8590e8d59687109fa76",
+    "wof:geomhash":"baa359a725df514c27ffaa9c5459b1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806840401,
-    "wof:lastmodified":1466516384,
+    "wof:lastmodified":1510693983,
     "wof:name":"Skyline Chili",
     "wof:parent_id":85827165,
     "wof:placetype":"venue",

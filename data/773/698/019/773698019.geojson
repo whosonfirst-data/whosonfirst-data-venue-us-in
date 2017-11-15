@@ -2,9 +2,14 @@
   "id": 773698019,
   "type": "Feature",
   "properties": {
+    "addr:full":"3953 Broadway Gary IN 46409",
+    "addr:housenumber":"3953",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336383,41.547011,-87.336383,41.547011",
     "geom:latitude":41.547011,
     "geom:longitude":-87.336383,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iCYPui3dDKGsgZYfIFaSk_41.547011_-87.336383@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462587713,
     "wof:geomhash":"c42febfe60d2a2a006ef6ea38278fd64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773698019
+        }
+    ],
     "wof:id":773698019,
-    "wof:lastmodified":1466517921,
+    "wof:lastmodified":1492091727,
     "wof:name":"Kennedy Public Library",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

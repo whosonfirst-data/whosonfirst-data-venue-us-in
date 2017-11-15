@@ -2,14 +2,20 @@
   "id": 789801935,
   "type": "Feature",
   "properties": {
+    "addr:full":"5155 S Meridian St Indianapolis IN 46217",
+    "addr:housenumber":"5155",
+    "addr:postcode":"46217",
+    "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158577,39.686946,-86.158577,39.686946",
     "geom:latitude":39.686946,
     "geom:longitude":-86.158577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5155 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OS5S8KLc5XxPQaXOk8szp_39.686946_-86.158577@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590655,
-    "wof:geomhash":"9bff9b39266051f920d38dde0dc661bf",
+    "wof:geomhash":"595d14966a893b04cfb73578c2652201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789801935,
-    "wof:lastmodified":1466506409,
+    "wof:lastmodified":1510602601,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

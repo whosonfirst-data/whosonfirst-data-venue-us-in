@@ -2,9 +2,14 @@
   "id": 304008141,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Woodview Trce Indianapolis IN 46268",
+    "addr:housenumber":"3600",
+    "addr:postcode":"46268",
+    "addr:street":"Woodview Trce",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.222268,39.922501,-86.222268,39.922501",
     "geom:latitude":39.922501,
     "geom:longitude":-86.222268,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85857069,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85857069
+        85688709
     ],
     "wof:brand_id":420574189,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"756e9f5e3a0d23337e0f5d114ff33d5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85857069,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":304008141,
-    "wof:lastmodified":1466503399,
+    "wof:lastmodified":1491907178,
     "wof:name":"Countrywide Home Loans",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

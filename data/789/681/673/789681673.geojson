@@ -2,9 +2,14 @@
   "id": 789681673,
   "type": "Feature",
   "properties": {
+    "addr:full":"5844 N US Hwy 35 Laporte IN 46350",
+    "addr:housenumber":"5844",
+    "addr:postcode":"46350",
+    "addr:street":"N Us Hwy 35",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802755,41.690081,-86.802755,41.690081",
     "geom:latitude":41.690081,
     "geom:longitude":-86.802755,
@@ -27,7 +32,10 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T4AJrXgfOWqeLYvGOgqtQ_41.690081_-86.802755@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589714,
     "wof:geomhash":"417621979dd8b703818d44b6efb75b8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789681673
+        }
+    ],
     "wof:id":789681673,
-    "wof:lastmodified":1466505123,
+    "wof:lastmodified":1492095632,
     "wof:name":"E & L Rental Equipment",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

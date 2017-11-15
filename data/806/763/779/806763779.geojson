@@ -2,14 +2,20 @@
   "id": 806763779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3259 W 3rd St Bloomington IN 47404",
+    "addr:housenumber":"3259",
+    "addr:postcode":"47404",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.576202,39.164501,-86.576202,39.164501",
     "geom:latitude":39.164501,
     "geom:longitude":-86.576202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3259 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZZOcqN8WYBUd3U6ZxgM4o_39.164487_-86.575830@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600877,
-    "wof:geomhash":"ef4286ed3c15b6ce506cf06ba97d6a70",
+    "wof:geomhash":"3fba21f22a168dd8d66e46298fae0b87",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806763779,
-    "wof:lastmodified":1466513420,
+    "wof:lastmodified":1510613115,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

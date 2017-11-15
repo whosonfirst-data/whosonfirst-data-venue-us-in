@@ -2,6 +2,10 @@
   "id": 789857989,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 S State Rd 135 Greenwood IN 46142",
+    "addr:housenumber":"565;135",
+    "addr:postcode":"46142",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789857989,
-    "wof:lastmodified":1466507128,
+    "wof:lastmodified":1472622705,
     "wof:name":"Bank One",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

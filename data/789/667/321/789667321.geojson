@@ -2,9 +2,14 @@
   "id": 789667321,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 E North St Goodland IN 47948",
+    "addr:housenumber":"205",
+    "addr:postcode":"47948",
+    "addr:street":"E North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.291212,40.758308,-87.291212,40.758308",
     "geom:latitude":40.758308,
     "geom:longitude":-87.291212,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15bCc1BxPu58TyUp59lgM4_40.758308_-87.291212@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462589609,
     "wof:geomhash":"42fd7c9214fc6f08878cc209c89eccbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "region_id":85688709,
+            "venue_id":789667321
+        }
+    ],
     "wof:id":789667321,
-    "wof:lastmodified":1466504904,
+    "wof:lastmodified":1492106680,
     "wof:name":"Sheets Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806816149,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Grant St Gary IN 46408",
+    "addr:housenumber":"3400",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355927,41.557743,-87.355927,41.557743",
     "geom:latitude":41.557743,
     "geom:longitude":-87.355927,
@@ -29,7 +34,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lvEzFQYdi25Vzw8akmXNJ_41.557743_-87.355927@1299784598"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462601311,
     "wof:geomhash":"4b03d9269eb981e8f52dc6de37c030d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806816149
+        }
+    ],
     "wof:id":806816149,
-    "wof:lastmodified":1466515410,
+    "wof:lastmodified":1492092108,
     "wof:name":"Subway",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

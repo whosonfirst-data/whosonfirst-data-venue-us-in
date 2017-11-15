@@ -2,9 +2,14 @@
   "id": 807049767,
   "type": "Feature",
   "properties": {
+    "addr:full":"4802 Broadway Gary IN 46408",
+    "addr:housenumber":"4802",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336189,41.531244,-87.336189,41.531244",
     "geom:latitude":41.531244,
     "geom:longitude":-87.336189,
@@ -31,7 +36,10 @@
         "nephrology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BLHTzYzVucu1yqpeg3C1R_41.531244_-87.336189@1303262771"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1462603286,
     "wof:geomhash":"595452e340b34932857ee0bb7e3f46cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049767
+        }
+    ],
     "wof:id":807049767,
-    "wof:lastmodified":1466504197,
+    "wof:lastmodified":1492103079,
     "wof:name":"DaVita Gary PD",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

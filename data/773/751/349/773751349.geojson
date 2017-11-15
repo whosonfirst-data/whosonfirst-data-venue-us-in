@@ -2,14 +2,20 @@
   "id": 773751349,
   "type": "Feature",
   "properties": {
+    "addr:full":"14506 Baldwin Ln Carmel IN 46032",
+    "addr:housenumber":"14506",
+    "addr:postcode":"46032",
+    "addr:street":"Baldwin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.182835,39.995767,-86.182835,39.995767",
     "geom:latitude":39.995767,
     "geom:longitude":-86.182835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14506 Baldwin Ln",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PysaxVbWUF2DE1DBgF4vt_39.995767_-86.182835@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588106,
-    "wof:geomhash":"0c4ba842827b55ca772ce1bc1a4b3377",
+    "wof:geomhash":"9e412a8a2e3be8b5b3c9752881895cac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773751349,
-    "wof:lastmodified":1466518289,
+    "wof:lastmodified":1510697536,
     "wof:name":"M/I Homes",
     "wof:parent_id":420519529,
     "wof:placetype":"venue",

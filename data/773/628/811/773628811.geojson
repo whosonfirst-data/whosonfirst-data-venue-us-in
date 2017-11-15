@@ -2,6 +2,10 @@
   "id": 773628811,
   "type": "Feature",
   "properties": {
+    "addr:full":"28070 Co Rd 24 Elkhart IN 46517",
+    "addr:housenumber":"28070;24",
+    "addr:postcode":"46517",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773628811,
-    "wof:lastmodified":1466516434,
+    "wof:lastmodified":1472623185,
     "wof:name":"Hubbard Hill Estates",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

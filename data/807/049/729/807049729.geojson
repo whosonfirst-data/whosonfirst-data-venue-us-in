@@ -2,9 +2,14 @@
   "id": 807049729,
   "type": "Feature",
   "properties": {
+    "addr:full":"3790 Grant St Gary IN 46408",
+    "addr:housenumber":"3790",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355844,41.549747,-87.355844,41.549747",
     "geom:latitude":41.549747,
     "geom:longitude":-87.355844,
@@ -31,7 +36,10 @@
     ],
     "sg:website":"http://www.carscollision.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hcp6j1N5GfsjMnkHz7x4V_41.549747_-87.355844@1303262771"
@@ -39,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1462603285,
     "wof:geomhash":"4f3b8100c1217af08db2a9bd8ca4c312",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049729
+        }
+    ],
     "wof:id":807049729,
-    "wof:lastmodified":1466504195,
+    "wof:lastmodified":1492105115,
     "wof:name":"Cars Collision Center, Inc.",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

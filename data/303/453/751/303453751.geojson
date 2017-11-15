@@ -2,6 +2,10 @@
   "id": 303453751,
   "type": "Feature",
   "properties": {
+    "addr:full":"6704 Co Rd W 180 S Russiaville IN 46979",
+    "addr:housenumber":"6704;180",
+    "addr:postcode":"46979",
+    "addr:street":"Co Rd W;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":303453751,
-    "wof:lastmodified":1466503688,
+    "wof:lastmodified":1472622456,
     "wof:name":"Gilbert Arborcare LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

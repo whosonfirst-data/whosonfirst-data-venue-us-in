@@ -2,9 +2,14 @@
   "id": 806795435,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 S Newton St Goodland IN 47948",
+    "addr:housenumber":"421",
+    "addr:postcode":"47948",
+    "addr:street":"S Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293549,40.761715,-87.293549,40.761715",
     "geom:latitude":40.761715,
     "geom:longitude":-87.293549,
@@ -29,7 +34,14 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cd2NDG7N2QbjeHmSb8ZzL_40.761738_-87.293450@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601145,
     "wof:geomhash":"bd227763eee2541f0a1e1e3758c1934c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":806795435
+        }
+    ],
     "wof:id":806795435,
-    "wof:lastmodified":1466514746,
+    "wof:lastmodified":1492095083,
     "wof:name":"Saints Peter & Paul Parish Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

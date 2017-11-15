@@ -2,9 +2,14 @@
   "id": 336796393,
   "type": "Feature",
   "properties": {
+    "addr:full":"6662 W Johnson Rd Laporte IN 46350",
+    "addr:housenumber":"6662",
+    "addr:postcode":"46350",
+    "addr:street":"W Johnson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.829009,41.661675,-86.829009,41.661675",
     "geom:latitude":41.661675,
     "geom:longitude":-86.829009,
@@ -43,7 +48,6 @@
     "wof:geomhash":"520864b74b81d025f959fbccbebeebe3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336796393,
-    "wof:lastmodified":1466503142,
+    "wof:lastmodified":1492106690,
     "wof:name":"Lefco Inc",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

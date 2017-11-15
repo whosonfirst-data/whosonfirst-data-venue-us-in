@@ -2,9 +2,14 @@
   "id": 336780623,
   "type": "Feature",
   "properties": {
+    "addr:full":"8396 Mississippi St Merrillville IN 46410",
+    "addr:housenumber":"8396",
+    "addr:postcode":"46410",
+    "addr:street":"Mississippi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.316528,41.46848,-87.316528,41.46848",
     "geom:latitude":41.46848,
     "geom:longitude":-87.316528,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891165,
+        102191575,
+        404501871,
         85633793,
-        85941823,
+        85941829,
         102087149,
-        85891165
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"8895ff65a3988602b159fa638a0891d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
-            "locality_id":85941823,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85891165,
             "region_id":85688709,
             "venue_id":336780623
         }
     ],
     "wof:id":336780623,
-    "wof:lastmodified":1466503123,
+    "wof:lastmodified":1492094719,
     "wof:name":"Spangler Jennings & Dougherty",
     "wof:parent_id":85891165,
     "wof:placetype":"venue",

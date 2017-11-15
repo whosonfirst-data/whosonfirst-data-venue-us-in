@@ -2,6 +2,10 @@
   "id": 789826957,
   "type": "Feature",
   "properties": {
+    "addr:full":"4763 N State Rd 15 Warsaw IN 46582",
+    "addr:housenumber":"4763;15",
+    "addr:postcode":"46582",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789826957,
-    "wof:lastmodified":1466506777,
+    "wof:lastmodified":1472622677,
     "wof:name":"Lakeland Auto Ctr Inc",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

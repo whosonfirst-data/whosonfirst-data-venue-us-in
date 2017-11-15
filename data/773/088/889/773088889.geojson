@@ -2,14 +2,20 @@
   "id": 773088889,
   "type": "Feature",
   "properties": {
+    "addr:full":"11625 Fox Rd Indianapolis IN 46236",
+    "addr:housenumber":"11625",
+    "addr:postcode":"46236",
+    "addr:street":"Fox Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.960716,39.902046,-85.960716,39.902046",
     "geom:latitude":39.902046,
     "geom:longitude":-85.960716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11625 Fox Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yGt8F2r8pXSE23AYfomhZ_39.902046_-85.960716@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583071,
-    "wof:geomhash":"8b23926291e8b91eadb9a1151a742134",
+    "wof:geomhash":"554d68b1826bf7bba094f47f068c6bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773088889,
-    "wof:lastmodified":1466505112,
+    "wof:lastmodified":1510693802,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":420519773,
     "wof:placetype":"venue",

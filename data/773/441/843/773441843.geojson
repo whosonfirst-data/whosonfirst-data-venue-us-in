@@ -2,9 +2,14 @@
   "id": 773441843,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 E Michigan Ave Morocco IN 47963",
+    "addr:housenumber":"103",
+    "addr:postcode":"47963",
+    "addr:street":"E Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454723,40.940709,-87.454723,40.940709",
     "geom:latitude":40.940709,
     "geom:longitude":-87.454723,
@@ -24,7 +29,14 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70uPPsLPcSaKjfupAOl0O0_40.940709_-87.454723@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462585772,
     "wof:geomhash":"79d84405fc5643887b3f8c09f94a1dea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":773441843
+        }
+    ],
     "wof:id":773441843,
-    "wof:lastmodified":1466511056,
+    "wof:lastmodified":1492095590,
     "wof:name":"Merchant's Country Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

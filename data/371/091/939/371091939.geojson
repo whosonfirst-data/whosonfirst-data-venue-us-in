@@ -2,14 +2,20 @@
   "id": 371091939,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 Grape Rd Mishawaka IN 46545",
+    "addr:housenumber":"6501",
+    "addr:postcode":"46545",
+    "addr:street":"Grape Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.187781,41.716898,-86.187781,41.716898",
     "geom:latitude":41.716898,
     "geom:longitude":-86.187781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6501 Grape Rd",
     "sg:city":"Mishawaka",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85942419,
         102086969
     ],
+    "wof:brand_id":1125153289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AT213yW1rdh3DkSY4iUAQ_41.716898_-86.187781@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"28eabec422c62dedc70f061fd90c3085",
+    "wof:geomhash":"cacda56f4445520a41953fabd925aa5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371091939,
-    "wof:lastmodified":1466502987,
+    "wof:lastmodified":1510697658,
     "wof:name":"Dakota Watch Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

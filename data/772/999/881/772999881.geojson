@@ -2,14 +2,20 @@
   "id": 772999881,
   "type": "Feature",
   "properties": {
+    "addr:full":"6351 S East St Indianapolis IN 46227",
+    "addr:housenumber":"6351",
+    "addr:postcode":"46227",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.149157,39.672489,-86.149157,39.672489",
     "geom:latitude":39.672489,
     "geom:longitude":-86.149157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6351 S East St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o0NWh8umBt0nOnLmorWPG_39.672489_-86.149157@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582103,
-    "wof:geomhash":"aa2cfad4b5ed103720daff5f3c115b0a",
+    "wof:geomhash":"a14d5996ceb73150a9e05a7b6bc71b61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":772999881,
-    "wof:lastmodified":1466503788,
+    "wof:lastmodified":1510602601,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806789629,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 S Iroquois St Goodland IN 47948",
+    "addr:housenumber":"110",
+    "addr:postcode":"47948",
+    "addr:street":"S Iroquois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.296329,40.765467,-87.296329,40.765467",
     "geom:latitude":40.765467,
     "geom:longitude":-87.296329,
@@ -30,7 +35,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pOTb1bsmWujCmNd0Jumn6_40.765457_-87.296370@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462601101,
     "wof:geomhash":"87ba9f3458de2af720311d7c90f02302",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":806789629
+        }
+    ],
     "wof:id":806789629,
-    "wof:lastmodified":1466514921,
+    "wof:lastmodified":1492103014,
     "wof:name":"O'neil Heating Cooling & Refri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

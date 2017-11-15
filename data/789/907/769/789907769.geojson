@@ -2,14 +2,20 @@
   "id": 789907769,
   "type": "Feature",
   "properties": {
+    "addr:full":"5737 Pearl Dr Evansville IN 47712",
+    "addr:housenumber":"5737",
+    "addr:postcode":"47712",
+    "addr:street":"Pearl Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.637361,37.975114,-87.637361,37.975114",
     "geom:latitude":37.975114,
     "geom:longitude":-87.637361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5737 Pearl Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087105,
         85843997
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dr71lmkqVNmCBaEhBIzWu_37.975114_-87.637361@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591512,
-    "wof:geomhash":"42c1122ca3baf13951f235d73563c544",
+    "wof:geomhash":"57c5048b18776ed0297dcf05a9809d1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789907769,
-    "wof:lastmodified":1466507603,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85843997,
     "wof:placetype":"venue",

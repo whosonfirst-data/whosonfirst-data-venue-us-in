@@ -2,9 +2,14 @@
   "id": 772997929,
   "type": "Feature",
   "properties": {
+    "addr:full":"3220 S 250 E Knox IN 46534",
+    "addr:housenumber":"3220;250 e",
+    "addr:postcode":"46534",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6499,41.255793,-86.6499,41.255793",
     "geom:latitude":41.255793,
     "geom:longitude":-86.6499,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501487,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YitI5iziy5DFZsCRImUgk_41.255793_-86.649900@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462582025,
     "wof:geomhash":"3fd513abd7ced0affdfe71e50b520c78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501487,
+            "region_id":85688709,
+            "venue_id":772997929
+        }
+    ],
     "wof:id":772997929,
-    "wof:lastmodified":1466503456,
+    "wof:lastmodified":1492098288,
     "wof:name":"Prestige Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

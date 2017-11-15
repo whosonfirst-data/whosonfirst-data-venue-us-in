@@ -2,14 +2,20 @@
   "id": 806982447,
   "type": "Feature",
   "properties": {
+    "addr:full":"6020 E 82nd St Ste 1014 Indianapolis IN 46250",
+    "addr:housenumber":"6020",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St Ste 1014",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.075104,39.912498,-86.075104,39.912498",
     "geom:latitude":39.912498,
     "geom:longitude":-86.075104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6020 E 82nd St Ste 1014",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rMeDxnMaguZm3HDVML8Zm_39.912498_-86.075104@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602713,
-    "wof:geomhash":"1f5133088ae0a033b35326f3a2701128",
+    "wof:geomhash":"f6484c1c32057ae1036d9a83a34533c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806982447,
-    "wof:lastmodified":1466518611,
+    "wof:lastmodified":1510697365,
     "wof:name":"Sarku Japan",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

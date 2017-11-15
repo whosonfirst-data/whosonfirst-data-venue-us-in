@@ -2,14 +2,20 @@
   "id": 790248291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Washington Ave Terre Haute IN 47803",
+    "addr:housenumber":"2301",
+    "addr:postcode":"47803",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.381408,39.452023,-87.381408,39.452023",
     "geom:latitude":39.452023,
     "geom:longitude":-87.381408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Washington Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nFMB4SscA41hj58fjezxy_39.452023_-87.381408@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594327,
-    "wof:geomhash":"905cb40fc851dbedc13d7f7f6d496b86",
+    "wof:geomhash":"0b2f7f32310437330873128468dfb36c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790248291,
-    "wof:lastmodified":1466506435,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

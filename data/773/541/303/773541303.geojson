@@ -2,9 +2,14 @@
   "id": 773541303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1717",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.359941,41.548206,-87.359941,41.548206",
     "geom:latitude":41.548206,
     "geom:longitude":-87.359941,
@@ -28,7 +33,10 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iWpE3pqFB6iJnwwLcSiiC_41.548206_-87.359941@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462586486,
     "wof:geomhash":"dd910eea9a666e6e6b534d052159b666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773541303
+        }
+    ],
     "wof:id":773541303,
-    "wof:lastmodified":1466514431,
+    "wof:lastmodified":1492101504,
     "wof:name":"Lampa Enterprises",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

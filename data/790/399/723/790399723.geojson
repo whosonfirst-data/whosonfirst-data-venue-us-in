@@ -2,14 +2,20 @@
   "id": 790399723,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 Vogel Rd Evansville IN 47715",
+    "addr:housenumber":"5401",
+    "addr:postcode":"47715",
+    "addr:street":"Vogel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.483272,37.987587,-87.483272,37.987587",
     "geom:latitude":37.987587,
     "geom:longitude":-87.483272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5401 Vogel Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125152535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P1K8IDjwJZlfuJ2jVXShD_37.987587_-87.483272@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595532,
-    "wof:geomhash":"208379678d2a12f9c88dc5535761d102",
+    "wof:geomhash":"f947b0884f76ce0dc4674bb203c6c000",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790399723,
-    "wof:lastmodified":1466507820,
+    "wof:lastmodified":1510696760,
     "wof:name":"Monumental Life Insurance Co",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

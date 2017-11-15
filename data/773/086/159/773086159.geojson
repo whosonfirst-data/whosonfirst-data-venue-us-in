@@ -2,14 +2,20 @@
   "id": 773086159,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Indianapolis Rd Mooresville IN 46158",
+    "addr:housenumber":"239",
+    "addr:postcode":"46158",
+    "addr:street":"Indianapolis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.365379,39.614604,-86.365379,39.614604",
     "geom:latitude":39.614604,
     "geom:longitude":-86.365379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"239 Indianapolis Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087091,
         85688709
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U1SnKfj4nsnztkHsNbQ55_39.614604_-86.365379@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583054,
-    "wof:geomhash":"deb03395508cfff2167241aa718bb185",
+    "wof:geomhash":"f690581f6583b5cbf1911a399abb3732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773086159,
-    "wof:lastmodified":1466505063,
+    "wof:lastmodified":1510693957,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

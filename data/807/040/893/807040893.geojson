@@ -2,14 +2,20 @@
   "id": 807040893,
   "type": "Feature",
   "properties": {
+    "addr:full":"7249 Indianapolis Blvd Hammond Hammond IN 46324",
+    "addr:housenumber":"7249",
+    "addr:postcode":"46324",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480955,41.582056,-87.480955,41.582056",
     "geom:latitude":41.582056,
     "geom:longitude":-87.480955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7249 Indianapolis Blvd Hammond",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         85688709,
         85858873
     ],
+    "wof:brand_id":1125156713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tJ9qBstpqVzgpmuy907e3_41.582056_-87.480955@1303262770"
     },
     "wof:country":"US",
     "wof:created":1462603211,
-    "wof:geomhash":"aff9e83c00de45dbc5ae0000fa652c46",
+    "wof:geomhash":"8fb484a5cf041f88380fca1a06098bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":807040893,
-    "wof:lastmodified":1466503849,
+    "wof:lastmodified":1510604938,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

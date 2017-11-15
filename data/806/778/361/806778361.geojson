@@ -2,6 +2,10 @@
   "id": 806778361,
   "type": "Feature",
   "properties": {
+    "addr:full":"1785 S Co Rd 75 W Danville IN 46122",
+    "addr:housenumber":"1785;75",
+    "addr:postcode":"46122",
+    "addr:street":"S Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":806778361,
-    "wof:lastmodified":1466513967,
+    "wof:lastmodified":1472622893,
     "wof:name":"Henry Wallis",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

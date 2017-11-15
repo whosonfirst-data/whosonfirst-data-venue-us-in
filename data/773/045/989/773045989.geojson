@@ -2,14 +2,20 @@
   "id": 773045989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1621 E 10th St Jeffersonville IN 47130",
+    "addr:housenumber":"1621",
+    "addr:postcode":"47130",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.72729,38.293413,-85.72729,38.293413",
     "geom:latitude":38.293413,
     "geom:longitude":-85.72729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1621 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086421,
         85688709
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Md7RSZTTJ6QxtMhejmXkb_38.293413_-85.727290@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582709,
-    "wof:geomhash":"296104d30820f0fbc9376a474522f359",
+    "wof:geomhash":"89293e92541b11aacf535f83c591d4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773045989,
-    "wof:lastmodified":1466504366,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773617081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 W McGalliard Rd Muncie IN 47304",
+    "addr:housenumber":"1915",
+    "addr:postcode":"47304",
+    "addr:street":"W Mcgalliard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.407536,40.218854,-85.407536,40.218854",
     "geom:latitude":40.218854,
     "geom:longitude":-85.407536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 W McGalliard Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0opvM2CvTJv8qjIHTDk17X_40.218854_-85.407536@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587071,
-    "wof:geomhash":"46eae8d04a107583f96d7b69944ec103",
+    "wof:geomhash":"881c517a56f1e4707689a69b559b5d99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773617081,
-    "wof:lastmodified":1466516610,
+    "wof:lastmodified":1510695860,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

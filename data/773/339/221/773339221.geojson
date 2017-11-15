@@ -2,6 +2,10 @@
   "id": 773339221,
   "type": "Feature",
   "properties": {
+    "addr:full":"5564 State Rd 135 Vallonia IN 47281",
+    "addr:housenumber":"5564;135",
+    "addr:postcode":"vallonia;47281",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":773339221,
-    "wof:lastmodified":1466507786,
+    "wof:lastmodified":1472623088,
     "wof:name":"Christian Driftwood Church",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",

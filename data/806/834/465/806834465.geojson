@@ -2,14 +2,20 @@
   "id": 806834465,
   "type": "Feature",
   "properties": {
+    "addr:full":"5645 Pearl Dr Evansville IN 47712",
+    "addr:housenumber":"5645",
+    "addr:postcode":"47712",
+    "addr:street":"Pearl Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.644461,37.974264,-87.644461,37.974264",
     "geom:latitude":37.974264,
     "geom:longitude":-87.644461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5645 Pearl Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087105,
         85843997
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sdy9tn27ncCXpZmUNVG38_37.974264_-87.644461@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601461,
-    "wof:geomhash":"6d190049b194e1418b7d20f00fa6687f",
+    "wof:geomhash":"3cb662444253a9a5b3bd7e54969d48c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806834465,
-    "wof:lastmodified":1466515918,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85843997,
     "wof:placetype":"venue",

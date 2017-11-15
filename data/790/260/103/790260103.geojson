@@ -2,14 +2,20 @@
   "id": 790260103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1812 E Main St Plainfield IN 46168",
+    "addr:housenumber":"1812",
+    "addr:postcode":"46168",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.37602,39.710795,-86.37602,39.710795",
     "geom:latitude":39.710795,
     "geom:longitude":-86.37602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1812 E Main St",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125159587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OOYRpxPdR6anFzThHzqpK_39.710795_-86.376020@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594421,
-    "wof:geomhash":"8ce417cca469e661cdcdd175a483d9f2",
+    "wof:geomhash":"d3da9e993a2de4016cf1b8ccacbd093f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790260103,
-    "wof:lastmodified":1466506676,
+    "wof:lastmodified":1510699284,
     "wof:name":"Illuminations",
     "wof:parent_id":85807409,
     "wof:placetype":"venue",

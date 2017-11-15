@@ -2,9 +2,14 @@
   "id": 790077975,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 W 100 S Valparaiso IN 46385",
+    "addr:housenumber":"349",
+    "addr:postcode":"46385",
+    "addr:street":"W 100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.123999,41.420438,-87.123999,41.420438",
     "geom:latitude":41.420438,
     "geom:longitude":-87.123999,
@@ -27,7 +32,10 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o7bPmMSYPawliGll9NFDf_41.420438_-87.123999@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462592958,
     "wof:geomhash":"be0038568c1770936b6169d6880dcf35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790077975
+        }
+    ],
     "wof:id":790077975,
-    "wof:lastmodified":1466504435,
+    "wof:lastmodified":1492098931,
     "wof:name":"Heatherton Hunter & Jumper",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789881383,
   "type": "Feature",
   "properties": {
+    "addr:full":"58300 State Rd 19 Elkhart IN 46517",
+    "addr:housenumber":"58300;19",
+    "addr:postcode":"46517",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789881383,
-    "wof:lastmodified":1466507236,
+    "wof:lastmodified":1472622720,
     "wof:name":"Grainger Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

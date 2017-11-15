@@ -2,14 +2,20 @@
   "id": 789971197,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 S Girls School Rd Indianapolis IN 46231",
+    "addr:housenumber":"120",
+    "addr:postcode":"46231",
+    "addr:street":"S Girls School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.289103,39.762614,-86.289103,39.762614",
     "geom:latitude":39.762614,
     "geom:longitude":-86.289103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 S Girls School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4egtSuh7GWWJDI2Y40lGjv_39.762614_-86.289103@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592090,
-    "wof:geomhash":"907e9fdf9b4767161c0d30180cfd4b78",
+    "wof:geomhash":"48a5da580e832da2772e6a6717abab3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789971197,
-    "wof:lastmodified":1466509415,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85828271,
     "wof:placetype":"venue",

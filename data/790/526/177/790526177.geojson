@@ -2,9 +2,14 @@
   "id": 790526177,
   "type": "Feature",
   "properties": {
+    "addr:full":"595 Queenswood Rd Valparaiso IN 46385",
+    "addr:housenumber":"595",
+    "addr:postcode":"46385",
+    "addr:street":"Queenswood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.084291,41.518236,-87.084291,41.518236",
     "geom:latitude":41.518236,
     "geom:longitude":-87.084291,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F7cyC9hSHKk4UReksMwcR_41.518236_-87.084291@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596592,
     "wof:geomhash":"bee546fc2e784e3ea636f5ffe54fdfcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790526177
+        }
+    ],
     "wof:id":790526177,
-    "wof:lastmodified":1466513154,
+    "wof:lastmodified":1492097511,
     "wof:name":"Crossroads Marketing",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

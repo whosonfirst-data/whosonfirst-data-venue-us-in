@@ -2,9 +2,14 @@
   "id": 320166795,
   "type": "Feature",
   "properties": {
+    "addr:full":"4219 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4219",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360473,41.541518,-87.360473,41.541518",
     "geom:latitude":41.541518,
     "geom:longitude":-87.360473,
@@ -26,7 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +41,15 @@
     "wof:geomhash":"b75dfec515a6fc8b7dfb65c84a608025",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519685,
             "venue_id":320166795
         }
     ],
     "wof:id":320166795,
-    "wof:lastmodified":1466503741,
+    "wof:lastmodified":1492100591,
     "wof:name":"Parent Information Dist Ctr I",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 773462185,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 W Bradford Dr Muncie IN 47304",
+    "addr:housenumber":"4800",
+    "addr:postcode":"47304",
+    "addr:street":"W Bradford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.441747,40.212845,-85.441747,40.212845",
     "geom:latitude":40.212845,
     "geom:longitude":-85.441747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4800 W Bradford Dr",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gzdSr6g8sMQakSell7XXt_40.212845_-85.441747@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585932,
-    "wof:geomhash":"a45104ca70763bace5fd2e084a14db15",
+    "wof:geomhash":"ebd6953b07517602c542b12cfc802fc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773462185,
-    "wof:lastmodified":1466512474,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

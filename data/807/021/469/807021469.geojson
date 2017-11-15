@@ -2,9 +2,14 @@
   "id": 807021469,
   "type": "Feature",
   "properties": {
+    "addr:full":"14785 W 101st Ave Dyer IN 46311",
+    "addr:housenumber":"14785",
+    "addr:postcode":"46311",
+    "addr:street":"W 101St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.514332,41.435484,-87.514332,41.435484",
     "geom:latitude":41.435484,
     "geom:longitude":-87.514332,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.dracoacademy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ODqMGjqSO2l17QbPUQbvj_41.435484_-87.514332@1303262769"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462603050,
     "wof:geomhash":"fa2f77245ce7f124f516344d6f27c2a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":807021469
+        }
+    ],
     "wof:id":807021469,
-    "wof:lastmodified":1466504090,
+    "wof:lastmodified":1492087997,
     "wof:name":"Draco Academy of Martial Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

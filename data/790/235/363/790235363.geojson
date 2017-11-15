@@ -2,9 +2,14 @@
   "id": 790235363,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 S Lincoln St Morocco IN 47963",
+    "addr:housenumber":"506",
+    "addr:postcode":"47963",
+    "addr:street":"S Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.451916,40.941861,-87.451916,40.941861",
     "geom:latitude":40.941861,
     "geom:longitude":-87.451916,
@@ -24,7 +29,14 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vgT3k5T2tcmf0asuT8D5m_40.941861_-87.451916@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462594212,
     "wof:geomhash":"53bf0629e91545e1e244760f6f8c7b2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":790235363
+        }
+    ],
     "wof:id":790235363,
-    "wof:lastmodified":1466506269,
+    "wof:lastmodified":1492105045,
     "wof:name":"James Tree and Painting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

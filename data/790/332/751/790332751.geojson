@@ -2,14 +2,20 @@
   "id": 790332751,
   "type": "Feature",
   "properties": {
+    "addr:full":"3930 179th St Hammond IN 46323",
+    "addr:housenumber":"3930",
+    "addr:postcode":"46323",
+    "addr:street":"179Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.436918,41.570241,-87.436918,41.570241",
     "geom:latitude":41.570241,
     "geom:longitude":-87.436918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3930 179th St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l914I2zhvwpxP423plMrP_41.570241_-87.436918@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595011,
-    "wof:geomhash":"0180e8cea6be5f31a5c0c6353bb983b2",
+    "wof:geomhash":"3147171db4468f5bb8dfd9be28d117e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790332751,
-    "wof:lastmodified":1466507239,
+    "wof:lastmodified":1510602644,
     "wof:name":"Dennys",
     "wof:parent_id":85853495,
     "wof:placetype":"venue",

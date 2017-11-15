@@ -2,14 +2,20 @@
   "id": 789963383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3534 Commerce Dr Warsaw IN 46580",
+    "addr:housenumber":"3534",
+    "addr:postcode":"46580",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.80638,41.233204,-85.80638,41.233204",
     "geom:latitude":41.233204,
     "geom:longitude":-85.80638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3534 Commerce Dr",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SSIhP9uAacFRjGF7LqJRW_41.233204_-85.806380@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592025,
-    "wof:geomhash":"4d8cd49f02f711aadd5d5606767245f2",
+    "wof:geomhash":"d95c1f1dfa1db20bf0159205da334739",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789963383,
-    "wof:lastmodified":1466509615,
+    "wof:lastmodified":1510602072,
     "wof:name":"Staffmark",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773602653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1417 Sagamore Pkwy N Lafayette IN 47904",
+    "addr:housenumber":"1417",
+    "addr:postcode":"47904",
+    "addr:street":"Sagamore Pkwy N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858434,40.427348,-86.858434,40.427348",
     "geom:latitude":40.427348,
     "geom:longitude":-86.858434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1417 Sagamore Pkwy N",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xCl0EhYniBseoOj6iYaqM_40.427348_-86.858434@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586959,
-    "wof:geomhash":"82907a2a3570f6845353af250677be34",
+    "wof:geomhash":"5b59dc49faf9b76d7dd06c349370f32b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773602653,
-    "wof:lastmodified":1466516514,
+    "wof:lastmodified":1510697979,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790078337,
   "type": "Feature",
   "properties": {
+    "addr:full":"13880 W Commerce Rd Daleville IN 47334",
+    "addr:housenumber":"13880",
+    "addr:postcode":"47334",
+    "addr:street":"W Commerce Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.549821,40.113508,-85.549821,40.113508",
     "geom:latitude":40.113508,
     "geom:longitude":-85.549821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13880 W Commerce Rd",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R9RMKS8LMMTJWLjRIg5Vx_40.113508_-85.549821@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592961,
-    "wof:geomhash":"04555cf2614947e42ea6a914b00ff6fc",
+    "wof:geomhash":"3086918a05770cee5f1449327575e9e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790078337,
-    "wof:lastmodified":1466504556,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

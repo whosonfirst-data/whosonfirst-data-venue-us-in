@@ -2,14 +2,20 @@
   "id": 806658757,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 N Kentucky Ave Evansville IN 47725",
+    "addr:housenumber":"8601",
+    "addr:postcode":"47725",
+    "addr:street":"N Kentucky Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.54542,38.05758,-87.54542,38.05758",
     "geom:latitude":38.05758,
     "geom:longitude":-87.54542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8601 N Kentucky Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85824997
     ],
+    "wof:brand_id":1125152305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ePIBOU9zOdZUnZKL6ICAN_38.057580_-87.545420@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599984,
-    "wof:geomhash":"98206b7e8609628a1a0b9616d77d24b2",
+    "wof:geomhash":"6336219c3aa6bc62aaeefbe13d539664",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806658757,
-    "wof:lastmodified":1466509038,
+    "wof:lastmodified":1510696015,
     "wof:name":"Siemens Building Technologies",
     "wof:parent_id":85824997,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790569629,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 S Branson St Marion IN 46953",
+    "addr:housenumber":"415",
+    "addr:postcode":"46953",
+    "addr:street":"S Branson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.657254,40.557066,-85.657254,40.557066",
     "geom:latitude":40.557066,
     "geom:longitude":-85.657254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"415 S Branson St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lGO925yZGFK9dHStkUnkv_40.557066_-85.657254@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596958,
-    "wof:geomhash":"c5c71e3516193d91448315f0d9a212cf",
+    "wof:geomhash":"818fcddf2dd1ed8c3a439ea27fcb388c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790569629,
-    "wof:lastmodified":1466514188,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

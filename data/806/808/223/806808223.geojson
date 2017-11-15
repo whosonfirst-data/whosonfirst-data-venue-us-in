@@ -2,14 +2,20 @@
   "id": 806808223,
   "type": "Feature",
   "properties": {
+    "addr:full":"7560 Old Trails Rd Indianapolis IN 46219",
+    "addr:housenumber":"7560",
+    "addr:postcode":"46219",
+    "addr:street":"Old Trails Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.033221,39.771211,-86.033221,39.771211",
     "geom:latitude":39.771211,
     "geom:longitude":-86.033221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7560 Old Trails Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NeUj5qUseULz9WRpizWXR_39.771211_-86.033221@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601251,
-    "wof:geomhash":"ec5521e1035c6fe004ef188da95ee2e9",
+    "wof:geomhash":"5c1359dd7140bd83442bc5f20bf7cbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806808223,
-    "wof:lastmodified":1466515070,
+    "wof:lastmodified":1510695738,
     "wof:name":"Don Pablo's",
     "wof:parent_id":85870679,
     "wof:placetype":"venue",

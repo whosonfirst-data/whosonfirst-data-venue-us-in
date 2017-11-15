@@ -2,9 +2,14 @@
   "id": 336800055,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Lumber Center Rd Michigan City IN 46360",
+    "addr:housenumber":"200",
+    "addr:postcode":"46360",
+    "addr:street":"Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.824381,41.711811,-86.824381,41.711811",
     "geom:latitude":41.711811,
     "geom:longitude":-86.824381,
@@ -29,10 +34,8 @@
     "sg:website":"www.johnsonbrothers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85941911,
-        102086409
+        420519723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,15 @@
     "wof:geomhash":"a61a94bde54c2041a382b28aea2f3057",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086409,
-            "locality_id":85941911,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519723,
             "venue_id":336800055
         }
     ],
     "wof:id":336800055,
-    "wof:lastmodified":1466503148,
+    "wof:lastmodified":1492088058,
     "wof:name":"Indiana Wholesale Wine Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

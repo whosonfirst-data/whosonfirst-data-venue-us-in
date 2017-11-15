@@ -2,9 +2,14 @@
   "id": 789696393,
   "type": "Feature",
   "properties": {
+    "addr:full":"10466 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"10466;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.722809,41.758745,-86.722809,41.758745",
     "geom:latitude":41.758745,
     "geom:longitude":-86.722809,
@@ -33,7 +38,13 @@
         "novelty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IrshjKLuc4wMNKmQhCFMI_41.758745_-86.722809@1294102998"
@@ -41,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1462589832,
     "wof:geomhash":"31dc73fae204efc9656681bfa1b379b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":789696393
+        }
+    ],
     "wof:id":789696393,
-    "wof:lastmodified":1466505358,
+    "wof:lastmodified":1492102312,
     "wof:name":"Novak Novelty & Fireworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

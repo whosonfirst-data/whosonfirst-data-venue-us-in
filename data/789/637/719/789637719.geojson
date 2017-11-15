@@ -2,9 +2,14 @@
   "id": 789637719,
   "type": "Feature",
   "properties": {
+    "addr:full":"4733 W 45th Ave Gary IN 46408",
+    "addr:housenumber":"4733",
+    "addr:postcode":"46408",
+    "addr:street":"W 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.387244,41.537037,-87.387244,41.537037",
     "geom:latitude":41.537037,
     "geom:longitude":-87.387244,
@@ -27,7 +32,10 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a6YWmGFPS0Me6fvRyjyLe_41.537037_-87.387244@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589358,
     "wof:geomhash":"3bbe0381ea43a179e49090b6cbb103fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789637719
+        }
+    ],
     "wof:id":789637719,
-    "wof:lastmodified":1466504588,
+    "wof:lastmodified":1492094628,
     "wof:name":"Jelenek Produce & Garden Ctr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773041045,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 S East St Crown Point IN 46307",
+    "addr:housenumber":"128",
+    "addr:postcode":"46307",
+    "addr:street":"S East St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363193,41.416722,-87.363193,41.416722",
     "geom:latitude":41.416722,
     "geom:longitude":-87.363193,
@@ -25,13 +30,14 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891105,
+        420519661,
         102191575,
         404500429,
         85633793,
         85941787,
         102087149,
-        85688709
+        85688709,
+        85891105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102087149,
             "localadmin_id":404500429,
             "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":773041045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
             "neighbourhood_id":85891105,
             "region_id":85688709,
             "venue_id":773041045
         }
     ],
     "wof:id":773041045,
-    "wof:lastmodified":1466504201,
+    "wof:lastmodified":1492098291,
     "wof:name":"United States Post Office",
-    "wof:parent_id":85891105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

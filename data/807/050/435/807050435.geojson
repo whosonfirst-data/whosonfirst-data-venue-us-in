@@ -2,9 +2,14 @@
   "id": 807050435,
   "type": "Feature",
   "properties": {
+    "addr:full":"8550 Broadway Merrillville IN 46410",
+    "addr:housenumber":"8550",
+    "addr:postcode":"46410",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336121,41.46302,-87.336121,41.46302",
     "geom:latitude":41.46302,
     "geom:longitude":-87.336121,
@@ -34,7 +39,14 @@
         "cardiovascular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ExiHjKCk1d2Zepo7PYxnE_41.463020_-87.336121@1303262771"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462603291,
     "wof:geomhash":"82eed874970350f4652e23097a8a8807",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "region_id":85688709,
+            "venue_id":807050435
+        }
+    ],
     "wof:id":807050435,
-    "wof:lastmodified":1466504222,
+    "wof:lastmodified":1492093283,
     "wof:name":"Elite Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

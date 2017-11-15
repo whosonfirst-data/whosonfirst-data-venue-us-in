@@ -2,6 +2,10 @@
   "id": 806497381,
   "type": "Feature",
   "properties": {
+    "addr:full":"5573 S 900 W Lafayette IN 47905",
+    "addr:housenumber":"5573;900",
+    "addr:postcode":"47905",
+    "addr:street":"S;W Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806497381,
-    "wof:lastmodified":1466505870,
+    "wof:lastmodified":1472622512,
     "wof:name":"Archer Plumbing",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

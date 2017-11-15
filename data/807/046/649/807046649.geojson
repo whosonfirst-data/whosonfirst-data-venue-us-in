@@ -2,9 +2,14 @@
   "id": 807046649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Woodmere Dr Valparaiso IN 46383",
+    "addr:housenumber":"1805",
+    "addr:postcode":"46383",
+    "addr:street":"Woodmere Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.037552,41.514999,-87.037552,41.514999",
     "geom:latitude":41.514999,
     "geom:longitude":-87.037552,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CvwY5weGJhw6oFWE2s8tc_41.514999_-87.037552@1303262771"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603263,
     "wof:geomhash":"5001c56115603df7b8bd096c233f5ce1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":807046649
+        }
+    ],
     "wof:id":807046649,
-    "wof:lastmodified":1466504070,
+    "wof:lastmodified":1492100625,
     "wof:name":"Floral Artistry",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

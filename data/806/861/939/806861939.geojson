@@ -2,14 +2,20 @@
   "id": 806861939,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 Keystone Way Carmel IN 46032",
+    "addr:housenumber":"1436",
+    "addr:postcode":"46032",
+    "addr:street":"Keystone Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.118301,39.958401,-86.118301,39.958401",
     "geom:latitude":39.958401,
     "geom:longitude":-86.118301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1436 Keystone Way",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125156713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MvTvi9nc3DjjAY3HBItxY_39.958401_-86.118301@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601705,
-    "wof:geomhash":"02cac7059221493b0546432cc97506e7",
+    "wof:geomhash":"bb7234a2778699c32f2fca143fe3dc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806861939,
-    "wof:lastmodified":1466516614,
+    "wof:lastmodified":1510604937,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":420519611,
     "wof:placetype":"venue",

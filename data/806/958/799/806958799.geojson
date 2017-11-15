@@ -2,14 +2,20 @@
   "id": 806958799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Keystone at the Crossing 8702 Keystone Crossing #119 Indianapolis IN 46240",
+    "addr:housenumber":"",
+    "addr:postcode":"8702;46240",
+    "addr:street":"Keystone Crossing # 119",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.10962,39.913437,-86.10962,39.913437",
     "geom:latitude":39.913437,
     "geom:longitude":-86.10962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Keystone at the Crossing 8702 Keystone Crossing #119",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155267,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u5hlFlA0rBbZ3sTxQYTx9_39.913437_-86.109620@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602516,
-    "wof:geomhash":"56e585b7125478483699aa1dd05e6fb1",
+    "wof:geomhash":"f83f70640a431cbbcbcc87541d3cb062",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806958799,
-    "wof:lastmodified":1466518626,
+    "wof:lastmodified":1510699739,
     "wof:name":"L'Occitane",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

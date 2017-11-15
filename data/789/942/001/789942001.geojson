@@ -2,9 +2,14 @@
   "id": 789942001,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Burlington Beach Rd Valparaiso IN 46383",
+    "addr:housenumber":"200",
+    "addr:postcode":"46383",
+    "addr:street":"Burlington Beach Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.059537,41.507163,-87.059537,41.507163",
     "geom:latitude":41.507163,
     "geom:longitude":-87.059537,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W7hXifJ8v7X0f0jOJ5f8a_41.507163_-87.059537@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462591802,
     "wof:geomhash":"62aaa3b49abe88892ea66e99008957e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":789942001
+        }
+    ],
     "wof:id":789942001,
-    "wof:lastmodified":1466508119,
+    "wof:lastmodified":1492104017,
     "wof:name":"Michael Flannery",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

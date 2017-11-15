@@ -2,14 +2,20 @@
   "id": 789825925,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 E Pettit Ave Fort Wayne IN 46806",
+    "addr:housenumber":"334",
+    "addr:postcode":"46806",
+    "addr:street":"E Pettit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.131716,41.038683,-85.131716,41.038683",
     "geom:latitude":41.038683,
     "geom:longitude":-85.131716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"334 E Pettit Ave",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20SPIFJ3R5XXKSuKN6nQyy_41.038683_-85.131716@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590838,
-    "wof:geomhash":"4f0b34d3483f764acfb6618a3437be0c",
+    "wof:geomhash":"8657ab07513f195d9b60f32bb8fa24b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789825925,
-    "wof:lastmodified":1466506666,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":420519423,
     "wof:placetype":"venue",

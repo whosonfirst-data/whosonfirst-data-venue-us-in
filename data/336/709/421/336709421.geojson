@@ -2,14 +2,20 @@
   "id": 336709421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N State Rd 135 Greenwood IN 46142",
+    "addr:housenumber":"1001;135",
+    "addr:postcode":"46142",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158305,39.630725,-86.158305,39.630725",
     "geom:latitude":39.630725,
     "geom:longitude":-86.158305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 N State Rd 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086239,
         85826767
     ],
+    "wof:brand_id":1125151987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NrrPgLwWoSvbObhby27GQ_39.630725_-86.158305@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"8be97a1656a70fc2b81eee4af2f7fed5",
+    "wof:geomhash":"b1eef833ecd00b7b1381eb2ad2106ab0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":336709421,
-    "wof:lastmodified":1466503025,
+    "wof:lastmodified":1510700133,
     "wof:name":"Foot Solutions",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

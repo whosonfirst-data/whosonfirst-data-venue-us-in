@@ -2,9 +2,14 @@
   "id": 789882925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4622 N 525 W Laporte IN 46350",
+    "addr:housenumber":"4622",
+    "addr:postcode":"46350",
+    "addr:street":"N 525 W Laporte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802181,41.677953,-86.802181,41.677953",
     "geom:latitude":41.677953,
     "geom:longitude":-86.802181,
@@ -27,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yA5q57furwyWFmgeMfJ1F_41.677953_-86.802181@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591316,
     "wof:geomhash":"3462edd932eeb1849c31d6ab015cfb60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789882925
+        }
+    ],
     "wof:id":789882925,
-    "wof:lastmodified":1466507266,
+    "wof:lastmodified":1492097418,
     "wof:name":"RGS Mill Products",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

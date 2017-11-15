@@ -2,9 +2,14 @@
   "id": 773018493,
   "type": "Feature",
   "properties": {
+    "addr:full":"16747 W 200 N Medaryville IN 47957",
+    "addr:housenumber":"16747",
+    "addr:postcode":"47957",
+    "addr:street":"W 200 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.928665,41.085439,-86.928665,41.085439",
     "geom:latitude":41.085439,
     "geom:longitude":-86.928665,
@@ -27,7 +32,13 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13lMiXmdCUR8m1a6wMEW9o_41.085439_-86.928665@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462582443,
     "wof:geomhash":"326c11ed95f8d2c63023c10ffb852c59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":773018493
+        }
+    ],
     "wof:id":773018493,
-    "wof:lastmodified":1466503931,
+    "wof:lastmodified":1492091653,
     "wof:name":"Blooming Idiots Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

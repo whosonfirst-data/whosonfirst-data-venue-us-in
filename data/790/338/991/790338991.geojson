@@ -2,14 +2,20 @@
   "id": 790338991,
   "type": "Feature",
   "properties": {
+    "addr:full":"5451 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5451",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.071175,39.905113,-86.071175,39.905113",
     "geom:latitude":39.905113,
     "geom:longitude":-86.071175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5451 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Mse3hy6v4Kybx3OeZZct_39.905113_-86.071175@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595053,
-    "wof:geomhash":"6625e7ded90b0d57af4d19ab06660f3e",
+    "wof:geomhash":"c365badb3cac1d4f0d2be3aa97aafdbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790338991,
-    "wof:lastmodified":1466507236,
+    "wof:lastmodified":1510709689,
     "wof:name":"Star Cleaners",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",

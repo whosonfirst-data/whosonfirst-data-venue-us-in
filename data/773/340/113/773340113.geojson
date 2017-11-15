@@ -2,14 +2,20 @@
   "id": 773340113,
   "type": "Feature",
   "properties": {
+    "addr:full":"4726 Tirol Pass Fort Wayne IN 46835",
+    "addr:housenumber":"",
+    "addr:postcode":"4726;46835",
+    "addr:street":"Pass",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.085059,41.12311,-85.085059,41.12311",
     "geom:latitude":41.12311,
     "geom:longitude":-85.085059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4726 Tirol Pass",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rcpKoc1OFf2jld4KEQhJK_41.123110_-85.085059@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584982,
-    "wof:geomhash":"95e078c6e34acf44f72b79ee4fc0c244",
+    "wof:geomhash":"9d6f5e5905480c75f66350f58213dd83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773340113,
-    "wof:lastmodified":1466507794,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85851467,
     "wof:placetype":"venue",

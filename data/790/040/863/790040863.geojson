@@ -2,14 +2,20 @@
   "id": 790040863,
   "type": "Feature",
   "properties": {
+    "addr:full":"7340 Main St NE Lanesville IN 47136",
+    "addr:housenumber":"7340",
+    "addr:postcode":"47136",
+    "addr:street":"Main St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.985671,38.23772,-85.985671,38.23772",
     "geom:latitude":38.23772,
     "geom:longitude":-85.985671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7340 Main St NE",
     "sg:city":"Lanesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125151883,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P670O6cpIJa6XLgXsh2Rz_38.237720_-85.985671@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592651,
-    "wof:geomhash":"20e7d5ba00441b016a48faeb00404b89",
+    "wof:geomhash":"84713fe58816c5f2cb183334fffc50aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790040863,
-    "wof:lastmodified":1466504337,
+    "wof:lastmodified":1510613118,
     "wof:name":"Farmers State Bank",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

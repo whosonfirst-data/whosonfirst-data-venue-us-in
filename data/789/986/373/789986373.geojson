@@ -2,9 +2,14 @@
   "id": 789986373,
   "type": "Feature",
   "properties": {
+    "addr:full":"4666 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"4666",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790855,41.691016,-86.790855,41.691016",
     "geom:latitude":41.691016,
     "geom:longitude":-86.790855,
@@ -24,7 +29,10 @@
     "sg:postcode":"46350",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SCB2TPcfN5UgrILBhU06O_41.691016_-86.790855@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592220,
     "wof:geomhash":"0213e5d30a49dc52a602d2f0b3f1b697",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789986373
+        }
+    ],
     "wof:id":789986373,
-    "wof:lastmodified":1466510156,
+    "wof:lastmodified":1492091484,
     "wof:name":"East Side Fresh Meat & Produce",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

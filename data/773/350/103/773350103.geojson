@@ -2,14 +2,20 @@
   "id": 773350103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2668 25th St Columbus IN 47201",
+    "addr:housenumber":"2668",
+    "addr:postcode":"47201",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.891505,39.223198,-85.891505,39.223198",
     "geom:latitude":39.223198,
     "geom:longitude":-85.891505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2668 25th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":420575455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fP2mtQjc00o9CSRscyqkD_39.223198_-85.891505@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585047,
-    "wof:geomhash":"1d3550ed4a1e568574a9510592faff7e",
+    "wof:geomhash":"3ef1d109b4b7cbf521e90cad1e23f1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773350103,
-    "wof:lastmodified":1466508027,
+    "wof:lastmodified":1510602424,
     "wof:name":"Sam Goody",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

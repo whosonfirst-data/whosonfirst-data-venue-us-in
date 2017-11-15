@@ -2,14 +2,20 @@
   "id": 789630413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Oakwoods Ln Westfield IN 46074",
+    "addr:housenumber":"2110",
+    "addr:postcode":"46074",
+    "addr:street":"Oakwoods Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.118315,40.024514,-86.118315,40.024514",
     "geom:latitude":40.024514,
     "geom:longitude":-86.118315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2110 Oakwoods Ln",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28T9SRKX01dKVOMvPO8YuK_40.024514_-86.118315@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589297,
-    "wof:geomhash":"a0c5939d93ea1a4f80a34393344a007e",
+    "wof:geomhash":"dd2375d101c2e0071444599ec5ff38b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789630413,
-    "wof:lastmodified":1466504687,
+    "wof:lastmodified":1510613155,
     "wof:name":"Creative Solutions",
     "wof:parent_id":420519499,
     "wof:placetype":"venue",

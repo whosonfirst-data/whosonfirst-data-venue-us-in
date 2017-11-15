@@ -2,9 +2,14 @@
   "id": 790245741,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 E US Hwy 6 Valparaiso IN 46383",
+    "addr:housenumber":"76",
+    "addr:postcode":"46383",
+    "addr:street":"E Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.050994,41.549966,-87.050994,41.549966",
     "geom:latitude":41.549966,
     "geom:longitude":-87.050994,
@@ -27,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WgMSTWDE5wV55u8574fKQ_41.549966_-87.050994@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594292,
     "wof:geomhash":"4b6f2f653b71cee58b15b278787270b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790245741
+        }
+    ],
     "wof:id":790245741,
-    "wof:lastmodified":1466506411,
+    "wof:lastmodified":1492100975,
     "wof:name":"JD Consulting",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

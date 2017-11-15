@@ -2,6 +2,10 @@
   "id": 789641237,
   "type": "Feature",
   "properties": {
+    "addr:full":"352 S 700 W Hebron IN 46341",
+    "addr:housenumber":"352;700",
+    "addr:postcode":"46341",
+    "addr:street":"S;W Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789641237,
-    "wof:lastmodified":1466504646,
+    "wof:lastmodified":1472622477,
     "wof:name":"Hebron Plumbing & Heating",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

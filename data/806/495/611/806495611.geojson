@@ -2,14 +2,20 @@
   "id": 806495611,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 W 30th St Connersville IN 47331",
+    "addr:housenumber":"112",
+    "addr:postcode":"47331",
+    "addr:street":"W 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.129595,39.671675,-85.129595,39.671675",
     "geom:latitude":39.671675,
     "geom:longitude":-85.129595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 W 30th St",
     "sg:city":"Connersville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826399,
         102086457
     ],
+    "wof:brand_id":1125151769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q6J5C2cmFa6KJ5EX4TCuG_39.671675_-85.129595@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598591,
-    "wof:geomhash":"c00fae1499a69c3dcd35f2e471ee5fe6",
+    "wof:geomhash":"2555bbebfc5db86059e061942641aab9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806495611,
-    "wof:lastmodified":1466505992,
+    "wof:lastmodified":1510693699,
     "wof:name":"Cellular Connection",
     "wof:parent_id":85826399,
     "wof:placetype":"venue",

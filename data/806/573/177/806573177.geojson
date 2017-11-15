@@ -2,9 +2,14 @@
   "id": 806573177,
   "type": "Feature",
   "properties": {
+    "addr:full":"4323 Wabash Ave Hammond IN 46327",
+    "addr:housenumber":"4323",
+    "addr:postcode":"46327",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.519691,41.635431,-87.519691,41.635431",
     "geom:latitude":41.635431,
     "geom:longitude":-87.519691,
@@ -27,7 +32,14 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bF3W5LCg21re61DiVKsDt_41.635431_-87.519691@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462599258,
     "wof:geomhash":"e9323eb66781fa29f27cc20590061d81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":806573177
+        }
+    ],
     "wof:id":806573177,
-    "wof:lastmodified":1466507039,
+    "wof:lastmodified":1492102216,
     "wof:name":"Greater Hammond Homing Pigeon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

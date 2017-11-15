@@ -2,9 +2,14 @@
   "id": 790116573,
   "type": "Feature",
   "properties": {
+    "addr:full":"4325 Broadway Gary IN 46409",
+    "addr:housenumber":"4325",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336234,41.53901,-87.336234,41.53901",
     "geom:latitude":41.53901,
     "geom:longitude":-87.336234,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cEYI4rU0IS2BmYSo77upq_41.539010_-87.336234@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462593263,
     "wof:geomhash":"600e373159b1f1ac9a404355294957d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790116573
+        }
+    ],
     "wof:id":790116573,
-    "wof:lastmodified":1466504933,
+    "wof:lastmodified":1492091728,
     "wof:name":"Gates Grooming Parlor",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

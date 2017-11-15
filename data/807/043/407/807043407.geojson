@@ -2,9 +2,14 @@
   "id": 807043407,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"201",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.427706,41.289763,-87.427706,41.289763",
     "geom:latitude":41.289763,
     "geom:longitude":-87.427706,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.tishsantiques.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O5wUfsR0RKc1tfp53leZT_41.289763_-87.427706@1303262771"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462603239,
     "wof:geomhash":"b5a334b50da5bbe7288d211c9b3e409b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807043407
+        }
+    ],
     "wof:id":807043407,
-    "wof:lastmodified":1466503950,
+    "wof:lastmodified":1492093708,
     "wof:name":"Tish's Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

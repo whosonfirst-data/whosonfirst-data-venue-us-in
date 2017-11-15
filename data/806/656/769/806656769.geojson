@@ -2,14 +2,20 @@
   "id": 806656769,
   "type": "Feature",
   "properties": {
+    "addr:full":"5318 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"5318",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.253622,39.823926,-86.253622,39.823926",
     "geom:latitude":39.823926,
     "geom:longitude":-86.253622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5318 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EoH6Z6COiqaHtc4LyvjeB_39.823926_-86.253622@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599968,
-    "wof:geomhash":"01ece80ddf32b3bfdc329e754ea99365",
+    "wof:geomhash":"d706808c86a2e38010ceb183c83b7155",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806656769,
-    "wof:lastmodified":1466508708,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806835045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Washington Ave Evansville IN 47714",
+    "addr:housenumber":"2007",
+    "addr:postcode":"47714",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.529058,37.962393,-87.529058,37.962393",
     "geom:latitude":37.962393,
     "geom:longitude":-87.529058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2007 Washington Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125157721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53gfo7xTkpwBeyyULQgQ6W_37.962393_-87.529058@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601468,
-    "wof:geomhash":"3ad70779fce9cfae6b8ec57bf94b8496",
+    "wof:geomhash":"850fabd11cb50a30b61057b303128eed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806835045,
-    "wof:lastmodified":1466515930,
+    "wof:lastmodified":1510699453,
     "wof:name":"Steak-Out",
     "wof:parent_id":85877301,
     "wof:placetype":"venue",

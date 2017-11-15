@@ -2,14 +2,20 @@
   "id": 806883565,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 N Green St Brownsburg IN 46112",
+    "addr:housenumber":"31",
+    "addr:postcode":"46112",
+    "addr:street":"N Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.397761,39.84371,-86.397761,39.84371",
     "geom:latitude":39.84371,
     "geom:longitude":-86.397761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31 N Green St",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125151571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qhlDzrgPLWYLykEEJ105p_39.843710_-86.397761@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601882,
-    "wof:geomhash":"d766ce56b7285942dd8f75380a843736",
+    "wof:geomhash":"f5a1beba6f3ef9b810fe6c7cdb933f00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":806883565,
-    "wof:lastmodified":1466516961,
+    "wof:lastmodified":1510697606,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

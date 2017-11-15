@@ -2,9 +2,14 @@
   "id": 806795605,
   "type": "Feature",
   "properties": {
+    "addr:full":"3355 E 900 N Hamlet IN 46532",
+    "addr:housenumber":"3355",
+    "addr:postcode":"46532",
+    "addr:street":"E 900 N Hamlet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633877,41.432581,-86.633877,41.432581",
     "geom:latitude":41.432581,
     "geom:longitude":-86.633877,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501489,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cQvad2OhOKwXiTQtgeGGq_41.432581_-86.633877@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462601147,
     "wof:geomhash":"83737c5cca63bed8918e86e9736793a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501489,
+            "region_id":85688709,
+            "venue_id":806795605
+        }
+    ],
     "wof:id":806795605,
-    "wof:lastmodified":1466514768,
+    "wof:lastmodified":1492091321,
     "wof:name":"Steve Toth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807043393,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 W Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"888",
+    "addr:postcode":"46356",
+    "addr:street":"W Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.439598,41.290001,-87.439598,41.290001",
     "geom:latitude":41.290001,
     "geom:longitude":-87.439598,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GJipJ3u2rKZ1X4CwGhjbE_41.290001_-87.439598@1303262771"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603239,
     "wof:geomhash":"fc89861f93632f31b2d0ce388d4125b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807043393
+        }
+    ],
     "wof:id":807043393,
-    "wof:lastmodified":1466503949,
+    "wof:lastmodified":1492093708,
     "wof:name":"Casey's Carry-Out Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

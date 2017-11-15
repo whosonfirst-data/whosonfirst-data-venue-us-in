@@ -2,6 +2,10 @@
   "id": 789770721,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 E Leslie Ave West Lafayette IN 47906",
+    "addr:housenumber":"321",
+    "addr:postcode":"47906",
+    "addr:street":"E Leslie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789770721,
-    "wof:lastmodified":1466506078,
+    "wof:lastmodified":1472622617,
     "wof:name":"M Corp",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

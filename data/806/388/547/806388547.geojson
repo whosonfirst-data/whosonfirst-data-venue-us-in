@@ -2,9 +2,14 @@
   "id": 806388547,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 E John St Knox IN 46534",
+    "addr:housenumber":"705",
+    "addr:postcode":"46534",
+    "addr:street":"E John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.615132,41.295364,-86.615132,41.295364",
     "geom:latitude":41.295364,
     "geom:longitude":-86.615132,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        85941553,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j6q8wKye3rDEtKv2JxZvr_41.295364_-86.615132@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462597742,
     "wof:geomhash":"f5755f90314ce7af7d7375303a461d8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "locality_id":85941553,
+            "region_id":85688709,
+            "venue_id":806388547
+        }
+    ],
     "wof:id":806388547,
-    "wof:lastmodified":1466504374,
+    "wof:lastmodified":1492090734,
     "wof:name":"Combs Septic Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807028975,
   "type": "Feature",
   "properties": {
+    "addr:full":"8230 Calumet Ave Munster IN 46321",
+    "addr:housenumber":"8230",
+    "addr:postcode":"46321",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.509003,41.564098,-87.509003,41.564098",
     "geom:latitude":41.564098,
     "geom:longitude":-87.509003,
@@ -24,7 +29,14 @@
     "sg:postcode":"46321",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yAZ4W4YKw6CekB5VcWH3b_41.564098_-87.509003@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603116,
     "wof:geomhash":"34ea07d514e61d6a795fd3d38d28d432",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":807028975
+        }
+    ],
     "wof:id":807028975,
-    "wof:lastmodified":1466504171,
+    "wof:lastmodified":1492097615,
     "wof:name":"Patel Rashmi MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

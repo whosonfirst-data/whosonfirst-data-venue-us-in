@@ -2,9 +2,14 @@
   "id": 806551957,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 S 200 W Valparaiso IN 46385",
+    "addr:housenumber":"177;200",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104291,41.407254,-87.104291,41.407254",
     "geom:latitude":41.407254,
     "geom:longitude":-87.104291,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xaaVO8uEJVqCe6z1SsWOS_41.407254_-87.104291@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462599049,
     "wof:geomhash":"c04e2597e1eeb8d1337adc8fe3ea6c48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806551957
+        }
+    ],
     "wof:id":806551957,
-    "wof:lastmodified":1466506625,
+    "wof:lastmodified":1492101017,
     "wof:name":"Select Inspections System",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

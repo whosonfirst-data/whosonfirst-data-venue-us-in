@@ -2,6 +2,10 @@
   "id": 387202423,
   "type": "Feature",
   "properties": {
+    "addr:full":"11125 S State Rd 61 Spurgeon IN 47660",
+    "addr:housenumber":"11125;61",
+    "addr:postcode":"spurgeon;47660",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387202423,
-    "wof:lastmodified":1466503170,
+    "wof:lastmodified":1472622462,
     "wof:name":"Spurgeon Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

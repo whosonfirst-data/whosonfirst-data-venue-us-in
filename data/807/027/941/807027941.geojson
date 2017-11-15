@@ -2,9 +2,14 @@
   "id": 807027941,
   "type": "Feature",
   "properties": {
+    "addr:full":"5920 S Hohman Ave Hammond IN 46320",
+    "addr:housenumber":"5920",
+    "addr:postcode":"46320",
+    "addr:street":"S Hohman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.522102,41.606201,-87.522102,41.606201",
     "geom:latitude":41.606201,
     "geom:longitude":-87.522102,
@@ -24,7 +29,14 @@
     "sg:postcode":"46320",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iXMC6s9CZBpRpVHNW1vwT_41.606201_-87.522102@1303262770"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603107,
     "wof:geomhash":"fc8796a99997d74190329d622541f803",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807027941
+        }
+    ],
     "wof:id":807027941,
-    "wof:lastmodified":1466504152,
+    "wof:lastmodified":1492090491,
     "wof:name":"Nye Randall J Lwyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

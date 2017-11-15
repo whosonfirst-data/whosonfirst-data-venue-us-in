@@ -2,14 +2,20 @@
   "id": 789749245,
   "type": "Feature",
   "properties": {
+    "addr:full":"8113 US Hwy 36 Avon IN 46123",
+    "addr:housenumber":"8113",
+    "addr:postcode":"46123",
+    "addr:street":"Us Hwy 36",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.390219,39.76275,-86.390219,39.76275",
     "geom:latitude":39.76275,
     "geom:longitude":-86.390219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8113 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125150943,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AzwpCHsV9pbvCBZYrzvED_39.762750_-86.390219@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590248,
-    "wof:geomhash":"9e06520a140ff7de1fef44811a2815fa",
+    "wof:geomhash":"9184d4f9513a8ec405b119079d58d855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789749245,
-    "wof:lastmodified":1466506086,
+    "wof:lastmodified":1510693717,
     "wof:name":"Great Clips For Hair",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

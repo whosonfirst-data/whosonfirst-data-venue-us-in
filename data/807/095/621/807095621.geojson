@@ -2,9 +2,14 @@
   "id": 807095621,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 W Mill St Goodland IN 47948",
+    "addr:housenumber":"315",
+    "addr:postcode":"47948",
+    "addr:street":"W Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.298859,40.7607,-87.298859,40.7607",
     "geom:latitude":40.7607,
     "geom:longitude":-87.298859,
@@ -29,7 +34,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tQ2VxW8dIcB0e8Y4jwJJf_40.760700_-87.298859@1303262773"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462603671,
     "wof:geomhash":"a2097fe22f7b60e27213aa15d4361e26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":807095621
+        }
+    ],
     "wof:id":807095621,
-    "wof:lastmodified":1466505173,
+    "wof:lastmodified":1492093011,
     "wof:name":"Laffoon Heating Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

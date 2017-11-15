@@ -2,9 +2,14 @@
   "id": 790532591,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"310",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.126485,41.550157,-87.126485,41.550157",
     "geom:latitude":41.550157,
     "geom:longitude":-87.126485,
@@ -28,7 +33,10 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EtFPBABXDjRZKwh9CuF9T_41.550157_-87.126485@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596642,
     "wof:geomhash":"c4e3015b4beba884517e7fe46620b14d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790532591
+        }
+    ],
     "wof:id":790532591,
-    "wof:lastmodified":1466512930,
+    "wof:lastmodified":1492092141,
     "wof:name":"Dynamic Security Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

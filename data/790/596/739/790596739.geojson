@@ -2,9 +2,14 @@
   "id": 790596739,
   "type": "Feature",
   "properties": {
+    "addr:full":"5560 Johnson St Merrillville IN 46410",
+    "addr:housenumber":"5560",
+    "addr:postcode":"46410",
+    "addr:street":"Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.353804,41.517086,-87.353804,41.517086",
     "geom:latitude":41.517086,
     "geom:longitude":-87.353804,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4udjCszSVhEqQ15dBQxpiW_41.517086_-87.353804@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462597183,
     "wof:geomhash":"0843abfba05420bd2cf887f11373468c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790596739
+        }
+    ],
     "wof:id":790596739,
-    "wof:lastmodified":1466515219,
+    "wof:lastmodified":1492091784,
     "wof:name":"Philnite Concepts Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

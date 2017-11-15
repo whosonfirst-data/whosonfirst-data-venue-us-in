@@ -2,9 +2,14 @@
   "id": 789641013,
   "type": "Feature",
   "properties": {
+    "addr:full":"671 E 45th Ave Gary IN 46409",
+    "addr:housenumber":"671",
+    "addr:postcode":"46409",
+    "addr:street":"E 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.328461,41.536609,-87.328461,41.536609",
     "geom:latitude":41.536609,
     "geom:longitude":-87.328461,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P8ljk9ecXH9HQ3YZQRwy4_41.536609_-87.328461@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589382,
     "wof:geomhash":"1f0cddcff8181cccb0a2db8b71c9b0fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789641013
+        }
+    ],
     "wof:id":789641013,
-    "wof:lastmodified":1466504640,
+    "wof:lastmodified":1492103215,
     "wof:name":"True Light Fellowship Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

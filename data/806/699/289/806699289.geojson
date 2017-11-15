@@ -2,6 +2,10 @@
   "id": 806699289,
   "type": "Feature",
   "properties": {
+    "addr:full":"58345 State Rd 19 Elkhart IN 46517",
+    "addr:housenumber":"58345;19",
+    "addr:postcode":"46517",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806699289,
-    "wof:lastmodified":1466511020,
+    "wof:lastmodified":1472622794,
     "wof:name":"Star Fleet Inc",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

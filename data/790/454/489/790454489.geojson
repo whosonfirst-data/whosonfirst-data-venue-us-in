@@ -2,6 +2,10 @@
   "id": 790454489,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 W Co Rd 500 S Clayton IN 46118",
+    "addr:housenumber":"278;500",
+    "addr:postcode":"46118",
+    "addr:street":"W Co Rd;S Clayton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790454489,
-    "wof:lastmodified":1466509748,
+    "wof:lastmodified":1472622871,
     "wof:name":"Murrain Excavating Svc",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

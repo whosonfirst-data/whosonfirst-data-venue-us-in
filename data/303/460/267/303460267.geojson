@@ -2,9 +2,14 @@
   "id": 303460267,
   "type": "Feature",
   "properties": {
+    "addr:full":"8900 Keystone Xing Indianapolis IN 46240",
+    "addr:housenumber":"8900",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109517,39.917584,-86.109517,39.917584",
     "geom:latitude":39.917584,
     "geom:longitude":-86.109517,
@@ -30,11 +35,13 @@
     "sg:website":"www.wallingtonasset.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870669,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870669
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"6737b0a67a7db1ed3b2ca8322b954529",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870669,
             "region_id":85688709,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":303460267,
-    "wof:lastmodified":1466503692,
+    "wof:lastmodified":1491885484,
     "wof:name":"Wallington Asset Management",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790592529,
   "type": "Feature",
   "properties": {
+    "addr:full":"5519 Coldwater Rd Fort Wayne IN 46825",
+    "addr:housenumber":"5519",
+    "addr:postcode":"46825",
+    "addr:street":"Coldwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.135914,41.129236,-85.135914,41.129236",
     "geom:latitude":41.129236,
     "geom:longitude":-85.135914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5519 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n80bQAvrQd6RUBQQ06YYM_41.129236_-85.135914@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597148,
-    "wof:geomhash":"af4edd0e78466dd3bd06e3e8c6636542",
+    "wof:geomhash":"cc40cab2dcca4aa284f585b4dfac39d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790592529,
-    "wof:lastmodified":1466515147,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

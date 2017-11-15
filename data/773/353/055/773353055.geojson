@@ -2,14 +2,20 @@
   "id": 773353055,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 E Willard St Muncie IN 47302",
+    "addr:housenumber":"302",
+    "addr:postcode":"47302",
+    "addr:street":"E Willard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.384167,40.185658,-85.384167,40.185658",
     "geom:latitude":40.185658,
     "geom:longitude":-85.384167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 E Willard St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rQA9RiNZ9SbXNwQvh8rTT_40.185658_-85.384167@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585072,
-    "wof:geomhash":"8d5cb04fa03f82ff29b8801b6f61476f",
+    "wof:geomhash":"e028997a16abdb55768f030150e6eb15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773353055,
-    "wof:lastmodified":1466508061,
+    "wof:lastmodified":1510697980,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

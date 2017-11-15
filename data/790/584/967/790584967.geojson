@@ -2,9 +2,14 @@
   "id": 790584967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4469 Lincoln St Gary IN 46408",
+    "addr:housenumber":"4469",
+    "addr:postcode":"46408",
+    "addr:street":"Lincoln St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35317,41.538136,-87.35317,41.538136",
     "geom:latitude":41.538136,
     "geom:longitude":-87.35317,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Acv19kdfGgyRmiYU3oMms_41.538136_-87.353170@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462597084,
     "wof:geomhash":"73f3c33bb7c2e2273e71ec3372cc90ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790584967
+        }
+    ],
     "wof:id":790584967,
-    "wof:lastmodified":1466514815,
+    "wof:lastmodified":1492094629,
     "wof:name":"Little People Day Care",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

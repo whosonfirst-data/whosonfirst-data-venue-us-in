@@ -2,9 +2,14 @@
   "id": 790350675,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Van Rensselaer St Rensselaer IN 47978",
+    "addr:housenumber":"301",
+    "addr:postcode":"47978",
+    "addr:street":"N Van Rensselaer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.154028,40.938506,-87.154028,40.938506",
     "geom:latitude":40.938506,
     "geom:longitude":-87.154028,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.jasperfdn.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MX0lVMQGNBC79mH7VO92g_40.938506_-87.154028@1294102998"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462595142,
     "wof:geomhash":"4aa66ca47c16b1709b231b86bc895798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790350675
+        }
+    ],
     "wof:id":790350675,
-    "wof:lastmodified":1466507339,
+    "wof:lastmodified":1492103085,
     "wof:name":"Jasper Foundation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

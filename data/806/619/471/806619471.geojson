@@ -2,9 +2,14 @@
   "id": 806619471,
   "type": "Feature",
   "properties": {
+    "addr:full":"6815 S 600 W North Judson IN 46366",
+    "addr:housenumber":"6815;600",
+    "addr:postcode":"46366",
+    "addr:street":"S;W North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814383,41.203821,-86.814383,41.203821",
     "geom:latitude":41.203821,
     "geom:longitude":-86.814383,
@@ -24,7 +29,13 @@
     "sg:postcode":"46366",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501495,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bEYGBhFA3WkhSzj63wA7f_41.203821_-86.814383@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599648,
     "wof:geomhash":"85e51bc8483779a626d692bdf31e4eb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501495,
+            "region_id":85688709,
+            "venue_id":806619471
+        }
+    ],
     "wof:id":806619471,
-    "wof:lastmodified":1466507660,
+    "wof:lastmodified":1492093704,
     "wof:name":"Starke County Cancer Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

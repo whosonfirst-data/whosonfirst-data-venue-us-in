@@ -2,9 +2,14 @@
   "id": 773616251,
   "type": "Feature",
   "properties": {
+    "addr:full":"3802 Sunset Dr Valparaiso IN 46383",
+    "addr:housenumber":"3802",
+    "addr:postcode":"46383",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.060594,41.503675,-87.060594,41.503675",
     "geom:latitude":41.503675,
     "geom:longitude":-87.060594,
@@ -28,7 +33,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VfKwLMzJDVSW6mHOmjGI2_41.503675_-87.060594@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462587062,
     "wof:geomhash":"7d3ed6647ee573fe398ed66dcc1025aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773616251
+        }
+    ],
     "wof:id":773616251,
-    "wof:lastmodified":1466516393,
+    "wof:lastmodified":1492093692,
     "wof:name":"William C Pugh Assoc Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

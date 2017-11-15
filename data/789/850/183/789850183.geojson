@@ -2,6 +2,10 @@
   "id": 789850183,
   "type": "Feature",
   "properties": {
+    "addr:full":"6080 State Rd 39 Clayton IN 46118",
+    "addr:housenumber":"6080;39",
+    "addr:postcode":"46118",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789850183,
-    "wof:lastmodified":1466507072,
+    "wof:lastmodified":1472622689,
     "wof:name":"Halcomb Plumbing",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

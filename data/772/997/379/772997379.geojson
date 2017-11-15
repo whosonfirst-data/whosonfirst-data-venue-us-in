@@ -2,9 +2,14 @@
   "id": 772997379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 Sheffield Ave Dyer IN 46311",
+    "addr:housenumber":"1330",
+    "addr:postcode":"46311",
+    "addr:street":"Sheffield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.518848,41.507106,-87.518848,41.507106",
     "geom:latitude":41.507106,
     "geom:longitude":-87.518848,
@@ -24,7 +29,14 @@
     "sg:postcode":"46311",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941789,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DSYsnyxKhjeaET8r06Wwd_41.507106_-87.518848@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462582003,
     "wof:geomhash":"1b3e21a5fdd4ec084ecb2ad682dfd70d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941789,
+            "region_id":85688709,
+            "venue_id":772997379
+        }
+    ],
     "wof:id":772997379,
-    "wof:lastmodified":1466503352,
+    "wof:lastmodified":1492098306,
     "wof:name":"Original Pizza Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

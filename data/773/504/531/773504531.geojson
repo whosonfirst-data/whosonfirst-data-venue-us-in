@@ -2,9 +2,14 @@
   "id": 773504531,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Cleveland St Gary IN 46408",
+    "addr:housenumber":"5100",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360424,41.524635,-87.360424,41.524635",
     "geom:latitude":41.524635,
     "geom:longitude":-87.360424,
@@ -27,7 +32,10 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tgeWtFhAMj15xYcxWkupG_41.524635_-87.360424@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586236,
     "wof:geomhash":"784325382cdeb8a84e81ceb27a74e235",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773504531
+        }
+    ],
     "wof:id":773504531,
-    "wof:lastmodified":1466513237,
+    "wof:lastmodified":1492094844,
     "wof:name":"Rendina Funeral Home",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

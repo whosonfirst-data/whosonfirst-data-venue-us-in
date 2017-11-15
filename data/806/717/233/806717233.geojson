@@ -2,9 +2,14 @@
   "id": 806717233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1723 N 2580 East Rd Sheldon IN 60966",
+    "addr:housenumber":"1723;2580",
+    "addr:postcode":"60966",
+    "addr:street":"N;East Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.63667,40.76149,-87.63667,40.76149",
     "geom:latitude":40.76149,
     "geom:longitude":-87.63667,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RLbt7z7R9mSSphIZgnyHN_40.761490_-87.636670@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462600478,
     "wof:geomhash":"7a747a35025b09ca8b1b5339ff0c307b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "region_id":85688697,
+            "venue_id":806717233
+        }
+    ],
     "wof:id":806717233,
-    "wof:lastmodified":1466511567,
+    "wof:lastmodified":1492103013,
     "wof:name":"John M Duis Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

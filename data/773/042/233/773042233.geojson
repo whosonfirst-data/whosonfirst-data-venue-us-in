@@ -2,14 +2,20 @@
   "id": 773042233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 W 6th St Marion IN 46953",
+    "addr:housenumber":"1318",
+    "addr:postcode":"46953",
+    "addr:street":"W 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.675001,40.556088,-85.675001,40.556088",
     "geom:latitude":40.556088,
     "geom:longitude":-85.675001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1318 W 6th St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85828297
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ErsVFxiKVTMxkubMPWBTq_40.556088_-85.675001@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582681,
-    "wof:geomhash":"2427cdcfc4857b040f4604ef66d3a64d",
+    "wof:geomhash":"ad77e52253a4c03639a183cf19d630cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773042233,
-    "wof:lastmodified":1466504236,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",

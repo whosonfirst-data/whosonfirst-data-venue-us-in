@@ -2,9 +2,14 @@
   "id": 773041983,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N Melville St Rensselaer IN 47978",
+    "addr:housenumber":"701",
+    "addr:postcode":"47978",
+    "addr:street":"N Melville St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.141751,40.945668,-87.141751,40.945668",
     "geom:latitude":40.945668,
     "geom:longitude":-87.141751,
@@ -28,7 +33,14 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qREwbSiw34eECkDEMRwT6_40.945668_-87.141751@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462582679,
     "wof:geomhash":"03f4e0f72ef751dd4605deee108671c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":773041983
+        }
+    ],
     "wof:id":773041983,
-    "wof:lastmodified":1466504417,
+    "wof:lastmodified":1492090925,
     "wof:name":"Midwest Warehousing & Dstrbtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

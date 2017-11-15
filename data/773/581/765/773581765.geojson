@@ -2,14 +2,20 @@
   "id": 773581765,
   "type": "Feature",
   "properties": {
+    "addr:full":"9341 Cinnebar Dr Indianapolis IN 46268",
+    "addr:housenumber":"9341",
+    "addr:postcode":"46268",
+    "addr:street":"Cinnebar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.204866,39.92049,-86.204866,39.92049",
     "geom:latitude":39.92049,
     "geom:longitude":-86.204866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9341 Cinnebar Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fMwY6g13JoxBU7gaTisy7_39.920490_-86.204866@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586816,
-    "wof:geomhash":"6356f7735f4819ad0428c3276ab3a123",
+    "wof:geomhash":"cb6c8cd36592c5025c351bf036fff0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773581765,
-    "wof:lastmodified":1466515918,
+    "wof:lastmodified":1510698690,
     "wof:name":"Fuller Brush Co",
     "wof:parent_id":420519775,
     "wof:placetype":"venue",

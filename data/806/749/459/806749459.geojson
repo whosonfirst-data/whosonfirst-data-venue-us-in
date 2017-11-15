@@ -2,9 +2,14 @@
   "id": 806749459,
   "type": "Feature",
   "properties": {
+    "addr:full":"11025 W 108th Ave Saint John IN 46373",
+    "addr:housenumber":"11025",
+    "addr:postcode":"46373",
+    "addr:street":"W 108Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.470299,41.422901,-87.470299,41.422901",
     "geom:latitude":41.422901,
     "geom:longitude":-87.470299,
@@ -30,7 +35,14 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q3CLQKrfDvFDeEc5cGoj7_41.422884_-87.470426@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462600758,
     "wof:geomhash":"6f9b24e1148f997d490d9367efa20551",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":806749459
+        }
+    ],
     "wof:id":806749459,
-    "wof:lastmodified":1466512492,
+    "wof:lastmodified":1492094659,
     "wof:name":"Mortgage USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

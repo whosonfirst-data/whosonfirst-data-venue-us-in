@@ -2,9 +2,14 @@
   "id": 806775737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 N 3200 East Rd Sheldon IN 60966",
+    "addr:housenumber":"1625;3200",
+    "addr:postcode":"60966",
+    "addr:street":"N;East Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.526067,40.763376,-87.526067,40.763376",
     "geom:latitude":40.763376,
     "geom:longitude":-87.526067,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404498209,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ApCF3DBmSFjZbYuVvoaN3_40.763376_-87.526067@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600982,
     "wof:geomhash":"aacbd85e5d373bb1f248b6995f00090e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404498209,
+            "region_id":85688697,
+            "venue_id":806775737
+        }
+    ],
     "wof:id":806775737,
-    "wof:lastmodified":1466514346,
+    "wof:lastmodified":1492092079,
     "wof:name":"Robert Schlotman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789697029,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 N Highway St Brook IN 47922",
+    "addr:housenumber":"400",
+    "addr:postcode":"47922",
+    "addr:street":"N Highway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363706,40.870138,-87.363706,40.870138",
     "geom:latitude":40.870138,
     "geom:longitude":-87.363706,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        85942391,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WelnzEpvkpTJL7fr8YXgw_40.870138_-87.363706@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462589837,
     "wof:geomhash":"c668105b35c6e164317cf2f116f8c01d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "locality_id":85942391,
+            "region_id":85688709,
+            "venue_id":789697029
+        }
+    ],
     "wof:id":789697029,
-    "wof:lastmodified":1466505350,
+    "wof:lastmodified":1492092092,
     "wof:name":"Brook Building & Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

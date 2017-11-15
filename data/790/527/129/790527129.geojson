@@ -2,9 +2,14 @@
   "id": 790527129,
   "type": "Feature",
   "properties": {
+    "addr:full":"4365 N 1400 W Medaryville IN 47957",
+    "addr:housenumber":"4365",
+    "addr:postcode":"47957",
+    "addr:street":"N 1400 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.872214,41.119053,-86.872214,41.119053",
     "geom:latitude":41.119053,
     "geom:longitude":-86.872214,
@@ -27,7 +32,13 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501659,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BBmtW01WQG77nYb7S2qji_41.119053_-86.872214@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462596599,
     "wof:geomhash":"503d45e21468b6a750824f54ab37ed5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501659,
+            "region_id":85688709,
+            "venue_id":790527129
+        }
+    ],
     "wof:id":790527129,
-    "wof:lastmodified":1466512852,
+    "wof:lastmodified":1492100148,
     "wof:name":"P & B Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

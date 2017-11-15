@@ -2,9 +2,14 @@
   "id": 773167999,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Dornoch St Valparaiso IN 46385",
+    "addr:housenumber":"29",
+    "addr:postcode":"46385",
+    "addr:street":"Dornoch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.107222,41.438835,-87.107222,41.438835",
     "geom:latitude":41.438835,
     "geom:longitude":-87.107222,
@@ -29,7 +34,10 @@
         "card"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GEAKsTzYoeK2ma8ZWxiCU_41.438835_-87.107222@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462583654,
     "wof:geomhash":"fde95ac19cbda48ee43d7f30b6c1b0ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":773167999
+        }
+    ],
     "wof:id":773167999,
-    "wof:lastmodified":1466505999,
+    "wof:lastmodified":1492092098,
     "wof:name":"A-Accept Credit Cards",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

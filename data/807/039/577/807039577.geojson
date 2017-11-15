@@ -2,9 +2,14 @@
   "id": 807039577,
   "type": "Feature",
   "properties": {
+    "addr:full":"7421 Van Buren Ave Hammond IN 46324",
+    "addr:housenumber":"7421",
+    "addr:postcode":"46324",
+    "addr:street":"Van Buren Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.515059,41.578791,-87.515059,41.578791",
     "geom:latitude":41.578791,
     "geom:longitude":-87.515059,
@@ -27,7 +32,14 @@
         "lithographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UW7fMjHTe2xv6wAvOwMfZ_41.578791_-87.515059@1303262770"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603200,
     "wof:geomhash":"e0c5a9c28082de2af06a760b58b4a74d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807039577
+        }
+    ],
     "wof:id":807039577,
-    "wof:lastmodified":1466504227,
+    "wof:lastmodified":1492100604,
     "wof:name":"Ah Printing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

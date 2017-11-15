@@ -2,9 +2,14 @@
   "id": 773771757,
   "type": "Feature",
   "properties": {
+    "addr:full":"4752 W 1050 N Lake Village IN 46349",
+    "addr:housenumber":"4752",
+    "addr:postcode":"46349",
+    "addr:street":"W 1050 N Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.483276,41.152309,-87.483276,41.152309",
     "geom:latitude":41.152309,
     "geom:longitude":-87.483276,
@@ -27,7 +32,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jnNCFeU5Vcr8AA1PUoQjv_41.152309_-87.483276@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462588255,
     "wof:geomhash":"37c725c13b21dabe714ccbec226c287f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "region_id":85688709,
+            "venue_id":773771757
+        }
+    ],
     "wof:id":773771757,
-    "wof:lastmodified":1466518885,
+    "wof:lastmodified":1492095778,
     "wof:name":"LA Salle State Fish & Wildlife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

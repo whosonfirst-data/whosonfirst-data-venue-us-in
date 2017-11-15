@@ -2,14 +2,20 @@
   "id": 387031989,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 W Lloyd Expy Evansville IN 47712",
+    "addr:housenumber":"5000",
+    "addr:postcode":"47712",
+    "addr:street":"W Lloyd Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.635541,37.976592,-87.635541,37.976592",
     "geom:latitude":37.976592,
     "geom:longitude":-87.635541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5000 W Lloyd Expy",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087105,
         85843997
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iXhjLJMXDgApROLVGWktR_37.976592_-87.635541@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"cca4918c9d6d4e582ed7dbb2959a5c01",
+    "wof:geomhash":"b5e6b3d035899ece3b13edd640bef7a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387031989,
-    "wof:lastmodified":1466502922,
+    "wof:lastmodified":1510613542,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85843997,
     "wof:placetype":"venue",

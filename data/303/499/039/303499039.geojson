@@ -2,9 +2,14 @@
   "id": 303499039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4495 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4495",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360429,41.538686,-87.360429,41.538686",
     "geom:latitude":41.538686,
     "geom:longitude":-87.360429,
@@ -29,7 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +44,15 @@
     "wof:geomhash":"fd251d980b4e70a7dc5fd4370b6bd6db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519685,
             "venue_id":303499039
         }
     ],
     "wof:id":303499039,
-    "wof:lastmodified":1466503820,
+    "wof:lastmodified":1492093632,
     "wof:name":"Simon's Complete Auto Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

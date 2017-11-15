@@ -2,9 +2,14 @@
   "id": 773431685,
   "type": "Feature",
   "properties": {
+    "addr:full":"3495 Broadway Gary IN 46409",
+    "addr:housenumber":"3495",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336527,41.556639,-87.336527,41.556639",
     "geom:latitude":41.556639,
     "geom:longitude":-87.336527,
@@ -27,7 +32,10 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yho0cx0ed3L42GPL7jtl0_41.556639_-87.336527@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585681,
     "wof:geomhash":"56ea477f8c92dc586ff663b364a9545c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773431685
+        }
+    ],
     "wof:id":773431685,
-    "wof:lastmodified":1466511181,
+    "wof:lastmodified":1492095765,
     "wof:name":"Doo Sik Choe",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

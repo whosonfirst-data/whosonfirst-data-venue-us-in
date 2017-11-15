@@ -2,14 +2,20 @@
   "id": 387461573,
   "type": "Feature",
   "properties": {
+    "addr:full":"9770 N by Northeast Blvd Fishers IN 46037",
+    "addr:housenumber":"9770",
+    "addr:postcode":"46037",
+    "addr:street":"N By Northeast Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.026424,39.927352,-86.026424,39.927352",
     "geom:latitude":39.927352,
     "geom:longitude":-86.026424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9770 N by Northeast Blvd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85941335,
         102087089
     ],
+    "wof:brand_id":1125154603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ApoMj6nygvrU9y3QcDJfw_39.927352_-86.026424@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d98eab75862bb177aacfb5a98ff169a",
+    "wof:geomhash":"64de1c1a3895db7bd72850bcf14210d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387461573,
-    "wof:lastmodified":1466503529,
+    "wof:lastmodified":1510694003,
     "wof:name":"Bennigans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

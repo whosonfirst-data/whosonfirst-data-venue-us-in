@@ -2,14 +2,20 @@
   "id": 789601411,
   "type": "Feature",
   "properties": {
+    "addr:full":"9711 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"9711",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.992989,39.774639,-85.992989,39.774639",
     "geom:latitude":39.774639,
     "geom:longitude":-85.992989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9711 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02yTxdNTCzSlF4ZOxsXQr5_39.774639_-85.992989@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589078,
-    "wof:geomhash":"d8a006a781aa598317a8f4aadbbeb12a",
+    "wof:geomhash":"830e70aa3b3cb5c2ccef5bb9d40d6e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789601411,
-    "wof:lastmodified":1466504250,
+    "wof:lastmodified":1510698965,
     "wof:name":"Jennifer Convertibles Inc",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

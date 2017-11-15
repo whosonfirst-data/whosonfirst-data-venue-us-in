@@ -2,14 +2,20 @@
   "id": 773469123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 Wayne Trce Fort Wayne IN 46803",
+    "addr:housenumber":"1830",
+    "addr:postcode":"46803",
+    "addr:street":"Wayne Trce",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.113284,41.070124,-85.113284,41.070124",
     "geom:latitude":41.070124,
     "geom:longitude":-85.113284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1830 Wayne Trce",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zDAoOEEwBzeKqRoiF81ua_41.070124_-85.113284@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585983,
-    "wof:geomhash":"928dece45ba998eab457d903b604715c",
+    "wof:geomhash":"11cbf5ac12e060a77609f9fdd4a9424c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773469123,
-    "wof:lastmodified":1466512237,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":420519415,
     "wof:placetype":"venue",

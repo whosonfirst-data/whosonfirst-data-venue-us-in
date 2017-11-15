@@ -2,9 +2,14 @@
   "id": 806759005,
   "type": "Feature",
   "properties": {
+    "addr:full":"8360 S 700 W North Judson IN 46366",
+    "addr:housenumber":"8360;700",
+    "addr:postcode":"46366",
+    "addr:street":"S;W North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.833513,41.181183,-86.833513,41.181183",
     "geom:latitude":41.181183,
     "geom:longitude":-86.833513,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501495,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oFGYo7mrBjpTVB9pDAAYP_41.181183_-86.833513@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600841,
     "wof:geomhash":"f632a2f3db4e587a07d2cf647d90196d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501495,
+            "region_id":85688709,
+            "venue_id":806759005
+        }
+    ],
     "wof:id":806759005,
-    "wof:lastmodified":1466513568,
+    "wof:lastmodified":1492103692,
     "wof:name":"Stephen Scamerhorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

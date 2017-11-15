@@ -2,9 +2,14 @@
   "id": 807044719,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"427",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.422257,41.29117,-87.422257,41.29117",
     "geom:latitude":41.29117,
     "geom:longitude":-87.422257,
@@ -24,7 +29,14 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_631hRQ675wPugh403CNSU7_41.291170_-87.422257@1303262771"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603248,
     "wof:geomhash":"0463a4cc3317ee7905828d19283e0bca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807044719
+        }
+    ],
     "wof:id":807044719,
-    "wof:lastmodified":1466504386,
+    "wof:lastmodified":1492087991,
     "wof:name":"Cornerstone Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

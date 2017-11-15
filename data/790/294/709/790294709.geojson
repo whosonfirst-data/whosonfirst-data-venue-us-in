@@ -2,9 +2,14 @@
   "id": 790294709,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 N 600 W Valparaiso IN 46385",
+    "addr:housenumber":"206",
+    "addr:postcode":"46385",
+    "addr:street":"N 600 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.181237,41.462364,-87.181237,41.462364",
     "geom:latitude":41.462364,
     "geom:longitude":-87.181237,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
-        85633793,
         85813921,
-        102087191
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +51,18 @@
     "wof:geomhash":"481da89bab1832b9355db3c931552dd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087191,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
             "neighbourhood_id":85813921,
             "region_id":85688709,
             "venue_id":790294709
         }
     ],
     "wof:id":790294709,
-    "wof:lastmodified":1466506863,
+    "wof:lastmodified":1492102263,
     "wof:name":"Horan Construction Inc",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

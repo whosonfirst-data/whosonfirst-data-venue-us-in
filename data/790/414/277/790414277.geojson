@@ -2,9 +2,14 @@
   "id": 790414277,
   "type": "Feature",
   "properties": {
+    "addr:full":"728 N State Rd 149 Valparaiso IN 46385",
+    "addr:housenumber":"728;149",
+    "addr:postcode":"46385",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.12411,41.53572,-87.12411,41.53572",
     "geom:latitude":41.53572,
     "geom:longitude":-87.12411,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KC8gNFEQ2bzbpHNDDxMxG_41.535720_-87.124110@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462595640,
     "wof:geomhash":"feae975582afd7f0f9811019891632f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":790414277
+        }
+    ],
     "wof:id":790414277,
-    "wof:lastmodified":1466508402,
+    "wof:lastmodified":1492103218,
     "wof:name":"House of Hugs Daycare",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354261521,
   "type": "Feature",
   "properties": {
+    "addr:full":"3925 River Crossing Pkwy Indianapolis IN 46240",
+    "addr:housenumber":"3925",
+    "addr:postcode":"46240",
+    "addr:street":"River Crossing Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.099051,39.915334,-86.099051,39.915334",
     "geom:latitude":39.915334,
     "geom:longitude":-86.099051,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870669,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870669
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"08c5f0a9af21449239067dec6c0d69f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870669,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":354261521,
-    "wof:lastmodified":1466503232,
+    "wof:lastmodified":1491885526,
     "wof:name":"Access Point",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

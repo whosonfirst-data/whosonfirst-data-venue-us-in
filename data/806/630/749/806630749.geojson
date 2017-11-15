@@ -2,9 +2,14 @@
   "id": 806630749,
   "type": "Feature",
   "properties": {
+    "addr:full":"398 W 700 N Valparaiso IN 46385",
+    "addr:housenumber":"398",
+    "addr:postcode":"46385",
+    "addr:street":"W 700 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.142302,41.53584,-87.142302,41.53584",
     "geom:latitude":41.53584,
     "geom:longitude":-87.142302,
@@ -27,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6phNewx3nG3LyJ9iNlCAUk_41.535840_-87.142302@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462599741,
     "wof:geomhash":"e5f571b9e2e51667658aaeb1aa11eb26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":806630749
+        }
+    ],
     "wof:id":806630749,
-    "wof:lastmodified":1466507741,
+    "wof:lastmodified":1492100670,
     "wof:name":"South Haven Fire Dept",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

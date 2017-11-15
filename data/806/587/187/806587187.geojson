@@ -2,14 +2,20 @@
   "id": 806587187,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 W 4th St Seymour IN 47274",
+    "addr:housenumber":"222",
+    "addr:postcode":"47274",
+    "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.891377,38.960969,-85.891377,38.960969",
     "geom:latitude":38.960969,
     "geom:longitude":-85.891377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 W 4th St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125150053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AlrgoiAUJDYBjbH62V0ae_38.960969_-85.891377@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599376,
-    "wof:geomhash":"43b6ebaf1d215b4d7d6fac2a517ce05d",
+    "wof:geomhash":"7da168b420032d38ebefc920ee5149ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806587187,
-    "wof:lastmodified":1466507248,
+    "wof:lastmodified":1510695755,
     "wof:name":"Shear Perfection",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773426933,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 N Water St Salem IN 47167",
+    "addr:housenumber":"305",
+    "addr:postcode":"47167",
+    "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.102041,38.608703,-86.102041,38.608703",
     "geom:latitude":38.608703,
     "geom:longitude":-86.102041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 N Water St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086237,
         85688709
     ],
+    "wof:brand_id":1125154753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GFdwAOqgYD2LHDQVISM4B_38.608703_-86.102041@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585635,
-    "wof:geomhash":"e2700e402b6fabf011c4781851ddfef5",
+    "wof:geomhash":"5e657f0994233b36f5be00fd594bc0f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773426933,
-    "wof:lastmodified":1466511072,
+    "wof:lastmodified":1510697726,
     "wof:name":"Groomingdales",
     "wof:parent_id":420519945,
     "wof:placetype":"venue",

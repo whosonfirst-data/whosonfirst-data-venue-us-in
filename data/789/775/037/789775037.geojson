@@ -2,9 +2,14 @@
   "id": 789775037,
   "type": "Feature",
   "properties": {
+    "addr:full":"6012 E Michigan Blvd Michigan City IN 46360",
+    "addr:housenumber":"6012",
+    "addr:postcode":"46360",
+    "addr:street":"E Michigan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8182,41.69588,-86.8182,41.69588",
     "geom:latitude":41.69588,
     "geom:longitude":-86.8182,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35cF1ZBbm00hvOEJZjR4Py_41.695880_-86.818200@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462590440,
     "wof:geomhash":"e3e95f80d68eaf40915ed0b43f6a3b27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789775037
+        }
+    ],
     "wof:id":789775037,
-    "wof:lastmodified":1466506318,
+    "wof:lastmodified":1492092749,
     "wof:name":"R L Roofing Svc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

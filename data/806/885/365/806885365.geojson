@@ -2,14 +2,20 @@
   "id": 806885365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1352 Normandie Ct Avon IN 46123",
+    "addr:housenumber":"1352",
+    "addr:postcode":"46123",
+    "addr:street":"Normandie Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.399094,39.78207,-86.399094,39.78207",
     "geom:latitude":39.78207,
     "geom:longitude":-86.399094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1352 Normandie Ct",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63GWhJaioJRQpTgEkSZPtA_39.782070_-86.399094@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601895,
-    "wof:geomhash":"3440fc74eb8c7763478d21892dee862f",
+    "wof:geomhash":"e0ae0a23755d132f02ec20c64b95b42a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":806885365,
-    "wof:lastmodified":1466517298,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

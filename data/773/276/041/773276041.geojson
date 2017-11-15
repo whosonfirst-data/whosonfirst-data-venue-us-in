@@ -2,9 +2,14 @@
   "id": 773276041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1921 W 45th Ave Gary IN 46408",
+    "addr:housenumber":"1921",
+    "addr:postcode":"46408",
+    "addr:street":"W 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360248,41.536872,-87.360248,41.536872",
     "geom:latitude":41.536872,
     "geom:longitude":-87.360248,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rfeIUdkEFXXyHoAmVscoP_41.536872_-87.360248@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584486,
     "wof:geomhash":"7a48c27247fa4a7a995a03d9ed25418a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773276041
+        }
+    ],
     "wof:id":773276041,
-    "wof:lastmodified":1466506953,
+    "wof:lastmodified":1492101441,
     "wof:name":"Philadelphia Apostlic Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

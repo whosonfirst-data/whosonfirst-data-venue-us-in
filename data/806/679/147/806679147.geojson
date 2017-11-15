@@ -2,14 +2,20 @@
   "id": 806679147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2335 Conner St Noblesville IN 46060",
+    "addr:housenumber":"2335",
+    "addr:postcode":"46060",
+    "addr:street":"Conner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.997723,40.045544,-85.997723,40.045544",
     "geom:latitude":40.045544,
     "geom:longitude":-85.997723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2335 Conner St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125151769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uVJdKVxt952BJcxcGglFc_40.045544_-85.997723@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600164,
-    "wof:geomhash":"bf60aedd52ca67e6c0b0ebf8fffc0458",
+    "wof:geomhash":"61df3d7f2b6c798fdc105241ff8b65ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806679147,
-    "wof:lastmodified":1466510750,
+    "wof:lastmodified":1510693699,
     "wof:name":"Cellular Connection",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

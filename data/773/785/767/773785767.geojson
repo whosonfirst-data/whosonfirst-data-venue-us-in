@@ -2,9 +2,14 @@
   "id": 773785767,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 Grand View Ave Valparaiso IN 46383",
+    "addr:housenumber":"804",
+    "addr:postcode":"46383",
+    "addr:street":"Grand View Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.052095,41.516584,-87.052095,41.516584",
     "geom:latitude":41.516584,
     "geom:longitude":-87.052095,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iiPmr1L0oCwcsuj1KdA4M_41.516584_-87.052095@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462588359,
     "wof:geomhash":"6244527b5766540e421de1d17ec53e8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773785767
+        }
+    ],
     "wof:id":773785767,
-    "wof:lastmodified":1466518776,
+    "wof:lastmodified":1492101505,
     "wof:name":"Earle Naillieux",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

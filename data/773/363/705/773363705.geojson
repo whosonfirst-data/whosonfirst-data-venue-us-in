@@ -2,14 +2,20 @@
   "id": 773363705,
   "type": "Feature",
   "properties": {
+    "addr:full":"6306 Guilford Ave Indianapolis IN 46220",
+    "addr:housenumber":"6306",
+    "addr:postcode":"46220",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.142964,39.870488,-86.142964,39.870488",
     "geom:latitude":39.870488,
     "geom:longitude":-86.142964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6306 Guilford Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SsIqyfkkpvwbl3pOpFWVV_39.870488_-86.142964@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585138,
-    "wof:geomhash":"834e9c613590d5b09ffee9ba853a1bb1",
+    "wof:geomhash":"2db301376b899d9537e91f27125b0939",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773363705,
-    "wof:lastmodified":1466508526,
+    "wof:lastmodified":1510697388,
     "wof:name":"Securities America Inc",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",

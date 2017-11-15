@@ -2,14 +2,20 @@
   "id": 773746639,
   "type": "Feature",
   "properties": {
+    "addr:full":"17901 River Ave Noblesville IN 46062",
+    "addr:housenumber":"17901",
+    "addr:postcode":"46062",
+    "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.027315,40.051086,-86.027315,40.051086",
     "geom:latitude":40.051086,
     "geom:longitude":-86.027315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17901 River Ave",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dwt3CcapETWsM83Dqb0DC_40.051086_-86.027315@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588073,
-    "wof:geomhash":"dabc4be7151af4e5b459b4f536eacf38",
+    "wof:geomhash":"0ef3320cefa572d7b695787dfc38b136",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773746639,
-    "wof:lastmodified":1466517932,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

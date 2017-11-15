@@ -2,14 +2,20 @@
   "id": 773333513,
   "type": "Feature",
   "properties": {
+    "addr:full":"4026 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"4026",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.089097,39.905808,-86.089097,39.905808",
     "geom:latitude":39.905808,
     "geom:longitude":-86.089097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4026 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ckTOrZMZv3cWtZtwUV4Td_39.905808_-86.089097@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584937,
-    "wof:geomhash":"ab2fcafbc510c00d35c431398b8da095",
+    "wof:geomhash":"f137ace0f353e8608a9bf156fcf4af5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773333513,
-    "wof:lastmodified":1466507627,
+    "wof:lastmodified":1510602780,
     "wof:name":"Manpower Temporary Svc",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

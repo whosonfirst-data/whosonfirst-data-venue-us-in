@@ -2,9 +2,14 @@
   "id": 806433745,
   "type": "Feature",
   "properties": {
+    "addr:full":"8031 E 157th Ave Hebron IN 46341",
+    "addr:housenumber":"8031",
+    "addr:postcode":"46341",
+    "addr:street":"E 157Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.24848,41.333107,-87.24848,41.333107",
     "geom:latitude":41.333107,
     "geom:longitude":-87.24848,
@@ -28,7 +33,13 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501863,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25yn3oAWxznaTpBczu9rIF_41.333107_-87.248480@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462598114,
     "wof:geomhash":"ed08f88b1fa9deccb54a76aa6c531dc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501863,
+            "region_id":85688709,
+            "venue_id":806433745
+        }
+    ],
     "wof:id":806433745,
-    "wof:lastmodified":1466505222,
+    "wof:lastmodified":1492090734,
     "wof:name":"C B's Mobile Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

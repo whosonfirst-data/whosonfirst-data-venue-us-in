@@ -2,14 +2,20 @@
   "id": 789753741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1456 Liberty Dr Bloomington IN 47403",
+    "addr:housenumber":"1456",
+    "addr:postcode":"47403",
+    "addr:street":"Liberty Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.57698,39.149265,-86.57698,39.149265",
     "geom:latitude":39.149265,
     "geom:longitude":-86.57698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1456 Liberty Dr",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":420574895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v6tVbwBYk2t8p05407lAi_39.149265_-86.576980@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590282,
-    "wof:geomhash":"6ba7c8218178fabd0098917285cffbf7",
+    "wof:geomhash":"b8d58dcaf8ea75c7b6f696499c449bfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789753741,
-    "wof:lastmodified":1466505847,
+    "wof:lastmodified":1510603902,
     "wof:name":"Terminix International Co",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

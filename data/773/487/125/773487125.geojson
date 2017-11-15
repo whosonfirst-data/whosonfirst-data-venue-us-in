@@ -2,14 +2,20 @@
   "id": 773487125,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 N Co Rd 900 E Brownsburg IN 46112",
+    "addr:housenumber":"3175;900 e",
+    "addr:postcode":"46112",
+    "addr:street":"N Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.362697,39.807752,-86.362697,39.807752",
     "geom:latitude":39.807752,
     "geom:longitude":-86.362697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3175 N Co Rd 900 E",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125155957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ECkcmuHxclncqyOB2FIxn_39.807752_-86.362697@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586120,
-    "wof:geomhash":"4a7db32c76027ff39dd2d7de73fcd0cc",
+    "wof:geomhash":"9870ffd8589f99dfc3338076b204fe78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773487125,
-    "wof:lastmodified":1466512804,
+    "wof:lastmodified":1510698914,
     "wof:name":"New Testament Baptist Church",
     "wof:parent_id":85857209,
     "wof:placetype":"venue",

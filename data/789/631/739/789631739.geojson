@@ -2,14 +2,20 @@
   "id": 789631739,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Noble Dr Fort Wayne IN 46825",
+    "addr:housenumber":"601",
+    "addr:postcode":"46825",
+    "addr:street":"Noble Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.134024,41.119703,-85.134024,41.119703",
     "geom:latitude":41.119703,
     "geom:longitude":-85.134024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Noble Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JGZBuVaZRGBJUyyf99CxV_41.119703_-85.134024@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589308,
-    "wof:geomhash":"41f99bcf46d48e9a257ad6bf3e361031",
+    "wof:geomhash":"11976e16dfb7322f28e8d50a4c5aeeca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789631739,
-    "wof:lastmodified":1466504451,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806818029,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 E Main St Mentone IN 46539",
+    "addr:housenumber":"307",
+    "addr:postcode":"46539",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.034335,41.173375,-86.034335,41.173375",
     "geom:latitude":41.173375,
     "geom:longitude":-86.034335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 E Main St",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56IndDBcnQDefP9nT86Arw_41.173375_-86.034335@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601325,
-    "wof:geomhash":"9428feba85bcb425545e9b901ac3f628",
+    "wof:geomhash":"1e03901e6d749db5d74656299ae7cfba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806818029,
-    "wof:lastmodified":1466515186,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807073049,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 W Industrial Blvd Bloomington IN 47403",
+    "addr:housenumber":"3800",
+    "addr:postcode":"47403",
+    "addr:street":"W Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.580616,39.143841,-86.580616,39.143841",
     "geom:latitude":39.143841,
     "geom:longitude":-86.580616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 W Industrial Blvd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":1125156335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oJAReSn4tpokX7NALajaP_39.143841_-86.580616@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603480,
-    "wof:geomhash":"7857f4f5535993cafabfdf94ebf4d28a",
+    "wof:geomhash":"3b7b67ee9040b206a3e7a3ba1ef7f686",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807073049,
-    "wof:lastmodified":1466504776,
+    "wof:lastmodified":1510697029,
     "wof:name":"Affordable Dentures",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790241915,
   "type": "Feature",
   "properties": {
+    "addr:full":"4869 Broadway Gary IN 46409",
+    "addr:housenumber":"4869",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336155,41.530741,-87.336155,41.530741",
     "geom:latitude":41.530741,
     "geom:longitude":-87.336155,
@@ -27,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1USvP8gKlR2EcsymJbmMs4_41.530741_-87.336155@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594261,
     "wof:geomhash":"8a04bf28c8d94ebd0f66672003ee3489",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790241915
+        }
+    ],
     "wof:id":790241915,
-    "wof:lastmodified":1466506355,
+    "wof:lastmodified":1492091729,
     "wof:name":"Finesse Hair Designers",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

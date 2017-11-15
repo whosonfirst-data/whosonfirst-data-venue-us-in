@@ -2,9 +2,14 @@
   "id": 773592739,
   "type": "Feature",
   "properties": {
+    "addr:full":"5547 Co Rd 200 Rensselaer IN 47978",
+    "addr:housenumber":"5547;200",
+    "addr:postcode":"47978",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.93987,40.984563,-86.93987,40.984563",
     "geom:latitude":40.984563,
     "geom:longitude":-86.93987,
@@ -27,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500835,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FlHWSJ7x380gMhwPE110V_40.984563_-86.939870@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462586893,
     "wof:geomhash":"08d6df0e865c33847bf77aa68166a857",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500835,
+            "region_id":85688709,
+            "venue_id":773592739
+        }
+    ],
     "wof:id":773592739,
-    "wof:lastmodified":1466516079,
+    "wof:lastmodified":1492092684,
     "wof:name":"Wuethrich Pork & Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790270447,
   "type": "Feature",
   "properties": {
+    "addr:full":"6830 Madison Ave Indianapolis IN 46227",
+    "addr:housenumber":"6830",
+    "addr:postcode":"46227",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.128491,39.668252,-86.128491,39.668252",
     "geom:latitude":39.668252,
     "geom:longitude":-86.128491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6830 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j0wucGIwWewp33kyemc9V_39.668252_-86.128491@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594504,
-    "wof:geomhash":"59658801f69e3b3875539340af08819f",
+    "wof:geomhash":"1c5321cb20b1731c1b2613357175ff14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790270447,
-    "wof:lastmodified":1466506629,
+    "wof:lastmodified":1510695894,
     "wof:name":"Ultra Tan",
     "wof:parent_id":420519767,
     "wof:placetype":"venue",

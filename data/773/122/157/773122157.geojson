@@ -2,9 +2,14 @@
   "id": 773122157,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Broadway Gary IN 46408",
+    "addr:housenumber":"3400",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336582,41.554902,-87.336582,41.554902",
     "geom:latitude":41.554902,
     "geom:longitude":-87.336582,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PrWaQMMh6jckmQsFklvNz_41.554902_-87.336582@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462583309,
     "wof:geomhash":"20fc565959e21d43dd3468d5e30b0c47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773122157
+        }
+    ],
     "wof:id":773122157,
-    "wof:lastmodified":1466505571,
+    "wof:lastmodified":1492093632,
     "wof:name":"That Little Cafe",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

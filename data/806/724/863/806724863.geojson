@@ -2,9 +2,14 @@
   "id": 806724863,
   "type": "Feature",
   "properties": {
+    "addr:full":"12003 W 157th Ave Lowell IN 46356",
+    "addr:housenumber":"12003",
+    "addr:postcode":"46356",
+    "addr:street":"W 157Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.477877,41.333748,-87.477877,41.333748",
     "geom:latitude":41.333748,
     "geom:longitude":-87.477877,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D9s1bRZu3P02TyZzCChR8_41.333748_-87.477877@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600542,
     "wof:geomhash":"6cf5117b1c08b3398d73db90ae29a0ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":806724863
+        }
+    ],
     "wof:id":806724863,
-    "wof:lastmodified":1466512098,
+    "wof:lastmodified":1492090735,
     "wof:name":"Vera Stuppy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

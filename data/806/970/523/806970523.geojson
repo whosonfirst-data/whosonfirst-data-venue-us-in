@@ -2,14 +2,20 @@
   "id": 806970523,
   "type": "Feature",
   "properties": {
+    "addr:full":"8480 Keystone Xing Indianapolis IN 46240",
+    "addr:housenumber":"8480",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.113375,39.910593,-86.113375,39.910593",
     "geom:latitude":39.910593,
     "geom:longitude":-86.113375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8480 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -57,13 +63,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bmQJObb9VMtm8m35nCBMC_39.910593_-86.113375@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602615,
-    "wof:geomhash":"1d45bc712b5e238f6c51646b28177ded",
+    "wof:geomhash":"541eaf9b759f4c87d8f25a8db4cab56b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":806970523,
-    "wof:lastmodified":1466518808,
+    "wof:lastmodified":1510700132,
     "wof:name":"Fidelity Investments",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

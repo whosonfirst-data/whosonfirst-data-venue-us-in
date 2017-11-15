@@ -2,14 +2,20 @@
   "id": 806766357,
   "type": "Feature",
   "properties": {
+    "addr:full":"7996 N State Rd 39 Laporte IN 46350",
+    "addr:housenumber":"7996;39",
+    "addr:postcode":"46350",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.734335,41.721114,-86.734335,41.721114",
     "geom:latitude":41.721114,
     "geom:longitude":-86.734335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7996 N State Rd 39",
     "sg:city":"Laporte",
     "sg:classifiers":[],
@@ -22,17 +28,33 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
+    "wof:brand_id":1125153139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D5ZkaWZlfK2DoEFt3LO1U_41.721114_-86.734335@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600896,
-    "wof:geomhash":"fcde47dd4867c2055a83c7766ad02d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"130bef65110b9fccb2996c4a4fb4c21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":806766357
+        }
+    ],
     "wof:id":806766357,
-    "wof:lastmodified":1466513478,
+    "wof:lastmodified":1510698883,
     "wof:name":"BOC Gases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

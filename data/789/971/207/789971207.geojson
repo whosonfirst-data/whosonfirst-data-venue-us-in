@@ -2,9 +2,14 @@
   "id": 789971207,
   "type": "Feature",
   "properties": {
+    "addr:full":"662 Covered Wagon Trl Valparaiso IN 46383",
+    "addr:housenumber":"662",
+    "addr:postcode":"46383",
+    "addr:street":"Covered Wagon Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.018537,41.529019,-87.018537,41.529019",
     "geom:latitude":41.529019,
     "geom:longitude":-87.018537,
@@ -28,7 +33,13 @@
         "background"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ntXn5YHFqi7AmvVxRQC2_41.529019_-87.018537@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462592090,
     "wof:geomhash":"4d7c0e0f3e9979930b832c278bf709d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":789971207
+        }
+    ],
     "wof:id":789971207,
-    "wof:lastmodified":1466509418,
+    "wof:lastmodified":1492097608,
     "wof:name":"Thomas Marin Allison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

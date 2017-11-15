@@ -2,9 +2,14 @@
   "id": 807047399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1504 119th St Whiting IN 46394",
+    "addr:housenumber":"1504",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492798,41.679199,-87.492798,41.679199",
     "geom:latitude":41.679199,
     "geom:longitude":-87.492798,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.cheapseatscards.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hP8HhPa3TU5z6B9reieVr_41.679199_-87.492798@1303262771"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462603268,
     "wof:geomhash":"ec5c9a25c720595da5ed54127c84fd7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":807047399
+        }
+    ],
     "wof:id":807047399,
-    "wof:lastmodified":1466504101,
+    "wof:lastmodified":1492093842,
     "wof:name":"Cheap Seats Sports Cards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

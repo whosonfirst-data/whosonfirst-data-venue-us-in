@@ -2,6 +2,10 @@
   "id": 773125509,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 S Co Rd 900 E Avon IN 46123",
+    "addr:housenumber":"182;900 e",
+    "addr:postcode":"46123",
+    "addr:street":"S Co Rd;Avon In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773125509,
-    "wof:lastmodified":1466505613,
+    "wof:lastmodified":1472622744,
     "wof:name":"Phoenix Fabricators & Erectors",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807046791,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Eagle Creek Rd Valparaiso IN 46385",
+    "addr:housenumber":"720",
+    "addr:postcode":"46385",
+    "addr:street":"Eagle Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.130136,41.538996,-87.130136,41.538996",
     "geom:latitude":41.538996,
     "geom:longitude":-87.130136,
@@ -35,7 +40,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bXZgkpXfqvPfoPh70NcKv_41.538996_-87.130136@1303262771"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1462603264,
     "wof:geomhash":"7e0540fb31b04670bfc1ae58eba0faef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":807046791
+        }
+    ],
     "wof:id":807046791,
-    "wof:lastmodified":1466504076,
+    "wof:lastmodified":1492091844,
     "wof:name":"Crafts For All Seasons",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

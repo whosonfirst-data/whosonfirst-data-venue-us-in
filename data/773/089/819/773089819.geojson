@@ -2,14 +2,20 @@
   "id": 773089819,
   "type": "Feature",
   "properties": {
+    "addr:full":"8740 Shagbark Rd Indianapolis IN 46260",
+    "addr:housenumber":"8740",
+    "addr:postcode":"46260",
+    "addr:street":"Shagbark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.19848,39.914403,-86.19848,39.914403",
     "geom:latitude":39.914403,
     "geom:longitude":-86.19848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8740 Shagbark Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r7OOquEvg7OeFHOS68SvK_39.914403_-86.198480@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583077,
-    "wof:geomhash":"077f0ccf559478c566e24507bd964821",
+    "wof:geomhash":"1cc9253a4ae581da8cc86e17d5d32243",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773089819,
-    "wof:lastmodified":1466505130,
+    "wof:lastmodified":1510613542,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",

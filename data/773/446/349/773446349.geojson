@@ -2,9 +2,14 @@
   "id": 773446349,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 N Halleck St Demotte IN 46310",
+    "addr:housenumber":"519",
+    "addr:postcode":"46310",
+    "addr:street":"N Halleck St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.198779,41.207928,-87.198779,41.207928",
     "geom:latitude":41.207928,
     "geom:longitude":-87.198779,
@@ -27,7 +32,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        85941679,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iidYzU9M3D9xw3AfTRz0x_41.207928_-87.198779@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462585812,
     "wof:geomhash":"498c3a7a70ab0a888d19b4b961d8b743",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "locality_id":85941679,
+            "region_id":85688709,
+            "venue_id":773446349
+        }
+    ],
     "wof:id":773446349,
-    "wof:lastmodified":1466512046,
+    "wof:lastmodified":1492101262,
     "wof:name":"Lab Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

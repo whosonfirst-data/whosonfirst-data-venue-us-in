@@ -2,9 +2,14 @@
   "id": 773602991,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W Oakley Ave Lowell IN 46356",
+    "addr:housenumber":"200",
+    "addr:postcode":"46356",
+    "addr:street":"W Oakley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.42597,41.288602,-87.42597,41.288602",
     "geom:latitude":41.288602,
     "geom:longitude":-87.42597,
@@ -27,7 +32,14 @@
         "cafeteria"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OlIYzpxb2vDNpqfXrfpHK_41.288602_-87.425970@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462586962,
     "wof:geomhash":"c886b36118e6f588f42f6e93ce20d472",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":773602991
+        }
+    ],
     "wof:id":773602991,
-    "wof:lastmodified":1466516219,
+    "wof:lastmodified":1492091552,
     "wof:name":"Tri-Creek School Corp Cafteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806506069,
   "type": "Feature",
   "properties": {
+    "addr:full":"10532 Coldwater Rd Fort Wayne IN 46845",
+    "addr:housenumber":"10532",
+    "addr:postcode":"46845",
+    "addr:street":"Coldwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.131467,41.178698,-85.131467,41.178698",
     "geom:latitude":41.178698,
     "geom:longitude":-85.131467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10532 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125154731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eWdWMZZ0sgZEDbse61umN_41.178698_-85.131467@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598680,
-    "wof:geomhash":"8e8d1740fbe28fafd72e4861625c9fd9",
+    "wof:geomhash":"9a65394b1e03452c4d995264144f649a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806506069,
-    "wof:lastmodified":1466506098,
+    "wof:lastmodified":1510695212,
     "wof:name":"Elite Nails",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773259773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1260 E Michigan Blvd Michigan City IN 46360",
+    "addr:housenumber":"1260",
+    "addr:postcode":"46360",
+    "addr:street":"E Michigan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.882675,41.711994,-86.882675,41.711994",
     "geom:latitude":41.711994,
     "geom:longitude":-86.882675,
@@ -27,7 +32,14 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vFy6syPfdoKK8RYeR74Ef_41.711994_-86.882675@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584361,
     "wof:geomhash":"b9718823f935a6e776c5b7af2871298b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":773259773
+        }
+    ],
     "wof:id":773259773,
-    "wof:lastmodified":1466506957,
+    "wof:lastmodified":1492092749,
     "wof:name":"De Vries Firestone Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

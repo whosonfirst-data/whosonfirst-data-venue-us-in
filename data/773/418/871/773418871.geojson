@@ -2,9 +2,14 @@
   "id": 773418871,
   "type": "Feature",
   "properties": {
+    "addr:full":"2307 Rhode Island St Gary IN 46407",
+    "addr:housenumber":"2307",
+    "addr:postcode":"46407",
+    "addr:street":"Rhode Island St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.32588,41.575435,-87.32588,41.575435",
     "geom:latitude":41.575435,
     "geom:longitude":-87.32588,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jyktd5EM97AyXmdlRWErs_41.575435_-87.325880@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585565,
     "wof:geomhash":"ee2bb4eaa208e3911a1e695e30469e1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773418871
+        }
+    ],
     "wof:id":773418871,
-    "wof:lastmodified":1466510686,
+    "wof:lastmodified":1492095765,
     "wof:name":"New Hope Missionary Baptist",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806438049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 US Hwy 41 Evansville IN 47711",
+    "addr:housenumber":"2110",
+    "addr:postcode":"47711",
+    "addr:street":"Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.537868,37.99861,-87.537868,37.99861",
     "geom:latitude":37.99861,
     "geom:longitude":-87.537868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2110 US Hwy 41",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eqQAkolJsBVjuldbLcPHd_37.998610_-87.537868@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598149,
-    "wof:geomhash":"099fba890add78a127cf3af61f659897",
+    "wof:geomhash":"17acc5aecd3ad116aae7ecc9fd978e84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806438049,
-    "wof:lastmodified":1466505202,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85877327,
     "wof:placetype":"venue",

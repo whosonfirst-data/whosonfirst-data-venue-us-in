@@ -2,14 +2,20 @@
   "id": 773043775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3952 E 82nd St Indianapolis IN 46240",
+    "addr:housenumber":"3952",
+    "addr:postcode":"46240",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.100343,39.908569,-86.100343,39.908569",
     "geom:latitude":39.908569,
     "geom:longitude":-86.100343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3952 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fHAUawxBz2lZWF0AGZpuM_39.908569_-86.100343@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582693,
-    "wof:geomhash":"3f45f08eeb4eeff76496ea7eb333f7e1",
+    "wof:geomhash":"345caa804c33b868293ea3ecada3d6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773043775,
-    "wof:lastmodified":1466504283,
+    "wof:lastmodified":1510698965,
     "wof:name":"Jennifer Convertibles Inc",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

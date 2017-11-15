@@ -2,14 +2,20 @@
   "id": 773080285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1149 N National Rd Columbus IN 47201",
+    "addr:housenumber":"1149",
+    "addr:postcode":"47201",
+    "addr:street":"N National Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.877967,39.211079,-85.877967,39.211079",
     "geom:latitude":39.211079,
     "geom:longitude":-85.877967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1149 N National Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087181,
         85816163
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FnorfnOPFKS3GgE9Z8GNH_39.211079_-85.877967@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583010,
-    "wof:geomhash":"dc4684087ba7b31ed93033543de14582",
+    "wof:geomhash":"ed7eba281f9074bed815cd037c2cde3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773080285,
-    "wof:lastmodified":1466504816,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85816163,
     "wof:placetype":"venue",

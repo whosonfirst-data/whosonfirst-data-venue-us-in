@@ -2,14 +2,20 @@
   "id": 773544877,
   "type": "Feature",
   "properties": {
+    "addr:full":"8448 Center Run Dr Indianapolis IN 46250",
+    "addr:housenumber":"8448",
+    "addr:postcode":"46250",
+    "addr:street":"Center Run Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.057819,39.909892,-86.057819,39.909892",
     "geom:latitude":39.909892,
     "geom:longitude":-86.057819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8448 Center Run Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mktgv3lLZEgkfojIrE3wB_39.909892_-86.057819@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586522,
-    "wof:geomhash":"42a8922536c9f68c02eb6ceeeef7f78f",
+    "wof:geomhash":"89193a96cb9daa6578dd9cd97653cf1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773544877,
-    "wof:lastmodified":1466514248,
+    "wof:lastmodified":1510694069,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

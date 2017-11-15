@@ -2,9 +2,14 @@
   "id": 806666315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1386 N County Line Rd Michigan City IN 46360",
+    "addr:housenumber":"1386",
+    "addr:postcode":"46360",
+    "addr:street":"N County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.932377,41.649465,-86.932377,41.649465",
     "geom:latitude":41.649465,
     "geom:longitude":-86.932377,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28XlorgGcBvV5uKiW7kQ6e_41.649465_-86.932377@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600050,
     "wof:geomhash":"f7c971ce8cf449239407ef5589948949",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519859,
+            "venue_id":806666315
+        }
+    ],
     "wof:id":806666315,
-    "wof:lastmodified":1466509412,
+    "wof:lastmodified":1492102152,
     "wof:name":"P G Electric",
     "wof:parent_id":420519859,
     "wof:placetype":"venue",

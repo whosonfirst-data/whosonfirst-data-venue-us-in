@@ -2,14 +2,20 @@
   "id": 806893017,
   "type": "Feature",
   "properties": {
+    "addr:full":"1655 Hawthorne Dr Ste C Plainfield IN 46168",
+    "addr:housenumber":"1655",
+    "addr:postcode":"46168",
+    "addr:street":"Hawthorne Dr Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.380081,39.711175,-86.380081,39.711175",
     "geom:latitude":39.711175,
     "geom:longitude":-86.380081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1655 Hawthorne Dr Ste C",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125153223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E6FQUdw8YCHsiPgq5Dezj_39.711175_-86.380081@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601955,
-    "wof:geomhash":"dd13dcaa1a497f484ae48e0e3db6b61f",
+    "wof:geomhash":"c8ea324c6f308df1c6fc9824d7017cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806893017,
-    "wof:lastmodified":1466517109,
+    "wof:lastmodified":1510699566,
     "wof:name":"Home Interiors & Gifts",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

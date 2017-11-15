@@ -2,9 +2,14 @@
   "id": 353526517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Axe Ave Valparaiso IN 46383",
+    "addr:housenumber":"1150",
+    "addr:postcode":"46383",
+    "addr:street":"Axe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.055084,41.457319,-87.055084,41.457319",
     "geom:latitude":41.457319,
     "geom:longitude":-87.055084,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688709,
         85633793,
-        102087191,
-        85812895
+        85812895,
+        102087191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"19475c03719738bcd8c92352745b845a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
-            "locality_id":-1,
             "neighbourhood_id":85812895,
             "region_id":85688709,
             "venue_id":353526517
         }
     ],
     "wof:id":353526517,
-    "wof:lastmodified":1466502980,
+    "wof:lastmodified":1492098343,
     "wof:name":"Lucht Blacksmith & Welding",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790255965,
   "type": "Feature",
   "properties": {
+    "addr:full":"837 W 45th Ave Gary IN 46408",
+    "addr:housenumber":"837",
+    "addr:postcode":"46408",
+    "addr:street":"W 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.346785,41.536744,-87.346785,41.536744",
     "geom:latitude":41.536744,
     "geom:longitude":-87.346785,
@@ -28,7 +33,10 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43zdIsN7jIAMd6g5DvGUoB_41.536744_-87.346785@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594389,
     "wof:geomhash":"fe4fc15582b1942b6978681115de1acd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790255965
+        }
+    ],
     "wof:id":790255965,
-    "wof:lastmodified":1466506665,
+    "wof:lastmodified":1492094628,
     "wof:name":"Lacasa NWI",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806784673,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"509",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.516316,41.562307,-87.516316,41.562307",
     "geom:latitude":41.562307,
     "geom:longitude":-87.516316,
@@ -29,7 +34,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65VbwRPVIrDNoeavoZOzIf_41.562466_-87.516996@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601057,
     "wof:geomhash":"52c8f789204b46ed6ba25958561ac87b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":806784673
+        }
+    ],
     "wof:id":806784673,
-    "wof:lastmodified":1466513655,
+    "wof:lastmodified":1492097614,
     "wof:name":"David M. Radovich, DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

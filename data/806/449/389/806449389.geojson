@@ -2,14 +2,20 @@
   "id": 806449389,
   "type": "Feature",
   "properties": {
+    "addr:full":"30888 Co Rd 6 Elkhart IN 46514",
+    "addr:housenumber":"30888",
+    "addr:postcode":"46514",
+    "addr:street":"Co Rd 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.059922,41.724371,-86.059922,41.724371",
     "geom:latitude":41.724371,
     "geom:longitude":-86.059922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30888 Co Rd 6",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125159727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DkOUOXPoCoZ2ps6XmM0HG_41.724371_-86.059922@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598241,
-    "wof:geomhash":"c32034529010eef72cfdb3b44d7100f0",
+    "wof:geomhash":"6d633cd75220dadcf2a97e1faeb28b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806449389,
-    "wof:lastmodified":1466505404,
+    "wof:lastmodified":1510697222,
     "wof:name":"Trinity Lutheran School",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773772641,
   "type": "Feature",
   "properties": {
+    "addr:full":"7208 Madison Ave Hammond IN 46324",
+    "addr:housenumber":"7208",
+    "addr:postcode":"46324",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.511516,41.581119,-87.511516,41.581119",
     "geom:latitude":41.581119,
     "geom:longitude":-87.511516,
@@ -28,7 +33,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f8TcOsf3ffBa7lEstDjKa_41.581119_-87.511516@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462588261,
     "wof:geomhash":"d5073f622a4d7d5ce281da36a2eb799f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":773772641
+        }
+    ],
     "wof:id":773772641,
-    "wof:lastmodified":1466518640,
+    "wof:lastmodified":1492097644,
     "wof:name":"Lenz Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

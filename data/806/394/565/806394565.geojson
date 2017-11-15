@@ -2,14 +2,20 @@
   "id": 806394565,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 W 7th St Anderson IN 46016",
+    "addr:housenumber":"26",
+    "addr:postcode":"46016",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.680299,40.108957,-85.680299,40.108957",
     "geom:latitude":40.108957,
     "geom:longitude":-85.680299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 W 7th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125153645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wdavyovW10DBb7PE4xU7b_40.108957_-85.680299@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597789,
-    "wof:geomhash":"e9c93a4c0c2011af728c9091c32fae36",
+    "wof:geomhash":"f1073f5febc5531def63bd2fecb72b61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806394565,
-    "wof:lastmodified":1466504578,
+    "wof:lastmodified":1510694638,
     "wof:name":"Snelling Personnel Svc",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",

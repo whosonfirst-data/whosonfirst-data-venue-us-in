@@ -2,9 +2,14 @@
   "id": 807049619,
   "type": "Feature",
   "properties": {
+    "addr:full":"4855 Garfield St Gary IN 46408",
+    "addr:housenumber":"4855",
+    "addr:postcode":"46408",
+    "addr:street":"Garfield St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.358013,41.532512,-87.358013,41.532512",
     "geom:latitude":41.532512,
     "geom:longitude":-87.358013,
@@ -29,7 +34,10 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GWihix5lhUoByXHqXzsZj_41.532512_-87.358013@1303262771"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462603285,
     "wof:geomhash":"89d36cd0b34b9aab4b2f3059de02d4fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049619
+        }
+    ],
     "wof:id":807049619,
-    "wof:lastmodified":1466504190,
+    "wof:lastmodified":1492093698,
     "wof:name":"Itin Properties",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

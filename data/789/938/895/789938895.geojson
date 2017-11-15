@@ -2,14 +2,20 @@
   "id": 789938895,
   "type": "Feature",
   "properties": {
+    "addr:full":"7315 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"7315",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.23476,41.048162,-85.23476,41.048162",
     "geom:latitude":41.048162,
     "geom:longitude":-85.23476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7315 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xQ4OIbgW4kRRqVQ1eDAo0_41.048162_-85.234760@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591779,
-    "wof:geomhash":"d1439c5e82c906c0a178f09c706cc17e",
+    "wof:geomhash":"d64ce3ef4348d3c0e20341dccfb5b9b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789938895,
-    "wof:lastmodified":1466508298,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85807473,
     "wof:placetype":"venue",

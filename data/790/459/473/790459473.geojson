@@ -2,9 +2,14 @@
   "id": 790459473,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 W 300 S Valparaiso IN 46385",
+    "addr:housenumber":"401",
+    "addr:postcode":"46385",
+    "addr:street":"W 300 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.142883,41.391308,-87.142883,41.391308",
     "geom:latitude":41.391308,
     "geom:longitude":-87.142883,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72d3AisTuzMrd53SXJWxgy_41.391308_-87.142883@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462596008,
     "wof:geomhash":"567442975b681fd77481b29d093a0c2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":790459473
+        }
+    ],
     "wof:id":790459473,
-    "wof:lastmodified":1466510910,
+    "wof:lastmodified":1492103086,
     "wof:name":"B C Tile",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

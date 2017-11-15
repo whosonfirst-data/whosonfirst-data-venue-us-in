@@ -2,9 +2,14 @@
   "id": 773683003,
   "type": "Feature",
   "properties": {
+    "addr:full":"5438 E 1093 N Demotte IN 46310",
+    "addr:housenumber":"5438",
+    "addr:postcode":"46310",
+    "addr:street":"E 1093 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.287299,41.157919,-87.287299,41.157919",
     "geom:latitude":41.157919,
     "geom:longitude":-87.287299,
@@ -28,7 +33,14 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zRWQv3AhudGDZr115hawx_41.157919_-87.287299@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462587563,
     "wof:geomhash":"c1a41d3a608af7a4e9254039522b2523",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773683003
+        }
+    ],
     "wof:id":773683003,
-    "wof:lastmodified":1466517863,
+    "wof:lastmodified":1492106679,
     "wof:name":"Roselawn Little League Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

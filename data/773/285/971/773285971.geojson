@@ -2,9 +2,14 @@
   "id": 773285971,
   "type": "Feature",
   "properties": {
+    "addr:full":"4908 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4908",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360479,41.528968,-87.360479,41.528968",
     "geom:latitude":41.528968,
     "geom:longitude":-87.360479,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jPWaxUnbmj5u63T9e2Kxo_41.528968_-87.360479@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584570,
     "wof:geomhash":"f9e8766aa7ebc6347b0fe69f4c329e04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773285971
+        }
+    ],
     "wof:id":773285971,
-    "wof:lastmodified":1466507187,
+    "wof:lastmodified":1492090439,
     "wof:name":"Tint Man Dan",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

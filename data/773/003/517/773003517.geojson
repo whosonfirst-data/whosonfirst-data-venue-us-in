@@ -2,14 +2,20 @@
   "id": 773003517,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Washington St Columbus IN 47201",
+    "addr:housenumber":"700",
+    "addr:postcode":"47201",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.921303,39.206728,-85.921303,39.206728",
     "geom:latitude":39.206728,
     "geom:longitude":-85.921303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Washington St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85821009,
         102087181
     ],
+    "wof:brand_id":1125154447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O9cuX1DgORhCt2n1azunm_39.206728_-85.921303@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582183,
-    "wof:geomhash":"fd22c6fd8104269155fa6bc8c611af4d",
+    "wof:geomhash":"5846023fd27a2d4b85683192458e026b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773003517,
-    "wof:lastmodified":1466503219,
+    "wof:lastmodified":1510694784,
     "wof:name":"Lockheed Martin Corp",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

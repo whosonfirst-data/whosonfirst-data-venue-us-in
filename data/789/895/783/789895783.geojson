@@ -2,14 +2,20 @@
   "id": 789895783,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 N Mc Creary St Fort Branch IN 47648",
+    "addr:housenumber":"121",
+    "addr:postcode":"47648",
+    "addr:street":"N Mc Creary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.580003,38.24772,-87.580003,38.24772",
     "geom:latitude":38.24772,
     "geom:longitude":-87.580003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 N Mc Creary St",
     "sg:city":"Fort Branch",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086375,
         85804327
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gNxrrPAVwZOGjQAxrPOca_38.247720_-87.580003@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591411,
-    "wof:geomhash":"661705c309d71235fac9bb5aeab32be2",
+    "wof:geomhash":"5e73cb9720cb012438d426f9dba9f1cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789895783,
-    "wof:lastmodified":1466507403,
+    "wof:lastmodified":1510697515,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85804327,
     "wof:placetype":"venue",

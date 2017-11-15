@@ -2,14 +2,20 @@
   "id": 403959539,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 W Markland Ave Kokomo IN 46901",
+    "addr:housenumber":"308",
+    "addr:postcode":"46901",
+    "addr:street":"W Markland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.134501,40.476442,-86.134501,40.476442",
     "geom:latitude":40.476442,
     "geom:longitude":-86.134501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 W Markland Ave",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85941761,
         102086365
     ],
+    "wof:brand_id":1125152059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Uphdjn3YvSkTbtp97qJv_40.476442_-86.134501@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2ccbdd1e13b6b63c7deb701a4cc2675",
+    "wof:geomhash":"16de3b606633db7f91f03973cf16e8cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403959539,
-    "wof:lastmodified":1466503242,
+    "wof:lastmodified":1510697078,
     "wof:name":"Papa Murphy's Take 'N' Bake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

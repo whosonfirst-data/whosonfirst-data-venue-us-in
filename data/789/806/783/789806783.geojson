@@ -2,9 +2,14 @@
   "id": 789806783,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"320",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.519475,41.562654,-87.519475,41.562654",
     "geom:latitude":41.562654,
     "geom:longitude":-87.519475,
@@ -28,7 +33,14 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pWUmAx67bvfKBYUOkPTrb_41.562654_-87.519475@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590690,
     "wof:geomhash":"b4dd1ec67a5d17923583694ba1e6f6c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":789806783
+        }
+    ],
     "wof:id":789806783,
-    "wof:lastmodified":1466506557,
+    "wof:lastmodified":1492097608,
     "wof:name":"Check 'n Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

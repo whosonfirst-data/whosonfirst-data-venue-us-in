@@ -2,6 +2,10 @@
   "id": 773154177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1502 S 475 W Columbus IN 47201",
+    "addr:housenumber":"1502;475",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773154177,
-    "wof:lastmodified":1466505864,
+    "wof:lastmodified":1472622769,
     "wof:name":"Bickel Construction",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

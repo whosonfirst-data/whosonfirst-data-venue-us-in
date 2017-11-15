@@ -2,9 +2,14 @@
   "id": 773563045,
   "type": "Feature",
   "properties": {
+    "addr:full":"8237 Forest Ave Munster IN 46321",
+    "addr:housenumber":"8237",
+    "addr:postcode":"46321",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.523829,41.565439,-87.523829,41.565439",
     "geom:latitude":41.565439,
     "geom:longitude":-87.523829,
@@ -28,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72EZCQlIm0zyodFZtKxbDk_41.565439_-87.523829@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462586674,
     "wof:geomhash":"81c358fbad67babb4ff6a13fa8a0e9ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":773563045
+        }
+    ],
     "wof:id":773563045,
-    "wof:lastmodified":1466515292,
+    "wof:lastmodified":1492092105,
     "wof:name":"Travel Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807049829,
   "type": "Feature",
   "properties": {
+    "addr:full":"6050 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"6050",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.409434,41.54925,-87.409434,41.54925",
     "geom:latitude":41.54925,
     "geom:longitude":-87.409434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6050 W Ridge Rd",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -59,13 +65,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GctttK2BFAiUPrOsHnRcu_41.549250_-87.409434@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603287,
-    "wof:geomhash":"b8a56c3c0fcccd87bd06ddcf6c970c81",
+    "wof:geomhash":"824b13434e3eb00495930d8a9ae825ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":807049829,
-    "wof:lastmodified":1466504200,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85806281,
     "wof:placetype":"venue",

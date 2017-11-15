@@ -2,9 +2,14 @@
   "id": 790488437,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 W Rensselaer St Rensselaer IN 47964",
+    "addr:housenumber":"208",
+    "addr:postcode":"47964",
+    "addr:street":"W Rensselaer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.301189,40.951115,-87.301189,40.951115",
     "geom:latitude":40.951115,
     "geom:longitude":-87.301189,
@@ -24,7 +29,14 @@
     "sg:postcode":"47964",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501339,
+        85633793,
+        85942433,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SQk6gWnKqmD43ggjIqN5W_40.951115_-87.301189@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462596279,
     "wof:geomhash":"b3569943b079acbdc447f1bae485fcc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501339,
+            "locality_id":85942433,
+            "region_id":85688709,
+            "venue_id":790488437
+        }
+    ],
     "wof:id":790488437,
-    "wof:lastmodified":1466511693,
+    "wof:lastmodified":1492103018,
     "wof:name":"Hoover House Furniture & Crpt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

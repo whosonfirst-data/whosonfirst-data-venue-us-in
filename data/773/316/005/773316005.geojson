@@ -2,14 +2,20 @@
   "id": 773316005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4713 US Hwy 31 Seymour IN 47274",
+    "addr:housenumber":"4713",
+    "addr:postcode":"47274",
+    "addr:street":"Us Hwy 31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.834376,38.947729,-85.834376,38.947729",
     "geom:latitude":38.947729,
     "geom:longitude":-85.834376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4713 US Hwy 31",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125157895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oRsPnptV4SuemqbC2TnWo_38.947729_-85.834376@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584816,
-    "wof:geomhash":"cf4f4bf48ba456ea367472a32a55bdf4",
+    "wof:geomhash":"fa77e30662fe983add8182ecaf1a5255",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773316005,
-    "wof:lastmodified":1466507456,
+    "wof:lastmodified":1510694207,
     "wof:name":"Longaberger",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

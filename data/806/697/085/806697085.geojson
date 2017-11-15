@@ -2,9 +2,14 @@
   "id": 806697085,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"919",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825905,41.713198,-86.825905,41.713198",
     "geom:latitude":41.713198,
     "geom:longitude":-86.825905,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GI4ZwwoC5g1xZfmY5tflI_41.713198_-86.825905@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600312,
     "wof:geomhash":"445485cc190f209761622aae6804b4f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806697085
+        }
+    ],
     "wof:id":806697085,
-    "wof:lastmodified":1466510919,
+    "wof:lastmodified":1492094830,
     "wof:name":"Crabb's Used Cars",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

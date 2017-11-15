@@ -2,6 +2,10 @@
   "id": 789799895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 S 750 E Lafayette IN 47905",
+    "addr:housenumber":"1111;750 e",
+    "addr:postcode":"47905",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789799895,
-    "wof:lastmodified":1466506479,
+    "wof:lastmodified":1472622650,
     "wof:name":"Sunrise Communication",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

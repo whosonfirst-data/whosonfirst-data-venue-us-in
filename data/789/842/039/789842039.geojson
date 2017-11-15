@@ -2,9 +2,14 @@
   "id": 789842039,
   "type": "Feature",
   "properties": {
+    "addr:full":"3550 S State Rd 2 Valparaiso IN 46385",
+    "addr:housenumber":"3550",
+    "addr:postcode":"46385",
+    "addr:street":"S State Rd 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.109638,41.435197,-87.109638,41.435197",
     "geom:latitude":41.435197,
     "geom:longitude":-87.109638,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jd5v33EuA81ztPudyBWY5_41.435197_-87.109638@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462590962,
     "wof:geomhash":"cc1186490155e34b10f157df89c89f5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":789842039
+        }
+    ],
     "wof:id":789842039,
-    "wof:lastmodified":1466507002,
+    "wof:lastmodified":1492095711,
     "wof:name":"Family Express Corp",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

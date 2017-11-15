@@ -2,9 +2,14 @@
   "id": 790423453,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 E Graham St Kentland IN 47951",
+    "addr:housenumber":"309",
+    "addr:postcode":"47951",
+    "addr:street":"E Graham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.44506,40.769035,-87.44506,40.769035",
     "geom:latitude":40.769035,
     "geom:longitude":-87.44506,
@@ -24,7 +29,14 @@
     "sg:postcode":"47951",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55UC6k9OHhTmETb9yxHof5_40.769035_-87.445060@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462595707,
     "wof:geomhash":"725fee99c3799dd1e4a2eefcc4de9df4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790423453
+        }
+    ],
     "wof:id":790423453,
-    "wof:lastmodified":1466508525,
+    "wof:lastmodified":1492092078,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

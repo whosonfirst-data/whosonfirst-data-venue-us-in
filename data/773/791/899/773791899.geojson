@@ -2,6 +2,10 @@
   "id": 773791899,
   "type": "Feature",
   "properties": {
+    "addr:full":"5019 W State Rd 47 Thorntown IN 46071",
+    "addr:housenumber":"5019;47",
+    "addr:postcode":"thorntown;46071",
+    "addr:street":"W State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773791899,
-    "wof:lastmodified":1466518998,
+    "wof:lastmodified":1472623238,
     "wof:name":"Thorntown Veterinary Clinic",
     "wof:parent_id":85807195,
     "wof:placetype":"venue",

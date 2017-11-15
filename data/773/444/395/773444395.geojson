@@ -2,14 +2,20 @@
   "id": 773444395,
   "type": "Feature",
   "properties": {
+    "addr:full":"4310 Scatterfield Rd Anderson IN 46013",
+    "addr:housenumber":"4310",
+    "addr:postcode":"46013",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652634,40.069708,-85.652634,40.069708",
     "geom:latitude":40.069708,
     "geom:longitude":-85.652634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4310 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":420575253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ZfeRa3R54rIMTsojjNdq_40.069708_-85.652634@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585796,
-    "wof:geomhash":"694c084afe9a0104000288ee890ba362",
+    "wof:geomhash":"8aa9da7d1e3a54927dbdefab5137eb75",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773444395,
-    "wof:lastmodified":1466511709,
+    "wof:lastmodified":1510602515,
     "wof:name":"Friedman's",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

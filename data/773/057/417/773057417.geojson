@@ -2,9 +2,14 @@
   "id": 773057417,
   "type": "Feature",
   "properties": {
+    "addr:full":"13284 S 650 E Goodland IN 47948",
+    "addr:housenumber":"13284;650 e;in",
+    "addr:postcode":"47948",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.267656,40.805077,-87.267656,40.805077",
     "geom:latitude":40.805077,
     "geom:longitude":-87.267656,
@@ -27,7 +32,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ciyA92bf2Fp1XznM9hVH8_40.805077_-87.267656@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462582824,
     "wof:geomhash":"df067f1fed2b70684977178c951b2710",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "region_id":85688709,
+            "venue_id":773057417
+        }
+    ],
     "wof:id":773057417,
-    "wof:lastmodified":1466504513,
+    "wof:lastmodified":1492097318,
     "wof:name":"Farrells Business Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

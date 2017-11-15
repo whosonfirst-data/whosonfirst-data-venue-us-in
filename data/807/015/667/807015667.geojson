@@ -2,9 +2,14 @@
   "id": 807015667,
   "type": "Feature",
   "properties": {
+    "addr:full":"10007 W 109th Ave Cedar Lake IN 46303",
+    "addr:housenumber":"10007",
+    "addr:postcode":"46303",
+    "addr:street":"W 109Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454752,41.420923,-87.454752,41.420923",
     "geom:latitude":41.420923,
     "geom:longitude":-87.454752,
@@ -28,7 +33,13 @@
     ],
     "sg:website":"www.twomenandatruck.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lkeNg9becnmI96Vyja3bx_41.420923_-87.454752@1303262769"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462602992,
     "wof:geomhash":"4bf7e89f54e36e724cf393f94392517f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":807015667
+        }
+    ],
     "wof:id":807015667,
-    "wof:lastmodified":1466504051,
+    "wof:lastmodified":1492094659,
     "wof:name":"Two Men and A Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

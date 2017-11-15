@@ -2,9 +2,14 @@
   "id": 806628455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1654 N McKinley Ave Rensselaer IN 47978",
+    "addr:housenumber":"1654",
+    "addr:postcode":"47978",
+    "addr:street":"N Mckinley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.151458,40.951293,-87.151458,40.951293",
     "geom:latitude":40.951293,
     "geom:longitude":-87.151458,
@@ -24,7 +29,14 @@
     "sg:postcode":"47978",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aohcQl7zZnpvZKb2I3w0R_40.951293_-87.151458@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462599723,
     "wof:geomhash":"7873b683eb330459be8d1542822d9cc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":806628455
+        }
+    ],
     "wof:id":806628455,
-    "wof:lastmodified":1466507807,
+    "wof:lastmodified":1492104029,
     "wof:name":"Bazz's Eat-N-Sip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

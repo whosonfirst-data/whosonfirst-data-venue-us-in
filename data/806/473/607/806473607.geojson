@@ -2,9 +2,14 @@
   "id": 806473607,
   "type": "Feature",
   "properties": {
+    "addr:full":"4268 Broadway Gary IN 46408",
+    "addr:housenumber":"4268",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.33643,41.54164,-87.33643,41.54164",
     "geom:latitude":41.54164,
     "geom:longitude":-87.33643,
@@ -27,7 +32,10 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K6u0pZUS0Nor15rRrWszd_41.541640_-87.336430@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598413,
     "wof:geomhash":"ba35fd909d1b35f633400b7e23e19c1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806473607
+        }
+    ],
     "wof:id":806473607,
-    "wof:lastmodified":1466505676,
+    "wof:lastmodified":1492100662,
     "wof:name":"Margo's Catering Svc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

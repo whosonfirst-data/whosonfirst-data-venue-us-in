@@ -2,9 +2,14 @@
   "id": 773068749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1438 119th St Whiting IN 46394",
+    "addr:housenumber":"1438",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.495393,41.679294,-87.495393,41.679294",
     "geom:latitude":41.679294,
     "geom:longitude":-87.495393,
@@ -28,7 +33,14 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DnsRJLzvECIxQkcBmEAhk_41.679294_-87.495393@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462582926,
     "wof:geomhash":"da9c8f8569ff00cfd17623cb23848938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":773068749
+        }
+    ],
     "wof:id":773068749,
-    "wof:lastmodified":1466504816,
+    "wof:lastmodified":1492102930,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

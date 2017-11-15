@@ -2,9 +2,14 @@
   "id": 403973953,
   "type": "Feature",
   "properties": {
+    "addr:full":"470 S College Ave Rensselaer IN 47978",
+    "addr:housenumber":"470",
+    "addr:postcode":"47978",
+    "addr:street":"S College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.155993,40.930061,-87.155993,40.930061",
     "geom:latitude":40.930061,
     "geom:longitude":-87.155993,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501003,
         85633793,
         85941697,
         102087005
@@ -38,17 +45,17 @@
     "wof:geomhash":"3932f8dfd0bb65bb31846fa70532fdd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087005,
+            "localadmin_id":404501003,
             "locality_id":85941697,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":403973953
         }
     ],
     "wof:id":403973953,
-    "wof:lastmodified":1466503270,
+    "wof:lastmodified":1492104557,
     "wof:name":"Meridian Title Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

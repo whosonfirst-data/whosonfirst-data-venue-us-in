@@ -2,14 +2,20 @@
   "id": 806387725,
   "type": "Feature",
   "properties": {
+    "addr:full":"24241 State Line Rd Lawrenceburg IN 47025",
+    "addr:housenumber":"24241",
+    "addr:postcode":"47025",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.859444,39.224968,-84.859444,39.224968",
     "geom:latitude":39.224968,
     "geom:longitude":-84.859444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24241 State Line Rd",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087067,
         85823947
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NCPOqgaswQzrd83oFHOsB_39.224968_-84.859444@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597737,
-    "wof:geomhash":"159fa9fe10fc25888d7d5d12a39fc890",
+    "wof:geomhash":"2e1089d03661a816973a8b3b9bba2959",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806387725,
-    "wof:lastmodified":1466504355,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85823947,
     "wof:placetype":"venue",

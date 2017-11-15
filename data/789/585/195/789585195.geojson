@@ -2,9 +2,14 @@
   "id": 789585195,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Riviera Rd Valparaiso IN 46385",
+    "addr:housenumber":"546",
+    "addr:postcode":"46385",
+    "addr:street":"Riviera Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.137811,41.51309,-87.137811,41.51309",
     "geom:latitude":41.51309,
     "geom:longitude":-87.137811,
@@ -27,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PceTUUGhFDlAY7bMGd1kt_41.513090_-87.137811@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588950,
     "wof:geomhash":"5c0b65e10e751d3d03e45126105b461e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789585195
+        }
+    ],
     "wof:id":789585195,
-    "wof:lastmodified":1466503335,
+    "wof:lastmodified":1492088032,
     "wof:name":"Kids Are People Too",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

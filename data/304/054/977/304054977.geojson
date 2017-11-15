@@ -2,14 +2,20 @@
   "id": 304054977,
   "type": "Feature",
   "properties": {
+    "addr:full":"4119 N Clinton St Fort Wayne IN 46805",
+    "addr:housenumber":"4119",
+    "addr:postcode":"46805",
+    "addr:street":"N Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.129532,41.116848,-85.129532,41.116848",
     "geom:latitude":41.116848,
     "geom:longitude":-85.129532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4119 N Clinton St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102087177,
         85838221
     ],
+    "wof:brand_id":1125157697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c8MgJlqP8G8KJJ4rECMF3_41.116848_-85.129532@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"32e635e0578ca7baf9cac008af23decf",
+    "wof:geomhash":"6fa78a171047cc117b42cedac17f0883",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":304054977,
-    "wof:lastmodified":1466503479,
+    "wof:lastmodified":1510694899,
     "wof:name":"P P G Auto Glass",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

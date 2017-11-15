@@ -2,9 +2,14 @@
   "id": 773794567,
   "type": "Feature",
   "properties": {
+    "addr:full":"10062 N 600 E Demotte IN 46310",
+    "addr:housenumber":"10062",
+    "addr:postcode":"46310",
+    "addr:street":"N 600 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.275799,41.144534,-87.275799,41.144534",
     "geom:latitude":41.144534,
     "geom:longitude":-87.275799,
@@ -24,7 +29,14 @@
     "sg:postcode":"46310",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kEJvcK4o2gdNoldmsNPrN_41.144534_-87.275799@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462588427,
     "wof:geomhash":"0400bc231748024c49135c61e7b28b00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773794567
+        }
+    ],
     "wof:id":773794567,
-    "wof:lastmodified":1466518587,
+    "wof:lastmodified":1492097440,
     "wof:name":"Kentland Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

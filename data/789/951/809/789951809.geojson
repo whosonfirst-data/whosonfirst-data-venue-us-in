@@ -2,6 +2,10 @@
   "id": 789951809,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 E Stop 12 Rd Indianapolis IN 46227",
+    "addr:housenumber":"2100;12",
+    "addr:postcode":"46227",
+    "addr:street":"E Stop;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789951809,
-    "wof:lastmodified":1466508717,
+    "wof:lastmodified":1472622806,
     "wof:name":"Oak Park Apartments",
     "wof:parent_id":85870681,
     "wof:placetype":"venue",

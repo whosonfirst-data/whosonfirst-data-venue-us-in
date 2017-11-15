@@ -2,9 +2,14 @@
   "id": 772995055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4520 Grant St Gary IN 46408",
+    "addr:housenumber":"4520",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355709,41.535438,-87.355709,41.535438",
     "geom:latitude":41.535438,
     "geom:longitude":-87.355709,
@@ -28,7 +33,10 @@
         "rest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R8mk4a6DuBJOO7y07gcss_41.535438_-87.355709@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462581882,
     "wof:geomhash":"6942dbfb08e331a405af732e487a3df8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":772995055
+        }
+    ],
     "wof:id":772995055,
-    "wof:lastmodified":1466502913,
+    "wof:lastmodified":1492088030,
     "wof:name":"Vicki Battle-Cashwell & Assoc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

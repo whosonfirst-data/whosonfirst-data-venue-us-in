@@ -2,9 +2,14 @@
   "id": 790614977,
   "type": "Feature",
   "properties": {
+    "addr:full":"4334 Massachusetts St Gary IN 46409",
+    "addr:housenumber":"4334",
+    "addr:postcode":"46409",
+    "addr:street":"Massachusetts St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.335141,41.539184,-87.335141,41.539184",
     "geom:latitude":41.539184,
     "geom:longitude":-87.335141,
@@ -28,7 +33,10 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75gXnhO4npQnxvOrTTgSGb_41.539184_-87.335141@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462597359,
     "wof:geomhash":"800e9dfaead0e7e36a428e520f340e4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790614977
+        }
+    ],
     "wof:id":790614977,
-    "wof:lastmodified":1466515837,
+    "wof:lastmodified":1492100593,
     "wof:name":"Info-Power",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

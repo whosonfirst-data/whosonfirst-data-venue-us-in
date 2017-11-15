@@ -2,9 +2,14 @@
   "id": 404002319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W Indiana Ave Chesterton IN 46304",
+    "addr:housenumber":"1001",
+    "addr:postcode":"46304",
+    "addr:street":"W Indiana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066609,41.610509,-87.066609,41.610509",
     "geom:latitude":41.610509,
     "geom:longitude":-87.066609,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85823475,
+        102191575,
+        404501725,
         85633793,
         85942397,
         102087191,
-        85823475
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"44827286dbc01c9d967538e51600b351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087191,
+            "localadmin_id":404501725,
             "locality_id":85942397,
             "neighbourhood_id":85823475,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":404002319,
-    "wof:lastmodified":1466502885,
+    "wof:lastmodified":1492106683,
     "wof:name":"Quality Painting & Decorating",
     "wof:parent_id":85823475,
     "wof:placetype":"venue",

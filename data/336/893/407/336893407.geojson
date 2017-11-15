@@ -2,9 +2,14 @@
   "id": 336893407,
   "type": "Feature",
   "properties": {
+    "addr:full":"773 N 400 E Valparaiso IN 46383",
+    "addr:housenumber":"773",
+    "addr:postcode":"46383",
+    "addr:street":"N 400 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.985582,41.5404,-86.985582,41.5404",
     "geom:latitude":41.5404,
     "geom:longitude":-86.985582,
@@ -28,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
         85633793,
-        85688709
+        102087191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +47,16 @@
     "wof:geomhash":"de54db60685c3a4e50ee9f017d2deaf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087191,
+            "localadmin_id":404500379,
             "region_id":85688709,
             "venue_id":336893407
         }
     ],
     "wof:id":336893407,
-    "wof:lastmodified":1466503264,
+    "wof:lastmodified":1492092139,
     "wof:name":"Woodlands Communications Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

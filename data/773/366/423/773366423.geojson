@@ -2,6 +2,10 @@
   "id": 773366423,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 State Rd 44 Martinsville IN 46151",
+    "addr:housenumber":"2350;44",
+    "addr:postcode":"46151",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773366423,
-    "wof:lastmodified":1466508279,
+    "wof:lastmodified":1472623100,
     "wof:name":"Dunigan Sanitation Svc",
     "wof:parent_id":85868893,
     "wof:placetype":"venue",

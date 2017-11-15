@@ -2,14 +2,20 @@
   "id": 806473303,
   "type": "Feature",
   "properties": {
+    "addr:full":"10575 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"10575",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.972274,39.775657,-85.972274,39.775657",
     "geom:latitude":39.775657,
     "geom:longitude":-85.972274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10575 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68naiR42kjqIo5twlLsjNQ_39.775657_-85.972274@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598411,
-    "wof:geomhash":"9f3d55d1c4c2784916c8d79ddb95068a",
+    "wof:geomhash":"2a5687390ca2a88d82c7b24d256eb277",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806473303,
-    "wof:lastmodified":1466505667,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

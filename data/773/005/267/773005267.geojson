@@ -2,9 +2,14 @@
   "id": 773005267,
   "type": "Feature",
   "properties": {
+    "addr:full":"14289 Co Rd 380 Remington IN 47977",
+    "addr:housenumber":"14289;380",
+    "addr:postcode":"47977",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.118756,40.805096,-87.118756,40.805096",
     "geom:latitude":40.805096,
     "geom:longitude":-87.118756,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500065,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eXqs0IUerBehl6DdJE4RX_40.805096_-87.118756@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462582226,
     "wof:geomhash":"25fd606dfc428092f24f2519af45a432",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500065,
+            "region_id":85688709,
+            "venue_id":773005267
+        }
+    ],
     "wof:id":773005267,
-    "wof:lastmodified":1466503353,
+    "wof:lastmodified":1492097633,
     "wof:name":"D & K Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806995871,
   "type": "Feature",
   "properties": {
+    "addr:full":"8402 Harcourt Rd Indianapolis IN 46260",
+    "addr:housenumber":"8402",
+    "addr:postcode":"46260",
+    "addr:street":"Harcourt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.194053,39.90862,-86.194053,39.90862",
     "geom:latitude":39.90862,
     "geom:longitude":-86.194053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8402 Harcourt Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MAg9ybduBQnhsCVxWiqMM_39.908620_-86.194053@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602819,
-    "wof:geomhash":"2693d6ef17ca78ba9c3e7ee6cd2a872d",
+    "wof:geomhash":"c423781fe2a8bd8ac0baa7692b7a2eba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806995871,
-    "wof:lastmodified":1466519253,
+    "wof:lastmodified":1510696820,
     "wof:name":"Anywhere A Locksmith Service",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",

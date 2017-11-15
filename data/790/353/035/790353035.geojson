@@ -2,9 +2,14 @@
   "id": 790353035,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 Woodbridge Dr Lowell IN 46356",
+    "addr:housenumber":"418",
+    "addr:postcode":"46356",
+    "addr:street":"Woodbridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.404176,41.29591,-87.404176,41.29591",
     "geom:latitude":41.29591,
     "geom:longitude":-87.404176,
@@ -27,7 +32,14 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qYB5tDSNOBdClkXSrV1u4_41.295910_-87.404176@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462595160,
     "wof:geomhash":"9303333de36ca333e18f7e1e7714b810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":790353035
+        }
+    ],
     "wof:id":790353035,
-    "wof:lastmodified":1466507442,
+    "wof:lastmodified":1492091555,
     "wof:name":"Quality Kitchen Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

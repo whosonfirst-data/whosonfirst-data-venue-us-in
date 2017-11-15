@@ -2,9 +2,14 @@
   "id": 806583297,
   "type": "Feature",
   "properties": {
+    "addr:full":"24161 S Volbrecht Rd Crete IN 60417",
+    "addr:housenumber":"24161",
+    "addr:postcode":"60417",
+    "addr:street":"S Volbrecht Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.57479,41.457316,-87.57479,41.457316",
     "geom:latitude":41.457316,
     "geom:longitude":-87.57479,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wqflBenVE82yYuUuIIYTP_41.457316_-87.574790@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462599339,
     "wof:geomhash":"096abd486065bd17f09b746cbae3f528",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":806583297
+        }
+    ],
     "wof:id":806583297,
-    "wof:lastmodified":1466507087,
+    "wof:lastmodified":1492096217,
     "wof:name":"Kayla Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

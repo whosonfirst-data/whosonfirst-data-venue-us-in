@@ -2,14 +2,20 @@
   "id": 773293907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1741 Fillmore St Gary IN 46407",
+    "addr:housenumber":"1741",
+    "addr:postcode":"46407",
+    "addr:street":"Fillmore St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.350168,41.584982,-87.350168,41.584982",
     "geom:latitude":41.584982,
     "geom:longitude":-87.350168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1741 Fillmore St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125155937,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03BWRdjkK3OnL6qqyCZ0t0_41.584982_-87.350168@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584630,
-    "wof:geomhash":"57f50f264c7b91b35b9d858ed5e43446",
+    "wof:geomhash":"5fdae38a7b4770a17ab009cd03e209bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773293907,
-    "wof:lastmodified":1466507285,
+    "wof:lastmodified":1510697225,
     "wof:name":"Jerusalem Baptist Church",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790622619,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Scatterfield Rd Anderson IN 46016",
+    "addr:housenumber":"1620",
+    "addr:postcode":"46016",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652493,40.100918,-85.652493,40.100918",
     "geom:latitude":40.100918,
     "geom:longitude":-85.652493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1620 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p4QWEevAicrwoaQjJFZdW_40.100918_-85.652493@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597438,
-    "wof:geomhash":"8aee56ddcc53b6a6817f65ed58e954b3",
+    "wof:geomhash":"65a1d5beac3cc171ef7f4fa51c949b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":790622619,
-    "wof:lastmodified":1466515882,
+    "wof:lastmodified":1510695267,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85823225,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773140303,
   "type": "Feature",
   "properties": {
+    "addr:full":"4409 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4409",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360416,41.537063,-87.360416,41.537063",
     "geom:latitude":41.537063,
     "geom:longitude":-87.360416,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TSrt2LHAHaUl7rllE625X_41.537063_-87.360416@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462583438,
     "wof:geomhash":"3b1393e7858e61e43dd9e538bee73b9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773140303
+        }
+    ],
     "wof:id":773140303,
-    "wof:lastmodified":1466505751,
+    "wof:lastmodified":1492102950,
     "wof:name":"Kirk's Auto",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

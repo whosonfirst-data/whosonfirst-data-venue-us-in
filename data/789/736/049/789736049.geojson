@@ -2,14 +2,20 @@
   "id": 789736049,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 W Wayne St Fort Wayne IN 46802",
+    "addr:housenumber":"802",
+    "addr:postcode":"46802",
+    "addr:street":"W Wayne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.150929,41.076546,-85.150929,41.076546",
     "geom:latitude":41.076546,
     "geom:longitude":-85.150929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 W Wayne St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mmZzZXx8fPQbrLPiZ6I7Q_41.076546_-85.150929@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590146,
-    "wof:geomhash":"3119d6e4f52c347a22a7b27e3ad5dd06",
+    "wof:geomhash":"106b356465ed89a518c04167b8eb42f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789736049,
-    "wof:lastmodified":1466505755,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85877571,
     "wof:placetype":"venue",

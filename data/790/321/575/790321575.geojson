@@ -2,14 +2,20 @@
   "id": 790321575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3440 S 25 W Warsaw IN 46580",
+    "addr:housenumber":"3440;25",
+    "addr:postcode":"46580",
+    "addr:street":"S;W Warsaw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.847043,41.184242,-85.847043,41.184242",
     "geom:latitude":41.184242,
     "geom:longitude":-85.847043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3440 S 25 W",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BfHjblnAYubXqRuk9gTBy_41.184242_-85.847043@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594925,
-    "wof:geomhash":"491a81f30999f103fb90e1b3bfa851a8",
+    "wof:geomhash":"f30fc83a32e0dbc4037d3d7aec0da2be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790321575,
-    "wof:lastmodified":1466507147,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790586259,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Windamer Ct Valparaiso IN 46383",
+    "addr:housenumber":"504",
+    "addr:postcode":"46383",
+    "addr:street":"Windamer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.053791,41.507696,-87.053791,41.507696",
     "geom:latitude":41.507696,
     "geom:longitude":-87.053791,
@@ -28,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sd88z7oRNd3OCCnntTcg5_41.507696_-87.053791@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462597095,
     "wof:geomhash":"326814e66e9c1f2aeb0895897d5e5b47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790586259
+        }
+    ],
     "wof:id":790586259,
-    "wof:lastmodified":1466514875,
+    "wof:lastmodified":1492097458,
     "wof:name":"Primus Care Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

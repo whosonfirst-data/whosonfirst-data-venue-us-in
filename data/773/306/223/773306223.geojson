@@ -2,9 +2,14 @@
   "id": 773306223,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N 6th St Kentland IN 47951",
+    "addr:housenumber":"101",
+    "addr:postcode":"47951",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.439666,40.768916,-87.439666,40.768916",
     "geom:latitude":40.768916,
     "geom:longitude":-87.439666,
@@ -24,7 +29,14 @@
     "sg:postcode":"47951",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AnDytlrwsAeGyT7IrsQMT_40.768916_-87.439666@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462584731,
     "wof:geomhash":"0ba24b4850d31183580679cb4b26a9e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":773306223
+        }
+    ],
     "wof:id":773306223,
-    "wof:lastmodified":1466507356,
+    "wof:lastmodified":1492090304,
     "wof:name":"Kindell Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

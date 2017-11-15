@@ -2,14 +2,20 @@
   "id": 806582073,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Cross Pointe Blvd Evansville IN 47715",
+    "addr:housenumber":"501",
+    "addr:postcode":"47715",
+    "addr:street":"Cross Pointe Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.462695,37.9798,-87.462695,37.9798",
     "geom:latitude":37.9798,
     "geom:longitude":-87.462695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Cross Pointe Blvd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rbFT4YmiPcVkmXQl6wLOO_37.979800_-87.462695@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599325,
-    "wof:geomhash":"ca96542addd549791803721be19d7661",
+    "wof:geomhash":"624ef1ab21db064dd0456533115fc421",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806582073,
-    "wof:lastmodified":1466507196,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",

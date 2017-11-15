@@ -2,9 +2,14 @@
   "id": 773646801,
   "type": "Feature",
   "properties": {
+    "addr:full":"10073 N State Rd 55 Demotte IN 46310",
+    "addr:housenumber":"10073;55",
+    "addr:postcode":"46310",
+    "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.334023,41.152072,-87.334023,41.152072",
     "geom:latitude":41.152072,
     "geom:longitude":-87.334023,
@@ -24,7 +29,13 @@
     "sg:postcode":"46310",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lWHPJiPfRIV3gwkSThKqU_41.152072_-87.334023@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462587306,
     "wof:geomhash":"5cb09e7ed7e6d112f4e4ad4d49ba2ca0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":773646801
+        }
+    ],
     "wof:id":773646801,
-    "wof:lastmodified":1466516937,
+    "wof:lastmodified":1492097439,
     "wof:name":"Frankie's Village Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

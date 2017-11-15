@@ -2,14 +2,20 @@
   "id": 773599915,
   "type": "Feature",
   "properties": {
+    "addr:full":"5624 W Jefferson Blvd Fort Wayne IN 46804",
+    "addr:housenumber":"5624",
+    "addr:postcode":"46804",
+    "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.214595,41.060732,-85.214595,41.060732",
     "geom:latitude":41.060732,
     "geom:longitude":-85.214595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5624 W Jefferson Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e0mdHLI3qeXfrJLNCWIeN_41.060732_-85.214595@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586942,
-    "wof:geomhash":"a9c6017267416f2b5488cd93c6a43e1b",
+    "wof:geomhash":"a761e0190e866ed6ffcbfe40afed5ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773599915,
-    "wof:lastmodified":1466516130,
+    "wof:lastmodified":1510613320,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":420519437,
     "wof:placetype":"venue",

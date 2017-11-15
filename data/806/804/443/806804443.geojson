@@ -2,14 +2,20 @@
   "id": 806804443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1360 Indianapolis Rd Greencastle IN 46135",
+    "addr:housenumber":"1360",
+    "addr:postcode":"46135",
+    "addr:street":"Indianapolis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.832505,39.646272,-86.832505,39.646272",
     "geom:latitude":39.646272,
     "geom:longitude":-86.832505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1360 Indianapolis Rd",
     "sg:city":"Greencastle",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087217,
         85688709
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cbx9SB1xoSBT300WtDjhx_39.646272_-86.832505@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601224,
-    "wof:geomhash":"71120f23c0ee70f65351d9d8e60c8276",
+    "wof:geomhash":"332f2de26d87337a0442f6622cd2c0d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806804443,
-    "wof:lastmodified":1466515351,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",

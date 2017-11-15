@@ -2,9 +2,14 @@
   "id": 806538563,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 W 800 S Hebron IN 46341",
+    "addr:housenumber":"751",
+    "addr:postcode":"46341",
+    "addr:street":"W 800 S Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.217626,41.318732,-87.217626,41.318732",
     "geom:latitude":41.318732,
     "geom:longitude":-87.217626,
@@ -29,7 +34,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qAgHGoZYhSYIXVDEGHekq_41.318732_-87.217626@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462598943,
     "wof:geomhash":"37e7c37314579dbb17d1512e91d89ba6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "region_id":85688709,
+            "venue_id":806538563
+        }
+    ],
     "wof:id":806538563,
-    "wof:lastmodified":1466506562,
+    "wof:lastmodified":1492090734,
     "wof:name":"Hebron Little League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

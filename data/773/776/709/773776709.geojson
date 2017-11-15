@@ -2,9 +2,14 @@
   "id": 773776709,
   "type": "Feature",
   "properties": {
+    "addr:full":"10803 Potomac Dr Demotte IN 46310",
+    "addr:housenumber":"10803",
+    "addr:postcode":"46310",
+    "addr:street":"Potomac Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.266185,41.165624,-87.266185,41.165624",
     "geom:latitude":41.165624,
     "geom:longitude":-87.266185,
@@ -27,7 +32,14 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iJ36PQZlUnt4w763f0rOu_41.165624_-87.266185@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462588290,
     "wof:geomhash":"685a5b0a56fa21db722cfbe9933b0e14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773776709
+        }
+    ],
     "wof:id":773776709,
-    "wof:lastmodified":1466518726,
+    "wof:lastmodified":1492106680,
     "wof:name":"Building Doctor Esquire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

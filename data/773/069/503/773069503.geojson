@@ -2,14 +2,20 @@
   "id": 773069503,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 N Briarwood Ln Muncie IN 47304",
+    "addr:housenumber":"3640",
+    "addr:postcode":"47304",
+    "addr:street":"N Briarwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.428233,40.220697,-85.428233,40.220697",
     "geom:latitude":40.220697,
     "geom:longitude":-85.428233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3640 N Briarwood Ln",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JbE9IoKR00ESe5SbgWm2B_40.220697_-85.428233@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582931,
-    "wof:geomhash":"2b71fdc78e129a44965b961ebf45feee",
+    "wof:geomhash":"59aeba66c46c6e849a088ecc210d2750",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773069503,
-    "wof:lastmodified":1466504829,
+    "wof:lastmodified":1510602890,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

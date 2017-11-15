@@ -2,14 +2,20 @@
   "id": 790507619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2313 E 10th St Anderson IN 46012",
+    "addr:housenumber":"2313",
+    "addr:postcode":"46012",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.650901,40.105773,-85.650901,40.105773",
     "geom:latitude":40.105773,
     "geom:longitude":-85.650901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2313 E 10th St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85688709,
         420558513
     ],
+    "wof:brand_id":1125155843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vlz1istuulprAw7SJNoQ9_40.105773_-85.650901@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596431,
-    "wof:geomhash":"62c2d22b1ed21b1dd4758d690d625718",
+    "wof:geomhash":"4804ea627cae8d5e2eaecad0ed45e00f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790507619,
-    "wof:lastmodified":1466512351,
+    "wof:lastmodified":1510697487,
     "wof:name":"Shear Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

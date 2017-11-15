@@ -2,14 +2,20 @@
   "id": 773818215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 Oliver Ave Indianapolis IN 46221",
+    "addr:housenumber":"2050",
+    "addr:postcode":"46221",
+    "addr:street":"Oliver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.196273,39.758382,-86.196273,39.758382",
     "geom:latitude":39.758382,
     "geom:longitude":-86.196273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2050 Oliver Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P3oAbcwyNq8K50zmialp2_39.758382_-86.196273@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588618,
-    "wof:geomhash":"e3ce84daec991620e56ac32358a33043",
+    "wof:geomhash":"c04e4cba11ed2dd0809fc5e5420f0543",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773818215,
-    "wof:lastmodified":1466519115,
+    "wof:lastmodified":1510696031,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":85805599,
     "wof:placetype":"venue",

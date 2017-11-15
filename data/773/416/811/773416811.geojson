@@ -2,14 +2,20 @@
   "id": 773416811,
   "type": "Feature",
   "properties": {
+    "addr:full":"7750 E 37th Ave Hobart IN 46342",
+    "addr:housenumber":"7750",
+    "addr:postcode":"46342",
+    "addr:street":"E 37Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.248119,41.550798,-87.248119,41.550798",
     "geom:latitude":41.550798,
     "geom:longitude":-87.248119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7750 E 37th Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125152059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44V4RhhjhTQbaM3frRnVVF_41.550798_-87.248119@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585548,
-    "wof:geomhash":"677e76153513865444c93146f16317e9",
+    "wof:geomhash":"b758b0b27ec47d03f8f1d3e3e9eaf564",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773416811,
-    "wof:lastmodified":1466510214,
+    "wof:lastmodified":1510697079,
     "wof:name":"Papa Murphy's Take 'N' Bake",
     "wof:parent_id":420519677,
     "wof:placetype":"venue",

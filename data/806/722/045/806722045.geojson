@@ -2,6 +2,10 @@
   "id": 806722045,
   "type": "Feature",
   "properties": {
+    "addr:full":"15073 Co Rd 42 Goshen IN 46528",
+    "addr:housenumber":"15073;42",
+    "addr:postcode":"46528",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806722045,
-    "wof:lastmodified":1466511927,
+    "wof:lastmodified":1472622816,
     "wof:name":"Garber Farms",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

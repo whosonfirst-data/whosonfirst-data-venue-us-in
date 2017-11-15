@@ -2,14 +2,20 @@
   "id": 773401235,
   "type": "Feature",
   "properties": {
+    "addr:full":"3519 S State Rd 19 Mentone IN 46539",
+    "addr:housenumber":"3519;19",
+    "addr:postcode":"46539",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.044783,41.180093,-86.044783,41.180093",
     "geom:latitude":41.180093,
     "geom:longitude":-86.044783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3519 S State Rd 19",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125152633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J1hSX6OWZJnXTXTGDOUcn_41.180093_-86.044783@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585409,
-    "wof:geomhash":"879cafd48fcc5271c936482a39964bff",
+    "wof:geomhash":"6ecb4aa1fd30675c7e0edca1f9714e79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773401235,
-    "wof:lastmodified":1466509969,
+    "wof:lastmodified":1510697377,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

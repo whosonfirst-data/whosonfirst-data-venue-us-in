@@ -2,14 +2,20 @@
   "id": 806818909,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 S Main St North Webster IN 46555",
+    "addr:housenumber":"306",
+    "addr:postcode":"46555",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.697818,41.323484,-85.697818,41.323484",
     "geom:latitude":41.323484,
     "geom:longitude":-85.697818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 S Main St",
     "sg:city":"North Webster",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087157,
         85834535
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cHzzNY25X0MdCx0lh4fnQ_41.323484_-85.697818@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601332,
-    "wof:geomhash":"6234e087daa70ebb03e4be2b32abe1f8",
+    "wof:geomhash":"640997e6cf961011a38d6e03f4e964a3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806818909,
-    "wof:lastmodified":1466515252,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85834535,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806428723,
   "type": "Feature",
   "properties": {
+    "addr:full":"687 Slalom Ln Valparaiso IN 46383",
+    "addr:housenumber":"687",
+    "addr:postcode":"46383",
+    "addr:street":"Slalom Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.063252,41.532049,-87.063252,41.532049",
     "geom:latitude":41.532049,
     "geom:longitude":-87.063252,
@@ -28,7 +33,10 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52wJLAjXDrdHXUWYA5O8lY_41.532049_-87.063252@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598068,
     "wof:geomhash":"afdd50a5773c008499a85dc8abb56b3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806428723
+        }
+    ],
     "wof:id":806428723,
-    "wof:lastmodified":1466505248,
+    "wof:lastmodified":1492092195,
     "wof:name":"Milton R Burt",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

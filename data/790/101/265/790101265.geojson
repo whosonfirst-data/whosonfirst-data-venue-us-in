@@ -2,9 +2,14 @@
   "id": 790101265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4259 State Rd 10 Wheatfield IN 46392",
+    "addr:housenumber":"4259;10",
+    "addr:postcode":"46392",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.964774,41.186542,-86.964774,41.186542",
     "geom:latitude":41.186542,
     "geom:longitude":-86.964774,
@@ -28,7 +33,13 @@
         "chartered"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500999,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rz41njy12pX9LF8Khmoyn_41.186542_-86.964774@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462593139,
     "wof:geomhash":"953f4ec06990087a1b16750551892b01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500999,
+            "region_id":85688709,
+            "venue_id":790101265
+        }
+    ],
     "wof:id":790101265,
-    "wof:lastmodified":1466504793,
+    "wof:lastmodified":1492091616,
     "wof:name":"LA-Porter Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 370553817,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 N Meridian St Indianapolis IN 46260",
+    "addr:housenumber":"9201",
+    "addr:postcode":"46260",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157845,39.921217,-86.157845,39.921217",
     "geom:latitude":39.921217,
     "geom:longitude":-86.157845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9201 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087089,
         85811743
     ],
+    "wof:brand_id":1125154905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WlueOtxA6Cra6U4x71cWO_39.921217_-86.157845@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"97db9d20a3dfe14442a03e83181b111a",
+    "wof:geomhash":"f5fdf416b56c42b0702cdd430a2aa9b9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":370553817,
-    "wof:lastmodified":1466503342,
+    "wof:lastmodified":1510697531,
     "wof:name":"Old Republic Title Co",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",

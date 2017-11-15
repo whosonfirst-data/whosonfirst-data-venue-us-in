@@ -2,14 +2,20 @@
   "id": 773587939,
   "type": "Feature",
   "properties": {
+    "addr:full":"5399 S US Hwy 41 Terre Haute IN 47802",
+    "addr:housenumber":"5399",
+    "addr:postcode":"47802",
+    "addr:street":"S Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.401748,39.40028,-87.401748,39.40028",
     "geom:latitude":39.40028,
     "geom:longitude":-87.401748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5399 S US Hwy 41",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JIJNHb3FOoR5DLSQg2LlN_39.400280_-87.401748@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586857,
-    "wof:geomhash":"007bcf1f2cec1ca7afc9f8502cd50007",
+    "wof:geomhash":"45eb16b729b00c62313370592bf3b99b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773587939,
-    "wof:lastmodified":1466515983,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

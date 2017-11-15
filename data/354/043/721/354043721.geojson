@@ -2,6 +2,10 @@
   "id": 354043721,
   "type": "Feature",
   "properties": {
+    "addr:full":"1640 E State Rd 44 Shelbyville IN 46176",
+    "addr:housenumber":"1640;44",
+    "addr:postcode":"46176",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354043721,
-    "wof:lastmodified":1466502933,
+    "wof:lastmodified":1472622317,
     "wof:name":"Sportworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

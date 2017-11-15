@@ -2,9 +2,14 @@
   "id": 806497683,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"615",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826013,41.706805,-86.826013,41.706805",
     "geom:latitude":41.706805,
     "geom:longitude":-86.826013,
@@ -24,7 +29,10 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MYu03vEVHGwePGEswfe1e_41.706805_-86.826013@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598605,
     "wof:geomhash":"d20603b8e62284d63e9e72f2e4e36b85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806497683
+        }
+    ],
     "wof:id":806497683,
-    "wof:lastmodified":1466505881,
+    "wof:lastmodified":1492102312,
     "wof:name":"Bonanza Bar",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806747311,
   "type": "Feature",
   "properties": {
+    "addr:full":"2632 Twp Rd 121 Sheldon IN 60966",
+    "addr:housenumber":"121",
+    "addr:postcode":"2632;60966",
+    "addr:street":"Twp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.625289,40.80456,-87.625289,40.80456",
     "geom:latitude":40.80456,
     "geom:longitude":-87.625289,
@@ -23,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404496471,
+        85633793,
+        102086209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JwxJwIvf2QmelmSK7WRC9_40.804560_-87.625289@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462600740,
     "wof:geomhash":"97cd7e1217c4733b8d86cf90d17ba696",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086209,
+            "localadmin_id":404496471,
+            "region_id":85688697,
+            "venue_id":806747311
+        }
+    ],
     "wof:id":806747311,
-    "wof:lastmodified":1466512684,
+    "wof:lastmodified":1492104003,
     "wof:name":"Charles Darrough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

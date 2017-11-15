@@ -2,9 +2,14 @@
   "id": 790311487,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 15th St SW Demotte IN 46310",
+    "addr:housenumber":"611",
+    "addr:postcode":"46310",
+    "addr:street":"15Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.20865,41.187977,-87.20865,41.187977",
     "geom:latitude":41.187977,
     "geom:longitude":-87.20865,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.cchrhs.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        85941679,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r1XTeVANYFr4becdk6Qek_41.187977_-87.208650@1294102998"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462594857,
     "wof:geomhash":"b64cc361b2139c0158b83752e6aa4a32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "locality_id":85941679,
+            "region_id":85688709,
+            "venue_id":790311487
+        }
+    ],
     "wof:id":790311487,
-    "wof:lastmodified":1466506930,
+    "wof:lastmodified":1492091669,
     "wof:name":"Covenant Christian High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

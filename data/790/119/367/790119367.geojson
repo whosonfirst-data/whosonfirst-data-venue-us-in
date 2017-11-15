@@ -2,14 +2,20 @@
   "id": 790119367,
   "type": "Feature",
   "properties": {
+    "addr:full":"6296 E 500 S Gas City IN 46933",
+    "addr:housenumber":"6296",
+    "addr:postcode":"46933",
+    "addr:street":"E 500 S Gas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.552306,40.480418,-85.552306,40.480418",
     "geom:latitude":40.480418,
     "geom:longitude":-85.552306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6296 E 500 S",
     "sg:city":"Gas City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sgL0aNCt3xTyvCKk80rOC_40.480418_-85.552306@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593283,
-    "wof:geomhash":"d1773b5e98e8a16157648758dbf66d2b",
+    "wof:geomhash":"4325ee9a4b5cda6cb46bd8cdc93373b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790119367,
-    "wof:lastmodified":1466505084,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773002829,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 S Park Ridge Rd Bloomington IN 47408",
+    "addr:housenumber":"119",
+    "addr:postcode":"47408",
+    "addr:street":"S Park Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.476303,39.164235,-86.476303,39.164235",
     "geom:latitude":39.164235,
     "geom:longitude":-86.476303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 S Park Ridge Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dnpLKT8MPH07HHwvxB3BS_39.164235_-86.476303@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582173,
-    "wof:geomhash":"856830a35ef08c4f4891d6c12ab1dc4f",
+    "wof:geomhash":"af45d4eaf43a9e6a7708f7759ab94fab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773002829,
-    "wof:lastmodified":1466503159,
+    "wof:lastmodified":1510607717,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

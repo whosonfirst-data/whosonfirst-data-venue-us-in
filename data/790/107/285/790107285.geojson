@@ -2,9 +2,14 @@
   "id": 790107285,
   "type": "Feature",
   "properties": {
+    "addr:full":"9566 W 600 N Fair Oaks IN 47943",
+    "addr:housenumber":"9566",
+    "addr:postcode":"47943",
+    "addr:street":"W 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.22242,41.100906,-87.22242,41.100906",
     "geom:latitude":41.100906,
     "geom:longitude":-87.22242,
@@ -27,7 +32,13 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500071,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dhTSHbrdOmArfOp2vdVX6_41.100906_-87.222420@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462593201,
     "wof:geomhash":"1451589a1ed7d21999522e8eafe80a18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500071,
+            "region_id":85688709,
+            "venue_id":790107285
+        }
+    ],
     "wof:id":790107285,
-    "wof:lastmodified":1466504805,
+    "wof:lastmodified":1492091668,
     "wof:name":"Lean Line Pigs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

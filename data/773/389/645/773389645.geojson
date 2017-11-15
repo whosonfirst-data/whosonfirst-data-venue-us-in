@@ -2,9 +2,14 @@
   "id": 773389645,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 E 45th Ave Gary IN 46409",
+    "addr:housenumber":"330",
+    "addr:postcode":"46409",
+    "addr:street":"E 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.331717,41.536785,-87.331717,41.536785",
     "geom:latitude":41.536785,
     "geom:longitude":-87.331717,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zjzf6TsOVQbDVRICu7sLO_41.536785_-87.331717@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462585321,
     "wof:geomhash":"812db49ab75bff68e874df463179943a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773389645
+        }
+    ],
     "wof:id":773389645,
-    "wof:lastmodified":1466509627,
+    "wof:lastmodified":1492094627,
     "wof:name":"St Joseph The Worker Church",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

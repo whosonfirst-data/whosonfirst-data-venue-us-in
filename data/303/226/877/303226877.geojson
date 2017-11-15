@@ -2,6 +2,10 @@
   "id": 303226877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 W Co Rd 125 S Greencastle IN 46135",
+    "addr:housenumber":"1227;125",
+    "addr:postcode":"46135",
+    "addr:street":"W Co Rd;S Greencastle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303226877,
-    "wof:lastmodified":1466503488,
+    "wof:lastmodified":1472622284,
     "wof:name":"Contact Electric",
     "wof:parent_id":85820439,
     "wof:placetype":"venue",

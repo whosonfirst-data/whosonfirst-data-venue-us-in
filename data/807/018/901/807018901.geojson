@@ -2,9 +2,14 @@
   "id": 807018901,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 Hub Ct Crown Point IN 46307",
+    "addr:housenumber":"930",
+    "addr:postcode":"46307",
+    "addr:street":"Hub Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.352437,41.430177,-87.352437,41.430177",
     "geom:latitude":41.430177,
     "geom:longitude":-87.352437,
@@ -34,7 +39,15 @@
     ],
     "sg:website":"www.navl.com/yelp-FerreeMoversSt...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LNLkTipPsadSYQRsqOutn_41.430177_-87.352437@1303262769"
@@ -42,9 +55,20 @@
     "wof:country":"US",
     "wof:created":1462603025,
     "wof:geomhash":"12198b6e54f88e08f8fe2d1c88c4533f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807018901
+        }
+    ],
     "wof:id":807018901,
-    "wof:lastmodified":1466504102,
+    "wof:lastmodified":1492094838,
     "wof:name":"Ferree Movers & Stg., Inc.",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

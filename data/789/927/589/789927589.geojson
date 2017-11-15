@@ -2,6 +2,10 @@
   "id": 789927589,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 N Main St Sidney IN 46562",
+    "addr:housenumber":"102",
+    "addr:postcode":"46562",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789927589,
-    "wof:lastmodified":1466507812,
+    "wof:lastmodified":1472622778,
     "wof:name":"Roving Chef",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

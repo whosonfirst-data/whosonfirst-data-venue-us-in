@@ -2,6 +2,10 @@
   "id": 773215267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 N Wells St Fort Wayne IN 46808",
+    "addr:housenumber":"1234",
+    "addr:postcode":"46808",
+    "addr:street":"N Wells St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773215267,
-    "wof:lastmodified":1466506421,
+    "wof:lastmodified":1472622902,
     "wof:name":"Sportsmans Neighborhood Bar",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",

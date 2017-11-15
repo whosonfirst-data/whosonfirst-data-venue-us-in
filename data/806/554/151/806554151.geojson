@@ -2,14 +2,20 @@
   "id": 806554151,
   "type": "Feature",
   "properties": {
+    "addr:full":"5618 E Washington St Indianapolis IN 46219",
+    "addr:housenumber":"5618",
+    "addr:postcode":"46219",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.071474,39.770814,-86.071474,39.770814",
     "geom:latitude":39.770814,
     "geom:longitude":-86.071474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5618 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tem7mZ7uetJl68iTXDbV2_39.770814_-86.071474@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599065,
-    "wof:geomhash":"9a5104ac4112c5638e0bb48e54349643",
+    "wof:geomhash":"b6d4c87b8d7db7ce4007e4874116c45e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806554151,
-    "wof:lastmodified":1466506676,
+    "wof:lastmodified":1510697486,
     "wof:name":"Snips",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",

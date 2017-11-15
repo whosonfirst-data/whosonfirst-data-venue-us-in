@@ -2,9 +2,14 @@
   "id": 807052303,
   "type": "Feature",
   "properties": {
+    "addr:full":"6413 Rutledge St Merrillville IN 46410",
+    "addr:housenumber":"6413",
+    "addr:postcode":"46410",
+    "addr:street":"Rutledge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.366499,41.501603,-87.366499,41.501603",
     "geom:latitude":41.501603,
     "geom:longitude":-87.366499,
@@ -32,7 +37,10 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k1MLzrY3gnD2Ozdq7rKZl_41.501603_-87.366499@1303262771"
@@ -40,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1462603305,
     "wof:geomhash":"5f1ddbef921417486cdc743cdc9a9a07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807052303
+        }
+    ],
     "wof:id":807052303,
-    "wof:lastmodified":1466504277,
+    "wof:lastmodified":1492092138,
     "wof:name":"Paw & Claw Critter Care Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

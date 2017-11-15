@@ -2,9 +2,14 @@
   "id": 387753971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1916 Manhattan St Michigan City IN 46360",
+    "addr:housenumber":"1916",
+    "addr:postcode":"46360",
+    "addr:street":"Manhattan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.901709,41.702735,-86.901709,41.702735",
     "geom:latitude":41.702735,
     "geom:longitude":-86.901709,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519857,
+        102191575,
+        404501783,
         85633793,
         85941911,
-        102086409
+        102086409,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"3e502c385e26fc930bd10843d28aac5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519857,
             "region_id":85688709,
             "venue_id":387753971
         }
     ],
     "wof:id":387753971,
-    "wof:lastmodified":1466503915,
+    "wof:lastmodified":1492104691,
     "wof:name":"Michigan City Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

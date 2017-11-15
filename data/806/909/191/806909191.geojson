@@ -2,6 +2,10 @@
   "id": 806909191,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 N Meridian St Ste X Indianapolis IN 46204",
+    "addr:housenumber":"456",
+    "addr:postcode":"46204",
+    "addr:street":"N Meridian St Ste X",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":806909191,
-    "wof:lastmodified":1466517442,
+    "wof:lastmodified":1472623029,
     "wof:name":"USPS - United States Post Office - Circle City Station",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",

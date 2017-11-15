@@ -2,14 +2,20 @@
   "id": 806949719,
   "type": "Feature",
   "properties": {
+    "addr:full":"9031 E 16th St Indianapolis IN 46229",
+    "addr:housenumber":"9031",
+    "addr:postcode":"46229",
+    "addr:street":"E 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.008089,39.789379,-86.008089,39.789379",
     "geom:latitude":39.789379,
     "geom:longitude":-86.008089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9031 E 16th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125150589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I3icYiYp3joJLdbQ61chq_39.789379_-86.008089@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602435,
-    "wof:geomhash":"e4b430231c4e341cdc46bb45108ad8e1",
+    "wof:geomhash":"d7b04b447a65dfc30fa0c28f759d4ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806949719,
-    "wof:lastmodified":1466518262,
+    "wof:lastmodified":1510699574,
     "wof:name":"Faith United Methodist Church",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

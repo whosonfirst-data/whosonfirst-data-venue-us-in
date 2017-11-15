@@ -2,14 +2,20 @@
   "id": 807049907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3133 Grant St Gary IN 46408",
+    "addr:housenumber":"3133",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355995,41.561807,-87.355995,41.561807",
     "geom:latitude":41.561807,
     "geom:longitude":-87.355995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3133 Grant St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -59,13 +65,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76StfjsPD8ltLQ7p1XbR0K_41.561807_-87.355995@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603287,
-    "wof:geomhash":"ae18e1a26af58cc11dfefdd8e46fa1e9",
+    "wof:geomhash":"4a5d2153f8cd9929f1ef239738e44749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":807049907,
-    "wof:lastmodified":1466504203,
+    "wof:lastmodified":1510697303,
     "wof:name":"Midas Auto Service Experts",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789921029,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 E Mander Rd Valparaiso IN 46383",
+    "addr:housenumber":"310",
+    "addr:postcode":"46383",
+    "addr:street":"E Mander Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.011732,41.552941,-87.011732,41.552941",
     "geom:latitude":41.552941,
     "geom:longitude":-87.011732,
@@ -28,7 +33,13 @@
         "work"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79HGs16CY9uprPtqF3QSlw_41.552941_-87.011732@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462591634,
     "wof:geomhash":"c09d21f0d1717ecab1c490ccdde36cd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":789921029
+        }
+    ],
     "wof:id":789921029,
-    "wof:lastmodified":1466507720,
+    "wof:lastmodified":1492091429,
     "wof:name":"Timothy Beissel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

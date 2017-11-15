@@ -2,14 +2,20 @@
   "id": 806447821,
   "type": "Feature",
   "properties": {
+    "addr:full":"11755 Technology Ln Fishers IN 46038",
+    "addr:housenumber":"11755",
+    "addr:postcode":"46038",
+    "addr:street":"Technology Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.006635,39.96178,-86.006635,39.96178",
     "geom:latitude":39.96178,
     "geom:longitude":-86.006635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11755 Technology Ln",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19dmr49thJBbs4uX2yGMiz_39.961780_-86.006635@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598230,
-    "wof:geomhash":"0bb6ca69449129554f51a9fa8570a40a",
+    "wof:geomhash":"974d6736b8ab7cd4eab36d6ea760f689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806447821,
-    "wof:lastmodified":1466505391,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":420519571,
     "wof:placetype":"venue",

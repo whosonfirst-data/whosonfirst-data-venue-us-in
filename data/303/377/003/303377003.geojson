@@ -2,9 +2,14 @@
   "id": 303377003,
   "type": "Feature",
   "properties": {
+    "addr:full":"1264 W US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"1264",
+    "addr:postcode":"46360",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.921887,41.680471,-86.921887,41.680471",
     "geom:latitude":41.680471,
     "geom:longitude":-86.921887,
@@ -29,10 +34,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
         85633793,
-        85941911,
-        102086409
+        420519859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,15 @@
     "wof:geomhash":"44d35c57f792a8354f53ed892df6c173",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "county_id":102086409,
-            "locality_id":85941911,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519859,
             "venue_id":303377003
         }
     ],
     "wof:id":303377003,
-    "wof:lastmodified":1466503816,
+    "wof:lastmodified":1492102148,
     "wof:name":"Innovative Custom Mfg Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

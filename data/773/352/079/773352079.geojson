@@ -2,14 +2,20 @@
   "id": 773352079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2730 Cargo Dr Indianapolis IN 46241",
+    "addr:housenumber":"2730",
+    "addr:postcode":"46241",
+    "addr:street":"Cargo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.269905,39.725841,-86.269905,39.725841",
     "geom:latitude":39.725841,
     "geom:longitude":-86.269905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2730 Cargo Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xN8n1i1wpN85JHc9DYi0c_39.725841_-86.269905@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585061,
-    "wof:geomhash":"09378ffc27299ca324d3ffc82be9a60b",
+    "wof:geomhash":"4ab193931dd44b38b954044684504b29",
     "wof:hierarchy":[
         {
             "campus_id":102534155,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773352079,
-    "wof:lastmodified":1466508060,
+    "wof:lastmodified":1510699629,
     "wof:name":"Continental Airlines",
     "wof:parent_id":102534155,
     "wof:placetype":"venue",

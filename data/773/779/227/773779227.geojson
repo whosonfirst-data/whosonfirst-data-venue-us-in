@@ -2,9 +2,14 @@
   "id": 773779227,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 W Jasper St Goodland IN 47948",
+    "addr:housenumber":"210",
+    "addr:postcode":"47948",
+    "addr:street":"W Jasper St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.299159,40.765681,-87.299159,40.765681",
     "geom:latitude":40.765681,
     "geom:longitude":-87.299159,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53LJmzqw7oFSpYRlnx13ru_40.765681_-87.299159@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462588313,
     "wof:geomhash":"17a7529659617c77b144f7790fae3286",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":773779227
+        }
+    ],
     "wof:id":773779227,
-    "wof:lastmodified":1466518688,
+    "wof:lastmodified":1492091666,
     "wof:name":"Cooley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

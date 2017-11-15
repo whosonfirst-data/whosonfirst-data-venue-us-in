@@ -2,14 +2,20 @@
   "id": 806850887,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 S Range Line Rd Carmel IN 46032",
+    "addr:housenumber":"531",
+    "addr:postcode":"46032",
+    "addr:street":"S Range Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.1269,39.9739,-86.1269,39.9739",
     "geom:latitude":39.9739,
     "geom:longitude":-86.1269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"531 S Range Line Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0snTxwli9CGEO7d1ORzIdL_39.973900_-86.126900@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601615,
-    "wof:geomhash":"7695182920bca14e4baf6bd2154f1475",
+    "wof:geomhash":"4d106f8b99ccdbf691b8d3381609b05d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806850887,
-    "wof:lastmodified":1466516288,
+    "wof:lastmodified":1510694631,
     "wof:name":"Tires Plus Total Car Care",
     "wof:parent_id":420519517,
     "wof:placetype":"venue",

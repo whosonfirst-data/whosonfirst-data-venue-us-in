@@ -2,14 +2,20 @@
   "id": 790306957,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Prairieton Rd Terre Haute IN 47802",
+    "addr:housenumber":"2401",
+    "addr:postcode":"47802",
+    "addr:street":"Prairieton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.423514,39.440061,-87.423514,39.440061",
     "geom:latitude":39.440061,
     "geom:longitude":-87.423514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 Prairieton Rd",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2evE6HfopgxE7E3HHFAQfQ_39.440061_-87.423514@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594820,
-    "wof:geomhash":"e7045bd3a43c2da8a82e68f2d6c35490",
+    "wof:geomhash":"2b5c777d4681c1ec24da015dc82aae01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790306957,
-    "wof:lastmodified":1466507015,
+    "wof:lastmodified":1510696926,
     "wof:name":"International Paper Co",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

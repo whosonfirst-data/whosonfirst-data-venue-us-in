@@ -2,14 +2,20 @@
   "id": 790100105,
   "type": "Feature",
   "properties": {
+    "addr:full":"690 S College Ave Rensselaer IN 47978",
+    "addr:housenumber":"690",
+    "addr:postcode":"47978",
+    "addr:street":"S College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.156073,40.931093,-87.156073,40.931093",
     "geom:latitude":40.931093,
     "geom:longitude":-87.156073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"690 S College Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -24,17 +30,35 @@
     "sg:postcode":"47978",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xONLzrDaNA3kx7WX7cQna_40.931093_-87.156073@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593123,
-    "wof:geomhash":"86f3d3a6b0e01482e067a9ed87dfe906",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8dda60f2594659cc27f2f7b6e0a0eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790100105
+        }
+    ],
     "wof:id":790100105,
-    "wof:lastmodified":1466504893,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

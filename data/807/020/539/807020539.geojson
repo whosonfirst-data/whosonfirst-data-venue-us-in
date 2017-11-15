@@ -2,9 +2,14 @@
   "id": 807020539,
   "type": "Feature",
   "properties": {
+    "addr:full":"9941 N 1200 W Demotte IN 46310",
+    "addr:housenumber":"9941",
+    "addr:postcode":"46310",
+    "addr:street":"N 1200 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.275726,41.143072,-87.275726,41.143072",
     "geom:latitude":41.143072,
     "geom:longitude":-87.275726,
@@ -40,7 +45,14 @@
     ],
     "sg:website":"http://www.boezemansigns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zP3GF9W2xnx3dkqsVtnjh_41.143072_-87.275726@1303262769"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462603043,
     "wof:geomhash":"1c9137779601ae5567dab588dd041b5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":807020539
+        }
+    ],
     "wof:id":807020539,
-    "wof:lastmodified":1466504088,
+    "wof:lastmodified":1492102169,
     "wof:name":"Boezeman Signs Graphic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

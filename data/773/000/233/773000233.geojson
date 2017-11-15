@@ -2,14 +2,20 @@
   "id": 773000233,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 S US Hwy 41 Terre Haute IN 47802",
+    "addr:housenumber":"3401",
+    "addr:postcode":"47802",
+    "addr:street":"S Us Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.416135,39.424134,-87.416135,39.424134",
     "geom:latitude":39.424134,
     "geom:longitude":-87.416135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 S US Hwy 41",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125152529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F8OrEUrvOsp3NeuxJk6mm_39.424134_-87.416135@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582113,
-    "wof:geomhash":"b94ca6048793e78eb06a767cb1b6fe98",
+    "wof:geomhash":"1221d1df10ae4e907a3819a6ffc334da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773000233,
-    "wof:lastmodified":1466504005,
+    "wof:lastmodified":1510698922,
     "wof:name":"Fred Meyer Jewelers",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

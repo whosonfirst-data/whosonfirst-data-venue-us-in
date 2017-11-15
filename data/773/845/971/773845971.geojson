@@ -2,14 +2,20 @@
   "id": 773845971,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 N State Rd 149 Chesterton IN 46304",
+    "addr:housenumber":"2100",
+    "addr:postcode":"46304",
+    "addr:street":"N State Rd 149",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.124901,41.601577,-87.124901,41.601577",
     "geom:latitude":41.601577,
     "geom:longitude":-87.124901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 N State Rd 149",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087191,
         85812965
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EV5xMSxY2w6WXs2rpb9dn_41.601577_-87.124901@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588866,
-    "wof:geomhash":"c16084b9f901019ebc06a8e3f800843f",
+    "wof:geomhash":"37183c6adef962e2907d2c977529a443",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773845971,
-    "wof:lastmodified":1466519312,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85812965,
     "wof:placetype":"venue",

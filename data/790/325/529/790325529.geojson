@@ -2,9 +2,14 @@
   "id": 790325529,
   "type": "Feature",
   "properties": {
+    "addr:full":"2271 W 48th Pl Gary IN 46408",
+    "addr:housenumber":"2271",
+    "addr:postcode":"46408",
+    "addr:street":"W 48Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3633,41.530534,-87.3633,41.530534",
     "geom:latitude":41.530534,
     "geom:longitude":-87.3633,
@@ -27,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pdhRO0aSQnDvxPfuWV2mL_41.530534_-87.363300@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462594959,
     "wof:geomhash":"f724fa0cc8bf7e48720e71e7ef5f27d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790325529
+        }
+    ],
     "wof:id":790325529,
-    "wof:lastmodified":1466507180,
+    "wof:lastmodified":1492097511,
     "wof:name":"Quality Tree Svc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

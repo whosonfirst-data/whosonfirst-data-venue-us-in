@@ -2,14 +2,20 @@
   "id": 807005827,
   "type": "Feature",
   "properties": {
+    "addr:full":"7840 Michigan Rd Indianapolis IN 46268",
+    "addr:housenumber":"7840",
+    "addr:postcode":"46268",
+    "addr:street":"Michigan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.214787,39.895161,-86.214787,39.895161",
     "geom:latitude":39.895161,
     "geom:longitude":-86.214787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7840 Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DY6iLZO7yyaAOoJsRvDM0_39.895161_-86.214787@1303262768"
     },
     "wof:country":"US",
     "wof:created":1462602906,
-    "wof:geomhash":"fb3ff29bb9b97e656a695919996bfc3e",
+    "wof:geomhash":"776252de5e0c66daa1edd7fda9cda403",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807005827,
-    "wof:lastmodified":1466503564,
+    "wof:lastmodified":1510602499,
     "wof:name":"Tuesday Morning",
     "wof:parent_id":85803951,
     "wof:placetype":"venue",

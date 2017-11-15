@@ -2,9 +2,14 @@
   "id": 773294035,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E Sigler St Hebron IN 46341",
+    "addr:housenumber":"104",
+    "addr:postcode":"46341",
+    "addr:street":"E Sigler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.199924,41.318628,-87.199924,41.318628",
     "geom:latitude":41.318628,
     "geom:longitude":-87.199924,
@@ -27,7 +32,14 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        85942381,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b7yCZM9rPraXIw9yq33KL_41.318628_-87.199924@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462584630,
     "wof:geomhash":"400b0cc5930c9d56b87eb4e438c1da3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "locality_id":85942381,
+            "region_id":85688709,
+            "venue_id":773294035
+        }
+    ],
     "wof:id":773294035,
-    "wof:lastmodified":1466507286,
+    "wof:lastmodified":1492098296,
     "wof:name":"Hebron Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

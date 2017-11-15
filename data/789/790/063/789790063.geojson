@@ -2,14 +2,20 @@
   "id": 789790063,
   "type": "Feature",
   "properties": {
+    "addr:full":"10269 US Hwy 36 Avon IN 46123",
+    "addr:housenumber":"10269",
+    "addr:postcode":"46123",
+    "addr:street":"Us Hwy 36",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.339732,39.76357,-86.339732,39.76357",
     "geom:latitude":39.76357,
     "geom:longitude":-86.339732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10269 US Hwy 36",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lcO3bqgKRZNFegQehM5yN_39.763570_-86.339732@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590566,
-    "wof:geomhash":"a9bfb6b0ca3796bcebfefa8546293ddc",
+    "wof:geomhash":"76173bb6dd750447ac3c989daa6dcb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789790063,
-    "wof:lastmodified":1466506374,
+    "wof:lastmodified":1510604030,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

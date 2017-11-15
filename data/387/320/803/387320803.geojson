@@ -2,9 +2,14 @@
   "id": 387320803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 E US Hwy 20 Michigan City IN 46360",
+    "addr:housenumber":"2008",
+    "addr:postcode":"46360",
+    "addr:street":"E Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.851822,41.687456,-86.851822,41.687456",
     "geom:latitude":41.687456,
     "geom:longitude":-86.851822,
@@ -43,7 +48,6 @@
     "wof:geomhash":"0065d9c205579a5e0d89a3e31511a6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941915,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387320803,
-    "wof:lastmodified":1466503331,
+    "wof:lastmodified":1492094841,
     "wof:name":"WYLD Stylz Auto & Accessories",
     "wof:parent_id":85852501,
     "wof:placetype":"venue",

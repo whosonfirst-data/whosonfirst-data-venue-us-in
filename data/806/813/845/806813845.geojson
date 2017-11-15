@@ -2,9 +2,14 @@
   "id": 806813845,
   "type": "Feature",
   "properties": {
+    "addr:full":"10880 Randolph St Crown Point IN 46307",
+    "addr:housenumber":"10880",
+    "addr:postcode":"46307",
+    "addr:street":"Randolph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.239036,41.419642,-87.239036,41.419642",
     "geom:latitude":41.419642,
     "geom:longitude":-87.239036,
@@ -29,7 +34,14 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501875,
+        85633793,
+        85941857,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QT1mZKyevPHArKAaFL35v_41.419642_-87.239036@1299784598"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601294,
     "wof:geomhash":"84a4592506bef59243d00d598e5d4ea6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501875,
+            "locality_id":85941857,
+            "region_id":85688709,
+            "venue_id":806813845
+        }
+    ],
     "wof:id":806813845,
-    "wof:lastmodified":1466514838,
+    "wof:lastmodified":1492094624,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

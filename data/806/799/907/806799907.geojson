@@ -2,9 +2,14 @@
   "id": 806799907,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 Mohawk Dr Lowell IN 46356",
+    "addr:housenumber":"637",
+    "addr:postcode":"46356",
+    "addr:street":"Mohawk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.43613,41.294663,-87.43613,41.294663",
     "geom:latitude":41.294663,
     "geom:longitude":-87.43613,
@@ -29,7 +34,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UeGQdeb3YyL6Sw4Ckq0Qt_41.294699_-87.435701@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462601184,
     "wof:geomhash":"b971a0cf6724e9fe600c96cf8b8ac6ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":806799907
+        }
+    ],
     "wof:id":806799907,
-    "wof:lastmodified":1466514829,
+    "wof:lastmodified":1492093601,
     "wof:name":"Powerclean Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

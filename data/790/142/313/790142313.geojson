@@ -2,14 +2,20 @@
   "id": 790142313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1434 W 2nd St Seymour IN 47274",
+    "addr:housenumber":"1434",
+    "addr:postcode":"47274",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.909894,38.951947,-85.909894,38.951947",
     "geom:latitude":38.951947,
     "geom:longitude":-85.909894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1434 W 2nd St",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087199,
         85851577
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tFn541Hwe9UakI5xQ9Z7C_38.951947_-85.909894@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593448,
-    "wof:geomhash":"902bdd873c7e7e8e2ea250dbcb817dd5",
+    "wof:geomhash":"113a9257b3b788e29aeb2cbfe687845c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790142313,
-    "wof:lastmodified":1466505491,
+    "wof:lastmodified":1510696079,
     "wof:name":"Central Christian Church",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",

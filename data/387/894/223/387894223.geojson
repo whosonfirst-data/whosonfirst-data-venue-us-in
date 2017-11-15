@@ -2,9 +2,14 @@
   "id": 387894223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2947 E State Rd 10 Lake Village IN 46349",
+    "addr:housenumber":"2947;10",
+    "addr:postcode":"46349",
+    "addr:street":"E State Rd;Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337356,41.144706,-87.337356,41.144706",
     "geom:latitude":41.144706,
     "geom:longitude":-87.337356,
@@ -29,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
         85633793,
-        85688709
+        102086363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +48,16 @@
     "wof:geomhash":"76e1fa7bea0bb4a08e3ee3f735da704d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086363,
+            "localadmin_id":404501345,
             "region_id":85688709,
             "venue_id":387894223
         }
     ],
     "wof:id":387894223,
-    "wof:lastmodified":1466504115,
+    "wof:lastmodified":1492097178,
     "wof:name":"C & J Excavating Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

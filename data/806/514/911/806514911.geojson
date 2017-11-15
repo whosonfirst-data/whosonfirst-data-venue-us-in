@@ -2,14 +2,20 @@
   "id": 806514911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 W Bethel Ave Muncie IN 47304",
+    "addr:housenumber":"4100",
+    "addr:postcode":"47304",
+    "addr:street":"W Bethel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.436681,40.220659,-85.436681,40.220659",
     "geom:latitude":40.220659,
     "geom:longitude":-85.436681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 W Bethel Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33HnjwW1FXIs5GrNzttxes_40.220659_-85.436681@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598752,
-    "wof:geomhash":"9073d41be0b3069162fa68cc4ba857db",
+    "wof:geomhash":"a0d0951531ea4d086313fd06df4ef19c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806514911,
-    "wof:lastmodified":1466506233,
+    "wof:lastmodified":1510697979,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773717839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 E 510 S Lafayette IN 47909",
+    "addr:housenumber":"1501",
+    "addr:postcode":"47909",
+    "addr:street":"E 510 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870738,40.342034,-86.870738,40.342034",
     "geom:latitude":40.342034,
     "geom:longitude":-86.870738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1501 E 510 S",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kQ6nvAqD0DcBbgaIjlWIj_40.342034_-86.870738@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587856,
-    "wof:geomhash":"a4bf6a74aea84caea6fec6948a1628a4",
+    "wof:geomhash":"d7778d979aeebd51dfb159d6463c8939",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773717839,
-    "wof:lastmodified":1466517607,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

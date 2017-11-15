@@ -2,14 +2,20 @@
   "id": 790069507,
   "type": "Feature",
   "properties": {
+    "addr:full":"843 N Green River Rd Evansville IN 47715",
+    "addr:housenumber":"843",
+    "addr:postcode":"47715",
+    "addr:street":"N Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492603,37.984331,-87.492603,37.984331",
     "geom:latitude":37.984331,
     "geom:longitude":-87.492603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"843 N Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":420575789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26OlxoJ6jm1azml6CsLegK_37.984331_-87.492603@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592887,
-    "wof:geomhash":"1425f4a89a8269505f122870de0534af",
+    "wof:geomhash":"2d67e5cec27a7481f176afa5a01d38a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790069507,
-    "wof:lastmodified":1466504348,
+    "wof:lastmodified":1510602089,
     "wof:name":"Catherines Plus Sizes",
     "wof:parent_id":85849163,
     "wof:placetype":"venue",

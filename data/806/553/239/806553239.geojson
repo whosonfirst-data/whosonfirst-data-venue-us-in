@@ -2,9 +2,14 @@
   "id": 806553239,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"711",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826052,41.702212,-86.826052,41.702212",
     "geom:latitude":41.702212,
     "geom:longitude":-86.826052,
@@ -28,7 +33,10 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09F3RsXdcCuYcxfIswlYUx_41.702212_-86.826052@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462599057,
     "wof:geomhash":"fe156d9ab171e0297fb243fdd5b3c674",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806553239
+        }
+    ],
     "wof:id":806553239,
-    "wof:lastmodified":1466506761,
+    "wof:lastmodified":1492095908,
     "wof:name":"Serviscape Inc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

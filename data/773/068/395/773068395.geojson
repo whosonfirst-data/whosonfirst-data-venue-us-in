@@ -2,14 +2,20 @@
   "id": 773068395,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Kotter Ave Evansville IN 47715",
+    "addr:housenumber":"",
+    "addr:postcode":"2300;47715",
+    "addr:street":"Kotter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.48158,38.001643,-87.48158,38.001643",
     "geom:latitude":38.001643,
     "geom:longitude":-87.48158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Kotter Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a2BS7IS2xd7uQY51hzuBK_38.001643_-87.481580@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582924,
-    "wof:geomhash":"77a6578674d7163f5e6b4e8aabbaf395",
+    "wof:geomhash":"75fe12b50bcd3c5702a67242ee677a57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773068395,
-    "wof:lastmodified":1466504812,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85877323,
     "wof:placetype":"venue",

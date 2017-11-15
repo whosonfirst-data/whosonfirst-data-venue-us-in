@@ -2,14 +2,20 @@
   "id": 773150621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1716 State Rd 9 Anderson IN 46016",
+    "addr:housenumber":"1716",
+    "addr:postcode":"46016",
+    "addr:street":"State Rd 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652485,40.098723,-85.652485,40.098723",
     "geom:latitude":40.098723,
     "geom:longitude":-85.652485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1716 State Rd 9",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125153687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nNykFZeAnVvXlckRpup3t_40.098723_-85.652485@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583507,
-    "wof:geomhash":"a789da68184cab024083536181513b27",
+    "wof:geomhash":"52f8fc7da6b27e088bf04fed2079d461",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773150621,
-    "wof:lastmodified":1466505770,
+    "wof:lastmodified":1510698886,
     "wof:name":"Dunham's Sports",
     "wof:parent_id":85823225,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806897551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 E 22nd St Indianapolis IN 46202",
+    "addr:housenumber":"1210",
+    "addr:postcode":"46202",
+    "addr:street":"E 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.13797,39.797729,-86.13797,39.797729",
     "geom:latitude":39.797729,
     "geom:longitude":-86.13797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 E 22nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57ZmyMvOZ9lKKOIbRRht9p_39.797729_-86.137970@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601992,
-    "wof:geomhash":"a717e0cdb36c1d9a1f3498966b31a08d",
+    "wof:geomhash":"30810034f85fee2af735adaaf63ef428",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":806897551,
-    "wof:lastmodified":1466516817,
+    "wof:lastmodified":1510695910,
     "wof:name":"Church Of God In Christ",
     "wof:parent_id":420519787,
     "wof:placetype":"venue",

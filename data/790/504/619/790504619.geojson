@@ -2,9 +2,14 @@
   "id": 790504619,
   "type": "Feature",
   "properties": {
+    "addr:full":"12788 S US Hwy 41 Kentland IN 47951",
+    "addr:housenumber":"12788",
+    "addr:postcode":"47951",
+    "addr:street":"S Us Hwy 41 Kentland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.438546,40.812247,-87.438546,40.812247",
     "geom:latitude":40.812247,
     "geom:longitude":-87.438546,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K7uuTSKIwsbnN7wSKPXm7_40.812247_-87.438546@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462596408,
     "wof:geomhash":"ed264a9c7e52a337eb55e2aa9f980614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "region_id":85688709,
+            "venue_id":790504619
+        }
+    ],
     "wof:id":790504619,
-    "wof:lastmodified":1466512350,
+    "wof:lastmodified":1492091556,
     "wof:name":"State Highway Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

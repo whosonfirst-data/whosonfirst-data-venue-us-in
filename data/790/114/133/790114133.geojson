@@ -2,14 +2,20 @@
   "id": 790114133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Walton Blvd Warsaw IN 46582",
+    "addr:housenumber":"2520",
+    "addr:postcode":"46582",
+    "addr:street":"Walton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.856576,41.271,-85.856576,41.271",
     "geom:latitude":41.271,
     "geom:longitude":-85.856576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 Walton Blvd",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420574197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WDC7jC7htCkmCOfaAdqxp_41.271000_-85.856576@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593247,
-    "wof:geomhash":"3da788cab3779b980e1513776c807551",
+    "wof:geomhash":"569f6b8fa5a61b83a748cb509d834287",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790114133,
-    "wof:lastmodified":1466505028,
+    "wof:lastmodified":1510604209,
     "wof:name":"Fashion Bug",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

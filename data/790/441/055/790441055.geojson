@@ -2,9 +2,14 @@
   "id": 790441055,
   "type": "Feature",
   "properties": {
+    "addr:full":"5604 W 1000 N Demotte IN 46310",
+    "addr:housenumber":"5604",
+    "addr:postcode":"46310",
+    "addr:street":"W 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.152344,41.158771,-87.152344,41.158771",
     "geom:latitude":41.158771,
     "geom:longitude":-87.152344,
@@ -27,7 +32,13 @@
         "steel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501007,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WZk5ATnnlZE3og3KXExJo_41.158771_-87.152344@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462595847,
     "wof:geomhash":"eca7661fdac07fa7cfde4e86d25cc7ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501007,
+            "region_id":85688709,
+            "venue_id":790441055
+        }
+    ],
     "wof:id":790441055,
-    "wof:lastmodified":1466509227,
+    "wof:lastmodified":1492097218,
     "wof:name":"Steelcraft Fabricator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

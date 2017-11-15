@@ -2,14 +2,20 @@
   "id": 370985389,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 S Tillotson Ave Muncie IN 47304",
+    "addr:housenumber":"604",
+    "addr:postcode":"47304",
+    "addr:street":"S Tillotson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.419055,40.18859,-85.419055,40.18859",
     "geom:latitude":40.18859,
     "geom:longitude":-85.419055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 S Tillotson Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087155,
         85815231
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oWX1o6O97fwkHpH9bI8gS_40.188590_-85.419055@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"51075421b9549b7ebf1458ae71278141",
+    "wof:geomhash":"776efcfdb8d64b5b8e02fd4bb5a48442",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":370985389,
-    "wof:lastmodified":1466503804,
+    "wof:lastmodified":1510697979,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

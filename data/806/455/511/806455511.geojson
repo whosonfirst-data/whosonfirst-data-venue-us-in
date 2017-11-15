@@ -2,9 +2,14 @@
   "id": 806455511,
   "type": "Feature",
   "properties": {
+    "addr:full":"3765 Broadway Gary IN 46409",
+    "addr:housenumber":"3765",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336449,41.550755,-87.336449,41.550755",
     "geom:latitude":41.550755,
     "geom:longitude":-87.336449,
@@ -28,7 +33,10 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZTQ5QaZQPcwlxaqNbCgFP_41.550755_-87.336449@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598281,
     "wof:geomhash":"d343fd1c0a373bb5fbaae35e60575567",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806455511
+        }
+    ],
     "wof:id":806455511,
-    "wof:lastmodified":1466505330,
+    "wof:lastmodified":1492103985,
     "wof:name":"Broadway Currency Exchange",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

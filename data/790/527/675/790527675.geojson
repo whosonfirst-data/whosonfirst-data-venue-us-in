@@ -2,9 +2,14 @@
   "id": 790527675,
   "type": "Feature",
   "properties": {
+    "addr:full":"791 N Calumet Ave Valparaiso IN 46383",
+    "addr:housenumber":"791",
+    "addr:postcode":"46383",
+    "addr:street":"N Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.037055,41.549676,-87.037055,41.549676",
     "geom:latitude":41.549676,
     "geom:longitude":-87.037055,
@@ -24,7 +29,10 @@
     "sg:postcode":"46383",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YrFTnX63zDGjJTnfmJoWm_41.549676_-87.037055@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596604,
     "wof:geomhash":"7a5c816a9dbb4f7209b9b14f8691c376",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790527675
+        }
+    ],
     "wof:id":790527675,
-    "wof:lastmodified":1466513225,
+    "wof:lastmodified":1492100600,
     "wof:name":"Yavor Enterprises LLC",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

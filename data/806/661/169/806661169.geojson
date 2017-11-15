@@ -2,9 +2,14 @@
   "id": 806661169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 W 61st Ave Merrillville IN 46410",
+    "addr:housenumber":"1400",
+    "addr:postcode":"46410",
+    "addr:street":"W 61St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.354966,41.507551,-87.354966,41.507551",
     "geom:latitude":41.507551,
     "geom:longitude":-87.354966,
@@ -24,7 +29,10 @@
     "sg:postcode":"46410",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UF611iZOjzkRG7g8TYrxh_41.507551_-87.354966@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462600012,
     "wof:geomhash":"fdc80e4c78ccc3d3fd99cb00fa6d42f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806661169
+        }
+    ],
     "wof:id":806661169,
-    "wof:lastmodified":1466509159,
+    "wof:lastmodified":1492091326,
     "wof:name":"Merrillville Intermediate Schl",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

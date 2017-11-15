@@ -2,14 +2,20 @@
   "id": 789598963,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 W Washington St Muncie IN 47305",
+    "addr:housenumber":"219",
+    "addr:postcode":"47305",
+    "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.388604,40.194514,-85.388604,40.194514",
     "geom:latitude":40.194514,
     "geom:longitude":-85.388604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 W Washington St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125156149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E9yXl9l2DMVyOcubQGuqo_40.194514_-85.388604@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589056,
-    "wof:geomhash":"96bc45494040fa44d87c4eb4104a4e80",
+    "wof:geomhash":"0ecf3e1892a50c2a4e9dde13a0fdb88c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789598963,
-    "wof:lastmodified":1466503787,
+    "wof:lastmodified":1510694178,
     "wof:name":"Titan Auto Insurance",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

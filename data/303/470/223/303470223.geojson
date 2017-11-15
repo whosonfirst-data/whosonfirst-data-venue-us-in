@@ -2,6 +2,10 @@
   "id": 303470223,
   "type": "Feature",
   "properties": {
+    "addr:full":"6879 State Rd 67 Pendleton IN 46064",
+    "addr:housenumber":"6879;67",
+    "addr:postcode":"46064",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303470223,
-    "wof:lastmodified":1466503697,
+    "wof:lastmodified":1472622460,
     "wof:name":"Pendleton Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

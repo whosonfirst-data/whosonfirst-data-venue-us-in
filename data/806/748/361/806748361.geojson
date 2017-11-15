@@ -2,9 +2,14 @@
   "id": 806748361,
   "type": "Feature",
   "properties": {
+    "addr:full":"1346 119th St Whiting IN 46394",
+    "addr:housenumber":"1346",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.495903,41.679199,-87.495903,41.679199",
     "geom:latitude":41.679199,
     "geom:longitude":-87.495903,
@@ -30,7 +35,14 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MoyIoNQxSH798ZfKxf5sa_41.679291_-87.495566@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462600749,
     "wof:geomhash":"26b63dd93d84e6107244d0beaec2b841",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":806748361
+        }
+    ],
     "wof:id":806748361,
-    "wof:lastmodified":1466512674,
+    "wof:lastmodified":1492092219,
     "wof:name":"Jane Berland School of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

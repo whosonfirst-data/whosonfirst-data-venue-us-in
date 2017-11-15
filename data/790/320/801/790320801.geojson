@@ -2,6 +2,10 @@
   "id": 790320801,
   "type": "Feature",
   "properties": {
+    "addr:full":"21870 State Rd 120 Elkhart IN 46516",
+    "addr:housenumber":"21870;120",
+    "addr:postcode":"46516",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790320801,
-    "wof:lastmodified":1466507155,
+    "wof:lastmodified":1472622745,
     "wof:name":"Six Span",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

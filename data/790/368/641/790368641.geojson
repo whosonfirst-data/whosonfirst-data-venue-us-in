@@ -2,14 +2,20 @@
   "id": 790368641,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 E State Blvd Fort Wayne IN 46805",
+    "addr:housenumber":"3812",
+    "addr:postcode":"46805",
+    "addr:street":"E State Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.09028,41.097533,-85.09028,41.097533",
     "geom:latitude":41.097533,
     "geom:longitude":-85.09028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3812 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uUdrwdkJdgIwHZRlAPAqi_41.097533_-85.090280@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595294,
-    "wof:geomhash":"c122e9ccebc0e6b40679d432e89cee63",
+    "wof:geomhash":"cb752d53b495f5311ca9a5b5528a0fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790368641,
-    "wof:lastmodified":1466507496,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85877549,
     "wof:placetype":"venue",

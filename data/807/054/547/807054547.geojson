@@ -2,14 +2,20 @@
   "id": 807054547,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 To 5 Flora IN 46929",
+    "addr:housenumber":"",
+    "addr:postcode":"46929",
+    "addr:street":"Flora",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.276381,25.82147,-80.276381,25.82147",
     "geom:latitude":25.82147,
     "geom:longitude":-80.276381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 To 5",
     "sg:city":"Flora",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085771,
         85878145
     ],
+    "wof:brand_id":1125156977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eH5pynIA70diq0JSlYyei_25.821470_-80.276381@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603320,
-    "wof:geomhash":"feecbdb747c3ce8f9bbbb788673e1e59",
+    "wof:geomhash":"92582247467c926361dc3d1caea07db1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807054547,
-    "wof:lastmodified":1466504450,
+    "wof:lastmodified":1510699774,
     "wof:name":"IBM Corp",
     "wof:parent_id":85878145,
     "wof:placetype":"venue",

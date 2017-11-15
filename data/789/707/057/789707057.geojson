@@ -2,6 +2,10 @@
   "id": 789707057,
   "type": "Feature",
   "properties": {
+    "addr:full":"9895 S 800 W Columbus IN 47201",
+    "addr:housenumber":"9895;800",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789707057,
-    "wof:lastmodified":1466505475,
+    "wof:lastmodified":1472622537,
     "wof:name":"Tlb Roofing & Repair",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

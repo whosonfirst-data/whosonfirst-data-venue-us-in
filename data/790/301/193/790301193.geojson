@@ -2,14 +2,20 @@
   "id": 790301193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1904 W Royale Dr Muncie IN 47304",
+    "addr:housenumber":"1904",
+    "addr:postcode":"47304",
+    "addr:street":"W Royale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.406751,40.216054,-85.406751,40.216054",
     "geom:latitude":40.216054,
     "geom:longitude":-85.406751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1904 W Royale Dr",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125159551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yyu1sm7N89vkbFVsNOT8y_40.216054_-85.406751@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594777,
-    "wof:geomhash":"5160ea86286be921f1c175f43f3dc6ad",
+    "wof:geomhash":"318ce56cb09d3d9ef46743716c5f33df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790301193,
-    "wof:lastmodified":1466506820,
+    "wof:lastmodified":1510696651,
     "wof:name":"Family Vision Care",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

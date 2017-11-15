@@ -2,9 +2,14 @@
   "id": 790531649,
   "type": "Feature",
   "properties": {
+    "addr:full":"831 W 1125 S Brook IN 47922",
+    "addr:housenumber":"831",
+    "addr:postcode":"47922",
+    "addr:street":"W 1125 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.405126,40.833698,-87.405126,40.833698",
     "geom:latitude":40.833698,
     "geom:longitude":-87.405126,
@@ -24,7 +29,13 @@
     "sg:postcode":"47922",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501347,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ETqHDSvljgc1A2hyM9izK_40.833698_-87.405126@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462596636,
     "wof:geomhash":"864ac02d6c1512575b2b837c2dfb98bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501347,
+            "region_id":85688709,
+            "venue_id":790531649
+        }
+    ],
     "wof:id":790531649,
-    "wof:lastmodified":1466512946,
+    "wof:lastmodified":1492103019,
     "wof:name":"Back Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

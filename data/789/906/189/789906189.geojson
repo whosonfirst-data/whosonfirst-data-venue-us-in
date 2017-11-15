@@ -2,14 +2,20 @@
   "id": 789906189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1548 Madison St Gary IN 46407",
+    "addr:housenumber":"1548",
+    "addr:postcode":"46407",
+    "addr:street":"Madison St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.341691,41.587437,-87.341691,41.587437",
     "geom:latitude":41.587437,
     "geom:longitude":-87.341691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1548 Madison St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125156399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58dpBdPdOEyJ5lq563q8Eh_41.587437_-87.341691@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591494,
-    "wof:geomhash":"23fa8cbb1eec9f6a0afd097f274acc7e",
+    "wof:geomhash":"f35a3b2c88b148bc139fcad6159a71dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789906189,
-    "wof:lastmodified":1466507680,
+    "wof:lastmodified":1510699929,
     "wof:name":"Galilee Baptist Church",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",

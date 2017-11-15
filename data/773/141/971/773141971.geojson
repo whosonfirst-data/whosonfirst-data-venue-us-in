@@ -2,14 +2,20 @@
   "id": 773141971,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 US Hwy 31 N Greenwood IN 46142",
+    "addr:housenumber":"710",
+    "addr:postcode":"46142",
+    "addr:street":"Us Hwy 31 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.118888,39.624407,-86.118888,39.624407",
     "geom:latitude":39.624407,
     "geom:longitude":-86.118888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 US Hwy 31 N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086239,
         85688709
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70Kct1uAplKMQalFlDo12O_39.624407_-86.118888@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583449,
-    "wof:geomhash":"56ca74372e8656a776782bca2b85504e",
+    "wof:geomhash":"0643be82ce53c11d1f32833c7cb0b7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773141971,
-    "wof:lastmodified":1466505772,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85850567,
     "wof:placetype":"venue",

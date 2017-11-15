@@ -2,9 +2,14 @@
   "id": 806686139,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 W Richton Rd Crete IN 60417",
+    "addr:housenumber":"9",
+    "addr:postcode":"60417",
+    "addr:street":"W Richton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.616227,41.459548,-87.616227,41.459548",
     "geom:latitude":41.459548,
     "geom:longitude":-87.616227,
@@ -24,7 +29,14 @@
     "sg:postcode":"60417",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404499129,
+        85633793,
+        85940563,
+        102080845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f0pDHM2spkBaC4Lp7AMw8_41.459548_-87.616227@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462600224,
     "wof:geomhash":"37e55aa88604a51ad8846cfa7ef97c36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080845,
+            "localadmin_id":404499129,
+            "locality_id":85940563,
+            "region_id":85688697,
+            "venue_id":806686139
+        }
+    ],
     "wof:id":806686139,
-    "wof:lastmodified":1466510469,
+    "wof:lastmodified":1492092103,
     "wof:name":"Gina Cornejo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

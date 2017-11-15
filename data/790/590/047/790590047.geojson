@@ -2,14 +2,20 @@
   "id": 790590047,
   "type": "Feature",
   "properties": {
+    "addr:full":"10121 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"10121",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.989176,39.774839,-85.989176,39.774839",
     "geom:latitude":39.774839,
     "geom:longitude":-85.989176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10121 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lxUYsxSZdVc7pMxpNi87E_39.774839_-85.989176@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597125,
-    "wof:geomhash":"14056d79429514d538ca212a8c276c54",
+    "wof:geomhash":"b96d4c7e725f844264ecd2db5c235579",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790590047,
-    "wof:lastmodified":1466515094,
+    "wof:lastmodified":1510698756,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

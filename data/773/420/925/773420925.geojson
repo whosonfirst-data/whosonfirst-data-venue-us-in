@@ -2,9 +2,14 @@
   "id": 773420925,
   "type": "Feature",
   "properties": {
+    "addr:full":"11268 N 100 E Roselawn IN 46349",
+    "addr:housenumber":"11268",
+    "addr:postcode":"46349",
+    "addr:street":"N 100 E Roselawn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.372458,41.172857,-87.372458,41.172857",
     "geom:latitude":41.172857,
     "geom:longitude":-87.372458,
@@ -29,7 +34,13 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sPyrHwGHuasc8sLHbWlQv_41.172857_-87.372458@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462585581,
     "wof:geomhash":"8309a53469cf3ec2772a3f95acbff6f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":773420925
+        }
+    ],
     "wof:id":773420925,
-    "wof:lastmodified":1466510292,
+    "wof:lastmodified":1492101443,
     "wof:name":"Wings Over Water Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

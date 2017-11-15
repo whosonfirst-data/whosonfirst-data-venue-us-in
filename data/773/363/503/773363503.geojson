@@ -2,9 +2,14 @@
   "id": 773363503,
   "type": "Feature",
   "properties": {
+    "addr:full":"3648 Fillmore St Gary IN 46408",
+    "addr:housenumber":"3648",
+    "addr:postcode":"46408",
+    "addr:street":"Fillmore St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.349873,41.552256,-87.349873,41.552256",
     "geom:latitude":41.552256,
     "geom:longitude":-87.349873,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lJZarTmgXwPdtOxD4vDnI_41.552256_-87.349873@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462585136,
     "wof:geomhash":"a346502411362f7f5f6e4180943189a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773363503
+        }
+    ],
     "wof:id":773363503,
-    "wof:lastmodified":1466508489,
+    "wof:lastmodified":1492092702,
     "wof:name":"Lace N Such",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

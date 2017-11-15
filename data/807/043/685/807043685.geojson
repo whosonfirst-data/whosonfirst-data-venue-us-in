@@ -2,9 +2,14 @@
   "id": 807043685,
   "type": "Feature",
   "properties": {
+    "addr:full":"7329 Mcconnell Ave Lowell IN 46356",
+    "addr:housenumber":"7329",
+    "addr:postcode":"46356",
+    "addr:street":"Mcconnell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.421758,41.298254,-87.421758,41.298254",
     "geom:latitude":41.298254,
     "geom:longitude":-87.421758,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QD38cPAjD1407JzsOAed8_41.298254_-87.421758@1303262771"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603241,
     "wof:geomhash":"caac3b78fc155669e1687cf7e98e8a99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807043685
+        }
+    ],
     "wof:id":807043685,
-    "wof:lastmodified":1466503962,
+    "wof:lastmodified":1492091844,
     "wof:name":"Tk Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

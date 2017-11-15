@@ -2,9 +2,14 @@
   "id": 806798625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3334 Co Rd 1000 Fair Oaks IN 47943",
+    "addr:housenumber":"3334;1000",
+    "addr:postcode":"47943",
+    "addr:street":"Co Rd;Oaks In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.237867,41.061082,-87.237867,41.061082",
     "geom:latitude":41.061082,
     "geom:longitude":-87.237867,
@@ -23,7 +28,13 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500071,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MjH8nWeG1dBWN1q8fFpsF_41.061082_-87.237867@1294102998"
@@ -31,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1462601174,
     "wof:geomhash":"e66ba6c62863e611f53c28f96f7ccdb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500071,
+            "region_id":85688709,
+            "venue_id":806798625
+        }
+    ],
     "wof:id":806798625,
-    "wof:lastmodified":1466515232,
+    "wof:lastmodified":1492091842,
     "wof:name":"Anna Halsema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

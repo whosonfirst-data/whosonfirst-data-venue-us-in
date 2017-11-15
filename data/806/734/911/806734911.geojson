@@ -2,14 +2,20 @@
   "id": 806734911,
   "type": "Feature",
   "properties": {
+    "addr:full":"5595 W 74th St Indianapolis IN 46268",
+    "addr:housenumber":"5595",
+    "addr:postcode":"46268",
+    "addr:street":"W 74Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.259767,39.88739,-86.259767,39.88739",
     "geom:latitude":39.88739,
     "geom:longitude":-86.259767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5595 W 74th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BqWSvXCeGmAzlZeAlUsNc_39.887337_-86.259208@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462600623,
-    "wof:geomhash":"b8e447a3f66241418d5b41b154b0a230",
+    "wof:geomhash":"7d1cfdca58477b498ee457ba878082c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806734911,
-    "wof:lastmodified":1466512458,
+    "wof:lastmodified":1510603902,
     "wof:name":"Terminix International Co",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",

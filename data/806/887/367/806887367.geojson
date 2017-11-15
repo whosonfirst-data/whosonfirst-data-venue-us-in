@@ -2,14 +2,20 @@
   "id": 806887367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N State Road 135 Greenwood IN 46142",
+    "addr:housenumber":"1001",
+    "addr:postcode":"46142",
+    "addr:street":"N State Road 135",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158379,39.631286,-86.158379,39.631286",
     "geom:latitude":39.631286,
     "geom:longitude":-86.158379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 N State Road 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102086239,
         85826767
     ],
+    "wof:brand_id":1125152195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M2tzJwBHQSHFQDZxAlOAY_39.631286_-86.158379@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601910,
-    "wof:geomhash":"14d3f23beeb2ef6e5967905c31f36f41",
+    "wof:geomhash":"c40eec2fbb572eb10732ff18fb48175d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":806887367,
-    "wof:lastmodified":1466516993,
+    "wof:lastmodified":1510697275,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

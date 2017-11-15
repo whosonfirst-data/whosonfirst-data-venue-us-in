@@ -2,6 +2,10 @@
   "id": 773133979,
   "type": "Feature",
   "properties": {
+    "addr:full":"886 N Co Rd 650 W Medora IN 47260",
+    "addr:housenumber":"886;650",
+    "addr:postcode":"47260",
+    "addr:street":"N Co Rd;W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773133979,
-    "wof:lastmodified":1466505593,
+    "wof:lastmodified":1472622756,
     "wof:name":"Crynock Precision Machining",
     "wof:parent_id":85854953,
     "wof:placetype":"venue",

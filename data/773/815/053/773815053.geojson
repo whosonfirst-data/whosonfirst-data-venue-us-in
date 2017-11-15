@@ -2,9 +2,14 @@
   "id": 773815053,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 W 57th Ave Merrillville IN 46410",
+    "addr:housenumber":"803",
+    "addr:postcode":"46410",
+    "addr:street":"W 57Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.347545,41.514628,-87.347545,41.514628",
     "geom:latitude":41.514628,
     "geom:longitude":-87.347545,
@@ -29,7 +34,10 @@
         "association"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19KMj0V1rSnsOqWJGY2som_41.514628_-87.347545@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462588590,
     "wof:geomhash":"771edf5ef6c1063bce44c659a1a8095f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773815053
+        }
+    ],
     "wof:id":773815053,
-    "wof:lastmodified":1466519096,
+    "wof:lastmodified":1492095767,
     "wof:name":"Citizens Financial Svc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

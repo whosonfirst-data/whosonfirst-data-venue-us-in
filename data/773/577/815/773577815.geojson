@@ -2,9 +2,14 @@
   "id": 773577815,
   "type": "Feature",
   "properties": {
+    "addr:full":"778 Baltimore Rd Valparaiso IN 46385",
+    "addr:housenumber":"778",
+    "addr:postcode":"46385",
+    "addr:street":"Baltimore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.126675,41.546477,-87.126675,41.546477",
     "geom:latitude":41.546477,
     "geom:longitude":-87.126675,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B1andg4XJJ1qHmWVpGtpO_41.546477_-87.126675@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586786,
     "wof:geomhash":"e1f6e7579650cb74acbbbe5154b630cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773577815
+        }
+    ],
     "wof:id":773577815,
-    "wof:lastmodified":1466515792,
+    "wof:lastmodified":1492092105,
     "wof:name":"Country Loft",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

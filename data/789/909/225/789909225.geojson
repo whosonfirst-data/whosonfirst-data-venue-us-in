@@ -2,9 +2,14 @@
   "id": 789909225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 Broadway Gary IN 46408",
+    "addr:housenumber":"3812",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336551,41.547901,-87.336551,41.547901",
     "geom:latitude":41.547901,
     "geom:longitude":-87.336551,
@@ -28,7 +33,10 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5avhK1iWYi3cgSMPkpgGVb_41.547901_-87.336551@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462591531,
     "wof:geomhash":"d4ed763899d8d412b2ea9e00bba08030",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789909225
+        }
+    ],
     "wof:id":789909225,
-    "wof:lastmodified":1466507546,
+    "wof:lastmodified":1492091991,
     "wof:name":"Quick Sam Tax Refund",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

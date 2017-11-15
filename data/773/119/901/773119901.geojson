@@ -2,9 +2,14 @@
   "id": 773119901,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Windsor Dr Valparaiso IN 46385",
+    "addr:housenumber":"601",
+    "addr:postcode":"46385",
+    "addr:street":"Windsor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.072274,41.553197,-87.072274,41.553197",
     "geom:latitude":41.553197,
     "geom:longitude":-87.072274,
@@ -27,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pxcbsYMo2HVfVzJcEa3il_41.553197_-87.072274@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583295,
     "wof:geomhash":"c0012f7c41ce9eeee65f43f97e55b637",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773119901
+        }
+    ],
     "wof:id":773119901,
-    "wof:lastmodified":1466505435,
+    "wof:lastmodified":1492097606,
     "wof:name":"Kapital Kleaning Service",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

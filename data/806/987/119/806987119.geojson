@@ -2,14 +2,20 @@
   "id": 806987119,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"4720",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.238884,39.824057,-86.238884,39.824057",
     "geom:latitude":39.824057,
     "geom:longitude":-86.238884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4720 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QdQ4UdblCCWcOrhcJN6wg_39.824057_-86.238884@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602752,
-    "wof:geomhash":"9a69aae532d035f5f34e692274afe6b2",
+    "wof:geomhash":"ff052503c5a1b8f8cd6c5eae3ec83a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806987119,
-    "wof:lastmodified":1466518931,
+    "wof:lastmodified":1510694961,
     "wof:name":"New China Buffet",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

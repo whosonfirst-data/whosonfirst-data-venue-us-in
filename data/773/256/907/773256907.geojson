@@ -2,14 +2,20 @@
   "id": 773256907,
   "type": "Feature",
   "properties": {
+    "addr:full":"4611 Washington Ave Evansville IN 47714",
+    "addr:housenumber":"4611",
+    "addr:postcode":"47714",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.496423,37.962379,-87.496423,37.962379",
     "geom:latitude":37.962379,
     "geom:longitude":-87.496423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4611 Washington Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85877295
     ],
+    "wof:brand_id":1125158979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74OscRRZDk2zHyqhb2u6gW_37.962379_-87.496423@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584341,
-    "wof:geomhash":"8b6b813038a03b259be97e1c43769b13",
+    "wof:geomhash":"1128ce04b0e37de41263a7c9c9c8a724",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773256907,
-    "wof:lastmodified":1466506826,
+    "wof:lastmodified":1510696035,
     "wof:name":"Expert Tire",
     "wof:parent_id":85877295,
     "wof:placetype":"venue",

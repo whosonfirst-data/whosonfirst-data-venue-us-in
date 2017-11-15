@@ -2,9 +2,14 @@
   "id": 789723339,
   "type": "Feature",
   "properties": {
+    "addr:full":"7844 Madison Ave Munster IN 46321",
+    "addr:housenumber":"7844",
+    "addr:postcode":"46321",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.511546,41.569701,-87.511546,41.569701",
     "geom:latitude":41.569701,
     "geom:longitude":-87.511546,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DkBiMM82zKwzzJZroYqNJ_41.569701_-87.511546@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590053,
     "wof:geomhash":"2793b1513710451fcac2f3aaf5e354c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":789723339
+        }
+    ],
     "wof:id":789723339,
-    "wof:lastmodified":1466505685,
+    "wof:lastmodified":1492092140,
     "wof:name":"Taylor Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

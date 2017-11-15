@@ -2,14 +2,20 @@
   "id": 806405155,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 Broadway St Anderson IN 46012",
+    "addr:housenumber":"2003",
+    "addr:postcode":"46012",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.677721,40.136449,-85.677721,40.136449",
     "geom:latitude":40.136449,
     "geom:longitude":-85.677721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2003 Broadway St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086407,
         85837179
     ],
+    "wof:brand_id":420573805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XYNaoz8kEFZtnb8idWiy0_40.136449_-85.677721@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597876,
-    "wof:geomhash":"7c9b926ce27a2581bdd9a1bc472307da",
+    "wof:geomhash":"f7fe71156f9fd14bb3add5490ce9f56d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806405155,
-    "wof:lastmodified":1466504661,
+    "wof:lastmodified":1510603218,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85837179,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806359963,
   "type": "Feature",
   "properties": {
+    "addr:full":"3915 W Morris St Indianapolis IN 46241",
+    "addr:housenumber":"3915",
+    "addr:postcode":"46241",
+    "addr:street":"W Morris St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.23149,39.749652,-86.23149,39.749652",
     "geom:latitude":39.749652,
     "geom:longitude":-86.23149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3915 W Morris St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aJ3REFN3qqhO4sxPnF1fS_39.749652_-86.231490@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597507,
-    "wof:geomhash":"917260d9eb3488e5ea65ec21829b1b0b",
+    "wof:geomhash":"8ba08f7b3be2a85105bd6442cf20f470",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806359963,
-    "wof:lastmodified":1466503488,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806508689,
   "type": "Feature",
   "properties": {
+    "addr:full":"13901 W 109th Ave Dyer IN 46311",
+    "addr:housenumber":"13901",
+    "addr:postcode":"46311",
+    "addr:street":"W 109Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.500806,41.421105,-87.500806,41.421105",
     "geom:latitude":41.421105,
     "geom:longitude":-87.500806,
@@ -27,7 +32,13 @@
         "western"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jg6r02fE8BthiLePXjwrt_41.421105_-87.500806@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462598700,
     "wof:geomhash":"5a406699dcba57e8dd28bf8ba478e149",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "region_id":85688709,
+            "venue_id":806508689
+        }
+    ],
     "wof:id":806508689,
-    "wof:lastmodified":1466506154,
+    "wof:lastmodified":1492090543,
     "wof:name":"Barnette Western Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

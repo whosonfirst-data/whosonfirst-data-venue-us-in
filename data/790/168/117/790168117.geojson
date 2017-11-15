@@ -2,14 +2,20 @@
   "id": 790168117,
   "type": "Feature",
   "properties": {
+    "addr:full":"2874 Frontage Rd Warsaw IN 46580",
+    "addr:housenumber":"2874",
+    "addr:postcode":"46580",
+    "addr:street":"Frontage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.81616,41.237461,-85.81616,41.237461",
     "geom:latitude":41.237461,
     "geom:longitude":-85.81616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2874 Frontage Rd",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420574403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Edb6vZgMVU8kcqtqMqZYp_41.237461_-85.816160@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593674,
-    "wof:geomhash":"e56771c8503716d6441d281000dc9383",
+    "wof:geomhash":"a0c63409d7c63239c7b134c7d574c667",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790168117,
-    "wof:lastmodified":1466505555,
+    "wof:lastmodified":1510604235,
     "wof:name":"J C Penney Co",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

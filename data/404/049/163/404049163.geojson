@@ -2,6 +2,10 @@
   "id": 404049163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1228 N State Rd 19 Etna Green IN 46524",
+    "addr:housenumber":"1228;19",
+    "addr:postcode":"46524",
+    "addr:street":"N State Rd;Etna Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404049163,
-    "wof:lastmodified":1466502947,
+    "wof:lastmodified":1472622309,
     "wof:name":"Harold Feldman",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

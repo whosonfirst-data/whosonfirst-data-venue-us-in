@@ -2,14 +2,20 @@
   "id": 806374491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Broad Ripple Ave Indianapolis IN 46220",
+    "addr:housenumber":"2201",
+    "addr:postcode":"46220",
+    "addr:street":"Broad Ripple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.122236,39.868677,-86.122236,39.868677",
     "geom:latitude":39.868677,
     "geom:longitude":-86.122236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Broad Ripple Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C0IT0f4c1qat6T8T1j4Sr_39.868677_-86.122236@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597633,
-    "wof:geomhash":"1c6da5906879f201e0896b7d8bef5c0e",
+    "wof:geomhash":"d695ade4e45c90421e07d7373c0719f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806374491,
-    "wof:lastmodified":1466503971,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",

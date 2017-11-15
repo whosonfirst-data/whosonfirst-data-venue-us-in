@@ -2,9 +2,14 @@
   "id": 789808999,
   "type": "Feature",
   "properties": {
+    "addr:full":"9541 N 300 W Lake Village IN 46349",
+    "addr:housenumber":"9541",
+    "addr:postcode":"46349",
+    "addr:street":"N 300 W Lake Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.448818,41.137572,-87.448818,41.137572",
     "geom:latitude":41.137572,
     "geom:longitude":-87.448818,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501343,
+        85633793,
+        85942803,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eADpQhjNmo3GtjNZv0jtb_41.137572_-87.448818@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462590706,
     "wof:geomhash":"b829aae04e4390bccbb1906a496ee814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501343,
+            "locality_id":85942803,
+            "region_id":85688709,
+            "venue_id":789808999
+        }
+    ],
     "wof:id":789808999,
-    "wof:lastmodified":1466506573,
+    "wof:lastmodified":1492101516,
     "wof:name":"Elk-Dog Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790323215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1201",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.352187,41.548673,-87.352187,41.548673",
     "geom:latitude":41.548673,
     "geom:longitude":-87.352187,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HXgTyGXnIyLVTbMCJ4rzP_41.548673_-87.352187@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462594938,
     "wof:geomhash":"1c60fdcfbd011c4b2764d86be2f4628d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790323215
+        }
+    ],
     "wof:id":790323215,
-    "wof:lastmodified":1466507167,
+    "wof:lastmodified":1492103927,
     "wof:name":"M & M Speed Laundry",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

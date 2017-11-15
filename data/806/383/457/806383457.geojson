@@ -2,14 +2,20 @@
   "id": 806383457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 W Bethel Ave Muncie IN 47304",
+    "addr:housenumber":"3900",
+    "addr:postcode":"47304",
+    "addr:street":"W Bethel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.432957,40.219888,-85.432957,40.219888",
     "geom:latitude":40.219888,
     "geom:longitude":-85.432957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 W Bethel Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125153687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KqWsGlBwEM2fXLjUzo7sT_40.219888_-85.432957@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597708,
-    "wof:geomhash":"7b0d93ab15fd11233a699c624a6ec05c",
+    "wof:geomhash":"368bf578e62707dca41d4a6c7a7f5dc0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806383457,
-    "wof:lastmodified":1466504542,
+    "wof:lastmodified":1510698886,
     "wof:name":"Dunham's Sports",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

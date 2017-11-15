@@ -2,9 +2,14 @@
   "id": 806484427,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 E 750 N Valparaiso IN 46383",
+    "addr:housenumber":"177",
+    "addr:postcode":"46383",
+    "addr:street":"E 750 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.032692,41.542672,-87.032692,41.542672",
     "geom:latitude":41.542672,
     "geom:longitude":-87.032692,
@@ -27,7 +32,10 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fuub6igKftxT7UKgqTtpS_41.542672_-87.032692@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598503,
     "wof:geomhash":"213231509d0b1647c4871eac94d067d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806484427
+        }
+    ],
     "wof:id":806484427,
-    "wof:lastmodified":1466505987,
+    "wof:lastmodified":1492097611,
     "wof:name":"ABS Integrated Svc Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

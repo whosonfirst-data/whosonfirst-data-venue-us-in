@@ -2,6 +2,10 @@
   "id": 789630477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3821 State Rd 26 E Lafayette IN 47905",
+    "addr:housenumber":"3821;26 e",
+    "addr:postcode":"47905",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789630477,
-    "wof:lastmodified":1466504561,
+    "wof:lastmodified":1472622466,
     "wof:name":"International Sports Clubs",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

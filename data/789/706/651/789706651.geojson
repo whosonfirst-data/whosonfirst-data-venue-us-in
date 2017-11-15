@@ -2,6 +2,10 @@
   "id": 789706651,
   "type": "Feature",
   "properties": {
+    "addr:full":"51533 State Rd 19 Elkhart IN 46514",
+    "addr:housenumber":"51533;19",
+    "addr:postcode":"46514",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789706651,
-    "wof:lastmodified":1466505489,
+    "wof:lastmodified":1472622545,
     "wof:name":"Utopia Acupressure",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

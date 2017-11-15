@@ -2,6 +2,10 @@
   "id": 789783375,
   "type": "Feature",
   "properties": {
+    "addr:full":"16958 Co Rd 22 Goshen IN 46528",
+    "addr:housenumber":"16958;22",
+    "addr:postcode":"46528",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789783375,
-    "wof:lastmodified":1466506213,
+    "wof:lastmodified":1472622623,
     "wof:name":"Truman Miller",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

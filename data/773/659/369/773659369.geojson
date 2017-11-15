@@ -2,14 +2,20 @@
   "id": 773659369,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 W 3rd St Peru IN 46970",
+    "addr:housenumber":"52",
+    "addr:postcode":"46970",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.070039,40.752206,-86.070039,40.752206",
     "geom:latitude":40.752206,
     "geom:longitude":-86.070039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"52 W 3rd St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087079,
         85688709
     ],
+    "wof:brand_id":1125159967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VNr6mwDGXGdEkGWdd7Ooj_40.752206_-86.070039@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587388,
-    "wof:geomhash":"15285e587f24862e68a910a2998a4a55",
+    "wof:geomhash":"0ef44d5dd7c3ceef890c94548e1a0990",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773659369,
-    "wof:lastmodified":1466517099,
+    "wof:lastmodified":1510693849,
     "wof:name":"One Hour Cleaners",
     "wof:parent_id":85844551,
     "wof:placetype":"venue",

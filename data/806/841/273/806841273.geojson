@@ -2,14 +2,20 @@
   "id": 806841273,
   "type": "Feature",
   "properties": {
+    "addr:full":"6689 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"6689",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.051599,39.905117,-86.051599,39.905117",
     "geom:latitude":39.905117,
     "geom:longitude":-86.051599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6689 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wpdg6u3fyYsQEbaNxxuNV_39.905135_-86.051494@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601518,
-    "wof:geomhash":"ae5314de904608108b4ebd6d20bcd86e",
+    "wof:geomhash":"33fb52ccbfe262424d03a8900f519a29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806841273,
-    "wof:lastmodified":1466515895,
+    "wof:lastmodified":1510693983,
     "wof:name":"Skyline Chili",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

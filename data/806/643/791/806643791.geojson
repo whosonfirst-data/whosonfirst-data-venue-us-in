@@ -2,14 +2,20 @@
   "id": 806643791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Directors Row Fort Wayne IN 46808",
+    "addr:housenumber":"1415",
+    "addr:postcode":"46808",
+    "addr:street":"Directors Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.164526,41.118603,-85.164526,41.118603",
     "geom:latitude":41.118603,
     "geom:longitude":-85.164526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1415 Directors Row",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P5w4oDfK3Vg0B8cxReusH_41.118603_-85.164526@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599849,
-    "wof:geomhash":"cbd8767afb187f746a8167e25c7692e6",
+    "wof:geomhash":"42a4e939155e9cf77ec70a0a1fbcf7fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806643791,
-    "wof:lastmodified":1466508315,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

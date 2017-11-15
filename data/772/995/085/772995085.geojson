@@ -2,6 +2,10 @@
   "id": 772995085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 S Co Rd 1050 E Indianapolis IN 46231",
+    "addr:housenumber":"1201;1050 e",
+    "addr:postcode":"46231",
+    "addr:street":"S Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":772995085,
-    "wof:lastmodified":1466502919,
+    "wof:lastmodified":1472622262,
     "wof:name":"Hobbs Nurseries",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

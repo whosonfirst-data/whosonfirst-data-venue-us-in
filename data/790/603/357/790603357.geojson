@@ -2,9 +2,14 @@
   "id": 790603357,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 N 600 W Michigan City IN 46360",
+    "addr:housenumber":"5601",
+    "addr:postcode":"46360",
+    "addr:street":"N 600 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816273,41.689319,-86.816273,41.689319",
     "geom:latitude":41.689319,
     "geom:longitude":-86.816273,
@@ -27,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LJVrP7MQShbwApGiDup96_41.689319_-86.816273@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462597251,
     "wof:geomhash":"ca5fcbbcb06733726deab16918f8ccb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":790603357
+        }
+    ],
     "wof:id":790603357,
-    "wof:lastmodified":1466515095,
+    "wof:lastmodified":1492100535,
     "wof:name":"Steeles Plumbing & Mechanical",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

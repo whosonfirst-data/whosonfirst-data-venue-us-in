@@ -2,14 +2,20 @@
   "id": 806813439,
   "type": "Feature",
   "properties": {
+    "addr:full":"7134 Woodland Dr Indianapolis IN 46278",
+    "addr:housenumber":"7134",
+    "addr:postcode":"46278",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.265566,39.882017,-86.265566,39.882017",
     "geom:latitude":39.882017,
     "geom:longitude":-86.265566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7134 Woodland Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6auFaefJEQnib6JaAHnQKu_39.882017_-86.265566@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601291,
-    "wof:geomhash":"3517d26d322aaf39c3d66d22410ec3ae",
+    "wof:geomhash":"b0950688dcd9282278e741e0f1306ade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806813439,
-    "wof:lastmodified":1466514775,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85830193,
     "wof:placetype":"venue",

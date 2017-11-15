@@ -2,9 +2,14 @@
   "id": 773442577,
   "type": "Feature",
   "properties": {
+    "addr:full":"8911 Norris Dr Hobart IN 46342",
+    "addr:housenumber":"8911",
+    "addr:postcode":"46342",
+    "addr:street":"Norris Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.235993,41.4986,-87.235993,41.4986",
     "geom:latitude":41.4986,
     "geom:longitude":-87.235993,
@@ -24,7 +29,14 @@
     "sg:postcode":"46342",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501867,
+        85633793,
+        85941823,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PQ3YM3rSCPmDCpBy5fsjt_41.498600_-87.235993@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462585777,
     "wof:geomhash":"852f1defd0f4e0cc6842a3afc73184a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941823,
+            "region_id":85688709,
+            "venue_id":773442577
+        }
+    ],
     "wof:id":773442577,
-    "wof:lastmodified":1466511549,
+    "wof:lastmodified":1492102373,
     "wof:name":"E Room Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

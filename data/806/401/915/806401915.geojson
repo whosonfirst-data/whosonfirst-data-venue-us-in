@@ -2,9 +2,14 @@
   "id": 806401915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3782 W US Hwy 20 Laporte IN 46350",
+    "addr:housenumber":"3782",
+    "addr:postcode":"46350",
+    "addr:street":"W Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772404,41.688698,-86.772404,41.688698",
     "geom:latitude":41.688698,
     "geom:longitude":-86.772404,
@@ -28,7 +33,10 @@
         "alarm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dL4ZwWkNmehVsco1yK3Cx_41.688698_-86.772404@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462597853,
     "wof:geomhash":"f59e70af0722dfe2eb519126f366e95d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806401915
+        }
+    ],
     "wof:id":806401915,
-    "wof:lastmodified":1466504567,
+    "wof:lastmodified":1492091484,
     "wof:name":"Electronic Shop & More",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

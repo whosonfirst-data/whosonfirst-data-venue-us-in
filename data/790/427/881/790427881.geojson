@@ -2,14 +2,20 @@
   "id": 790427881,
   "type": "Feature",
   "properties": {
+    "addr:full":"3833 S Madison St Muncie IN 47302",
+    "addr:housenumber":"3833",
+    "addr:postcode":"47302",
+    "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.382011,40.15823,-85.382011,40.15823",
     "geom:latitude":40.15823,
     "geom:longitude":-85.382011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3833 S Madison St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85827089
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QDr46OwL0C08Me7mp5eL9_40.158230_-85.382011@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595755,
-    "wof:geomhash":"aaef3bfd17812abaf8eb67707f0442c3",
+    "wof:geomhash":"2a404221fd339cb54b71947b498b5142",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790427881,
-    "wof:lastmodified":1466509051,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",

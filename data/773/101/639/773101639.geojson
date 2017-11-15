@@ -2,14 +2,20 @@
   "id": 773101639,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 N Wagonwheel Trl Lafayette IN 47909",
+    "addr:housenumber":"808",
+    "addr:postcode":"47909",
+    "addr:street":"N Wagonwheel Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887713,40.35571,-86.887713,40.35571",
     "geom:latitude":40.35571,
     "geom:longitude":-86.887713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 N Wagonwheel Trl",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087121,
         85688709
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qAOgclmw8JTyrF5YOfWKc_40.355710_-86.887713@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583166,
-    "wof:geomhash":"b12d7345f2f363f9bc61634970d0d2e2",
+    "wof:geomhash":"0fe956540d7fcf68fb3f16c3dd8b9deb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773101639,
-    "wof:lastmodified":1466505244,
+    "wof:lastmodified":1510695796,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85817971,
     "wof:placetype":"venue",

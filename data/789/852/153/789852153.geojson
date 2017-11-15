@@ -2,9 +2,14 @@
   "id": 789852153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1975 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1975",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35627,41.54836,-87.35627,41.54836",
     "geom:latitude":41.54836,
     "geom:longitude":-87.35627,
@@ -25,7 +30,10 @@
     "sg:province":"IN",
     "sg:website":"www.bankcalumet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fKg4cb3dbvkrr1PZWgcPe_41.548360_-87.356270@1294102998"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1462591044,
     "wof:geomhash":"79d789529489d527b0d130ff11a87d18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789852153
+        }
+    ],
     "wof:id":789852153,
-    "wof:lastmodified":1466506991,
+    "wof:lastmodified":1492100668,
     "wof:name":"Bank Calumet",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

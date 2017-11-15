@@ -2,6 +2,10 @@
   "id": 806900899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 Prospect St Rm 200 Indianapolis IN 46203",
+    "addr:housenumber":"1105;200",
+    "addr:postcode":"46203",
+    "addr:street":"Prospect St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":806900899,
-    "wof:lastmodified":1466516989,
+    "wof:lastmodified":1472623031,
     "wof:name":"Fountainview Inn",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",

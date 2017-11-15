@@ -2,6 +2,10 @@
   "id": 789789513,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 S 675 W Hebron IN 46341",
+    "addr:housenumber":"77;675",
+    "addr:postcode":"46341",
+    "addr:street":"S;W Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789789513,
-    "wof:lastmodified":1466506387,
+    "wof:lastmodified":1472622630,
     "wof:name":"Cannon Asalee",
     "wof:parent_id":85813921,
     "wof:placetype":"venue",

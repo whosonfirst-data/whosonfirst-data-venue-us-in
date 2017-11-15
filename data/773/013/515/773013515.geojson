@@ -2,9 +2,14 @@
   "id": 773013515,
   "type": "Feature",
   "properties": {
+    "addr:full":"3738 Monroe St Gary IN 46408",
+    "addr:housenumber":"3738",
+    "addr:postcode":"46408",
+    "addr:street":"Monroe St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.342604,41.550095,-87.342604,41.550095",
     "geom:latitude":41.550095,
     "geom:longitude":-87.342604,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6njByC0vpzbhTrkcJCPnQS_41.550095_-87.342604@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462582373,
     "wof:geomhash":"bd6a741981145879fc333cced20d9814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773013515
+        }
+    ],
     "wof:id":773013515,
-    "wof:lastmodified":1466503879,
+    "wof:lastmodified":1492088031,
     "wof:name":"Gwens Expressions",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

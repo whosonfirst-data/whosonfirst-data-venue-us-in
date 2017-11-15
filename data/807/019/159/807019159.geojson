@@ -2,9 +2,14 @@
   "id": 807019159,
   "type": "Feature",
   "properties": {
+    "addr:full":"936 N Main St Crown Point IN 46307",
+    "addr:housenumber":"936",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364255,41.429118,-87.364255,41.429118",
     "geom:latitude":41.429118,
     "geom:longitude":-87.364255,
@@ -24,7 +29,15 @@
     "sg:postcode":"46307",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qiDTi5afGXZTLtAzEd9nh_41.429118_-87.364255@1303262769"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462603029,
     "wof:geomhash":"c273f4ac857919bf7c41f5c514b7652a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807019159
+        }
+    ],
     "wof:id":807019159,
-    "wof:lastmodified":1466504072,
+    "wof:lastmodified":1492094839,
     "wof:name":"First Financial Bank",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

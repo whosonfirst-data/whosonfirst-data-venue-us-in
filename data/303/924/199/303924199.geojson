@@ -2,14 +2,20 @@
   "id": 303924199,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 25th St Columbus IN 47201",
+    "addr:housenumber":"2380",
+    "addr:postcode":"47201",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.897938,39.223108,-85.897938,39.223108",
     "geom:latitude":39.223108,
     "geom:longitude":-85.897938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2380 25th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087181,
         85837517
     ],
+    "wof:brand_id":1125151109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vsAU9BLGzCGkbzp2KrBsK_39.223108_-85.897938@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5160b9317748e3b4a8d9dcdd5f2b6c3",
+    "wof:geomhash":"cfec05a8f8f779ab2f3c6b076dae8d4f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":303924199,
-    "wof:lastmodified":1466503270,
+    "wof:lastmodified":1510697585,
     "wof:name":"Great American Cookie Co",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789875123,
   "type": "Feature",
   "properties": {
+    "addr:full":"248 S 500 W Valparaiso IN 46385",
+    "addr:housenumber":"248;500",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.161763,41.399263,-87.161763,41.399263",
     "geom:latitude":41.399263,
     "geom:longitude":-87.161763,
@@ -24,7 +29,13 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501719,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fDjjrshebgZvS4q4O4OTr_41.399263_-87.161763@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462591226,
     "wof:geomhash":"f69d889f17adbfa131ffe3630112c0c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501719,
+            "region_id":85688709,
+            "venue_id":789875123
+        }
+    ],
     "wof:id":789875123,
-    "wof:lastmodified":1466507293,
+    "wof:lastmodified":1492101268,
     "wof:name":"Porter Township School Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

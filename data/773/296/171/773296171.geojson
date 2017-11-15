@@ -2,14 +2,20 @@
   "id": 773296171,
   "type": "Feature",
   "properties": {
+    "addr:full":"347 W Lusher Ave Elkhart IN 46517",
+    "addr:housenumber":"347",
+    "addr:postcode":"46517",
+    "addr:street":"W Lusher Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.971624,41.666658,-85.971624,41.666658",
     "geom:latitude":41.666658,
     "geom:longitude":-85.971624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"347 W Lusher Ave",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QO9vqPaKaQ6Cf9s7aPCqm_41.666658_-85.971624@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584646,
-    "wof:geomhash":"eba76aad766a92d35c02e31196f17466",
+    "wof:geomhash":"41edbcc60416d251782d4d98f94daa89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773296171,
-    "wof:lastmodified":1466507218,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

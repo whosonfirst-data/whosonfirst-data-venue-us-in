@@ -2,14 +2,20 @@
   "id": 789850591,
   "type": "Feature",
   "properties": {
+    "addr:full":"19059 N Rock Rd New Paris IN 46553",
+    "addr:housenumber":"19059",
+    "addr:postcode":"46553",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.830051,41.511686,-85.830051,41.511686",
     "geom:latitude":41.511686,
     "geom:longitude":-85.830051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19059 N Rock Rd",
     "sg:city":"New Paris",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pWbqldW5HcDRRUz8lp0QN_41.511686_-85.830051@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591031,
-    "wof:geomhash":"792481451e1aa4acc7d59d3a05a2da4e",
+    "wof:geomhash":"50a45fad57fc5dcd4738b8b20b10c723",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789850591,
-    "wof:lastmodified":1466507189,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

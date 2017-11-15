@@ -2,14 +2,20 @@
   "id": 773670847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1219 E Cragmont Dr Indianapolis IN 46227",
+    "addr:housenumber":"1219",
+    "addr:postcode":"46227",
+    "addr:street":"E Cragmont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.138103,39.674705,-86.138103,39.674705",
     "geom:latitude":39.674705,
     "geom:longitude":-86.138103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1219 E Cragmont Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZWlgh2HuywvZV96YGnpJ0_39.674705_-86.138103@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587473,
-    "wof:geomhash":"c7ec6b78ba3210b41e3466ad43973824",
+    "wof:geomhash":"5e051b7e476e407250d26336c5b56ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773670847,
-    "wof:lastmodified":1466516904,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",

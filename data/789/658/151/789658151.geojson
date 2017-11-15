@@ -2,9 +2,14 @@
   "id": 789658151,
   "type": "Feature",
   "properties": {
+    "addr:full":"4286 Broadway Gary IN 46408",
+    "addr:housenumber":"4286",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336441,41.541973,-87.336441,41.541973",
     "geom:latitude":41.541973,
     "geom:longitude":-87.336441,
@@ -28,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q4zeIa4xcBUTp4ivwdX7J_41.541973_-87.336441@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462589516,
     "wof:geomhash":"fdf0e0d715e6f3057a919f9838c8ca0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789658151
+        }
+    ],
     "wof:id":789658151,
-    "wof:lastmodified":1466504799,
+    "wof:lastmodified":1492100661,
     "wof:name":"Oliver Crawford Jr Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

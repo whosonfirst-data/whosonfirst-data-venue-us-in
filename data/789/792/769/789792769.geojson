@@ -2,6 +2,10 @@
   "id": 789792769,
   "type": "Feature",
   "properties": {
+    "addr:full":"12011 S 850 E Clarks Hill IN 47930",
+    "addr:housenumber":"12011;850 e",
+    "addr:postcode":"47930",
+    "addr:street":"S;Clarks Hill",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789792769,
-    "wof:lastmodified":1466506301,
+    "wof:lastmodified":1472622633,
     "wof:name":"Ole Hickory Transport Corp",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

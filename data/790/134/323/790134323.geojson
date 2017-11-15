@@ -2,14 +2,20 @@
   "id": 790134323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Kings Hwy Winona Lake IN 46590",
+    "addr:housenumber":"1200",
+    "addr:postcode":"46590",
+    "addr:street":"Kings Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.816538,41.2247,-85.816538,41.2247",
     "geom:latitude":41.2247,
     "geom:longitude":-85.816538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Kings Hwy",
     "sg:city":"Winona Lake",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":1125158539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sM9F8s1prL1AZ64LFrPUy_41.224700_-85.816538@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593389,
-    "wof:geomhash":"e38f0708554c8855a93332fa2b90829e",
+    "wof:geomhash":"542dac69058cb7b5949f0d9cb45e96b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790134323,
-    "wof:lastmodified":1466505227,
+    "wof:lastmodified":1510698665,
     "wof:name":"Grace Brethren Church",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

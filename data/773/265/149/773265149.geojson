@@ -2,9 +2,14 @@
   "id": 773265149,
   "type": "Feature",
   "properties": {
+    "addr:full":"4129 W 45th Ave Gary IN 46408",
+    "addr:housenumber":"4129",
+    "addr:postcode":"46408",
+    "addr:street":"W 45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.395309,41.53704,-87.395309,41.53704",
     "geom:latitude":41.53704,
     "geom:longitude":-87.395309,
@@ -29,7 +34,10 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08vWMmqIDMXF8zNCvYxr5c_41.537040_-87.395309@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462584397,
     "wof:geomhash":"541c24854cc9b3882a4861881f7808db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773265149
+        }
+    ],
     "wof:id":773265149,
-    "wof:lastmodified":1466506972,
+    "wof:lastmodified":1492090439,
     "wof:name":"Griffith Kiddie Karriage",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

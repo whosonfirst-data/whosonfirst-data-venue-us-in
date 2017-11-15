@@ -2,14 +2,20 @@
   "id": 790549957,
   "type": "Feature",
   "properties": {
+    "addr:full":"2823 N Oakwood Ave Muncie IN 47304",
+    "addr:housenumber":"2823",
+    "addr:postcode":"47304",
+    "addr:street":"N Oakwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.40965,40.218798,-85.40965,40.218798",
     "geom:latitude":40.218798,
     "geom:longitude":-85.40965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2823 N Oakwood Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125152043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iZyEgJURyszweYbqJmepB_40.218798_-85.409650@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596795,
-    "wof:geomhash":"1c8fa56af6e8d7bd8926ba6dd4558da2",
+    "wof:geomhash":"09d475ec192e783b03e02f5baf8abc11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790549957,
-    "wof:lastmodified":1466513456,
+    "wof:lastmodified":1510694907,
     "wof:name":"Joe's Barber Shop",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

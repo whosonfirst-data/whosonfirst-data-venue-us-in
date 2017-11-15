@@ -2,9 +2,14 @@
   "id": 303976221,
   "type": "Feature",
   "properties": {
+    "addr:full":"1251 W 16th St Indianapolis IN 46202",
+    "addr:housenumber":"1251",
+    "addr:postcode":"46202",
+    "addr:street":"W 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.18458,39.788669,-86.18458,39.788669",
     "geom:latitude":39.788669,
     "geom:longitude":-86.18458,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870657,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870657
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"f2d6f94af31e25e06bd92402fbf9afe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870657,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":303976221,
-    "wof:lastmodified":1466503352,
+    "wof:lastmodified":1491914486,
     "wof:name":"Lynn's Auto Sales",
     "wof:parent_id":85870657,
     "wof:placetype":"venue",

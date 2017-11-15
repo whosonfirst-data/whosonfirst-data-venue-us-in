@@ -2,9 +2,14 @@
   "id": 773280467,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Ridge Rd Munster IN 46321",
+    "addr:housenumber":"27",
+    "addr:postcode":"46321",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.524084,41.563398,-87.524084,41.563398",
     "geom:latitude":41.563398,
     "geom:longitude":-87.524084,
@@ -28,7 +33,14 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qqLJq2TucrirKhFnxwDJ4_41.563398_-87.524084@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462584518,
     "wof:geomhash":"e94eaf48bc18f8fcd7f8055c64084513",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":773280467
+        }
+    ],
     "wof:id":773280467,
-    "wof:lastmodified":1466507230,
+    "wof:lastmodified":1492090389,
     "wof:name":"Dance Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773168155,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 E Hanna Ave Indianapolis IN 46227",
+    "addr:housenumber":"930",
+    "addr:postcode":"46227",
+    "addr:street":"E Hanna Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.147823,39.708013,-86.147823,39.708013",
     "geom:latitude":39.708013,
     "geom:longitude":-86.147823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"930 E Hanna Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YBjg7mI4jOP0hNH28lknI_39.708013_-86.147823@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583656,
-    "wof:geomhash":"99864a505a74431b456a9fb2b8ab9608",
+    "wof:geomhash":"61dee231a80430ce3708c5d0209dbb96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773168155,
-    "wof:lastmodified":1466506002,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

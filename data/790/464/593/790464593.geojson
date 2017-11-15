@@ -2,14 +2,20 @@
   "id": 790464593,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Main St Beech Grove IN 46107",
+    "addr:housenumber":"417",
+    "addr:postcode":"46107",
+    "addr:street":"Main St Beech Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.087245,39.721649,-86.087245,39.721649",
     "geom:latitude":39.721649,
     "geom:longitude":-86.087245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"417 Main St",
     "sg:city":"Beech Grove",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154627,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JrcblCgyK3VSibM5psY4q_39.721649_-86.087245@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596046,
-    "wof:geomhash":"d61c5c8fb36af8c3f515810a82f641f0",
+    "wof:geomhash":"a50b29de6bb973e5b0dd69617eea3cda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790464593,
-    "wof:lastmodified":1466510737,
+    "wof:lastmodified":1510695410,
     "wof:name":"Curl Up & Dye",
     "wof:parent_id":85851503,
     "wof:placetype":"venue",

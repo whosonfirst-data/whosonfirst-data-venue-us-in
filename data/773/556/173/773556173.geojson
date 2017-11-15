@@ -2,14 +2,20 @@
   "id": 773556173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 N Meridian St Indianapolis IN 46208",
+    "addr:housenumber":"2330",
+    "addr:postcode":"46208",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157045,39.79935,-86.157045,39.79935",
     "geom:latitude":39.79935,
     "geom:longitude":-86.157045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2330 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S9h6vMkXbPTbrPV7dXxFK_39.799350_-86.157045@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586616,
-    "wof:geomhash":"5d45cfb573032ee109afc59b27ce6dd1",
+    "wof:geomhash":"46408e9c4a56225ad140572f04b5cbce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773556173,
-    "wof:lastmodified":1466515039,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":420519815,
     "wof:placetype":"venue",

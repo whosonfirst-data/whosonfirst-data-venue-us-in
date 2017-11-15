@@ -2,14 +2,20 @@
   "id": 806968443,
   "type": "Feature",
   "properties": {
+    "addr:full":"8465 Keystone Xing Ste 115 Indianapolis IN 46240",
+    "addr:housenumber":"8465",
+    "addr:postcode":"46240",
+    "addr:street":"Keystone Xing Ste 115",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.11359,39.91038,-86.11359,39.91038",
     "geom:latitude":39.91038,
     "geom:longitude":-86.11359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8465 Keystone Xing Ste 115",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125153759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Mzlpnhv10PKkhoL3jzIxh_39.910380_-86.113590@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602599,
-    "wof:geomhash":"3834b99eb01778307fcd4f180b786447",
+    "wof:geomhash":"b0a3b1b01bdca2215198905bf8577bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806968443,
-    "wof:lastmodified":1466518495,
+    "wof:lastmodified":1510693814,
     "wof:name":"Coverall Cleaning Concepts",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

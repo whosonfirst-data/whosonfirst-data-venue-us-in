@@ -2,9 +2,14 @@
   "id": 790025677,
   "type": "Feature",
   "properties": {
+    "addr:full":"4788 Hayes St Gary IN 46408",
+    "addr:housenumber":"4788",
+    "addr:postcode":"46408",
+    "addr:street":"Hayes St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.356913,41.533081,-87.356913,41.533081",
     "geom:latitude":41.533081,
     "geom:longitude":-87.356913,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KZCfPhaC1jYI0Ri2Ii4Ro_41.533081_-87.356913@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462592536,
     "wof:geomhash":"93d11bd608b8993439cc91fce60e4e28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790025677
+        }
+    ],
     "wof:id":790025677,
-    "wof:lastmodified":1466504436,
+    "wof:lastmodified":1492100623,
     "wof:name":"Active Sign Co",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

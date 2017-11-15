@@ -2,9 +2,14 @@
   "id": 806523875,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Andover Dr Valparaiso IN 46383",
+    "addr:housenumber":"101",
+    "addr:postcode":"46383",
+    "addr:street":"Andover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.060505,41.510108,-87.060505,41.510108",
     "geom:latitude":41.510108,
     "geom:longitude":-87.060505,
@@ -28,7 +33,10 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KFEehMwd6QRHT0pWwaaXu_41.510108_-87.060505@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598815,
     "wof:geomhash":"4ccab237816a46ef4d6c50a2e8b9e18c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806523875
+        }
+    ],
     "wof:id":806523875,
-    "wof:lastmodified":1466506513,
+    "wof:lastmodified":1492102353,
     "wof:name":"RE Discovery Ranch Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

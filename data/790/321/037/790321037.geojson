@@ -2,14 +2,20 @@
   "id": 790321037,
   "type": "Feature",
   "properties": {
+    "addr:full":"6639 Saint Marys Rd Floyds Knobs IN 47119",
+    "addr:housenumber":"6639",
+    "addr:postcode":"in 47119",
+    "addr:street":"Saint Marys Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.864688,38.368973,-85.864688,38.368973",
     "geom:latitude":38.368973,
     "geom:longitude":-85.864688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6639 Saint Marys Rd",
     "sg:city":"Floyds Knobs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087137,
         85846703
     ],
+    "wof:brand_id":1125153857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zcL8i3UP23ghAZAoN7w3D_38.368973_-85.864688@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594922,
-    "wof:geomhash":"17c9af0fcc5118bc5d45ac18cdd622a0",
+    "wof:geomhash":"ec24daabe56756f286521b52b7bf7397",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790321037,
-    "wof:lastmodified":1466507130,
+    "wof:lastmodified":1510697164,
     "wof:name":"Cornerstone Community Church",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403918099,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Wilson Creek Rd Lawrenceburg IN 47025",
+    "addr:housenumber":"606",
+    "addr:postcode":"47025",
+    "addr:street":"Wilson Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.884873,39.110555,-84.884873,39.110555",
     "geom:latitude":39.110555,
     "geom:longitude":-84.884873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 Wilson Creek Rd",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85942285,
         102087067
     ],
+    "wof:brand_id":1125158993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mAqXVOr4RoMkyf8DIBRWb_39.110555_-84.884873@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"6cb6f4e727e7bdc747cb4f6262022d41",
+    "wof:geomhash":"6169ebb316e39759383278f92004c2c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403918099,
-    "wof:lastmodified":1466503185,
+    "wof:lastmodified":1510604934,
     "wof:name":"Gastroenterology Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

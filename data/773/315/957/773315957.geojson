@@ -2,14 +2,20 @@
   "id": 773315957,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 27th St Goshen IN 46528",
+    "addr:housenumber":"306",
+    "addr:postcode":"46528",
+    "addr:street":"27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.80736,41.588116,-85.80736,41.588116",
     "geom:latitude":41.588116,
     "geom:longitude":-85.80736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 27th St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125154201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_635T1fjdoVR5ZuWVSbtvJV_41.588116_-85.807360@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462584816,
-    "wof:geomhash":"42667546677bf28c4d35a1c486d3cdb0",
+    "wof:geomhash":"453f5a26bccf51d3f1d9e3c1099f35b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773315957,
-    "wof:lastmodified":1466507634,
+    "wof:lastmodified":1510694738,
     "wof:name":"Family Worship Ctr",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

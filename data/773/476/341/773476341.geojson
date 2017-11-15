@@ -2,9 +2,14 @@
   "id": 773476341,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Long Lake Ln Valparaiso IN 46383",
+    "addr:housenumber":"608",
+    "addr:postcode":"46383",
+    "addr:street":"Long Lake Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.053489,41.518606,-87.053489,41.518606",
     "geom:latitude":41.518606,
     "geom:longitude":-87.053489,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YrfmyQKm6WQqPyDXw63S3_41.518606_-87.053489@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462586031,
     "wof:geomhash":"d3aa7aea2d878eb48880050692d70ccd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773476341
+        }
+    ],
     "wof:id":773476341,
-    "wof:lastmodified":1466512406,
+    "wof:lastmodified":1492101503,
     "wof:name":"Will WEBB Associates",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

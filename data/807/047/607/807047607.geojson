@@ -2,9 +2,14 @@
   "id": 807047607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1844 Lincoln Ave Whiting IN 46394",
+    "addr:housenumber":"1844",
+    "addr:postcode":"46394",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.502602,41.680302,-87.502602,41.680302",
     "geom:latitude":41.680302,
     "geom:longitude":-87.502602,
@@ -29,7 +34,14 @@
     "sg:postcode":"46394",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y5zrKo8uP8ZoIv2pg1UdT_41.680302_-87.502602@1303262771"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462603270,
     "wof:geomhash":"56334c6f53ecd43643b38906d1c91f3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":807047607
+        }
+    ],
     "wof:id":807047607,
-    "wof:lastmodified":1466504110,
+    "wof:lastmodified":1492093842,
     "wof:name":"St John the Baptist Religious Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

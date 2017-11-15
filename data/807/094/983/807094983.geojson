@@ -2,9 +2,14 @@
   "id": 807094983,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E Main St Brook IN 47922",
+    "addr:housenumber":"420",
+    "addr:postcode":"47922",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.358662,40.865504,-87.358662,40.865504",
     "geom:latitude":40.865504,
     "geom:longitude":-87.358662,
@@ -33,7 +38,14 @@
     ],
     "sg:website":"http://www.jchh.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404502121,
+        85633793,
+        85942391,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iTK8MjWwD642qJTEqJkkP_40.865504_-87.358662@1303262773"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462603663,
     "wof:geomhash":"55716de0b61a5516b313147ecc8e2e98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404502121,
+            "locality_id":85942391,
+            "region_id":85688709,
+            "venue_id":807094983
+        }
+    ],
     "wof:id":807094983,
-    "wof:lastmodified":1466505037,
+    "wof:lastmodified":1492092082,
     "wof:name":"Brook Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

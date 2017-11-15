@@ -2,9 +2,14 @@
   "id": 789696911,
   "type": "Feature",
   "properties": {
+    "addr:full":"5035 Chase St Gary IN 46408",
+    "addr:housenumber":"5035",
+    "addr:postcode":"46408",
+    "addr:street":"Chase St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.374826,41.526553,-87.374826,41.526553",
     "geom:latitude":41.526553,
     "geom:longitude":-87.374826,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sk8PEuTP6UdH91tU8UVq3_41.526553_-87.374826@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462589836,
     "wof:geomhash":"c0d5273b20c6ff3fc1a2640e2ced1db9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789696911
+        }
+    ],
     "wof:id":789696911,
-    "wof:lastmodified":1466505370,
+    "wof:lastmodified":1492103215,
     "wof:name":"J M Lugar Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

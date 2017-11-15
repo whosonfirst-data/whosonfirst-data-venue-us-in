@@ -2,9 +2,14 @@
   "id": 789579607,
   "type": "Feature",
   "properties": {
+    "addr:full":"5525 N 600 W Michigan City IN 46360",
+    "addr:housenumber":"5525",
+    "addr:postcode":"46360",
+    "addr:street":"N 600 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.81629,41.688142,-86.81629,41.688142",
     "geom:latitude":41.688142,
     "geom:longitude":-86.81629,
@@ -24,7 +29,10 @@
     "sg:postcode":"46360",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_352i9eZdHhn6Sxgg89qqex_41.688142_-86.816290@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462588900,
     "wof:geomhash":"9f1c39e58fd1303fe497380e1b1bfe54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":789579607
+        }
+    ],
     "wof:id":789579607,
-    "wof:lastmodified":1466503173,
+    "wof:lastmodified":1492093838,
     "wof:name":"TKN Enterprises Inc",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

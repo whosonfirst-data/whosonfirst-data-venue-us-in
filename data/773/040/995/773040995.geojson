@@ -2,14 +2,20 @@
   "id": 773040995,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 W Wayne St Fort Wayne IN 46802",
+    "addr:housenumber":"219",
+    "addr:postcode":"46802",
+    "addr:street":"W Wayne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.14219,41.077748,-85.14219,41.077748",
     "geom:latitude":41.077748,
     "geom:longitude":-85.14219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 W Wayne St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2omP44gvLZUaE7QBufs5y4_41.077748_-85.142190@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462582671,
-    "wof:geomhash":"f75243963e23e2f710f754ddcd434683",
+    "wof:geomhash":"7199df737191362acf381e25099dd726",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773040995,
-    "wof:lastmodified":1466504199,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",

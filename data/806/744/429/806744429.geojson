@@ -2,9 +2,14 @@
   "id": 806744429,
   "type": "Feature",
   "properties": {
+    "addr:full":"2339 N 350 W Rensselaer IN 47978",
+    "addr:housenumber":"2339",
+    "addr:postcode":"47978",
+    "addr:street":"N 350 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.113304,41.028523,-87.113304,41.028523",
     "geom:latitude":41.028523,
     "geom:longitude":-87.113304,
@@ -25,7 +30,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500831,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B77OydPYg8uFr85AxflY4_41.028523_-87.113304@1294102998"
@@ -33,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1462600718,
     "wof:geomhash":"5629273caa5907498d09a06b9b62e666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404500831,
+            "region_id":85688709,
+            "venue_id":806744429
+        }
+    ],
     "wof:id":806744429,
-    "wof:lastmodified":1466512683,
+    "wof:lastmodified":1492092310,
     "wof:name":"Leroy Torbet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

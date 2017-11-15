@@ -2,6 +2,10 @@
   "id": 806765281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3121 W Co Rd 500 N Danville IN 46122",
+    "addr:housenumber":"3121;500",
+    "addr:postcode":"46122",
+    "addr:street":"W Co Rd;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":806765281,
-    "wof:lastmodified":1466513734,
+    "wof:lastmodified":1472622880,
     "wof:name":"Larry Pritchett",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806765443,
   "type": "Feature",
   "properties": {
+    "addr:full":"448 W 300 S Valparaiso IN 46385",
+    "addr:housenumber":"448",
+    "addr:postcode":"46385",
+    "addr:street":"W 300 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.152633,41.39114,-87.152633,41.39114",
     "geom:latitude":41.39114,
     "geom:longitude":-87.152633,
@@ -23,7 +28,10 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AjeFHtXjDZNODWHJmL905_41.391140_-87.152633@1294102998"
@@ -31,11 +39,17 @@
     "wof:country":"US",
     "wof:created":1462600888,
     "wof:geomhash":"b7b8ae91197e2910deabb3a49e7a0a69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806765443
+        }
+    ],
     "wof:id":806765443,
-    "wof:lastmodified":1466513483,
+    "wof:lastmodified":1492107694,
     "wof:name":"Philip Stoner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 789980943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Lincoln Ave Alexandria IN 46001",
+    "addr:housenumber":"1010",
+    "addr:postcode":"46001",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.671534,40.272308,-85.671534,40.272308",
     "geom:latitude":40.272308,
     "geom:longitude":-85.671534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 Lincoln Ave",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086407,
         85821587
     ],
+    "wof:brand_id":1125153857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FLOOApwDwH4hlhkyFArWW_40.272308_-85.671534@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592174,
-    "wof:geomhash":"6718625bf0cb88b33d319f43e865b9c6",
+    "wof:geomhash":"81985e44341430ac15fc3b82aa4e2367",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789980943,
-    "wof:lastmodified":1466509854,
+    "wof:lastmodified":1510697164,
     "wof:name":"Cornerstone Community Church",
     "wof:parent_id":85821587,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773104505,
   "type": "Feature",
   "properties": {
+    "addr:full":"54662 Ash Rd Osceola IN 46561",
+    "addr:housenumber":"54662",
+    "addr:postcode":"46561",
+    "addr:street":"Ash Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.061822,41.697097,-86.061822,41.697097",
     "geom:latitude":41.697097,
     "geom:longitude":-86.061822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"54662 Ash Rd",
     "sg:city":"Osceola",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125152339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_509qg5cHMwOAvPuID6upIX_41.697097_-86.061822@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583185,
-    "wof:geomhash":"de9278dfda8a364ebcf3ff3f224ff673",
+    "wof:geomhash":"69296ae809ab5dd01e02f091e0cdc91a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773104505,
-    "wof:lastmodified":1466505223,
+    "wof:lastmodified":1510693925,
     "wof:name":"Faith Community Church",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

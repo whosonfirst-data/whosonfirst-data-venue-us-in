@@ -2,9 +2,14 @@
   "id": 790608135,
   "type": "Feature",
   "properties": {
+    "addr:full":"8081 Randolph St Hobart IN 46342",
+    "addr:housenumber":"8081",
+    "addr:postcode":"46342",
+    "addr:street":"Randolph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.239122,41.476135,-87.239122,41.476135",
     "geom:latitude":41.476135,
     "geom:longitude":-87.239122,
@@ -27,7 +32,14 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501871,
+        85633793,
+        85941829,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79K6C5aJL7vUFtRO85Mkf0_41.476135_-87.239122@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462597287,
     "wof:geomhash":"c5c9ea18ee91a65271e6369d6770cca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501871,
+            "locality_id":85941829,
+            "region_id":85688709,
+            "venue_id":790608135
+        }
+    ],
     "wof:id":790608135,
-    "wof:lastmodified":1466515917,
+    "wof:lastmodified":1492091672,
     "wof:name":"New Directions Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

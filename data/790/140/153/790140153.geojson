@@ -2,14 +2,20 @@
   "id": 790140153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1624 S Helfrich Ave Evansville IN 47712",
+    "addr:housenumber":"1624",
+    "addr:postcode":"47712",
+    "addr:street":"S Helfrich Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.627058,37.959109,-87.627058,37.959109",
     "geom:latitude":37.959109,
     "geom:longitude":-87.627058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1624 S Helfrich Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125156999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IWCGkOX8B1Jn67rwU3Jlw_37.959109_-87.627058@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593431,
-    "wof:geomhash":"3387bbc188cd8ef9de9a98e3409a650d",
+    "wof:geomhash":"6050402a0f278c29a36341a0d2424c62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790140153,
-    "wof:lastmodified":1466505233,
+    "wof:lastmodified":1510697506,
     "wof:name":"Landmark Baptist Church",
     "wof:parent_id":85877287,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806639089,
   "type": "Feature",
   "properties": {
+    "addr:full":"9918 N 375 W Michigan City IN 46360",
+    "addr:housenumber":"9918",
+    "addr:postcode":"46360",
+    "addr:street":"N 375 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772488,41.746954,-86.772488,41.746954",
     "geom:latitude":41.746954,
     "geom:longitude":-86.772488,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501795,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oo4oAYjnnAeEDdKDJNuMu_41.746954_-86.772488@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462599807,
     "wof:geomhash":"cd83e93b37cb55267c204c9c3acbffe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501795,
+            "region_id":85688709,
+            "venue_id":806639089
+        }
+    ],
     "wof:id":806639089,
-    "wof:lastmodified":1466507839,
+    "wof:lastmodified":1492095865,
     "wof:name":"Austin Masonry & Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

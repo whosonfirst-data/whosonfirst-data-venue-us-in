@@ -2,9 +2,14 @@
   "id": 387094259,
   "type": "Feature",
   "properties": {
+    "addr:full":"858 N 200 W Valparaiso IN 46385",
+    "addr:housenumber":"858",
+    "addr:postcode":"46385",
+    "addr:street":"N 200 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104997,41.559052,-87.104997,41.559052",
     "geom:latitude":41.559052,
     "geom:longitude":-87.104997,
@@ -43,7 +48,6 @@
     "wof:geomhash":"8bcf74ccdc01aa092a7578c60cb6cf34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
             "locality_id":85942375,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387094259,
-    "wof:lastmodified":1466503021,
+    "wof:lastmodified":1492091426,
     "wof:name":"Variety Landscaping & Home",
     "wof:parent_id":85856849,
     "wof:placetype":"venue",

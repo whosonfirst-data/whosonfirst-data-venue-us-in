@@ -2,14 +2,20 @@
   "id": 790004495,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 Lafayette Rd Indianapolis IN 46254",
+    "addr:housenumber":"4340",
+    "addr:postcode":"46254",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.247279,39.836548,-86.247279,39.836548",
     "geom:latitude":39.836548,
     "geom:longitude":-86.247279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4340 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125154249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SNxt39jZiSJYorYjgWwfQ_39.836548_-86.247279@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592360,
-    "wof:geomhash":"7a03e73c04644fdde5d89fd4fcfecdc9",
+    "wof:geomhash":"e2d23fc6140e786c1abf9fa5ad686939",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790004495,
-    "wof:lastmodified":1466503327,
+    "wof:lastmodified":1510695158,
     "wof:name":"S&K Famous Brand Menswear",
     "wof:parent_id":85870661,
     "wof:placetype":"venue",

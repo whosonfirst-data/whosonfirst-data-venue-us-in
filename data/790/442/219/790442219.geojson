@@ -2,9 +2,14 @@
   "id": 790442219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3811 Washington St Gary IN 46408",
+    "addr:housenumber":"3811",
+    "addr:postcode":"46408",
+    "addr:street":"Washington St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337574,41.547856,-87.337574,41.547856",
     "geom:latitude":41.547856,
     "geom:longitude":-87.337574,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aHUVzk2eokiHCpptcWxDV_41.547856_-87.337574@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462595862,
     "wof:geomhash":"d1380bf66a29cb06f20a9d4a1e4a0792",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790442219
+        }
+    ],
     "wof:id":790442219,
-    "wof:lastmodified":1466509680,
+    "wof:lastmodified":1492097610,
     "wof:name":"House Of Praise",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

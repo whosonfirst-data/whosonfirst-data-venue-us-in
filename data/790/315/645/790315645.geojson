@@ -2,14 +2,20 @@
   "id": 790315645,
   "type": "Feature",
   "properties": {
+    "addr:full":"17681 Cumberland Rd Noblesville IN 46060",
+    "addr:housenumber":"17681",
+    "addr:postcode":"46060",
+    "addr:street":"Cumberland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.995784,40.044152,-85.995784,40.044152",
     "geom:latitude":40.044152,
     "geom:longitude":-85.995784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17681 Cumberland Rd",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125157489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_322jS2FZ82TmyRbHZ9SP1a_40.044152_-85.995784@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594886,
-    "wof:geomhash":"7350b2ea8bd83213fd9f65818b03a741",
+    "wof:geomhash":"25aa304478e90abdaabf1b13cf7784e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790315645,
-    "wof:lastmodified":1466507038,
+    "wof:lastmodified":1510699716,
     "wof:name":"Roly Poly",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773075879,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 State Rd 67 Mooresville IN 46158",
+    "addr:housenumber":"555;67",
+    "addr:postcode":"46158",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773075879,
-    "wof:lastmodified":1466504902,
+    "wof:lastmodified":1472622677,
     "wof:name":"Tobacco Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

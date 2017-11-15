@@ -2,14 +2,20 @@
   "id": 789792811,
   "type": "Feature",
   "properties": {
+    "addr:full":"68940 Wild Rose Rd New Paris IN 46553",
+    "addr:housenumber":"68940",
+    "addr:postcode":"46553",
+    "addr:street":"Wild Rose Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.828752,41.489328,-85.828752,41.489328",
     "geom:latitude":41.489328,
     "geom:longitude":-85.828752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68940 Wild Rose Rd",
     "sg:city":"New Paris",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086257,
         85688709
     ],
+    "wof:brand_id":1125158957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bvv3qTR13okpZhLIP73R9_41.489328_-85.828752@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590585,
-    "wof:geomhash":"f5aa54a10addfc66dfa633691a02b5e5",
+    "wof:geomhash":"db768b525e7946fd73ee990f126eb7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789792811,
-    "wof:lastmodified":1466506407,
+    "wof:lastmodified":1510613229,
     "wof:name":"Choice Homes",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

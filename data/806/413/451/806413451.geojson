@@ -2,14 +2,20 @@
   "id": 806413451,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 S Tillotson Ave Muncie IN 47304",
+    "addr:housenumber":"911",
+    "addr:postcode":"47304",
+    "addr:street":"S Tillotson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.419201,40.185893,-85.419201,40.185893",
     "geom:latitude":40.185893,
     "geom:longitude":-85.419201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 S Tillotson Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pETCpJjtW7w1LAKza5LDq_40.185893_-85.419201@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597963,
-    "wof:geomhash":"ae1f588980fe791b7d914d9966799247",
+    "wof:geomhash":"829a505fa79d8986339f60c25e5cbb2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806413451,
-    "wof:lastmodified":1466504959,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",

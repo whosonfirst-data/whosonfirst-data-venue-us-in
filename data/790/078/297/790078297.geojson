@@ -2,14 +2,20 @@
   "id": 790078297,
   "type": "Feature",
   "properties": {
+    "addr:full":"4571 University Dr Evansville IN 47712",
+    "addr:housenumber":"4571",
+    "addr:postcode":"47712",
+    "addr:street":"University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.629005,37.978608,-87.629005,37.978608",
     "geom:latitude":37.978608,
     "geom:longitude":-87.629005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4571 University Dr",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087105,
         85843997
     ],
+    "wof:brand_id":420575253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rPoCyvx3U14RcBgycrPXE_37.978608_-87.629005@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592961,
-    "wof:geomhash":"242c21a137e88c3d371536e2c12a8d4c",
+    "wof:geomhash":"07ad009aaeb2e9471274d7a61a7f4581",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790078297,
-    "wof:lastmodified":1466504555,
+    "wof:lastmodified":1510602514,
     "wof:name":"Friedman's",
     "wof:parent_id":85843997,
     "wof:placetype":"venue",

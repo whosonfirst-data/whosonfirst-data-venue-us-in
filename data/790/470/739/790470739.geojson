@@ -2,9 +2,14 @@
   "id": 790470739,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 N 3rd St Kentland IN 47951",
+    "addr:housenumber":"202",
+    "addr:postcode":"47951",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.445198,40.770111,-87.445198,40.770111",
     "geom:latitude":40.770111,
     "geom:longitude":-87.445198,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501341,
+        85633793,
+        85942411,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lGiuY03irpIqBBg0BqeDB_40.770111_-87.445198@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596103,
     "wof:geomhash":"6370873f82ca2dc6588d9cfe7075ce2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501341,
+            "locality_id":85942411,
+            "region_id":85688709,
+            "venue_id":790470739
+        }
+    ],
     "wof:id":790470739,
-    "wof:lastmodified":1466511453,
+    "wof:lastmodified":1492102314,
     "wof:name":"Bower & Falk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

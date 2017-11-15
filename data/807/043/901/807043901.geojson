@@ -2,9 +2,14 @@
   "id": 807043901,
   "type": "Feature",
   "properties": {
+    "addr:full":"9418 W 181st Ave Lowell IN 46356",
+    "addr:housenumber":"9418",
+    "addr:postcode":"46356",
+    "addr:street":"W 181St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.44741,41.290009,-87.44741,41.290009",
     "geom:latitude":41.290009,
     "geom:longitude":-87.44741,
@@ -40,7 +45,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pBRjL3nfsWSji1Jnpmcpq_41.290009_-87.447410@1303262771"
@@ -48,9 +59,18 @@
     "wof:country":"US",
     "wof:created":1462603242,
     "wof:geomhash":"79e786c0a9f78470e8f5bac10e39ebdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807043901
+        }
+    ],
     "wof:id":807043901,
-    "wof:lastmodified":1466503971,
+    "wof:lastmodified":1492103078,
     "wof:name":"Crystal Clear Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

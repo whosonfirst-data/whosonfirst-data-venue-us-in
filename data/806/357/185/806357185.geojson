@@ -2,9 +2,14 @@
   "id": 806357185,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 E 250 N Knox IN 46534",
+    "addr:housenumber":"35",
+    "addr:postcode":"46534",
+    "addr:street":"E 250 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698032,41.338834,-86.698032,41.338834",
     "geom:latitude":41.338834,
     "geom:longitude":-86.698032,
@@ -24,7 +29,13 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500333,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BgB8BKpJNjiJ0R4tGNPZm_41.338834_-86.698032@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462597487,
     "wof:geomhash":"8538d73d85a03460ffc734b94a508c2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404500333,
+            "region_id":85688709,
+            "venue_id":806357185
+        }
+    ],
     "wof:id":806357185,
-    "wof:lastmodified":1466503388,
+    "wof:lastmodified":1492101017,
     "wof:name":"Starke County Board-Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

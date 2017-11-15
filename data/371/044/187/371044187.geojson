@@ -2,6 +2,10 @@
   "id": 371044187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6543 State Rd 42 Eminence IN 46120",
+    "addr:housenumber":"6543;42",
+    "addr:postcode":"46120",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":371044187,
-    "wof:lastmodified":1466502923,
+    "wof:lastmodified":1472622293,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

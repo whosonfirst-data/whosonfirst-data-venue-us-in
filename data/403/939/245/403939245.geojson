@@ -2,14 +2,20 @@
   "id": 403939245,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 State Rd 68 Haubstadt IN 47639",
+    "addr:housenumber":"304;68",
+    "addr:postcode":"haubstadt;47639",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.576053,38.201335,-87.576053,38.201335",
     "geom:latitude":38.201335,
     "geom:longitude":-87.576053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 State Rd 68",
     "sg:city":"Haubstadt",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086375,
         85804327
     ],
+    "wof:brand_id":1125152789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KffPFbMTkoAanJaYXFRVO_38.201335_-87.576053@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dfd97ef89367730f6a001e3ff35d9db",
+    "wof:geomhash":"328a0c3926512277885b2193b457a7da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403939245,
-    "wof:lastmodified":1466503215,
+    "wof:lastmodified":1510697427,
     "wof:name":"LCA",
     "wof:parent_id":85804327,
     "wof:placetype":"venue",

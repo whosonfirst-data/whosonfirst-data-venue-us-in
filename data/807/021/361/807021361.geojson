@@ -2,9 +2,14 @@
   "id": 807021361,
   "type": "Feature",
   "properties": {
+    "addr:full":"10609 Calumet Ave Dyer IN 46311",
+    "addr:housenumber":"10609",
+    "addr:postcode":"46311",
+    "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508091,41.424299,-87.508091,41.424299",
     "geom:latitude":41.424299,
     "geom:longitude":-87.508091,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.colvinmasonry.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QAYTRudVJX8fR3oXoZ41N_41.424299_-87.508091@1303262769"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462603049,
     "wof:geomhash":"196b7da2482ea8a8bfae95814dab3745",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":807021361
+        }
+    ],
     "wof:id":807021361,
-    "wof:lastmodified":1466504086,
+    "wof:lastmodified":1492090545,
     "wof:name":"Colvin Masonry Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

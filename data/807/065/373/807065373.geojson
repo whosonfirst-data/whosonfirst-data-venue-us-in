@@ -2,14 +2,20 @@
   "id": 807065373,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 S College Mall Rd Bloomington IN 47401",
+    "addr:housenumber":"418",
+    "addr:postcode":"47401",
+    "addr:street":"S College Mall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.498199,39.162998,-86.498199,39.162998",
     "geom:latitude":39.162998,
     "geom:longitude":-86.498199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"418 S College Mall Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85826197,
         102086351
     ],
+    "wof:brand_id":1125151311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VmEEaUorzj2WyXAkQCxlX_39.162998_-86.498199@1303262772"
     },
     "wof:country":"US",
     "wof:created":1462603410,
-    "wof:geomhash":"b228f590a701f2b2196ea9310671e53a",
+    "wof:geomhash":"594bbb9139f41d6035a154af0f8d6a16",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807065373,
-    "wof:lastmodified":1466504540,
+    "wof:lastmodified":1510696945,
     "wof:name":"Keybank",
     "wof:parent_id":85826197,
     "wof:placetype":"venue",

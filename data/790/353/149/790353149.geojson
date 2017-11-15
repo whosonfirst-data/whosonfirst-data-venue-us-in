@@ -2,14 +2,20 @@
   "id": 790353149,
   "type": "Feature",
   "properties": {
+    "addr:full":"10454 Maysville Rd Fort Wayne IN 46835",
+    "addr:housenumber":"",
+    "addr:postcode":"10454;46835",
+    "addr:street":"Maysville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.010884,41.130172,-85.010884,41.130172",
     "geom:latitude":41.130172,
     "geom:longitude":-85.010884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10454 Maysville Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rZ2r1QjEaFbwnLkMSeNhz_41.130172_-85.010884@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595161,
-    "wof:geomhash":"45650fed85e17dffb2af20459a168b0f",
+    "wof:geomhash":"09ad34d563a345117059a36866585eb1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790353149,
-    "wof:lastmodified":1466507444,
+    "wof:lastmodified":1510698757,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

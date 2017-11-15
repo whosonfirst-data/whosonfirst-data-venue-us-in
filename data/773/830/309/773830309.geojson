@@ -2,14 +2,20 @@
   "id": 773830309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2817 E 53rd St Anderson IN 46013",
+    "addr:housenumber":"2817",
+    "addr:postcode":"46013",
+    "addr:street":"E 53Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.640886,40.061909,-85.640886,40.061909",
     "geom:latitude":40.061909,
     "geom:longitude":-85.640886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2817 E 53rd St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086407,
         85824039
     ],
+    "wof:brand_id":1125155605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vAxnIDLYDdtefDcvtv4NZ_40.061909_-85.640886@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588723,
-    "wof:geomhash":"9e084304a8dd8f19e20f877c8f410da4",
+    "wof:geomhash":"ba75fe176a5a9c085886473c52786501",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773830309,
-    "wof:lastmodified":1466519230,
+    "wof:lastmodified":1510613383,
     "wof:name":"Faith Assembly Of God",
     "wof:parent_id":85824039,
     "wof:placetype":"venue",

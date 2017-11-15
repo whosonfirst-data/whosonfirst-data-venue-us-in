@@ -2,9 +2,14 @@
   "id": 403956789,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 Evanston Ave Indianapolis IN 46205",
+    "addr:housenumber":"4605",
+    "addr:postcode":"46205",
+    "addr:street":"Evanston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.126486,39.841518,-86.126486,39.841518",
     "geom:latitude":39.841518,
     "geom:longitude":-86.126486,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85870655,
+        102191575,
+        404502029,
         85633793,
         85942569,
         102087201,
-        85870655
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"44ccd1e9077f8d78e3b8056c8bc53f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
             "neighbourhood_id":85870655,
             "region_id":85688709,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":403956789,
-    "wof:lastmodified":1466503238,
+    "wof:lastmodified":1491906593,
     "wof:name":"Judith's Barber Shop",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773585097,
   "type": "Feature",
   "properties": {
+    "addr:full":"3990 Garfield St Gary IN 46408",
+    "addr:housenumber":"3990",
+    "addr:postcode":"46408",
+    "addr:street":"Garfield St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35824,41.546342,-87.35824,41.546342",
     "geom:latitude":41.546342,
     "geom:longitude":-87.35824,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KHecqlpkjIp6HY7WBKUEi_41.546342_-87.358240@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462586837,
     "wof:geomhash":"de60473113849df77f84aed8cc83d944",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773585097
+        }
+    ],
     "wof:id":773585097,
-    "wof:lastmodified":1466515680,
+    "wof:lastmodified":1492097606,
     "wof:name":"Elegant Wedding Creations",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

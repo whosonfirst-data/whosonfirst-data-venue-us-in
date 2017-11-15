@@ -2,14 +2,20 @@
   "id": 806840945,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 S Raceway Rd Indianapolis IN 46231",
+    "addr:housenumber":"55",
+    "addr:postcode":"46231",
+    "addr:street":"S Raceway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.326786,39.763123,-86.326786,39.763123",
     "geom:latitude":39.763123,
     "geom:longitude":-86.326786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 S Raceway Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dg628tmoKjCH0pCUcHCUD_39.763316_-86.326711@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462601516,
-    "wof:geomhash":"d1012fbf6c110aa6edc0a9afce338f4e",
+    "wof:geomhash":"cff4e92734644dc88733d537ca06dcde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806840945,
-    "wof:lastmodified":1466516416,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85852591,
     "wof:placetype":"venue",

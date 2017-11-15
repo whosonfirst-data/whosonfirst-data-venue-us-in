@@ -2,14 +2,20 @@
   "id": 806823985,
   "type": "Feature",
   "properties": {
+    "addr:full":"6512 E State Blvd Fort Wayne IN 46815",
+    "addr:housenumber":"6512",
+    "addr:postcode":"46815",
+    "addr:street":"E State Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.057551,41.102286,-85.057551,41.102286",
     "geom:latitude":41.102286,
     "geom:longitude":-85.057551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6512 E State Blvd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85877561
     ],
+    "wof:brand_id":1125155823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sp44jmgi79pybgl6raXYi_41.102286_-85.057551@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601374,
-    "wof:geomhash":"20f2dc5cacc41c66418ddc7533d9bf13",
+    "wof:geomhash":"cbc034c5a168cfd8e9967bece2a1dcfe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806823985,
-    "wof:lastmodified":1466515319,
+    "wof:lastmodified":1510699022,
     "wof:name":"Peking Restaurant",
     "wof:parent_id":85877561,
     "wof:placetype":"venue",

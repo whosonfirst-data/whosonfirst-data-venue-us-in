@@ -2,14 +2,20 @@
   "id": 773829463,
   "type": "Feature",
   "properties": {
+    "addr:full":"6925 W 38th St Indianapolis IN 46254",
+    "addr:housenumber":"6925",
+    "addr:postcode":"46254",
+    "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.282721,39.823252,-86.282721,39.823252",
     "geom:latitude":39.823252,
     "geom:longitude":-86.282721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6925 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JsQKyNSyfDLaogQjpLtxG_39.823252_-86.282721@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462588716,
-    "wof:geomhash":"56b78be6339180b26f8d2ce47c9c608b",
+    "wof:geomhash":"de2aaef94976520028adb91c8ec74a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773829463,
-    "wof:lastmodified":1466519223,
+    "wof:lastmodified":1510694069,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773111311,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Grant St West Lafayette IN 47906",
+    "addr:housenumber":"101",
+    "addr:postcode":"47906",
+    "addr:street":"N Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.910408,40.4243,-86.910408,40.4243",
     "geom:latitude":40.4243,
     "geom:longitude":-86.910408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 N Grant St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":1125153413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tVS2HqZGIfrvai7gzAget_40.424300_-86.910408@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583230,
-    "wof:geomhash":"eee0403fbe020254292e867cd6914c52",
+    "wof:geomhash":"c21cfc9ffea30ead25210a45f647460e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773111311,
-    "wof:lastmodified":1466505285,
+    "wof:lastmodified":1510695028,
     "wof:name":"STA Travel",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

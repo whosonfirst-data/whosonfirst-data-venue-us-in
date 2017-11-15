@@ -2,9 +2,14 @@
   "id": 806628809,
   "type": "Feature",
   "properties": {
+    "addr:full":"8043 Tapper Ave Munster IN 46321",
+    "addr:housenumber":"8043",
+    "addr:postcode":"46321",
+    "addr:street":"Tapper Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.504833,41.568458,-87.504833,41.568458",
     "geom:latitude":41.568458,
     "geom:longitude":-87.504833,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941831,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_538lJ6ngRRTZD6anW2PNGR_41.568458_-87.504833@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462599725,
     "wof:geomhash":"ab93b18961f158fc3de9b5e3bfef18f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941831,
+            "region_id":85688709,
+            "venue_id":806628809
+        }
+    ],
     "wof:id":806628809,
-    "wof:lastmodified":1466507707,
+    "wof:lastmodified":1492092142,
     "wof:name":"Summer Garden Apts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

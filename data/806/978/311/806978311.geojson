@@ -2,14 +2,20 @@
   "id": 806978311,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 E 82nd St Indianapolis IN 46250",
+    "addr:housenumber":"5120",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.084999,39.904999,-86.084999,39.904999",
     "geom:latitude":39.904999,
     "geom:longitude":-86.084999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5120 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P5OjMmQZ0lHri76lnxW12_39.904999_-86.084999@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602676,
-    "wof:geomhash":"ad80eeacb44db5e59b1163a4115afbef",
+    "wof:geomhash":"c672188714891da92040915c46eebb3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806978311,
-    "wof:lastmodified":1466518698,
+    "wof:lastmodified":1510696944,
     "wof:name":"Keybank",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",

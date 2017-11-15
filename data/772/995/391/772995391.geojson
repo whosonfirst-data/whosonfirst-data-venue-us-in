@@ -2,14 +2,20 @@
   "id": 772995391,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Brown St West Lafayette IN 47906",
+    "addr:housenumber":"200",
+    "addr:postcode":"47906",
+    "addr:street":"Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.903864,40.422098,-86.903864,40.422098",
     "geom:latitude":40.422098,
     "geom:longitude":-86.903864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Brown St",
     "sg:city":"West Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087121,
         85823837
     ],
+    "wof:brand_id":420575219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WqMpPRCgtSr345kU102IO_40.422098_-86.903864@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462581911,
-    "wof:geomhash":"bd65e5c615f727f5c90948048d04b84a",
+    "wof:geomhash":"4ebc155365840514c45958edeedfdc7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":772995391,
-    "wof:lastmodified":1466502978,
+    "wof:lastmodified":1510602596,
     "wof:name":"Travelodge",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",

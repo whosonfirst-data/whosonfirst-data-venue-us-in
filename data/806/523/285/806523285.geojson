@@ -2,9 +2,14 @@
   "id": 806523285,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Broadway Gary IN 46409",
+    "addr:housenumber":"4301",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3363,41.538564,-87.3363,41.538564",
     "geom:latitude":41.538564,
     "geom:longitude":-87.3363,
@@ -24,7 +29,10 @@
     "sg:postcode":"46409",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GU6WsNg37BDj8fw2NdNvM_41.538564_-87.336300@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462598811,
     "wof:geomhash":"fbdefb61fd041f208aecde9203be96ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806523285
+        }
+    ],
     "wof:id":806523285,
-    "wof:lastmodified":1466506498,
+    "wof:lastmodified":1492097512,
     "wof:name":"Broadway Bbq",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

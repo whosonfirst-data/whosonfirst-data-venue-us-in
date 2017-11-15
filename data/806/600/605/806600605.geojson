@@ -2,9 +2,14 @@
   "id": 806600605,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 State Hwy 212 Michigan City IN 46360",
+    "addr:housenumber":"311",
+    "addr:postcode":"46360",
+    "addr:street":"State Hwy 212",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826107,41.73304,-86.826107,41.73304",
     "geom:latitude":41.73304,
     "geom:longitude":-86.826107,
@@ -28,7 +33,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47X9HERV4trjqB97tByiPW_41.733040_-86.826107@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462599496,
     "wof:geomhash":"163c78719923a8829be0bcd3995209f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":806600605
+        }
+    ],
     "wof:id":806600605,
-    "wof:lastmodified":1466507486,
+    "wof:lastmodified":1492092097,
     "wof:name":"Peters & Marske Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

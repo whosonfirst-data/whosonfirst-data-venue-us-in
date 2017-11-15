@@ -2,14 +2,20 @@
   "id": 806714967,
   "type": "Feature",
   "properties": {
+    "addr:full":"8487 Union Chapel Rd Indianapolis IN 46240",
+    "addr:housenumber":"8487",
+    "addr:postcode":"46240",
+    "addr:street":"Union Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.10798,39.909583,-86.10798,39.909583",
     "geom:latitude":39.909583,
     "geom:longitude":-86.10798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8487 Union Chapel Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZZm5kh0qPFDIdRIBHuBaj_39.909583_-86.107980@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600457,
-    "wof:geomhash":"c30a4668478f79d20c87f460874955aa",
+    "wof:geomhash":"1919557cd788d92889eb07e88a685723",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806714967,
-    "wof:lastmodified":1466511865,
+    "wof:lastmodified":1510697629,
     "wof:name":"Joseph A Bank Clothiers",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",

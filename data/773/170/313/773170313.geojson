@@ -2,14 +2,20 @@
   "id": 773170313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1843 Scatterfield Rd Anderson IN 46012",
+    "addr:housenumber":"1843",
+    "addr:postcode":"46012",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.658689,40.133324,-85.658689,40.133324",
     "geom:latitude":40.133324,
     "geom:longitude":-85.658689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1843 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086407,
         85837179
     ],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LQjpccb9LIL7Gn7TW3dCU_40.133324_-85.658689@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583670,
-    "wof:geomhash":"e80f54824c86ed2ea27bf29d72ba7261",
+    "wof:geomhash":"e9901d969b5c27987a8a56beb05ece8c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773170313,
-    "wof:lastmodified":1466505884,
+    "wof:lastmodified":1510603089,
     "wof:name":"Great Clips",
     "wof:parent_id":85837179,
     "wof:placetype":"venue",

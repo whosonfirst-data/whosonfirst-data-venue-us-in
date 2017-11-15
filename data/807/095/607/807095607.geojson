@@ -2,9 +2,14 @@
   "id": 807095607,
   "type": "Feature",
   "properties": {
+    "addr:full":"653 S Newton St Goodland IN 47948",
+    "addr:housenumber":"653",
+    "addr:postcode":"47948",
+    "addr:street":"S Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293527,40.754934,-87.293527,40.754934",
     "geom:latitude":40.754934,
     "geom:longitude":-87.293527,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46cjAYh6P3ALxDGNLVAGLz_40.754934_-87.293527@1303262773"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462603671,
     "wof:geomhash":"2da2df2457a4f74629bc2ae5e30a9e0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":807095607
+        }
+    ],
     "wof:id":807095607,
-    "wof:lastmodified":1466505172,
+    "wof:lastmodified":1492103014,
     "wof:name":"Sheets Electrical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

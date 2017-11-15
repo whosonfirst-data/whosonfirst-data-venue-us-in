@@ -2,9 +2,14 @@
   "id": 790394649,
   "type": "Feature",
   "properties": {
+    "addr:full":"4688 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4688",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.36055,41.534936,-87.36055,41.534936",
     "geom:latitude":41.534936,
     "geom:longitude":-87.36055,
@@ -28,7 +33,10 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VkyzD9s86EJtPndv68TyR_41.534936_-87.360550@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595499,
     "wof:geomhash":"4eee835626ff06f69c6c967b09d7c353",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790394649
+        }
+    ],
     "wof:id":790394649,
-    "wof:lastmodified":1466507919,
+    "wof:lastmodified":1492103218,
     "wof:name":"Joes Tire Shop",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

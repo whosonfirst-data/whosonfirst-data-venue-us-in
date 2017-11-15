@@ -2,9 +2,14 @@
   "id": 790584429,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Main St Morocco IN 47963",
+    "addr:housenumber":"101",
+    "addr:postcode":"47963",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.454741,40.946139,-87.454741,40.946139",
     "geom:latitude":40.946139,
     "geom:longitude":-87.454741,
@@ -25,7 +30,14 @@
     "sg:province":"IN",
     "sg:website":"www.netdsb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sC7mpv6vazOFNz97Cb5yg_40.946139_-87.454741@1294102998"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462597080,
     "wof:geomhash":"b9a0cf1bc8338e631fd1664172e57ec2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":790584429
+        }
+    ],
     "wof:id":790584429,
-    "wof:lastmodified":1466514716,
+    "wof:lastmodified":1492091558,
     "wof:name":"Demotte State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

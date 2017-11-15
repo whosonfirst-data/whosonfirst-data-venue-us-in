@@ -2,14 +2,20 @@
   "id": 789982121,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Broad Ripple Ave Indianapolis IN 46220",
+    "addr:housenumber":"2350",
+    "addr:postcode":"46220",
+    "addr:street":"Broad Ripple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.123674,39.868756,-86.123674,39.868756",
     "geom:latitude":39.868756,
     "geom:longitude":-86.123674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 Broad Ripple Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NhcUZF63XQVkCK0BeSsIo_39.868756_-86.123674@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592187,
-    "wof:geomhash":"c76fb0967595fadabe677165158146b7",
+    "wof:geomhash":"246e28f0d8de8ba398938851c83c0949",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789982121,
-    "wof:lastmodified":1466509807,
+    "wof:lastmodified":1510693802,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806766535,
   "type": "Feature",
   "properties": {
+    "addr:full":"6079 W 600 N Winamac IN 46996",
+    "addr:housenumber":"6079",
+    "addr:postcode":"46996",
+    "addr:street":"W 600 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.717636,41.1428,-86.717636,41.1428",
     "geom:latitude":41.1428,
     "geom:longitude":-86.717636,
@@ -26,7 +31,13 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501669,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Drw4pTRlW38UwuySgzALl_41.142800_-86.717636@1294102998"
@@ -34,9 +45,18 @@
     "wof:country":"US",
     "wof:created":1462600898,
     "wof:geomhash":"0185fcad78b3e7ccfaa8d4ef54c809fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501669,
+            "region_id":85688709,
+            "venue_id":806766535
+        }
+    ],
     "wof:id":806766535,
-    "wof:lastmodified":1466513497,
+    "wof:lastmodified":1492105578,
     "wof:name":"Ray Katschke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

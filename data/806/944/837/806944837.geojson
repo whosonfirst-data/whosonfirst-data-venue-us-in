@@ -2,14 +2,20 @@
   "id": 806944837,
   "type": "Feature",
   "properties": {
+    "addr:full":"5230 Madison Ave Indianapolis IN 46227",
+    "addr:housenumber":"5230",
+    "addr:postcode":"46227",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.136286,39.691536,-86.136286,39.691536",
     "geom:latitude":39.691536,
     "geom:longitude":-86.136286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5230 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BEll6GjcL45KITbPwYWnS_39.691536_-86.136286@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602398,
-    "wof:geomhash":"02d02c254d72a7973e3ea2a3aaf2348b",
+    "wof:geomhash":"8e2198084f7b36c838e9a7cf3d3042c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":806944837,
-    "wof:lastmodified":1466518160,
+    "wof:lastmodified":1510694863,
     "wof:name":"Maid Brigade",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807020459,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 E North St Crown Point IN 46307",
+    "addr:housenumber":"800",
+    "addr:postcode":"46307",
+    "addr:street":"E North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355598,41.4203,-87.355598,41.4203",
     "geom:latitude":41.4203,
     "geom:longitude":-87.355598,
@@ -27,7 +32,15 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FrJ64TSJ3RyvIz0kH96b5_41.420300_-87.355598@1303262769"
@@ -35,9 +48,20 @@
     "wof:country":"US",
     "wof:created":1462603042,
     "wof:geomhash":"eec77e80fa17a66f244de51196b6ad68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807020459
+        }
+    ],
     "wof:id":807020459,
-    "wof:lastmodified":1466504085,
+    "wof:lastmodified":1492093282,
     "wof:name":"A Images Inc",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

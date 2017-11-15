@@ -2,9 +2,14 @@
   "id": 773572335,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 W 47th Ave Gary IN 46408",
+    "addr:housenumber":"901",
+    "addr:postcode":"46408",
+    "addr:street":"W 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348368,41.533191,-87.348368,41.533191",
     "geom:latitude":41.533191,
     "geom:longitude":-87.348368,
@@ -27,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jGQIQAxm9ayX4JA78HWgd_41.533191_-87.348368@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462586741,
     "wof:geomhash":"48bcdb5692e2efb587a4686922456622",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773572335
+        }
+    ],
     "wof:id":773572335,
-    "wof:lastmodified":1466515548,
+    "wof:lastmodified":1492103005,
     "wof:name":"Advancing Christ's Kingdom",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

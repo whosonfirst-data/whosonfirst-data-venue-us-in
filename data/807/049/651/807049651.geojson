@@ -2,9 +2,14 @@
   "id": 807049651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2057 W 50th Ave Gary IN 46408",
+    "addr:housenumber":"2057",
+    "addr:postcode":"46408",
+    "addr:street":"W 50Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.362668,41.528159,-87.362668,41.528159",
     "geom:latitude":41.528159,
     "geom:longitude":-87.362668,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KEFy6NowxPThYqFPgKlCs_41.528159_-87.362668@1303262771"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462603285,
     "wof:geomhash":"0e9ad6743d5ca9a34e37d26d94625924",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049651
+        }
+    ],
     "wof:id":807049651,
-    "wof:lastmodified":1466504192,
+    "wof:lastmodified":1492094847,
     "wof:name":"Christy Florist (Merrillville Tel No)",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

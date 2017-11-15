@@ -2,14 +2,20 @@
   "id": 806441127,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Murray St Fort Wayne IN 46803",
+    "addr:housenumber":"125",
+    "addr:postcode":"46803",
+    "addr:street":"Murray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.137051,41.070358,-85.137051,41.070358",
     "geom:latitude":41.070358,
     "geom:longitude":-85.137051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Murray St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LYhMRCgmPs86gyaIUwEl2_41.070358_-85.137051@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598176,
-    "wof:geomhash":"9d82b3c855d9cde938414f17f6ae9d63",
+    "wof:geomhash":"08749ffe744a6af2d7fb97e7a6c31975",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806441127,
-    "wof:lastmodified":1466505296,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":420519417,
     "wof:placetype":"venue",

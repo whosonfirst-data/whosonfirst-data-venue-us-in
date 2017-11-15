@@ -2,9 +2,14 @@
   "id": 789754031,
   "type": "Feature",
   "properties": {
+    "addr:full":"20443 Mississippi St Hebron IN 46341",
+    "addr:housenumber":"20443",
+    "addr:postcode":"46341",
+    "addr:street":"Mississippi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.314251,41.246316,-87.314251,41.246316",
     "geom:latitude":41.246316,
     "geom:longitude":-87.314251,
@@ -24,7 +29,13 @@
     "sg:postcode":"46341",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501863,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ovtOncRqfK7jhaDt1qS17_41.246316_-87.314251@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462590284,
     "wof:geomhash":"3e6aad73bc1fb5f9e1d6180d8f6f27e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501863,
+            "region_id":85688709,
+            "venue_id":789754031
+        }
+    ],
     "wof:id":789754031,
-    "wof:lastmodified":1466505853,
+    "wof:lastmodified":1492095769,
     "wof:name":"Philip J Termini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

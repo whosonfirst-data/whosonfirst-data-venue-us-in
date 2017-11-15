@@ -2,9 +2,14 @@
   "id": 773812707,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 N 175 W Valparaiso IN 46385",
+    "addr:housenumber":"650",
+    "addr:postcode":"46385",
+    "addr:street":"N 175 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.099901,41.528894,-87.099901,41.528894",
     "geom:latitude":41.528894,
     "geom:longitude":-87.099901,
@@ -27,7 +32,10 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p0bjWRrPqOqhutXJwtllA_41.528894_-87.099901@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462588575,
     "wof:geomhash":"e056f5045acdb2d9358bb3089014c2fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773812707
+        }
+    ],
     "wof:id":773812707,
-    "wof:lastmodified":1466519092,
+    "wof:lastmodified":1492103082,
     "wof:name":"Camp Butternut Springs Girl",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

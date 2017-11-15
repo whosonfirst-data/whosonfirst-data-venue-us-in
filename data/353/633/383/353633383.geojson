@@ -2,14 +2,20 @@
   "id": 353633383,
   "type": "Feature",
   "properties": {
+    "addr:full":"7821 N Timber Run Ct Indianapolis IN 46256",
+    "addr:housenumber":"7821",
+    "addr:postcode":"46256",
+    "addr:street":"N Timber Run Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.001271,39.897255,-86.001271,39.897255",
     "geom:latitude":39.897255,
     "geom:longitude":-86.001271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7821 N Timber Run Ct",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087201,
         85818857
     ],
+    "wof:brand_id":1125159545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AGHGLeTUPTlKxaMYLXaYn_39.897255_-86.001271@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"93c8aafd1804650f4652b84c18abaa22",
+    "wof:geomhash":"ece28831e18947a78528cf26cba81c59",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":353633383,
-    "wof:lastmodified":1466503114,
+    "wof:lastmodified":1510699958,
     "wof:name":"Equity Corporate Housing",
     "wof:parent_id":85818857,
     "wof:placetype":"venue",

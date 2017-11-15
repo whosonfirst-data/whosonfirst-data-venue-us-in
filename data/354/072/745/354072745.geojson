@@ -2,9 +2,14 @@
   "id": 354072745,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 W 81st Ave Merrillville IN 46410",
+    "addr:housenumber":"209",
+    "addr:postcode":"46410",
+    "addr:street":"W 81St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.338975,41.471012,-87.338975,41.471012",
     "geom:latitude":41.471012,
     "geom:longitude":-87.338975,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519691,
+        102191575,
+        404501871,
         85633793,
         85941829,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"5b3c61e36fc8a7214d29bb7b38af5f03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501871,
             "locality_id":85941829,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519691,
             "region_id":85688709,
             "venue_id":354072745
         }
     ],
     "wof:id":354072745,
-    "wof:lastmodified":1466502963,
+    "wof:lastmodified":1492098349,
     "wof:name":"Collectables In K-Mart Plaza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

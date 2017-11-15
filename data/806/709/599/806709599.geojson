@@ -2,6 +2,10 @@
   "id": 806709599,
   "type": "Feature",
   "properties": {
+    "addr:full":"6391 State Rd 42 Terre Haute IN 47803",
+    "addr:housenumber":"6391;42",
+    "addr:postcode":"47803",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":806709599,
-    "wof:lastmodified":1466510945,
+    "wof:lastmodified":1472622819,
     "wof:name":"Palmer Leasing Group",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

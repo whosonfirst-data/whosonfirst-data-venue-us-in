@@ -2,14 +2,20 @@
   "id": 790000553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1155 Marsh St Valparaiso IN 46385",
+    "addr:housenumber":"1155",
+    "addr:postcode":"46385",
+    "addr:street":"Marsh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.075237,41.458903,-87.075237,41.458903",
     "geom:latitude":41.458903,
     "geom:longitude":-87.075237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1155 Marsh St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85812895,
         102087191
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ST6g6DMWEnKQlFWedbVcv_41.458903_-87.075237@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592333,
-    "wof:geomhash":"c2927924c1128042eef52083348e7880",
+    "wof:geomhash":"2aa242ae700c8c6b4b26dfd262e11f03",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790000553,
-    "wof:lastmodified":1466503196,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",

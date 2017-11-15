@@ -2,9 +2,14 @@
   "id": 319872237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1272 Horse Prairie Ave Valparaiso IN 46385",
+    "addr:housenumber":"1272",
+    "addr:postcode":"46385",
+    "addr:street":"Horse Prairie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.066604,41.456599,-87.066604,41.456599",
     "geom:latitude":41.456599,
     "geom:longitude":-87.066604,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688709,
         85633793,
-        102087191,
-        85812895
+        85812895,
+        102087191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"7ae46d53764da0b6758763f704c25395",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
-            "locality_id":-1,
             "neighbourhood_id":85812895,
             "region_id":85688709,
             "venue_id":319872237
         }
     ],
     "wof:id":319872237,
-    "wof:lastmodified":1466503581,
+    "wof:lastmodified":1492101408,
     "wof:name":"South Lake Hydro",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",

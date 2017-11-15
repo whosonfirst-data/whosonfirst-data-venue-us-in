@@ -2,9 +2,14 @@
   "id": 807049839,
   "type": "Feature",
   "properties": {
+    "addr:full":"4424 Washington St Gary IN 46408",
+    "addr:housenumber":"4424",
+    "addr:postcode":"46408",
+    "addr:street":"Washington St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.337475,41.538127,-87.337475,41.538127",
     "geom:latitude":41.538127,
     "geom:longitude":-87.337475,
@@ -35,7 +40,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29ieh3ARyIWHjRJhvyuCqf_41.538127_-87.337475@1303262771"
@@ -43,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1462603287,
     "wof:geomhash":"a76ae41072db21190e2fa35b78ac4fe5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049839
+        }
+    ],
     "wof:id":807049839,
-    "wof:lastmodified":1466504200,
+    "wof:lastmodified":1492093642,
     "wof:name":"Hillarys Arts & Crafts",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

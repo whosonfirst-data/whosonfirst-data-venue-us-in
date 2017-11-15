@@ -2,14 +2,20 @@
   "id": 807043555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1936 E Commercial Ave Lowell IN 46356",
+    "addr:housenumber":"1936",
+    "addr:postcode":"46356",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.3936,41.2897,-87.3936,41.2897",
     "geom:latitude":41.2897,
     "geom:longitude":-87.3936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1936 E Commercial Ave",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -25,17 +31,35 @@
     "sg:province":"IN",
     "sg:website":"www.fiestasalons.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r842dZdOxamxkBUzkxqtD_41.289700_-87.393600@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603240,
-    "wof:geomhash":"c0b69f157a8d90afcfd305fc24b87646",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd862a500fcc8f031e6a2d00a99985d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807043555
+        }
+    ],
     "wof:id":807043555,
-    "wof:lastmodified":1466503956,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

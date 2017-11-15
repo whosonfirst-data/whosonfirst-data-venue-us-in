@@ -2,14 +2,20 @@
   "id": 790178641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4530 Speedway Dr Fort Wayne IN 46825",
+    "addr:housenumber":"4530",
+    "addr:postcode":"46825",
+    "addr:street":"Speedway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.142422,41.118069,-85.142422,41.118069",
     "geom:latitude":41.118069,
     "geom:longitude":-85.142422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4530 Speedway Dr",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66nKBCNYaYDYdCM3AEgqgL_41.118069_-85.142422@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593761,
-    "wof:geomhash":"68db67c9def0c5d2d74cf960fd168f64",
+    "wof:geomhash":"8ad5dc9744abf99ffaddde5a42d0bd0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790178641,
-    "wof:lastmodified":1466505676,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

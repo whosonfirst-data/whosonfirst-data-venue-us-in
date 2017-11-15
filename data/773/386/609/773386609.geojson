@@ -2,9 +2,14 @@
   "id": 773386609,
   "type": "Feature",
   "properties": {
+    "addr:full":"3071 E 1000 N Rolling Prairie IN 46350",
+    "addr:housenumber":"3071",
+    "addr:postcode":"46350",
+    "addr:street":"E 1000 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633926,41.752942,-86.633926,41.752942",
     "geom:latitude":41.752942,
     "geom:longitude":-86.633926,
@@ -27,7 +32,13 @@
         "nurseryman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500435,
+        85633793,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20m0uuSwNuiukxHRucOeJU_41.752942_-86.633926@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462585300,
     "wof:geomhash":"dc8b1f8859b5fb19a0c02f774a757b23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404500435,
+            "region_id":85688709,
+            "venue_id":773386609
+        }
+    ],
     "wof:id":773386609,
-    "wof:lastmodified":1466509075,
+    "wof:lastmodified":1492095345,
     "wof:name":"Chadwood Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

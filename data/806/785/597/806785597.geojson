@@ -2,9 +2,14 @@
   "id": 806785597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 119th St Whiting IN 46394",
+    "addr:housenumber":"1202",
+    "addr:postcode":"46394",
+    "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.499199,41.679199,-87.499199,41.679199",
     "geom:latitude":41.679199,
     "geom:longitude":-87.499199,
@@ -24,7 +29,14 @@
     "sg:postcode":"46394",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941845,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BTH7eNdhokK1zsBOUYcoJ_41.678912_-87.499584@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462601065,
     "wof:geomhash":"ca244fa7bc124f720c97fafd5ec31d0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941845,
+            "region_id":85688709,
+            "venue_id":806785597
+        }
+    ],
     "wof:id":806785597,
-    "wof:lastmodified":1466514265,
+    "wof:lastmodified":1492091237,
     "wof:name":"Amaizo Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

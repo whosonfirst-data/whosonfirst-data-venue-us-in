@@ -2,14 +2,20 @@
   "id": 789981409,
   "type": "Feature",
   "properties": {
+    "addr:full":"569 Circle Dr Fairmount IN 46928",
+    "addr:housenumber":"569",
+    "addr:postcode":"46928",
+    "addr:street":"Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.655199,40.41398,-85.655199,40.41398",
     "geom:latitude":40.41398,
     "geom:longitude":-85.655199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"569 Circle Dr",
     "sg:city":"Fairmount",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087025,
         85826075
     ],
+    "wof:brand_id":1125155963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WkuYS3tNyrtOaVERnTbVE_40.413980_-85.655199@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592176,
-    "wof:geomhash":"f21162e906105ecf2cd16909f6f837ba",
+    "wof:geomhash":"b38df569aaa2c6bf004a4f98f5c92048",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789981409,
-    "wof:lastmodified":1466510250,
+    "wof:lastmodified":1510698653,
     "wof:name":"Nortel Networks",
     "wof:parent_id":85826075,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 303257113,
   "type": "Feature",
   "properties": {
+    "addr:full":"4034 Park 65 Dr Indianapolis IN 46254",
+    "addr:housenumber":"4034;65",
+    "addr:postcode":"46254",
+    "addr:street":"Park;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303257113,
-    "wof:lastmodified":1466503530,
+    "wof:lastmodified":1472622318,
     "wof:name":"Team Menard Inc Machine Shop",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",

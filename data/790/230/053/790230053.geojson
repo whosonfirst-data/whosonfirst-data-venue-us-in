@@ -2,14 +2,20 @@
   "id": 790230053,
   "type": "Feature",
   "properties": {
+    "addr:full":"9302 Indian Creek Rd S Indianapolis IN 46259",
+    "addr:housenumber":"9302",
+    "addr:postcode":"46259",
+    "addr:street":"Indian Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.012588,39.674301,-86.012588,39.674301",
     "geom:latitude":39.674301,
     "geom:longitude":-86.012588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9302 Indian Creek Rd S",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688709,
         85854439
     ],
+    "wof:brand_id":1125151387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ezKlhLPi1N12lkODK1zmx_39.674301_-86.012588@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594170,
-    "wof:geomhash":"e045f4960bc9c3fb3a29611c043587ee",
+    "wof:geomhash":"b925e5d8c96cbdb0087f3ddeff83cdba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":790230053,
-    "wof:lastmodified":1466506105,
+    "wof:lastmodified":1510695305,
     "wof:name":"Rocky Mountain Chocolate Fctry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

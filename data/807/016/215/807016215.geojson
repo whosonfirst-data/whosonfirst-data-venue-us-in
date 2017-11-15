@@ -2,9 +2,14 @@
   "id": 807016215,
   "type": "Feature",
   "properties": {
+    "addr:full":"14101 Lauerman St Cedar Lake IN 46303",
+    "addr:housenumber":"14101",
+    "addr:postcode":"46303",
+    "addr:street":"Lauerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.440367,41.362656,-87.440367,41.362656",
     "geom:latitude":41.362656,
     "geom:longitude":-87.440367,
@@ -24,7 +29,14 @@
     "sg:postcode":"46303",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HnOLcx2lvMJEMW8wORV2D_41.362656_-87.440367@1303262769"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462602996,
     "wof:geomhash":"3becb965091750c879aeba46bd9c1d5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":807016215
+        }
+    ],
     "wof:id":807016215,
-    "wof:lastmodified":1466504049,
+    "wof:lastmodified":1492093275,
     "wof:name":"J & N Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

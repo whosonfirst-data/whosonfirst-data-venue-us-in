@@ -2,9 +2,14 @@
   "id": 806601929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1850 US Hwy 421 Francesville IN 47946",
+    "addr:housenumber":"1850",
+    "addr:postcode":"47946",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891783,41.038495,-86.891783,41.038495",
     "geom:latitude":41.038495,
     "geom:longitude":-86.891783,
@@ -24,7 +29,13 @@
     "sg:postcode":"47946",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501675,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0umfYezsZyoMEWoY3JNpc2_41.038495_-86.891783@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599506,
     "wof:geomhash":"ad009e276a68f19683858773759989f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":806601929
+        }
+    ],
     "wof:id":806601929,
-    "wof:lastmodified":1466507332,
+    "wof:lastmodified":1492090936,
     "wof:name":"West Central Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

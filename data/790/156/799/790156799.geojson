@@ -2,9 +2,14 @@
   "id": 790156799,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 N Cullen St Rensselaer IN 47978",
+    "addr:housenumber":"806",
+    "addr:postcode":"47978",
+    "addr:street":"N Cullen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.154282,40.943177,-87.154282,40.943177",
     "geom:latitude":40.943177,
     "geom:longitude":-87.154282,
@@ -24,7 +29,14 @@
     "sg:postcode":"47978",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501003,
+        85633793,
+        85941697,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I9fL08aChfykzoxIrvulw_40.943177_-87.154282@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462593569,
     "wof:geomhash":"b2de275d1c20e45c384b1942fddf6adf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501003,
+            "locality_id":85941697,
+            "region_id":85688709,
+            "venue_id":790156799
+        }
+    ],
     "wof:id":790156799,
-    "wof:lastmodified":1466505305,
+    "wof:lastmodified":1492102168,
     "wof:name":"Carolyns Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

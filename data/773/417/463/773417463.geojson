@@ -2,9 +2,14 @@
   "id": 773417463,
   "type": "Feature",
   "properties": {
+    "addr:full":"9670 Co Rd 950 Demotte IN 46310",
+    "addr:housenumber":"9670",
+    "addr:postcode":"950;46310",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.230454,41.157408,-87.230454,41.157408",
     "geom:latitude":41.157408,
     "geom:longitude":-87.230454,
@@ -24,7 +29,13 @@
     "sg:postcode":"46310",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v75u6Pe8jCTrN7pgad3iJ_41.157408_-87.230454@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462585554,
     "wof:geomhash":"28af6e48edd8ef85f2695338888cf296",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":773417463
+        }
+    ],
     "wof:id":773417463,
-    "wof:lastmodified":1466511031,
+    "wof:lastmodified":1492101261,
     "wof:name":"A J Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

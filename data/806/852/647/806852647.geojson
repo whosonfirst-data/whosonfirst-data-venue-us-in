@@ -2,14 +2,20 @@
   "id": 806852647,
   "type": "Feature",
   "properties": {
+    "addr:full":"561 Melark Dr Carmel IN 46032",
+    "addr:housenumber":"561",
+    "addr:postcode":"46032",
+    "addr:street":"Melark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.114233,39.972873,-86.114233,39.972873",
     "geom:latitude":39.972873,
     "geom:longitude":-86.114233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"561 Melark Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125158917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O5wQGkI4zprhC7wsqeMLb_39.972873_-86.114233@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601630,
-    "wof:geomhash":"6563ac7fc4fba2118743c287207975d9",
+    "wof:geomhash":"b584561ab98f70ff96ace34d1af29dea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806852647,
-    "wof:lastmodified":1466516263,
+    "wof:lastmodified":1510693914,
     "wof:name":"Always AAA Locksmith",
     "wof:parent_id":420519517,
     "wof:placetype":"venue",

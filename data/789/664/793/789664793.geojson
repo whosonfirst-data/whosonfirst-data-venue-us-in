@@ -2,9 +2,14 @@
   "id": 789664793,
   "type": "Feature",
   "properties": {
+    "addr:full":"4172 Broadway Gary IN 46408",
+    "addr:housenumber":"4172",
+    "addr:postcode":"46408",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336468,41.543526,-87.336468,41.543526",
     "geom:latitude":41.543526,
     "geom:longitude":-87.336468,
@@ -28,7 +33,10 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sAW7uUfTsfjenqoOt1jFU_41.543526_-87.336468@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462589591,
     "wof:geomhash":"6ace30a6fb44e31650b3d6dcf006b9d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789664793
+        }
+    ],
     "wof:id":789664793,
-    "wof:lastmodified":1466504895,
+    "wof:lastmodified":1492103215,
     "wof:name":"Pres-Del Electric Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

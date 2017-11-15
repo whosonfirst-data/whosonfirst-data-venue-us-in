@@ -2,9 +2,14 @@
   "id": 789872295,
   "type": "Feature",
   "properties": {
+    "addr:full":"358 W US Hwy 30 Valparaiso IN 46385",
+    "addr:housenumber":"358",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.120548,41.465606,-87.120548,41.465606",
     "geom:latitude":41.465606,
     "geom:longitude":-87.120548,
@@ -28,7 +33,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78OaJPvpquEs1M5K39ZpaY_41.465606_-87.120548@1294102998"
@@ -36,9 +49,20 @@
     "wof:country":"US",
     "wof:created":1462591205,
     "wof:geomhash":"a0c1bab529ba519a717ea4136d320d87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":789872295
+        }
+    ],
     "wof:id":789872295,
-    "wof:lastmodified":1466507272,
+    "wof:lastmodified":1492095860,
     "wof:name":"Wholesale Auto Brokers Auto",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

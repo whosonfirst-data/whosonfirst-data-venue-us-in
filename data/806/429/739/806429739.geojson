@@ -2,9 +2,14 @@
   "id": 806429739,
   "type": "Feature",
   "properties": {
+    "addr:full":"5932 E State Rd 10 Roselawn IN 46310",
+    "addr:housenumber":"5932;10",
+    "addr:postcode":"roselawn;46310",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.277185,41.144476,-87.277185,41.144476",
     "geom:latitude":41.144476,
     "geom:longitude":-87.277185,
@@ -24,7 +29,14 @@
     "sg:postcode":"46310",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35rn0Ke1u3fYYixl55orTK_41.144476_-87.277185@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462598086,
     "wof:geomhash":"3e0beccc773fb5804659ea0a1c160ca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":806429739
+        }
+    ],
     "wof:id":806429739,
-    "wof:lastmodified":1466505040,
+    "wof:lastmodified":1492091672,
     "wof:name":"China Wok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 354026341,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 E Market St Indianapolis IN 46204",
+    "addr:housenumber":"120",
+    "addr:postcode":"46204",
+    "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.154415,39.768437,-86.154415,39.768437",
     "geom:latitude":39.768437,
     "geom:longitude":-86.154415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 E Market St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087201,
         85870631
     ],
+    "wof:brand_id":1125151935,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24NZKhj5ZqYlrBBusuERua_39.768437_-86.154415@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"a56b39b253442464e5e7ba4738ee4f65",
+    "wof:geomhash":"cdb5b76ab1a9b893b9b5ded86060dc30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":354026341,
-    "wof:lastmodified":1466502913,
+    "wof:lastmodified":1510695315,
     "wof:name":"Carteret Mortgage",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",

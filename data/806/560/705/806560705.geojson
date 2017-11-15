@@ -2,14 +2,20 @@
   "id": 806560705,
   "type": "Feature",
   "properties": {
+    "addr:full":"8790 Purdue Rd Indianapolis IN 46268",
+    "addr:housenumber":"8790",
+    "addr:postcode":"46268",
+    "addr:street":"Purdue Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.220074,39.915256,-86.220074,39.915256",
     "geom:latitude":39.915256,
     "geom:longitude":-86.220074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8790 Purdue Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5no77TjyFa7xSfd9ZTxRD7_39.915256_-86.220074@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599134,
-    "wof:geomhash":"2fda7898d5d294c27ccdfb73256be601",
+    "wof:geomhash":"9f95557943b72ca9917a7685ae9d7ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806560705,
-    "wof:lastmodified":1466506775,
+    "wof:lastmodified":1510696956,
     "wof:name":"World Financial Group",
     "wof:parent_id":85857069,
     "wof:placetype":"venue",

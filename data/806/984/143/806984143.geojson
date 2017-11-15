@@ -2,14 +2,20 @@
   "id": 806984143,
   "type": "Feature",
   "properties": {
+    "addr:full":"6020 E 82nd St Ste 700 Indianapolis IN 46250",
+    "addr:housenumber":"6020",
+    "addr:postcode":"46250",
+    "addr:street":"E 82Nd St Ste 700",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.064723,39.905342,-86.064723,39.905342",
     "geom:latitude":39.905342,
     "geom:longitude":-86.064723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6020 E 82nd St Ste 700",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -86,13 +92,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t9TN10I7vT4gMAm7Z5Px9_39.905342_-86.064723@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602730,
-    "wof:geomhash":"49bb5a1606cbdd86b0e9638846f2e795",
+    "wof:geomhash":"d16b50e56dd8f4e536c03bbecabf7a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":806984143,
-    "wof:lastmodified":1466518751,
+    "wof:lastmodified":1510697711,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",

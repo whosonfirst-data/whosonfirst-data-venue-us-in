@@ -2,14 +2,20 @@
   "id": 354269497,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 W Cleveland Rd Granger IN 46530",
+    "addr:housenumber":"308",
+    "addr:postcode":"46530",
+    "addr:street":"W Cleveland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.18543,41.723979,-86.18543,41.723979",
     "geom:latitude":41.723979,
     "geom:longitude":-86.18543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 W Cleveland Rd",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85942419,
         102086969
     ],
+    "wof:brand_id":1125154033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dZQASXWgP1IvyjVU3iYYs_41.723979_-86.185430@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fcefcd3977c8fe2cc16d60ebd3ea390",
+    "wof:geomhash":"b8c6917d46c2ff43f97d28866b73d3ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":354269497,
-    "wof:lastmodified":1466503242,
+    "wof:lastmodified":1510696082,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

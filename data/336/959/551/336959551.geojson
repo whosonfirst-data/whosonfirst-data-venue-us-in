@@ -2,9 +2,14 @@
   "id": 336959551,
   "type": "Feature",
   "properties": {
+    "addr:full":"851 Indian Boundary Rd Chesterton IN 46304",
+    "addr:housenumber":"851",
+    "addr:postcode":"46304",
+    "addr:street":"Indian Boundary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.03879,41.616942,-87.03879,41.616942",
     "geom:latitude":41.616942,
     "geom:longitude":-87.03879,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688709,
         85633793,
-        102087191,
-        85852597
+        85852597,
+        102087191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"9736db02d1461ad7ee45c93ec69de85b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087191,
-            "locality_id":-1,
             "neighbourhood_id":85852597,
             "region_id":85688709,
             "venue_id":336959551
         }
     ],
     "wof:id":336959551,
-    "wof:lastmodified":1466503350,
+    "wof:lastmodified":1492090858,
     "wof:name":"Brad Werner & Co",
     "wof:parent_id":85852597,
     "wof:placetype":"venue",

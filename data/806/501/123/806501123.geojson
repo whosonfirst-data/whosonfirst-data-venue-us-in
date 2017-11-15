@@ -2,9 +2,14 @@
   "id": 806501123,
   "type": "Feature",
   "properties": {
+    "addr:full":"5678 W 450 N Laporte IN 46350",
+    "addr:housenumber":"5678",
+    "addr:postcode":"46350",
+    "addr:street":"W 450 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808503,41.672337,-86.808503,41.672337",
     "geom:latitude":41.672337,
     "geom:longitude":-86.808503,
@@ -28,7 +33,10 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3afiGtt2URDppDMHAulP6I_41.672337_-86.808503@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598635,
     "wof:geomhash":"b24a78da22be716969daad3e155a6354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806501123
+        }
+    ],
     "wof:id":806501123,
-    "wof:lastmodified":1466505982,
+    "wof:lastmodified":1492103976,
     "wof:name":"Marvin Kominiarek Jr",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

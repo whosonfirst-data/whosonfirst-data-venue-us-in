@@ -2,9 +2,14 @@
   "id": 773785207,
   "type": "Feature",
   "properties": {
+    "addr:full":"12160 Industry Dr Demotte IN 46310",
+    "addr:housenumber":"12160",
+    "addr:postcode":"46310",
+    "addr:street":"Industry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.163751,41.188274,-87.163751,41.188274",
     "geom:latitude":41.188274,
     "geom:longitude":-87.163751,
@@ -28,7 +33,13 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EMR7DFRBBvxm8LCeOys3k_41.188274_-87.163751@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588355,
     "wof:geomhash":"e716079945b1a5cf3bf5de935dde8602",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":773785207
+        }
+    ],
     "wof:id":773785207,
-    "wof:lastmodified":1466518906,
+    "wof:lastmodified":1492093664,
     "wof:name":"Industrial Machine Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

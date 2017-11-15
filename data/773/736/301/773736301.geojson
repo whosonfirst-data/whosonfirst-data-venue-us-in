@@ -2,14 +2,20 @@
   "id": 773736301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 25th St Columbus IN 47201",
+    "addr:housenumber":"1800",
+    "addr:postcode":"47201",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.905431,39.223005,-85.905431,39.223005",
     "geom:latitude":39.223005,
     "geom:longitude":-85.905431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 25th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087181,
         85688709
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aYDoBx7emScuLIWKR5sNF_39.223005_-85.905431@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587996,
-    "wof:geomhash":"76eebbcce9867901ac665a93e9e532e5",
+    "wof:geomhash":"f9809cbca21b3e8f279746ff9e77dbdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773736301,
-    "wof:lastmodified":1466518156,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":85837517,
     "wof:placetype":"venue",

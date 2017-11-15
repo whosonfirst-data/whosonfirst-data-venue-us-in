@@ -2,14 +2,20 @@
   "id": 319821583,
   "type": "Feature",
   "properties": {
+    "addr:full":"6475 Ruby St Indianapolis IN 46236",
+    "addr:housenumber":"6475",
+    "addr:postcode":"46236",
+    "addr:street":"Ruby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.955814,39.875518,-85.955814,39.875518",
     "geom:latitude":39.875518,
     "geom:longitude":-85.955814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6475 Ruby St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85942567,
         102087201
     ],
+    "wof:brand_id":1125154963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kakcl0HHWzgmkK5kNxOGJ_39.875518_-85.955814@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c008f6a9cc66fd68ca139e378080265",
+    "wof:geomhash":"30b4e3a6178bd2de60c5256ae02d63fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":319821583,
-    "wof:lastmodified":1466503523,
+    "wof:lastmodified":1510695243,
     "wof:name":"American Leak Detection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

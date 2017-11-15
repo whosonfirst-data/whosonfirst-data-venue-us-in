@@ -2,14 +2,20 @@
   "id": 773701779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3733 E Margaret Dr Terre Haute IN 47803",
+    "addr:housenumber":"3733",
+    "addr:postcode":"47803",
+    "addr:street":"E Margaret Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.351392,39.43368,-87.351392,39.43368",
     "geom:latitude":39.43368,
     "geom:longitude":-87.351392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3733 E Margaret Dr",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087183,
         85814303
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B71vACkbNAkJcAfSDARRy_39.433680_-87.351392@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587738,
-    "wof:geomhash":"0538efd653720a5d5441a0ed5fbb2015",
+    "wof:geomhash":"1156489b7e60625bc409580ff705ae8d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773701779,
-    "wof:lastmodified":1466517626,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85814303,
     "wof:placetype":"venue",

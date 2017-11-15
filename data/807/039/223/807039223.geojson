@@ -2,9 +2,14 @@
   "id": 807039223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Wolf Lake Hammond IN 46324",
+    "addr:housenumber":"",
+    "addr:postcode":"46324",
+    "addr:street":"Wolf Lake",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.538958,41.663845,-87.538958,41.663845",
     "geom:latitude":41.663845,
     "geom:longitude":-87.538958,
@@ -40,11 +45,12 @@
     "sg:website":"festival.gohammond.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824547,
+        1024497075,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -57,20 +63,21 @@
     "wof:geomhash":"361d9227bf108b4b6c136a0b4740cad8",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85824547,
+            "neighbourhood_id":1024497075,
             "region_id":85688697,
             "venue_id":807039223
         }
     ],
     "wof:id":807039223,
-    "wof:lastmodified":1466504215,
+    "wof:lastmodified":1491372710,
     "wof:name":"Festival of the Lakes",
-    "wof:parent_id":85824547,
+    "wof:parent_id":1024497075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

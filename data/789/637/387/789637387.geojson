@@ -2,9 +2,14 @@
   "id": 789637387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 N 625 E Michigan City IN 46360",
+    "addr:housenumber":"1631",
+    "addr:postcode":"46360",
+    "addr:street":"N 625 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.946631,41.668827,-86.946631,41.668827",
     "geom:latitude":41.668827,
     "geom:longitude":-86.946631,
@@ -27,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vi9r2vc2SGmj68BimaPgB_41.668827_-86.946631@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589355,
     "wof:geomhash":"5b41cd771edfe06daf0a6204c858c987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519859,
+            "venue_id":789637387
+        }
+    ],
     "wof:id":789637387,
-    "wof:lastmodified":1466504580,
+    "wof:lastmodified":1492102149,
     "wof:name":"Jon's Tree Svc",
     "wof:parent_id":420519859,
     "wof:placetype":"venue",

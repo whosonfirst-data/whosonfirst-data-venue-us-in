@@ -2,6 +2,10 @@
   "id": 789922365,
   "type": "Feature",
   "properties": {
+    "addr:full":"24702 Co Rd 45 Elkhart IN 46516",
+    "addr:housenumber":"24702;45",
+    "addr:postcode":"46516",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789922365,
-    "wof:lastmodified":1466507749,
+    "wof:lastmodified":1472622769,
     "wof:name":"Action Tool Die & Engineering",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",

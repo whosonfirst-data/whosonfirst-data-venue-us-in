@@ -2,9 +2,14 @@
   "id": 387245669,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 Franklin St Michigan City IN 46360",
+    "addr:housenumber":"4225",
+    "addr:postcode":"46360",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.89403,41.678712,-86.89403,41.678712",
     "geom:latitude":41.678712,
     "geom:longitude":-86.89403,
@@ -44,7 +49,6 @@
     "wof:geomhash":"82979a4cb97eed1964039f900fc736e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941911,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387245669,
-    "wof:lastmodified":1466503232,
+    "wof:lastmodified":1492091210,
     "wof:name":"Jackson Hewitt Tax Svc",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

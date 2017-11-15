@@ -2,9 +2,14 @@
   "id": 773440939,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Crabapple Ln Valparaiso IN 46383",
+    "addr:housenumber":"223",
+    "addr:postcode":"46383",
+    "addr:street":"Crabapple Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.025676,41.556194,-87.025676,41.556194",
     "geom:latitude":41.556194,
     "geom:longitude":-87.025676,
@@ -27,7 +32,13 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500379,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6leM6AkhCr7IVJNWi254Yq_41.556194_-87.025676@1294102998"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462585765,
     "wof:geomhash":"4c7ebcf0e8e8bb1a73ce08d03aa390a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404500379,
+            "region_id":85688709,
+            "venue_id":773440939
+        }
+    ],
     "wof:id":773440939,
-    "wof:lastmodified":1466511512,
+    "wof:lastmodified":1492097643,
     "wof:name":"Cardone Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

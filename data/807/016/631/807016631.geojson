@@ -2,9 +2,14 @@
   "id": 807016631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 N Main St Crown Point IN 46307",
+    "addr:housenumber":"1510",
+    "addr:postcode":"46307",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364601,41.437401,-87.364601,41.437401",
     "geom:latitude":41.437401,
     "geom:longitude":-87.364601,
@@ -34,7 +39,15 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519661,
+        102191575,
+        404500429,
+        85633793,
+        85941787,
+        102087149,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_195kC8o1AJMOWWuOIzMPMm_41.437401_-87.364601@1303262769"
@@ -42,9 +55,20 @@
     "wof:country":"US",
     "wof:created":1462603000,
     "wof:geomhash":"42ce58146f85f0f73c24bad4c1d84728",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500429,
+            "locality_id":85941787,
+            "neighbourhood_id":420519661,
+            "region_id":85688709,
+            "venue_id":807016631
+        }
+    ],
     "wof:id":807016631,
-    "wof:lastmodified":1466504066,
+    "wof:lastmodified":1492094837,
     "wof:name":"Bob Anderson Pontiac Inc",
     "wof:parent_id":420519661,
     "wof:placetype":"venue",

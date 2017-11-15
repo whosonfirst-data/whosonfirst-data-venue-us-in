@@ -2,14 +2,20 @@
   "id": 807045189,
   "type": "Feature",
   "properties": {
+    "addr:full":"6611 Shepherd Ave Portage IN 46368",
+    "addr:housenumber":"6611",
+    "addr:postcode":"46368",
+    "addr:street":"Shepherd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.163195,41.614574,-87.163195,41.614574",
     "geom:latitude":41.614574,
     "geom:longitude":-87.163195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6611 Shepherd Ave",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56rRm8PLaMmTZNxMuqjbSP_41.614574_-87.163195@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603252,
-    "wof:geomhash":"cec162520b52db67ed76fc8d2b4ce1fb",
+    "wof:geomhash":"b111a4fc5fa7382cdd2438b0f71efc9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807045189,
-    "wof:lastmodified":1466504392,
+    "wof:lastmodified":1510698971,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85858079,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807043351,
   "type": "Feature",
   "properties": {
+    "addr:full":"18304 Wicker Blvd Lowell IN 46356",
+    "addr:housenumber":"18304",
+    "addr:postcode":"46356",
+    "addr:street":"Wicker Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.468002,41.2897,-87.468002,41.2897",
     "geom:latitude":41.2897,
     "geom:longitude":-87.468002,
@@ -24,7 +29,13 @@
     "sg:postcode":"46356",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500431,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XVgbjTd4TEe9vtampZo0O_41.289700_-87.468002@1303262771"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462603238,
     "wof:geomhash":"d7e8614349994d923f9a398745316a6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404500431,
+            "region_id":85688709,
+            "venue_id":807043351
+        }
+    ],
     "wof:id":807043351,
-    "wof:lastmodified":1466503947,
+    "wof:lastmodified":1492090547,
     "wof:name":"USA Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

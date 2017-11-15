@@ -2,14 +2,20 @@
   "id": 806861783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1242 W 136th St Carmel IN 46032",
+    "addr:housenumber":"1242",
+    "addr:postcode":"46032",
+    "addr:street":"W 136Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.18059,39.984821,-86.18059,39.984821",
     "geom:latitude":39.984821,
     "geom:longitude":-86.18059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1242 W 136th St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EeHq4mXYbEegIRxJVv5mV_39.984821_-86.180590@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601704,
-    "wof:geomhash":"73ab90fce34cbdde148b4f454eee1936",
+    "wof:geomhash":"afc388605195eca5c1d644b9a14912ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806861783,
-    "wof:lastmodified":1466516429,
+    "wof:lastmodified":1510696078,
     "wof:name":"Central Christian Church",
     "wof:parent_id":420519529,
     "wof:placetype":"venue",

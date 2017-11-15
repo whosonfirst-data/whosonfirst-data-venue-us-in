@@ -2,14 +2,20 @@
   "id": 806499701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 S Calhoun St Fort Wayne IN 46807",
+    "addr:housenumber":"2608",
+    "addr:postcode":"46807",
+    "addr:street":"S Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.1379,41.060659,-85.1379,41.060659",
     "geom:latitude":41.060659,
     "geom:longitude":-85.1379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2608 S Calhoun St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wjemsXTvXQmsPIEmMSsAk_41.060659_-85.137900@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598620,
-    "wof:geomhash":"f3b172d3b4217e847919b1f9b0952cb9",
+    "wof:geomhash":"e2848493c8e30936c0b84656c2a2f7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806499701,
-    "wof:lastmodified":1466505949,
+    "wof:lastmodified":1510696663,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85877553,
     "wof:placetype":"venue",

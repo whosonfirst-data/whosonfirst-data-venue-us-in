@@ -2,9 +2,14 @@
   "id": 320086281,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Westlane Rd Indianapolis IN 46260",
+    "addr:housenumber":"2100",
+    "addr:postcode":"46260",
+    "addr:street":"Westlane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.196846,39.885877,-86.196846,39.885877",
     "geom:latitude":39.885877,
     "geom:longitude":-86.196846,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85825871,
+        102191575,
+        404502029,
         85633793,
         85942569,
-        102087201
+        102087201,
+        85688709,
+        85803951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"ecccee4688f5b226747e413953d3a5d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
+            "localadmin_id":404502029,
             "locality_id":85942569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825871,
+            "region_id":85688709,
+            "venue_id":320086281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85803951,
             "region_id":85688709,
             "venue_id":320086281
         }
     ],
     "wof:id":320086281,
-    "wof:lastmodified":1466503695,
+    "wof:lastmodified":1491900108,
     "wof:name":"Creekwood Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

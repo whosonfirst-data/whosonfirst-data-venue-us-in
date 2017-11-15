@@ -2,14 +2,20 @@
   "id": 773130199,
   "type": "Feature",
   "properties": {
+    "addr:full":"682 Dogwood Ln Warsaw IN 46582",
+    "addr:housenumber":"682",
+    "addr:postcode":"46582",
+    "addr:street":"Dogwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.81681,41.245442,-85.81681,41.245442",
     "geom:latitude":41.245442,
     "geom:longitude":-85.81681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"682 Dogwood Ln",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819801,
         102087157
     ],
+    "wof:brand_id":420574687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I1o8HTbv9Z6Xi5sbxgjub_41.245442_-85.816810@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583361,
-    "wof:geomhash":"58d7f772355ee425890335c18e83dd60",
+    "wof:geomhash":"626543604cbfc598a8679e30bda12d1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773130199,
-    "wof:lastmodified":1466505531,
+    "wof:lastmodified":1510604336,
     "wof:name":"Prudential Insurance Co",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

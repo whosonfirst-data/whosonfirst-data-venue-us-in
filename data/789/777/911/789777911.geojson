@@ -2,14 +2,20 @@
   "id": 789777911,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 S Ridgeview Dr Indianapolis IN 46219",
+    "addr:housenumber":"37",
+    "addr:postcode":"46219",
+    "addr:street":"S Ridgeview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.05752,39.769356,-86.05752,39.769356",
     "geom:latitude":39.769356,
     "geom:longitude":-86.05752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37 S Ridgeview Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_792XaIRzaSk548vkx5x1MU_39.769356_-86.057520@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590460,
-    "wof:geomhash":"0b3dd987d37c646ef10663173556ed7e",
+    "wof:geomhash":"37b22bfa933e198480722b9da5ef158f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789777911,
-    "wof:lastmodified":1466506156,
+    "wof:lastmodified":1510695071,
     "wof:name":"Larry's Barber Shop",
     "wof:parent_id":85870679,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790368015,
   "type": "Feature",
   "properties": {
+    "addr:full":"913 Boyd Blvd Laporte IN 46350",
+    "addr:housenumber":"913",
+    "addr:postcode":"46350",
+    "addr:street":"Boyd Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.687042,41.609936,-86.687042,41.609936",
     "geom:latitude":41.609936,
     "geom:longitude":-86.687042,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"0386e9506803c7f2c4a15714eb5ef2ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":790368015,
-    "wof:lastmodified":1466507483,
+    "wof:lastmodified":1492095003,
     "wof:name":"All Seasons Heating & Air Cond",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

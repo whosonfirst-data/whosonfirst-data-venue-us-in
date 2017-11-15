@@ -2,9 +2,14 @@
   "id": 789711069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 Dale Dr Merrillville IN 46410",
+    "addr:housenumber":"1625",
+    "addr:postcode":"46410",
+    "addr:street":"Dale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.359318,41.520086,-87.359318,41.520086",
     "geom:latitude":41.520086,
     "geom:longitude":-87.359318,
@@ -28,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P6kPziimc1Z7CExHPopgP_41.520086_-87.359318@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462589941,
     "wof:geomhash":"0fcd1c216eadc8b19d1eecc5b0425668",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789711069
+        }
+    ],
     "wof:id":789711069,
-    "wof:lastmodified":1466505497,
+    "wof:lastmodified":1492101417,
     "wof:name":"Greater Indiana Dev Corp",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

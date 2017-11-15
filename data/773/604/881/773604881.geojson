@@ -2,9 +2,14 @@
   "id": 773604881,
   "type": "Feature",
   "properties": {
+    "addr:full":"10064 N 600 E Roselawn IN 46310",
+    "addr:housenumber":"10064",
+    "addr:postcode":"46310",
+    "addr:street":"N 600 E Roselawn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.275799,41.144506,-87.275799,41.144506",
     "geom:latitude":41.144506,
     "geom:longitude":-87.275799,
@@ -24,7 +29,14 @@
     "sg:postcode":"46310",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7D3drgsxfzmCiG3qZnsL3F_41.144506_-87.275799@1294102998"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462586974,
     "wof:geomhash":"e7ecc6c6a9520f7aaa6216725e4aa97f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773604881
+        }
+    ],
     "wof:id":773604881,
-    "wof:lastmodified":1466516215,
+    "wof:lastmodified":1492091611,
     "wof:name":"Fagen Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

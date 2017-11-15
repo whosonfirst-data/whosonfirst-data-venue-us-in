@@ -2,9 +2,14 @@
   "id": 790544015,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 Scarborough Rd Valparaiso IN 46385",
+    "addr:housenumber":"422",
+    "addr:postcode":"46385",
+    "addr:street":"Scarborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.148263,41.462703,-87.148263,41.462703",
     "geom:latitude":41.462703,
     "geom:longitude":-87.148263,
@@ -24,7 +29,15 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sUD9Xq0l4k4HjNT2R7bQr_41.462703_-87.148263@1294102998"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462596736,
     "wof:geomhash":"276f17a4cde83b11665db8f3b84a0ca7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":790544015
+        }
+    ],
     "wof:id":790544015,
-    "wof:lastmodified":1466512937,
+    "wof:lastmodified":1492095535,
     "wof:name":"Fages Enterprises",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

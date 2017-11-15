@@ -2,9 +2,14 @@
   "id": 790206215,
   "type": "Feature",
   "properties": {
+    "addr:full":"3904 Goodrich Ct Valparaiso IN 46385",
+    "addr:housenumber":"3904",
+    "addr:postcode":"46385",
+    "addr:street":"Goodrich Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.074982,41.506389,-87.074982,41.506389",
     "geom:latitude":41.506389,
     "geom:longitude":-87.074982,
@@ -24,7 +29,10 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Pwz8wzxuXF4A6JC9gZfMD_41.506389_-87.074982@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462594002,
     "wof:geomhash":"6e4f4e85bc0077466ca712af0f1320de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790206215
+        }
+    ],
     "wof:id":790206215,
-    "wof:lastmodified":1466505951,
+    "wof:lastmodified":1492102374,
     "wof:name":"Egia Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

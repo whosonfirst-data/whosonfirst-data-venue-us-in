@@ -2,9 +2,14 @@
   "id": 807042705,
   "type": "Feature",
   "properties": {
+    "addr:full":"542 W 700 S Hebron IN 46341",
+    "addr:housenumber":"542",
+    "addr:postcode":"46341",
+    "addr:street":"W 700 S Hebron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.167169,41.332546,-87.167169,41.332546",
     "geom:latitude":41.332546,
     "geom:longitude":-87.167169,
@@ -38,7 +43,13 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DbMWVvm01YHyWlfA8xwQT_41.332546_-87.167169@1303262771"
@@ -46,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1462603234,
     "wof:geomhash":"5b94d0e29b9a662889805b88e9357664",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "region_id":85688709,
+            "venue_id":807042705
+        }
+    ],
     "wof:id":807042705,
-    "wof:lastmodified":1466503921,
+    "wof:lastmodified":1492093276,
     "wof:name":"Northwest Furniture Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

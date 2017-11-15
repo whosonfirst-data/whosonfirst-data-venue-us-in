@@ -2,14 +2,20 @@
   "id": 806859525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 E 116th St Carmel IN 46032",
+    "addr:housenumber":"2340",
+    "addr:postcode":"46032",
+    "addr:street":"E 116Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.115835,39.956833,-86.115835,39.956833",
     "geom:latitude":39.956833,
     "geom:longitude":-86.115835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2340 E 116th St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125152293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jAnDRCMcHvgC5Tw7H6MfX_39.956833_-86.115835@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601687,
-    "wof:geomhash":"ffbe44f67021f72380fda1b1b8541315",
+    "wof:geomhash":"24b4f3cedf7397f591c0dc8e93f6a2f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806859525,
-    "wof:lastmodified":1466516383,
+    "wof:lastmodified":1510695696,
     "wof:name":"Locksmith & Locks-24 7 Emergency",
     "wof:parent_id":420519611,
     "wof:placetype":"venue",

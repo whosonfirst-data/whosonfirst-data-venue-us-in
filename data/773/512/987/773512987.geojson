@@ -2,9 +2,14 @@
   "id": 773512987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5617 E State Rd 10 Demotte IN 46310",
+    "addr:housenumber":"5617;10",
+    "addr:postcode":"46310",
+    "addr:street":"E State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.283498,41.144383,-87.283498,41.144383",
     "geom:latitude":41.144383,
     "geom:longitude":-87.283498,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TYuWVfqtw6DVL9seIYw54_41.144383_-87.283498@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462586294,
     "wof:geomhash":"604e3dfe6389876f15e9763329acd481",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":773512987
+        }
+    ],
     "wof:id":773512987,
-    "wof:lastmodified":1466513302,
+    "wof:lastmodified":1492106678,
     "wof:name":"Hefner's 10 & 231 Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

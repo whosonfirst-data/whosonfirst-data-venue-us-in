@@ -2,9 +2,14 @@
   "id": 806755357,
   "type": "Feature",
   "properties": {
+    "addr:full":"3764 Harrison St Gary IN 46408",
+    "addr:housenumber":"3764",
+    "addr:postcode":"46408",
+    "addr:street":"Harrison St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.346186,41.550135,-87.346186,41.550135",
     "geom:latitude":41.550135,
     "geom:longitude":-87.346186,
@@ -28,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dhw5WKMfZTlfhLwaRh3vt_41.550713_-87.346256@1293134755"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600807,
     "wof:geomhash":"7203edd090ec2fc34721f4c5262d4b9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806755357
+        }
+    ],
     "wof:id":806755357,
-    "wof:lastmodified":1466512813,
+    "wof:lastmodified":1492097613,
     "wof:name":"Dms Ceramics",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

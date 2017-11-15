@@ -2,9 +2,14 @@
   "id": 320683697,
   "type": "Feature",
   "properties": {
+    "addr:full":"7225 E Ridge Rd Hobart IN 46342",
+    "addr:housenumber":"7225",
+    "addr:postcode":"46342",
+    "addr:street":"E Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.251938,41.55066,-87.251938,41.55066",
     "geom:latitude":41.55066,
     "geom:longitude":-87.251938,
@@ -25,10 +30,15 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519677,
+        102191575,
+        404501867,
         85633793,
-        85941823,
-        102087149
+        85941833,
+        102087149,
+        85688709,
+        85891129,
+        85941823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +48,30 @@
     "wof:geomhash":"7938cdadaccd45c737d0c06aa9ede38b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501867,
+            "locality_id":85941833,
+            "neighbourhood_id":420519677,
+            "region_id":85688709,
+            "venue_id":320683697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501867,
             "locality_id":85941823,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891129,
             "region_id":85688709,
             "venue_id":320683697
         }
     ],
     "wof:id":320683697,
-    "wof:lastmodified":1466503395,
+    "wof:lastmodified":1492092702,
     "wof:name":"Kenneth Fugate Attorney",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

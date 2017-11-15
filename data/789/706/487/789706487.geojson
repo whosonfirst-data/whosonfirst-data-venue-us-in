@@ -2,9 +2,14 @@
   "id": 789706487,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 E State St Morocco IN 47963",
+    "addr:housenumber":"216",
+    "addr:postcode":"47963",
+    "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.453216,40.94621,-87.453216,40.94621",
     "geom:latitude":40.94621,
     "geom:longitude":-87.453216,
@@ -27,7 +32,14 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WC0reNHNqPULfqsfcWmfq_40.946210_-87.453216@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462589903,
     "wof:geomhash":"fb39adcf824731d35aeb7b17f64b0588",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":789706487
+        }
+    ],
     "wof:id":789706487,
-    "wof:lastmodified":1466505484,
+    "wof:lastmodified":1492096863,
     "wof:name":"State Street Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

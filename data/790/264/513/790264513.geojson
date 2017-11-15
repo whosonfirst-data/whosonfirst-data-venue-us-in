@@ -2,9 +2,14 @@
   "id": 790264513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1711 W Ridge Rd Gary IN 46408",
+    "addr:housenumber":"1711",
+    "addr:postcode":"46408",
+    "addr:street":"W Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360001,41.548203,-87.360001,41.548203",
     "geom:latitude":41.548203,
     "geom:longitude":-87.360001,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_467HU9xdvPmXOdTZYUT3zu_41.548203_-87.360001@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462594457,
     "wof:geomhash":"a7c2aa91e4ca57010a618c02b34452b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790264513
+        }
+    ],
     "wof:id":790264513,
-    "wof:lastmodified":1466506586,
+    "wof:lastmodified":1492091729,
     "wof:name":"Classic Auto Insurance Of Gary",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

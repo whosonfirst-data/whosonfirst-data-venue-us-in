@@ -2,9 +2,14 @@
   "id": 773151465,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 US Hwy 421 Francesville IN 47946",
+    "addr:housenumber":"234",
+    "addr:postcode":"47946",
+    "addr:street":"Us Hwy 421",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.891678,40.997839,-86.891678,40.997839",
     "geom:latitude":40.997839,
     "geom:longitude":-86.891678,
@@ -24,7 +29,14 @@
     "sg:postcode":"47946",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501671,
+        85633793,
+        102086331,
+        404501675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rqnnlcTpUlm3IDOcVP64J_40.997839_-86.891678@1294102998"
@@ -32,9 +44,26 @@
     "wof:country":"US",
     "wof:created":1462583533,
     "wof:geomhash":"40b25f9ce1bb5fc73b1eaae8deec3e5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501671,
+            "region_id":85688709,
+            "venue_id":773151465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501675,
+            "region_id":85688709,
+            "venue_id":773151465
+        }
+    ],
     "wof:id":773151465,
-    "wof:lastmodified":1466505841,
+    "wof:lastmodified":1492104781,
     "wof:name":"Patio Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

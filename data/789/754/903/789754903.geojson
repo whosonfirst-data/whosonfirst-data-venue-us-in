@@ -2,9 +2,14 @@
   "id": 789754903,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 Ross Rd Gary IN 46408",
+    "addr:housenumber":"4600",
+    "addr:postcode":"46408",
+    "addr:street":"Ross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397251,41.53527,-87.397251,41.53527",
     "geom:latitude":41.53527,
     "geom:longitude":-87.397251,
@@ -27,7 +32,10 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y0uYepaDYYKTZ7eSwkjqW_41.535270_-87.397251@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462590290,
     "wof:geomhash":"d96db8d343ae7ef213147a7ee0f0d795",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789754903
+        }
+    ],
     "wof:id":789754903,
-    "wof:lastmodified":1466505880,
+    "wof:lastmodified":1492095781,
     "wof:name":"Family Designs",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

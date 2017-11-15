@@ -2,9 +2,14 @@
   "id": 789925775,
   "type": "Feature",
   "properties": {
+    "addr:full":"4689 Broadway Gary IN 46409",
+    "addr:housenumber":"4689",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336179,41.534685,-87.336179,41.534685",
     "geom:latitude":41.534685,
     "geom:longitude":-87.336179,
@@ -27,7 +32,10 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UOHy1D3pmPoDCPVdiaa8B_41.534685_-87.336179@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462591672,
     "wof:geomhash":"aa7b8438f08a6f7c0b69300a590ee41e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":789925775
+        }
+    ],
     "wof:id":789925775,
-    "wof:lastmodified":1466507664,
+    "wof:lastmodified":1492101506,
     "wof:name":"Max Clothing",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

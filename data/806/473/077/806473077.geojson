@@ -2,9 +2,14 @@
   "id": 806473077,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Powder Horn Dr Valparaiso IN 46383",
+    "addr:housenumber":"303",
+    "addr:postcode":"46383",
+    "addr:street":"Powder Horn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.058856,41.505194,-87.058856,41.505194",
     "geom:latitude":41.505194,
     "geom:longitude":-87.058856,
@@ -27,7 +32,10 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JP903zQLLzxCrAk5sYE00_41.505194_-87.058856@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462598410,
     "wof:geomhash":"c78e2775659c749f7266fa623c10fab0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":806473077
+        }
+    ],
     "wof:id":806473077,
-    "wof:lastmodified":1466505774,
+    "wof:lastmodified":1492093694,
     "wof:name":"TRS Of Indiana Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

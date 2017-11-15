@@ -2,14 +2,20 @@
   "id": 806835759,
   "type": "Feature",
   "properties": {
+    "addr:full":"1216 S Green River Rd Evansville IN 47715",
+    "addr:housenumber":"1216",
+    "addr:postcode":"47715",
+    "addr:street":"S Green River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.492635,37.960099,-87.492635,37.960099",
     "geom:latitude":37.960099,
     "geom:longitude":-87.492635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1216 S Green River Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         85688709,
         85877295
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ktGvED3ud0MMgY3D5HkxG_37.960099_-87.492635@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601473,
-    "wof:geomhash":"2ad33ceae493f93e00fe4574d15d163b",
+    "wof:geomhash":"edf363f6dbb0899dfd81c21e8719cd84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":806835759,
-    "wof:lastmodified":1466516162,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

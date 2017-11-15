@@ -2,14 +2,20 @@
   "id": 790228811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 W Bradburn Dr Muncie IN 47304",
+    "addr:housenumber":"5100",
+    "addr:postcode":"47304",
+    "addr:street":"W Bradburn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.444591,40.216642,-85.444591,40.216642",
     "geom:latitude":40.216642,
     "geom:longitude":-85.444591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5100 W Bradburn Dr",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125153745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BckpQl57UbBvXz1OC9Y1u_40.216642_-85.444591@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594162,
-    "wof:geomhash":"b929f4db5b489fd4f9040557d2b04366",
+    "wof:geomhash":"d7ab0c96ed8da00bc706784698cd943d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790228811,
-    "wof:lastmodified":1466506289,
+    "wof:lastmodified":1510698500,
     "wof:name":"Better Homes and Gardens",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

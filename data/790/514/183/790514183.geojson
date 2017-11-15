@@ -2,9 +2,14 @@
   "id": 790514183,
   "type": "Feature",
   "properties": {
+    "addr:full":"5460 Fillmore St Merrillville IN 46410",
+    "addr:housenumber":"5460",
+    "addr:postcode":"46410",
+    "addr:street":"Fillmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.348765,41.519557,-87.348765,41.519557",
     "geom:latitude":41.519557,
     "geom:longitude":-87.348765,
@@ -28,7 +33,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GXvwWszbyj655tgnthhpQ_41.519557_-87.348765@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462596484,
     "wof:geomhash":"7e675f971fe6e8e9063a1c03dc3554b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790514183
+        }
+    ],
     "wof:id":790514183,
-    "wof:lastmodified":1466512615,
+    "wof:lastmodified":1492091596,
     "wof:name":"Rehab Shepard Assoc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

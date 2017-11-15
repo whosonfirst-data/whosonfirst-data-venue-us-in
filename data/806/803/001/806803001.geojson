@@ -2,14 +2,20 @@
   "id": 806803001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 Conner St Noblesville IN 46060",
+    "addr:housenumber":"2630",
+    "addr:postcode":"46060",
+    "addr:street":"Conner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.994858,40.046126,-85.994858,40.046126",
     "geom:latitude":40.046126,
     "geom:longitude":-85.994858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2630 Conner St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GN2HsDf9BxUMjxbdGa7om_40.046126_-85.994858@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601209,
-    "wof:geomhash":"603127f14326bb35a040f7313063b286",
+    "wof:geomhash":"58db4c712b7719ae41e30505979f9214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806803001,
-    "wof:lastmodified":1466515311,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

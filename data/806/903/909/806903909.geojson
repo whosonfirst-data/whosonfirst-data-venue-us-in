@@ -2,6 +2,10 @@
   "id": 806903909,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 N Senate Ave Fl 3 Indianapolis IN 46204",
+    "addr:housenumber":"10;3",
+    "addr:postcode":"46204",
+    "addr:street":"N Senate Ave Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806903909,
-    "wof:lastmodified":1466517177,
+    "wof:lastmodified":1472623038,
     "wof:name":"Dislocated Worker Unit",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

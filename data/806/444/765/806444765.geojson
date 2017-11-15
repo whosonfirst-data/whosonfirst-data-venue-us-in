@@ -2,9 +2,14 @@
   "id": 806444765,
   "type": "Feature",
   "properties": {
+    "addr:full":"5834 W 800 N Michigan City IN 46360",
+    "addr:housenumber":"5834",
+    "addr:postcode":"46360",
+    "addr:street":"W 800 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.813269,41.723497,-86.813269,41.723497",
     "geom:latitude":41.723497,
     "geom:longitude":-86.813269,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cTUpSioaugTdINuEMhHj8_41.723497_-86.813269@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598207,
     "wof:geomhash":"5d388f1a26617beee067c7af21093856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":806444765
+        }
+    ],
     "wof:id":806444765,
-    "wof:lastmodified":1466505316,
+    "wof:lastmodified":1492095875,
     "wof:name":"Lakefront Electric",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

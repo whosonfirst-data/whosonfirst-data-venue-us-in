@@ -2,6 +2,10 @@
   "id": 789991255,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Main St Milford IN 46542",
+    "addr:housenumber":"101",
+    "addr:postcode":"46542",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":789991255,
-    "wof:lastmodified":1466510254,
+    "wof:lastmodified":1472622843,
     "wof:name":"Milford Public Library",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

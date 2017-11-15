@@ -2,9 +2,14 @@
   "id": 790019035,
   "type": "Feature",
   "properties": {
+    "addr:full":"3349 E 1050 N Demotte IN 46310",
+    "addr:housenumber":"3349",
+    "addr:postcode":"46310",
+    "addr:street":"E 1050 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.327108,41.152086,-87.327108,41.152086",
     "geom:latitude":41.152086,
     "geom:longitude":-87.327108,
@@ -29,7 +34,13 @@
         "religious"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UMNAnrTWt1zb2aicUpfxF_41.152086_-87.327108@1294102998"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462592484,
     "wof:geomhash":"5e6d49fb96b2d22c4d24812d8acfce03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "region_id":85688709,
+            "venue_id":790019035
+        }
+    ],
     "wof:id":790019035,
-    "wof:lastmodified":1466503794,
+    "wof:lastmodified":1492091616,
     "wof:name":"Bet S Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

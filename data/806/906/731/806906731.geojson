@@ -2,9 +2,14 @@
   "id": 806906731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Indiana Sq Ste 620 Indianapolis IN 46204",
+    "addr:housenumber":"1",
+    "addr:postcode":"46204",
+    "addr:street":"Indiana Sq Ste 620",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.524325,41.702564,-87.524325,41.702564",
     "geom:latitude":41.702564,
     "geom:longitude":-87.524325,
@@ -24,7 +29,14 @@
     "sg:postcode":"46204",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501869,
+        85633793,
+        85941817,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13OoOnhJVv6jUibsbKWifx_41.702564_-87.524325@1303262763"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462602067,
     "wof:geomhash":"4bc6a0411376fd841e81f7378231e41a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501869,
+            "locality_id":85941817,
+            "region_id":85688709,
+            "venue_id":806906731
+        }
+    ],
     "wof:id":806906731,
-    "wof:lastmodified":1466517253,
+    "wof:lastmodified":1492092220,
     "wof:name":"Registry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

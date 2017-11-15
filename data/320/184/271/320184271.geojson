@@ -2,14 +2,20 @@
   "id": 320184271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2060 Lafayette Ave Terre Haute IN 47805",
+    "addr:housenumber":"2060",
+    "addr:postcode":"47805",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.386967,39.506795,-87.386967,39.506795",
     "geom:latitude":39.506795,
     "geom:longitude":-87.386967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2060 Lafayette Ave",
     "sg:city":"Terre Haute",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087183,
         85852861
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AiPpZYRyvlO5xlvDvirZJ_39.506795_-87.386967@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"d64976f8fb4a9f4a4c0a201d713231ae",
+    "wof:geomhash":"e00a941bcf1e9323a9be297877008225",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":320184271,
-    "wof:lastmodified":1466503749,
+    "wof:lastmodified":1510696772,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85852861,
     "wof:placetype":"venue",

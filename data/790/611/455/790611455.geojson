@@ -2,14 +2,20 @@
   "id": 790611455,
   "type": "Feature",
   "properties": {
+    "addr:full":"2036 Scatterfield Rd Anderson IN 46016",
+    "addr:housenumber":"2036",
+    "addr:postcode":"46016",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652463,40.093442,-85.652463,40.093442",
     "geom:latitude":40.093442,
     "geom:longitude":-85.652463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2036 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086407,
         85688709
     ],
+    "wof:brand_id":1125157439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fk7n1BVDVlpCLN0yg0Fcd_40.093442_-85.652463@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597315,
-    "wof:geomhash":"ca43b13108cc198e1dc07ab780ade32c",
+    "wof:geomhash":"3898369a038ffc7299ee879105c41c18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790611455,
-    "wof:lastmodified":1466515657,
+    "wof:lastmodified":1510695917,
     "wof:name":"MAB Paint Store",
     "wof:parent_id":85823225,
     "wof:placetype":"venue",

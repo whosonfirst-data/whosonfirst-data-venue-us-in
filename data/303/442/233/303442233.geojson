@@ -2,9 +2,14 @@
   "id": 303442233,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 W Allen St Kentland IN 47951",
+    "addr:housenumber":"324",
+    "addr:postcode":"47951",
+    "addr:street":"W Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.455199,40.766522,-87.455199,40.766522",
     "geom:latitude":40.766522,
     "geom:longitude":-87.455199,
@@ -33,6 +38,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501341,
         85633793,
         85942411,
         102086363
@@ -45,17 +52,17 @@
     "wof:geomhash":"e89a35babd6896987a19bf87379cb87c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086363,
+            "localadmin_id":404501341,
             "locality_id":85942411,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":303442233
         }
     ],
     "wof:id":303442233,
-    "wof:lastmodified":1466503681,
+    "wof:lastmodified":1492097633,
     "wof:name":"Walt Dewing Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

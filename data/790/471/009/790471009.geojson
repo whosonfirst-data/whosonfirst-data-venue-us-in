@@ -2,14 +2,20 @@
   "id": 790471009,
   "type": "Feature",
   "properties": {
+    "addr:full":"4535 Coldwater Rd Fort Wayne IN 46825",
+    "addr:housenumber":"4535",
+    "addr:postcode":"46825",
+    "addr:street":"Coldwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.135504,41.121456,-85.135504,41.121456",
     "geom:latitude":41.121456,
     "geom:longitude":-85.135504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4535 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VHhl0OrHcSIJhV6uCs6tk_41.121456_-85.135504@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596105,
-    "wof:geomhash":"64e4e774b9e4e0549f71bf290dd1f7d2",
+    "wof:geomhash":"ea37acff9a8eadfbfd18204c61b5fb10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790471009,
-    "wof:lastmodified":1466511400,
+    "wof:lastmodified":1510696770,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",

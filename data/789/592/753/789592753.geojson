@@ -2,14 +2,20 @@
   "id": 789592753,
   "type": "Feature",
   "properties": {
+    "addr:full":"7401 Melton Rd Gary IN 46403",
+    "addr:housenumber":"7401",
+    "addr:postcode":"46403",
+    "addr:street":"Melton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.241233,41.595136,-87.241233,41.595136",
     "geom:latitude":41.595136,
     "geom:longitude":-87.241233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7401 Melton Rd",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EOvCiDidH8jmzhT3UutUO_41.595136_-87.241233@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589006,
-    "wof:geomhash":"e7818d3bb9436dbb5063c2814cd354d3",
+    "wof:geomhash":"870879363dd917c137d6127e8a889504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789592753,
-    "wof:lastmodified":1466503581,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85834337,
     "wof:placetype":"venue",

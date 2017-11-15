@@ -2,9 +2,14 @@
   "id": 773679361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 W 41st Ave Gary IN 46408",
+    "addr:housenumber":"2410",
+    "addr:postcode":"46408",
+    "addr:street":"W 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.364394,41.544479,-87.364394,41.544479",
     "geom:latitude":41.544479,
     "geom:longitude":-87.364394,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FqsEnakOP5tTE2hhCYQSp_41.544479_-87.364394@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462587534,
     "wof:geomhash":"6b98d21faa0154e0eece95be9a72a954",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":773679361
+        }
+    ],
     "wof:id":773679361,
-    "wof:lastmodified":1466517379,
+    "wof:lastmodified":1492097509,
     "wof:name":"Evans Construction",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773080707,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Meridian Rd Valparaiso IN 46385",
+    "addr:housenumber":"617",
+    "addr:postcode":"46385",
+    "addr:street":"Meridian Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.065994,41.52332,-87.065994,41.52332",
     "geom:latitude":41.52332,
     "geom:longitude":-87.065994,
@@ -27,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_282t0CIlxqoAMKrY2V6b6P_41.523320_-87.065994@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462583013,
     "wof:geomhash":"69da5d48cafccdcef624be3f1d03acc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":773080707
+        }
+    ],
     "wof:id":773080707,
-    "wof:lastmodified":1466504968,
+    "wof:lastmodified":1492097508,
     "wof:name":"Shaw Painting Inc",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

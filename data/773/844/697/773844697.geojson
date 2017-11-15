@@ -2,9 +2,14 @@
   "id": 773844697,
   "type": "Feature",
   "properties": {
+    "addr:full":"774 Baltimore Rd Valparaiso IN 46385",
+    "addr:housenumber":"774",
+    "addr:postcode":"46385",
+    "addr:street":"Baltimore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.126675,41.546491,-87.126675,41.546491",
     "geom:latitude":41.546491,
     "geom:longitude":-87.126675,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uXAUVcMxxuZoWAlmJe0kZ_41.546491_-87.126675@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462588857,
     "wof:geomhash":"9fd0929cb1ea639f74ade2449552a635",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773844697
+        }
+    ],
     "wof:id":773844697,
-    "wof:lastmodified":1466519399,
+    "wof:lastmodified":1492095707,
     "wof:name":"Ultimate Painting Inc",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

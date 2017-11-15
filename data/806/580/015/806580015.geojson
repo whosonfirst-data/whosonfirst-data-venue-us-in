@@ -2,9 +2,14 @@
   "id": 806580015,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 US Hwy 20 New Carlisle IN 46552",
+    "addr:housenumber":"888",
+    "addr:postcode":"46552",
+    "addr:street":"Us Hwy 20",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.525013,41.703589,-86.525013,41.703589",
     "geom:latitude":41.703589,
     "geom:longitude":-86.525013,
@@ -27,7 +32,14 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501467,
+        85633793,
+        85942421,
+        102086969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11gYxVwYr50YnKslTMJKst_41.703589_-86.525013@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462599310,
     "wof:geomhash":"715ee2286feaa59ac956dd28ac6e9f38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086969,
+            "localadmin_id":404501467,
+            "locality_id":85942421,
+            "region_id":85688709,
+            "venue_id":806580015
+        }
+    ],
     "wof:id":806580015,
-    "wof:lastmodified":1466507039,
+    "wof:lastmodified":1492092228,
     "wof:name":"Five Star Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

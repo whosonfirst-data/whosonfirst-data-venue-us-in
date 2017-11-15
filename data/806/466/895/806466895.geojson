@@ -2,9 +2,14 @@
   "id": 806466895,
   "type": "Feature",
   "properties": {
+    "addr:full":"9604 Industrial Dr St John IN 46373",
+    "addr:housenumber":"9604",
+    "addr:postcode":"46373",
+    "addr:street":"Industrial Dr St John",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.465094,41.441994,-87.465094,41.441994",
     "geom:latitude":41.441994,
     "geom:longitude":-87.465094,
@@ -27,7 +32,14 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501873,
+        85633793,
+        85941839,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zR9NnZhYDtSEqPDqGizxF_41.441994_-87.465094@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462598368,
     "wof:geomhash":"3afd04e71994eaebf273ec4ca714a2b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501873,
+            "locality_id":85941839,
+            "region_id":85688709,
+            "venue_id":806466895
+        }
+    ],
     "wof:id":806466895,
-    "wof:lastmodified":1466505603,
+    "wof:lastmodified":1492094835,
     "wof:name":"Clean Air Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

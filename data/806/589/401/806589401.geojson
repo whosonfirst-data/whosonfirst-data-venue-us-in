@@ -2,14 +2,20 @@
   "id": 806589401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 S Macedonia Ave Muncie IN 47302",
+    "addr:housenumber":"2501",
+    "addr:postcode":"47302",
+    "addr:street":"S Macedonia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.36733,40.170998,-85.36733,40.170998",
     "geom:latitude":40.170998,
     "geom:longitude":-85.36733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 S Macedonia Ave",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85827089
     ],
+    "wof:brand_id":420575955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T0Ll1IqKStoyv75SCXO4l_40.170998_-85.367330@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599395,
-    "wof:geomhash":"82eef0c271af8486c11c550b941eff25",
+    "wof:geomhash":"a35200aeba24b9119eec6cb0f099f97f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806589401,
-    "wof:lastmodified":1466507264,
+    "wof:lastmodified":1510602505,
     "wof:name":"Village Pantry",
     "wof:parent_id":85827089,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807049795,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 W 39th Ave Gary IN 46408",
+    "addr:housenumber":"635",
+    "addr:postcode":"46408",
+    "addr:street":"W 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.344125,41.547684,-87.344125,41.547684",
     "geom:latitude":41.547684,
     "geom:longitude":-87.344125,
@@ -27,7 +32,10 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jIeLwaMProFWg9WuOv6CB_41.547684_-87.344125@1303262771"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462603286,
     "wof:geomhash":"5bb84b9fde1c3d6217dd22d919436d1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049795
+        }
+    ],
     "wof:id":807049795,
-    "wof:lastmodified":1466504198,
+    "wof:lastmodified":1492097618,
     "wof:name":"Class Act Limousine Service",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

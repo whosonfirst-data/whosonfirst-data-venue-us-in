@@ -2,9 +2,14 @@
   "id": 773725303,
   "type": "Feature",
   "properties": {
+    "addr:full":"2258 N 1550 W Medaryville IN 47957",
+    "addr:housenumber":"2258",
+    "addr:postcode":"47957",
+    "addr:street":"N 1550 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.90119,41.087264,-86.90119,41.087264",
     "geom:latitude":41.087264,
     "geom:longitude":-86.90119,
@@ -28,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501659,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pNtBQ6MuAXPbzW8ObSFVF_41.087264_-86.901190@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462587912,
     "wof:geomhash":"bb4f6b8c2fc06fe262c383c32f0ac7e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501659,
+            "region_id":85688709,
+            "venue_id":773725303
+        }
+    ],
     "wof:id":773725303,
-    "wof:lastmodified":1466517974,
+    "wof:lastmodified":1492095806,
     "wof:name":"Benchmark Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

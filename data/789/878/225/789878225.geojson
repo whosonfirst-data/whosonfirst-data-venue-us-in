@@ -2,14 +2,20 @@
   "id": 789878225,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 N Weinbach Ave Evansville IN 47711",
+    "addr:housenumber":"125",
+    "addr:postcode":"47711",
+    "addr:street":"N Weinbach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.52933,37.977162,-87.52933,37.977162",
     "geom:latitude":37.977162,
     "geom:longitude":-87.52933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 N Weinbach Ave",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MQKMaefePcYf0oWq9R6Mz_37.977162_-87.529330@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591271,
-    "wof:geomhash":"f997509cf9a1d2c862ba27b2f7bc8f05",
+    "wof:geomhash":"e798139ec7dbc1d11e2ab9007c9b39ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789878225,
-    "wof:lastmodified":1466507208,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":420519925,
     "wof:placetype":"venue",

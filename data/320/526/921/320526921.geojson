@@ -2,9 +2,14 @@
   "id": 320526921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 E Main St Griffith IN 46319",
+    "addr:housenumber":"1701",
+    "addr:postcode":"46319",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.397673,41.522549,-87.397673,41.522549",
     "geom:latitude":41.522549,
     "geom:longitude":-87.397673,
@@ -36,10 +41,13 @@
     "sg:website":"www.gnaircraft.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519675,
+        102191575,
+        404501857,
         85633793,
         85941815,
-        102087149
+        102087149,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +57,20 @@
     "wof:geomhash":"1a8ea33ed8c9bea09f0e5be29b2534da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501857,
             "locality_id":85941815,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519675,
             "region_id":85688709,
             "venue_id":320526921
         }
     ],
     "wof:id":320526921,
-    "wof:lastmodified":1466503209,
+    "wof:lastmodified":1492096840,
     "wof:name":"G & N Aircraft Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

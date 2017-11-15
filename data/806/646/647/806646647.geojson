@@ -2,14 +2,20 @@
   "id": 806646647,
   "type": "Feature",
   "properties": {
+    "addr:full":"843 E Main St Brownsburg IN 46112",
+    "addr:housenumber":"843",
+    "addr:postcode":"46112",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.384588,39.839,-86.384588,39.839",
     "geom:latitude":39.839,
     "geom:longitude":-86.384588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"843 E Main St",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125159933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PlEqlDwMXAZTzaynWqLNA_39.839000_-86.384588@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599877,
-    "wof:geomhash":"d65db11477f1c7c1626247c4ec2de4ad",
+    "wof:geomhash":"740f79c941ccd3490c28499ec53421f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806646647,
-    "wof:lastmodified":1466508469,
+    "wof:lastmodified":1510693801,
     "wof:name":"Marsh Supermarket",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

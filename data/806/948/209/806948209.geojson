@@ -2,14 +2,20 @@
   "id": 806948209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 Shepperton Blvd Indianapolis IN 46228",
+    "addr:housenumber":"",
+    "addr:postcode":"3150;46228",
+    "addr:street":"Shepperton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.213058,39.825812,-86.213058,39.825812",
     "geom:latitude":39.825812,
     "geom:longitude":-86.213058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3150 Shepperton Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85688709,
         85821825
     ],
+    "wof:brand_id":1125154901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HAH67tGrlFcRaPKtuLSjN_39.825812_-86.213058@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602423,
-    "wof:geomhash":"c46b4eaf2cc3ea0399fa4ef3548b2949",
+    "wof:geomhash":"b9a8223b5ef8ca98c24150e85408bd54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":806948209,
-    "wof:lastmodified":1466518200,
+    "wof:lastmodified":1510697536,
     "wof:name":"M/I Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

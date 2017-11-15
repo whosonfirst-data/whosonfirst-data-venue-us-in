@@ -2,9 +2,14 @@
   "id": 790268009,
   "type": "Feature",
   "properties": {
+    "addr:full":"15025 W 450 N Medaryville IN 47957",
+    "addr:housenumber":"15025",
+    "addr:postcode":"47957",
+    "addr:street":"W 450 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.892939,41.121448,-86.892939,41.121448",
     "geom:latitude":41.121448,
     "geom:longitude":-86.892939,
@@ -28,7 +33,13 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501659,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YYGR24WKNrDydI1AsvYac_41.121448_-86.892939@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462594481,
     "wof:geomhash":"91c948e9e7797f9613c27b4872acf13f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501659,
+            "region_id":85688709,
+            "venue_id":790268009
+        }
+    ],
     "wof:id":790268009,
-    "wof:lastmodified":1466506591,
+    "wof:lastmodified":1492098217,
     "wof:name":"Rug Rats Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806465901,
   "type": "Feature",
   "properties": {
+    "addr:full":"6902 S 400 W Columbus IN 47201",
+    "addr:housenumber":"6902;400",
+    "addr:postcode":"47201",
+    "addr:street":"S;W Columbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":806465901,
-    "wof:lastmodified":1466505508,
+    "wof:lastmodified":1472622442,
     "wof:name":"Grassmaster",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",

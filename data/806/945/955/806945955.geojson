@@ -2,14 +2,20 @@
   "id": 806945955,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 E Thompson Rd Indianapolis IN 46227",
+    "addr:housenumber":"50",
+    "addr:postcode":"46227",
+    "addr:street":"E Thompson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.156772,39.692763,-86.156772,39.692763",
     "geom:latitude":39.692763,
     "geom:longitude":-86.156772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 E Thompson Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -56,13 +62,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420574443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_743D1SnwS3AjnCbvmCZTRq_39.692763_-86.156772@1303262765"
     },
     "wof:country":"US",
     "wof:created":1462602406,
-    "wof:geomhash":"20203956f8a090c2db5fb2d0acf6a15d",
+    "wof:geomhash":"4703de4e2247e41f702e99fc6e121370",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +83,7 @@
         }
     ],
     "wof:id":806945955,
-    "wof:lastmodified":1466518177,
+    "wof:lastmodified":1510604297,
     "wof:name":"AAMCO Transmissions",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790348159,
   "type": "Feature",
   "properties": {
+    "addr:full":"11137 W 400 N Wolcott IN 47995",
+    "addr:housenumber":"11137",
+    "addr:postcode":"47995",
+    "addr:street":"W 400 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.082978,40.811009,-87.082978,40.811009",
     "geom:latitude":40.811009,
     "geom:longitude":-87.082978,
@@ -28,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501995,
+        85633793,
+        102087133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GJo8mBJ6v4XfO7hV98oP4_40.811009_-87.082978@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595123,
     "wof:geomhash":"8628fd175a26849ba0c18985b5036161",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087133,
+            "localadmin_id":404501995,
+            "region_id":85688709,
+            "venue_id":790348159
+        }
+    ],
     "wof:id":790348159,
-    "wof:lastmodified":1466507496,
+    "wof:lastmodified":1492105414,
     "wof:name":"Don English",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

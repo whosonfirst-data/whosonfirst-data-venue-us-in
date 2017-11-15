@@ -2,9 +2,14 @@
   "id": 789644191,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Mill St Lowell IN 46356",
+    "addr:housenumber":"155",
+    "addr:postcode":"46356",
+    "addr:street":"Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.421659,41.292984,-87.421659,41.292984",
     "geom:latitude":41.292984,
     "geom:longitude":-87.421659,
@@ -27,7 +32,14 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sB70omwz2Digh2XmusnRR_41.292984_-87.421659@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462589404,
     "wof:geomhash":"b03b8679c9a9ab9d547ecbf4df9981e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":789644191
+        }
+    ],
     "wof:id":789644191,
-    "wof:lastmodified":1466504666,
+    "wof:lastmodified":1492101447,
     "wof:name":"Loyal Order Of Moose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

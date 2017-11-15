@@ -2,9 +2,14 @@
   "id": 806568569,
   "type": "Feature",
   "properties": {
+    "addr:full":"763 Walter Dr Hebron IN 46341",
+    "addr:housenumber":"763",
+    "addr:postcode":"46341",
+    "addr:street":"Walter Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.108831,41.325164,-87.108831,41.325164",
     "geom:latitude":41.325164,
     "geom:longitude":-87.108831,
@@ -24,7 +29,13 @@
     "sg:postcode":"46341",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PufAcx56D5XSZ0adW7g8b_41.325164_-87.108831@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599194,
     "wof:geomhash":"b329bfc5e2c068b579cbba48df64b229",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "region_id":85688709,
+            "venue_id":806568569
+        }
+    ],
     "wof:id":806568569,
-    "wof:lastmodified":1466506985,
+    "wof:lastmodified":1492091698,
     "wof:name":"Matz Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

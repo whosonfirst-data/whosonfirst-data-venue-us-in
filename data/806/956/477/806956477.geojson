@@ -2,14 +2,20 @@
   "id": 806956477,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 E Thompson Rd Indianapolis Indianapolis IN 46237",
+    "addr:housenumber":"5401",
+    "addr:postcode":"46237",
+    "addr:street":"E Thompson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.075259,39.694699,-86.075259,39.694699",
     "geom:latitude":39.694699,
     "geom:longitude":-86.075259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5401 E Thompson Rd Indianapolis",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125156713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qrEZTkkbpDA4IOSrtVAAj_39.694699_-86.075259@1303262766"
     },
     "wof:country":"US",
     "wof:created":1462602498,
-    "wof:geomhash":"ba84b4ff5ca3d699713940be88a5f14e",
+    "wof:geomhash":"1b09981ade30fb3b28702c8030c6a9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":806956477,
-    "wof:lastmodified":1466518372,
+    "wof:lastmodified":1510604938,
     "wof:name":"Car-X Auto Service",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",

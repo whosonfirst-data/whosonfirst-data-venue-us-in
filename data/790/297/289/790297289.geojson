@@ -2,9 +2,14 @@
   "id": 790297289,
   "type": "Feature",
   "properties": {
+    "addr:full":"9450 W US Hwy 30 Wanatah IN 46390",
+    "addr:housenumber":"9450",
+    "addr:postcode":"46390",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877343,41.433966,-86.877343,41.433966",
     "geom:latitude":41.433966,
     "geom:longitude":-86.877343,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891163,
+        102191575,
+        404501879,
         85633793,
         85941895,
         102086409,
-        85891163
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"1fc5d012d0141eeb5c981d688880b962",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501879,
             "locality_id":85941895,
             "neighbourhood_id":85891163,
             "region_id":85688709,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":790297289,
-    "wof:lastmodified":1466506784,
+    "wof:lastmodified":1492091398,
     "wof:name":"Peak Equipment Co",
     "wof:parent_id":85891163,
     "wof:placetype":"venue",

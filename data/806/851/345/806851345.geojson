@@ -2,14 +2,20 @@
   "id": 806851345,
   "type": "Feature",
   "properties": {
+    "addr:full":"14670 N Meridian St Carmel IN 46032",
+    "addr:housenumber":"14670",
+    "addr:postcode":"46032",
+    "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.127098,40.0014,-86.127098,40.0014",
     "geom:latitude":40.0014,
     "geom:longitude":-86.127098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14670 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HXqkw0zXO73KbKu82Txyh_40.001400_-86.127098@1303262760"
     },
     "wof:country":"US",
     "wof:created":1462601620,
-    "wof:geomhash":"4b241bd96248593a50ec86e59ab064ef",
+    "wof:geomhash":"109a60aec8474490cd591656908f3328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806851345,
-    "wof:lastmodified":1466516226,
+    "wof:lastmodified":1510699043,
     "wof:name":"Michaels Arts & Crafts",
     "wof:parent_id":85891085,
     "wof:placetype":"venue",

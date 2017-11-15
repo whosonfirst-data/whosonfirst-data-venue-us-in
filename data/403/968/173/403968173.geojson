@@ -2,14 +2,20 @@
   "id": 403968173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 3rd Ave SW Carmel IN 46032",
+    "addr:housenumber":"1010",
+    "addr:postcode":"46032",
+    "addr:street":"3Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.132031,39.962918,-86.132031,39.962918",
     "geom:latitude":39.962918,
     "geom:longitude":-86.132031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 3rd Ave SW",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087089,
         85891087
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30rFGE71mvLIxZL6JCD1ao_39.962918_-86.132031@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee0c3ed2eb7aad4edcb4872bd47ae21c",
+    "wof:geomhash":"aac702cab65a42014386ef7c303a3ffe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403968173,
-    "wof:lastmodified":1466503259,
+    "wof:lastmodified":1510695201,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85891087,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807013241,
   "type": "Feature",
   "properties": {
+    "addr:full":"9799 Enterprise Dr Indianapolis IN 46280",
+    "addr:housenumber":"9799",
+    "addr:postcode":"46280",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.107903,39.926899,-86.107903,39.926899",
     "geom:latitude":39.926899,
     "geom:longitude":-86.107903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9799 Enterprise Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125154303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gUdjfG9CcniyBcZJRPhGp_39.926899_-86.107903@1303262769"
     },
     "wof:country":"US",
     "wof:created":1462602973,
-    "wof:geomhash":"7a82b290115e1426df1b42b4c2c1d8ed",
+    "wof:geomhash":"e51e22a75ab3decb144f4574cfe66575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807013241,
-    "wof:lastmodified":1466504040,
+    "wof:lastmodified":1510698637,
     "wof:name":"Enterprise Rent-A Car",
     "wof:parent_id":420519795,
     "wof:placetype":"venue",

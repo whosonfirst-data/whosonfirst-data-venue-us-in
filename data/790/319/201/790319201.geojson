@@ -2,9 +2,14 @@
   "id": 790319201,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 E Oak St Griffith IN 46319",
+    "addr:housenumber":"902",
+    "addr:postcode":"46319",
+    "addr:street":"E Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.416767,41.531873,-87.416767,41.531873",
     "geom:latitude":41.531873,
     "geom:longitude":-87.416767,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z5J937zSnZk8aenrAHT1W_41.531873_-87.416767@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462594910,
     "wof:geomhash":"b69eba741d08e4d95b7e1ff29942b3c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790319201
+        }
+    ],
     "wof:id":790319201,
-    "wof:lastmodified":1466507136,
+    "wof:lastmodified":1492094986,
     "wof:name":"Aspen Remodeling",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806487061,
   "type": "Feature",
   "properties": {
+    "addr:full":"3750 E 400 N Knox IN 46534",
+    "addr:housenumber":"3750",
+    "addr:postcode":"46534",
+    "addr:street":"E 400 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.620944,41.360668,-86.620944,41.360668",
     "geom:latitude":41.360668,
     "geom:longitude":-86.620944,
@@ -24,7 +29,13 @@
     "sg:postcode":"46534",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501489,
+        85633793,
+        102087209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_047UMPmliWxylMBP8qQY4x_41.360668_-86.620944@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462598522,
     "wof:geomhash":"7eb516e39d9f5199ac4179e62755c8f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087209,
+            "localadmin_id":404501489,
+            "region_id":85688709,
+            "venue_id":806487061
+        }
+    ],
     "wof:id":806487061,
-    "wof:lastmodified":1466505898,
+    "wof:lastmodified":1492095633,
     "wof:name":"New Creation Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

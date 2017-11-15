@@ -2,9 +2,14 @@
   "id": 320697203,
   "type": "Feature",
   "properties": {
+    "addr:full":"10800 Joliet St St John IN 46373",
+    "addr:housenumber":"10800",
+    "addr:postcode":"46373",
+    "addr:street":"Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.467134,41.446017,-87.467134,41.446017",
     "geom:latitude":41.446017,
     "geom:longitude":-87.467134,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85824159,
+        102191575,
+        404501873,
         85633793,
         85941841,
         102087149,
-        85824159
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"35147a8a84be6c266a65d59f1f0378c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501873,
             "locality_id":85941841,
             "neighbourhood_id":85824159,
             "region_id":85688709,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":320697203,
-    "wof:lastmodified":1466503410,
+    "wof:lastmodified":1492090565,
     "wof:name":"M & D Auto Dealer Supply Inc",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",

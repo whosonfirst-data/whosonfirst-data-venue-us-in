@@ -2,9 +2,14 @@
   "id": 807095831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 E Michigan Ave Morocco IN 47963",
+    "addr:housenumber":"1304",
+    "addr:postcode":"47963",
+    "addr:street":"E Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.43627,40.940684,-87.43627,40.940684",
     "geom:latitude":40.940684,
     "geom:longitude":-87.43627,
@@ -32,7 +37,14 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        85942415,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DjNbdpDGPBw7rtuB2cHO0_40.940684_-87.436270@1303262773"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462603673,
     "wof:geomhash":"0c9e7bacfe0be69e17eaa561990c8a58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "locality_id":85942415,
+            "region_id":85688709,
+            "venue_id":807095831
+        }
+    ],
     "wof:id":807095831,
-    "wof:lastmodified":1466505073,
+    "wof:lastmodified":1492092709,
     "wof:name":"Greenfields Cafe & Bar Dba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

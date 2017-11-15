@@ -2,9 +2,14 @@
   "id": 806580979,
   "type": "Feature",
   "properties": {
+    "addr:full":"2027 W 500 S Morocco IN 47963",
+    "addr:housenumber":"2027",
+    "addr:postcode":"47963",
+    "addr:street":"W 500 S Morocco",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.435155,40.926132,-87.435155,40.926132",
     "geom:latitude":40.926132,
     "geom:longitude":-87.435155,
@@ -24,7 +29,13 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KM6qJwdhmu2kblNjSrG3Y_40.926132_-87.435155@1294102998"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1462599317,
     "wof:geomhash":"c33834b72bf1e3ec386ec3ddc08dc00b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":806580979
+        }
+    ],
     "wof:id":806580979,
-    "wof:lastmodified":1466507160,
+    "wof:lastmodified":1492103072,
     "wof:name":"Harris Building Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

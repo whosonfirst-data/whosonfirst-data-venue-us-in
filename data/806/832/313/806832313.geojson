@@ -2,14 +2,20 @@
   "id": 806832313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 W 3rd St Bloomington IN 47404",
+    "addr:housenumber":"1616",
+    "addr:postcode":"47404",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.553728,39.164404,-86.553728,39.164404",
     "geom:latitude":39.164404,
     "geom:longitude":-86.553728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1616 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086351,
         85688709
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q3fdX5KvoM5MDFjYRkmj1_39.164404_-86.553728@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601442,
-    "wof:geomhash":"78087756a29464fed7e55a2c3c6ea936",
+    "wof:geomhash":"bff48d93e82e24ab8f63fab11b904589",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806832313,
-    "wof:lastmodified":1466515847,
+    "wof:lastmodified":1510696975,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",

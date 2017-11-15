@@ -2,9 +2,14 @@
   "id": 773751407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2120 S 1100 W Francesville IN 47946",
+    "addr:housenumber":"2120",
+    "addr:postcode":"47946",
+    "addr:street":"S 1100 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814887,41.01291,-86.814887,41.01291",
     "geom:latitude":41.01291,
     "geom:longitude":-86.814887,
@@ -28,7 +33,13 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501667,
+        85633793,
+        102086331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rjN0xjyN9FJsTXNd6gnlD_41.012910_-86.814887@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462588106,
     "wof:geomhash":"521344aca9245b356b3f42b303033b24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086331,
+            "localadmin_id":404501667,
+            "region_id":85688709,
+            "venue_id":773751407
+        }
+    ],
     "wof:id":773751407,
-    "wof:lastmodified":1466518295,
+    "wof:lastmodified":1492098245,
     "wof:name":"Leman Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

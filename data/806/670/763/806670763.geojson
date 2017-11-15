@@ -2,9 +2,14 @@
   "id": 806670763,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Lockerbie Dr Valparaiso IN 46385",
+    "addr:housenumber":"17",
+    "addr:postcode":"46385",
+    "addr:street":"Lockerbie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.116521,41.435954,-87.116521,41.435954",
     "geom:latitude":41.435954,
     "geom:longitude":-87.116521,
@@ -28,7 +33,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17eBoXd9Ipmkne9VnUvw1H_41.435954_-87.116521@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462600090,
     "wof:geomhash":"248dd8919f7d02c8531b86c393709c6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806670763
+        }
+    ],
     "wof:id":806670763,
-    "wof:lastmodified":1466509258,
+    "wof:lastmodified":1492092103,
     "wof:name":"Net Shape Cast Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

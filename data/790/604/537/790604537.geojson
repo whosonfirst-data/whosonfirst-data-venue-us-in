@@ -2,14 +2,20 @@
   "id": 790604537,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 N Burkhardt Rd Evansville IN 47715",
+    "addr:housenumber":"311",
+    "addr:postcode":"47715",
+    "addr:street":"N Burkhardt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.473965,37.980107,-87.473965,37.980107",
     "geom:latitude":37.980107,
     "geom:longitude":-87.473965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 N Burkhardt Rd",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087105,
         85688709
     ],
+    "wof:brand_id":420575047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IEgaRczl1HTyQkoq9Fyk5_37.980107_-87.473965@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597259,
-    "wof:geomhash":"4a2837e31428a9fa12b96454fff6ceca",
+    "wof:geomhash":"fd009ecb6bb773ca29235a112c7b9e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790604537,
-    "wof:lastmodified":1466515188,
+    "wof:lastmodified":1510602549,
     "wof:name":"Party City",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",

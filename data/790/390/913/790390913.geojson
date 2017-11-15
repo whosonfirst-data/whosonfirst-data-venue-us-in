@@ -2,9 +2,14 @@
   "id": 790390913,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 W US Hwy 6 Valparaiso IN 46385",
+    "addr:housenumber":"79",
+    "addr:postcode":"46385",
+    "addr:street":"W Us Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.079588,41.550106,-87.079588,41.550106",
     "geom:latitude":41.550106,
     "geom:longitude":-87.079588,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I4LjmC0QsBa4JaIRNOn5R_41.550106_-87.079588@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462595474,
     "wof:geomhash":"970be857cd7afe1b4e1a2324cb2b3dae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519863,
+            "venue_id":790390913
+        }
+    ],
     "wof:id":790390913,
-    "wof:lastmodified":1466507854,
+    "wof:lastmodified":1492097647,
     "wof:name":"Resource Utility Supply Comp",
     "wof:parent_id":420519863,
     "wof:placetype":"venue",

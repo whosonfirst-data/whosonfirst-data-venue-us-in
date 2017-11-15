@@ -2,14 +2,20 @@
   "id": 790243403,
   "type": "Feature",
   "properties": {
+    "addr:full":"5319 W Keller Rd Muncie IN 47304",
+    "addr:housenumber":"5319",
+    "addr:postcode":"47304",
+    "addr:street":"W Keller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.44406,40.215025,-85.44406,40.215025",
     "geom:latitude":40.215025,
     "geom:longitude":-85.44406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5319 W Keller Rd",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087155,
         85803117
     ],
+    "wof:brand_id":1125156513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B38sLJ07xEch6EyHCxW9K_40.215025_-85.444060@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594271,
-    "wof:geomhash":"4e6786054b157ca79cac31ad4ad3314f",
+    "wof:geomhash":"33978679fb0bb37606ddd0a90e63a16e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790243403,
-    "wof:lastmodified":1466506277,
+    "wof:lastmodified":1510694609,
     "wof:name":"Yokohama",
     "wof:parent_id":85803117,
     "wof:placetype":"venue",

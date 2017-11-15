@@ -2,6 +2,10 @@
   "id": 789610541,
   "type": "Feature",
   "properties": {
+    "addr:full":"64036 Co Rd 43 Goshen IN 46528",
+    "addr:housenumber":"64036;43",
+    "addr:postcode":"46528",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789610541,
-    "wof:lastmodified":1466504007,
+    "wof:lastmodified":1472622402,
     "wof:name":"Diamond Design Media Services",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806806931,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 W Market St Indianapolis IN 46204",
+    "addr:housenumber":"135",
+    "addr:postcode":"46204",
+    "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.161131,39.768362,-86.161131,39.768362",
     "geom:latitude":39.768362,
     "geom:longitude":-86.161131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 W Market St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76E7F3C759Gie8dYSOqgUF_39.768362_-86.161131@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601241,
-    "wof:geomhash":"09de6c2f5773bcae444800ba3ca5583e",
+    "wof:geomhash":"475838f31a7c8737086dd5c577670536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806806931,
-    "wof:lastmodified":1466515375,
+    "wof:lastmodified":1510700049,
     "wof:name":"Noble Roman's",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806651331,
   "type": "Feature",
   "properties": {
+    "addr:full":"4686 Arthur St Gary IN 46408",
+    "addr:housenumber":"4686",
+    "addr:postcode":"46408",
+    "addr:street":"Arthur St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.35934,41.534889,-87.35934,41.534889",
     "geom:latitude":41.534889,
     "geom:longitude":-87.35934,
@@ -25,7 +30,10 @@
     "sg:province":"IN",
     "sg:website":"www.starjukeboxes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qmZGk3DKg0QM91QRsD2Q3_41.534889_-87.359340@1294102998"
@@ -33,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1462599918,
     "wof:geomhash":"596c97ab08ff7e72791c5c2c3f648034",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806651331
+        }
+    ],
     "wof:id":806651331,
-    "wof:lastmodified":1466508721,
+    "wof:lastmodified":1492100590,
     "wof:name":"Star Amusements",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

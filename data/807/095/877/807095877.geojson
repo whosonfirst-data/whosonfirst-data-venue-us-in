@@ -2,9 +2,14 @@
   "id": 807095877,
   "type": "Feature",
   "properties": {
+    "addr:full":"2233 W 350 S Morocco IN 47963",
+    "addr:housenumber":"2233",
+    "addr:postcode":"47963",
+    "addr:street":"W 350 S Morocco",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.435612,40.94796,-87.435612,40.94796",
     "geom:latitude":40.94796,
     "geom:longitude":-87.435612,
@@ -29,7 +34,13 @@
     "sg:postcode":"47963",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500269,
+        85633793,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XPcZBu3jKFk9OgcxZqHgJ_40.947960_-87.435612@1303262773"
@@ -37,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1462603674,
     "wof:geomhash":"d82ef954a99306411ca1229c5227277e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404500269,
+            "region_id":85688709,
+            "venue_id":807095877
+        }
+    ],
     "wof:id":807095877,
-    "wof:lastmodified":1466505075,
+    "wof:lastmodified":1492091845,
     "wof:name":"Kathy's Hair & Tanning Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

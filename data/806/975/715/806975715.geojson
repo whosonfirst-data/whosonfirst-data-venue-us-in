@@ -2,14 +2,20 @@
   "id": 806975715,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 S Tibbs Ave Indianapolis IN 46241",
+    "addr:housenumber":"120",
+    "addr:postcode":"46241",
+    "addr:street":"S Tibbs Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.218313,39.761991,-86.218313,39.761991",
     "geom:latitude":39.761991,
     "geom:longitude":-86.218313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 S Tibbs Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125152105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18dUzmCdCw5sLhMMvqZ6cK_39.761991_-86.218313@1303262767"
     },
     "wof:country":"US",
     "wof:created":1462602654,
-    "wof:geomhash":"fa9e2c827acb1000c1fa2c8c4d898875",
+    "wof:geomhash":"ab6462340cb28413c6abd160026a53c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806975715,
-    "wof:lastmodified":1466518878,
+    "wof:lastmodified":1510694958,
     "wof:name":"Relax Inn",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789669805,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 S 450 E Pierceton IN 46562",
+    "addr:housenumber":"380;450 e",
+    "addr:postcode":"46562",
+    "addr:street":"S;Pierceton In",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":789669805,
-    "wof:lastmodified":1466504964,
+    "wof:lastmodified":1472622509,
     "wof:name":"Flying Needle",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",

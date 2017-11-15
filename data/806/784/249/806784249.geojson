@@ -2,14 +2,20 @@
   "id": 806784249,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 Hoffman St Hammond IN 46327",
+    "addr:housenumber":"817",
+    "addr:postcode":"46327",
+    "addr:street":"Hoffman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.50783,41.626553,-87.50783,41.626553",
     "geom:latitude":41.626553,
     "geom:longitude":-87.50783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"817 Hoffman St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087149,
         85688709
     ],
+    "wof:brand_id":1125159977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62UhQ4TlLaSumUsGSrSEeO_41.626596_-87.508555@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601054,
-    "wof:geomhash":"2004422e5b3ae591ef3037284cec69f7",
+    "wof:geomhash":"2ece6deb8447fae103c125fd8fcb66fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806784249,
-    "wof:lastmodified":1466514188,
+    "wof:lastmodified":1510698865,
     "wof:name":"Paul's Barber Shop",
     "wof:parent_id":420519669,
     "wof:placetype":"venue",

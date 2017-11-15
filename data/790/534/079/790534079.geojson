@@ -2,9 +2,14 @@
   "id": 790534079,
   "type": "Feature",
   "properties": {
+    "addr:full":"4450 Cleveland St Gary IN 46408",
+    "addr:housenumber":"4450",
+    "addr:postcode":"46408",
+    "addr:street":"Cleveland St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.360569,41.537854,-87.360569,41.537854",
     "geom:latitude":41.537854,
     "geom:longitude":-87.360569,
@@ -24,7 +29,10 @@
     "sg:postcode":"46408",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UCD28hkfgM1ZHVLl9srVi_41.537854_-87.360569@1294102998"
@@ -32,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1462596655,
     "wof:geomhash":"a852e6ff04bcb1da501854d94e4748fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":790534079
+        }
+    ],
     "wof:id":790534079,
-    "wof:lastmodified":1466512901,
+    "wof:lastmodified":1492102375,
     "wof:name":"In The Wind",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

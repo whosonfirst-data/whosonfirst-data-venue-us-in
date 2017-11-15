@@ -2,14 +2,20 @@
   "id": 773192671,
   "type": "Feature",
   "properties": {
+    "addr:full":"3850 W 3rd St Bloomington IN 47404",
+    "addr:housenumber":"3850",
+    "addr:postcode":"47404",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.581607,39.164716,-86.581607,39.164716",
     "geom:latitude":39.164716,
     "geom:longitude":-86.581607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3850 W 3rd St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086351,
         85830319
     ],
+    "wof:brand_id":420575095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QQJcoY8ZHBkbPpEEt0rvS_39.164716_-86.581607@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583870,
-    "wof:geomhash":"206a1547e612b69ca8e229c66734cc04",
+    "wof:geomhash":"82e8487c4065fd8adc4433e6cdf8ee8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773192671,
-    "wof:lastmodified":1466506253,
+    "wof:lastmodified":1510607572,
     "wof:name":"Labor Ready Inc",
     "wof:parent_id":85830319,
     "wof:placetype":"venue",

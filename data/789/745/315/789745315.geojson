@@ -2,6 +2,10 @@
   "id": 789745315,
   "type": "Feature",
   "properties": {
+    "addr:full":"64560 Co Rd 13 Goshen IN 46526",
+    "addr:housenumber":"13",
+    "addr:postcode":"64560;46526",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789745315,
-    "wof:lastmodified":1466505932,
+    "wof:lastmodified":1472622587,
     "wof:name":"Tm Group Inc",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

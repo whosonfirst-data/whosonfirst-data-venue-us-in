@@ -2,9 +2,14 @@
   "id": 404106817,
   "type": "Feature",
   "properties": {
+    "addr:full":"4464 Grant St Gary IN 46408",
+    "addr:housenumber":"4464",
+    "addr:postcode":"46408",
+    "addr:street":"Grant St Gary",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.355756,41.538071,-87.355756,41.538071",
     "geom:latitude":41.538071,
     "geom:longitude":-87.355756,
@@ -26,7 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688709
+        420519685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +41,15 @@
     "wof:geomhash":"a293337af0c18a56f68564af8fcd3fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688709,
+            "neighbourhood_id":420519685,
             "venue_id":404106817
         }
     ],
     "wof:id":404106817,
-    "wof:lastmodified":1466503034,
+    "wof:lastmodified":1492094626,
     "wof:name":"Greater Canaan Day Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

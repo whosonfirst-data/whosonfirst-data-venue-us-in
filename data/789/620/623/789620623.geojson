@@ -2,6 +2,10 @@
   "id": 789620623,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Smith Rd Fort Wayne IN 46804",
+    "addr:housenumber":"3210",
+    "addr:postcode":"46804",
+    "addr:street":"Smith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789620623,
-    "wof:lastmodified":1466504302,
+    "wof:lastmodified":1472622442,
     "wof:name":"Canterbury School Office",
     "wof:parent_id":420519437,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320031051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1416 Buffalo St Michigan City IN 46360",
+    "addr:housenumber":"1416",
+    "addr:postcode":"46360",
+    "addr:street":"Buffalo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.901682,41.707496,-86.901682,41.707496",
     "geom:latitude":41.707496,
     "geom:longitude":-86.901682,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        420519711,
+        102191575,
+        404501783,
         85633793,
         85941911,
-        102086409
+        102086409,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"12b7b710993026e116c2a9eb26b09a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086409,
+            "localadmin_id":404501783,
             "locality_id":85941911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420519711,
             "region_id":85688709,
             "venue_id":320031051
         }
     ],
     "wof:id":320031051,
-    "wof:lastmodified":1466503667,
+    "wof:lastmodified":1492095907,
     "wof:name":"Birthright Of Michigan City",
-    "wof:parent_id":-1,
+    "wof:parent_id":420519711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

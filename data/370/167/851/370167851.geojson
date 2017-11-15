@@ -2,9 +2,14 @@
   "id": 370167851,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 E Emmet Ave Rensselaer IN 47978",
+    "addr:housenumber":"701",
+    "addr:postcode":"47978",
+    "addr:street":"E Emmet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.141763,40.928959,-87.141763,40.928959",
     "geom:latitude":40.928959,
     "geom:longitude":-87.141763,
@@ -32,6 +37,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688709,
+        102191575,
+        404501003,
         85633793,
         85941697,
         102087005
@@ -44,17 +51,17 @@
     "wof:geomhash":"0b1e86340c4e14427a843c2c61849196",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087005,
+            "localadmin_id":404501003,
             "locality_id":85941697,
-            "neighbourhood_id":-1,
             "region_id":85688709,
             "venue_id":370167851
         }
     ],
     "wof:id":370167851,
-    "wof:lastmodified":1466502903,
+    "wof:lastmodified":1492095697,
     "wof:name":"Material Service Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

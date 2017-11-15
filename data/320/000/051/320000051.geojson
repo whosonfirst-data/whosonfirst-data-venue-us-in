@@ -2,9 +2,14 @@
   "id": 320000051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Main St Indianapolis IN 46224",
+    "addr:housenumber":"1500",
+    "addr:postcode":"46224",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.24107,39.787408,-86.24107,39.787408",
     "geom:latitude":39.787408,
     "geom:longitude":-86.24107,
@@ -25,11 +30,13 @@
     "sg:province":"IN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85831765,
+        102191575,
+        404501901,
         85633793,
-        85942569,
+        85942555,
         102087201,
-        85831765
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2463b4f4951debe84b332d12d15561cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087201,
-            "locality_id":85942569,
+            "localadmin_id":404501901,
+            "locality_id":85942555,
             "neighbourhood_id":85831765,
             "region_id":85688709,
             "venue_id":320000051
         }
     ],
     "wof:id":320000051,
-    "wof:lastmodified":1466503816,
+    "wof:lastmodified":1491913589,
     "wof:name":"Bob's TU Your Door Pizza",
     "wof:parent_id":85831765,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806439445,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 S State Rd 135 Greenwood IN 46142",
+    "addr:housenumber":"331;135",
+    "addr:postcode":"46142",
+    "addr:street":"S State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806439445,
-    "wof:lastmodified":1466505300,
+    "wof:lastmodified":1472622406,
     "wof:name":"Thrifty Car Rental",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",

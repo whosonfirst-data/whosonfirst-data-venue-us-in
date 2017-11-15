@@ -2,14 +2,20 @@
   "id": 404101767,
   "type": "Feature",
   "properties": {
+    "addr:full":"6445 Indianapolis Blvd Hammond IN 46320",
+    "addr:housenumber":"6445",
+    "addr:postcode":"46320",
+    "addr:street":"Indianapolis Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.480851,41.595928,-87.480851,41.595928",
     "geom:latitude":41.595928,
     "geom:longitude":-87.480851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6445 Indianapolis Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -31,23 +37,27 @@
     "sg:website":"www.graybar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891109,
+        102191575,
+        404501869,
         85633793,
         85941817,
         102087149,
-        85891109
+        85688709
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OxqYppzMYTP9h10k30I8C_41.595928_-87.480851@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fe463ccc21adc35b38a852b1be5dea7",
+    "wof:geomhash":"1a63f56450c8099c0ee1e08b7dfea5b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087149,
+            "localadmin_id":404501869,
             "locality_id":85941817,
             "neighbourhood_id":85891109,
             "region_id":85688709,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":404101767,
-    "wof:lastmodified":1466503027,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85891109,
     "wof:placetype":"venue",

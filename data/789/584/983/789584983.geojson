@@ -2,6 +2,10 @@
   "id": 789584983,
   "type": "Feature",
   "properties": {
+    "addr:full":"69617 Co Rd 15 New Paris IN 46553",
+    "addr:housenumber":"69617;15",
+    "addr:postcode":"in 46553",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789584983,
-    "wof:lastmodified":1466503326,
+    "wof:lastmodified":1472622270,
     "wof:name":"Hoosierland Excavating",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

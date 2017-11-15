@@ -2,9 +2,14 @@
   "id": 807043543,
   "type": "Feature",
   "properties": {
+    "addr:full":"17646 Morse St Lowell IN 46356",
+    "addr:housenumber":"17646",
+    "addr:postcode":"46356",
+    "addr:street":"Morse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.420779,41.305107,-87.420779,41.305107",
     "geom:latitude":41.305107,
     "geom:longitude":-87.420779,
@@ -27,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gUy2OnvNvGV6IwlMn5OMF_41.305107_-87.420779@1303262771"
@@ -35,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1462603240,
     "wof:geomhash":"75b75d1015e1105344cabc306e78036e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "region_id":85688709,
+            "venue_id":807043543
+        }
+    ],
     "wof:id":807043543,
-    "wof:lastmodified":1466503956,
+    "wof:lastmodified":1492093709,
     "wof:name":"Evenhouse Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

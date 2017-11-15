@@ -2,9 +2,14 @@
   "id": 790476901,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 W 133rd Ave Cedar Lake IN 46303",
+    "addr:housenumber":"6800",
+    "addr:postcode":"46303",
+    "addr:street":"W 133Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.421537,41.377155,-87.421537,41.377155",
     "geom:latitude":41.377155,
     "geom:longitude":-87.421537,
@@ -27,7 +32,14 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501865,
+        85633793,
+        85941785,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F4q6Qb2EoTPq2NBK4PEYU_41.377155_-87.421537@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596165,
     "wof:geomhash":"8b655a8c99030ac5fa53d1f5165071ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501865,
+            "locality_id":85941785,
+            "region_id":85688709,
+            "venue_id":790476901
+        }
+    ],
     "wof:id":790476901,
-    "wof:lastmodified":1466511141,
+    "wof:lastmodified":1492101870,
     "wof:name":"Babcock Fuels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

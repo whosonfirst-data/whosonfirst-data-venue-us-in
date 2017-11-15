@@ -2,14 +2,20 @@
   "id": 806663771,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 N Mulberry St Muncie IN 47305",
+    "addr:housenumber":"117",
+    "addr:postcode":"47305",
+    "addr:street":"N Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.385447,40.194389,-85.385447,40.194389",
     "geom:latitude":40.194389,
     "geom:longitude":-85.385447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 N Mulberry St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087155,
         85688709
     ],
+    "wof:brand_id":1125155305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sVMf0POXaDNjgGV6FgBlR_40.194389_-85.385447@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462600031,
-    "wof:geomhash":"6f26981151d7535b475d67df2ed7e19b",
+    "wof:geomhash":"15258bf72b48135e1e7bb1c9ded5e704",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806663771,
-    "wof:lastmodified":1466509633,
+    "wof:lastmodified":1510699916,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",

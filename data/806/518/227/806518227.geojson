@@ -2,9 +2,14 @@
   "id": 806518227,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 W 100 S Valparaiso IN 46385",
+    "addr:housenumber":"216",
+    "addr:postcode":"46385",
+    "addr:street":"W 100 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.105908,41.420473,-87.105908,41.420473",
     "geom:latitude":41.420473,
     "geom:longitude":-87.105908,
@@ -29,7 +34,10 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tLgx6eo5qKVe3iCcf14PB_41.420473_-87.105908@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462598777,
     "wof:geomhash":"f9f7d4944b3fabcad67ce4b486cad213",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806518227
+        }
+    ],
     "wof:id":806518227,
-    "wof:lastmodified":1466506181,
+    "wof:lastmodified":1492093277,
     "wof:name":"Garden Of Knowledge Pre-School",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

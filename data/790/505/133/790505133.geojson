@@ -2,14 +2,20 @@
   "id": 790505133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 S 18th St Lafayette IN 47905",
+    "addr:housenumber":"1107",
+    "addr:postcode":"47905",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876759,40.405545,-86.876759,40.405545",
     "geom:latitude":40.405545,
     "geom:longitude":-86.876759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1107 S 18th St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85817137
     ],
+    "wof:brand_id":1125154109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DBL4quhf7I2FFr1cMdVgC_40.405545_-86.876759@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462596413,
-    "wof:geomhash":"59fe48c8dde453ef75ec59f567e6e802",
+    "wof:geomhash":"e212d788126ed6373be9a96123d55a06",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790505133,
-    "wof:lastmodified":1466512299,
+    "wof:lastmodified":1510694939,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":85817137,
     "wof:placetype":"venue",

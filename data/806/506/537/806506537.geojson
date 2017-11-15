@@ -2,9 +2,14 @@
   "id": 806506537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3855 Broadway Gary IN 46409",
+    "addr:housenumber":"3855",
+    "addr:postcode":"46409",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.336415,41.548815,-87.336415,41.548815",
     "geom:latitude":41.548815,
     "geom:longitude":-87.336415,
@@ -28,7 +33,10 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07pCs9bhwwjFeErejh2Xeo_41.548815_-87.336415@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462598684,
     "wof:geomhash":"8ed99f132f729b69ce77e88f16831608",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806506537
+        }
+    ],
     "wof:id":806506537,
-    "wof:lastmodified":1466506114,
+    "wof:lastmodified":1492104010,
     "wof:name":"Community Service Ctr",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

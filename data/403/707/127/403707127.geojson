@@ -2,9 +2,14 @@
   "id": 403707127,
   "type": "Feature",
   "properties": {
+    "addr:full":"10011 W US Hwy 30 Wanatah IN 46390",
+    "addr:housenumber":"10011",
+    "addr:postcode":"46390",
+    "addr:street":"W Us Hwy 30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.89353,41.434187,-86.89353,41.434187",
     "geom:latitude":41.434187,
     "geom:longitude":-86.89353,
@@ -39,7 +44,6 @@
     "wof:geomhash":"5b477b0e8944b140c7d71d627b893fa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086409,
             "locality_id":85941911,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":403707127,
-    "wof:lastmodified":1466502889,
+    "wof:lastmodified":1492104340,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85891173,
     "wof:placetype":"venue",

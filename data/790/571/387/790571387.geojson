@@ -2,9 +2,14 @@
   "id": 790571387,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Cloud St Michigan City IN 46360",
+    "addr:housenumber":"228",
+    "addr:postcode":"46360",
+    "addr:street":"Cloud St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883195,41.708819,-86.883195,41.708819",
     "geom:latitude":41.708819,
     "geom:longitude":-86.883195,
@@ -27,7 +32,14 @@
         "cosmetologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501783,
+        85633793,
+        85941911,
+        102086409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVU0mDsqWSVHoCHZCQXfS_41.708819_-86.883195@1294102998"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462596971,
     "wof:geomhash":"79bfab0b3389140d0f53cb93c3fba9d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086409,
+            "localadmin_id":404501783,
+            "locality_id":85941911,
+            "region_id":85688709,
+            "venue_id":790571387
+        }
+    ],
     "wof:id":790571387,
-    "wof:lastmodified":1466514421,
+    "wof:lastmodified":1492093839,
     "wof:name":"Ginger S Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806671649,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 S 200 W Valparaiso IN 46385",
+    "addr:housenumber":"95;200",
+    "addr:postcode":"46385",
+    "addr:street":"S;W Valparaiso",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.104401,41.421086,-87.104401,41.421086",
     "geom:latitude":41.421086,
     "geom:longitude":-87.104401,
@@ -27,7 +32,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xEnhnCmdRSrguqewLvkHl_41.421086_-87.104401@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462600097,
     "wof:geomhash":"f6bbfb85a15c0bff3ed60b64e266cfa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519837,
+            "venue_id":806671649
+        }
+    ],
     "wof:id":806671649,
-    "wof:lastmodified":1466509318,
+    "wof:lastmodified":1492101017,
     "wof:name":"CJH Freight Svc Inc",
     "wof:parent_id":420519837,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807049597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 W 41st Ave Gary IN 46408",
+    "addr:housenumber":"3120",
+    "addr:postcode":"46408",
+    "addr:street":"W 41St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.375312,41.544339,-87.375312,41.544339",
     "geom:latitude":41.544339,
     "geom:longitude":-87.375312,
@@ -30,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fK3nfiuNHoQpLpBZHQuii_41.544339_-87.375312@1303262771"
@@ -38,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1462603284,
     "wof:geomhash":"bf1f9273eb04ab86117ee29b680d82dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":807049597
+        }
+    ],
     "wof:id":807049597,
-    "wof:lastmodified":1466504189,
+    "wof:lastmodified":1492093642,
     "wof:name":"Bud's Painting",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

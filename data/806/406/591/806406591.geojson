@@ -2,14 +2,20 @@
   "id": 806406591,
   "type": "Feature",
   "properties": {
+    "addr:full":"6341 Mann Rd Indianapolis IN 46221",
+    "addr:housenumber":"6341",
+    "addr:postcode":"46221",
+    "addr:street":"Mann Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.246813,39.676356,-86.246813,39.676356",
     "geom:latitude":39.676356,
     "geom:longitude":-86.246813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6341 Mann Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JhIihT4P3RJFxaSOpW9At_39.676356_-86.246813@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597886,
-    "wof:geomhash":"d638b05355fabd3658755ac5109cad7e",
+    "wof:geomhash":"0d48f08309ab79f21ad2b03e6abcd021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806406591,
-    "wof:lastmodified":1466504790,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85865505,
     "wof:placetype":"venue",

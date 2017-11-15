@@ -2,9 +2,14 @@
   "id": 773571837,
   "type": "Feature",
   "properties": {
+    "addr:full":"3655 N Rhine Trl Laporte IN 46350",
+    "addr:housenumber":"3655",
+    "addr:postcode":"46350",
+    "addr:street":"N Rhine Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797354,41.660433,-86.797354,41.660433",
     "geom:latitude":41.660433,
     "geom:longitude":-86.797354,
@@ -28,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RRajokCUjjohgqgIjGnte_41.660433_-86.797354@1294102998"
@@ -36,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1462586736,
     "wof:geomhash":"5bf227fa2f09f453dc8ab559813437e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519723,
+            "venue_id":773571837
+        }
+    ],
     "wof:id":773571837,
-    "wof:lastmodified":1466515244,
+    "wof:lastmodified":1492098656,
     "wof:name":"Contemporary Builders",
     "wof:parent_id":420519723,
     "wof:placetype":"venue",

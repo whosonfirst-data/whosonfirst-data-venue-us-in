@@ -2,14 +2,20 @@
   "id": 806546761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2308 Concord Rd Lafayette IN 47909",
+    "addr:housenumber":"2308",
+    "addr:postcode":"47909",
+    "addr:street":"Concord Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.857469,40.394027,-86.857469,40.394027",
     "geom:latitude":40.394027,
     "geom:longitude":-86.857469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2308 Concord Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087121,
         85851899
     ],
+    "wof:brand_id":1125157439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mwHyvH7eBuRyFW4SxfCpp_40.394027_-86.857469@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599010,
-    "wof:geomhash":"497bbc0939b839eb891399d7f5636c94",
+    "wof:geomhash":"64b941a8fb6f6f2755f99f8b88ebaa0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806546761,
-    "wof:lastmodified":1466506805,
+    "wof:lastmodified":1510695917,
     "wof:name":"MAB Paint Store",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",

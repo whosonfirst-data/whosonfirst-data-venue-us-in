@@ -2,14 +2,20 @@
   "id": 806459479,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 E Walnut St Corydon IN 47112",
+    "addr:housenumber":"110",
+    "addr:postcode":"47112",
+    "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.125355,38.212304,-86.125355,38.212304",
     "geom:latitude":38.212304,
     "geom:longitude":-86.125355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 E Walnut St",
     "sg:city":"Corydon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087165,
         85824097
     ],
+    "wof:brand_id":1125154003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ww7Ridh2OkLJEuwdDS2tA_38.212304_-86.125355@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598309,
-    "wof:geomhash":"2434b9077cea34b387ce12246027ce47",
+    "wof:geomhash":"55a5bfa363cb184bff1ac11937efe0c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806459479,
-    "wof:lastmodified":1466505539,
+    "wof:lastmodified":1510695152,
     "wof:name":"Star Cleaners",
     "wof:parent_id":85824097,
     "wof:placetype":"venue",

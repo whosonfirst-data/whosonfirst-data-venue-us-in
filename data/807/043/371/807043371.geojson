@@ -2,9 +2,14 @@
   "id": 807043371,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 Mocking Bird Ln Lowell IN 46356",
+    "addr:housenumber":"404",
+    "addr:postcode":"46356",
+    "addr:street":"Mocking Bird Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.403544,41.286379,-87.403544,41.286379",
     "geom:latitude":41.286379,
     "geom:longitude":-87.403544,
@@ -51,7 +56,14 @@
     ],
     "sg:website":"http://www.unitedstarter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501861,
+        85633793,
+        85941827,
+        102087149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xv81KGpKf36VqdLuOXgjw_41.286379_-87.403544@1303262771"
@@ -59,9 +71,19 @@
     "wof:country":"US",
     "wof:created":1462603238,
     "wof:geomhash":"49564c82b686900d552154bbcb474507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087149,
+            "localadmin_id":404501861,
+            "locality_id":85941827,
+            "region_id":85688709,
+            "venue_id":807043371
+        }
+    ],
     "wof:id":807043371,
-    "wof:lastmodified":1466503948,
+    "wof:lastmodified":1492093601,
     "wof:name":"United Starter & Alternator LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

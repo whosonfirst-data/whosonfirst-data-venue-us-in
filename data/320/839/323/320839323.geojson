@@ -2,14 +2,20 @@
   "id": 320839323,
   "type": "Feature",
   "properties": {
+    "addr:full":"2109 Scatterfield Rd Anderson IN 46016",
+    "addr:housenumber":"2109",
+    "addr:postcode":"46016",
+    "addr:street":"Scatterfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652745,40.094127,-85.652745,40.094127",
     "geom:latitude":40.094127,
     "geom:longitude":-85.652745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2109 Scatterfield Rd",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086407,
         85827053
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ajFQYnreU7LBsuH2H4qNv_40.094127_-85.652745@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f110c3c0a34b12df02acdbcee0bcd80b",
+    "wof:geomhash":"218085c29b512e401e82a0f26cb12560",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":320839323,
-    "wof:lastmodified":1466503544,
+    "wof:lastmodified":1510694919,
     "wof:name":"Master Cuts",
     "wof:parent_id":85827053,
     "wof:placetype":"venue",

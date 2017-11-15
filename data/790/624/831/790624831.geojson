@@ -2,14 +2,20 @@
   "id": 790624831,
   "type": "Feature",
   "properties": {
+    "addr:full":"9707 E Washington St Indianapolis IN 46229",
+    "addr:housenumber":"9707",
+    "addr:postcode":"46229",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.992939,39.774642,-85.992939,39.774642",
     "geom:latitude":39.774642,
     "geom:longitude":-85.992939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9707 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":1125157751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nSIehYyxPzSrEFoycYBhh_39.774642_-85.992939@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597459,
-    "wof:geomhash":"5524b38be5a8ffdd1fb1c25969db2428",
+    "wof:geomhash":"3f1d5136b8caec7f5c49826748dc602d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790624831,
-    "wof:lastmodified":1466516058,
+    "wof:lastmodified":1510695827,
     "wof:name":"Viking Sewing Gallery",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",

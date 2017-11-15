@@ -2,14 +2,20 @@
   "id": 790596121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 N Mineral Springs Rd Chesterton IN 46304",
+    "addr:housenumber":"1100",
+    "addr:postcode":"46304",
+    "addr:street":"N Mineral Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.086767,41.629626,-87.086767,41.629626",
     "geom:latitude":41.629626,
     "geom:longitude":-87.086767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 N Mineral Springs Rd",
     "sg:city":"Chesterton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087191,
         85688709
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ohdExahltyvYoENYqlFRy_41.629626_-87.086767@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597179,
-    "wof:geomhash":"186cfdae3dfd391c933a829ee5f1b10d",
+    "wof:geomhash":"d77721ac8f2fcab67122e6de0c1fce71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790596121,
-    "wof:lastmodified":1466515176,
+    "wof:lastmodified":1510695073,
     "wof:name":"National Park Svc",
     "wof:parent_id":85815411,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806597625,
   "type": "Feature",
   "properties": {
+    "addr:full":"7801 Broadview Dr Indianapolis IN 46227",
+    "addr:housenumber":"7801",
+    "addr:postcode":"46227",
+    "addr:street":"Broadview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.106799,39.653599,-86.106799,39.653599",
     "geom:latitude":39.653599,
     "geom:longitude":-86.106799,
@@ -24,7 +29,15 @@
     "sg:postcode":"46227",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85870681,
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vLmqJZM8JnPb1897OSw9s_39.653599_-86.106799@1294102998"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462599468,
     "wof:geomhash":"8bae51a1d05139f1ed6303de58408c3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":85870681,
+            "region_id":85688709,
+            "venue_id":806597625
+        }
+    ],
     "wof:id":806597625,
-    "wof:lastmodified":1466507249,
+    "wof:lastmodified":1491933154,
     "wof:name":"Bowling Company Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],

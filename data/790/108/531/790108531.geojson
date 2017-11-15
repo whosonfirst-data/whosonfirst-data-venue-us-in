@@ -2,14 +2,20 @@
   "id": 790108531,
   "type": "Feature",
   "properties": {
+    "addr:full":"4110 E New York St Indianapolis IN 46201",
+    "addr:housenumber":"4110",
+    "addr:postcode":"46201",
+    "addr:street":"E New York St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.096294,39.772203,-86.096294,39.772203",
     "geom:latitude":39.772203,
     "geom:longitude":-86.096294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4110 E New York St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087201,
         85688709
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rmd8Nf2FPbzmZrc78M14C_39.772203_-86.096294@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593209,
-    "wof:geomhash":"c7dd6d63de9c8ec0e48844d865471d33",
+    "wof:geomhash":"f1cc4128ff2b55764f31a597a3bc25b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790108531,
-    "wof:lastmodified":1466504969,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85870663,
     "wof:placetype":"venue",

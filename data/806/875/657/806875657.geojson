@@ -2,14 +2,20 @@
   "id": 806875657,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Logan St Noblesville IN 46060",
+    "addr:housenumber":"174",
+    "addr:postcode":"46060",
+    "addr:street":"Logan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.02445,40.049327,-86.02445,40.049327",
     "geom:latitude":40.049327,
     "geom:longitude":-86.02445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 Logan St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087089,
         85688709
     ],
+    "wof:brand_id":1125151187,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BhaYao357Do6LzHr3J2Pk_40.049327_-86.024450@1303262761"
     },
     "wof:country":"US",
     "wof:created":1462601817,
-    "wof:geomhash":"21f951d8e57fad7dd27cd90c205aa5ee",
+    "wof:geomhash":"41044c78a39d3919664240361b9dbe1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806875657,
-    "wof:lastmodified":1466516724,
+    "wof:lastmodified":1510697189,
     "wof:name":"Nail Art",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",

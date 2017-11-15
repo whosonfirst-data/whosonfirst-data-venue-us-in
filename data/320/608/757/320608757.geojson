@@ -2,9 +2,14 @@
   "id": 320608757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Locust St Valparaiso IN 46383",
+    "addr:housenumber":"1002",
+    "addr:postcode":"46383",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.054198,41.461945,-87.054198,41.461945",
     "geom:latitude":41.461945,
     "geom:longitude":-87.054198,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688709,
+        85891197,
+        102191575,
+        404501707,
         85633793,
         85942401,
         102087191,
-        85891197
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"bfda898cb73ded35b2a37e3d9236a1cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087191,
+            "localadmin_id":404501707,
             "locality_id":85942401,
             "neighbourhood_id":85891197,
             "region_id":85688709,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":320608757,
-    "wof:lastmodified":1466503310,
+    "wof:lastmodified":1492095859,
     "wof:name":"R & P Restaurant Svc",
     "wof:parent_id":85891197,
     "wof:placetype":"venue",

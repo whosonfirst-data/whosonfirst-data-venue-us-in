@@ -2,6 +2,10 @@
   "id": 773382331,
   "type": "Feature",
   "properties": {
+    "addr:full":"59029 Co Rd 35 Middlebury IN 46540",
+    "addr:housenumber":"59029;35",
+    "addr:postcode":"46540",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773382331,
-    "wof:lastmodified":1466509861,
+    "wof:lastmodified":1472623105,
     "wof:name":"Hochstetler Laban",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

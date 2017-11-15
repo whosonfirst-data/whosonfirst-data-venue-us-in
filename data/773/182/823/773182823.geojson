@@ -2,14 +2,20 @@
   "id": 773182823,
   "type": "Feature",
   "properties": {
+    "addr:full":"15114 Hidden Oaks Run Huntertown IN 46748",
+    "addr:housenumber":"15114",
+    "addr:postcode":"46748",
+    "addr:street":"Hidden Oaks Run Huntertown",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.159735,41.224482,-85.159735,41.224482",
     "geom:latitude":41.224482,
     "geom:longitude":-85.159735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15114 Hidden Oaks Run",
     "sg:city":"Huntertown",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087177,
         85688709
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I2ndngrT8nr3tFBRvMwR1_41.224482_-85.159735@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583773,
-    "wof:geomhash":"c7ef1a57cc0fb1a74ca6ecd22d91f261",
+    "wof:geomhash":"530957d82145ffb3535f51d18561e803",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773182823,
-    "wof:lastmodified":1466506150,
+    "wof:lastmodified":1510698809,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":85877563,
     "wof:placetype":"venue",

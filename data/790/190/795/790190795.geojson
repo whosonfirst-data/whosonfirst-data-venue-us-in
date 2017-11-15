@@ -2,9 +2,14 @@
   "id": 790190795,
   "type": "Feature",
   "properties": {
+    "addr:full":"398 Wessex Rd Valparaiso IN 46385",
+    "addr:housenumber":"398",
+    "addr:postcode":"46385",
+    "addr:street":"Wessex Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.147083,41.46033,-87.147083,41.46033",
     "geom:latitude":41.46033,
     "geom:longitude":-87.147083,
@@ -24,7 +29,15 @@
     "sg:postcode":"46385",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420519847,
+        102191575,
+        404501721,
+        85633793,
+        85942805,
+        102087191,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uux6FchlsrUHU2acTMJlR_41.460330_-87.147083@1294102998"
@@ -32,9 +45,20 @@
     "wof:country":"US",
     "wof:created":1462593859,
     "wof:geomhash":"34b185539ef38d8449b74ae828ccd100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501721,
+            "locality_id":85942805,
+            "neighbourhood_id":420519847,
+            "region_id":85688709,
+            "venue_id":790190795
+        }
+    ],
     "wof:id":790190795,
-    "wof:lastmodified":1466505701,
+    "wof:lastmodified":1492094721,
     "wof:name":"Media Resource",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",

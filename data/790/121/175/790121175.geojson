@@ -2,14 +2,20 @@
   "id": 790121175,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 S Center St Plainfield IN 46168",
+    "addr:housenumber":"430",
+    "addr:postcode":"46168",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.401417,39.699501,-86.401417,39.699501",
     "geom:latitude":39.699501,
     "geom:longitude":-86.401417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 S Center St",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086423,
         85688709
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uNhfRnw1YbJCof8m1pp7R_39.699501_-86.401417@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593298,
-    "wof:geomhash":"4497d483605fa2d9ebbfcb71f5bd2cf4",
+    "wof:geomhash":"f3039141fa9b54bbabe61629ab30bc08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790121175,
-    "wof:lastmodified":1466504982,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",

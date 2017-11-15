@@ -2,9 +2,14 @@
   "id": 790188839,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 W Jackson St Hebron IN 46341",
+    "addr:housenumber":"302",
+    "addr:postcode":"46341",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.201975,41.315718,-87.201975,41.315718",
     "geom:latitude":41.315718,
     "geom:longitude":-87.201975,
@@ -28,7 +33,14 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501653,
+        85633793,
+        85942381,
+        102087191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c4LfMQc1KgTOItUwgH4hn_41.315718_-87.201975@1294102998"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462593846,
     "wof:geomhash":"f268e942b706043cab42b2b755b6fcd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087191,
+            "localadmin_id":404501653,
+            "locality_id":85942381,
+            "region_id":85688709,
+            "venue_id":790188839
+        }
+    ],
     "wof:id":790188839,
-    "wof:lastmodified":1466505661,
+    "wof:lastmodified":1492093701,
     "wof:name":"Arkay TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

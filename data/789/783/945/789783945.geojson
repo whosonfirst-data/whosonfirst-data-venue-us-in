@@ -2,6 +2,10 @@
   "id": 789783945,
   "type": "Feature",
   "properties": {
+    "addr:full":"71750 Co Rd 33 Syracuse IN 46567",
+    "addr:housenumber":"71750;33",
+    "addr:postcode":"46567",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789783945,
-    "wof:lastmodified":1466506311,
+    "wof:lastmodified":1472622631,
     "wof:name":"Extreme Green Lawn & Landscape",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",

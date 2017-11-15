@@ -2,9 +2,14 @@
   "id": 807095613,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 S Newton St Goodland IN 47948",
+    "addr:housenumber":"214",
+    "addr:postcode":"47948",
+    "addr:street":"S Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293549,40.762826,-87.293549,40.762826",
     "geom:latitude":40.762826,
     "geom:longitude":-87.293549,
@@ -24,7 +29,14 @@
     "sg:postcode":"47948",
     "sg:province":"IN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501335,
+        85633793,
+        85942393,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cl3funkWIfRhbBfEkKDjX_40.762826_-87.293549@1303262773"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462603671,
     "wof:geomhash":"e0692ead2cc4a370ad1e5acec886142e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501335,
+            "locality_id":85942393,
+            "region_id":85688709,
+            "venue_id":807095613
+        }
+    ],
     "wof:id":807095613,
-    "wof:lastmodified":1466505172,
+    "wof:lastmodified":1492095084,
     "wof:name":"Anne's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

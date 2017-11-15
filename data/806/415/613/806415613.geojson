@@ -2,9 +2,14 @@
   "id": 806415613,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 W 64th Pl Merrillville IN 46410",
+    "addr:housenumber":"2107",
+    "addr:postcode":"46410",
+    "addr:street":"W 64Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.365015,41.500427,-87.365015,41.500427",
     "geom:latitude":41.500427,
     "geom:longitude":-87.365015,
@@ -29,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519685
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RJHLfE2ZrnjTDYayiJ8Dg_41.500427_-87.365015@1294102998"
@@ -37,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1462597978,
     "wof:geomhash":"f7db75394cabd94c93fab3c0cd475d1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519685,
+            "venue_id":806415613
+        }
+    ],
     "wof:id":806415613,
-    "wof:lastmodified":1466504853,
+    "wof:lastmodified":1492092137,
     "wof:name":"David J Perkins Inc",
     "wof:parent_id":420519685,
     "wof:placetype":"venue",

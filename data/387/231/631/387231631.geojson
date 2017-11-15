@@ -2,14 +2,20 @@
   "id": 387231631,
   "type": "Feature",
   "properties": {
+    "addr:full":"5320 Illinois Rd Fort Wayne IN 46804",
+    "addr:housenumber":"5320",
+    "addr:postcode":"46804",
+    "addr:street":"Illinois Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.207137,41.074556,-85.207137,41.074556",
     "geom:latitude":41.074556,
     "geom:longitude":-85.207137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5320 Illinois Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85942149,
         102087177
     ],
+    "wof:brand_id":1125151901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DaaPq0yacGuSWQiAeuXiq_41.074556_-85.207137@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbb25218b6fa251b3b91b0653394a950",
+    "wof:geomhash":"729626f390845a935a7767fbaa5cc2a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387231631,
-    "wof:lastmodified":1466503209,
+    "wof:lastmodified":1510697317,
     "wof:name":"Mattress Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

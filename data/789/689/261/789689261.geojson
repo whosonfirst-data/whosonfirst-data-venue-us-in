@@ -2,9 +2,14 @@
   "id": 789689261,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Norfolk Rd Valparaiso IN 46385",
+    "addr:housenumber":"425",
+    "addr:postcode":"46385",
+    "addr:street":"Norfolk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.146543,41.524369,-87.146543,41.524369",
     "geom:latitude":41.524369,
     "geom:longitude":-87.146543,
@@ -27,7 +32,10 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18I6cEgqaWTNdrpWJJjHHe_41.524369_-87.146543@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462589772,
     "wof:geomhash":"91fee32812c04f4a247eba661b908769",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":789689261
+        }
+    ],
     "wof:id":789689261,
-    "wof:lastmodified":1466505281,
+    "wof:lastmodified":1492094628,
     "wof:name":"Kathys Tax & Financial Svcs",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807020597,
   "type": "Feature",
   "properties": {
+    "addr:full":"10107 N 575 E Demotte IN 46310",
+    "addr:housenumber":"10107",
+    "addr:postcode":"46310",
+    "addr:street":"N 575 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.28083,41.14586,-87.28083,41.14586",
     "geom:latitude":41.14586,
     "geom:longitude":-87.28083,
@@ -30,7 +35,14 @@
         "surgery-general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501345,
+        85633793,
+        85942815,
+        102086363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25gK6uAlOXO8lyLU9gGeg0_41.145860_-87.280830@1303262769"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462603043,
     "wof:geomhash":"683e7c02ab30ab5484164d3309b30286",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086363,
+            "localadmin_id":404501345,
+            "locality_id":85942815,
+            "region_id":85688709,
+            "venue_id":807020597
+        }
+    ],
     "wof:id":807020597,
-    "wof:lastmodified":1466504090,
+    "wof:lastmodified":1492091565,
     "wof:name":"A S Favor Md Surgeon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

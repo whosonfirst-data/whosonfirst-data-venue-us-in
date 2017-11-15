@@ -2,9 +2,14 @@
   "id": 790399877,
   "type": "Feature",
   "properties": {
+    "addr:full":"6106 Work St Demotte IN 46310",
+    "addr:housenumber":"",
+    "addr:postcode":"6106;46310",
+    "addr:street":"Work St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.160751,41.190614,-87.160751,41.190614",
     "geom:latitude":41.190614,
     "geom:longitude":-87.160751,
@@ -28,7 +33,13 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404501001,
+        85633793,
+        102087005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RRKgmjuIL0OojqMM2Re1Y_41.190614_-87.160751@1294102998"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1462595533,
     "wof:geomhash":"3d4810fe4abebb74dc03188037c74b30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087005,
+            "localadmin_id":404501001,
+            "region_id":85688709,
+            "venue_id":790399877
+        }
+    ],
     "wof:id":790399877,
-    "wof:lastmodified":1466508014,
+    "wof:lastmodified":1492093666,
     "wof:name":"Kalma Custom Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

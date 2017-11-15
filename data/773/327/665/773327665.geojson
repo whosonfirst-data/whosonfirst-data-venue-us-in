@@ -2,9 +2,14 @@
   "id": 773327665,
   "type": "Feature",
   "properties": {
+    "addr:full":"583 Lakepark Dr Valparaiso IN 46385",
+    "addr:housenumber":"583",
+    "addr:postcode":"46385",
+    "addr:street":"Lakepark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.12274,41.518632,-87.12274,41.518632",
     "geom:latitude":41.518632,
     "geom:longitude":-87.12274,
@@ -27,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420519845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1INlZEZS2Ndj2xKsQv9Kn6_41.518632_-87.122740@1294102998"
@@ -35,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1462584891,
     "wof:geomhash":"3db1e5cd396437e3b0bfacaf843d4da6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420519845,
+            "venue_id":773327665
+        }
+    ],
     "wof:id":773327665,
-    "wof:lastmodified":1466507657,
+    "wof:lastmodified":1492094984,
     "wof:name":"Robertson Construction",
     "wof:parent_id":420519845,
     "wof:placetype":"venue",
