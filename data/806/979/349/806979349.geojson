@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.087391,39.905165,-86.087391,39.905165",
     "geom:latitude":39.905165,
     "geom:longitude":-86.087391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4901 E 82nd St Ste 100",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602684,
-    "wof:geomhash":"f239f492183f93ac4e81ddea78ee59df",
+    "wof:geomhash":"7e869eea326fc6f0511e85b481ff53d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":806979349,
-    "wof:lastmodified":1472623069,
+    "wof:lastmodified":1510942175,
     "wof:name":"Ciao Bella Salon",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789858491
+    ],
     "wof:tags":[
         "hair"
     ]

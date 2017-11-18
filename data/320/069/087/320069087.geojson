@@ -7,13 +7,16 @@
     "addr:postcode":"46240",
     "addr:street":"E 96Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.147522,39.927149,-86.147522,39.927149",
     "geom:latitude":39.927149,
     "geom:longitude":-86.147522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 E 96th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4bKmYOUcBGrmtqaLgk0f3v_39.927149_-86.147522@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1669612cb5b5a72193988b14b2083ec",
+    "wof:geomhash":"c515737e393f343d73ed208d0fad5fc2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":320069087,
-    "wof:lastmodified":1472622334,
+    "wof:lastmodified":1510942415,
     "wof:name":"Miroff Cross & Woolsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806969987
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

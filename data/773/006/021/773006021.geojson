@@ -7,13 +7,16 @@
     "addr:postcode":"46225",
     "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158715,39.724674,-86.158715,39.724674",
     "geom:latitude":39.724674,
     "geom:longitude":-86.158715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2941 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582237,
-    "wof:geomhash":"8630e75ef0783abcc8eeb12f7bd779f1",
+    "wof:geomhash":"5d110f6bfed1d15e5efafb6e7571e0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":773006021,
-    "wof:lastmodified":1472622262,
+    "wof:lastmodified":1510943628,
     "wof:name":"Victoria's Barbershop",
     "wof:parent_id":85870639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806938051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

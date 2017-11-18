@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.261919,39.796805,-86.261919,39.796805",
     "geom:latitude":39.796805,
     "geom:longitude":-86.261919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5806 Crawfordsville Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602325,
-    "wof:geomhash":"a2f26727fc4fc0dfffc3c2bdf390b2b2",
+    "wof:geomhash":"90107f38d56537baf5180e7eb6a974b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806935983,
-    "wof:lastmodified":1472623059,
+    "wof:lastmodified":1510943605,
     "wof:name":"Solid Men's Collections",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320370541
+    ],
     "wof:tags":[]
 },
   "bbox": [

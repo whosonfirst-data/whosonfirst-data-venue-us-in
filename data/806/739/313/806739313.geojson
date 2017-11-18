@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.461304,41.552101,-87.461304,41.552101",
     "geom:latitude":41.552101,
     "geom:longitude":-87.461304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2833 Lincoln St",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600675,
-    "wof:geomhash":"b77f92f6fce06bfc94c1d90167b45f10",
+    "wof:geomhash":"2f74a0e70afda343814e09dd52e86501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806739313,
-    "wof:lastmodified":1472622852,
+    "wof:lastmodified":1510944199,
     "wof:name":"Orthodontic Center",
     "wof:parent_id":85891123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807034593
+    ],
     "wof:tags":[
         "dentist",
         "orthodontist"

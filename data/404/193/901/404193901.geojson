@@ -7,13 +7,16 @@
     "addr:postcode":"46321",
     "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508961,41.543176,-87.508961,41.543176",
     "geom:latitude":41.543176,
     "geom:longitude":-87.508961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9307 Calumet Ave",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_7iZYmstdOXJYfMBm7PdWqQ_41.543176_-87.508961@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab858fe866f2ea8a24eeb0fc8b418fde",
+    "wof:geomhash":"8aeebd592af61cb4be6bb8a6e0722ff1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":404193901,
-    "wof:lastmodified":1472622354,
+    "wof:lastmodified":1510942080,
     "wof:name":"Steiber Rueth & Co PC",
     "wof:parent_id":85833061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807030001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -7,6 +7,7 @@
     "addr:postcode":"46236",
     "addr:street":"Pendleton Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.969502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"11135 Pendleton Pike",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"3b6792004c928cb4b6efe131fea9553a",
     "wof:hierarchy":[],
     "wof:id":789721689,
-    "wof:lastmodified":1510874175,
+    "wof:lastmodified":1510942812,
     "wof:name":"Super China Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806953835
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.121819,39.838402,-86.121819,39.838402",
     "geom:latitude":39.838402,
     "geom:longitude":-86.121819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4501 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602102,
-    "wof:geomhash":"b79e065210cad37d85493e562fd063c5",
+    "wof:geomhash":"ba00571c5ad11c4ab6c44e64fb38da18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806910679,
-    "wof:lastmodified":1472623042,
+    "wof:lastmodified":1510943648,
     "wof:name":"Keystone Video & Newsstand Inc",
     "wof:parent_id":85870655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320116853
+    ],
     "wof:tags":[]
 },
   "bbox": [

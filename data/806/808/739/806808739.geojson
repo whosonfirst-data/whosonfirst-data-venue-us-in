@@ -7,13 +7,16 @@
     "addr:postcode":"46221",
     "addr:street":"Kentucky Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.262929,39.699782,-86.262929,39.699782",
     "geom:latitude":39.699782,
     "geom:longitude":-86.262929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4701 Kentucky Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":102923657,
         "sg:id":"SG_1ijy9mOcD2yqR0aOC5qlGT_39.699782_-86.262929@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462601255,
-    "wof:geomhash":"8e5c569adf0abe69c5659e95c775c9cd",
+    "wof:geomhash":"50e1e9daee7dde6339933251d3796fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +66,17 @@
         }
     ],
     "wof:id":806808739,
-    "wof:lastmodified":1472622931,
+    "wof:lastmodified":1510943574,
     "wof:name":"Culver's",
     "wof:parent_id":85853431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806932279
+    ],
+    "wof:supersedes":[
+        806932279
+    ],
     "wof:tags":[
         "burger",
         "american"

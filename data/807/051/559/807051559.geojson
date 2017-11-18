@@ -7,13 +7,16 @@
     "addr:postcode":"46410",
     "addr:street":"W 81St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.357892,41.471365,-87.357892,41.471365",
     "geom:latitude":41.471365,
     "geom:longitude":-87.357892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1790 W 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603299,
-    "wof:geomhash":"3b1d2245136f980b5e7c47fc2514adae",
+    "wof:geomhash":"94ef5116f6241f24ba09835dd590e984",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":807051559,
-    "wof:lastmodified":1472622383,
+    "wof:lastmodified":1510941914,
     "wof:name":"Levin Tire Center",
     "wof:parent_id":420519705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789900887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

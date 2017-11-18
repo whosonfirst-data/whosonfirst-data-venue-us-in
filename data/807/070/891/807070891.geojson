@@ -7,13 +7,16 @@
     "addr:postcode":"47401",
     "addr:street":"E 3Rd St Ste 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.529153,39.164717,-86.529153,39.164717",
     "geom:latitude":39.164717,
     "geom:longitude":-86.529153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"421 E 3rd St Ste 1",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603452,
-    "wof:geomhash":"3f6eea4aad822793a81ebdf8cbf2e99f",
+    "wof:geomhash":"c8dc09faf31da847f9e01a61def94e81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807070891,
-    "wof:lastmodified":1472622456,
+    "wof:lastmodified":1510942586,
     "wof:name":"Bloomington Learning Center",
     "wof:parent_id":85832565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806514527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "day"

@@ -7,13 +7,16 @@
     "addr:postcode":"46217",
     "addr:street":"S Concord St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.210966,39.684704,-86.210966,39.684704",
     "geom:latitude":39.684704,
     "geom:longitude":-86.210966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5610 S Concord St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595848,
-    "wof:geomhash":"3dab35ca4a4addfa9b2d9b0539c3da2b",
+    "wof:geomhash":"4cadc1a058dc3c2b9f97da46408a36df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":790441219,
-    "wof:lastmodified":1472622865,
+    "wof:lastmodified":1510943563,
     "wof:name":"Suzette's Tub Saver",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806917947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bathtub",

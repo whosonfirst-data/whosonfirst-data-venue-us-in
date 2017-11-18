@@ -7,13 +7,16 @@
     "addr:postcode":"46254",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.239314,39.828163,-86.239314,39.828163",
     "geom:latitude":39.828163,
     "geom:longitude":-86.239314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3898 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6hB2RYBRa5Q1Sr4BvqhXkg_39.828163_-86.239314@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"3493305e9710d5830661f07d90fefec7",
+    "wof:geomhash":"f2a6c551a8f9a8e2d76c63fc553f012b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303946307,
-    "wof:lastmodified":1472622525,
+    "wof:lastmodified":1510942422,
     "wof:name":"Georgetown Cinemas 14",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806986909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

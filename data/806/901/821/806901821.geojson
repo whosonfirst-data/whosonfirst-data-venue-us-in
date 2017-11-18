@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.135826,39.745804,-86.135826,39.745804",
     "geom:latitude":39.745804,
     "geom:longitude":-86.135826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 E Pleasant Run Parkway South Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602022,
-    "wof:geomhash":"594bc1d7381d176804cae98271a791b8",
+    "wof:geomhash":"b093cda8fc0318e1aee66df253dd0c75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":806901821,
-    "wof:lastmodified":1472623031,
+    "wof:lastmodified":1510942206,
     "wof:name":"Bethany Temple Apostolic Church",
     "wof:parent_id":85870641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790360313
+    ],
     "wof:tags":[
         "churches-apostolic",
         "churches-pentecostal-apostolic"

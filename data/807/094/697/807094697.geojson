@@ -7,13 +7,16 @@
     "addr:postcode":"47901",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.894076,40.419128,-86.894076,40.419128",
     "geom:latitude":40.419128,
     "geom:longitude":-86.894076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"312 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603660,
-    "wof:geomhash":"3b54eaf6208733f8bf8422957afb4abf",
+    "wof:geomhash":"bf21a874890b6cba781fc73f999fe6e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":807094697,
-    "wof:lastmodified":1472622481,
+    "wof:lastmodified":1510943699,
     "wof:name":"La Scala",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806846389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

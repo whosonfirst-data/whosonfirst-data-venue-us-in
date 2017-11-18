@@ -7,13 +7,16 @@
     "addr:postcode":"46290",
     "addr:street":"N Meridian St Ste 265",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.1576,39.937901,-86.1576,39.937901",
     "geom:latitude":39.937901,
     "geom:longitude":-86.1576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10401 N Meridian St Ste 265",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462602981,
-    "wof:geomhash":"d55a0ba26e675fc0a343b7a5818052d2",
+    "wof:geomhash":"4e682582bed317233c976970c2547d4f",
     "wof:hierarchy":[],
     "wof:id":807014279,
-    "wof:lastmodified":1472622299,
+    "wof:lastmodified":1510943043,
     "wof:name":"Lerchen Inc",
     "wof:parent_id":420519605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370775039
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

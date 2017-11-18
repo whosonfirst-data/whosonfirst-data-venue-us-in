@@ -7,13 +7,16 @@
     "addr:postcode":"46240",
     "addr:street":"E 91St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.15516,39.919751,-86.15516,39.919751",
     "geom:latitude":39.919751,
     "geom:longitude":-86.15516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"210 E 91st St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586384,
-    "wof:geomhash":"a3c3829c681b606878397a3312ac5d22",
+    "wof:geomhash":"ee0e1962c67c57ce7b3a08d06886fdbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":773525887,
-    "wof:lastmodified":1472623153,
+    "wof:lastmodified":1510941452,
     "wof:name":"Meridian Youth Psychiatric Ctr",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806965087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

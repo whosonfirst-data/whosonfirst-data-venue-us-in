@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508736,41.595055,-87.508736,41.595055",
     "geom:latitude":41.595055,
     "geom:longitude":-87.508736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6517 Calumet Avenue",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603208,
-    "wof:geomhash":"8461e6fa75bdada2c08911b26c0bd0fa",
+    "wof:geomhash":"5f736fe486e34fa87cc5b48aa673504b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":807040563,
-    "wof:lastmodified":1472622355,
+    "wof:lastmodified":1510942558,
     "wof:name":"White Castle",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807039563
+    ],
     "wof:tags":[]
 },
   "bbox": [

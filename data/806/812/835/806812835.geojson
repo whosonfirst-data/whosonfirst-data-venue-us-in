@@ -7,13 +7,16 @@
     "addr:postcode":"46254",
     "addr:street":"W 38Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.281225,39.8233,-86.281225,39.8233",
     "geom:latitude":39.8233,
     "geom:longitude":-86.281225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6915 W 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601287,
-    "wof:geomhash":"32b1f995f2c681118146dfbf0363358e",
+    "wof:geomhash":"f979eed5f87165d22514661444f8fd43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":806812835,
-    "wof:lastmodified":1472622937,
+    "wof:lastmodified":1510943811,
     "wof:name":"T.G.I. Friday's",
     "wof:parent_id":85870677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806988697
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

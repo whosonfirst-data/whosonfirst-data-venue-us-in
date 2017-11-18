@@ -7,13 +7,16 @@
     "addr:postcode":"46204",
     "addr:street":"N Capitol Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.16159,39.772344,-86.16159,39.772344",
     "geom:latitude":39.772344,
     "geom:longitude":-86.16159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"332 N Capitol Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590423,
-    "wof:geomhash":"c2fb2c8a825a444a80d41d33b8f148cb",
+    "wof:geomhash":"92599c2d7ed90c16aaf39418314906ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":789773145,
-    "wof:lastmodified":1472622603,
+    "wof:lastmodified":1510941581,
     "wof:name":"Musicians Repair & Sales",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806909101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

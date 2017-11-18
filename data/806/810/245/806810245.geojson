@@ -7,13 +7,16 @@
     "addr:postcode":"46227",
     "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.131533,39.680265,-86.131533,39.680265",
     "geom:latitude":39.680265,
     "geom:longitude":-86.131533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5935 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601267,
-    "wof:geomhash":"920e23f36bd41238570ca385569a13fc",
+    "wof:geomhash":"baf49c2b6150ad43410ab0aa86712e12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":806810245,
-    "wof:lastmodified":1472622923,
+    "wof:lastmodified":1510941476,
     "wof:name":"McDonald's",
     "wof:parent_id":85817487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806942811
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

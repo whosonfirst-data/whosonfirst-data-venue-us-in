@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.082055,39.770228,-86.082055,39.770228",
     "geom:latitude":39.770228,
     "geom:longitude":-86.082055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5129 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602225,
-    "wof:geomhash":"de29ba5a12735d6c4c895b75fc072389",
+    "wof:geomhash":"6af7eef172bd96c828f5c450d5c1b229",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":806923997,
-    "wof:lastmodified":1472623050,
+    "wof:lastmodified":1510941381,
     "wof:name":"Church's Chicken",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773294961
+    ],
     "wof:tags":[]
 },
   "bbox": [

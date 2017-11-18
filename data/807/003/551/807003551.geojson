@@ -7,13 +7,16 @@
     "addr:postcode":"46260",
     "addr:street":"Township Line Rd Ste 206",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.203003,39.903801,-86.203003,39.903801",
     "geom:latitude":39.903801,
     "geom:longitude":-86.203003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8091 Township Line Rd Ste 206",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602887,
-    "wof:geomhash":"5ad01e3ab478e9ccfdfb656dbe1f9b7b",
+    "wof:geomhash":"de90ac7626c6e01eeeae2a62d4f1802c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807003551,
-    "wof:lastmodified":1472622276,
+    "wof:lastmodified":1510941806,
     "wof:name":"Beacon OB Gyn",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806999687
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

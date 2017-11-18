@@ -7,13 +7,16 @@
     "addr:postcode":"46240",
     "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109505,39.917631,-86.109505,39.917631",
     "geom:latitude":39.917631,
     "geom:longitude":-86.109505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8888 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586427,
-    "wof:geomhash":"c9a25d3dedfbaeaf1576f8c40f10eb1e",
+    "wof:geomhash":"8a3d97fc4cd5c37d61da4208acaa07c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":773531833,
-    "wof:lastmodified":1472623156,
+    "wof:lastmodified":1510943097,
     "wof:name":"Drewry Simmons Pitts & Vornehm",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806963879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

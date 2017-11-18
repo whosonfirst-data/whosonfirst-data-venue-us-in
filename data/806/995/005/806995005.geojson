@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157822,39.921322,-86.157822,39.921322",
     "geom:latitude":39.921322,
     "geom:longitude":-86.157822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9247 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602813,
-    "wof:geomhash":"404eec0460d3d7e0f070eef9720be4ff",
+    "wof:geomhash":"aabe26980eaf84d4af8df64e54799457",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +77,16 @@
         }
     ],
     "wof:id":806995005,
-    "wof:lastmodified":1472623073,
+    "wof:lastmodified":1510943275,
     "wof:name":"Bleecker Brodey & Andrews",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303383359,
+        806997817
+    ],
     "wof:tags":[
         "attorney",
         "injury",

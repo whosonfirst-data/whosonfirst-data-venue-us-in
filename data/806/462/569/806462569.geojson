@@ -7,13 +7,16 @@
     "addr:postcode":"46220",
     "addr:street":"N Keystone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.121989,39.849432,-86.121989,39.849432",
     "geom:latitude":39.849432,
     "geom:longitude":-86.121989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5353 N Keystone Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598336,
-    "wof:geomhash":"45d340fda42d9d17b9f1874776ef3d7e",
+    "wof:geomhash":"2d97e54449260cfcf8c254cfc3abc890",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":806462569,
-    "wof:lastmodified":1472622435,
+    "wof:lastmodified":1510943193,
     "wof:name":"Audio Electronics",
     "wof:parent_id":85870671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806928045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "high",

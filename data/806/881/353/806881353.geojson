@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.292341,39.949944,-86.292341,39.949944",
     "geom:latitude":39.949944,
     "geom:longitude":-86.292341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9302 E State Road 334",
     "sg:city":"Zionsville",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601866,
-    "wof:geomhash":"fe4e1fac3671bb889f8e5dfed0ba7087",
+    "wof:geomhash":"ed68fcb066fc7a2a149411d7052eed3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806881353,
-    "wof:lastmodified":1472623002,
+    "wof:lastmodified":1510941439,
     "wof:name":"Country Gables Bed & Breakfast",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        336876943
+    ],
     "wof:tags":[]
 },
   "bbox": [

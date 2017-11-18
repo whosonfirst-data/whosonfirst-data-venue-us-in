@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.374912,39.61547,-86.374912,39.61547",
     "geom:latitude":39.61547,
     "geom:longitude":-86.374912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"169 N Indiana St",
     "sg:city":"Mooresville",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601944,
-    "wof:geomhash":"52d974ea0e3378a211e50f31d7cc82e2",
+    "wof:geomhash":"4d2defcb38fb1c0aec8fcd1b522f2e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806891545,
-    "wof:lastmodified":1472623016,
+    "wof:lastmodified":1510942424,
     "wof:name":"Wenz Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        303828421
+    ],
     "wof:tags":[]
 },
   "bbox": [

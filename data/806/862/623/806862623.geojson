@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157997,39.954899,-86.157997,39.954899",
     "geom:latitude":39.954899,
     "geom:longitude":-86.157997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11550 N Meridian St Ste 125",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601711,
-    "wof:geomhash":"a601fa73189c67864f277dd9324649d5",
+    "wof:geomhash":"ccfd5a811225ec14fecbcfde5584c61e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":806862623,
-    "wof:lastmodified":1472622974,
+    "wof:lastmodified":1510942763,
     "wof:name":"Smyth Hester & Grisham",
     "wof:parent_id":420519527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790339785
+    ],
     "wof:tags":[]
 },
   "bbox": [

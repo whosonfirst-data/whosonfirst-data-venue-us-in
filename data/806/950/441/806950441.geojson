@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.989138,39.775018,-85.989138,39.775018",
     "geom:latitude":39.775018,
     "geom:longitude":-85.989138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10030 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602441,
-    "wof:geomhash":"fb0ec1a874314879131e7cf1b6f6e85a",
+    "wof:geomhash":"4f2c7b0385eeb2710209a1818b6b574b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806950441,
-    "wof:lastmodified":1472623053,
+    "wof:lastmodified":1510942112,
     "wof:name":"Bubbaz Bar & Grill",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789811453
+    ],
     "wof:tags":[]
 },
   "bbox": [

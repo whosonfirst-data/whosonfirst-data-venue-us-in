@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157847,39.918039,-86.157847,39.918039",
     "geom:latitude":39.918039,
     "geom:longitude":-86.157847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8935 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599509,
-    "wof:geomhash":"7297b14fcf0d069c7fa6a0465620c921",
+    "wof:geomhash":"33296c9d1b2f327ebfc2d8f34dff21d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":806602289,
-    "wof:lastmodified":1472622654,
+    "wof:lastmodified":1510943560,
     "wof:name":"Integrative Health Resources",
     "wof:parent_id":85850623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807002885
+    ],
     "wof:tags":[
         "mental"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"46228",
     "addr:street":"Michigan Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.196812,39.858943,-86.196812,39.858943",
     "geom:latitude":39.858943,
     "geom:longitude":-86.196812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5749 Michigan Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601515,
-    "wof:geomhash":"fa8064f0f381c7df709c8f559fb23236",
+    "wof:geomhash":"e4adbec419280dc1ca962971625696a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":806840875,
-    "wof:lastmodified":1472622965,
+    "wof:lastmodified":1510942127,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85822489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806948797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

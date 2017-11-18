@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.241158,39.729565,-86.241158,39.729565",
     "geom:latitude":39.729565,
     "geom:longitude":-86.241158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4557 W Bradbury Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -68,7 +70,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602639,
-    "wof:geomhash":"aea91818068a1bf8265a1f0ba1d56539",
+    "wof:geomhash":"549de2505e3ca17a6948db50313387e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,13 +84,15 @@
         }
     ],
     "wof:id":806973649,
-    "wof:lastmodified":1472623075,
+    "wof:lastmodified":1510944139,
     "wof:name":"TricorBraun",
     "wof:parent_id":420519801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806474621
+    ],
     "wof:tags":[
         "repair",
         "bottler",

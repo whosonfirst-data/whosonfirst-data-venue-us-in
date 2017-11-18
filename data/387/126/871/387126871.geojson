@@ -7,13 +7,16 @@
     "addr:postcode":"46142",
     "addr:street":"N State Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158461,39.632887,-86.158461,39.632887",
     "geom:latitude":39.632887,
     "geom:longitude":-86.158461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1140 N State Rd 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6tTv97D2DkVSpBsYFVqvKF_39.632887_-86.158461@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea574fa8439a28a74caabd68b3222585",
+    "wof:geomhash":"7ceecf2d05e3d8f21f9e9b0c6195aeb1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":387126871,
-    "wof:lastmodified":1472622417,
+    "wof:lastmodified":1510943894,
     "wof:name":"Los Tapatios Restaurant",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806888687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

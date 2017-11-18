@@ -7,13 +7,16 @@
     "addr:postcode":"46805",
     "addr:street":"Coldwater Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.135188,41.114794,-85.135188,41.114794",
     "geom:latitude":41.114794,
     "geom:longitude":-85.135188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4201 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5qIjYvScmVYSoG0B065N0c_41.114794_-85.135188@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec68a310db22513d5d1fe2b06f1f5d9e",
+    "wof:geomhash":"f682b96443858b7e589f36004c9447d9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":304056029,
-    "wof:lastmodified":1472622290,
+    "wof:lastmodified":1510943460,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806822987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

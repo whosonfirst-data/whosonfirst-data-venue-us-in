@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.158864,39.768524,-86.158864,39.768524",
     "geom:latitude":39.768524,
     "geom:longitude":-86.158864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 W Market St Ste 600",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602080,
-    "wof:geomhash":"be9fcbaa17165a696f008de5fdb5287f",
+    "wof:geomhash":"10c3dadb1809a6dffa624d62655e73e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":806908535,
-    "wof:lastmodified":1472623040,
+    "wof:lastmodified":1510942005,
     "wof:name":"Indiana Bond Bank",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806598343
+    ],
     "wof:tags":[
         "designer",
         "technical",

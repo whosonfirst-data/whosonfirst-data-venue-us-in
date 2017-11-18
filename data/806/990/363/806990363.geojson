@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.037846,39.901568,-86.037846,39.901568",
     "geom:latitude":39.901568,
     "geom:longitude":-86.037846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8040 Clearvista Pkwy Ste 570",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602777,
-    "wof:geomhash":"3813c1d2855b2cadf3e2ecba6f3f2f61",
+    "wof:geomhash":"461ddd5a12b71ca0cd1359c63cb85f02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":806990363,
-    "wof:lastmodified":1472623077,
+    "wof:lastmodified":1510942246,
     "wof:name":"Urology Of Indiana",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790440049
+    ],
     "wof:tags":[
         "physician",
         "urology",

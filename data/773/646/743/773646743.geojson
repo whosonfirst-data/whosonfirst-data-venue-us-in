@@ -7,13 +7,16 @@
     "addr:postcode":"46256",
     "addr:street":"Clearvista Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.037823,39.901419,-86.037823,39.901419",
     "geom:latitude":39.901419,
     "geom:longitude":-86.037823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8040 Clearvista Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587306,
-    "wof:geomhash":"d50b5737ab33aa74ecb38731a0fbd85e",
+    "wof:geomhash":"eb7867053b146bb00c8b0dd99e9ba7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":773646743,
-    "wof:lastmodified":1472623192,
+    "wof:lastmodified":1510943379,
     "wof:name":"Clearvista Women's Care",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806994101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

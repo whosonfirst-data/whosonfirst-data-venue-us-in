@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.081877,39.825499,-86.081877,39.825499",
     "geom:latitude":39.825499,
     "geom:longitude":-86.081877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5207 E 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602199,
-    "wof:geomhash":"68c5fce6f2eddb19c0614efc4f104df3",
+    "wof:geomhash":"4a9e2125a170d4fe778fef2c68fd6e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806921277,
-    "wof:lastmodified":1472623039,
+    "wof:lastmodified":1510943981,
     "wof:name":"Magnifiscents",
     "wof:parent_id":420519765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806649541
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"46221",
     "addr:street":"Kentucky Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.23382,39.716639,-86.23382,39.716639",
     "geom:latitude":39.716639,
     "geom:longitude":-86.23382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Kentucky Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582291,
-    "wof:geomhash":"87b1f9486d509f5c96544d607d2ffe8c",
+    "wof:geomhash":"5edec672f76f91bb678d973e414abbd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":773009011,
-    "wof:lastmodified":1472622261,
+    "wof:lastmodified":1510942892,
     "wof:name":"Nail R Us II",
     "wof:parent_id":85865505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806933041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"

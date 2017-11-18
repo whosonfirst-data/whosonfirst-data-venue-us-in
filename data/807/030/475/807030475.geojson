@@ -7,6 +7,7 @@
     "addr:postcode":"46321",
     "addr:street":"Hohman Ave Ste 700",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.5224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7550 Hohman Ave Ste 700",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603127,
-    "wof:geomhash":"3a399765a57a18a43a6408ed43c3a678",
+    "wof:geomhash":"d923c9441bfacfaa662035f3977f5bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":807030475,
-    "wof:lastmodified":1492102304,
+    "wof:lastmodified":1510942611,
     "wof:name":"Schwartz Medical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789740629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

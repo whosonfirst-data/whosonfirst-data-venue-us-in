@@ -7,13 +7,16 @@
     "addr:postcode":"46250",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.088905,39.90568,-86.088905,39.90568",
     "geom:latitude":39.90568,
     "geom:longitude":-86.088905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4901 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591092,
-    "wof:geomhash":"093e02ac25cd9516ec96ddf0162258a1",
+    "wof:geomhash":"f381b0ed684980ffc2771cbfecf34f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":789858491,
-    "wof:lastmodified":1472622701,
+    "wof:lastmodified":1510942175,
     "wof:name":"Ciaobella Salon",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806979349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

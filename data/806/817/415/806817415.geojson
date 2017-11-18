@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.967085,41.690438,-85.967085,41.690438",
     "geom:latitude":41.690438,
     "geom:longitude":-85.967085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"186 Easy Shopping Pl",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601320,
-    "wof:geomhash":"4c1498719f4c8ce18a72f7c93b05fcaf",
+    "wof:geomhash":"10d967954c6e8b5246c75d3e5c34571d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806817415,
-    "wof:lastmodified":1472622930,
+    "wof:lastmodified":1510943019,
     "wof:name":"Hacienda Mexican Restaurant",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807052987
+    ],
     "wof:tags":[
         "mexican"
     ]

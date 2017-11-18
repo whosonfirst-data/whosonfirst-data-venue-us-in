@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.141653,39.706375,-86.141653,39.706375",
     "geom:latitude":39.706375,
     "geom:longitude":-86.141653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4102 Madison Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602393,
-    "wof:geomhash":"54de4c2753cf43d9912f74a484047a8b",
+    "wof:geomhash":"76acf7ad9d46281fa4fc3c8eb75c2713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":806944053,
-    "wof:lastmodified":1472623052,
+    "wof:lastmodified":1510943665,
     "wof:name":"A Amazing Cakes By Millie",
     "wof:parent_id":85853129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773172959
+    ],
     "wof:tags":[]
 },
   "bbox": [

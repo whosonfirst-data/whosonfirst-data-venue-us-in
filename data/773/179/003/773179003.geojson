@@ -7,13 +7,16 @@
     "addr:postcode":"46901",
     "addr:street":"W Sycamore St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.163364,40.48768,-86.163364,40.48768",
     "geom:latitude":40.48768,
     "geom:longitude":-86.163364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2331 W Sycamore St",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462583730,
-    "wof:geomhash":"e5f035d7a1ce0697af31d531e88412d2",
+    "wof:geomhash":"f9e6546a1cb4576f00560c1ba7895250",
     "wof:hierarchy":[],
     "wof:id":773179003,
-    "wof:lastmodified":1472622833,
+    "wof:lastmodified":1510944152,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806824857
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.079967,39.87601,-86.079967,39.87601",
     "geom:latitude":39.87601,
     "geom:longitude":-86.079967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5266 E 65th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602244,
-    "wof:geomhash":"25ddf0c3ec02bb5c3ad345b174236de0",
+    "wof:geomhash":"04cae936f94e9e1d60bc134f8da2548f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":806926393,
-    "wof:lastmodified":1472623038,
+    "wof:lastmodified":1510942779,
     "wof:name":"Puppy Playground",
     "wof:parent_id":85833059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        403799857
+    ],
     "wof:tags":[]
 },
   "bbox": [

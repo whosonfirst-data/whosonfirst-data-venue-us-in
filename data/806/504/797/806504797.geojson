@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.076419,41.460955,-87.076419,41.460955",
     "geom:latitude":41.460955,
     "geom:longitude":-87.076419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 West St",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598671,
-    "wof:geomhash":"27638674a636a77e7cf937c41191ada1",
+    "wof:geomhash":"e67296a8e9520ee8825617e3e7479958",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806504797,
-    "wof:lastmodified":1472622536,
+    "wof:lastmodified":1510943205,
     "wof:name":"Semento's Napoli Cafe",
     "wof:parent_id":85812895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807046843
+    ],
     "wof:tags":[]
 },
   "bbox": [

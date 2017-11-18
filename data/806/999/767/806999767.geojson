@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.193878,39.907021,-86.193878,39.907021",
     "geom:latitude":39.907021,
     "geom:longitude":-86.193878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8301 Harcourt Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602859,
-    "wof:geomhash":"964955fa8c4206f078bd84f29e6d5182",
+    "wof:geomhash":"835f3dbd168f7e7341a9463e3485eedf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":806999767,
-    "wof:lastmodified":1472623086,
+    "wof:lastmodified":1510941834,
     "wof:name":"Hematology Oncology of Indiana PC",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807000881
+    ],
     "wof:tags":[
         "physician",
         "oncology",

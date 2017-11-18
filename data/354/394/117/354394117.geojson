@@ -7,6 +7,7 @@
     "addr:postcode":"46218",
     "addr:street":"N Sherman Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-86.102522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2601 N Sherman Dr",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
         "sg:id":"SG_4ANX45leDm6zzP2EdCVc7S_39.806844_-86.102522@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"97016624530ca584439982b3e61c2daa",
+    "wof:geomhash":"7e452b73a38f8c92b881ed9c596873c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":354394117,
-    "wof:lastmodified":1491912352,
+    "wof:lastmodified":1510942325,
     "wof:name":"Tag Coatings Corp",
     "wof:parent_id":85807573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806921115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "paint",

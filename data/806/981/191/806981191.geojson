@@ -7,13 +7,16 @@
     "addr:postcode":"46250",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.076232,39.905044,-86.076232,39.905044",
     "geom:latitude":39.905044,
     "geom:longitude":-86.076232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5325 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602700,
-    "wof:geomhash":"00897a8a645196213e82932cc08e5999",
+    "wof:geomhash":"f390b66cb1fb46299d9cca01908313d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":806981191,
-    "wof:lastmodified":1472623069,
+    "wof:lastmodified":1510941455,
     "wof:name":"DC Designers Tux Shop",
     "wof:parent_id":85827197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806981435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

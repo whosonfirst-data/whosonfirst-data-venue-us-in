@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.358826,41.471185,-87.358826,41.471185",
     "geom:latitude":41.471185,
     "geom:longitude":-87.358826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1790 W 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591452,
-    "wof:geomhash":"25132bae93a3e811d5c8b77f13ee0899",
+    "wof:geomhash":"614006431b9170ee3dd6ccc3ee172a29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":789900887,
-    "wof:lastmodified":1472622750,
+    "wof:lastmodified":1510941914,
     "wof:name":"Levin Tire Ctr",
     "wof:parent_id":420519705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807051559
+    ],
     "wof:tags":[
         "tire"
     ]

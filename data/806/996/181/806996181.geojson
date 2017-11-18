@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.193911,39.909237,-86.193911,39.909237",
     "geom:latitude":39.909237,
     "geom:longitude":-86.193911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8402 Harcourt Rd Ste 400",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602822,
-    "wof:geomhash":"154070a772c8f227acf06eef457dca52",
+    "wof:geomhash":"38bf512a89fa9dde573e46b742c12616",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":806996181,
-    "wof:lastmodified":1472623075,
+    "wof:lastmodified":1510943391,
     "wof:name":"Indiana Spine Group",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806751025
+    ],
     "wof:tags":[
         "physician",
         "management",

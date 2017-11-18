@@ -7,13 +7,16 @@
     "addr:postcode":"47305",
     "addr:street":"E Charles St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.380697,40.190987,-85.380697,40.190987",
     "geom:latitude":40.190987,
     "geom:longitude":-85.380697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 E Charles St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593832,
-    "wof:geomhash":"ea173c57905663c5762319b15f637908",
+    "wof:geomhash":"794ead933079f7d351feb0d055b8174b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":790187053,
-    "wof:lastmodified":1472622559,
+    "wof:lastmodified":1510941677,
     "wof:name":"McDonalds",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806830433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

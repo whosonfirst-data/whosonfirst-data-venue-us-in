@@ -7,13 +7,16 @@
     "addr:postcode":"46805",
     "addr:street":"Coldwater Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.13521,41.113222,-85.13521,41.113222",
     "geom:latitude":41.113222,
     "geom:longitude":-85.13521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4201 Coldwater Rd",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601365,
-    "wof:geomhash":"f3ba92891a425a0db15824cecc285f2d",
+    "wof:geomhash":"ca156a6f7a93edb6b1405923bd2f62ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":806822823,
-    "wof:lastmodified":1472622939,
+    "wof:lastmodified":1510941864,
     "wof:name":"T.G.I. Friday's",
     "wof:parent_id":85838221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773717125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

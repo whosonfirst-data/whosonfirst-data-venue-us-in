@@ -7,13 +7,16 @@
     "addr:postcode":"46240",
     "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.109442,39.918008,-86.109442,39.918008",
     "geom:latitude":39.918008,
     "geom:longitude":-86.109442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9100 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598532,
-    "wof:geomhash":"a6f731d0e6608d4bd94b7457d8d8bcd0",
+    "wof:geomhash":"aaa71933a349b94e9b40cbb4ecda5a99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":806488577,
-    "wof:lastmodified":1472622487,
+    "wof:lastmodified":1510941385,
     "wof:name":"Vanguard Services Inc",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806963573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "truck",

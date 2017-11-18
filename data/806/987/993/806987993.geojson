@@ -15,7 +15,7 @@
     "geom:longitude":-86.237543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"3898 Lafayette Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,6 +37,7 @@
     "wof:brand_id":420574447,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3649699025,
         "sg:id":"SG_0cBMBjd7AvXWzFbs35cEfe_39.826474_-86.237543@1303262767"
     },
     "wof:country":"US",
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":806987993,
-    "wof:lastmodified":1510604649,
+    "wof:lastmodified":1510943858,
     "wof:name":"Save-A-Lot",
     "wof:parent_id":85858453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        772998451
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157997,39.921799,-86.157997,39.921799",
     "geom:latitude":39.921799,
     "geom:longitude":-86.157997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9240 N Meridian St Ste 320",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602859,
-    "wof:geomhash":"00fa53162fd910c2a6c978258028a6bd",
+    "wof:geomhash":"3c0f9ef514a12ceb81eb80786b859d99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":806999831,
-    "wof:lastmodified":1472623087,
+    "wof:lastmodified":1510941899,
     "wof:name":"Health Associates",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789599145
+    ],
     "wof:tags":[
         "counseling",
         "mental"

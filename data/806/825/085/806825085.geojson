@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.129493,40.454991,-86.129493,40.454991",
     "geom:latitude":40.454991,
     "geom:longitude":-86.129493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 E Lincoln Rd",
     "sg:city":"Kokomo",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462601384,
-    "wof:geomhash":"8bf3d9fa1f1383257300a101de915486",
+    "wof:geomhash":"cd2dbf5d0ffcfe7b23323a3ba59d7f58",
     "wof:hierarchy":[],
     "wof:id":806825085,
-    "wof:lastmodified":1472622932,
+    "wof:lastmodified":1510943471,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773122063
+    ],
     "wof:tags":[
         "burger",
         "american"

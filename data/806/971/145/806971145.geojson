@@ -7,13 +7,16 @@
     "addr:postcode":"46240",
     "addr:street":"E 86Th St Ste 14",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.138496,39.912601,-86.138496,39.912601",
     "geom:latitude":39.912601,
     "geom:longitude":-86.138496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1300 E 86th St Ste 14",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602620,
-    "wof:geomhash":"9da4e037417374d6e7de58274c1d5a08",
+    "wof:geomhash":"e03d11e5caa605821b0379a2859e00e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":806971145,
-    "wof:lastmodified":1472623062,
+    "wof:lastmodified":1510942835,
     "wof:name":"Southern Exposure Tanning",
     "wof:parent_id":85837053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773841301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

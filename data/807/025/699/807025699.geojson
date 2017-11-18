@@ -7,6 +7,7 @@
     "addr:postcode":"46320",
     "addr:street":"Russell St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.522008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Russell St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603083,
-    "wof:geomhash":"9bf0d929acbe0f67c07605fe2b0eafe9",
+    "wof:geomhash":"e1f01487e6b19db05e9136f82bc7f5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":807025699,
-    "wof:lastmodified":1492105072,
+    "wof:lastmodified":1510942142,
     "wof:name":"Eichhorn & Eichhorn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790579987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

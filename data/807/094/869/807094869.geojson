@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.85373,40.392151,-86.85373,40.392151",
     "geom:latitude":40.392151,
     "geom:longitude":-86.85373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2415 Sagamore Pkwy S",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603662,
-    "wof:geomhash":"ad2365e12fa47c89ab37878e3844923a",
+    "wof:geomhash":"c8f72ed747e45fffbd00d60524c4aab3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":807094869,
-    "wof:lastmodified":1472622482,
+    "wof:lastmodified":1510941260,
     "wof:name":"Tippecanoe Mall",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        319998553
+    ],
     "wof:tags":[
         "pizza",
         "italian"

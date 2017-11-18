@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.161726,39.767052,-86.161726,39.767052",
     "geom:latitude":39.767052,
     "geom:longitude":-86.161726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 S Capitol Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602060,
-    "wof:geomhash":"b0dfe4af7ed2b3b6bf84dddf8b798c0d",
+    "wof:geomhash":"aa17c89ebac323b4528bb8f2c0653dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806905983,
-    "wof:lastmodified":1472623027,
+    "wof:lastmodified":1510941937,
     "wof:name":"Capitol Commons Parking Garage",
     "wof:parent_id":85870643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773234047
+    ],
     "wof:tags":[]
 },
   "bbox": [

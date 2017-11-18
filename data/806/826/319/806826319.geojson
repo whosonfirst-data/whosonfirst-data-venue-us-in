@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.603417,41.061126,-86.603417,41.061126",
     "geom:latitude":41.061126,
     "geom:longitude":-86.603417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"876 N Plymouth Rd",
     "sg:city":"Winamac",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1462601393,
-    "wof:geomhash":"d348207f10683a95440be59d6da4ed38",
+    "wof:geomhash":"e9ea3c33dbe64898a2ae59c3a40b390c",
     "wof:hierarchy":[],
     "wof:id":806826319,
-    "wof:lastmodified":1472622937,
+    "wof:lastmodified":1510943657,
     "wof:name":"Arby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789621679
+    ],
     "wof:tags":[
         "burger",
         "american"

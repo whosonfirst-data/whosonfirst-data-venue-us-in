@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.50591,41.492593,-87.50591,41.492593",
     "geom:latitude":41.492593,
     "geom:longitude":-87.50591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"871 Joliet St",
     "sg:city":"Dyer",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601295,
-    "wof:geomhash":"dbfe8dd6955b1df846e77f41d8e66434",
+    "wof:geomhash":"dc92b807ac7b0be3af8db1d8618e7d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806813983,
-    "wof:lastmodified":1472622934,
+    "wof:lastmodified":1510943065,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85824159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807021561
+    ],
     "wof:tags":[
         "american"
     ]

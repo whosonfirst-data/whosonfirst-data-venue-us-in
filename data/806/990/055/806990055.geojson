@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.0411,39.899601,-86.0411,39.899601",
     "geom:latitude":39.899601,
     "geom:longitude":-86.0411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7250 Clearvista Dr Ste 365",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602775,
-    "wof:geomhash":"f5d38e67a59eb6925f80903a60d7929a",
+    "wof:geomhash":"5092610ea07ad4942c4a3a5c8e103c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":806990055,
-    "wof:lastmodified":1472623071,
+    "wof:lastmodified":1510943323,
     "wof:name":"Indiana Spine Group",
     "wof:parent_id":85818815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790444663
+    ],
     "wof:tags":[]
 },
   "bbox": [

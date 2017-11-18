@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.332638,41.470943,-87.332638,41.470943",
     "geom:latitude":41.470943,
     "geom:longitude":-87.332638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 E 81st Ave",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601315,
-    "wof:geomhash":"7ee7c58d8be891fa9e39cbcb0b4d5c94",
+    "wof:geomhash":"7244b0195ccc834ab9437164eee97937",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":806816585,
-    "wof:lastmodified":1472622934,
+    "wof:lastmodified":1510942271,
     "wof:name":"Panera Bread",
     "wof:parent_id":420519691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807052697
+    ],
     "wof:tags":[
         "american",
         "sandwich",

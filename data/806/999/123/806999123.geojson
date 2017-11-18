@@ -7,13 +7,16 @@
     "addr:postcode":"46260",
     "addr:street":"Naab Rd Ste 100",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.198196,39.9077,-86.198196,39.9077",
     "geom:latitude":39.9077,
     "geom:longitude":-86.198196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8333 Naab Rd Ste 100",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602853,
-    "wof:geomhash":"08183dac9eff2e099436d23925e87912",
+    "wof:geomhash":"3e033f679130d75097db99dec7a6aef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":806999123,
-    "wof:lastmodified":1472623077,
+    "wof:lastmodified":1510942580,
     "wof:name":"Indiana Members Credit Union",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773733169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

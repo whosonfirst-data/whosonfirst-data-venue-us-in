@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.193671,39.911992,-86.193671,39.911992",
     "geom:latitude":39.911992,
     "geom:longitude":-86.193671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1717 W 86th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_77qWBhX7XGUIdmIHEoYlDS_39.911992_-86.193671@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd65e93f1981ee783efb093d4b7226a4",
+    "wof:geomhash":"b5c559e69071de0d5559b7e8ed998419",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":354045777,
-    "wof:lastmodified":1472622321,
+    "wof:lastmodified":1510941519,
     "wof:name":"Fitness Clinic Of Indianapolis",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807003425
+    ],
     "wof:tags":[
         "club",
         "health",

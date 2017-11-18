@@ -7,13 +7,16 @@
     "addr:postcode":"46290",
     "addr:street":"W 106Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159831,39.941737,-86.159831,39.941737",
     "geom:latitude":39.941737,
     "geom:longitude":-86.159831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"170 W 106th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602977,
-    "wof:geomhash":"5f225423d7b4c92509f496f0879053ae",
+    "wof:geomhash":"353fe1d465ac3c19aea5c78ebb4d3f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807013749,
-    "wof:lastmodified":1472622310,
+    "wof:lastmodified":1510941304,
     "wof:name":"Spa 170 West",
     "wof:parent_id":420519543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807014249
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"46219",
     "addr:street":"N Shortridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.040749,39.780783,-86.040749,39.780783",
     "geom:latitude":39.780783,
     "geom:longitude":-86.040749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 N Shortridge Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4hoBnK5HLeFAQ8EA8nBvDI_39.780783_-86.040749@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"5dc35fb8981e01c0dd0facdbd7b0c190",
+    "wof:geomhash":"07ec7525bcb8ef47e43abc7dc104966b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":387501883,
-    "wof:lastmodified":1472622546,
+    "wof:lastmodified":1510942705,
     "wof:name":"Beery Rybar Enterprise",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806924181
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "polishing",

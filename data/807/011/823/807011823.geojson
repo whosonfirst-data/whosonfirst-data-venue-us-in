@@ -7,13 +7,16 @@
     "addr:postcode":"46280",
     "addr:street":"Pennsylvania Pkwy Ste 100",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.15494,39.933267,-86.15494,39.933267",
     "geom:latitude":39.933267,
     "geom:longitude":-86.15494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 Pennsylvania Pkwy Ste 100",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602958,
-    "wof:geomhash":"891ea92e5bb0ca878175f83d7a626f7d",
+    "wof:geomhash":"064a89bd2ffe23d30eba794e361b44ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807011823,
-    "wof:lastmodified":1472622286,
+    "wof:lastmodified":1510941693,
     "wof:name":"Ophthalmic Plastic Surgery",
     "wof:parent_id":420519597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790585765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

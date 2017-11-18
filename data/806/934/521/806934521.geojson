@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.219671,39.762679,-86.219671,39.762679",
     "geom:latitude":39.762679,
     "geom:longitude":-86.219671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3512 Rockville Rd Ste 142 C",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602309,
-    "wof:geomhash":"706c14086d9ad5f8c1375c803958fa05",
+    "wof:geomhash":"0332699ba8398e28f41491c8806fb00f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":806934521,
-    "wof:lastmodified":1472623054,
+    "wof:lastmodified":1510941258,
     "wof:name":"AAA Ambassador Taxi",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806935263
+    ],
     "wof:tags":[]
 },
   "bbox": [

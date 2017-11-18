@@ -7,13 +7,16 @@
     "addr:postcode":"46254",
     "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.23998,39.85291,-86.23998,39.85291",
     "geom:latitude":39.85291,
     "geom:longitude":-86.23998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5525 Georgetown Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597322,
-    "wof:geomhash":"50600668eec89f10b74bd348bdb64f6a",
+    "wof:geomhash":"151118102df0bc0769322b5b7b799adb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":790612287,
-    "wof:lastmodified":1472623026,
+    "wof:lastmodified":1510943859,
     "wof:name":"Behavior Corp",
     "wof:parent_id":85807693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806988787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor",

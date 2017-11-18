@@ -7,6 +7,7 @@
     "addr:postcode":"46240",
     "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-86.109517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8900 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_3pzGaz8fEAbpOYowIgXVKY_39.917584_-86.109517@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"6737b0a67a7db1ed3b2ca8322b954529",
+    "wof:geomhash":"e5c53374c5e8fe628e7ff3ea6f5b356e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":353703291,
-    "wof:lastmodified":1491885491,
+    "wof:lastmodified":1510941348,
     "wof:name":"Kiefer & Mc Goff",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806963527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

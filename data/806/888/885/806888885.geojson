@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159131,39.604495,-86.159131,39.604495",
     "geom:latitude":39.604495,
     "geom:longitude":-86.159131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"874 S State Road 135",
     "sg:city":"Greenwood",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601921,
-    "wof:geomhash":"9e17f163dde52457f5e9532ebd02c878",
+    "wof:geomhash":"7b5017f72b6a580c62066d4535fa7b9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":806888885,
-    "wof:lastmodified":1472623016,
+    "wof:lastmodified":1510943926,
     "wof:name":"Applebee's",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806805177
+    ],
     "wof:tags":[]
 },
   "bbox": [

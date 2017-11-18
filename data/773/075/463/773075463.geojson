@@ -7,13 +7,16 @@
     "addr:postcode":"46260",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.157993,39.920591,-86.157993,39.920591",
     "geom:latitude":39.920591,
     "geom:longitude":-86.157993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9240 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582972,
-    "wof:geomhash":"e06dad987faa7bf1c0594cf95634dea2",
+    "wof:geomhash":"b95cb313be05627009e2c134e71773e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":773075463,
-    "wof:lastmodified":1472622662,
+    "wof:lastmodified":1510941751,
     "wof:name":"Meridian Adult Medicine",
     "wof:parent_id":85811743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806998791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

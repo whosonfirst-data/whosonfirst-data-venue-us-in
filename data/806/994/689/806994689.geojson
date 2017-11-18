@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.198196,39.9077,-86.198196,39.9077",
     "geom:latitude":39.9077,
     "geom:longitude":-86.198196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8333 Naab Rd Ste 330",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602810,
-    "wof:geomhash":"08183dac9eff2e099436d23925e87912",
+    "wof:geomhash":"3e033f679130d75097db99dec7a6aef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":806994689,
-    "wof:lastmodified":1472623081,
+    "wof:lastmodified":1510943925,
     "wof:name":"Indiana Heart Institute",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806506735
+    ],
     "wof:tags":[
         "cardiologist"
     ]

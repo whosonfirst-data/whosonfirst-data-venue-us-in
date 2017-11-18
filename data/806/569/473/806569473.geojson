@@ -7,13 +7,16 @@
     "addr:postcode":"46203",
     "addr:street":"Deloss St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.138791,39.760402,-86.138791,39.760402",
     "geom:latitude":39.760402,
     "geom:longitude":-86.138791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1229 Deloss St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599201,
-    "wof:geomhash":"7e0595acb1c9c0fbc8ad574e92e885e8",
+    "wof:geomhash":"9e53ead14878150f360d2bc7a498847c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":806569473,
-    "wof:lastmodified":1472622608,
+    "wof:lastmodified":1510944117,
     "wof:name":"Carpet Master",
     "wof:parent_id":420519777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806900539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners",

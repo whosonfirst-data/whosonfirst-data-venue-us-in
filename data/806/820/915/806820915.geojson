@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.955709,40.663899,-84.955709,40.663899",
     "geom:latitude":40.663899,
     "geom:longitude":-84.955709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"776 Us Highway 27 N",
     "sg:city":"Berne",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462601351,
-    "wof:geomhash":"1edae309bc83610a905c981695d7a2bd",
+    "wof:geomhash":"49d3103be89fdbb91841d22ce6a69d7a",
     "wof:hierarchy":[],
     "wof:id":806820915,
-    "wof:lastmodified":1472622938,
+    "wof:lastmodified":1510943942,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773369297
+    ],
     "wof:tags":[
         "burger",
         "american"

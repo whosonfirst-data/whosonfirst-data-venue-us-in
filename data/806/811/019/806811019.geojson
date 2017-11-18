@@ -7,6 +7,7 @@
     "addr:postcode":"46237",
     "addr:street":"Southport Crossing Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.083727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5020 Southport Crossing Pl",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"9e9e1035b4f417ce2f6121a10fb9215d",
     "wof:hierarchy":[],
     "wof:id":806811019,
-    "wof:lastmodified":1510603960,
+    "wof:lastmodified":1510943711,
     "wof:name":"Panda Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806955913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

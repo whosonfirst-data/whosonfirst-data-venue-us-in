@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.045564,39.803874,-86.045564,39.803874",
     "geom:latitude":39.803874,
     "geom:longitude":-86.045564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2525 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602235,
-    "wof:geomhash":"cb37ef17e9e11b3a192999f69649a1ae",
+    "wof:geomhash":"15088978f0a2c6b9d5045288ff9d7400",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":806925263,
-    "wof:lastmodified":1472623038,
+    "wof:lastmodified":1510941690,
     "wof:name":"Stericycle, Inc.",
     "wof:parent_id":85870651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        353894893
+    ],
     "wof:tags":[
         "contractor",
         "grading"

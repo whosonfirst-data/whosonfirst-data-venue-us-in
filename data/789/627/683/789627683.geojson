@@ -7,6 +7,7 @@
     "addr:postcode":"46534",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-86.623888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 W Washington St",
     "sg:city":"Knox",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589275,
-    "wof:geomhash":"2d14d2a64d01d5cee121727baaef3c70",
+    "wof:geomhash":"27239a397e2910b4b240ba31d7c1f316",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":789627683,
-    "wof:lastmodified":1492093272,
+    "wof:lastmodified":1510944199,
     "wof:name":"KNOX Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773754409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banquet",

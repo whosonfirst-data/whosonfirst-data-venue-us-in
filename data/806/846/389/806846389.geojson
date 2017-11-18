@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893982,40.419307,-86.893982,40.419307",
     "geom:latitude":40.419307,
     "geom:longitude":-86.893982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Main St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601574,
-    "wof:geomhash":"b30baa018f120db41e2f6f068af52f81",
+    "wof:geomhash":"335a8874698aa7fbe15836fb61a9c24d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":806846389,
-    "wof:lastmodified":1472622954,
+    "wof:lastmodified":1510943699,
     "wof:name":"La Scala",
     "wof:parent_id":85823837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807094697
+    ],
     "wof:tags":[
         "italian"
     ]

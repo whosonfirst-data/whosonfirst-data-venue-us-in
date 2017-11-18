@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.995719,39.774578,-85.995719,39.774578",
     "geom:latitude":39.774578,
     "geom:longitude":-85.995719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9739 E Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602438,
-    "wof:geomhash":"c93dcb59c42d43969c936e1fc9dc5d60",
+    "wof:geomhash":"869766ca73f4796c07cfd908d6b5f30c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":806950103,
-    "wof:lastmodified":1472623051,
+    "wof:lastmodified":1510941678,
     "wof:name":"Disc Replay",
     "wof:parent_id":85854541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790262063
+    ],
     "wof:tags":[]
 },
   "bbox": [

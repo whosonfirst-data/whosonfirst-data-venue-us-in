@@ -7,13 +7,16 @@
     "addr:postcode":"46324",
     "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.508949,41.595162,-87.508949,41.595162",
     "geom:latitude":41.595162,
     "geom:longitude":-87.508949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6517 Calumet Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603200,
-    "wof:geomhash":"18614268f022b0147b4fd1ed94968543",
+    "wof:geomhash":"a763932e2b8f980ba563a139c4ddb0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":807039563,
-    "wof:lastmodified":1472622358,
+    "wof:lastmodified":1510942558,
     "wof:name":"White Castle",
     "wof:parent_id":85858873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807040563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

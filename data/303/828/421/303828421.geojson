@@ -7,13 +7,16 @@
     "addr:postcode":"46158",
     "addr:street":"N Indiana St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.374844,39.616496,-86.374844,39.616496",
     "geom:latitude":39.616496,
     "geom:longitude":-86.374844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"169 N Indiana St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2G8HzEWoY1glqs94EjqItC_39.616496_-86.374844@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"eca7aa0109a89c3a4622bf9c67bb5566",
+    "wof:geomhash":"12eef2c0e8ff760406e808ef50f4552d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":303828421,
-    "wof:lastmodified":1472622523,
+    "wof:lastmodified":1510942424,
     "wof:name":"WENZ Corp",
     "wof:parent_id":85859409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806891545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

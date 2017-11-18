@@ -7,13 +7,16 @@
     "addr:postcode":"46290",
     "addr:street":"W 106Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159897,39.9417,-86.159897,39.9417",
     "geom:latitude":39.9417,
     "geom:longitude":-86.159897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"170 W 106th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602985,
-    "wof:geomhash":"05fb13083c1cea36b2e5fc5842fc7855",
+    "wof:geomhash":"3fa8adb100a93f34c8f978a72c1da571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807014765,
-    "wof:lastmodified":1472622309,
+    "wof:lastmodified":1510941773,
     "wof:name":"Perkins Van Natta Esthetics",
     "wof:parent_id":420519543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790355161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

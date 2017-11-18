@@ -7,13 +7,16 @@
     "addr:postcode":"46037",
     "addr:street":"Mckinstray Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.986916,39.943012,-85.986916,39.943012",
     "geom:latitude":39.943012,
     "geom:longitude":-85.986916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10219 Mckinstray Ct",
     "sg:city":"Fishers",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601763,
-    "wof:geomhash":"56b3ab43904a36c3d844b5d317727ec1",
+    "wof:geomhash":"a99b1a909cfac5ebb88625aa64449387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":806868943,
-    "wof:lastmodified":1472622990,
+    "wof:lastmodified":1510943322,
     "wof:name":"Indy Tumble Bus",
     "wof:parent_id":420519579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773659447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

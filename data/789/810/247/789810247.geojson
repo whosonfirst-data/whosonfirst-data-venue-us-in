@@ -7,13 +7,16 @@
     "addr:postcode":"46250",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.054562,39.905249,-86.054562,39.905249",
     "geom:latitude":39.905249,
     "geom:longitude":-86.054562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6633 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590715,
-    "wof:geomhash":"50fe2b6356505e919d6caba84ae107ed",
+    "wof:geomhash":"12958172ce4789e19e032b68d50901a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":789810247,
-    "wof:lastmodified":1472622651,
+    "wof:lastmodified":1510943067,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806979865
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telephone",

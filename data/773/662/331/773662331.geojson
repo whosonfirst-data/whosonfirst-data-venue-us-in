@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.381847,40.194396,-85.381847,40.194396",
     "geom:latitude":40.194396,
     "geom:longitude":-85.381847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"415 E Washington St",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587413,
-    "wof:geomhash":"923f015d50c423bb50bec27f963b2cfc",
+    "wof:geomhash":"8afed8ec4ac2c6fc3d42030707bfbbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":773662331,
-    "wof:lastmodified":1472623195,
+    "wof:lastmodified":1510941292,
     "wof:name":"Meeks Mortuary",
     "wof:parent_id":85812887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807064283
+    ],
     "wof:tags":[
         "director"
     ]

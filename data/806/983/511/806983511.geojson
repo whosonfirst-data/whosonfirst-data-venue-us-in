@@ -7,13 +7,16 @@
     "addr:postcode":"46250",
     "addr:street":"N Shadeland Ave Ste 360",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.044502,39.903702,-86.044502,39.903702",
     "geom:latitude":39.903702,
     "geom:longitude":-86.044502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8075 N Shadeland Ave Ste 360",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602725,
-    "wof:geomhash":"a139e4d5978ef502f9e0a6489c91cb4e",
+    "wof:geomhash":"d5a91659e442e3c2856ceb8e08152c90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":806983511,
-    "wof:lastmodified":1472623073,
+    "wof:lastmodified":1510941951,
     "wof:name":"Indiana Heart Surgeons",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806977033
+    ],
+    "wof:supersedes":[
+        773607355
+    ],
     "wof:tags":[]
 },
   "bbox": [

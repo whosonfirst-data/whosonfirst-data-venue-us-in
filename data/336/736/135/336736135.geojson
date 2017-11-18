@@ -7,13 +7,16 @@
     "addr:postcode":"46204",
     "addr:street":"N Illinois St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.159671,39.771247,-86.159671,39.771247",
     "geom:latitude":39.771247,
     "geom:longitude":-86.159671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 N Illinois St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1xHxAgCUEz2Kuiu0AoUMTV_39.771247_-86.159671@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"26fdd730032408de397ff58e801f07d8",
+    "wof:geomhash":"58168af5fb42d1a65b308cfea8506e0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":336736135,
-    "wof:lastmodified":1472622359,
+    "wof:lastmodified":1510941543,
     "wof:name":"Marvin D Brown CPA",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806905279
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
