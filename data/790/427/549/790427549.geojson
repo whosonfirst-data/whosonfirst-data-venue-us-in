@@ -2,18 +2,24 @@
   "id": 790427549,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 E Broadway Logansport IN 46947",
+    "addr:city":"Logansport",
+    "addr:full":"900 E Broadway Logansport, In 46947",
+    "addr:house_number":"900",
     "addr:housenumber":"900",
+    "addr:phone":"+1 574-753-4058",
     "addr:postcode":"46947",
+    "addr:road":"E Broadway",
+    "addr:state":"IN",
     "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.357281,40.755476,-86.357281,40.755476",
-    "geom:latitude":40.755476,
-    "geom:longitude":-86.357281,
+    "geom:bbox":"-86.35859,40.75534,-86.35859,40.75534",
+    "geom:latitude":40.75534,
+    "geom:longitude":-86.35859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"900 E Broadway",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800117,
         "sg:id":"SG_4sDslLgcfkM7Uw9cpKnILE_40.755476_-86.357281@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462595753,
-    "wof:geomhash":"6bf083f73bf5d0402f11071a292b7c43",
+    "wof:geomhash":"176ff618bc5a1a7f41eadfa317199d98",
     "wof:hierarchy":[],
     "wof:id":790427549,
-    "wof:lastmodified":1472622857,
+    "wof:lastmodified":1534186058,
     "wof:name":"Cole Clothing Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -86.357281,
-    40.755476,
-    -86.357281,
-    40.755476
+    -86.35859,
+    40.75534,
+    -86.35859,
+    40.75534
 ],
-  "geometry": {"coordinates":[-86.357281,40.755476],"type":"Point"}
+  "geometry": {"coordinates":[-86.35859000000001,40.75534],"type":"Point"}
 }

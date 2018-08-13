@@ -7,6 +7,7 @@
     "addr:postcode":"47932",
     "addr:street":"S Stringtown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.375931,40.052243,-87.375931,40.052243",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.375931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2390 S Stringtown Rd",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -50,15 +52,17 @@
     },
     "wof:country":"US",
     "wof:created":1462603666,
-    "wof:geomhash":"13a1fec879f2daa35631764aff28c187",
+    "wof:geomhash":"0e913a6713ff2849ca65d12292e51b0e",
     "wof:hierarchy":[],
     "wof:id":807095219,
-    "wof:lastmodified":1472622472,
+    "wof:lastmodified":1534186053,
     "wof:name":"Stringtown Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773153319
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "god",

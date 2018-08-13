@@ -7,6 +7,7 @@
     "addr:postcode":"46250",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.063834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6020 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":806841293,
-    "wof:lastmodified":1511316616,
+    "wof:lastmodified":1534186057,
     "wof:name":"Long John Silver's",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806983557
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

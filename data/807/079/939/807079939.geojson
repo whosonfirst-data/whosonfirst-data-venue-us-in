@@ -2,18 +2,23 @@
   "id": 807079939,
   "type": "Feature",
   "properties": {
-    "addr:full":"308 W 4th St Bloomington IN 47404",
+    "addr:city":"Bloomington",
+    "addr:full":"308 West Fourth Street Bloomington, In 47404-5120",
+    "addr:house_number":"308",
     "addr:housenumber":"308",
-    "addr:postcode":"47404",
+    "addr:postcode":"47404-5120",
+    "addr:road":"West Fourth Street",
+    "addr:state":"IN",
     "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.536204,39.165606,-86.536204,39.165606",
-    "geom:latitude":39.165606,
-    "geom:longitude":-86.536204,
+    "geom:bbox":"-86.53621,39.16569,-86.53621,39.16569",
+    "geom:latitude":39.16569,
+    "geom:longitude":-86.53621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"308 W 4th St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -28,7 +33,10 @@
     "sg:postcode":"47404",
     "sg:province":"IN",
     "sg:website":"www.wonderlab.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531085
+    ],
     "wof:belongsto":[
         85803503,
         102191575,
@@ -40,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501090,
         "sg:id":"SG_4nLJjIr5Y9WddYrGA2LJSx_39.165606_-86.536204@1303262773"
     },
     "wof:country":"US",
     "wof:created":1462603532,
-    "wof:geomhash":"4782ace34a0bb435bf49ca8318978ea0",
+    "wof:geomhash":"63563d68fa6a9eba8a516ae74172cc47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":807079939,
-    "wof:lastmodified":1472622471,
-    "wof:name":"Wonderlab Museum of Science Health & Technology",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Wonderlab Museum Of Science Health And Technology",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.536204,
-    39.165606,
-    -86.536204,
-    39.165606
+    -86.53621,
+    39.16569,
+    -86.53621,
+    39.16569
 ],
-  "geometry": {"coordinates":[-86.536204,39.165606],"type":"Point"}
+  "geometry": {"coordinates":[-86.53621,39.16569],"type":"Point"}
 }

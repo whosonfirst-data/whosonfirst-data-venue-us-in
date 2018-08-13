@@ -7,6 +7,7 @@
     "addr:postcode":"46240",
     "addr:street":"Woodfield Crossing Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120142,39.909089,-86.120142,39.909089",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.120142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8425 Woodfield Crossing Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602581,
-    "wof:geomhash":"6fab36a2a3315afc57e41a8d6f7cb640",
+    "wof:geomhash":"e9b398923129e0b26e8bac7a787f7ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":806966647,
-    "wof:lastmodified":1472623063,
+    "wof:lastmodified":1534186053,
     "wof:name":"Right Management",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773168847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

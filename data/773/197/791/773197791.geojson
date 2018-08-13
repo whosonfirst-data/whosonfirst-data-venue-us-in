@@ -2,18 +2,24 @@
   "id": 773197791,
   "type": "Feature",
   "properties": {
-    "addr:full":"1004 E Market St Logansport IN 46947",
+    "addr:city":"Logansport",
+    "addr:full":"1004 E Market St Logansport, In 46947-3560",
+    "addr:house_number":"1004",
     "addr:housenumber":"1004",
-    "addr:postcode":"46947",
+    "addr:phone":"+1 574-753-3866",
+    "addr:postcode":"46947-3560",
+    "addr:road":"E Market St",
+    "addr:state":"IN",
     "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.356167,40.754553,-86.356167,40.754553",
-    "geom:latitude":40.754553,
-    "geom:longitude":-86.356167,
+    "geom:bbox":"-86.35691,40.75442,-86.35691,40.75442",
+    "geom:latitude":40.75442,
+    "geom:longitude":-86.35691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1004 E Market St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800637,
         "sg:id":"SG_7dES2AghfPoQkaj5g3divq_40.754553_-86.356167@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583918,
-    "wof:geomhash":"433226ff9ee520df00239760876ec8c9",
+    "wof:geomhash":"a636ced053c9195fbdf1fc1b7866893e",
     "wof:hierarchy":[],
     "wof:id":773197791,
-    "wof:lastmodified":1472622905,
-    "wof:name":"Cass County Historical Society",
+    "wof:lastmodified":1534186054,
+    "wof:name":"Cass County Historical Society & Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -86.356167,
-    40.754553,
-    -86.356167,
-    40.754553
+    -86.35691,
+    40.75442,
+    -86.35691,
+    40.75442
 ],
-  "geometry": {"coordinates":[-86.356167,40.754553],"type":"Point"}
+  "geometry": {"coordinates":[-86.35691,40.75442],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"47715",
     "addr:street":"E Indiana St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.4664,37.9776,-87.4664,37.9776",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.4664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7200 E Indiana St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603647,
-    "wof:geomhash":"f40f81520177649c5cca9fd22697d888",
+    "wof:geomhash":"c26088f5248d15384a37c2f2ea75ada7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":807093285,
-    "wof:lastmodified":1472622471,
+    "wof:lastmodified":1534186053,
     "wof:name":"Deaconess Cross Pointe",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790108611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"

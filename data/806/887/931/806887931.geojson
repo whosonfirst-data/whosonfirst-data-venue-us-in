@@ -7,6 +7,7 @@
     "addr:postcode":"46142",
     "addr:street":"Westridge Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.146377,39.618131,-86.146377,39.618131",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.146377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"377 Westridge Blvd",
     "sg:city":"Greenwood",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601914,
-    "wof:geomhash":"984b3b8ee73cf60a6aa9fea84a25ba21",
+    "wof:geomhash":"13122eeb83b811ca6b725ae4c626b6bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":806887931,
-    "wof:lastmodified":1472623020,
+    "wof:lastmodified":1534186054,
     "wof:name":"Regency Place Health Care Rehab Center",
     "wof:parent_id":85826767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806579993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

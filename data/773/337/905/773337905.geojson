@@ -7,6 +7,7 @@
     "addr:postcode":"46237",
     "addr:street":"S Emerson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082156,39.659493,-86.082156,39.659493",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.082156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7725 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462584968,
-    "wof:geomhash":"d5fb6ea90b2b4b4b7e5b4cc303162a19",
+    "wof:geomhash":"4d6832f6c4f10ce6e49be0e8cb79f0a0",
     "wof:hierarchy":[],
     "wof:id":773337905,
-    "wof:lastmodified":1472623093,
+    "wof:lastmodified":1534186056,
     "wof:name":"Annette T Farthing PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806955387
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

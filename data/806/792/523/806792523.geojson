@@ -2,18 +2,24 @@
   "id": 806792523,
   "type": "Feature",
   "properties": {
-    "addr:full":"650 N Meridian St Indianapolis IN 46204",
+    "addr:city":"Indianapolis",
+    "addr:full":"650 N Meridian St Indianapolis, In 46204-1214",
+    "addr:house_number":"650",
     "addr:housenumber":"650",
-    "addr:postcode":"46204",
+    "addr:phone":"+1 317-262-3100",
+    "addr:postcode":"46204-1214",
+    "addr:road":"N Meridian St",
+    "addr:state":"IN",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.157722,39.776144,-86.157722,39.776144",
-    "geom:latitude":39.776144,
-    "geom:longitude":-86.157722,
+    "geom:bbox":"-86.15782,39.77616,-86.15782,39.77616",
+    "geom:latitude":39.77616,
+    "geom:longitude":-86.15782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"650 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "community"
     ],
     "sg:website":"http://www.aasr-indy.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85866951,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800310,
         "sg:id":"SG_6YTmHtchya3LsWH635C9cS_39.776134_-86.157805@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601124,
-    "wof:geomhash":"99a44166134d0f23484738fa8f84b845",
+    "wof:geomhash":"866cb2499c58aff580ca23efc56646d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":806792523,
-    "wof:lastmodified":1472622916,
+    "wof:lastmodified":1534186058,
     "wof:name":"Scottish Rite Cathedral",
     "wof:parent_id":85866951,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -86.157722,
-    39.776144,
-    -86.157722,
-    39.776144
+    -86.15782,
+    39.77616,
+    -86.15782,
+    39.77616
 ],
-  "geometry": {"coordinates":[-86.15772200000001,39.776144],"type":"Point"}
+  "geometry": {"coordinates":[-86.15782,39.77616],"type":"Point"}
 }

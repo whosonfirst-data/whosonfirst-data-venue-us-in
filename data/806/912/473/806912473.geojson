@@ -2,18 +2,24 @@
   "id": 806912473,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 E 38th St Indianapolis IN 46205",
+    "addr:city":"Indianapolis",
+    "addr:full":"1201 E 38Th St Indianapolis, In 46205",
+    "addr:house_number":"1201",
     "addr:housenumber":"1201",
+    "addr:phone":"+1 317-927-7568",
     "addr:postcode":"46205",
+    "addr:road":"E 38Th St",
+    "addr:state":"IN",
     "addr:street":"E 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.137039,39.825352,-86.137039,39.825352",
-    "geom:latitude":39.825352,
-    "geom:longitude":-86.137039,
+    "geom:bbox":"-86.13706,39.82536,-86.13706,39.82536",
+    "geom:latitude":39.82536,
+    "geom:longitude":-86.13706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1201 E 38th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "employer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85868441,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800107,
         "sg:id":"SG_2NPGtltidJHs1xdlxcr2yI_39.825352_-86.137039@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602115,
-    "wof:geomhash":"dc510d02246c1bdaa5eb81832a7b3fd5",
+    "wof:geomhash":"3ff948aa7f15c2630be97a753ea26a03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":806912473,
-    "wof:lastmodified":1472623031,
-    "wof:name":"Center For Agricultural Science And Heritage Inc",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Center For Agricultural Science And Heritage",
     "wof:parent_id":85868441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -86.137039,
-    39.825352,
-    -86.137039,
-    39.825352
+    -86.13706,
+    39.82536,
+    -86.13706,
+    39.82536
 ],
-  "geometry": {"coordinates":[-86.137039,39.825352],"type":"Point"}
+  "geometry": {"coordinates":[-86.13706000000001,39.82536],"type":"Point"}
 }

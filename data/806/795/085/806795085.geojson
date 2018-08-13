@@ -2,18 +2,23 @@
   "id": 806795085,
   "type": "Feature",
   "properties": {
-    "addr:full":"1610 119th St Whiting IN 46394",
+    "addr:city":"Whiting",
+    "addr:full":"1610 119Th Street Whiting, In 46394",
+    "addr:house_number":"1610",
     "addr:housenumber":"1610",
     "addr:postcode":"46394",
+    "addr:road":"119Th Street",
+    "addr:state":"IN",
     "addr:street":"119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.490303,41.679199,-87.490303,41.679199",
-    "geom:latitude":41.679199,
-    "geom:longitude":-87.490303,
+    "geom:bbox":"-87.4902,41.67928,-87.4902,41.67928",
+    "geom:latitude":41.67928,
+    "geom:longitude":-87.4902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1610 119th St",
     "sg:city":"Whiting",
     "sg:classifiers":[
@@ -27,19 +32,23 @@
     "sg:phone":"+1 219 659 1432",
     "sg:postcode":"46394",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530699
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800313,
         "sg:id":"SG_7B5pBtor4biLWyIHkuPRcT_41.679337_-87.490180@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462601143,
-    "wof:geomhash":"454f454510d4830aaedcce1cd998e823",
+    "wof:geomhash":"e9be556717a391fe01f36ebf9c4c6838",
     "wof:hierarchy":[],
     "wof:id":806795085,
-    "wof:lastmodified":1472622908,
-    "wof:name":"Whiting-Robertsdale Historical Society Museum",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Whiting-Robertsdale Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -48,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.490303,
-    41.679199,
-    -87.490303,
-    41.679199
+    -87.4902,
+    41.67928,
+    -87.4902,
+    41.67928
 ],
-  "geometry": {"coordinates":[-87.490303,41.679199],"type":"Point"}
+  "geometry": {"coordinates":[-87.4902,41.67928],"type":"Point"}
 }

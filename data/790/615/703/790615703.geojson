@@ -7,6 +7,7 @@
     "addr:postcode":"46204",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157997,39.77143,-86.157997,39.77143",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.157997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597368,
-    "wof:geomhash":"62cb0b16dea7b73c39baee53b2f3eb40",
+    "wof:geomhash":"527c9d19fa3d8140f7c56233a67ad39c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":790615703,
-    "wof:lastmodified":1472623041,
+    "wof:lastmodified":1534186052,
     "wof:name":"Bindley Assoc",
     "wof:parent_id":85870645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789629403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

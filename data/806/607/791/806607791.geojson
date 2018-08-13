@@ -7,6 +7,7 @@
     "addr:postcode":"46750",
     "addr:street":"Hauenstein Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.519682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"346 Hauenstein Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"0ad5254e5e145142def4278e7e341c5f",
     "wof:hierarchy":[],
     "wof:id":806607791,
-    "wof:lastmodified":1511996190,
+    "wof:lastmodified":1534186055,
     "wof:name":"Applebee's Neighborhood Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806821459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"46310",
     "addr:street":"N Halleck St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.19891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"338 N Halleck St",
     "sg:city":"Demotte",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":790528325,
-    "wof:lastmodified":1512142780,
+    "wof:lastmodified":1534186055,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806813877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

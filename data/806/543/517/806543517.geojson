@@ -2,18 +2,24 @@
   "id": 806543517,
   "type": "Feature",
   "properties": {
-    "addr:full":"1050 S Main St Scottsburg IN 47170",
+    "addr:city":"Scottsburg",
+    "addr:full":"1050 S Main St Scottsburg, In 47170",
+    "addr:house_number":"1050",
     "addr:housenumber":"1050",
+    "addr:phone":"+1 812-752-1050",
     "addr:postcode":"47170",
+    "addr:road":"S Main St",
+    "addr:state":"IN",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.77005,38.674778,-85.77005,38.674778",
-    "geom:latitude":38.674778,
-    "geom:longitude":-85.77005,
+    "geom:bbox":"-85.77006,38.67577,-85.77006,38.67577",
+    "geom:latitude":38.67577,
+    "geom:longitude":-85.77006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1050 S Main St",
     "sg:city":"Scottsburg",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 812 752 1050",
     "sg:postcode":"47170",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800016,
         "sg:id":"SG_5YGrnzBwJkZnLL8ZHmyNfe_38.674778_-85.770050@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462598987,
-    "wof:geomhash":"f4ab1d667e548f1ccffb3bae59807235",
+    "wof:geomhash":"7b573c80ffc66ee3dbe9afff1ea08b4c",
     "wof:hierarchy":[],
     "wof:id":806543517,
-    "wof:lastmodified":1472622592,
-    "wof:name":"Scott County Heritage Ctr",
+    "wof:lastmodified":1534186054,
+    "wof:name":"Scott County Heritage Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.77005,
-    38.674778,
-    -85.77005,
-    38.674778
+    -85.77006,
+    38.67577,
+    -85.77006,
+    38.67577
 ],
-  "geometry": {"coordinates":[-85.77005,38.674778],"type":"Point"}
+  "geometry": {"coordinates":[-85.77006,38.67577],"type":"Point"}
 }

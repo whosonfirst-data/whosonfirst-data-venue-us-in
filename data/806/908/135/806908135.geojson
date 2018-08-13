@@ -7,6 +7,7 @@
     "addr:postcode":"46204",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157532,39.781551,-86.157532,39.781551",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.157532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1099 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602078,
-    "wof:geomhash":"d941c82c74445bf0eff0d947cb6c1439",
+    "wof:geomhash":"5d411fd33ff138cac3f48ca8d916d0cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":806908135,
-    "wof:lastmodified":1472623026,
+    "wof:lastmodified":1534186053,
     "wof:name":"Global Automation Partners (Gap), Inc.",
     "wof:parent_id":85866951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773075703
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

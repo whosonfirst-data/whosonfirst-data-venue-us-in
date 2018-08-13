@@ -7,6 +7,7 @@
     "addr:postcode":"46241",
     "addr:street":"W Morris St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233437,39.74974,-86.233437,39.74974",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.233437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4408 W Morris St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586424,
-    "wof:geomhash":"234af2bfe1aa15b016d9889f013acaf9",
+    "wof:geomhash":"834e995c9aab085b42a38867dd389445",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773531285,
-    "wof:lastmodified":1472623153,
+    "wof:lastmodified":1534186057,
     "wof:name":"Mac's Septic Svc",
     "wof:parent_id":85818791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806976709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"

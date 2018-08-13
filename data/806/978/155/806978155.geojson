@@ -14,6 +14,7 @@
     "geom:longitude":-86.080447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8850 River Bend Pkwy",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602675,
-    "wof:geomhash":"5b96e71b6cd421c448fc3d7933652303",
+    "wof:geomhash":"0cdaa589e726fe76f0c27089a579080a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":806978155,
-    "wof:lastmodified":1472623069,
+    "wof:lastmodified":1534186057,
     "wof:name":"Core Riverbend",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806977265
+    ],
     "wof:tags":[
         "vacancy",
         "apartment",

@@ -7,6 +7,7 @@
     "addr:postcode":"46250",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.096397,39.907501,-86.096397,39.907501",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.096397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4130 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602676,
-    "wof:geomhash":"34a2dca3ece1579a9181c2c187c3cf9d",
+    "wof:geomhash":"b717032c0244e329ee6e60ef673a68cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":806978323,
-    "wof:lastmodified":1472623071,
+    "wof:lastmodified":1534186057,
     "wof:name":"Bgi In-Line",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806982809
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"

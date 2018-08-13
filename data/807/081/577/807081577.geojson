@@ -7,6 +7,7 @@
     "addr:postcode":"47404",
     "addr:street":"W State Road 46",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577797,39.208,-86.577797,39.208",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.577797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4727 W State Road 46",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603545,
-    "wof:geomhash":"27261bb0a55c72330c98f3e60c9d59a2",
+    "wof:geomhash":"c4ddd7c758eabc53f0b4e54d25edcd47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807081577,
-    "wof:lastmodified":1472622470,
+    "wof:lastmodified":1534186055,
     "wof:name":"Jiffy Treet West",
     "wof:parent_id":85819979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806832199
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

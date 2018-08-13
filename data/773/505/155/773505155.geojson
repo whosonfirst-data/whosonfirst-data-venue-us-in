@@ -2,18 +2,24 @@
   "id": 773505155,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 E Clinton St Frankfort IN 46041",
+    "addr:city":"Frankfort",
+    "addr:full":"301 E Clinton St Frankfort, In 46041",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
+    "addr:phone":"+1 765-659-2030",
     "addr:postcode":"46041",
+    "addr:road":"E Clinton St",
+    "addr:state":"IN",
     "addr:street":"E Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.50968,40.280657,-86.50968,40.280657",
-    "geom:latitude":40.280657,
-    "geom:longitude":-86.50968,
+    "geom:bbox":"-86.50717,40.28056,-86.50717,40.28056",
+    "geom:latitude":40.28056,
+    "geom:longitude":-86.50717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 E Clinton St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 765 659 2030",
     "sg:postcode":"46041",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800390,
         "sg:id":"SG_4OrZf5mZQxdvJTENEsr5GT_40.280657_-86.509680@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586240,
-    "wof:geomhash":"ec979723441300525957c349a873da0a",
+    "wof:geomhash":"bcfe33d6f3831ec4c1146c8b58d3c487",
     "wof:hierarchy":[],
     "wof:id":773505155,
-    "wof:lastmodified":1472623145,
-    "wof:name":"Clinton County Historical Soc",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Clinton County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.50968,
-    40.280657,
-    -86.50968,
-    40.280657
+    -86.50717,
+    40.28056,
+    -86.50717,
+    40.28056
 ],
-  "geometry": {"coordinates":[-86.50968,40.280657],"type":"Point"}
+  "geometry": {"coordinates":[-86.50717,40.28056],"type":"Point"}
 }

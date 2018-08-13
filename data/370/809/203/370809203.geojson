@@ -7,6 +7,7 @@
     "addr:postcode":"46219",
     "addr:street":"N Ritter Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073875,39.787672,-86.073875,39.787672",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.073875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 N Ritter Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4Goao01nsk384JBrGpZPR4_39.787672_-86.073875@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c85ac72ad23037a60483c61324c4b8e",
+    "wof:geomhash":"e62a2e2574bd5eef0a14fbd77798d87f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":370809203,
-    "wof:lastmodified":1472622506,
+    "wof:lastmodified":1534186056,
     "wof:name":"North/East Surgeons",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806924761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

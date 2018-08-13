@@ -2,18 +2,24 @@
   "id": 387883415,
   "type": "Feature",
   "properties": {
-    "addr:full":"690 Beech St Zionsville IN 46077",
+    "addr:city":"Zionsville",
+    "addr:full":"690 Beech St Zionsville, In 46077",
+    "addr:house_number":"690",
     "addr:housenumber":"690",
+    "addr:phone":"+1 317-873-8950",
     "addr:postcode":"46077",
+    "addr:road":"Beech St",
+    "addr:state":"IN",
     "addr:street":"Beech St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.267383,39.953725,-86.267383,39.953725",
-    "geom:latitude":39.953725,
-    "geom:longitude":-86.267383,
+    "geom:bbox":"-86.26865,39.95376,-86.26865,39.95376",
+    "geom:latitude":39.95376,
+    "geom:longitude":-86.26865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"690 Beech St",
     "sg:city":"Zionsville",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "center",
         "nature"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85688709,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800267,
         "sg:id":"SG_0B1ckmbpvw3Un0s5ZUUKfd_39.953725_-86.267383@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"7876753c5aa5020a52bcea0d85c274e7",
+    "wof:geomhash":"6e284763857a09808c15d8911c5fc4d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":387883415,
-    "wof:lastmodified":1472622586,
-    "wof:name":"Zion Nature Ctr",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Zion Nature Center",
     "wof:parent_id":85838263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -86.267383,
-    39.953725,
-    -86.267383,
-    39.953725
+    -86.26865,
+    39.95376,
+    -86.26865,
+    39.95376
 ],
-  "geometry": {"coordinates":[-86.267383,39.953725],"type":"Point"}
+  "geometry": {"coordinates":[-86.26864999999999,39.95376],"type":"Point"}
 }

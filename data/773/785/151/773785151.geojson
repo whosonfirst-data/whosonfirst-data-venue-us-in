@@ -7,6 +7,7 @@
     "addr:postcode":"46256",
     "addr:street":"Fall Creek Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.972074,39.929777,-85.972074,39.929777",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.972074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11020 Fall Creek Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588354,
-    "wof:geomhash":"81cf20efbea0380102c702042640905e",
+    "wof:geomhash":"ff15c6637187b03a380fdee67420438d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,12 +85,14 @@
         }
     ],
     "wof:id":773785151,
-    "wof:lastmodified":1472623230,
+    "wof:lastmodified":1534186057,
     "wof:name":"Ace Boarding Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806993067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "boarding",

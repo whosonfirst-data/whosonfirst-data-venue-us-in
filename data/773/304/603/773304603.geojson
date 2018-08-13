@@ -7,6 +7,7 @@
     "addr:postcode":"46360",
     "addr:street":"Wabash St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.903643,41.714218,-86.903643,41.714218",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.903643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 Wabash St",
     "sg:city":"Michigan City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584719,
-    "wof:geomhash":"93668a09effd42f3b53b29ba0a293e6b",
+    "wof:geomhash":"65467af69bf8e66766e3d3c3960b1a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773304603,
-    "wof:lastmodified":1472623092,
+    "wof:lastmodified":1534186051,
     "wof:name":"Hush Puppies Retail Inc",
     "wof:parent_id":420519711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320387963
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

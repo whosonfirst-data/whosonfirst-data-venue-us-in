@@ -7,6 +7,7 @@
     "addr:postcode":"46290",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157924,39.940744,-86.157924,39.940744",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.157924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10590 N Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602979,
-    "wof:geomhash":"51d897df6d417b3178e92d4beb5ebfbf",
+    "wof:geomhash":"a767732ad94282ec3e6fe6da5092fb31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":807014027,
-    "wof:lastmodified":1472622291,
+    "wof:lastmodified":1534186054,
     "wof:name":"Elsner Gregory B MD Facc",
     "wof:parent_id":420519597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807014957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"

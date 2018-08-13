@@ -7,6 +7,7 @@
     "addr:postcode":"46320",
     "addr:street":"Hohman Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.522183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5500 Hohman Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -76,7 +78,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603085,
-    "wof:geomhash":"14f7a53f531eadc9da19cf59137ca440",
+    "wof:geomhash":"f1ffc91f999f2855817b692ce4a9b09b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,12 +91,14 @@
         }
     ],
     "wof:id":807025853,
-    "wof:lastmodified":1492102217,
+    "wof:lastmodified":1534186055,
     "wof:name":"Saint Margaret Mercy Outpatient Behavioral Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303658539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

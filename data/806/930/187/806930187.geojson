@@ -7,6 +7,7 @@
     "addr:postcode":"46220",
     "addr:street":"Hillside Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12468,39.866804,-86.12468,39.866804",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.12468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6161 Hillside Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602276,
-    "wof:geomhash":"5847b7429f21ee16d7f4851a170974e7",
+    "wof:geomhash":"37538da98c60fd3e1aad6021da917ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":806930187,
-    "wof:lastmodified":1472623040,
+    "wof:lastmodified":1534186054,
     "wof:name":"Hoosier Badge",
     "wof:parent_id":85813725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806570609
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

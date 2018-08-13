@@ -7,6 +7,7 @@
     "addr:postcode":"46250",
     "addr:street":"East 82Nd Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.097495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"River's Edge Shopping Plaza 4040 East 82nd Street",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -71,12 +72,14 @@
         }
     ],
     "wof:id":806977745,
-    "wof:lastmodified":1511319488,
+    "wof:lastmodified":1534186052,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370608457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

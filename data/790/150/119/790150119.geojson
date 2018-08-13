@@ -2,18 +2,24 @@
   "id": 790150119,
   "type": "Feature",
   "properties": {
-    "addr:full":"626 Main St Anderson IN 46016",
+    "addr:city":"Anderson",
+    "addr:full":"626 Main St Anderson, In 46016-1514",
+    "addr:house_number":"626",
     "addr:housenumber":"626",
-    "addr:postcode":"46016",
+    "addr:phone":"+1 765-648-6875",
+    "addr:postcode":"46016-1514",
+    "addr:road":"Main St",
+    "addr:state":"IN",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.678118,40.10803,-85.678118,40.10803",
-    "geom:latitude":40.10803,
-    "geom:longitude":-85.678118,
+    "geom:bbox":"-85.67811,40.10878,-85.67811,40.10878",
+    "geom:latitude":40.10878,
+    "geom:longitude":-85.67811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"626 Main St",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531929
+    ],
     "wof:belongsto":[
         85825401,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800477,
         "sg:id":"SG_2dIBUwIRVadY7vPGfLMN2m_40.108030_-85.678118@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462593506,
-    "wof:geomhash":"70578faf27c6d569622c2a4ca09d8d80",
+    "wof:geomhash":"614df044af46268f2f3b20df792b0452",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":790150119,
-    "wof:lastmodified":1472622522,
+    "wof:lastmodified":1534186053,
     "wof:name":"Gruenewald Historic House",
     "wof:parent_id":85825401,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -85.678118,
-    40.10803,
-    -85.678118,
-    40.10803
+    -85.67811,
+    40.10878,
+    -85.67811,
+    40.10878
 ],
-  "geometry": {"coordinates":[-85.678118,40.10803],"type":"Point"}
+  "geometry": {"coordinates":[-85.67811,40.10878],"type":"Point"}
 }

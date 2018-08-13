@@ -7,6 +7,7 @@
     "addr:postcode":"46260",
     "addr:street":"Naab Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198196,39.9077,-86.198196,39.9077",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.198196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8333 Naab Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602873,
-    "wof:geomhash":"08183dac9eff2e099436d23925e87912",
+    "wof:geomhash":"3e033f679130d75097db99dec7a6aef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":807001723,
-    "wof:lastmodified":1472622278,
+    "wof:lastmodified":1534186057,
     "wof:name":"Steinmetz Edward F MD",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806998447
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"

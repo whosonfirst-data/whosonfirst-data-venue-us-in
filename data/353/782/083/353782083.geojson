@@ -15,6 +15,7 @@
     "geom:longitude":-86.109505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8888 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_5z7UktygWm2KN6vDktZrOt_39.917631_-86.109505@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9a25d3dedfbaeaf1576f8c40f10eb1e",
+    "wof:geomhash":"8a3d97fc4cd5c37d61da4208acaa07c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":353782083,
-    "wof:lastmodified":1491885528,
+    "wof:lastmodified":1534186051,
     "wof:name":"Robinson & Wolenty",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806968775
+    ],
     "wof:tags":[
         "attorney"
     ]

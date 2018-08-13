@@ -7,6 +7,7 @@
     "addr:postcode":"47404",
     "addr:street":"S College Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.535004,39.164799,-86.535004,39.164799",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.535004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"226 S College Ave",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603516,
-    "wof:geomhash":"624f5c960b3ec1fbd8fd48b5958e324a",
+    "wof:geomhash":"78eeea26fc29ddc223374fc08c0b8e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807077837,
-    "wof:lastmodified":1472622469,
+    "wof:lastmodified":1534186055,
     "wof:name":"Bunger Thomas Atty",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806761457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"46123",
     "addr:street":"N State Road 267",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.399821,39.764715,-86.399821,39.764715",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.399821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"128 N State Road 267",
     "sg:city":"Avon",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601892,
-    "wof:geomhash":"c4323fe9a9f5f084bc94d05ea01eed1e",
+    "wof:geomhash":"6e231955aee5d125022ebd267979bbab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":806884861,
-    "wof:lastmodified":1472623018,
+    "wof:lastmodified":1534186053,
     "wof:name":"Charbono's",
     "wof:parent_id":420519641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789691307
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

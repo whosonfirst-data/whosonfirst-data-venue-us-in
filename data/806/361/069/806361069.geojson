@@ -2,18 +2,24 @@
   "id": 806361069,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 N Minnetrista Pkwy Muncie IN 47303",
+    "addr:city":"Muncie",
+    "addr:full":"1200 N Minnetrista Pkwy Muncie, In 47303-2925",
+    "addr:house_number":"1200",
     "addr:housenumber":"1200",
-    "addr:postcode":"47303",
+    "addr:phone":"+1 765-282-4848",
+    "addr:postcode":"47303-2925",
+    "addr:road":"N Minnetrista Pkwy",
+    "addr:state":"IN",
     "addr:street":"N Minnetrista Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.390383,40.205005,-85.390383,40.205005",
-    "geom:latitude":40.205005,
-    "geom:longitude":-85.390383,
+    "geom:bbox":"-85.39388,40.20392,-85.39388,40.20392",
+    "geom:latitude":40.20392,
+    "geom:longitude":-85.39388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1200 N Minnetrista Pkwy",
     "sg:city":"Muncie",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"47303",
     "sg:province":"IN",
     "sg:website":"www.mccoak.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531929
+    ],
     "wof:belongsto":[
         85815231,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800427,
         "sg:id":"SG_75A2UVcDzEVVoovqXrUN8w_40.205005_-85.390383@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597514,
-    "wof:geomhash":"f505cb06b14ead95a2e4a820f96b30e4",
+    "wof:geomhash":"92cac6e986c0c27301263ecdce2e1bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":806361069,
-    "wof:lastmodified":1472622270,
-    "wof:name":"Minnetrista Cultural Ctr",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Minnetrista",
     "wof:parent_id":85815231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.390383,
-    40.205005,
-    -85.390383,
-    40.205005
+    -85.39388,
+    40.20392,
+    -85.39388,
+    40.20392
 ],
-  "geometry": {"coordinates":[-85.390383,40.205005],"type":"Point"}
+  "geometry": {"coordinates":[-85.39388,40.20392],"type":"Point"}
 }

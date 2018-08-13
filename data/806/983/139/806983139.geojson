@@ -14,6 +14,7 @@
     "geom:longitude":-86.0495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8250 Bash St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602722,
-    "wof:geomhash":"c84914207c72455abafe86a4c78cae5e",
+    "wof:geomhash":"ce53bc013e6029588d82712e4367e250",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806983139,
-    "wof:lastmodified":1472623067,
+    "wof:lastmodified":1534186057,
     "wof:name":"Vestre W A Ms DVM",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806978679
+    ],
     "wof:tags":[
         "veterinarian"
     ]

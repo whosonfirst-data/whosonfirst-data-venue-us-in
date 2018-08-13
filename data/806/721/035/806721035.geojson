@@ -7,6 +7,7 @@
     "addr:postcode":"46220",
     "addr:street":"Broad Ripple Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.140323,39.869641,-86.140323,39.869641",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.140323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1079 Broad Ripple Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600514,
-    "wof:geomhash":"63bf68b06da71cca9fc32cd0ca7fa0ac",
+    "wof:geomhash":"0220135322c85143cce329a4a8cbedea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":806721035,
-    "wof:lastmodified":1472622815,
+    "wof:lastmodified":1534186056,
     "wof:name":"Running Co",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806929549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

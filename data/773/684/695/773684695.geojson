@@ -2,18 +2,24 @@
   "id": 773684695,
   "type": "Feature",
   "properties": {
-    "addr:full":"524 3rd St Columbus IN 47201",
+    "addr:city":"Columbus",
+    "addr:full":"524 3Rd St Columbus, In 47201-6724",
+    "addr:house_number":"524",
     "addr:housenumber":"524",
-    "addr:postcode":"47201",
+    "addr:phone":"+1 812-372-3541",
+    "addr:postcode":"47201-6724",
+    "addr:road":"3Rd St",
+    "addr:state":"IN",
     "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.918664,39.201555,-85.918664,39.201555",
-    "geom:latitude":39.201555,
-    "geom:longitude":-85.918664,
+    "geom:bbox":"-85.91911,39.20155,-85.91911,39.20155",
+    "geom:latitude":39.20155,
+    "geom:longitude":-85.91911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"524 3rd St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 812 372 3541",
     "sg:postcode":"47201",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526433
+    ],
     "wof:belongsto":[
-        85688709,
+        102087181,
         85633793,
-        85821009,
-        102087181
+        85688709,
+        85821009
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800652,
         "sg:id":"SG_2QIcRPzFo44q3D1Rj9aeVr_39.201555_-85.918664@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587575,
-    "wof:geomhash":"f5d073e7f04e1bd3a3f86b8c79328803",
+    "wof:geomhash":"2417ce973757ef8b5156069e08d3f09e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +61,8 @@
         }
     ],
     "wof:id":773684695,
-    "wof:lastmodified":1472623203,
-    "wof:name":"Bartholomew County Historical",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Bartholomew County Historical Society",
     "wof:parent_id":85821009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.918664,
-    39.201555,
-    -85.918664,
-    39.201555
+    -85.91911,
+    39.20155,
+    -85.91911,
+    39.20155
 ],
-  "geometry": {"coordinates":[-85.91866400000001,39.201555],"type":"Point"}
+  "geometry": {"coordinates":[-85.91911,39.20155],"type":"Point"}
 }

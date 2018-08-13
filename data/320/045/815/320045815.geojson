@@ -14,6 +14,7 @@
     "geom:longitude":-86.158802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3004 S Meridian St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
         "sg:id":"SG_3FV8gnkX9xjqxpSIxL4fAG_39.720988_-86.158802@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd7dd764821b80a1b98cad959180f7ee",
+    "wof:geomhash":"fe3fb1f61fcf6d708add16a3456a37cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":320045815,
-    "wof:lastmodified":1472622301,
+    "wof:lastmodified":1534186051,
     "wof:name":"Cleary Vacuum & Janitor Equip",
     "wof:parent_id":85870639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806918581
+    ],
     "wof:tags":[
         "vacuum",
         "system",

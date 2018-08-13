@@ -7,6 +7,7 @@
     "addr:postcode":"46237",
     "addr:street":"S Emerson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082776,39.641031,-86.082776,39.641031",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.082776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8810 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462599909,
-    "wof:geomhash":"2c1e19ad935715705540133b854f9800",
+    "wof:geomhash":"28e4b5c1ff8bbd089aacb0d58f2a39f1",
     "wof:hierarchy":[],
     "wof:id":806650473,
-    "wof:lastmodified":1472622727,
+    "wof:lastmodified":1534186056,
     "wof:name":"El Meson LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806955789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

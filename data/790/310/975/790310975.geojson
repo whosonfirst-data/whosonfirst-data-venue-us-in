@@ -7,6 +7,7 @@
     "addr:postcode":"46240",
     "addr:street":"E 82Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.098389,39.908012,-86.098389,39.908012",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.098389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3906 E 82nd St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594853,
-    "wof:geomhash":"e0ccf5b6efe24474f93f3976e1c00ced",
+    "wof:geomhash":"8f94ae310e38bb899eb6a65018d22a52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":790310975,
-    "wof:lastmodified":1472622742,
+    "wof:lastmodified":1534186056,
     "wof:name":"Cookie Cutters",
     "wof:parent_id":85802863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806958221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

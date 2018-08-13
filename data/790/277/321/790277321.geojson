@@ -2,17 +2,22 @@
   "id": 790277321,
   "type": "Feature",
   "properties": {
-    "addr:full":"1101 E Market St Jeffersonville IN 47130",
+    "addr:city":"Jeffersonville",
+    "addr:full":"1101 East Market Street Jeffersonville, In 47131-0606",
+    "addr:house_number":"1101",
     "addr:housenumber":"1101",
-    "addr:postcode":"47130",
+    "addr:phone":"+1 812-283-3728",
+    "addr:postcode":"47131-0606",
+    "addr:road":"East Market Street",
+    "addr:state":"IN",
     "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.72531,38.277786,-85.72531,38.277786",
-    "geom:latitude":38.277786,
-    "geom:longitude":-85.72531,
+    "geom:bbox":"-85.7256,38.27772,-85.7256,38.27772",
+    "geom:latitude":38.27772,
+    "geom:longitude":-85.7256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,11 @@
     "sg:phone":"+1 812 283 3728",
     "sg:postcode":"47130",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85842775,
         102191575,
@@ -41,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800111,
         "osm:node":3663065867,
         "sg:id":"SG_0J6TvbapKIux5LIfXLzGuJ_38.277786_-85.725310@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462594583,
-    "wof:geomhash":"3a2f04790972e53169faa5da5098e678",
+    "wof:geomhash":"a5f7ab6f32fce14e92eda9781da7834b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":790277321,
-    "wof:lastmodified":1510943477,
+    "wof:lastmodified":1534186054,
     "wof:name":"Howard Steamboat Museum",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.72531,
-    38.277786,
-    -85.72531,
-    38.277786
+    -85.7256,
+    38.27772,
+    -85.7256,
+    38.27772
 ],
-  "geometry": {"coordinates":[-85.72530999999999,38.277786],"type":"Point"}
+  "geometry": {"coordinates":[-85.7256,38.27772],"type":"Point"}
 }

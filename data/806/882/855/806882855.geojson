@@ -14,6 +14,7 @@
     "geom:longitude":-86.386912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 E Northfield Dr",
     "sg:city":"Brownsburg",
     "sg:classifiers":[
@@ -67,7 +68,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601877,
-    "wof:geomhash":"1034e089a765bf2dd3952e7818d72cfe",
+    "wof:geomhash":"0967d9916bdcfbc42f6ff58a38ffc242",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -79,13 +80,15 @@
         }
     ],
     "wof:id":806882855,
-    "wof:lastmodified":1472623011,
+    "wof:lastmodified":1534186056,
     "wof:name":"Brownsburg Family Medical Center",
     "wof:parent_id":85852497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        403962643
+    ],
     "wof:tags":[
         "physician",
         "family",

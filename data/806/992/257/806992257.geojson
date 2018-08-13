@@ -14,6 +14,7 @@
     "geom:longitude":-86.026424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10151 Hague Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -65,7 +66,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602792,
-    "wof:geomhash":"6c37e67e42862fd64654c98d4b976358",
+    "wof:geomhash":"1ea5007a97bfb0aeaccd3f367c76748d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,13 +80,15 @@
         }
     ],
     "wof:id":806992257,
-    "wof:lastmodified":1472623075,
+    "wof:lastmodified":1534186057,
     "wof:name":"Harding FE Asphalt Companies",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806991449
+    ],
     "wof:tags":[
         "marking",
         "lot",

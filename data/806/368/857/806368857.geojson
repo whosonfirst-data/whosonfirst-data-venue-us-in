@@ -2,18 +2,24 @@
   "id": 806368857,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 E Berry St Fort Wayne IN 46802",
+    "addr:city":"Fort Wayne",
+    "addr:full":"200 E Berry St Fort Wayne, In 46802",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 260-455-3864",
     "addr:postcode":"46802",
+    "addr:road":"E Berry St",
+    "addr:state":"IN",
     "addr:street":"E Berry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.136573,41.079758,-85.136573,41.079758",
-    "geom:latitude":41.079758,
-    "geom:longitude":-85.136573,
+    "geom:bbox":"-85.138,41.07942,-85.138,41.07942",
+    "geom:latitude":41.07942,
+    "geom:longitude":-85.138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 E Berry St",
     "sg:city":"Fort Wayne",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"46802",
     "sg:province":"IN",
     "sg:website":"www.alincoln.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526669,
+        102528551
+    ],
     "wof:belongsto":[
         85877543,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800082,
         "sg:id":"SG_7DBWQpnmJqMDa0ZdL1XF29_41.079758_-85.136573@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462597590,
-    "wof:geomhash":"c418dfb4614099530528ef341b650a90",
+    "wof:geomhash":"75d216dcbaaaf98b2330ea804b1757f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +69,7 @@
         }
     ],
     "wof:id":806368857,
-    "wof:lastmodified":1472622309,
+    "wof:lastmodified":1534186052,
     "wof:name":"Lincoln Museum",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.136573,
-    41.079758,
-    -85.136573,
-    41.079758
+    -85.138,
+    41.07942,
+    -85.138,
+    41.07942
 ],
-  "geometry": {"coordinates":[-85.136573,41.079758],"type":"Point"}
+  "geometry": {"coordinates":[-85.13800000000001,41.07942],"type":"Point"}
 }

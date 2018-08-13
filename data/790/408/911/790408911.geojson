@@ -7,6 +7,7 @@
     "addr:postcode":"47404",
     "addr:street":"N Walnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533494,39.171414,-86.533494,39.171414",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.533494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 N Walnut St",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595605,
-    "wof:geomhash":"8b396aa518bc485572b02763bd89cbd7",
+    "wof:geomhash":"6661457b5461264e6ed3f023c9f43bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":790408911,
-    "wof:lastmodified":1472622852,
+    "wof:lastmodified":1534186055,
     "wof:name":"Koch Law Firm",
     "wof:parent_id":85803503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807078145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

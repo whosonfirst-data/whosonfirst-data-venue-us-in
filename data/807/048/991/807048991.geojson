@@ -2,18 +2,23 @@
   "id": 807048991,
   "type": "Feature",
   "properties": {
-    "addr:full":"2409 W 5th Ave Gary IN 46404",
+    "addr:city":"Gary",
+    "addr:full":"2409 W 5Th Ave Gary, In 46404",
+    "addr:house_number":"2409",
     "addr:housenumber":"2409",
     "addr:postcode":"46404",
+    "addr:road":"W 5Th Ave",
+    "addr:state":"IN",
     "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.36673,41.601929,-87.36673,41.601929",
-    "geom:latitude":41.601929,
-    "geom:longitude":-87.36673,
+    "geom:bbox":"-87.36681,41.60185,-87.36681,41.60185",
+    "geom:latitude":41.60185,
+    "geom:longitude":-87.36681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2409 W 5th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -36,7 +41,10 @@
         "consultant",
         "galleries"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530699
+    ],
     "wof:belongsto":[
         85852319,
         102191575,
@@ -48,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800432,
         "sg:id":"SG_2c4L9PrE8bB2KqAv2BsinM_41.601929_-87.366730@1303262771"
     },
     "wof:country":"US",
     "wof:created":1462603280,
-    "wof:geomhash":"b3bbec48f7816e8c8f84ae2d7dea6d08",
+    "wof:geomhash":"40855834a1c01ed89a3f09dcd45fbde2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,8 +75,8 @@
         }
     ],
     "wof:id":807048991,
-    "wof:lastmodified":1472622384,
-    "wof:name":"Gary Historical & Cultural Society Inc",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Gary Historical And Cultural Society",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -79,10 +88,10 @@
     ]
 },
   "bbox": [
-    -87.36673,
-    41.601929,
-    -87.36673,
-    41.601929
+    -87.36681,
+    41.60185,
+    -87.36681,
+    41.60185
 ],
-  "geometry": {"coordinates":[-87.36673,41.601929],"type":"Point"}
+  "geometry": {"coordinates":[-87.36681,41.60185],"type":"Point"}
 }

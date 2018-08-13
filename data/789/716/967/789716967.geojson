@@ -2,18 +2,24 @@
   "id": 789716967,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 9th St Winona Lake IN 46590",
+    "addr:city":"Winona Lake",
+    "addr:full":"105 9Th St Winona Lake, In 46590",
+    "addr:house_number":"105",
     "addr:housenumber":"105",
+    "addr:phone":"+1 574-372-5193",
     "addr:postcode":"46590",
+    "addr:road":"9Th St",
+    "addr:state":"IN",
     "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.818789,41.226378,-85.818789,41.226378",
-    "geom:latitude":41.226378,
-    "geom:longitude":-85.818789,
+    "geom:bbox":"-85.81439,41.21911,-85.81439,41.21911",
+    "geom:latitude":41.21911,
+    "geom:longitude":-85.81439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"105 9th St",
     "sg:city":"Winona Lake",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 574 372 5193",
     "sg:postcode":"46590",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688709,
+        102087157,
         85633793,
-        85819801,
-        102087157
+        85688709,
+        85819801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800023,
         "sg:id":"SG_2OtdMWPNKTpOMUVPhcyjkB_41.226378_-85.818789@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462589988,
-    "wof:geomhash":"da5a6b2eba582fbdce2c3967634c84be",
+    "wof:geomhash":"3b0772941401f95de81de7e383be6fa0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +59,8 @@
         }
     ],
     "wof:id":789716967,
-    "wof:lastmodified":1472622559,
-    "wof:name":"Reneker Museum-Winona Hstry",
+    "wof:lastmodified":1534186053,
+    "wof:name":"Reneker Museum-Winona History",
     "wof:parent_id":85819801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.818789,
-    41.226378,
-    -85.818789,
-    41.226378
+    -85.81439,
+    41.21911,
+    -85.81439,
+    41.21911
 ],
-  "geometry": {"coordinates":[-85.818789,41.226378],"type":"Point"}
+  "geometry": {"coordinates":[-85.81439,41.21911],"type":"Point"}
 }

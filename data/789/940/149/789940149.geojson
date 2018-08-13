@@ -7,6 +7,7 @@
     "addr:postcode":"46601",
     "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250884,41.675097,-86.250884,41.675097",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.250884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 W Jefferson Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462591788,
-    "wof:geomhash":"8260b404084b431be76970e5ac53bda7",
+    "wof:geomhash":"db6e561a6873e13a1c6bfa104f5fc442",
     "wof:hierarchy":[],
     "wof:id":789940149,
-    "wof:lastmodified":1472622789,
+    "wof:lastmodified":1534186052,
     "wof:name":"Federal Mdtion Cnciliation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790029817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mediation",

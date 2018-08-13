@@ -7,6 +7,7 @@
     "addr:postcode":"47150",
     "addr:street":"Charlestown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.787548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4212 Charlestown Rd",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":403966537,
-    "wof:lastmodified":1512000287,
+    "wof:lastmodified":1534186055,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":85846703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806828009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

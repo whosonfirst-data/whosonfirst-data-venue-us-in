@@ -2,18 +2,24 @@
   "id": 806897953,
   "type": "Feature",
   "properties": {
-    "addr:full":"1230 N Delaware St Indianapolis IN 46202",
+    "addr:city":"Indianapolis",
+    "addr:full":"1230 N Delaware St Indianapolis, In 46202-2531",
+    "addr:house_number":"1230",
     "addr:housenumber":"1230",
-    "addr:postcode":"46202",
+    "addr:phone":"+1 317-631-1898",
+    "addr:postcode":"46202-2531",
+    "addr:road":"N Delaware St",
+    "addr:state":"IN",
     "addr:street":"N Delaware St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.153943,39.783596,-86.153943,39.783596",
-    "geom:latitude":39.783596,
-    "geom:longitude":-86.153943,
+    "geom:bbox":"-86.15404,39.78334,-86.15404,39.78334",
+    "geom:latitude":39.78334,
+    "geom:longitude":-86.15404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1230 N Delaware St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
         "historical"
     ],
     "sg:website":"http://www.pbhh.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85866945,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800361,
         "sg:id":"SG_4fJHSemNdEFMrcWY2wLb2M_39.783596_-86.153943@1303262762"
     },
     "wof:country":"US",
     "wof:created":1462601995,
-    "wof:geomhash":"007607cebc3bc34ca23d12bd09e8bd43",
+    "wof:geomhash":"fc2445694b1b59ef6b1697046ff87fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,8 +76,8 @@
         }
     ],
     "wof:id":806897953,
-    "wof:lastmodified":1472623021,
-    "wof:name":"Benjamin Harrison Presidential Home",
+    "wof:lastmodified":1534186058,
+    "wof:name":"President Benjamin Harrison Foundation",
     "wof:parent_id":85866945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -78,10 +88,10 @@
     ]
 },
   "bbox": [
-    -86.153943,
-    39.783596,
-    -86.153943,
-    39.783596
+    -86.15404,
+    39.78334,
+    -86.15404,
+    39.78334
 ],
-  "geometry": {"coordinates":[-86.153943,39.783596],"type":"Point"}
+  "geometry": {"coordinates":[-86.15403999999999,39.78334],"type":"Point"}
 }

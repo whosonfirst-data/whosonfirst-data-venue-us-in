@@ -7,6 +7,7 @@
     "addr:postcode":"46530",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.17803,41.722915,-86.17803,41.722915",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.17803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6910 N Main St",
     "sg:city":"Granger",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462593092,
-    "wof:geomhash":"6026a64b8239c34f4d5b1f07dbfe53bb",
+    "wof:geomhash":"1455c3a5f76953e787d84b43336f13ef",
     "wof:hierarchy":[],
     "wof:id":790095307,
-    "wof:lastmodified":1472622447,
+    "wof:lastmodified":1534186053,
     "wof:name":"Shultz Appraisal Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790156843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

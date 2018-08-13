@@ -7,6 +7,7 @@
     "addr:postcode":"46032",
     "addr:street":"Keystone Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.115483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1235 Keystone Way",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":806801973,
-    "wof:lastmodified":1511997601,
+    "wof:lastmodified":1534186055,
     "wof:name":"Carrabba's",
     "wof:parent_id":420519611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806851129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

@@ -7,6 +7,7 @@
     "addr:postcode":"46250",
     "addr:street":"Bash St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.048212,39.909611,-86.048212,39.909611",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.048212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8250 Bash St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595797,
-    "wof:geomhash":"8de39398c4e898e5f8d42bc86d7c93d8",
+    "wof:geomhash":"4a84f171cf3f545f0eb7aac5661c284d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":790433633,
-    "wof:lastmodified":1472622859,
+    "wof:lastmodified":1534186057,
     "wof:name":"Veterinary Ophthalmic",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806984279
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

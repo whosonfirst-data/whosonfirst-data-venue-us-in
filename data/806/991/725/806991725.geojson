@@ -14,6 +14,7 @@
     "geom:longitude":-86.037804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8040 Clearvista Pkwy Ste 150",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602788,
-    "wof:geomhash":"b10a40eb532f4f1ed8bb33a6850d9984",
+    "wof:geomhash":"b6ef4123391c7055a587bfc6661241fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":806991725,
-    "wof:lastmodified":1472623084,
+    "wof:lastmodified":1534186057,
     "wof:name":"Indiana Surgery Centers",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806991261
+    ],
     "wof:tags":[]
 },
   "bbox": [

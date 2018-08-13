@@ -2,18 +2,24 @@
   "id": 773363759,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 S Washington St Marion IN 46953",
+    "addr:city":"Marion",
+    "addr:full":"600 S Washington Street Marion, In 46953",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
+    "addr:phone":"+1 765-668-2900",
     "addr:postcode":"46953",
+    "addr:road":"S Washington Street",
+    "addr:state":"IN",
     "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.659791,40.55513,-85.659791,40.55513",
-    "geom:latitude":40.55513,
-    "geom:longitude":-85.659791,
+    "geom:bbox":"-85.65988,40.55602,-85.65988,40.55602",
+    "geom:latitude":40.55602,
+    "geom:longitude":-85.65988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"600 S Washington St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 765 668 2900",
     "sg:postcode":"46953",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688709,
+        85828297,
         85633793,
         85941707,
         102087025,
-        85828297
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800633,
         "sg:id":"SG_6v1PMDiuyaq9h3z4aNFiK7_40.555130_-85.659791@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585138,
-    "wof:geomhash":"b86a8fe78107af805fb0528cdb0edcf7",
+    "wof:geomhash":"82eb22f24a3eba3614a532303abfcfd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":773363759,
-    "wof:lastmodified":1472623101,
-    "wof:name":"Marion Public Library",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Marion Public Library & Museum",
     "wof:parent_id":85828297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.659791,
-    40.55513,
-    -85.659791,
-    40.55513
+    -85.65988,
+    40.55602,
+    -85.65988,
+    40.55602
 ],
-  "geometry": {"coordinates":[-85.659791,40.55513],"type":"Point"}
+  "geometry": {"coordinates":[-85.65988,40.55602],"type":"Point"}
 }

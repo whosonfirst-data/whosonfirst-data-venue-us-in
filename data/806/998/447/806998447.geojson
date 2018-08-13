@@ -14,6 +14,7 @@
     "geom:longitude":-86.198196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8333 Naab Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602849,
-    "wof:geomhash":"08183dac9eff2e099436d23925e87912",
+    "wof:geomhash":"3e033f679130d75097db99dec7a6aef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806998447,
-    "wof:lastmodified":1472623079,
+    "wof:lastmodified":1534186057,
     "wof:name":"Steinmetz Joseph E MD",
     "wof:parent_id":85822909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807001723
+    ],
     "wof:tags":[
         "cardiologist"
     ]

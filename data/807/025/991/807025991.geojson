@@ -7,6 +7,7 @@
     "addr:postcode":"46320",
     "addr:street":"S Hohman Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.522102,41.606201,-87.522102,41.606201",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.522102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5920 S Hohman Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462603089,
-    "wof:geomhash":"fc8796a99997d74190329d622541f803",
+    "wof:geomhash":"42dca83feacf05d00824a299df89a685",
     "wof:hierarchy":[],
     "wof:id":807025991,
-    "wof:lastmodified":1472622317,
+    "wof:lastmodified":1534186054,
     "wof:name":"Smith J B Lwyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807026975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

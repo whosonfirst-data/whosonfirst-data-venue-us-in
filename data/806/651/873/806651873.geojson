@@ -2,18 +2,24 @@
   "id": 806651873,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 W Jefferson St Columbia City IN 46725",
+    "addr:city":"Columbia City",
+    "addr:full":"108 W Jefferson St Columbia City, In 46725-1744",
+    "addr:house_number":"108",
     "addr:housenumber":"108",
-    "addr:postcode":"46725",
+    "addr:phone":"+1 260-244-6372",
+    "addr:postcode":"46725-1744",
+    "addr:road":"W Jefferson St",
+    "addr:state":"IN",
     "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.489783,41.159287,-85.489783,41.159287",
-    "geom:latitude":41.159287,
-    "geom:longitude":-85.489783,
+    "geom:bbox":"-85.48858,41.1593,-85.48858,41.1593",
+    "geom:latitude":41.1593,
+    "geom:longitude":-85.48858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"108 W Jefferson St",
     "sg:city":"Columbia City",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 260 244 6372",
     "sg:postcode":"46725",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800322,
         "sg:id":"SG_1KhIwjDydAl0alcGFPjBw8_41.159287_-85.489783@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462599923,
-    "wof:geomhash":"9b8d7a302f138a6621623e0b068171b4",
+    "wof:geomhash":"27de6e0ea5ee4d55fd62fd7dbd31834f",
     "wof:hierarchy":[],
     "wof:id":806651873,
-    "wof:lastmodified":1472622737,
-    "wof:name":"Whitley County Museum",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Whitley County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.489783,
-    41.159287,
-    -85.489783,
-    41.159287
+    -85.48858,
+    41.1593,
+    -85.48858,
+    41.1593
 ],
-  "geometry": {"coordinates":[-85.489783,41.159287],"type":"Point"}
+  "geometry": {"coordinates":[-85.48858,41.1593],"type":"Point"}
 }

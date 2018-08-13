@@ -15,6 +15,7 @@
     "geom:longitude":-87.522005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5500 Hohman Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
         "sg:id":"SG_1N6yYhO0DYOc67J7Pi4qVn_41.612945_-87.522005@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba28c4b40eaca7891299ba92612ac64b",
+    "wof:geomhash":"9184fb1796fd3013bdb5e318f9394b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":303658539,
-    "wof:lastmodified":1492090489,
+    "wof:lastmodified":1534186055,
     "wof:name":"St Margaret Mercy Behavioral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807025853
+    ],
     "wof:tags":[
         "psychologist"
     ]

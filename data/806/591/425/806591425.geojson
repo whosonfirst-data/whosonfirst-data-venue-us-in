@@ -14,6 +14,7 @@
     "geom:longitude":-86.269556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4620 S High School Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599409,
-    "wof:geomhash":"81ec5e5ba43ec6ce3a62284764028f57",
+    "wof:geomhash":"ccd8936cc2ffafc6defcd84e7bf31911",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":806591425,
-    "wof:lastmodified":1472622647,
+    "wof:lastmodified":1534186054,
     "wof:name":"Valley Brook Mobile Home Park",
     "wof:parent_id":85853431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806974809
+    ],
     "wof:tags":[
         "mobile",
         "home",

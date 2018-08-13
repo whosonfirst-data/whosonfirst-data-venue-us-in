@@ -2,18 +2,24 @@
   "id": 790081577,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 N Monroe St Mooresville IN 46158",
+    "addr:city":"Mooresville",
+    "addr:full":"250 N Monroe St Mooresville, In 46158-1551",
+    "addr:house_number":"250",
     "addr:housenumber":"250",
-    "addr:postcode":"46158",
+    "addr:phone":"+1 317-831-9001",
+    "addr:postcode":"46158-1551",
+    "addr:road":"N Monroe St",
+    "addr:state":"IN",
     "addr:street":"N Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.380839,39.615624,-86.380839,39.615624",
-    "geom:latitude":39.615624,
-    "geom:longitude":-86.380839,
+    "geom:bbox":"-86.38119,39.61605,-86.38119,39.61605",
+    "geom:latitude":39.61605,
+    "geom:longitude":-86.38119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"250 N Monroe St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85859409,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800132,
         "sg:id":"SG_0EqherDpuXBxdjXBjuwO7h_39.615624_-86.380839@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592981,
-    "wof:geomhash":"c232c51ecf74aca501d2d1c423953734",
+    "wof:geomhash":"5486501c9a3e83c2629d69fc185fdecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":790081577,
-    "wof:lastmodified":1472622430,
+    "wof:lastmodified":1534186053,
     "wof:name":"Academy Building Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -86.380839,
-    39.615624,
-    -86.380839,
-    39.615624
+    -86.38119,
+    39.61605,
+    -86.38119,
+    39.61605
 ],
-  "geometry": {"coordinates":[-86.38083899999999,39.615624],"type":"Point"}
+  "geometry": {"coordinates":[-86.38119,39.61605],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"46410",
     "addr:street":"E 80Th Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.324537,41.474585,-87.324537,41.474585",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.324537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 E 80th Pl",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582544,
-    "wof:geomhash":"0f7c4da62cc737cfcd5363f7d1559bf4",
+    "wof:geomhash":"3d6e6a966b4d6d0dfbc5dc1b106020d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773027365,
-    "wof:lastmodified":1472622420,
+    "wof:lastmodified":1534186052,
     "wof:name":"Reingold Company Inc PC",
     "wof:parent_id":85810405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        371162117
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm"

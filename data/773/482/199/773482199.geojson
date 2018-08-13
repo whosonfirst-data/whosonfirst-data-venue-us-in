@@ -7,6 +7,7 @@
     "addr:postcode":"46237",
     "addr:street":"E Southport Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.092317,39.665696,-86.092317,39.665696",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.092317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4350 E Southport Rd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -36,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1462586086,
-    "wof:geomhash":"c0eee95001fdc83ef7f123387074b2a0",
+    "wof:geomhash":"51fb2ab6b7e90168500b1196b50303be",
     "wof:hierarchy":[],
     "wof:id":773482199,
-    "wof:lastmodified":1472623137,
+    "wof:lastmodified":1534186056,
     "wof:name":"Cracker Barrel Old Country Str",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806955419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

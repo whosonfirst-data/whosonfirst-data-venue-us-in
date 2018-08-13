@@ -7,6 +7,7 @@
     "addr:postcode":"46032",
     "addr:street":"N Meridian St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157451,39.963614,-86.157451,39.963614",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.157451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11911 N Meridian St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601720,
-    "wof:geomhash":"06a19a9fb86a6ee01bd36ebf5170200b",
+    "wof:geomhash":"b3680ac43df32f7ef3eec7240ef5f78b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":806863225,
-    "wof:lastmodified":1472622965,
+    "wof:lastmodified":1534186057,
     "wof:name":"New Horizon Pediatrics",
     "wof:parent_id":85891103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773757817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

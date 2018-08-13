@@ -2,18 +2,24 @@
   "id": 773578837,
   "type": "Feature",
   "properties": {
-    "addr:full":"71 N 500 W Valparaiso IN 46385",
+    "addr:city":"Valparaiso",
+    "addr:full":"71 N 500 W Valparaiso, In 46385-9231",
+    "addr:house_number":"71",
     "addr:housenumber":"71",
-    "addr:postcode":"46385",
+    "addr:phone":"+1 219-462-0025",
+    "addr:postcode":"46385-9231",
+    "addr:road":"N 500 W",
+    "addr:state":"IN",
     "addr:street":"N 500 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.161772,41.44497,-87.161772,41.44497",
-    "geom:latitude":41.44497,
-    "geom:longitude":-87.161772,
+    "geom:bbox":"-87.16189,41.43901,-87.16189,41.43901",
+    "geom:latitude":41.43901,
+    "geom:longitude":-87.16189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"71 N 500 W",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -31,18 +37,22 @@
         "arboretum"
     ],
     "sg:website":"www.taltree.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420519847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800560,
         "sg:id":"SG_1sD9MCmXI05psY8SrE0OIi_41.444970_-87.161772@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462586796,
-    "wof:geomhash":"382fbf46acbc4bd343dac8d0c5aaf750",
+    "wof:geomhash":"055408ce848eaf21dc07bc062a2cce71",
     "wof:hierarchy":[],
     "wof:id":773578837,
-    "wof:lastmodified":1472623171,
+    "wof:lastmodified":1534186058,
     "wof:name":"Taltree Arboretum & Gardens",
     "wof:parent_id":420519847,
     "wof:placetype":"venue",
@@ -54,10 +64,10 @@
     ]
 },
   "bbox": [
-    -87.161772,
-    41.44497,
-    -87.161772,
-    41.44497
+    -87.16189,
+    41.43901,
+    -87.16189,
+    41.43901
 ],
-  "geometry": {"coordinates":[-87.161772,41.44497],"type":"Point"}
+  "geometry": {"coordinates":[-87.16189,41.43901],"type":"Point"}
 }

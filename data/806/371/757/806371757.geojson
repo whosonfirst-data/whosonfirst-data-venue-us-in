@@ -14,6 +14,7 @@
     "geom:longitude":-86.109412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9000 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597612,
-    "wof:geomhash":"246bcbd40b1d3b2f8151256c2c76eb93",
+    "wof:geomhash":"f46ef9c4330091249a9fc816daf3b3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806371757,
-    "wof:lastmodified":1472622311,
+    "wof:lastmodified":1534186052,
     "wof:name":"Saapio",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806640653
+    ],
     "wof:tags":[
         "establishment"
     ]

@@ -2,18 +2,24 @@
   "id": 789837223,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 E Main St Butler IN 46721",
+    "addr:city":"Butler",
+    "addr:full":"201 East Main Street Butler, In 46721-1409",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"46721",
+    "addr:phone":"+1 540-586-4520",
+    "addr:postcode":"46721-1409",
+    "addr:road":"East Main Street",
+    "addr:state":"IN",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.870196,41.429715,-84.870196,41.429715",
-    "geom:latitude":41.429715,
-    "geom:longitude":-84.870196,
+    "geom:bbox":"-84.86907,41.42981,-84.86907,41.42981",
+    "geom:latitude":41.42981,
+    "geom:longitude":-84.86907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 E Main St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800387,
         "sg:id":"SG_11hiCUNr0SkScxo4asyGcb_41.429715_-84.870196@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590922,
-    "wof:geomhash":"0a7c2a1e5766b66597c69341f5efd8e0",
+    "wof:geomhash":"53711ae4209614b00e6442369636a766",
     "wof:hierarchy":[],
     "wof:id":789837223,
-    "wof:lastmodified":1472622688,
-    "wof:name":"Dekalb County Historical",
+    "wof:lastmodified":1534186054,
+    "wof:name":"Dekalb Co Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -84.870196,
-    41.429715,
-    -84.870196,
-    41.429715
+    -84.86907,
+    41.42981,
+    -84.86907,
+    41.42981
 ],
-  "geometry": {"coordinates":[-84.87019600000001,41.429715],"type":"Point"}
+  "geometry": {"coordinates":[-84.86906999999999,41.42981],"type":"Point"}
 }

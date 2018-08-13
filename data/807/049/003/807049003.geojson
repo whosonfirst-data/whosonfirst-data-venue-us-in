@@ -7,6 +7,7 @@
     "addr:postcode":"46404",
     "addr:street":"W 11Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.362793,41.591499,-87.362793,41.591499",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.362793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2148 W 11th Ave",
     "sg:city":"Gary",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603280,
-    "wof:geomhash":"baba18a13a67583662f590044f81d2e3",
+    "wof:geomhash":"6695d696e23d1d5bdd183f24a868a10e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":807049003,
-    "wof:lastmodified":1472622369,
+    "wof:lastmodified":1534186053,
     "wof:name":"Robert L. Lewis & Associates",
     "wof:parent_id":85852319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773159703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

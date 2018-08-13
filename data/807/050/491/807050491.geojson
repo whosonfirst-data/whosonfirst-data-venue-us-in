@@ -7,6 +7,7 @@
     "addr:postcode":"46410",
     "addr:street":"E Lincoln Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.263874,41.470875,-87.263874,41.470875",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.263874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4613 E Lincoln Hwy",
     "sg:city":"Merrillville",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603291,
-    "wof:geomhash":"b30f9bbec39781293852afb63d206136",
+    "wof:geomhash":"3ab1baf665c05df245b7dd122fd9b619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":807050491,
-    "wof:lastmodified":1472622381,
+    "wof:lastmodified":1534186052,
     "wof:name":"Harbor Honda",
     "wof:parent_id":420519709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789587837
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

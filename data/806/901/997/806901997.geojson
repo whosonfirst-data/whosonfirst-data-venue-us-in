@@ -7,6 +7,7 @@
     "addr:postcode":"46203",
     "addr:street":"S Emerson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082615,39.700827,-86.082615,39.700827",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.082615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4570 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602024,
-    "wof:geomhash":"c8646cb9dd0fe8ce75c8135a22acf0a6",
+    "wof:geomhash":"6e8fb6d84b76e48d12ad4523a4e77f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":806901997,
-    "wof:lastmodified":1472623032,
+    "wof:lastmodified":1534186052,
     "wof:name":"Emerson Grove Tire & Service",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        371151807
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

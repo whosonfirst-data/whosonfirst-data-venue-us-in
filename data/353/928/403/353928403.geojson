@@ -15,6 +15,7 @@
     "geom:longitude":-87.248283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7768 E Ridge Rd",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
         "sg:id":"SG_2WTvukJt0N1zvAfANxBX3c_41.550798_-87.248283@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"859557d32fb3f3474f40a8551596d389",
+    "wof:geomhash":"392cf5fe4308ea252e14369daa0e8326",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":353928403,
-    "wof:lastmodified":1492091689,
+    "wof:lastmodified":1534186052,
     "wof:name":"Dollar Tree",
     "wof:parent_id":420519677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807043243
+    ],
     "wof:tags":[
         "shop"
     ]

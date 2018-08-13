@@ -7,6 +7,7 @@
     "addr:postcode":"46038",
     "addr:street":"N By Northeast Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026299,39.9282,-86.026299,39.9282",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.026299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8250 N by Northeast Blvd",
     "sg:city":"Fishers",
     "sg:classifiers":[
@@ -43,15 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1462601786,
-    "wof:geomhash":"6707b715b4316e16ff1e7bca20e59ea3",
+    "wof:geomhash":"0f988d47478b9d0fedd0a63c232ea757",
     "wof:hierarchy":[],
     "wof:id":806871923,
-    "wof:lastmodified":1472622995,
+    "wof:lastmodified":1534186053,
     "wof:name":"Studio 6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790179235
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

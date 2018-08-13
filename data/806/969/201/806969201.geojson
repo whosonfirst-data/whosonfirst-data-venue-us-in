@@ -7,6 +7,7 @@
     "addr:postcode":"46240",
     "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.109497,39.916698,-86.109497,39.916698",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.109497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9000 Keystone Xing",
     "sg:city":"Nora",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602604,
-    "wof:geomhash":"bb272b81bc671f5b73b23277666caec3",
+    "wof:geomhash":"bc213879e7186928b348b8722d45fd89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806969201,
-    "wof:lastmodified":1472623061,
+    "wof:lastmodified":1534186058,
     "wof:name":"Gaw Michele PC",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773774029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

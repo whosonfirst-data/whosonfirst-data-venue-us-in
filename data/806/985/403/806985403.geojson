@@ -14,6 +14,7 @@
     "geom:longitude":-86.057899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6020 E 82nd St Ste 200",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602740,
-    "wof:geomhash":"55f07483e35870ae75f990e6edac18ab",
+    "wof:geomhash":"e5ac2393e0d390441909662eedbc1988",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806985403,
-    "wof:lastmodified":1472623073,
+    "wof:lastmodified":1534186057,
     "wof:name":"Sears Dental Castleton Square",
     "wof:parent_id":85853685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806981807
+    ],
     "wof:tags":[
         "orthodontist"
     ]

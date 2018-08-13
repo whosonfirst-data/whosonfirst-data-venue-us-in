@@ -7,6 +7,7 @@
     "addr:postcode":"46203",
     "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.081588,39.705603,-86.081588,39.705603",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.081588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5342 Elmwood Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599784,
-    "wof:geomhash":"44d93d5e7ec65f4e7e81ce8042b6c524",
+    "wof:geomhash":"939f49fd3a15a9a473e3fec90271334c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":806636145,
-    "wof:lastmodified":1472622699,
+    "wof:lastmodified":1534186056,
     "wof:name":"Kent Auto Upholstery",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806900527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

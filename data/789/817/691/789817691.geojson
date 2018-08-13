@@ -14,6 +14,7 @@
     "geom:longitude":-86.423724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4850 N Mount Gilead Rd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590770,
-    "wof:geomhash":"a0367c0a1c5b4fdb30551c1a6945092d",
+    "wof:geomhash":"903e1e0d90021b56534908f26cedb978",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":789817691,
-    "wof:lastmodified":1472622668,
+    "wof:lastmodified":1534186054,
     "wof:name":"Herndon Electric Co",
     "wof:parent_id":85816979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807082981
+    ],
     "wof:tags":[
         "electric",
         "contractor"

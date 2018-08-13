@@ -7,6 +7,7 @@
     "addr:postcode":"47501",
     "addr:street":"E National Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-87.158274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1450 E National Hwy",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"08efe210398eb57c561c57535bd46e88",
     "wof:hierarchy":[],
     "wof:id":806833171,
-    "wof:lastmodified":1512142921,
+    "wof:lastmodified":1534186052,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790060771
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

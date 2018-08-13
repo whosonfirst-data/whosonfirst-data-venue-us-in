@@ -7,6 +7,7 @@
     "addr:postcode":"46534",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.623888,41.298373,-86.623888,41.298373",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.623888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 W Washington St",
     "sg:city":"Knox",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1wGPwZrrscHWVXSSxCZZEH_41.298373_-86.623888@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d14d2a64d01d5cee121727baaef3c70",
+    "wof:geomhash":"27239a397e2910b4b240ba31d7c1f316",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":336882279,
-    "wof:lastmodified":1472622399,
+    "wof:lastmodified":1534186054,
     "wof:name":"Knox Center Township Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773241355
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "department",

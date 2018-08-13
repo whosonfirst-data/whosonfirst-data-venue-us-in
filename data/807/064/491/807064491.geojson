@@ -7,6 +7,7 @@
     "addr:postcode":"47401",
     "addr:street":"S Clarizz Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496498,39.135899,-86.496498,39.135899",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.496498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"487 S Clarizz Blvd",
     "sg:city":"Bloomington",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603404,
-    "wof:geomhash":"9d35865ed31124204b62530e404bc203",
+    "wof:geomhash":"e5d867918e70c0a35e350e93ff66373b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807064491,
-    "wof:lastmodified":1472622410,
+    "wof:lastmodified":1534186055,
     "wof:name":"Pickens Cindy Oswalt Rl Est",
     "wof:parent_id":85844535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807068063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

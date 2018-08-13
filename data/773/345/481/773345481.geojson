@@ -7,6 +7,7 @@
     "addr:postcode":"46203",
     "addr:street":"S Emerson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.082404,39.69969,-86.082404,39.69969",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.082404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4955 S Emerson Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585015,
-    "wof:geomhash":"6a81f34f56a6bee2d3cdfa68a70007a6",
+    "wof:geomhash":"3ba66904f15f45f79be46920490a97c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773345481,
-    "wof:lastmodified":1472623095,
+    "wof:lastmodified":1534186056,
     "wof:name":"El Puerto",
     "wof:parent_id":85819469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806900961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

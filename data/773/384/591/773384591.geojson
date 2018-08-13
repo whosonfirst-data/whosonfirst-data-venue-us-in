@@ -7,6 +7,7 @@
     "addr:postcode":"46321",
     "addr:street":"Calumet Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.508961,41.543176,-87.508961,41.543176",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.508961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9307 Calumet Ave",
     "sg:city":"Munster",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585287,
-    "wof:geomhash":"ab858fe866f2ea8a24eeb0fc8b418fde",
+    "wof:geomhash":"8aeebd592af61cb4be6bb8a6e0722ff1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773384591,
-    "wof:lastmodified":1472623108,
+    "wof:lastmodified":1534186054,
     "wof:name":"Nitin Sardesai MD",
     "wof:parent_id":85833061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807030735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

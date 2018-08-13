@@ -2,18 +2,24 @@
   "id": 773677049,
   "type": "Feature",
   "properties": {
-    "addr:full":"721 S Main St Elkhart IN 46516",
+    "addr:city":"Elkhart",
+    "addr:full":"721 S Main St Elkhart, In 46516",
+    "addr:house_number":"721",
     "addr:housenumber":"721",
+    "addr:phone":"+1 574-294-3001",
     "addr:postcode":"46516",
+    "addr:road":"S Main St",
+    "addr:state":"IN",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.969783,41.680845,-85.969783,41.680845",
-    "geom:latitude":41.680845,
-    "geom:longitude":-85.969783,
+    "geom:bbox":"-85.96968,41.68075,-85.96968,41.68075",
+    "geom:latitude":41.68075,
+    "geom:longitude":-85.96968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"721 S Main St",
     "sg:city":"Elkhart",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 574 294 3001",
     "sg:postcode":"46516",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528253,
+        102530289
+    ],
     "wof:belongsto":[
         85823045,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800046,
         "sg:id":"SG_1F8xTQKq2DhEWkGbniaRox_41.680845_-85.969783@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587515,
-    "wof:geomhash":"19004ba4f1c82256d221a3501e5d5659",
+    "wof:geomhash":"bbe23aef8c8898d4e9cef8b9f1c1daf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":773677049,
-    "wof:lastmodified":1472623195,
-    "wof:name":"National New York Cntrl Museum",
+    "wof:lastmodified":1534186058,
+    "wof:name":"National New York Control Museum",
     "wof:parent_id":85823045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.969783,
-    41.680845,
-    -85.969783,
-    41.680845
+    -85.96968,
+    41.68075,
+    -85.96968,
+    41.68075
 ],
-  "geometry": {"coordinates":[-85.96978300000001,41.680845],"type":"Point"}
+  "geometry": {"coordinates":[-85.96968,41.68075],"type":"Point"}
 }

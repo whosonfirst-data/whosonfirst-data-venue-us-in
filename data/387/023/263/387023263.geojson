@@ -14,6 +14,7 @@
     "geom:longitude":-86.044702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8075 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_07rk5M91rBu3BV2aAvCGy2_39.903644_-86.044702@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6407723a9328897b554f1ce99a17f95",
+    "wof:geomhash":"f7cad9c71dde8d4af9796100fbbe84ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":387023263,
-    "wof:lastmodified":1472622265,
+    "wof:lastmodified":1534186052,
     "wof:name":"Cardiac & Vascular Surgery",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806985271
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

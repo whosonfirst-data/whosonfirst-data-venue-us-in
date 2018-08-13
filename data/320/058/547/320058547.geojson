@@ -15,6 +15,7 @@
     "geom:longitude":-86.120324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8440 Woodfield Crossing Blvd",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
         "sg:id":"SG_4i24r6RWwMTQZv5yGfq8f9_39.910172_-86.120324@1294102998"
     },
     "wof:country":"US",
-    "wof:geomhash":"20ca6d10bca4845146b62f5910848e88",
+    "wof:geomhash":"5329bf377b31244c0b28fb0be1e57514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":320058547,
-    "wof:lastmodified":1491885531,
+    "wof:lastmodified":1534186051,
     "wof:name":"Cox & Sargeant",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806962829
+    ],
     "wof:tags":[
         "attorney"
     ]

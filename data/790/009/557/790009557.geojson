@@ -2,18 +2,24 @@
   "id": 790009557,
   "type": "Feature",
   "properties": {
-    "addr:full":"559 Locust St Middletown IN 47356",
+    "addr:city":"Middletown",
+    "addr:full":"559 Locust St Middletown, In 47356",
+    "addr:house_number":"559",
     "addr:housenumber":"559",
+    "addr:phone":"+1 765-354-2000",
     "addr:postcode":"47356",
+    "addr:road":"Locust St",
+    "addr:state":"IN",
     "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.534734,40.054145,-85.534734,40.054145",
-    "geom:latitude":40.054145,
-    "geom:longitude":-85.534734,
+    "geom:bbox":"-85.5307,40.04518,-85.5307,40.04518",
+    "geom:latitude":40.04518,
+    "geom:longitude":-85.5307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"559 Locust St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 765 354 2000",
     "sg:postcode":"47356",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531929
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800052,
         "sg:id":"SG_3SYoBITINSWZaKKizKVEhT_40.054145_-85.534734@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462592404,
-    "wof:geomhash":"7897dff90079f287f9999039ba603afd",
+    "wof:geomhash":"3f4ef21af4ed366c628743a4993ab728",
     "wof:hierarchy":[],
     "wof:id":790009557,
-    "wof:lastmodified":1472622277,
-    "wof:name":"Middletown Fall Creek Twnshp",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Middletown-Fall Creek Twnshp Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.534734,
-    40.054145,
-    -85.534734,
-    40.054145
+    -85.5307,
+    40.04518,
+    -85.5307,
+    40.04518
 ],
-  "geometry": {"coordinates":[-85.534734,40.054145],"type":"Point"}
+  "geometry": {"coordinates":[-85.5307,40.04518],"type":"Point"}
 }

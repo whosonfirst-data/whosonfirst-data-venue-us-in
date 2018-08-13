@@ -7,6 +7,7 @@
     "addr:postcode":"46240",
     "addr:street":"Keystone Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.109596,39.9133,-86.109596,39.9133",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.109596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8702 Keystone Xing",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602520,
-    "wof:geomhash":"3252903f0cd93d4966ab2a660753aa6f",
+    "wof:geomhash":"3d5b2884bf89afa11b9a63db6f19f234",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":806959385,
-    "wof:lastmodified":1472623062,
+    "wof:lastmodified":1534186052,
     "wof:name":"Bebe Inc",
     "wof:parent_id":85870669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790042945
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

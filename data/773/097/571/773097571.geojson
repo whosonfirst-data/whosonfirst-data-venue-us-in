@@ -2,18 +2,24 @@
   "id": 773097571,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 W Main St Thorntown IN 46071",
+    "addr:city":"Thorntown",
+    "addr:full":"120 W Main St Thorntown, In 46071",
+    "addr:house_number":"120",
     "addr:housenumber":"120",
+    "addr:phone":"+1 765-436-2202",
     "addr:postcode":"46071",
+    "addr:road":"W Main St",
+    "addr:state":"IN",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.607002,40.129475,-86.607002,40.129475",
-    "geom:latitude":40.129475,
-    "geom:longitude":-86.607002,
+    "geom:bbox":"-86.60663,40.12949,-86.60663,40.12949",
+    "geom:latitude":40.12949,
+    "geom:longitude":-86.60663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"120 W Main St",
     "sg:city":"Thorntown",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 765 436 2202",
     "sg:postcode":"46071",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688709,
+        85807195,
         85633793,
         85941741,
         102086453,
-        85807195
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800010,
         "sg:id":"SG_57PHpD8ohsq6EgpFpZbJ2c_40.129475_-86.607002@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462583136,
-    "wof:geomhash":"60f6c5dc796a3ed0065d72b331fb431c",
+    "wof:geomhash":"ef9ebc63ced97c9f797b9e2570cd137a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":773097571,
-    "wof:lastmodified":1472622698,
+    "wof:lastmodified":1534186053,
     "wof:name":"Thorntown Heritage Museum",
     "wof:parent_id":85807195,
     "wof:placetype":"venue",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.607002,
-    40.129475,
-    -86.607002,
-    40.129475
+    -86.60663,
+    40.12949,
+    -86.60663,
+    40.12949
 ],
-  "geometry": {"coordinates":[-86.60700199999999,40.129475],"type":"Point"}
+  "geometry": {"coordinates":[-86.60663,40.12949],"type":"Point"}
 }

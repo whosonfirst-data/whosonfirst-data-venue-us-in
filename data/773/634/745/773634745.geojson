@@ -2,18 +2,24 @@
   "id": 773634745,
   "type": "Feature",
   "properties": {
-    "addr:full":"14687 Main St Moores Hill IN 47032",
+    "addr:city":"Moores Hill",
+    "addr:full":"14687 Main St Moores Hill, In 47032",
+    "addr:house_number":"14687",
     "addr:housenumber":"14687",
+    "addr:phone":"+1 812-744-4015",
     "addr:postcode":"47032",
+    "addr:road":"Main St",
+    "addr:state":"IN",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.091932,39.113035,-85.091932,39.113035",
-    "geom:latitude":39.113035,
-    "geom:longitude":-85.091932,
+    "geom:bbox":"-85.0896,39.11297,-85.0896,39.11297",
+    "geom:latitude":39.11297,
+    "geom:longitude":-85.0896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"14687 Main St",
     "sg:city":"Moores Hill",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688709,
+        102087067,
         85633793,
-        85857149,
-        102087067
+        85688709,
+        85857149
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800441,
         "sg:id":"SG_1giOnbv4DiBTQbgXLDaLQQ_39.113035_-85.091932@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587207,
-    "wof:geomhash":"d97fc43b03fda47ab5800a331e621efc",
+    "wof:geomhash":"21f1266b396b27ed31aacba75d17901f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +62,8 @@
         }
     ],
     "wof:id":773634745,
-    "wof:lastmodified":1472623188,
-    "wof:name":"Carnegie Historical Landmarks",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Carnegie Historic Landmark Preservation Society",
     "wof:parent_id":85857149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -66,10 +74,10 @@
     ]
 },
   "bbox": [
-    -85.091932,
-    39.113035,
-    -85.091932,
-    39.113035
+    -85.0896,
+    39.11297,
+    -85.0896,
+    39.11297
 ],
-  "geometry": {"coordinates":[-85.091932,39.113035],"type":"Point"}
+  "geometry": {"coordinates":[-85.0896,39.11297],"type":"Point"}
 }

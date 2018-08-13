@@ -7,6 +7,7 @@
     "addr:postcode":"47130",
     "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.726534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1710 E 10th St",
     "sg:city":"Jeffersonville",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":773370771,
-    "wof:lastmodified":1511323097,
+    "wof:lastmodified":1534186055,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85842775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806827631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

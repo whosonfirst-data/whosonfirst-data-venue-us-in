@@ -7,6 +7,7 @@
     "addr:postcode":"47240",
     "addr:street":"N State Rd 3",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.479664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2015 N State Rd 3",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,12 +43,14 @@
     "wof:geomhash":"656d8ca8273e4ba3ed667ebbae3de87f",
     "wof:hierarchy":[],
     "wof:id":790413225,
-    "wof:lastmodified":1511322506,
+    "wof:lastmodified":1534186055,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806829191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"47348",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.36844,40.45133,-85.36844,40.45133",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.36844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 W Washington St",
     "sg:city":"Hartford City",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462587982,
-    "wof:geomhash":"9a0adfe62004175e0800ccdd71125c94",
+    "wof:geomhash":"06e96b3984d4f712d01178c5a24c60a3",
     "wof:hierarchy":[],
     "wof:id":773734325,
-    "wof:lastmodified":1472623214,
+    "wof:lastmodified":1534186054,
     "wof:name":"Veterans' Affairs Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790249595
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

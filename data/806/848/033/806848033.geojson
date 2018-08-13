@@ -7,6 +7,7 @@
     "addr:postcode":"46032",
     "addr:street":"W Carmel Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.149162,39.96984,-86.149162,39.96984",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.149162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1185 W Carmel Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601587,
-    "wof:geomhash":"2283d0b3bbeee5cadb3f39572981ba4e",
+    "wof:geomhash":"3337d60c97ff60d8e3fe2fd70b5d0a41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":806848033,
-    "wof:lastmodified":1472622949,
+    "wof:lastmodified":1534186055,
     "wof:name":"Nukes Theodore A",
     "wof:parent_id":420519521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806848655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

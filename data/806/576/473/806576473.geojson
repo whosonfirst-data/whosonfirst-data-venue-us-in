@@ -14,6 +14,7 @@
     "geom:longitude":-86.013563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 S 9th St",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599282,
-    "wof:geomhash":"fac99858d2dc503a3fec54b71aea2e46",
+    "wof:geomhash":"ebedeea4b1d50d87ba41d272f3c72f19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806576473,
-    "wof:lastmodified":1472622621,
+    "wof:lastmodified":1534186054,
     "wof:name":"Noblesville City Court",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773590233
+    ],
     "wof:tags":[
         "city"
     ]

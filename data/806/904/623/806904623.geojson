@@ -2,18 +2,23 @@
   "id": 806904623,
   "type": "Feature",
   "properties": {
-    "addr:full":"650 W Washington St Indianapolis IN 46204",
+    "addr:city":"Indianapolis",
+    "addr:full":"650 West Washington Street Indianapolis, In 46204-2185",
+    "addr:house_number":"650",
     "addr:housenumber":"650",
-    "addr:postcode":"46204",
+    "addr:postcode":"46204-2185",
+    "addr:road":"West Washington Street",
+    "addr:state":"IN",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.168671,39.767311,-86.168671,39.767311",
-    "geom:latitude":39.767311,
-    "geom:longitude":-86.168671,
+    "geom:bbox":"-86.16946,39.76713,-86.16946,39.76713",
+    "geom:latitude":39.76713,
+    "geom:longitude":-86.16946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"650 W Washington St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -33,7 +38,10 @@
         "conservation"
     ],
     "sg:website":"http://www.indianatraveler.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534155
+    ],
     "wof:belongsto":[
         85891135,
         102191575,
@@ -45,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500543,
         "sg:id":"SG_0TSval90jhNikRrhn0HBJv_39.767311_-86.168671@1303262763"
     },
     "wof:country":"US",
     "wof:created":1462602044,
-    "wof:geomhash":"4546f351cf9346c8adf51d33306d08ad",
+    "wof:geomhash":"8a059d09e5838068a516625bdc4e8e97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":806904623,
-    "wof:lastmodified":1472623035,
-    "wof:name":"Ind St Museum/Historic Sites",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Indiana State Museum And Historic Sites",
     "wof:parent_id":85891135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -77,10 +86,10 @@
     ]
 },
   "bbox": [
-    -86.168671,
-    39.767311,
-    -86.168671,
-    39.767311
+    -86.16946,
+    39.76713,
+    -86.16946,
+    39.76713
 ],
-  "geometry": {"coordinates":[-86.168671,39.767311],"type":"Point"}
+  "geometry": {"coordinates":[-86.16946,39.76713],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"46220",
     "addr:street":"N New Jersey St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.151414,39.861594,-86.151414,39.861594",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.151414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5868 N New Jersey St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602245,
-    "wof:geomhash":"9c04292850cd91710c108d391c1aecf1",
+    "wof:geomhash":"231e7e4fc4a0f411661183785fbd0059",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":806926589,
-    "wof:lastmodified":1472623046,
+    "wof:lastmodified":1534186056,
     "wof:name":"Anodizing Technologies, Incorporated",
     "wof:parent_id":85855019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806929701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "anodizing"

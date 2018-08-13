@@ -2,17 +2,22 @@
   "id": 773361301,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 E Main St Fort Wayne IN 46802",
+    "addr:city":"Fort Wayne",
+    "addr:full":"311 E Main St Fort Wayne, In 46802-1907",
+    "addr:house_number":"311",
     "addr:housenumber":"311",
-    "addr:postcode":"46802",
+    "addr:phone":"+1 260-422-6467",
+    "addr:postcode":"46802-1907",
+    "addr:road":"E Main St",
+    "addr:state":"IN",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.13522,41.081078,-85.13522,41.081078",
-    "geom:latitude":41.081078,
-    "geom:longitude":-85.13522,
+    "geom:bbox":"-85.13687,41.08084,-85.13687,41.08084",
+    "geom:latitude":41.08084,
+    "geom:longitude":-85.13687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,11 @@
     "sg:postcode":"46802",
     "sg:province":"IN",
     "sg:website":"www.fwmoa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526669,
+        102528551
+    ],
     "wof:belongsto":[
         85877543,
         102191575,
@@ -42,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800353,
         "osm:way":121321162,
         "sg:id":"SG_6c5HCkF0l8rQ9g4OGcJ3YT_41.081078_-85.135220@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462585122,
-    "wof:geomhash":"9851ab3945d7b7cb8c2c74a82e090d87",
+    "wof:geomhash":"8718cdb2b3e9cbbbd6118a8d001ec0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":773361301,
-    "wof:lastmodified":1510942211,
+    "wof:lastmodified":1534186058,
     "wof:name":"Fort Wayne Museum Of Art",
     "wof:parent_id":85877543,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.13522,
-    41.081078,
-    -85.13522,
-    41.081078
+    -85.13687,
+    41.08084,
+    -85.13687,
+    41.08084
 ],
-  "geometry": {"coordinates":[-85.13522,41.081078],"type":"Point"}
+  "geometry": {"coordinates":[-85.13687,41.08084],"type":"Point"}
 }

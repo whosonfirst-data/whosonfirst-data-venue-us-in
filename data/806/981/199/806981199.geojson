@@ -14,6 +14,7 @@
     "geom:longitude":-86.044502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8075 N Shadeland Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602700,
-    "wof:geomhash":"a139e4d5978ef502f9e0a6489c91cb4e",
+    "wof:geomhash":"d5a91659e442e3c2856ceb8e08152c90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806981199,
-    "wof:lastmodified":1472623069,
+    "wof:lastmodified":1534186057,
     "wof:name":"Indiana Heart Associates PC",
     "wof:parent_id":85809779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790382701
+    ],
     "wof:tags":[
         "cardiologist"
     ]

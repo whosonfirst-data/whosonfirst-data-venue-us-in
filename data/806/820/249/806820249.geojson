@@ -7,6 +7,7 @@
     "addr:postcode":"46635",
     "addr:street":"N Ironwood Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.216509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1519 N Ironwood Dr",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"0b8a7422cbb87cf9a7e5ebde5d28c2e0",
     "wof:hierarchy":[],
     "wof:id":806820249,
-    "wof:lastmodified":1512142997,
+    "wof:lastmodified":1534186053,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790147769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

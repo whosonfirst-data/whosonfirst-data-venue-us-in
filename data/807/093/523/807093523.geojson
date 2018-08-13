@@ -7,6 +7,7 @@
     "addr:postcode":"47715",
     "addr:street":"E Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.455541,37.977928,-87.455541,37.977928",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.455541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8005 E Division St",
     "sg:city":"Evansville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603649,
-    "wof:geomhash":"9706d4ecb2e60966f00e9db0bc9938c7",
+    "wof:geomhash":"3bd5f1cb8eeb6fbf2e8d236ba0f35dce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807093523,
-    "wof:lastmodified":1472622476,
+    "wof:lastmodified":1534186056,
     "wof:name":"Baymont Inn",
     "wof:parent_id":85877319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790620495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

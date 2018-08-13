@@ -2,18 +2,24 @@
   "id": 773709105,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 W Jefferson Blvd South Bend IN 46601",
+    "addr:city":"South Bend",
+    "addr:full":"111 W Jefferson Blvd South Bend, In 46601",
+    "addr:house_number":"111",
     "addr:housenumber":"111",
+    "addr:phone":"+1 574-647-5437",
     "addr:postcode":"46601",
+    "addr:road":"W Jefferson Blvd",
+    "addr:state":"IN",
     "addr:street":"W Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.250839,41.675098,-86.250839,41.675098",
-    "geom:latitude":41.675098,
-    "geom:longitude":-86.250839,
+    "geom:bbox":"-86.25092,41.67511,-86.25092,41.67511",
+    "geom:latitude":41.67511,
+    "geom:longitude":-86.25092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"111 W Jefferson Blvd",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 574 287 5437",
     "sg:postcode":"46601",
     "sg:province":"IN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531095
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800092,
         "sg:id":"SG_76iqhNdtGrhUDTM7ZWGJYP_41.675098_-86.250839@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462587797,
-    "wof:geomhash":"bb6ec68fade52e2dd343675a518337fd",
+    "wof:geomhash":"eb1a2aff6dcb296061223c4e721f0c8f",
     "wof:hierarchy":[],
     "wof:id":773709105,
-    "wof:lastmodified":1472623206,
+    "wof:lastmodified":1534186058,
     "wof:name":"Healthworks Kids' Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.250839,
-    41.675098,
-    -86.250839,
-    41.675098
+    -86.25092,
+    41.67511,
+    -86.25092,
+    41.67511
 ],
-  "geometry": {"coordinates":[-86.250839,41.675098],"type":"Point"}
+  "geometry": {"coordinates":[-86.25091999999999,41.67511],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"46062",
     "addr:street":"River Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.028099,40.050237,-86.028099,40.050237",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.028099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18051 River Ave",
     "sg:city":"Noblesville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601829,
-    "wof:geomhash":"26e3f89d0e4a6f8b48df34acb589ceec",
+    "wof:geomhash":"2b119cc31d716865bcf6f36cfd2d6998",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806877303,
-    "wof:lastmodified":1472622980,
+    "wof:lastmodified":1534186053,
     "wof:name":"Rivercross Orthopaedics & Sports Medicine",
     "wof:parent_id":85856019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790190929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"

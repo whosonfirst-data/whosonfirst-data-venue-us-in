@@ -7,6 +7,7 @@
     "addr:postcode":"47274",
     "addr:street":"Stevens Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.837624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"427 Stevens Way",
     "sg:city":"Seymour",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":806829681,
-    "wof:lastmodified":1512142921,
+    "wof:lastmodified":1534186054,
     "wof:name":"McDonald's",
     "wof:parent_id":85851577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790228225
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

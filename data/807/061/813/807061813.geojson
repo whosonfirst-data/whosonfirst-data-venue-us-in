@@ -7,6 +7,7 @@
     "addr:postcode":"47163",
     "addr:street":"Old State Road 3 Otisco",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.686302,38.532398,-85.686302,38.532398",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.686302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7001 Old State Road 3",
     "sg:city":"Otisco",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462603385,
-    "wof:geomhash":"a5dc01be321f8d06763af1aed834d3d3",
+    "wof:geomhash":"bdd4a51f0dc513ecc1a1a9efc6da7557",
     "wof:hierarchy":[],
     "wof:id":807061813,
-    "wof:lastmodified":1472622410,
+    "wof:lastmodified":1534186053,
     "wof:name":"H & B Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790142709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

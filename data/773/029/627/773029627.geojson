@@ -14,6 +14,7 @@
     "geom:longitude":-86.058998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6330 E 75th St",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582563,
-    "wof:geomhash":"e38415f2277e55aa03a6e259ae37e8a2",
+    "wof:geomhash":"30bb74256843562c2d7f687712d34ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":773029627,
-    "wof:lastmodified":1472622431,
+    "wof:lastmodified":1534186052,
     "wof:name":"Sundquist Co",
     "wof:parent_id":85814417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806984419
+    ],
     "wof:tags":[
         "cooling",
         "tower"

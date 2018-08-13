@@ -7,6 +7,7 @@
     "addr:postcode":"46307",
     "addr:street":"E North",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-87.3479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1640 E North",
     "sg:city":"Crown Point",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603039,
-    "wof:geomhash":"69ec65940ed19fad38850b7e1c333812",
+    "wof:geomhash":"8eeb66a2911aa6c845daee945a1809ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":807020099,
-    "wof:lastmodified":1492102412,
+    "wof:lastmodified":1534186052,
     "wof:name":"Neises Robert Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789651331
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

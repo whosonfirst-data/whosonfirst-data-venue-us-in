@@ -2,18 +2,23 @@
   "id": 789816175,
   "type": "Feature",
   "properties": {
-    "addr:full":"1436 Leopold St Jasper IN 47546",
+    "addr:city":"Jasper",
+    "addr:full":"1436 Leopold St Jasper, In 47546-2117",
+    "addr:house_number":"1436",
     "addr:housenumber":"1436",
-    "addr:postcode":"47546",
+    "addr:postcode":"47546-2117",
+    "addr:road":"Leopold St",
+    "addr:state":"IN",
     "addr:street":"Leopold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.924926,38.399593,-86.924926,38.399593",
-    "geom:latitude":38.399593,
-    "geom:longitude":-86.924926,
+    "geom:bbox":"-86.9249,38.39895,-86.9249,38.39895",
+    "geom:latitude":38.39895,
+    "geom:longitude":-86.9249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1436 Leopold St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -30,19 +35,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533969
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800401,
         "sg:id":"SG_0v9x8HT8aiIWOHvt0DlPMU_38.399593_-86.924926@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462590760,
-    "wof:geomhash":"3d6699e6a641fdc9fc0ba7567bedd8da",
+    "wof:geomhash":"557a2d117416a42104b35dddf9f73224",
     "wof:hierarchy":[],
     "wof:id":789816175,
-    "wof:lastmodified":1472622656,
-    "wof:name":"Indiana Baseball Hall of Fame",
+    "wof:lastmodified":1534186054,
+    "wof:name":"Indiana Baseball Hall Of Fame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -53,10 +62,10 @@
     ]
 },
   "bbox": [
-    -86.924926,
-    38.399593,
-    -86.924926,
-    38.399593
+    -86.9249,
+    38.39895,
+    -86.9249,
+    38.39895
 ],
-  "geometry": {"coordinates":[-86.924926,38.399593],"type":"Point"}
+  "geometry": {"coordinates":[-86.92489999999999,38.39895],"type":"Point"}
 }

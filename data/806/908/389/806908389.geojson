@@ -14,6 +14,7 @@
     "geom:longitude":-86.157504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Monument Cir",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -62,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602079,
-    "wof:geomhash":"74f85095f231020eb1084535f9dd3005",
+    "wof:geomhash":"6309b716e334781de529933711e2a076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +77,15 @@
         }
     ],
     "wof:id":806908389,
-    "wof:lastmodified":1472623037,
+    "wof:lastmodified":1534186056,
     "wof:name":"Studio 2000 Salon & Day Spa",
     "wof:parent_id":85870631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806669409
+    ],
     "wof:tags":[
         "therapist"
     ]

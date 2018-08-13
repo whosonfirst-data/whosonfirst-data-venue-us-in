@@ -2,18 +2,24 @@
   "id": 789922879,
   "type": "Feature",
   "properties": {
-    "addr:full":"808 W Washington St South Bend IN 46601",
+    "addr:city":"South Bend",
+    "addr:full":"808 W Washington South Bend, In 46601",
+    "addr:house_number":"808",
     "addr:housenumber":"808",
+    "addr:phone":"+1 219-235-9664",
     "addr:postcode":"46601",
+    "addr:road":"W Washington",
+    "addr:state":"IN",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.262155,41.676203,-86.262155,41.676203",
-    "geom:latitude":41.676203,
-    "geom:longitude":-86.262155,
+    "geom:bbox":"-86.26152,41.67619,-86.26152,41.67619",
+    "geom:latitude":41.67619,
+    "geom:longitude":-86.26152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"808 W Washington St",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:postcode":"46601",
     "sg:province":"IN",
     "sg:website":"www.centerforhistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531095
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401800110,
         "sg:id":"SG_5Dex824QIYrgsDEsJ9SZdU_41.676203_-86.262155@1294102998"
     },
     "wof:country":"US",
     "wof:created":1462591648,
-    "wof:geomhash":"cb6d8d5379c19346889e29b0f8d77dc3",
+    "wof:geomhash":"8a5aade4fb8305a8dee21a3a2e8eab30",
     "wof:hierarchy":[],
     "wof:id":789922879,
-    "wof:lastmodified":1472622782,
-    "wof:name":"Copshaholm Museum",
+    "wof:lastmodified":1534186058,
+    "wof:name":"Copshaholm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.262155,
-    41.676203,
-    -86.262155,
-    41.676203
+    -86.26152,
+    41.67619,
+    -86.26152,
+    41.67619
 ],
-  "geometry": {"coordinates":[-86.26215500000001,41.676203],"type":"Point"}
+  "geometry": {"coordinates":[-86.26152,41.67619],"type":"Point"}
 }

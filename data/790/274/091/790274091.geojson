@@ -14,6 +14,7 @@
     "geom:longitude":-86.073875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 N Ritter Ave",
     "sg:city":"Indianapolis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594538,
-    "wof:geomhash":"0c85ac72ad23037a60483c61324c4b8e",
+    "wof:geomhash":"e62a2e2574bd5eef0a14fbd77798d87f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":790274091,
-    "wof:lastmodified":1472622681,
+    "wof:lastmodified":1534186054,
     "wof:name":"Gastroenterology Assoc East",
     "wof:parent_id":85827099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806924641
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

@@ -7,6 +7,7 @@
     "addr:postcode":"47905",
     "addr:street":"Sagamore Pkwy S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.853267,40.3916,-86.853267,40.3916",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.853267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2525 Sagamore Pkwy S",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600900,
-    "wof:geomhash":"f40a3e83e3a66caefd4c0b1ab0d982c4",
+    "wof:geomhash":"edfeb7dd3e2db98ac105d689fd857ac7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":806766671,
-    "wof:lastmodified":1472622884,
+    "wof:lastmodified":1534186055,
     "wof:name":"Pepe's Mexican Restaurants",
     "wof:parent_id":85851899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806837089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
